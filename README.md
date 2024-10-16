@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Since spring of 2023, the world has been warmer than climate models anticipated](https://e360.yale.edu/features/gavin-schmidt-interview)
+- [Can&#39;t trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
+- [European Road Safety Orgs Are Terrified of the Cybertruck](https://gizmodo.com/european-road-safety-orgs-are-terrified-of-the-cybertruck-2000512122)
+- [Mullvad VPN: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
-- [Medical student&#39;s apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- [The richest people borrow against their stock &lpar;2021&rpar;](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
