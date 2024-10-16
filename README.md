@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let Google Decide](https://cupofsquid.com/post/not-real/)
-- [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
+- [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
+- [Let Google decide](https://cupofsquid.com/post/not-real/)
 - [Medical student&#39;s apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
+- [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 - [The richest people borrow against their stock &lpar;2021&rpar;](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
-- [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
