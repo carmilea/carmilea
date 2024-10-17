@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
+- [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
+- [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 - [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
-- [SingleStore Now 2024: Building Multi-Agent RAG Systems with LlamaIndex](https://www.singlestore.com/blog/singlestore-now-2024-building-multi-agent-rag-systems-with-llamaindex)
-- [Crokinole](https://pudding.cool/2024/10/crokinole/)
-- [SingleStore Now 2024: SAS + SingleStore — Enterprise AI at Scale](https://www.singlestore.com/blog/singlestore-now-2024-sas-singlestore)
-- [SingleStore Now 2024: Fireside Chat with SingleStore + Outreach](https://www.singlestore.com/blog/singlestore-now-2024-fireside-chat-with-singlestore-outreach)
+- [Ask HN: Why is there not more concern about the physical security of Cloudflare?](https://news.ycombinator.com/item?id=41871499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
