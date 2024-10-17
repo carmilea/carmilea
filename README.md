@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
-- [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
+- [Easily Self-Host Next.js](https://quicky.dev)
 - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
 - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
