@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Prompt&lpar;&rpar; Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
 - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
 - [SingleStore Now 2024: Building a Real-Time NBA Analytics App With Next.js](https://www.singlestore.com/blog/singlestore-now-2024-building-a-real-time-nba-analytics-app-with-next-js)
-- [Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
