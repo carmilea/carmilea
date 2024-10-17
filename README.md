@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SingleStore Now 2024: Enterprise AI with Amazon Bedrock](https://www.singlestore.com/blog/singlestore-now-2024-enterprise-ai-with-amazon-bedrock)
-- [I&#39;m Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
-- [SingleStore Now 2024: Snowflake + SingleStore: Better Together](https://www.singlestore.com/blog/singlestore-now-2024-snowflake-singlestore-better-together)
-- [SingleStore Now 2024: What’s New in SingleStore: Product Features, Release Announcement and Fireside Chat with Adobe: AI in Production](https://www.singlestore.com/blog/singlestore-now-2024-new-in-singlestore)
-- [SingleStore Now 2024: Natively Engineered for AI](https://www.singlestore.com/blog/singlestore-now-2024-natively-engineered-for-ai)
+- [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
+- [SingleStore Now 2024: Building Multi-Agent RAG Systems with LlamaIndex](https://www.singlestore.com/blog/singlestore-now-2024-building-multi-agent-rag-systems-with-llamaindex)
+- [Crokinole](https://pudding.cool/2024/10/crokinole/)
+- [SingleStore Now 2024: SAS + SingleStore — Enterprise AI at Scale](https://www.singlestore.com/blog/singlestore-now-2024-sas-singlestore)
+- [SingleStore Now 2024: Fireside Chat with SingleStore + Outreach](https://www.singlestore.com/blog/singlestore-now-2024-fireside-chat-with-singlestore-outreach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
