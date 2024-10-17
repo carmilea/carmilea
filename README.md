@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 - [Optery &lpar;YC W22&rpar; Is Hiring Product Manager and Full Stack Developer &lpar;Node.js&rpar;](https://www.ycombinator.com/companies/optery/jobs)
 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 - [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
 - [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
-- [A CLI tool for management of Next.js applications](https://quicky.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
