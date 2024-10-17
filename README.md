@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
 - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
 - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
 - [Reflex &lpar;YC W23&rpar; Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 - [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
-- [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
