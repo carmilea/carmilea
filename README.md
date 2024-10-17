@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
+- [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
 - [SingleStore Now 2024: Building a Real-Time NBA Analytics App With Next.js](https://www.singlestore.com/blog/singlestore-now-2024-building-a-real-time-nba-analytics-app-with-next-js)
-- [SingleStore Now 2024: Building the World’s Largest Identity Graph — Without a Graph Database](https://www.singlestore.com/blog/singlestore-now-2024-building-the-worlds-largest-identity-graph)
-- [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
-- [SingleStore Now 2024: AI with SingleStore, IBM StreamSets and watsonx.ai](https://www.singlestore.com/blog/singlestore-now-2024-ai-with-singlestore-ibm)
+- [Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
