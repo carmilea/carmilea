@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SingleStore Now 2024: Natively Engineered for AI](https://www.singlestore.com/blog/singlestore-now-2024-natively-engineered-for-ai)
+- [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
+- [Adobe&#39;s new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
+- [UEVR: An Exploration of Advanced Game Hacking Techniques &lpar;2023&rpar;](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
-- [Optery &lpar;YC W22&rpar; Is Hiring Product Manager and Full Stack Developer &lpar;Node.js&rpar;](https://www.ycombinator.com/companies/optery/jobs)
-- [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
-- [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
-- [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
