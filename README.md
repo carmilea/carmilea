@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
+- [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
+- [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
 - [The Prompt&lpar;&rpar; Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
-- [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
-- [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
-- [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
-- [SingleStore Now 2024: Building a Real-Time NBA Analytics App With Next.js](https://www.singlestore.com/blog/singlestore-now-2024-building-a-real-time-nba-analytics-app-with-next-js)
+- [ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones](https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
