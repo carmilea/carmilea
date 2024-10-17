@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UndefinedBehaviorSanitizer&#39;s Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
-- [Easily Self-Host Next.js](https://quicky.dev)
+- [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
+- [A CLI tool for management of Next.js applications](https://quicky.dev)
 - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
-- [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
-- [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
