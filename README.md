@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.12 vs. Python 3.13 – performance testing](https://en.lewoniewski.info/2024/python-3-12-vs-python-3-13-performance-testing/)
+- [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
+- [SingleStore Now 2024: Building a Real-Time NBA Analytics App With Next.js](https://www.singlestore.com/blog/singlestore-now-2024-building-a-real-time-nba-analytics-app-with-next-js)
+- [SingleStore Now 2024: Building the World’s Largest Identity Graph — Without a Graph Database](https://www.singlestore.com/blog/singlestore-now-2024-building-the-worlds-largest-identity-graph)
+- [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
 - [SingleStore Now 2024: AI with SingleStore, IBM StreamSets and watsonx.ai](https://www.singlestore.com/blog/singlestore-now-2024-ai-with-singlestore-ibm)
-- [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
-- [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
-- [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
