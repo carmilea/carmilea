@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SingleStore Now 2024: Enterprise AI with Amazon Bedrock](https://www.singlestore.com/blog/singlestore-now-2024-enterprise-ai-with-amazon-bedrock)
+- [I&#39;m Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
+- [SingleStore Now 2024: Snowflake + SingleStore: Better Together](https://www.singlestore.com/blog/singlestore-now-2024-snowflake-singlestore-better-together)
+- [SingleStore Now 2024: What’s New in SingleStore: Product Features, Release Announcement and Fireside Chat with Adobe: AI in Production](https://www.singlestore.com/blog/singlestore-now-2024-new-in-singlestore)
 - [SingleStore Now 2024: Natively Engineered for AI](https://www.singlestore.com/blog/singlestore-now-2024-natively-engineered-for-ai)
-- [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
-- [Adobe&#39;s new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
-- [UEVR: An Exploration of Advanced Game Hacking Techniques &lpar;2023&rpar;](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
-- [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
