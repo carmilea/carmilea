@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.12 vs. Python 3.13 – performance testing](https://en.lewoniewski.info/2024/python-3-12-vs-python-3-13-performance-testing/)
+- [SingleStore Now 2024: AI with SingleStore, IBM StreamSets and watsonx.ai](https://www.singlestore.com/blog/singlestore-now-2024-ai-with-singlestore-ibm)
 - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
+- [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
 - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
-- [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
-- [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
-- [Ask HN: Why is there not more concern about the physical security of Cloudflare?](https://news.ycombinator.com/item?id=41871499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
