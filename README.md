@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD ROCm Looks Like It Will Be Supporting OpenCL 3.0 Soon](https://www.phoronix.com/news/AMD-ROCm-OpenCL-3.0-Soon)
-- [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
-- [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
-- [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
-- [DHL pioneered the sharing economy &lpar;2016&rpar;](https://www.flexport.com/blog/dhl-bills-of-lading/)
+- [Ricky Mondello » Apple Passwords&#39; Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
+- [Microsoft and OpenAI&#39;s Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
+- [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
+- [Impact of Early Life Adversity on Reward Processing in Young Adults &lpar;2014&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
+- [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
