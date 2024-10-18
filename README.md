@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
-- [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+- [Google Is Cracking Down on Ad Blockers, But Here&#39;s How You Can Fight Back](https://lifehacker.com/tech/google-cracking-down-on-ad-blockers)
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
-- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
+- [DHL pioneered the sharing economy &lpar;2016&rpar;](https://www.flexport.com/blog/dhl-bills-of-lading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
