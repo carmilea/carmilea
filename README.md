@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
+- [Sam Altman&#39;s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
-- [Dolphin Swimming – A Review &lpar;1991&rpar; [pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
