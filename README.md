@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
+- [Frederick Law Olmsted: His Essential Theory &lpar;2000&rpar;](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 - [Ricky Mondello » Apple Passwords&#39; Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
-- [Microsoft and OpenAI&#39;s Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
 - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 - [Impact of Early Life Adversity on Reward Processing in Young Adults &lpar;2014&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
-- [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
