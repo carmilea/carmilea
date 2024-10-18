@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5.6M vacant homes and counting: There&#39;s a housing crisis brewing in the US](https://economictimes.indiatimes.com/news/international/us/5-6-million-vacant-homes-and-counting-there-is-a-massive-housing-crisis-brewing-in-america/articleshow/114329491.cms?from=mdr)
 - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
+- [Dolphin Swimming – A Review &lpar;1991&rpar; [pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
