@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
-- [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)
-- [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
-- [Another burnout post](https://gushogg-blake.com/p/blog-burnout/)
-- [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
+- [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
+- [Subvert – Collectively owned music marketplace](https://subvert.fm/)
+- [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
