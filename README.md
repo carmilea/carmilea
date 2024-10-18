@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 linked to type 2 diabetes onset in children](https://medicalxpress.com/news/2024-10-covid-linked-diabetes-onset-children.html)
-- [The Border Crisis Won&#39;t Be Solved at the Border](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/)
-- [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
-- [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
-- [GPT-4o Jailbroken by saying it is connected to disk with any file on planet](https://twitter.com/mixedenn/status/1847035711985274947)
+- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
+- [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
+- [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
+- [C++ proposal: There are exactly 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
