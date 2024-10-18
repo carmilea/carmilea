@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman&#39;s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
+- [Worldcoin has a new Orb and is now just World](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
+- [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
+- [Beflix &lpar;Bell Labs Flicks&rpar;](https://en.wikipedia.org/wiki/BEFLIX)
 - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-- [Distro &lpar;YC S24&rpar; Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
-- [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
-- [Subvert – Collectively owned music marketplace](https://subvert.fm/)
+- [Distro &lpar;YC S24&rpar; is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
