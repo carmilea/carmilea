@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thank HN: 10 years and $15M ARR later: Thank you](https://news.ycombinator.com/item?id=41877134)
 - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
 - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
+- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
