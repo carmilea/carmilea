@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Distro &lpar;YC S24&rpar; Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
+- [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)
+- [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
+- [Another burnout post](https://gushogg-blake.com/p/blog-burnout/)
 - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
-- [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
-- [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
-- [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
-- [Frederick Law Olmsted: His essential theory &lpar;2000&rpar;](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
