@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Is Cracking Down on Ad Blockers, But Here&#39;s How You Can Fight Back](https://lifehacker.com/tech/google-cracking-down-on-ad-blockers)
+- [AMD ROCm Looks Like It Will Be Supporting OpenCL 3.0 Soon](https://www.phoronix.com/news/AMD-ROCm-OpenCL-3.0-Soon)
+- [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
-- [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
 - [DHL pioneered the sharing economy &lpar;2016&rpar;](https://www.flexport.com/blog/dhl-bills-of-lading/)
 <!-- BLOG-POST-LIST:END -->
 
