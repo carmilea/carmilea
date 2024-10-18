@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kennedy, Merkley introduce bill to end TSA facial recognition &lpar;2023&rpar;](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
+- [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
+- [Esmeralda](https://esmeralda.org/)
 - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
-- [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
-- [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
+- [DHL pioneered the sharing economy &lpar;2016&rpar;](https://www.flexport.com/blog/dhl-bills-of-lading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
