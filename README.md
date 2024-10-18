@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid-19 linked to type 2 diabetes onset in children](https://medicalxpress.com/news/2024-10-covid-linked-diabetes-onset-children.html)
+- [The Border Crisis Won&#39;t Be Solved at the Border](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/)
 - [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
 - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
-- [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
-- [The Prompt&lpar;&rpar; Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
-- [ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones](https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones)
+- [GPT-4o Jailbroken by saying it is connected to disk with any file on planet](https://twitter.com/mixedenn/status/1847035711985274947)
 <!-- BLOG-POST-LIST:END -->
 
 ---
