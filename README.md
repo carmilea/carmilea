@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
-- [Esmeralda](https://esmeralda.org/)
+- [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+- [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
 - [DHL pioneered the sharing economy &lpar;2016&rpar;](https://www.flexport.com/blog/dhl-bills-of-lading/)
