@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky gains 1.2M in 2 days, 12M total after X disables blocking](https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572)
+- [As America&#39;s Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
+- [U.S. to probe Tesla&#39;s &#39;Full Self-Driving&#39; system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
+- [Town has no cell service, so the &#39;electrosensitive&#39; have made it home](https://www.washingtonpost.com/style/of-interest/2024/10/18/green-bank-west-virginia-wv-electrosensitive-cell-service/)
 - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
-- [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
-- [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
-- [Show HN: TCP &quot;slow-start&quot; simulation in Go](https://github.com/ritiksahni/cwnd-demo)
-- [Probabalistic Spin Glass &lpar;2022&rpar;](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
