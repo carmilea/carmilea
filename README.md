@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky gains 1.2M in 2 days, 12M total after X disables blocking](https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572)
-- [As America&#39;s Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
-- [U.S. to probe Tesla&#39;s &#39;Full Self-Driving&#39; system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
-- [Town has no cell service, so the &#39;electrosensitive&#39; have made it home](https://www.washingtonpost.com/style/of-interest/2024/10/18/green-bank-west-virginia-wv-electrosensitive-cell-service/)
-- [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
+- [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
+- [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
+- [WireGuard Performance with a Pi Zero &lpar;2019&rpar;](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [Predicting Weight Loss with Machine Learning](https://www.feelingbuggy.com/p/predicting-weight-loss-with-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
