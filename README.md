@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knocker uppers: Waking up the workers in industrial Britain &lpar;2016&rpar;](https://www.bbc.com/news/uk-england-35840393)
 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
+- [Charles Darwin and Associates, Ghostbusters &lpar;1996&rpar;](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
 - [Show HN: How to leverage Claude&#39;s capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-- [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
-- [Steve&#39;s Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
