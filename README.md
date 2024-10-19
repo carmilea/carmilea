@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
 - [It&#39;s time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+- [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
-- [Autism&#39;s Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
-- [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
