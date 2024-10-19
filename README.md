@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jury awards American Airline $9.4M from website behind &#39;skiplagging&#39; hack](https://www.courthousenews.com/jury-awards-american-airlines-9-4-million-from-website-behind-skiplagging-hack/)
+- [US probes Tesla&#39;s Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
+- [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
 - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 - [Beflix &lpar;Bell Labs Flicks&rpar;](https://en.wikipedia.org/wiki/BEFLIX)
-- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-- [Distro &lpar;YC S24&rpar; is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
-- [The feds are coming for John Deere over the right to repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
