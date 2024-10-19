@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
-- [Cuba&#39;s grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
+- [&#39;They refused to let me go&#39;: Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
 - [Show HN: How to leverage Claude&#39;s capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
-- [Strep A kills half a million per year; why don&#39;t we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
