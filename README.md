@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [US probes Tesla&#39;s Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
-- [Our Boundless Love for Big Sur May Be Killing It](https://www.nytimes.com/2024/10/18/travel/big-sur-tourism-california.html)
 - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
-- [TCAS averts possible head-on collision in Austin](https://www.flightradar24.com/blog/tcas-averts-possible-collision-austin/)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- [Distro &lpar;YC S24&rpar; is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
