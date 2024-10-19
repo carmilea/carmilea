@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte 5 Released](https://www.npmjs.com/package/svelte)
+- [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
+- [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
-- [WireGuard Performance with a Pi Zero &lpar;2019&rpar;](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
-- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
-- [Predicting Weight Loss with Machine Learning](https://www.feelingbuggy.com/p/predicting-weight-loss-with-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
