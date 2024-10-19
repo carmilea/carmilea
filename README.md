@@ -62,7 +62,7 @@
 - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
 - [Strep A kills half a million per year; why don&#39;t we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
-- [Jury awards American Airline $9.4M from website behind &#39;skiplagging&#39; hack](https://www.courthousenews.com/jury-awards-american-airlines-9-4-million-from-website-behind-skiplagging-hack/)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
