@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
-- [Zen: Firefox Based Browser](https://zen-browser.app/)
+- [External RF-EMF Alters Cell Number and Reactive Oxygen Species Balance](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1425023/full)
+- [Rivian &lpar;RIVN&rpar; clashes with Bosch in new legal battle over EV motors](https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/)
+- [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
 - [Knocker uppers: Waking up the workers in industrial Britain &lpar;2016&rpar;](https://www.bbc.com/news/uk-england-35840393)
 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-- [Charles Darwin and Associates, Ghostbusters &lpar;1996&rpar;](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
