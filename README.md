@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
 - [Cuba&#39;s grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
-- [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
 - [Show HN: How to leverage Claude&#39;s capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 - [Strep A kills half a million per year; why don&#39;t we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
