@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
+- [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
+- [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
 - [Show HN: TCP &quot;slow-start&quot; simulation in Go](https://github.com/ritiksahni/cwnd-demo)
-- [Knocker uppers: Waking up the workers in industrial Britain &lpar;2016&rpar;](https://www.bbc.com/news/uk-england-35840393)
-- [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-- [Charles Darwin and Associates, Ghostbusters &lpar;1996&rpar;](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
-- [Show HN: How to leverage Claude&#39;s capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
+- [Probabalistic Spin Glass &lpar;2022&rpar;](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
