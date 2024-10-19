@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-- [&#39;They refused to let me go&#39;: Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
 - [Show HN: How to leverage Claude&#39;s capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
