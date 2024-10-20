@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
 - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 - [C-Motive&#39;s electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 - [Kurt Vonnegut&#39;s lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
-- [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
