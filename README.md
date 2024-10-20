@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Today is Ubuntu&#39;s 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
-- [Why I&#39;m skeptical of rewriting JavaScript tools in &quot;faster&quot; languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+- [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
 - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
 - [Computer Organization, free online textbook](https://marz.utk.edu/my-courses/cosc230/book/)
