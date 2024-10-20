@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today is Ubuntu&#39;s 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
+- [Why I&#39;m skeptical of rewriting JavaScript tools in &quot;faster&quot; languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
-- [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
-- [C-Motive&#39;s electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
-- [Kurt Vonnegut&#39;s lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
+- [Computer Organization, free online textbook](https://marz.utk.edu/my-courses/cosc230/book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
