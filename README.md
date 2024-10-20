@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Detectors Falsely Accuse Students of Cheating–With Big Consequences](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
+- [C-Motive&#39;s electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 - [Kurt Vonnegut&#39;s lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
-- [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
 - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
 - [Bumblebee queens choose to hibernate in pesticide-contaminated soil](https://phys.org/news/2024-10-bumblebee-queens-hibernate-pesticide-contaminated.html)
-- [Drasi: Microsoft&#39;s open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
