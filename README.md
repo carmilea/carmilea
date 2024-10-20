@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 - [AI Detectors Falsely Accuse Students of Cheating–With Big Consequences](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 - [C-Motive&#39;s electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 - [Kurt Vonnegut&#39;s lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
-- [Bumblebee queens choose to hibernate in pesticide-contaminated soil](https://phys.org/news/2024-10-bumblebee-queens-hibernate-pesticide-contaminated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
