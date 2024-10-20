@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
+- [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
+- [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
+- [Apple&#39;s macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
+- [Jujutsu &lpar;jj&rpar;, a Git compatible VCS](https://tonyfinn.com/blog/jj/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Using Euro coins as weights &lpar;2004&rpar;](https://www.rubinghscience.org/surv/euroweights1.html)
-- [Machine conquest: Jules Verne&#39;s technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
-- [The Best Darn Grid Shader &lpar;Yet&rpar;](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
