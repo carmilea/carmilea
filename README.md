@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
+- [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
 - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
 - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
-- [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
-- [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
