@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine conquest: Jules Verne&#39;s technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 - [Scratches in 2001: A Space Osyssey &lpar;2018&rpar;](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
 - [Origin of &#39;Daemon&#39; in Computing](https://www.takeourword.com/TOW146/page4.html)
-- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
