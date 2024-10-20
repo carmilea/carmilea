@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
 - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-- [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
-- [Apple&#39;s macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
-- [Jujutsu &lpar;jj&rpar;, a Git compatible VCS](https://tonyfinn.com/blog/jj/)
-- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
+- [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
+- [Apple&#39;s New iPad Mini Highlights the Company&#39;s AI Advantage](https://www.bloomberg.com/news/newsletters/2024-10-20/apple-s-latest-ipad-mini-highlights-ai-advantage-sonos-considers-new-headphones-m2hkz4mn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
