@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
+- [Scratches in 2001: A Space Osyssey &lpar;2018&rpar;](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
-- [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
-- [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
+- [Origin of &#39;Daemon&#39; in Computing](https://www.takeourword.com/TOW146/page4.html)
+- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
