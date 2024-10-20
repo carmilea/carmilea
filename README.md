@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
-- [It&#39;s time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
-- [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
-- [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
-- [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
+- [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
+- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+- [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
+- [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
+- [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
