@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
-- [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-- [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
-- [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
-- [Apple&#39;s New iPad Mini Highlights the Company&#39;s AI Advantage](https://www.bloomberg.com/news/newsletters/2024-10-20/apple-s-latest-ipad-mini-highlights-ai-advantage-sonos-considers-new-headphones-m2hkz4mn)
+- [Kurt Vonnegut&#39;s lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
+- [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
+- [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
+- [Bumblebee queens choose to hibernate in pesticide-contaminated soil](https://phys.org/news/2024-10-bumblebee-queens-hibernate-pesticide-contaminated.html)
+- [Drasi: Microsoft&#39;s open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
