@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
-- [AI Medical Imagery Model Offers Fast, Cost-Efficient Expert Analysis](https://developer.nvidia.com/blog/ai-medical-imagery-model-offers-fast-cost-efficient-expert-analysis/)
+- [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
+- [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 - [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
 - [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
