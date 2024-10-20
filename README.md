@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
+- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Using Euro coins as weights &lpar;2004&rpar;](https://www.rubinghscience.org/surv/euroweights1.html)
 - [Machine conquest: Jules Verne&#39;s technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 - [Scratches in 2001: A Space Osyssey &lpar;2018&rpar;](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
-- [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
-- [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
-- [Origin of &#39;Daemon&#39; in Computing](https://www.takeourword.com/TOW146/page4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
