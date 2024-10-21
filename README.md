@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
-- [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
 - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 - [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
+- [Microsoft said it lost weeks of security logs for its customers&#39; cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
