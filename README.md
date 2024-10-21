@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Deploying AI-Driven Personalization Engines | SingleStore Webinars](https://www.youtube.com/watch?v=9Ts72-Bxwnw)
 - [Building Enterprise-Grade RAG with AWS Agents and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=BdSKwy683KE)
 - [SingleStore Now 2024 Recap](https://www.youtube.com/watch?v=rvenDXDdM_k)
 - [Free DB Faceoff: MySQL vs Postgres vs SingleStore Free Tier | SingleStore Webinars](https://www.youtube.com/watch?v=cEmA6uC28Cw)
 - [How to Build an LLM Chatbot Powered by Agents | SingleStore Webinars](https://www.youtube.com/watch?v=M6Fx2mHrw_U)
-- [Real-Time Fraud Detection Using AI: A Hands-On Guide | SingleStore Webinars](https://www.youtube.com/watch?v=OHvSCitZIAw)
 <!-- YOUTUBE:END -->
 
 
