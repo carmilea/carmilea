@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
-- [Sam&#39;s Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
-- [T-Mobile, AT&amp;T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
-- [Software Engineering Body of Knowledge &lpar;SWEBOK&rpar; v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
-- [Overengineering a way to know if people are in my university&#39;s CS lab](https://www.amoses.dev/blog/upl-people-counter/)
+- [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
+- [C++: Uncompromised Performance, Undefined Behavior, &amp; Move Semantics [video]](https://www.youtube.com/watch?v=fcRHiFH04a4)
+- [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
+- [The near impossible literacy test Louisiana used to suppress the black vote](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)
+- [Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python](https://github.com/plasma-umass/scalene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
