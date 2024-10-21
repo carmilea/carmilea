@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat without cat on the commandline](https://jarv.org/posts/cat-without-cat/)
 - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
-- [Six top Alzheimer&#39;s researchers accused of fraud](https://threadreaderapp.com/thread/1848020706082050500.html)
-- [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
-- [Android &quot;Password Store&quot; client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
+- [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
+- [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+- [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
+- [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
