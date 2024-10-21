@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
+- [Rabbit raises additional $10M to launch first AI hardware to replace appbased OS](https://www.rabbit.tech/newsroom/rabbit-raises-additional-10m)
+- [Extinction of the Influenza B Yamagata line during the Covid pandemic &lpar;2022&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
+- [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 - [Brain endurance training improves older adults&#39; cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
-- [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
-- [Waking up science&#39;s sleeping beauties &lpar;2023&rpar;](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
-- [SingleStore NPM Package: The Ultimate All-in-One Solution for Data Management](https://www.singlestore.com/blog/singlestore-npm-package)
-- [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
