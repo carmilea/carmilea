@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Body of Knowledge &lpar;SWEBOK&rpar; v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
+- [Overengineering a way to know if people are in my university&#39;s CS lab](https://www.amoses.dev/blog/upl-people-counter/)
+- [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
+- [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
-- [Perplexity AI&#39;s new tool makes researching the stock market &#39;delightful&#39;](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
-- [Once You Try a Four-Day Workweek, It&#39;s Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
-- [Robot vacuum cleaners hacked to spy on, insult owners](https://www.malwarebytes.com/blog/news/2024/10/robot-vacuum-cleaners-hacked-to-spy-on-insult-owners)
-- [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
 <!-- BLOG-POST-LIST:END -->
 
 ---
