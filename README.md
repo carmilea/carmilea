@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
-- [Making Castro&#39;s Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
-- [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
-- [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
-- [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
+- [Jiga &lpar;YC W21&rpar; Is Hiring FS Engineer &lpar;React/Mongo/Node&rpar;](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
+- [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
+- [A simple C unit test framework](https://mattiasgustavsson.com/a-simple-c-unit-test-framework/)
+- [Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
+- [Show HN: Dynamic IPv4/6 records for Cloudflare](https://github.com/ddries/d2c.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
