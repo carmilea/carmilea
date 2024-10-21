@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
-- [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+- [Software engineer titles have almost lost all their meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 - [Android &quot;Password Store&quot; client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
-- [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
+- [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 <!-- BLOG-POST-LIST:END -->
 
 ---
