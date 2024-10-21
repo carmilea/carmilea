@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
-- [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
+- [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
+- [Perplexity AI&#39;s new tool makes researching the stock market &#39;delightful&#39;](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
+- [Once You Try a Four-Day Workweek, It&#39;s Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
+- [Robot vacuum cleaners hacked to spy on, insult owners](https://www.malwarebytes.com/blog/news/2024/10/robot-vacuum-cleaners-hacked-to-spy-on-insult-owners)
 - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
-- [India&#39;s airline industry in chaos after 90 hoax bomb threats in a week](https://www.theguardian.com/world/2024/oct/21/india-airline-industry-in-chaos-after-90-hoax-bomb-threats-in-a-week)
-- [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
