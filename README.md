@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Today is Ubuntu&#39;s 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
-- [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
-- [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
-- [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
-- [Computer Organization, free online textbook](https://marz.utk.edu/my-courses/cosc230/book/)
+- [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+- [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
+- [David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.](https://www.youtube.com/watch?v=P_vbYmPm_zU)
+- [If you&#39;re curious why every username is a domain, it&#39;s because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
+- [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
