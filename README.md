@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Epublifier – scrape pages &lpar;books, manuals&rpar; for offline reading](https://github.com/maoserr/epublifier)
+- [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
+- [Ioccc Flight Simulator &lpar;2010&rpar;](https://blog.aerojockey.com/iocccsim/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring FS Engineer &lpar;React/Mongo/Node&rpar;](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
-- [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
-- [A simple C unit test framework](https://mattiasgustavsson.com/a-simple-c-unit-test-framework/)
 - [Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
-- [Show HN: Dynamic IPv4/6 records for Cloudflare](https://github.com/ddries/d2c.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
