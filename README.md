@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
 - [Show HN: Epublifier – scrape pages &lpar;books, manuals&rpar; for offline reading](https://github.com/maoserr/epublifier)
+- [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
+- [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
 - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
-- [Ioccc Flight Simulator &lpar;2010&rpar;](https://blog.aerojockey.com/iocccsim/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring FS Engineer &lpar;React/Mongo/Node&rpar;](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
-- [Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
