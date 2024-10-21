@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
+- [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
+- [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
+- [India&#39;s airline industry in chaos after 90 hoax bomb threats in a week](https://www.theguardian.com/world/2024/oct/21/india-airline-industry-in-chaos-after-90-hoax-bomb-threats-in-a-week)
 - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
-- [Rabbit raises additional $10M to launch first AI hardware to replace appbased OS](https://www.rabbit.tech/newsroom/rabbit-raises-additional-10m)
-- [Extinction of the Influenza B Yamagata line during the Covid pandemic &lpar;2022&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
-- [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
-- [Brain endurance training improves older adults&#39; cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
