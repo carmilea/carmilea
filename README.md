@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waking up science&#39;s sleeping beauties &lpar;2023&rpar;](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
+- [SingleStore NPM Package: The Ultimate All-in-One Solution for Data Management](https://www.singlestore.com/blog/singlestore-npm-package)
 - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
+- [Dear CTO: it&#39;s not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
 - [Show HN: Epublifier – scrape pages &lpar;books, manuals&rpar; for offline reading](https://github.com/maoserr/epublifier)
-- [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
-- [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
-- [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
 <!-- BLOG-POST-LIST:END -->
 
 ---
