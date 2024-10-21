@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain endurance training improves older adults&#39; cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
+- [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
 - [Waking up science&#39;s sleeping beauties &lpar;2023&rpar;](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 - [SingleStore NPM Package: The Ultimate All-in-One Solution for Data Management](https://www.singlestore.com/blog/singlestore-npm-package)
 - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
-- [Dear CTO: it&#39;s not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
-- [Show HN: Epublifier – scrape pages &lpar;books, manuals&rpar; for offline reading](https://github.com/maoserr/epublifier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
