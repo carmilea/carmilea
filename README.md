@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam&#39;s Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
+- [T-Mobile, AT&amp;T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 - [Software Engineering Body of Knowledge &lpar;SWEBOK&rpar; v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 - [Overengineering a way to know if people are in my university&#39;s CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
-- [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
-- [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
