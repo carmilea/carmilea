@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
+- [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+- [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
+- [Android &quot;Password Store&quot; client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
-- [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
-- [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
-- [David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.](https://www.youtube.com/watch?v=P_vbYmPm_zU)
-- [If you&#39;re curious why every username is a domain, it&#39;s because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
