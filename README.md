@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World-First Starlink Service on Boeing 777 Launched by Qatar Airways](https://smartwithpoints.co.uk/p/qatar-airways-launches-world-first-starlink-service-on-boeing-777)
 - [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
 - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
+- [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 - [Tog&#39;s Paradox](https://www.votito.com/methods/togs-paradox/)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
-- [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
