@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
 - [The Tragedy of Google Books &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
-- [RunwayML releases Act One: obsoleting traditional motion capture](https://runwayml.com/research/introducing-act-one)
 - [On Simplicity](https://www.singlestore.com/blog/on-simplicity)
 - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
+- [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
