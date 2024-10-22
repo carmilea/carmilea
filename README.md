@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
+- [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
 - [FTC&#39;s rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-- [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
-- [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
-- [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+- [The Human Cost of Our AI-Driven Future](https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
