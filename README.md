@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
-- [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
+- [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-- [Apple&#39;s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
-- [Wired&#39;s Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
+- [Apple&#39;s AirPods Pro hearing health features](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
