@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Undecided Hobbit Torn Between Dark Lord of Chaos and Elf Queen He Barely Knows](https://www.mcsweeneys.net/articles/im-an-undecided-hobbit-torn-between-a-dark-lord-who-promises-an-age-of-chaos-and-an-elf-queen-whom-i-just-wish-i-knew-more-about)
+- [MQTT turns 25 &lpar;and has taken over the world&rpar;](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 - [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
 - [Don&#39;t Publish with IEEE](http://cr.yp.to/writing/ieee.html)
+- [A Lisp compiler to ARM written in Lisp](http://www.ulisp.com/show?4W2I)
 - [Understanding Gaussians](https://gestalt.ink/gaussians)
-- [Cosine &lpar;YC W23&rpar; Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
