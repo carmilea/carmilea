@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
+- [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
+- [StabilityAI releases Stable Diffusion 3.5 – a step up in realism](https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism)
+- [IBM&#39;s new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
+- [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 - [The Tragedy of Google Books &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
-- [On Simplicity](https://www.singlestore.com/blog/on-simplicity)
-- [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
-- [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
