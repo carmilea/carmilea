@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tragedy of Google Books &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+- [On Simplicity](https://www.singlestore.com/blog/on-simplicity)
+- [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
+- [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
-- [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
-- [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
-- [FTC&#39;s rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-- [The Human Cost of Our AI-Driven Future](https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
