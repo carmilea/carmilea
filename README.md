@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
+- [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
+- [FTC&#39;s rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
 - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+- [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
-- [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
-- [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
