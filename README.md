@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MQTT turns 25 &lpar;and has taken over the world&rpar;](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
-- [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
-- [Don&#39;t Publish with IEEE](http://cr.yp.to/writing/ieee.html)
-- [A Lisp compiler to ARM written in Lisp](http://www.ulisp.com/show?4W2I)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
+- [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
+- [Grok TiddlyWiki 2.0 is live](https://talk.tiddlywiki.org/t/grok-tiddlywiki-2-0-is-live/10965)
 - [Understanding Gaussians](https://gestalt.ink/gaussians)
+- [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 <!-- BLOG-POST-LIST:END -->
 
 ---
