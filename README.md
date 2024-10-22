@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
-- [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
+- [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 - [Apple&#39;s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
 - [Wired&#39;s Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
