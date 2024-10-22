@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
+- [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
+- [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
+- [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 - [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
-- [StabilityAI releases Stable Diffusion 3.5 – a step up in realism](https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism)
-- [IBM&#39;s new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
-- [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
-- [The Tragedy of Google Books &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
