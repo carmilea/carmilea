@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undecided Hobbit Torn Between Dark Lord of Chaos and Elf Queen He Barely Knows](https://www.mcsweeneys.net/articles/im-an-undecided-hobbit-torn-between-a-dark-lord-who-promises-an-age-of-chaos-and-an-elf-queen-whom-i-just-wish-i-knew-more-about)
+- [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
+- [Don&#39;t Publish with IEEE](http://cr.yp.to/writing/ieee.html)
 - [Understanding Gaussians](https://gestalt.ink/gaussians)
-- [Singapore OKs 4,300km subsea cable for importing electricity from Australia](https://mothership.sg/2024/10/ema-conditional-approval-sun-cable/)
 - [Cosine &lpar;YC W23&rpar; Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
-- [Guide to Fine-Tuning LLMs](https://arxiv.org/abs/2408.13296)
-- [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
