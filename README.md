@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
-- [C++: Uncompromised Performance, Undefined Behavior, &amp; Move Semantics [video]](https://www.youtube.com/watch?v=fcRHiFH04a4)
-- [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
-- [The near impossible literacy test Louisiana used to suppress the black vote](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)
-- [Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python](https://github.com/plasma-umass/scalene)
+- [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
+- [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
+- [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+- [Apple&#39;s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
+- [Wired&#39;s Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
