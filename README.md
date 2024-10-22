@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosine &lpar;YC W23&rpar; Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
+- [Tesla delays Cybertruck&#39;s range extender, reduces its range](https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/)
 - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
+- [Brazil Arrests &#39;USDoD&#39; Hacker in FBI Infragard Breach](https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/)
 - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
-- [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
-- [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
-- [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
