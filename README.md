@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
 - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
 - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
 - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
-- [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
