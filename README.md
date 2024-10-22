@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World-First Starlink Service on Boeing 777 Launched by Qatar Airways](https://smartwithpoints.co.uk/p/qatar-airways-launches-world-first-starlink-service-on-boeing-777)
-- [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
+- [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
+- [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+- [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
-- [Tog&#39;s Paradox](https://www.votito.com/methods/togs-paradox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
