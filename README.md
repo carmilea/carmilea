@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
+- [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
+- [Tog&#39;s Paradox](https://www.votito.com/methods/togs-paradox/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
 - [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
-- [Grok TiddlyWiki 2.0 is live](https://talk.tiddlywiki.org/t/grok-tiddlywiki-2-0-is-live/10965)
-- [Understanding Gaussians](https://gestalt.ink/gaussians)
-- [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 <!-- BLOG-POST-LIST:END -->
 
 ---
