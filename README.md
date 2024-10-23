@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
 - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 - [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
 - [Arm is canceling Qualcomm&#39;s chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
 - [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
-- [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
