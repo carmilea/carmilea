@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to feel old? Excel just entered its 40th year](https://www.theregister.com/2024/10/22/excel_enters_its_40th_year/)
-- [&quot;WordPress.org is not WordPress&quot; [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.437474/gov.uscourts.cand.437474.33.0.pdf)
-- [Open Letter by Climate Scientists to the Nordic Council of Ministers [pdf]](https://en.vedur.is/media/ads_in_header/AMOC-letter_Final.pdf)
 - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 - [NewsCatcher &lpar;YC S22&rpar; Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
+- [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+- [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+- [Arm is canceling Qualcomm&#39;s chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
