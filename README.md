@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
+- [Don&#39;t use &quot;click here&quot; for link text](https://www.dont-click-here.com/)
+- [RISC-V is currently slow compared to modern CPUs](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 - [SuperHTML is here to rescue you from syntax errors, and it&#39;s FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
-- [Users say T-Mobile must pay for killing &quot;lifetime&quot; price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 - [Launch HN: GPT Driver &lpar;YC S21&rpar; – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 <!-- BLOG-POST-LIST:END -->
