@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use &quot;click here&quot; for link text](https://www.dont-click-here.com/)
-- [RISC-V is currently slow compared to modern CPUs](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
-- [SuperHTML is here to rescue you from syntax errors, and it&#39;s FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
-- [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
-- [Launch HN: GPT Driver &lpar;YC S21&rpar; – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+- [Practical Jokes &lpar;2007&rpar;](https://wiki.wireshark.org/PracticalJokes)
+- [Lars Tunbjörk documented the rise of alienating online work](https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos)
+- [A DSL for Peephole Transformation Rules of Integer Operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
+- [Paper mills: the &#39;cartel-like&#39; companies behind fraudulent scientific journals](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
+- [Lawsuit challenges Virginia City&#39;s use of cameras for warrantless surveillance](https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
