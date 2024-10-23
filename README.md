@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
-- [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
-- [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
-- [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
-- [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
+- [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
+- [Arm is canceling Qualcomm&#39;s chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
+- [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
+- [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
