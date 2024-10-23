@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 - [NewsCatcher &lpar;YC S22&rpar; Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
 - [Migration of the build system to autosetup](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
-- [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
