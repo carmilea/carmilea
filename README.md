@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Called &quot;Paid Actor&quot; by Linus Torvalds](https://typeblog.net/55833/getting-called-paid-actor-by-linus-torvalds)
+- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
+- [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 - [Playstation Vita Architecture &lpar;Part 1&rpar;](https://www.copetti.org/writings/consoles/playstation-vita/)
 - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-- [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
-- [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
-- [Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
