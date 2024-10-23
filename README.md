@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to feel old? Excel just entered its 40th year](https://www.theregister.com/2024/10/22/excel_enters_its_40th_year/)
+- [&quot;WordPress.org is not WordPress&quot; [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.437474/gov.uscourts.cand.437474.33.0.pdf)
+- [Open Letter by Climate Scientists to the Nordic Council of Ministers [pdf]](https://en.vedur.is/media/ads_in_header/AMOC-letter_Final.pdf)
 - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
-- [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
 - [NewsCatcher &lpar;YC S22&rpar; Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
-- [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
-- [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
