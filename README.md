@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+- [The backlash against the world&#39;s most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
 - [One Square Minesweeper](https://onesquareminesweeper.com/)
 - [Migration of the build system to autosetup](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
-- [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
 - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
-- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
