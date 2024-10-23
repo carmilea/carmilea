@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Called &quot;Paid Actor&quot; by Linus Torvalds](https://typeblog.net/55833/getting-called-paid-actor-by-linus-torvalds)
+- [iOS 18.2 Lets EU Users Delete App Store, Safari, Messages, Camera and Photos](https://www.macrumors.com/2024/10/23/ios-18-2-eu-delete-apps/)
+- [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 - [Playstation Vita Architecture &lpar;Part 1&rpar;](https://www.copetti.org/writings/consoles/playstation-vita/)
-- [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
