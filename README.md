@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Jokes &lpar;2007&rpar;](https://wiki.wireshark.org/PracticalJokes)
-- [Lars Tunbjörk documented the rise of alienating online work](https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos)
-- [A DSL for Peephole Transformation Rules of Integer Operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
-- [Paper mills: the &#39;cartel-like&#39; companies behind fraudulent scientific journals](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
-- [Lawsuit challenges Virginia City&#39;s use of cameras for warrantless surveillance](https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/)
+- [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
+- [Landowner Sues After State Searches Property Without Warrant or Consent](https://www.agweb.com/news/business/farmland/rural-landowner-sues-after-state-searches-property-without-warrant-or-cons)
+- [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
+- [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/)
+- [Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
