@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenObserve: Observability platform for logs, metrics, traces, analytics](https://github.com/openobserve/openobserve)
 - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
-- [Landowner Sues After State Searches Property Without Warrant or Consent](https://www.agweb.com/news/business/farmland/rural-landowner-sues-after-state-searches-property-without-warrant-or-cons)
 - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
-- [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/)
 - [Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
+- [Practical Jokes &lpar;2007&rpar;](https://wiki.wireshark.org/PracticalJokes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
