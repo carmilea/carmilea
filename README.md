@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
+- [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
 - [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
 - [Zigler: Zig Nifs in Elixir](https://github.com/E-xyza/zigler)
-- [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
 - [Dynamic Models of Gentrification](https://arxiv.org/abs/2410.18004)
-- [Cable companies ask 5th Circuit to block FTC&#39;s click-to-cancel rule](https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
