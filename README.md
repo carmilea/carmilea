@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC Cuts Off Client After Discovering Chips Sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
+- [How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
 - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
 - [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
-- [Rust in Enterprise Kernels](https://lwn.net/Articles/993337/)
-- [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
-- [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+- [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
