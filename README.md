@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Viva Labs &lpar;YC W22&rpar; Is Hiring Video/Image AI Research Lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
+- [Boeing 787s must be reset every 51 days or &#39;misleading data&#39; is shown to pilots](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
+- [Quit Social Media](https://calnewport.com/quit-social-media/)
+- [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
 - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
-- [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
-- [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
-- [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
-- [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
