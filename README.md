@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 - [Pretty.c](https://github.com/aartaka/pretty.c)
 - [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
 - [How do merging supermassive black holes pass the final parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-- [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
