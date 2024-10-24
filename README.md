@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebStorm and Rider Are Now Free for Non-Commercial Use](https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/)
 - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
 - [CodeCrafters &lpar;YC S22&rpar; is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
 - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
 - [A field guide to the central, creeping section of the San Andreas Fault &lpar;2006&rpar;](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
-- [AWS data center latencies, visualized](https://benjdd.com/aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
