@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
-- [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
-- [Launch HN: Skyvern &lpar;YC S23&rpar; – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
-- [TechXchange: Making Real-Time Analytics and Decisioning a Reality with SingleStore, watsonx.data and IBM StreamSets](https://www.singlestore.com/blog/making-real-time-analytics-a-reality-ibm-singlestore)
-- [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
+- [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
+- [Zigler: Zig Nifs in Elixir](https://github.com/E-xyza/zigler)
+- [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
+- [Dynamic Models of Gentrification](https://arxiv.org/abs/2410.18004)
+- [Cable companies ask 5th Circuit to block FTC&#39;s click-to-cancel rule](https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
