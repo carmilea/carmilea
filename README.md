@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
+- [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
+- [Rust in Enterprise Kernels](https://lwn.net/Articles/993337/)
 - [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
-- [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
 - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
-- [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
-- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
