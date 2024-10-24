@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Skyvern &lpar;YC S23&rpar; – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
+- [The U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics](https://www.404media.co/inside-the-u-s-government-bought-tool-that-can-track-phones-at-abortion-clinics/)
+- [TechXchange: Making Real-Time Analytics and Decisioning a Reality with SingleStore, watsonx.data and IBM StreamSets](https://www.singlestore.com/blog/making-real-time-analytics-a-reality-ibm-singlestore)
+- [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
 - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
-- [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
-- [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
-- [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
 <!-- BLOG-POST-LIST:END -->
 
 ---
