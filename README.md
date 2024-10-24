@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
-- [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
-- [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
-- [Zigler: Zig Nifs in Elixir](https://github.com/E-xyza/zigler)
-- [Dynamic Models of Gentrification](https://arxiv.org/abs/2410.18004)
+- [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
+- [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
+- [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
+- [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
+- [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
