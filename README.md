@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
+- [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
 - [Launch HN: Skyvern &lpar;YC S23&rpar; – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
-- [The U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics](https://www.404media.co/inside-the-u-s-government-bought-tool-that-can-track-phones-at-abortion-clinics/)
 - [TechXchange: Making Real-Time Analytics and Decisioning a Reality with SingleStore, watsonx.data and IBM StreamSets](https://www.singlestore.com/blog/making-real-time-analytics-a-reality-ibm-singlestore)
 - [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
-- [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
