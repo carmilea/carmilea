@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 18.2 Lets EU Users Delete App Store, Safari, Messages, Camera and Photos](https://www.macrumors.com/2024/10/23/ios-18-2-eu-delete-apps/)
+- [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
+- [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
 - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+- [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
-- [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
-- [Playstation Vita Architecture &lpar;Part 1&rpar;](https://www.copetti.org/writings/consoles/playstation-vita/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
