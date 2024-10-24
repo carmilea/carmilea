@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix Shuts Down Its AAA Game Studio](https://www.gamefile.news/p/netflix-team-blue-socal-studio)
+- [Show HN: Microsoft Teams Ticketing System – Ticketing as a Service](https://www.teamswork.app/best-microsoft-teams-ticketing-service-desk)
+- [A field guide to the central, creeping section of the San Andreas Fault &lpar;2006&rpar;](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 - [Pretty.c](https://github.com/aartaka/pretty.c)
-- [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
-- [How do merging supermassive black holes pass the final parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-- [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
