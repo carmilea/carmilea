@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+- [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
 - [Viva Labs &lpar;YC W22&rpar; is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
 - [Quit Social Media &lpar;2016&rpar;](https://calnewport.com/quit-social-media/)
-- [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
-- [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
+- [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
