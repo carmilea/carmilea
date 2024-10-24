@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+- [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
-- [He Died Building a Ship for the U.S. Government. His Family Got Nothing](https://www.propublica.org/article/immigration-louisiana-houma-shipbuilding-jobs-safety)
 - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
 - [CodeCrafters &lpar;YC S22&rpar; is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
-- [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
