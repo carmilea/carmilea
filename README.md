@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Portal Tour | SingleStore Tutorial](https://www.youtube.com/watch?v=AGYzxHadOqw)
+- [Creating a table in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=IJaFK8nYe0A)
 - [Getting Started in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=umvZDW3bipI)
 - [Beginner&#39;s Guide to &quot;New&quot; RAG Techniques with Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=6KrUNMDhuJk)
 - [Beginner&#39;s Guide to &quot;New&quot; RAG Techniques with Tom Yeh](https://www.youtube.com/watch?v=lGQ9rpfQBng)
-- [Deploying AI-Driven Personalization Engines | SingleStore Webinars](https://www.youtube.com/watch?v=9Ts72-Bxwnw)
-- [Building Enterprise-Grade RAG with AWS Agents and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=BdSKwy683KE)
 <!-- YOUTUBE:END -->
 
 
