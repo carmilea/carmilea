@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Leaving OpenAI and What I&#39;m Doing Next](https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im)
+- [AWS data center latencies, visualized](https://benjdd.com/aws/)
 - [TSMC Cuts Off Client After Discovering Chips Sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
 - [How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
 - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
-- [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
-- [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
