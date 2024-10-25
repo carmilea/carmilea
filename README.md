@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
-- [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
-- [Viva Labs &lpar;YC W22&rpar; is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
-- [Quit Social Media &lpar;2016&rpar;](https://calnewport.com/quit-social-media/)
-- [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
+- [Women in tech still face a torrid time from LinkedIn lechers](https://www.crikey.com.au/2024/10/25/wisetech-linkedin-richard-white-tech-industry-women-stem/)
+- [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
+- [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
+- [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
+- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
