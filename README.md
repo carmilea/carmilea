@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
+- [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 - [Vapi &lpar;YC W21&rpar; is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
-- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
-- [Rsbuild – A Better Vite?](https://rsbuild.dev/)
+- [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
