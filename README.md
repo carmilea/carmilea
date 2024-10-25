@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
 - [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 - [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
 - [Notes on Anthropic&#39;s Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
-- [Geoffrey Hinton said machine learning would outperform radiologists by now](https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction)
-- [Copilot vs. Cursor vs. Cody vs. Supermaven vs. Aider](https://www.vincentschmalbach.com/copilot-vs-cursor-vs-cody-vs-supermaven-vs-aider/)
+- [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
