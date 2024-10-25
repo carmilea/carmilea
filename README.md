@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Way Down: Chemical Release at Wacker Polysilicon [video]](https://www.youtube.com/watch?v=CcMnf86n8_U)
+- [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
+- [Efficient Microresonator Frequency Combs](https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5)
 - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
-- [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
+- [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
-- [We can now fix McDonald&#39;s ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
