@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
 - [The Raspberry Pi AI HAT+ with Up to 26 Tops](https://www.raspberrypi.com/news/raspberry-pi-ai-hat/)
 - [The Mindlessness of Ostensibly Thoughtful Action &lpar;1978&rpar; [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
-- [Federal Investigators Probe Cryptocurrency Firm Tether](https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5)
-- [Geico repatriates work from the cloud, continues ambitious infra overhaul](https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/)
+- [LibNSFB – Framebuffer &lpar;bitmap on screen&rpar; abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
