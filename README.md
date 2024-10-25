@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
-- [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
-- [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
+- [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
+- [Category Theory Illustrated: Logic&lpar;2021&rpar;](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 - [Notes on Anthropic&#39;s Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
-- [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
+- [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
+- [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
