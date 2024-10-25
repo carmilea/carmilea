@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
+- [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 - [Vapi &lpar;YC W21&rpar; is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
 - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
-- [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
-- [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
