@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instant &lpar;YC S22&rpar; Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
-- [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
-- [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
-- [Disposable vapes to be banned in England and Wales](https://www.bbc.com/news/articles/cd7n3zyp114o)
-- [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
+- [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
+- [The Raspberry Pi AI HAT+ with Up to 26 Tops](https://www.raspberrypi.com/news/raspberry-pi-ai-hat/)
+- [The Mindlessness of Ostensibly Thoughtful Action &lpar;1978&rpar; [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
+- [Federal Investigators Probe Cryptocurrency Firm Tether](https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5)
+- [Geico repatriates work from the cloud, continues ambitious infra overhaul](https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
