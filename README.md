@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Way Down: Chemical Release at Wacker Polysilicon [video]](https://www.youtube.com/watch?v=CcMnf86n8_U)
+- [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
 - [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
+- [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
 - [We can now fix McDonald&#39;s ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
-- [Company named &quot;&gt;&lt;SCRIPT SRC=HTTPS://MJT.XSS.HT&gt; LTD&quot; forced to change it &lpar;2020&rpar;](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
-- [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
-- [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
