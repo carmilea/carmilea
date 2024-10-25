@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy declares its &quot;web tax&quot; applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
 - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 - [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
-- [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 - [Vapi &lpar;YC W21&rpar; is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
+- [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
+- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
