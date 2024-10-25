@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant &lpar;YC S22&rpar; Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
 - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
 - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
 - [Disposable vapes to be banned in England and Wales](https://www.bbc.com/news/articles/cd7n3zyp114o)
-- [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
-- [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
+- [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
