@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla&#39;s Cybertruck is outselling almost every other EV in the U](https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10)
+- [UK Company named &quot;&gt;&lt;SCRIPT SRC=HTTPS://MJT.XSS.HT&gt; LTD&quot; forced to change it](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
+- [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
-- [The Raspberry Pi AI HAT+ with Up to 26 Tops](https://www.raspberrypi.com/news/raspberry-pi-ai-hat/)
-- [The Mindlessness of Ostensibly Thoughtful Action &lpar;1978&rpar; [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
-- [LibNSFB – Framebuffer &lpar;bitmap on screen&rpar; abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
