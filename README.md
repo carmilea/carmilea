@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
 - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 - [Smarter Than &#39;Ctrl+F&#39;: Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
-- [A Modern CSS Reset &lpar;2024 update&rpar;](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [Law Enforcement Undermines Tor](https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/)
 - [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
-- [Vapi &lpar;YC W21&rpar; is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
