@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
-- [Category Theory Illustrated: Logic&lpar;2021&rpar;](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
-- [Notes on Anthropic&#39;s Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
-- [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
-- [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
+- [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
+- [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
+- [Disposable vapes to be banned in England and Wales](https://www.bbc.com/news/articles/cd7n3zyp114o)
+- [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
+- [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 <!-- BLOG-POST-LIST:END -->
 
 ---
