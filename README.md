@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 - [The brain&#39;s waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 - [Vapi &lpar;YC W21&rpar; is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
-- [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
 - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+- [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
+- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
