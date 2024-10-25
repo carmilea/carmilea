@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla&#39;s Cybertruck is outselling almost every other EV in the U](https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10)
-- [UK Company named &quot;&gt;&lt;SCRIPT SRC=HTTPS://MJT.XSS.HT&gt; LTD&quot; forced to change it](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
+- [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
+- [We can now fix McDonald&#39;s ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
+- [Company named &quot;&gt;&lt;SCRIPT SRC=HTTPS://MJT.XSS.HT&gt; LTD&quot; forced to change it &lpar;2020&rpar;](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
-- [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
