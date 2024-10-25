@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Running Pipelines in SingleStore | SingleStore Tutorial](https://www.youtube.com/watch?v=uC7VYmkgpSw)
+- [Creating and Running your first Notebook in SingleStore](https://www.youtube.com/watch?v=Q6L9Jo5-wlY)
 - [SingleStore Portal Tour | SingleStore Tutorial](https://www.youtube.com/watch?v=AGYzxHadOqw)
 - [Creating a table in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=IJaFK8nYe0A)
 - [Getting Started in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=umvZDW3bipI)
-- [Beginner&#39;s Guide to &quot;New&quot; RAG Techniques with Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=6KrUNMDhuJk)
-- [Beginner&#39;s Guide to &quot;New&quot; RAG Techniques with Tom Yeh](https://www.youtube.com/watch?v=lGQ9rpfQBng)
 <!-- YOUTUBE:END -->
 
 
