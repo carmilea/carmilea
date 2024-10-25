@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women in tech still face a torrid time from LinkedIn lechers](https://www.crikey.com.au/2024/10/25/wisetech-linkedin-richard-white-tech-industry-women-stem/)
+- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+- [Rsbuild – A Better Vite?](https://rsbuild.dev/)
 - [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
 - [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
 - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
-- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
