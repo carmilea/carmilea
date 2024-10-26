@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Linux MAINTAINERS file removal of Russian developers](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
-- [Cancellation of Naval Academy Lecture by Ruth Ben-Ghiat Threatens Inst. Autonomy](https://pen.org/press-release/cancellation-of-naval-academy-lecture-by-ruth-ben-ghiat-at-behest-of-republican-politicians-threatens-institutional-autonomy/)
 - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
+- [Feds: You Don&#39;t Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
+- [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
