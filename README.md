@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
 - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
-- [Open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
