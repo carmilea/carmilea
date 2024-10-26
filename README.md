@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia dethrones Apple as the most valuable company](https://markets.businessinsider.com/news/stocks/nvidia-stock-price-market-cap-apple-most-valuable-company-nvda-2024-10)
 - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
-- [MrBeast&#39;s Faux Philanthropy](https://unherd.com/2024/10/mrbeasts-faux-philanthropy/)
 - [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
 - [How can this 6 axis robot have a static accuracy of 0.05 mm? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
 - [Before you buy a domain name, first check to see if it&#39;s haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
