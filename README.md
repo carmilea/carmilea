@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [On Friday 21st March 2025, the sun will set on the British &quot;Empire&quot;](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
-- [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 - [Carma &lpar;YC W24&rpar; hiring founding SWEs &lpar;remote&rpar; to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
-- [PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
-- [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
+- [PineNote Community Edition: Preorder coming soon](https://pine64.com/product/pinenote-community-edition-coming-soon/)
+- [Long wave radio fans mourn fading frequencies &lpar;2023&rpar;](https://www.bbc.com/news/business-66644709)
+- [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
 <!-- BLOG-POST-LIST:END -->
 
 ---
