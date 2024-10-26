@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel strikes military targets in Iran](https://www.washingtonpost.com/world/2024/10/25/israel-iran-attack-war-strikes/)
-- [Adventures in Algorithmic Trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
+- [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
 - [MrBeast&#39;s Faux Philanthropy](https://unherd.com/2024/10/mrbeasts-faux-philanthropy/)
-- [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/)
 - [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
+- [How can this 6 axis robot have a static accuracy of 0.05 mm? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
+- [Before you buy a domain name, first check to see if it&#39;s haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
