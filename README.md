@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)
+- [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
+- [Scientists Mapping Landslide Risk in Alaska. Some Homeowners Don&#39;t Want to Know.](https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html)
 - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
-- [Should JavaScript be split into two languages? Google proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
-- [Collapse of key Atlantic current could have catastrophic impacts](https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf)
-- [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
-- [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+- [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
