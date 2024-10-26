@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)
+- [Why Freelancing Isn&#39;t the Dream It&#39;s Made Out to Be](https://medium.com/mr-plan-publication/why-freelancing-isnt-the-dream-it-s-made-out-to-be-730b6f355681)
 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
-- [Scientists Mapping Landslide Risk in Alaska. Some Homeowners Don&#39;t Want to Know.](https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html)
+- [Scientists are mapping landslide risk in Alaska](https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html)
 - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
-- [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)
+- [Open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
