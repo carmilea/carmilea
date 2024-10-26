@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Friday 21st March 2025, the sun will set on the British &quot;Empire&quot;](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
+- [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 - [Carma &lpar;YC W24&rpar; hiring founding SWEs &lpar;remote&rpar; to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
-- [AHA was paid to say heart disease caused by saturated fat &lpar;2022&rpar;](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
+- [PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
 - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
-- [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
-- [Goodhart&#39;s law isn&#39;t as useful as you might think &lpar;2023&rpar;](https://commoncog.com/goodharts-law-not-useful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
