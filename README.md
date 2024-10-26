@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
-- [Efficient Microresonator Frequency Combs](https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5)
-- [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
-- [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
-- [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
+- [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/)
+- [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
+- [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
+- [How can this 6 axis robot have a static accuracy of 0.05 mm? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
+- [Before you buy a domain name, first check to see if it&#39;s haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
