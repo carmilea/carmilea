@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 - [Akon&#39;s Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
 - [Feds: You Don&#39;t Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
 - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
-- [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
