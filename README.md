@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How fast can you parse a CSV file in C#?](https://lemire.me/blog/2024/10/17/how-fast-can-you-parse-a-csv-file-in-c/)
-- [Inside the Transport for London cyberattack](https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport)
-- [Using SQLite as Storage for Web Server Static Content](https://clace.io/blog/sqlite/)
-- [Rapamycin: One Drug, Many Effects &lpar;2014&rpar;](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(14)00007-2)
-- [Hyperbound &lpar;YC S23&rpar; is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
+- [Oxfam says close to $41B in World Bank climate finance unaccounted for](https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/)
+- [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+- [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
+- [Freenet: A decentralized alternative to world wide web](https://freenet.org/)
+- [The unreleased Commodore HHC-4&#39;s identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
