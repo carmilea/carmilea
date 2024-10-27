@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
+- [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
+- [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
-- [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
-- [Writes and Write-Nots](https://paulgraham.com/writes.html)
-- [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
-- [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
+- [Wafer Scale – Trilogy Systems: Part 2](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
