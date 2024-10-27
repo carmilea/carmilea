@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxfam says close to $41B in World Bank climate finance unaccounted for](https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/)
+- [Will the China Cycle Come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
+- [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 - [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
-- [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
+- [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
 - [Freenet: A decentralized alternative to world wide web](https://freenet.org/)
-- [The unreleased Commodore HHC-4&#39;s identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
