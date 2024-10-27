@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Intel CEO says splitting Intel isn&#39;t good for the U.S.](https://www.tomshardware.com/tech-industry/former-intel-ceo-says-splitting-intel-isnt-good-for-the-u-s)
-- [I discovered mysterious hidden signals on a public radio channel [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
-- [Google preps &#39;Jarvis&#39; AI agent that works in Chrome](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/)
+- [I discovered mysterious hidden signals on a public radio channel &lpar;2013&rpar; [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 - [Building a more robust Wikipedia interface by spotting the differences &lpar;2023&rpar;](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
+- [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+- [Canvas Fingerprinting](https://browserleaks.com/canvas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
