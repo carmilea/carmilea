@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
+- [Writes and Write-Nots](https://paulgraham.com/writes.html)
 - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
-- [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
 - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
 <!-- BLOG-POST-LIST:END -->
 
