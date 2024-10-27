@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will the China Cycle Come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
+- [Platform Strategy and Its Discontents: The web is losing. A comeback is possible](https://infrequently.org/2024/10/platforms-are-competitions/)
+- [RP FLIP escapes wrecker&#39;s claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
 - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
-- [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+- [The MIPS ThinkPad, kind of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 - [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
-- [Freenet: A decentralized alternative to world wide web](https://freenet.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
