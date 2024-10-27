@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 - [&#39;Fandom has toxified the world&#39;: Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 - [Writes and Write-Nots](https://paulgraham.com/writes.html)
 - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
-- [Stunning fossil trapped in amber reveals previously unknown species](https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html)
 - [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
 <!-- BLOG-POST-LIST:END -->
 
