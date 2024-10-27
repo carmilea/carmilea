@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
+- [Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
+- [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
+- [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
-- [I discovered mysterious hidden signals on a public radio channel &lpar;2013&rpar; [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
-- [Debugging my wife&#39;s alarm clock](https://ntietz.com/blog/debugging-my-wifes-alarm-clock/)
-- [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
-- [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
