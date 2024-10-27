@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
+- [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
+- [Nothing left to solve](https://lmnt.me/blog/nothing-left-to-solve.html)
 - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-- [Meta&#39;s Open Source NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
+- [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 - [RP FLIP escapes wrecker&#39;s claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-- [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
