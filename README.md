@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
+- [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
+- [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
-- [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
-- [Don&#39;t use Summer and Winter for event invites, it&#39;s &quot;northern&quot; and not inclusive](https://www.nature.com/articles/d41586-024-03245-0)
-- [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
+- [Privacy4Cars](https://privacy4cars.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
