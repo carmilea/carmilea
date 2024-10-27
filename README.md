@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
 - [I discovered mysterious hidden signals on a public radio channel &lpar;2013&rpar; [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
-- [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
-- [Building a more robust Wikipedia interface by spotting the differences &lpar;2023&rpar;](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
-- [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+- [Debugging my wife&#39;s alarm clock](https://ntietz.com/blog/debugging-my-wifes-alarm-clock/)
+- [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
+- [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
