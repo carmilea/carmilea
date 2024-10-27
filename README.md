@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to develop AI that takes over computers, The Information reports](https://www.reuters.com/technology/artificial-intelligence/google-develop-ai-that-takes-over-computers-information-reports-2024-10-26/)
+- [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
+- [Stunning fossil trapped in amber reveals previously unknown species](https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html)
+- [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
+- [DragonRuby Game Toolkit hits v6.0](https://dragonruby.itch.io/dragonruby-gtk/devlog/809843/dragonruby-hits-v60)
 - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
-- [Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
-- [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
-- [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
