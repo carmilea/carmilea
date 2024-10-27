@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperbound &lpar;YC S23&rpar; Is Hiring for Their 4th Founding Full-Stack Engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
-- [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
-- [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
-- [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
-- [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
+- [How fast can you parse a CSV file in C#?](https://lemire.me/blog/2024/10/17/how-fast-can-you-parse-a-csv-file-in-c/)
+- [Inside the Transport for London cyberattack](https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport)
+- [Using SQLite as Storage for Web Server Static Content](https://clace.io/blog/sqlite/)
+- [Rapamycin: One Drug, Many Effects &lpar;2014&rpar;](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(14)00007-2)
+- [Hyperbound &lpar;YC S23&rpar; is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
