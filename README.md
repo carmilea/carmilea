@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Friday 21st March 2025, the sun will set on the British &quot;Empire&quot;](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
-- [Carma &lpar;YC W24&rpar; hiring founding SWEs &lpar;remote&rpar; to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
-- [PineNote Community Edition: Preorder coming soon](https://pine64.com/product/pinenote-community-edition-coming-soon/)
-- [Long wave radio fans mourn fading frequencies &lpar;2023&rpar;](https://www.bbc.com/news/business-66644709)
-- [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
+- [Former Intel CEO says splitting Intel isn&#39;t good for the U.S.](https://www.tomshardware.com/tech-industry/former-intel-ceo-says-splitting-intel-isnt-good-for-the-u-s)
+- [I discovered mysterious hidden signals on a public radio channel [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
+- [Google preps &#39;Jarvis&#39; AI agent that works in Chrome](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/)
+- [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
+- [Building a more robust Wikipedia interface by spotting the differences &lpar;2023&rpar;](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
