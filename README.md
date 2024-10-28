@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [200k subscribers flee &#39;Washington Post&#39; after Bezos blocks Harris endorsement](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations)
+- [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
+- [Improving Xwayland Window Resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
+- [Shenzhou-18 Crew Records Video Showcasing Life, Work in Space](https://www.youtube.com/watch?v=IMoomWmIkww)
 - [We&#39;re forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 - [DMCA takedown notices and counter-notices received at GitHub](https://github.com/github/dmca)
-- [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
-- [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
