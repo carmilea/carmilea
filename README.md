@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Japan&#39;s Jimi &#39;Mundane&#39; Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
-- [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
-- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 - [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
+- [Bulma CSS Framework](https://bulma.io/)
+- [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
