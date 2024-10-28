@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
+- [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
 - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [The Event Horizon Telescope image might need a correction](https://academic.oup.com/mnras/article/534/4/3237/7660988)
 - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
-- [Nested Loops Revisited Again &lpar;2023&rpar;](https://ieeexplore.ieee.org/abstract/document/10184629/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
