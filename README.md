@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
+- [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
+- [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 - [418 I&#39;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
-- [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
