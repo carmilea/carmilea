@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
+- [Scott Fitzgerald&#39;s Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
-- [Apple Intelligence is available today on iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
 - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
-- [The Use of Knowledge in Society &lpar;1945&rpar; [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
