@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple iPhone 16 Is Now Illegal in Indonesia, Ban Leaves Tourists in the Lurch](https://www.news18.com/tech/apple-iphone-16-is-now-illegal-in-indonesia-ban-leaves-tourists-in-the-lurch-9099034.html)
 - [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+- [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
 - [Bulma CSS Framework](https://bulma.io/)
-- [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-- [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
