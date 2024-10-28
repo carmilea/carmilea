@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
-- [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
-- [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
-- [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
+- [Apple introduces new iMac supercharged by M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
+- [The Use of Knowledge in Society &lpar;1945&rpar; [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+- [Privacy and control over your Recall experience](https://support.microsoft.com/en-gb/windows/privacy-and-control-over-your-recall-experience-d404f672-7647-41e5-886c-a3c59680af15)
+- [Gravity Is Not a Force](https://superposer.substack.com/p/gravity-is-not-a-force)
+- [More farms are turning to automation amid labor shortages](https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
