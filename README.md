@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
 - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
-- [Improving Xwayland Window Resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
-- [Shenzhou-18 Crew Records Video Showcasing Life, Work in Space](https://www.youtube.com/watch?v=IMoomWmIkww)
-- [We&#39;re forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
-- [DMCA takedown notices and counter-notices received at GitHub](https://github.com/github/dmca)
+- [Why so few Matt Levines?](https://gwern.net/matt-levine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
