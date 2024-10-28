@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
+- [So Long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
 - [GenAI is set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
 - [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
-- [Apple iPhone 16 sales blocked in Indonesia due to local parts rule](https://asia.nikkei.com/Business/Technology/Apple-iPhone-16-sales-blocked-in-Indonesia-due-to-local-parts-rule)
-- [Ask HN: What&#39;s your favorite text-based adventure game?](https://news.ycombinator.com/item?id=41973744)
-- [NY Times Gets 230 Wrong Again](https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/)
+- [Don&#39;t Implement Unification by Recursion](https://www.philipzucker.com/unify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
