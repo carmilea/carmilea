@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 - [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
+- [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
 - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 - [Why so few Matt Levines?](https://gwern.net/matt-levine)
 <!-- BLOG-POST-LIST:END -->
