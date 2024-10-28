@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple introduces new iMac supercharged by M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
+- [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
+- [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
+- [Apple Intelligence is available today on iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
+- [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 - [The Use of Knowledge in Society &lpar;1945&rpar; [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
-- [Privacy and control over your Recall experience](https://support.microsoft.com/en-gb/windows/privacy-and-control-over-your-recall-experience-d404f672-7647-41e5-886c-a3c59680af15)
-- [Gravity Is Not a Force](https://superposer.substack.com/p/gravity-is-not-a-force)
-- [More farms are turning to automation amid labor shortages](https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
