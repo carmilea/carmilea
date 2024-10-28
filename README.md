@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s Jimi &#39;Mundane&#39; Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 - [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
-- [Bulma CSS Framework](https://bulma.io/)
 - [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
+- [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
+- [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
