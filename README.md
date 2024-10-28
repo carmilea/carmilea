@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started with H2O GPTe: A Guide to Enterprise RAG](https://www.youtube.com/watch?v=WQMvTliBxwE)
 - [Running Pipelines in SingleStore | SingleStore Tutorial](https://www.youtube.com/watch?v=uC7VYmkgpSw)
 - [Creating and Running your first Notebook in SingleStore](https://www.youtube.com/watch?v=Q6L9Jo5-wlY)
 - [SingleStore Portal Tour | SingleStore Tutorial](https://www.youtube.com/watch?v=AGYzxHadOqw)
 - [Creating a table in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=IJaFK8nYe0A)
-- [Getting Started in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=umvZDW3bipI)
 <!-- YOUTUBE:END -->
 
 
