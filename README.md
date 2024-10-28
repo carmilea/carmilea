@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple iPhone 16 Is Now Illegal in Indonesia, Ban Leaves Tourists in the Lurch](https://www.news18.com/tech/apple-iphone-16-is-now-illegal-in-indonesia-ban-leaves-tourists-in-the-lurch-9099034.html)
+- [Japan&#39;s Jimi &#39;Mundane&#39; Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
+- [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
 - [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 - [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
-- [Bulma CSS Framework](https://bulma.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
