@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
+- [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 - [418 I&#39;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
-- [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
-- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
-- [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
-- [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
+- [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
