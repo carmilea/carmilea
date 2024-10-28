@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
-- [So Long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
-- [GenAI is set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
-- [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
-- [Don&#39;t Implement Unification by Recursion](https://www.philipzucker.com/unify/)
+- [200k subscribers flee &#39;Washington Post&#39; after Bezos blocks Harris endorsement](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations)
+- [We&#39;re forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
+- [DMCA takedown notices and counter-notices received at GitHub](https://github.com/github/dmca)
+- [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
+- [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
