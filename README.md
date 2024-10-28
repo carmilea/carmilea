@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
-- [Nothing left to solve](https://lmnt.me/blog/nothing-left-to-solve.html)
+- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
+- [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+- [Bulma CSS Framework](https://bulma.io/)
 - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
-- [RP FLIP escapes wrecker&#39;s claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
