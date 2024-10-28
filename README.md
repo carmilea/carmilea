@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
-- [Learn to Read Russian in 15 Minutes](https://www.ryanestrada.com/russian/index.html)
-- [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [Nested Loops Revisited Again](https://ieeexplore.ieee.org/abstract/document/10184629/)
+- [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
+- [Nested Loops Revisited Again &lpar;2023&rpar;](https://ieeexplore.ieee.org/abstract/document/10184629/)
+- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
