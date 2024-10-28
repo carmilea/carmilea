@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
-- [Scott Fitzgerald&#39;s Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
-- [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
-- [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
-- [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
+- [GenAI is set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
+- [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
+- [Apple iPhone 16 sales blocked in Indonesia due to local parts rule](https://asia.nikkei.com/Business/Technology/Apple-iPhone-16-sales-blocked-in-Indonesia-due-to-local-parts-rule)
+- [Ask HN: What&#39;s your favorite text-based adventure game?](https://news.ycombinator.com/item?id=41973744)
+- [NY Times Gets 230 Wrong Again](https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
