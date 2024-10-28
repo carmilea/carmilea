@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
+- [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
+- [Learn to Read Russian in 15 Minutes](https://www.ryanestrada.com/russian/index.html)
 - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
-- [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [418 I&#39;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- [Nested Loops Revisited Again](https://ieeexplore.ieee.org/abstract/document/10184629/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
