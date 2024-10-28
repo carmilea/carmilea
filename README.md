@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+- [418 I&#39;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
+- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 - [TLS Callbacks &lpar;2012&rpar;](https://legend.octopuslabs.io/archives/2418/2418.htm)
 - [Ask HN: What Are You Working On? &lpar;October 2024&rpar;](https://news.ycombinator.com/item?id=41966114)
-- [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-- [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
