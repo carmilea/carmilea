@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [The Event Horizon Telescope image might need a correction](https://academic.oup.com/mnras/article/534/4/3237/7660988)
 - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 - [Nested Loops Revisited Again &lpar;2023&rpar;](https://ieeexplore.ieee.org/abstract/document/10184629/)
-- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
