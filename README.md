@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 - [Write code that is easy to delete, not easy to extend &lpar;2016&rpar;](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 - [418 I&#39;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 <!-- BLOG-POST-LIST:END -->
 
