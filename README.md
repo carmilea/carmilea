@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
+- [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 - [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 - [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
