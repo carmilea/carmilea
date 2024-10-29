@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
+- [Reworkd &lpar;YC S23&rpar; Is Hiring a Customer Success Engineer &lpar;In Person SF&rpar;](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
-- [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 - [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
+- [The secret electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
