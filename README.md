@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
-- [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 - [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
-- [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
+- [What&#39;s New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
