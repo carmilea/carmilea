@@ -45,9 +45,9 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build with NodeJS on SingleStore](https://www.youtube.com/watch?v=0B7dD-lnuMU)
 - [Building a full stack NextJS AI app](https://www.youtube.com/watch?v=x179vRPClOM)
 - [Building a GenAI app with SingleStore Helios on AWS and Anthropic 3](https://www.youtube.com/watch?v=eT_ifzJkvcA)
-- [Build with NodeJS on SingleStore](https://www.youtube.com/watch?v=0B7dD-lnuMU)
 - [Getting Started with H2O GPTe: A Guide to Enterprise RAG](https://www.youtube.com/watch?v=WQMvTliBxwE)
 - [Running Pipelines in SingleStore | SingleStore Tutorial](https://www.youtube.com/watch?v=uC7VYmkgpSw)
 <!-- YOUTUBE:END -->
