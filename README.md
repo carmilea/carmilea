@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/)
+- [Generative AI could generate tons of e-waste by decade&#39;s end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
+- [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
 - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
-- [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
-- [Teri Garr, Star of &#39;Young Frankenstein&#39; and &#39;Tootsie,&#39; Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
-- [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
