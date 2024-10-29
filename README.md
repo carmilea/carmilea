@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating billions of records: moving our active DNS database while it&#39;s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
+- [Writing in Pictures: Richard Scarry and the art of children&#39;s literature](https://yalereview.org/article/chris-ware-richard-scarry)
+- [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
 - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
-- [VC Built an Empire in Cybersecurity, Then Came the Conflicts of Interest](https://www.forbes.com/sites/iainmartin/2024/10/28/this-vc-built-a-cybersecurity-unicorn-machine-then-came-his-conflict-of-interest-mess/)
+- [Launch HN: Integuru &lpar;YC W24&rpar;: Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 - [Reworkd &lpar;YC S23&rpar; Is Hiring a Customer Success Engineer &lpar;In Person SF&rpar;](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
-- [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
