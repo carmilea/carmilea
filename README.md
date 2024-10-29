@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [InspectMind AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
+- [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
+- [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 - [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 - [Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
-- [Raspberry Pi OS&#39;s yearslong switch from X Window to Wayland is now official](https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/)
-- [When are two proofs essentially the same? &lpar;2007&rpar;](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
-- [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
