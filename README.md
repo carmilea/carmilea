@@ -62,7 +62,7 @@
 - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 - [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 - [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
-- [Ask HN: Can calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
+- [What&#39;s New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
