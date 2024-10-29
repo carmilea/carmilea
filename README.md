@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
+- [Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
+- [Raspberry Pi OS&#39;s yearslong switch from X Window to Wayland is now official](https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/)
 - [When are two proofs essentially the same? &lpar;2007&rpar;](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
-- [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
-- [Writing in Pictures: Richard Scarry and the art of children&#39;s literature](https://yalereview.org/article/chris-ware-richard-scarry)
-- [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
