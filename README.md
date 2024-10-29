@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)
-- [Show HN: Apache ResilientDB, High-Performance Open-Source Blockchain](https://resilientdb.incubator.apache.org/)
+- [&#39;Rescue Party&#39; [Arthur C. Clarke, 1946]](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
+- [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
 - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 - [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
