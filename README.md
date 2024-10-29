@@ -45,7 +45,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Build with NodeJS on SingleStore](https://www.youtube.com/watch?v=WxDcMrSeFp4)
+- [Build with NodeJS on SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=WxDcMrSeFp4)
 - [Build with NodeJS on SingleStore](https://www.youtube.com/watch?v=0B7dD-lnuMU)
 - [Building a full stack NextJS AI app](https://www.youtube.com/watch?v=x179vRPClOM)
 - [Building a GenAI app with SingleStore Helios on AWS and Anthropic 3](https://www.youtube.com/watch?v=eT_ifzJkvcA)
