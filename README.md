@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recent BGP leak that redirected internet traffic through Russia](https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/)
+- [NASA&#39;s oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
 - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
-- [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
+- [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
-- [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
-- [What&#39;s New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
