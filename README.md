@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When are two proofs essentially the same? &lpar;2007&rpar;](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
+- [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
+- [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
 - [Writing in Pictures: Richard Scarry and the art of children&#39;s literature](https://yalereview.org/article/chris-ware-richard-scarry)
 - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
-- [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
-- [Launch HN: Integuru &lpar;YC W24&rpar;: Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
-- [Reworkd &lpar;YC S23&rpar; Is Hiring a Customer Success Engineer &lpar;In Person SF&rpar;](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
