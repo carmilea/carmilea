@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
+- [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
+- [Teri Garr, Star of &#39;Young Frankenstein&#39; and &#39;Tootsie,&#39; Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
+- [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
-- [Unlocking the Power of Data Lakehouses: The Role of Iceberg and Real-Time Analytics](https://www.singlestore.com/blog/unlocking-the-power-of-data-lakehouses)
-- [InspectMind AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
-- [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
-- [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
