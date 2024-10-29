@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating billions of records: moving our active DNS database while it&#39;s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
+- [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
+- [VC Built an Empire in Cybersecurity, Then Came the Conflicts of Interest](https://www.forbes.com/sites/iainmartin/2024/10/28/this-vc-built-a-cybersecurity-unicorn-machine-then-came-his-conflict-of-interest-mess/)
 - [Reworkd &lpar;YC S23&rpar; Is Hiring a Customer Success Engineer &lpar;In Person SF&rpar;](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
-- [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
-- [Rescue Party &lpar;1946&rpar;](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
-- [The secret electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
