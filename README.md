@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
+- [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
+- [What&#39;s new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
+- [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 - [Launch HN: FlyCode &lpar;YC S22&rpar; – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
-- [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
-- [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
-- [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
-- [The Secret Father of Modern Computing &lpar;2023&rpar;](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
