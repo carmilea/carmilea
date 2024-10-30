@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/)
+- [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom)
 - [Google CEO says more than a quarter of the company&#39;s new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
 - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
-- [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
