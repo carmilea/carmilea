@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SaaS that analyses and monitors your tests &lpar;similar tool used daily at Meta&rpar;](https://www.testpulse.io)
+- [Why anti-cheat software utilize kernel drivers &lpar;2020&rpar;](https://secret.club/2020/04/17/kernel-anticheats.html)
 - [OpenZFS deduplication is good now and you shouldn&#39;t use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 - [Is Patrick Mackenzie&#39;s salary negotiation guide relevant in today&#39;s market?](https://news.ycombinator.com/item?id=42000626)
 - [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)
-- [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
-- [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
