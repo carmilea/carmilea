@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
+- [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 - [Tiptap &lpar;YC S23&rpar; Is Hiring a Senior Full Stack Engineer &lpar;Berlin or EU Remote&rpar;](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
-- [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
 - [15 Billion Miles Away, NASA&#39;s Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
 - [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
-- [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
