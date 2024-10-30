@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
-- [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
+- [K4 – High performance open-source transactional, durable embedded storage engine](https://github.com/guycipher/k4)
 - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 - [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
 - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
