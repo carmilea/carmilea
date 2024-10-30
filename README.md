@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheap Solar Panels Are Changing the World](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
-- [Pushing the Frontiers of Audio Generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
-- [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
-- [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
-- [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
+- [Beelink Open-Sourced Multi-Functional GPU Ex Docking Station for Mini PCs](https://www.gamingonlinux.com/2024/10/beelink-have-open-sourced-their-multi-functional-ex-docking-station-for-mini-pcs/)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;Remote or in SF&rpar;](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
+- [EU AI Act is much worse than you think](https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu)
+- [Cheap solar panels are changing the world](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
+- [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
