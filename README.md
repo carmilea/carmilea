@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiptap &lpar;YC S23&rpar; Is Hiring a Senior Full Stack Engineer &lpar;Berlin or EU Remote&rpar;](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
+- [15 Billion Miles Away, NASA&#39;s Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
-- [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
-- [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
-- [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
+- [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
