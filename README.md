@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tiptap &lpar;YC S23&rpar; Is Hiring a Senior Full Stack Engineer &lpar;Berlin or EU Remote&rpar;](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
+- [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
 - [15 Billion Miles Away, NASA&#39;s Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
+- [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
-- [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
-- [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
