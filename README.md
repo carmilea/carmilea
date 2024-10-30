@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: FlyCode &lpar;YC S22&rpar; – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
+- [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
+- [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
 - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
-- [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)
-- [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
-- [Pg_analytics is now PostgreSQL Licensed](https://github.com/paradedb/pg_analytics)
-- [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
+- [The Secret Father of Modern Computing &lpar;2023&rpar;](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
