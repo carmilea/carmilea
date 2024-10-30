@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Reports Third Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Third-Quarter-2024-Results/default.aspx)
-- [What scripts have you built to stand up a new server?](https://news.ycombinator.com/item?id=41999462)
 - [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
 - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
-- [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
+- [DeepSeek v2.5 – open-source LLM comparable to GPT-4, but 95% less expensive](https://www.deepseek.com/)
+- [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
+- [Google&#39;s TOS doesn&#39;t eliminate a user&#39;s Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
