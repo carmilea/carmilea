@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Math and Puzzle Fans Find Magic in Martin Gardner&#39;s Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
-- [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
-- [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
-- [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
-- [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
+- [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
+- [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)
+- [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
+- [Pg_analytics is now PostgreSQL Licensed](https://github.com/paradedb/pg_analytics)
+- [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
