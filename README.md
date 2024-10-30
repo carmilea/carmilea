@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/)
+- [Google CEO says more than a quarter of the company&#39;s new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
 - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
+- [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 - [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
-- [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
-- [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
-- [A collection of Halloween postcards from &quot;golden age&quot; of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
