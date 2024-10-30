@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
+- [Math and Puzzle Fans Find Magic in Martin Gardner&#39;s Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
-- [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
-- [Software freedom isn&#39;t about licenses – it&#39;s about power &lpar;2021&rpar;](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
