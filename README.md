@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beelink Open-Sourced Multi-Functional GPU Ex Docking Station for Mini PCs](https://www.gamingonlinux.com/2024/10/beelink-have-open-sourced-their-multi-functional-ex-docking-station-for-mini-pcs/)
+- [Woman dies from miscarriage after hospital said it would be a crime to intervene](https://www.propublica.org/article/josseli-barnica-death-miscarriage-texas-abortion-ban)
+- [No Matter What the Bank Says, It&#39;s Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
+- [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
+- [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;Remote or in SF&rpar;](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
-- [EU AI Act is much worse than you think](https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu)
-- [Cheap solar panels are changing the world](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
-- [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
