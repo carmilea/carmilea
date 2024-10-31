@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
+- [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
+- [Wait Until 8th](https://www.waituntil8th.org)
+- [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
-- [Launch HN: Patched &lpar;YC S24&rpar; – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
-- [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
-- [Decoupling design from engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
+- [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
