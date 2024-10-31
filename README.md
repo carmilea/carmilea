@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
-- [The History Of The Monokai Color Scheme](https://monokai.pro/history)
-- [I Attended Google&#39;s Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
-- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
+- [The history of Monokai](https://monokai.pro/history)
+- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children &lpar;2020&rpar;](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
+- [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
