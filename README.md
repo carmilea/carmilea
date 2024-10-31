@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford to Halt F-150 Lightning Production as EV Demand Wanes](https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes)
-- [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
-- [Activeloop &lpar;YC S18&rpar; Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
-- [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
-- [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
+- [Nearly 90% of our AI crawler traffic is from ByteDance](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
+- [Ask HN: What do you think would happen if Google and YouTube split?](https://news.ycombinator.com/item?id=42009310)
+- [Launch HN: Patched &lpar;YC S24&rpar; – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
+- [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
+- [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
