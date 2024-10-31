@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lago &lpar;Open-Source Usage Based Billing&rpar; Is Hiring for Post-Sales Roles &lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
+- [Voyager 1 phones home with transmitter that hasn&#39;t been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
+- [Sorry, Gas Companies – Parody Isn&#39;t Infringement &lpar;Even If It Creeps You Out&rpar;](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 - [Moving to a World Beyond &quot;p &lt; 0.05&quot; &lpar;2019&rpar;](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
-- [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
-- [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- [Clipboard Health &lpar;YC W17&rpar; is hiring engineers to scale healthcare &lpar;remote&rpar;](https://www.clipboardhealth.com/engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
