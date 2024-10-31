@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
+- [Clipboard Health &lpar;YC W17&rpar; is hiring engineers to scale healthcare &lpar;remote&rpar;](https://www.clipboardhealth.com/engineering)
+- [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 - [The history of Monokai](https://monokai.pro/history)
-- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children &lpar;2020&rpar;](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 - [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 <!-- BLOG-POST-LIST:END -->
