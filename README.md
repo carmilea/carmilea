@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
-- [China sanctions US drone maker Skydio](https://www.skydio.com/blog/chinas-sanctions-on-skydio)
-- [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
-- [Nearly 90% of our AI crawler traffic is from ByteDance](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
 - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
+- [Launch HN: Patched &lpar;YC S24&rpar; – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
+- [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
+- [Decoupling design from engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
