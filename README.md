@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust and C++ with Steve Klabnik and Herb Sutter [audio]](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
-- [SSH Remoting](https://zed.dev/blog/remote-development)
-- [Clipboard Health &lpar;YC W17&rpar; is hiring engineers to scale healthcare &lpar;remote&rpar;](https://www.clipboardhealth.com/engineering)
-- [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
+- [Lago &lpar;Open-Source Usage Based Billing&rpar; Is Hiring for Post-Sales Roles &lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
+- [Moving to a World Beyond &quot;p &lt; 0.05&quot; &lpar;2019&rpar;](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+- [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+- [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 <!-- BLOG-POST-LIST:END -->
 
