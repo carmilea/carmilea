@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Attended Google&#39;s Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
+- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 - [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
-- [It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-- [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
+- [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
