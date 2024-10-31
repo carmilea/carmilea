@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physical Intelligence&#39;s first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 - [Wait Until 8th](https://www.waituntil8th.org)
 - [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
-- [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
