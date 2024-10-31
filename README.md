@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
-- [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
-- [Sorry, Gas Companies – Parody Isn&#39;t Infringement &lpar;Even If It Creeps You Out&rpar;](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
-- [Moving to a World Beyond &quot;p &lt; 0.05&quot; &lpar;2019&rpar;](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
-- [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+- [Ford to Halt F-150 Lightning Production as EV Demand Wanes](https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes)
+- [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
+- [Activeloop &lpar;YC S18&rpar; Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
+- [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
+- [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
