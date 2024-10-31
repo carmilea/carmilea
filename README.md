@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Voyager 1 phones home with transmitter that hasn&#39;t been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
+- [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 - [Sorry, Gas Companies – Parody Isn&#39;t Infringement &lpar;Even If It Creeps You Out&rpar;](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 - [Moving to a World Beyond &quot;p &lt; 0.05&quot; &lpar;2019&rpar;](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
