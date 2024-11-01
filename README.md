@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 - [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
 - [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
-- [Linux on Apple Silicon with Alyssa Rosenzweig](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
-- [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
-- [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
+- [Linux on Apple Silicon with Alyssa Rosenzweig [audio]](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
