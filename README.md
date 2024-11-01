@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
+- [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
+- [Let&#39;s Encrypt is unable to validate domain names](https://letsencrypt.status.io/pages/55957a99e800baa4470002da)
+- [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
 - [VMware Workstation Shifting from Proprietary Code to Using Upstream KVM](https://www.phoronix.com/news/VMware-Workstation-KVM)
-- [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)
-- [Physical Intelligence&#39;s first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
-- [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
-- [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
