@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
 - [It&#39;s been 30 years since Intel&#39;s infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 - [Pythagora &lpar;GPT Pilot&rpar; &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
-- [Org Mode Syntax Cheat Sheet &lpar;2017&rpar;](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
