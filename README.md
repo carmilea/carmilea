@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
+- [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 - [Ask HN: Who is hiring? &lpar;November 2024&rpar;](https://news.ycombinator.com/item?id=42017580)
+- [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 - [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
-- [Analyzing Go Build Times &lpar;2023&rpar;](https://blog.howardjohn.info/posts/go-build-times/)
-- [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
-- [Google employees pressure execs at all-hands meeting for clarity on cost cuts](https://www.cnbc.com/2024/11/01/google-employees-pressure-execs-at-all-hands-for-clarity-on-cost-cuts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
