@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
-- [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
-- [DAWN: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
+- [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
+- [Org Mode Syntax Cheat Sheet &lpar;2017&rpar;](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 - [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
 - [Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
 <!-- BLOG-POST-LIST:END -->
