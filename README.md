@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
-- [Apple&#39;s M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
-- [Alexander the Great&#39;s tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
-- [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
-- [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+- [Ask HN: Who is hiring? &lpar;November 2024&rpar;](https://news.ycombinator.com/item?id=42017580)
+- [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
+- [Analyzing Go Build Times &lpar;2023&rpar;](https://blog.howardjohn.info/posts/go-build-times/)
+- [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
+- [Google employees pressure execs at all-hands meeting for clarity on cost cuts](https://www.cnbc.com/2024/11/01/google-employees-pressure-execs-at-all-hands-for-clarity-on-cost-cuts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
