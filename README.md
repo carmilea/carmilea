@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
-- [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
-- [Let&#39;s Encrypt is unable to validate domain names](https://letsencrypt.status.io/pages/55957a99e800baa4470002da)
+- [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
+- [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
+- [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
+- [DAWN: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
 - [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
-- [VMware Workstation Shifting from Proprietary Code to Using Upstream KVM](https://www.phoronix.com/news/VMware-Workstation-KVM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
