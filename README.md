@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
+- [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 - [Ask HN: Who is hiring? &lpar;November 2024&rpar;](https://news.ycombinator.com/item?id=42017580)
-- [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
-- [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
