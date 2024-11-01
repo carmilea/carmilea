@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
+- [Apple&#39;s M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 - [Alexander the Great&#39;s tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
-- [Filter, Map, Reduce in 1.5 minutes [video]](https://www.youtube.com/watch?v=PZvHZJVeYdw)
 - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
 - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
-- [Pythagora &lpar;GPT Pilot&rpar; &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
