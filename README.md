@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Building a GenAI app with SingleStore Helios on AWS and Anthropic 3](https://www.youtube.com/watch?v=eT_ifzJkvcA)
-- [Building Secure, Scalable Data Access APIs with Hasura and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=l4zook_NazQ)
-- [Build with NodeJS on SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=WxDcMrSeFp4)
-- [Build with NodeJS on SingleStore](https://www.youtube.com/watch?v=0B7dD-lnuMU)
-- [Building a full stack NextJS AI app](https://www.youtube.com/watch?v=x179vRPClOM)
+- [Using AI for good and future trends](https://www.youtube.com/watch?v=l621xd6Kjns)
+- [The new state of AI leveraging the power of multi agent systems](https://www.youtube.com/watch?v=oLaIJAdhvX8)
+- [The journey of LLMs and why democratizing AI now means getting into the AGI space](https://www.youtube.com/watch?v=eH68UbonaMI)
+- [How H2O ai is democratizing AI](https://www.youtube.com/watch?v=d3hdJVLPoD8)
+- [How to increase AI adoption and better evaluate models Eval Studio](https://www.youtube.com/watch?v=PpTnEECOT7g)
 <!-- YOUTUBE:END -->
 
 
