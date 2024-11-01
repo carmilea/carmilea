@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Winlator is an Android application that lets you to run Windows &lpar;x86_64&rpar; apps](https://github.com/brunodev85/winlator)
-- [Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
 - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
-- [It&#39;s been 30 years since Intel&#39;s infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+- [Pythagora &lpar;GPT Pilot&rpar; &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
+- [Apple silently uploads your passwords and keeps them](https://lapcatsoftware.com/articles/2024/10/4.html)
+- [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
