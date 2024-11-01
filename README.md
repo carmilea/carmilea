@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
-- [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 - [The Shell Hater&#39;s Handbook](https://shellhaters.org/talk)
 - [Broadwell&#39;s EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
 <!-- BLOG-POST-LIST:END -->
