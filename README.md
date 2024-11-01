@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VMware Workstation Shifting from Proprietary Code to Using Upstream KVM](https://www.phoronix.com/news/VMware-Workstation-KVM)
+- [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)
 - [Physical Intelligence&#39;s first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
-- [Wait Until 8th](https://www.waituntil8th.org)
 - [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
-- [Bayesian Yacht Sinking](https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
