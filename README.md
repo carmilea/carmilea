@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
-- [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
-- [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
-- [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
-- [Ask HN: Who is hiring? &lpar;November 2024&rpar;](https://news.ycombinator.com/item?id=42017580)
+- [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
+- [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
+- [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
+- [The Shell Hater&#39;s Handbook](https://shellhaters.org/talk)
+- [Broadwell&#39;s EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
