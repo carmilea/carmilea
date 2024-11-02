@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercedes-Benz opens its own recycling facility for EV batteries](https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/)
-- [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
+- [US Government memo shows Ethel Rosenberg was not a spy but executed her anyway](https://www.bloomberg.com/news/newsletters/2024-11-01/using-foia-to-lift-the-veil-of-secrecy-on-a-cold-war-secret)
 - [Weird Lexical Syntax](https://justine.lol/lex/)
 - [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
+- [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
