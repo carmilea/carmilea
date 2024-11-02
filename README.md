@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colossus AI Supercluster with over 100k Nvidia H100 GPUs](https://twitter.com/ServeTheHome/status/1850917031421399543)
 - [Show HN: A minimalist &lpar;brutalist?&rpar; website for sharing all your links](https://lynx.boo)
 - [Britain&#39;s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
 - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
-- [Show HN: SpawELO - small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
