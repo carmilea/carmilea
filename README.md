@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+- [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
+- [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
 - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
 - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
-- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
-- [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
+- [Sleep regularity is a stronger predictor of mortality than sleep duration &lpar;2023&rpar;](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
