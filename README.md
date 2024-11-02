@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+- [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 - [Eighty Years of the Finite Element Method &lpar;2022&rpar;](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-- [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
