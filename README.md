@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A minimalist &lpar;brutalist?&rpar; website for sharing all your links](https://lynx.boo)
+- [Britain&#39;s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
 - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
-- [Weird Lexical Syntax](https://justine.lol/lex/)
-- [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
-- [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
+- [Show HN: SpawELO - small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
