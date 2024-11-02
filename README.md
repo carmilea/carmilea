@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colossus AI Supercluster with over 100k Nvidia H100 GPUs](https://twitter.com/ServeTheHome/status/1850917031421399543)
+- [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
+- [Eighty Years of the Finite Element Method &lpar;2022&rpar;](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+- [Brute-Forcing the LLM Guardrails](https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4)
+- [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
 - [Show HN: A minimalist &lpar;brutalist?&rpar; website for sharing all your links](https://lynx.boo)
-- [Britain&#39;s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
-- [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
-- [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
