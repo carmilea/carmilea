@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam on Linux Marketshare Hits 2.0% for October, AMD Use Linux Approaches 75%](https://www.phoronix.com/news/Steam-October-2024-Numbers)
-- [Solid-state batteries enter pilot production, costs expected to drastically drop](https://www.pv-magazine.com/2024/11/01/solid-state-batteries-enter-pilot-production-costs-expected-to-drastically-drop/)
-- [Neurotechnology boosts memory without surgery](https://actu.epfl.ch/news/neurotechnology-boosts-memory-without-surgery/)
-- [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
 - [Weird Lexical Syntax](https://justine.lol/lex/)
+- [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
+- [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
+- [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+- [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
