@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Government memo shows Ethel Rosenberg was not a spy but executed her anyway](https://www.bloomberg.com/news/newsletters/2024-11-01/using-foia-to-lift-the-veil-of-secrecy-on-a-cold-war-secret)
+- [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
+- [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 - [Weird Lexical Syntax](https://justine.lol/lex/)
 - [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
-- [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
