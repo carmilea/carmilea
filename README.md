@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
-- [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
-- [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
-- [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
-- [The Shell Hater&#39;s Handbook &lpar;2010&rpar;](https://shellhaters.org/talk)
+- [Steam on Linux Marketshare Hits 2.0% for October, AMD Use Linux Approaches 75%](https://www.phoronix.com/news/Steam-October-2024-Numbers)
+- [Solid-state batteries enter pilot production, costs expected to drastically drop](https://www.pv-magazine.com/2024/11/01/solid-state-batteries-enter-pilot-production-costs-expected-to-drastically-drop/)
+- [Neurotechnology boosts memory without surgery](https://actu.epfl.ch/news/neurotechnology-boosts-memory-without-surgery/)
+- [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
+- [Weird Lexical Syntax](https://justine.lol/lex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
