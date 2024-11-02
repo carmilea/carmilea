@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cppfront v0.8.0](https://github.com/hsutter/cppfront/releases/tag/v0.8.0)
-- [Rivian&#39;s chief software officer says in-car buttons are &#39;an anomaly&#39;](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
-- [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
 - [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
-- [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
+- [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
+- [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
+- [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
+- [The Shell Hater&#39;s Handbook &lpar;2010&rpar;](https://shellhaters.org/talk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
