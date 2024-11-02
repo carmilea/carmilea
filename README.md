@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
-- [Tailwind simple responsive Navbar component to get you started on your projects](https://sharewind.onrender.com/users/sign_in)
 - [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
+- [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
