@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Wiki](https://auth.wiki/)
-- [A new copyright rule lets McDonald&#39;s fix its own broken ice cream machines](https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law)
-- [I Waited 10B Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
+- [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
+- [Intel might be too big to fail](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
 - [If you need the money, don&#39;t take the job](https://bitfieldconsulting.com/posts/need-money)
+- [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
 - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 <!-- BLOG-POST-LIST:END -->
 
