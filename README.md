@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel might be too big to fail – policymakers discussing potential solutions](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
+- [Auth Wiki](https://auth.wiki/)
+- [A new copyright rule lets McDonald&#39;s fix its own broken ice cream machines](https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law)
+- [I Waited 10B Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
 - [If you need the money, don&#39;t take the job](https://bitfieldconsulting.com/posts/need-money)
 - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
-- [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
-- [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
