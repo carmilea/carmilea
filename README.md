@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Kis.tools – A directory of tools that work](https://kis.tools)
+- [If you need the money, don&#39;t take the job](https://bitfieldconsulting.com/posts/need-money)
 - [Advances in Zero-Knowledge Proofs: Bridging the Gap Between Theory and Practice [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf)
 - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
-- [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
 - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
+- [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
