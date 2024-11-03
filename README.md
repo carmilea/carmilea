@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
-- [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
+- [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
+- [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
+- [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
+- [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
 - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
-- [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
