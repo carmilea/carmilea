@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
+- [Understanding pain, mental illness, and grief](https://dhruvmethi.substack.com/p/understanding-pain-mental-illness)
 - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search &lpar;2021&rpar;](https://arxiv.org/abs/2111.08566)
-- [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
-- [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
