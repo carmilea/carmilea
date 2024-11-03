@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
+- [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
+- [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
+- [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 - [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
-- [Show HN: Replacicon – Create and customize app icons on macOS](https://replacicon.app)
-- [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
-- [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
-- [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
