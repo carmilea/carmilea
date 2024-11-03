@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
-- [D2: Declarative Diagramming – A modern language that turns text to diagrams](https://d2lang.com/)
-- [Zed – The Editor for What&#39;s Next](https://zed.dev/)
+- [I couldn&#39;t find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
+- [The AP has called winners in elections for more than 170 years. How it&#39;s done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
 - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
-- [Intel might be too big to fail](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
+- [If you need the money, don&#39;t take the job](https://bitfieldconsulting.com/posts/need-money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
