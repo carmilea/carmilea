@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
-- [A Golang pipeline abomination](https://poxate.com/blog/golang-pipeline-abomination)
+- [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
-- [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search &lpar;2021&rpar;](https://arxiv.org/abs/2111.08566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
