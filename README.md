@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
+- [Show HN: Replacicon – Create and customize app icons on macOS](https://replacicon.app)
+- [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
 - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
-- [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
-- [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
-- [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
