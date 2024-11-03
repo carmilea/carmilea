@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
 - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
-- [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
