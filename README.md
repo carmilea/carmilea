@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
+- [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
+- [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
+- [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
-- [I couldn&#39;t find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
-- [The AP has called winners in elections for more than 170 years. How it&#39;s done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
-- [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
-- [If you need the money, don&#39;t take the job](https://bitfieldconsulting.com/posts/need-money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
