@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
 - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
 - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
-- [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
