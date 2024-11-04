@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity CEO offers AI company&#39;s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
+- [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
+- [US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
+- [Yale prof solves part of math&#39;s &#39;Rosetta](https://news.yale.edu/2024/11/01/geometry-masterpiece-yale-prof-solves-part-maths-rosetta-stone)
 - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
-- [Insomnia, but not lack of sleep, may hasten brain shrinkage: study](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
-- [Blog Writing for Developers &lpar;2023&rpar;](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
