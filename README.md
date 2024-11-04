@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
+- [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+- [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 - [I&#39;ve had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
-- [Adding IPv6 to My Home Network &lpar;2024-11-03&rpar;](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
-- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
-- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
