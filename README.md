@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
+- [Perplexity CEO offers AI company&#39;s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
+- [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
+- [Insomnia, but not lack of sleep, may hasten brain shrinkage: study](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
+- [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 - [Blog Writing for Developers &lpar;2023&rpar;](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
-- [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
-- [MySQL RDS Data Integration Into SingleStore](https://www.singlestore.com/blog/mysql-rds-data-integration-into-singlestore)
-- [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
