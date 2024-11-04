@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly half of Americans think members of the opposing political party are evil](https://phys.org/news/2024-10-americans-members-opposing-political-party.html)
-- [Once Linux&#39;s Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
-- [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
-- [A Missing IDE Feature](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
+- [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
+- [We&#39;re Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
+- [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
+- [I feel that NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
 - [PropelAuth &lpar;YC W22&rpar; is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 <!-- BLOG-POST-LIST:END -->
 
