@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
+- [Blog Writing for Developers &lpar;2023&rpar;](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 - [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
+- [MySQL RDS Data Integration Into SingleStore](https://www.singlestore.com/blog/mysql-rds-data-integration-into-singlestore)
 - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
-- [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
-- [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
-- [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
