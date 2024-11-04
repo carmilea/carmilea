@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
+- [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
+- [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
+- [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
 - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
-- [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
-- [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
-- [Bad software keeps cyber security companies in business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
-- [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
