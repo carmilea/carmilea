@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
+- [It&#39;s Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
+- [What should a logo for NeXT look like? &lpar;1986&rpar;](https://www.paulrand.design/work/NeXT-Computers.html)
+- [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
+- [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 - [We&#39;re Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
-- [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
-- [I feel that NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
-- [PropelAuth &lpar;YC W22&rpar; is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
