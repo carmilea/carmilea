@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please just stop saying &quot;just&quot; &lpar;2019&rpar;](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
+- [New better alterative to XML, JSON and YAML](https://xenondata.org)
 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
-- [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
-- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
