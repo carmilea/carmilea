@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
+- [Tamarind Bio &lpar;YC W24&rpar; is hiring a founding engineer to scale bioML infra &lpar;SF&rpar;](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
+- [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
 - [It&#39;s Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
-- [What should a logo for NeXT look like? &lpar;1986&rpar;](https://www.paulrand.design/work/NeXT-Computers.html)
-- [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
-- [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
-- [We&#39;re Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
+- [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
