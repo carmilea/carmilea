@@ -62,7 +62,7 @@
 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 - [Adding IPv6 to My Home Network &lpar;2024-11-03&rpar;](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
 - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
-- [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
+- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
