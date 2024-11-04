@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Developing a GenAI application with SingleStore Helios on AWS | SingleStore Webinars](https://www.youtube.com/watch?v=uEyjvWduNMs)
 - [Using AI for good and future trends](https://www.youtube.com/watch?v=l621xd6Kjns)
 - [The new state of AI leveraging the power of multi agent systems](https://www.youtube.com/watch?v=oLaIJAdhvX8)
 - [The journey of LLMs and why democratizing AI now means getting into the AGI space](https://www.youtube.com/watch?v=eH68UbonaMI)
 - [How H2O ai is democratizing AI](https://www.youtube.com/watch?v=d3hdJVLPoD8)
-- [How to increase AI adoption and better evaluate models Eval Studio](https://www.youtube.com/watch?v=PpTnEECOT7g)
 <!-- YOUTUBE:END -->
 
 
