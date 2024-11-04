@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
 - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
 - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
-- [Show HN: I launched a super cheap and simple to use OCR tool for macOS](https://www.textcapture.app/)
 - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 <!-- BLOG-POST-LIST:END -->
 
