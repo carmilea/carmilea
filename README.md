@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad Software Keeps Cyber Security Companies in Business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
+- [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
+- [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
+- [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
+- [Bad software keeps cyber security companies in business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
 - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
-- [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
-- [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
-- [Back to the future: Writing 6502 assembler with Amazon Q Developer](https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
