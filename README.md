@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
-- [Tamarind Bio &lpar;YC W24&rpar; is hiring a founding engineer to scale bioML infra &lpar;SF&rpar;](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
-- [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
-- [It&#39;s Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
-- [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
+- [Bad Software Keeps Cyber Security Companies in Business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
+- [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
+- [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
+- [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
+- [Back to the future: Writing 6502 assembler with Amazon Q Developer](https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
