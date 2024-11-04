@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
+- [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
+- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
+- [Show HN: I launched a super cheap and simple to use OCR tool for macOS](https://www.textcapture.app/)
 - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
-- [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
-- [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
-- [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
-- [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
