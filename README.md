@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Public sector cyber break-ins: Our money, our lives, our right to know](https://www.theregister.com/2024/11/04/public_sector_breakins_opinion/)
+- [New York Times Tech Workers Go on Strike](https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html)
+- [PropelAuth &lpar;YC W22&rpar; is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 - [Cheap Thrills, an album cover by Robert Crumb &lpar;2020&rpar;](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 - [The history of Unix&#39;s ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
-- [I&#39;ve had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
-- [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
-- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
