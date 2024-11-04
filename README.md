@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheap Thrills, an album cover by Robert Crumb &lpar;2020&rpar;](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
+- [The history of Unix&#39;s ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 - [I&#39;ve had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
-- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
-- [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
