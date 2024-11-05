@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmer in Berlin: Culture](https://wickedchicken.github.io/post/programmer-in-berlin-culture/)
+- [Blood Sugar Control Is a Key Factor in Slowing Brain Aging, Mediterranean Diet++](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
 - [How the British Airways&#39; breach kickstarted today&#39;s web security challenge](https://baways.com/)
 - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
