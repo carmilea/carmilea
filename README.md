@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Shall Fight in the Buttery – Oxford&#39;s War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
-- [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
-- [What if they are all wrong? &lpar;2020&rpar;](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
-- [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
-- [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
+- [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
+- [Iceland embraced a shorter work week](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
+- [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
+- [Apple &#39;broke law&#39; by pushing out labor-organizing dev](https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/)
+- [World&#39;s First Wooden Satellite Heads to Space in Mars Exploration Test](https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
