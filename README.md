@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
+- [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
 - [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea&#39;s Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
-- [Tencent drops a 389B MoE model&lpar;Open-source and free for commercial use&rpar;&rpar;](https://github.com/Tencent/Tencent-Hunyuan-Large)
-- [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
-- [Minnesota map to find out if your home&#39;s drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
-- [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
+- [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
+- [Vega&#39;s Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
