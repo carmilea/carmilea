@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Is Now Watermarking Its AI-Generated Text](https://spectrum.ieee.org/watermark)
+- [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 - [Pagination widows, or, why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
-- [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
-- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
