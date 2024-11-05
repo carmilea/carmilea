@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The average age of U.S. homebuyers jumps to 56](https://www.cnbc.com/2024/11/04/homebuyer-average-age-rises-to-56-amid-rising-homeownership-costs.html)
 - [How the British Airways&#39; breach kickstarted today&#39;s web security challenge](https://baways.com/)
 - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
-- [Pagination widows, or, Why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
-- [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
+- [Pagination widows, or, why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
