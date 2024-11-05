@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
+- [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
+- [Show HN: Varse – Simple remote server variables](https://github.com/varse-io/varse)
+- [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
 - [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
-- [Iceland embraced a shorter work week](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
-- [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
-- [Apple &#39;broke law&#39; by pushing out labor-organizing dev](https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/)
-- [World&#39;s First Wooden Satellite Heads to Space in Mars Exploration Test](https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
