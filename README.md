@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minnesota map to find out if your home&#39;s drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
-- [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
 - [Soft matter mechanics of baseball&#39;s Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
 - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
