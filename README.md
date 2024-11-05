@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
-- [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
-- [Show HN: Varse – Simple remote server variables](https://github.com/varse-io/varse)
-- [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
-- [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
+- [Soft matter mechanics of baseball&#39;s Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
+- [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
+- [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
+- [Show HN: Varse – Simple remote application config](https://github.com/varse-io/varse)
+- [PiML: Python Interpretable Machine Learning Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
