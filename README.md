@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Is Now Watermarking Its AI-Generated Text](https://spectrum.ieee.org/watermark)
-- [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
-- [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
-- [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
-- [Pagination widows, or, why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
+- [We Shall Fight in the Buttery – Oxford&#39;s War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
+- [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
+- [What if they are all wrong? &lpar;2020&rpar;](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
+- [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
+- [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
