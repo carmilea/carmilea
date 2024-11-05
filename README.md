@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The average age of U.S. homebuyers jumps to 56](https://www.cnbc.com/2024/11/04/homebuyer-average-age-rises-to-56-amid-rising-homeownership-costs.html)
+- [Programmer in Berlin: Culture](https://wickedchicken.github.io/post/programmer-in-berlin-culture/)
 - [How the British Airways&#39; breach kickstarted today&#39;s web security challenge](https://baways.com/)
 - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
