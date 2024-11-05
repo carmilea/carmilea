@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
-- [Internet Archive Services Update](https://blog.archive.org/2024/10/28/internet-archive-services-update/)
-- [How the British Airways&#39; breach kickstarted today&#39;s web security challenge](https://baways.com/)
-- [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
+- [Pagination widows, or, why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
+- [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
+- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
