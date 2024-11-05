@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
-- [US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
-- [Yale prof solves part of math&#39;s &#39;Rosetta](https://news.yale.edu/2024/11/01/geometry-masterpiece-yale-prof-solves-part-maths-rosetta-stone)
+- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
+- [US Forest Service decision to halt prescribed burns in ca is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
+- [Local Peer-to-Peer API Draft Community Group Report](https://WICG.github.io/local-peer-to-peer/)
 - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
 - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 <!-- BLOG-POST-LIST:END -->
