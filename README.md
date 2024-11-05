@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New OpenAI Feature: Predicted Outputs](https://simonwillison.net/2024/Nov/4/predicted-outputs/)
 - [How the British Airways&#39; breach kickstarted today&#39;s web security challenge](https://baways.com/)
 - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
-- [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
+- [Pagination widows, or, Why I&#39;m embarrassed about my eBook &lpar;2023&rpar;](https://clagnut.com/blog/2426)
+- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
