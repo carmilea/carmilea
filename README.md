@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea&#39;s Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
+- [Tencent drops a 389B MoE model&lpar;Open-source and free for commercial use&rpar;&rpar;](https://github.com/Tencent/Tencent-Hunyuan-Large)
+- [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
 - [Minnesota map to find out if your home&#39;s drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
-- [Soft matter mechanics of baseball&#39;s Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
-- [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
-- [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
