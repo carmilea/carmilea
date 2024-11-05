@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
+- [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
+- [Pagination widows, or, Why I&#39;m embarrassed about my eBook](https://clagnut.com/blog/2426)
 - [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 - [US Forest Service decision to halt prescribed burns in ca is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
-- [Local Peer-to-Peer API Draft Community Group Report](https://WICG.github.io/local-peer-to-peer/)
-- [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
-- [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
