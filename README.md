@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
+- [Tracking down a mysterious skateboarder from 1979](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
 - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
 - [Apple to Face First EU Fine Under Bloc&#39;s Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
-- [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
-- [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea&#39;s Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
+- [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
+- [Vega&#39;s Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
