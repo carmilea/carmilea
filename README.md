@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT now on chat.com](https://chat.com/)
+- [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
+- [Japan&#39;s declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
+- [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
 - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 - [Starship&#39;s Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
-- [Launch HN: Midship &lpar;YC S24&rpar; – Turn PDFs and Images into usable data](https://news.ycombinator.com/item?id=42066500)
-- [Learning not to trust the All-In podcast](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
