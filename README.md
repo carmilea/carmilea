@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
 - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
 - [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
 - [It&#39;s raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
-- [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
