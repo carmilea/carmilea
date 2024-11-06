@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [German Coalition Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)
+- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+- [Ollama 0.4 is released with support for Meta&#39;s Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 - [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
-- [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
-- [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
-- [Starship&#39;s Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
