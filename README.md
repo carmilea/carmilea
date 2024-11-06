@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 - [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
 - [Perhaps Rust Needs &quot;Defer&quot;](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 - [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
-- [Former President Trump is projected to win the presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
