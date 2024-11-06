@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
+- [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
 - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
-- [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
-- [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
