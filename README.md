@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Midship &lpar;YC S24&rpar; – Turn unstructured documents into usable data](https://news.ycombinator.com/item?id=42066500)
+- [Learning not to trust the All-In podcast](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
 - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
 - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
-- [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
-- [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
-- [It&#39;s raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
+- [Show HN: Term-Lisp – A Lisp, based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
