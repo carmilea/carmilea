@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
+- [Former President Trump is projected to win the presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
 - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
 - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
-- [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
-- [Tracker Beeper &lpar;2022&rpar;](https://berthub.eu/articles/posts/tracker-beeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
