@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Midship &lpar;YC S24&rpar; – Turn unstructured documents into usable data](https://news.ycombinator.com/item?id=42066500)
+- [ChatGPT now on chat.com](https://chat.com/)
+- [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
+- [Starship&#39;s Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
+- [Launch HN: Midship &lpar;YC S24&rpar; – Turn PDFs and Images into usable data](https://news.ycombinator.com/item?id=42066500)
 - [Learning not to trust the All-In podcast](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
-- [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
-- [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
-- [Show HN: Term-Lisp – A Lisp, based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
