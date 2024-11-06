@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
+- [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
+- [It&#39;s raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
-- [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
-- [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
-- [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
-- [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
+- [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
