@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
+- [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
+- [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
+- [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 - [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
-- [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
-- [Title drops in movies](https://www.titledrops.net/)
-- [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
