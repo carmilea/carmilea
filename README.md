@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
 - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
+- [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
 - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 - [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
-- [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
+- [Tracker Beeper &lpar;2022&rpar;](https://berthub.eu/articles/posts/tracker-beeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
