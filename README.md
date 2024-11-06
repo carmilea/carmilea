@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German Coalition Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)
+- [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
+- [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
 - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 - [Ollama 0.4 is released with support for Meta&#39;s Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
-- [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
 <!-- BLOG-POST-LIST:END -->
 
 ---
