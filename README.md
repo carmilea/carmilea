@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
+- [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
+- [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
 - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
-- [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
-- [Perhaps Rust Needs &quot;Defer&quot;](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
-- [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
