@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
+- [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
+- [Title drops in movies](https://www.titledrops.net/)
 - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 - [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
-- [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
-- [More Oracle Layoffs Started Nov. 1, Cloud Unit Impacted](https://www.channelfutures.com/channel-business/more-oracle-layoffs-started-nov-1-cloud-unit-impacted#)
-- [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
