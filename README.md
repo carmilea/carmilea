@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
+- [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
+- [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
-- [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 <!-- BLOG-POST-LIST:END -->
