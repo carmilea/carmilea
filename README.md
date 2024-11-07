@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating the World Model Implicit in a Generative Model](https://arxiv.org/abs/2406.03689)
+- [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
-- [The Secret System Behind Every Call You Make Is About to Change Hands](https://www.hackingbutlegal.com/p/the-secret-system-behind-every-call)
 - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
+- [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 <!-- BLOG-POST-LIST:END -->
 
