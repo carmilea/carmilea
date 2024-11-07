@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
+- [Sega is delisting 60 classic games from Steam, so now&#39;s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
+- [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
+- [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
+- [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
 - [Bluesky&#39;s at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
-- [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
-- [Kagi Translate](https://blog.kagi.com/kagi-translate)
-- [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
