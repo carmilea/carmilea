@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
+- [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
+- [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
 - [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
 - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
-- [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin &lpar;Dreamcast&rpar;](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
-- [XMPP: The Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
-- [Sixteen U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
