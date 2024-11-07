@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QNX is now free for anything non-commercial, plus there&#39;s an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
-- [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
-- [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
-- [Gardens reduce seasonal hunger gaps for farmland pollinators](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1523)
-- [Ask HN: Why did consumer 3D printing take so long to be invented?](https://news.ycombinator.com/item?id=42079086)
+- [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
+- [Kagi Translate](https://blog.kagi.com/kagi-translate)
+- [Ask HN: Life-changing purchases since 2020? &lpar;Under $100 and under $1000&rpar;](https://news.ycombinator.com/item?id=42079768)
+- [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
+- [The Complete Guide to the MongoDB® $sum Operator](https://www.singlestore.com/blog/complete-guide-to-the-mongodb-sum-operator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
