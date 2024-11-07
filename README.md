@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
-- [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
+- [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
+- [Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
-- [Ollama 0.4 is released with support for Meta&#39;s Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 <!-- BLOG-POST-LIST:END -->
 
