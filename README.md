@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 - [Optery &lpar;YC W22&rpar; Is Hiring Product Managers and Full Stack Developer &lpar;Node.js&rpar;](https://www.workatastartup.com/companies/optery)
 - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 - [I&#39;m Not Mutable, I&#39;m Partially Instantiated &lpar;Prolog&rpar;](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
-- [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
