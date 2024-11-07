@@ -61,8 +61,8 @@
 - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
 - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
 - [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
+- [Ping Rate Clock](https://github.com/turingbirds/ping-clock)
 - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
-- [Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
