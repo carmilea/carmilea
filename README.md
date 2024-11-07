@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)
+- [Optery &lpar;YC W22&rpar; Is Hiring Product Managers and Full Stack Developer &lpar;Node.js&rpar;](https://www.workatastartup.com/companies/optery)
 - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
+- [I&#39;m Not Mutable, I&#39;m Partially Instantiated &lpar;Prolog&rpar;](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
-- [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
