@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sega is delisting 60 classic games from Steam, so now&#39;s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
-- [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
+- [Bird flu infections undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 - [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
 - [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
-- [Bluesky&#39;s at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
+- [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
