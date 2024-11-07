@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
+- [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)
 - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
