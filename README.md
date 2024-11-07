@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
+- [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
 - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
 - [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
 - [Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
-- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
-- [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
