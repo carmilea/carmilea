@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
+- [Bluesky&#39;s at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
 - [Kagi Translate](https://blog.kagi.com/kagi-translate)
-- [Ask HN: Life-changing purchases since 2020? &lpar;Under $100 and under $1000&rpar;](https://news.ycombinator.com/item?id=42079768)
 - [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
-- [The Complete Guide to the MongoDB® $sum Operator](https://www.singlestore.com/blog/complete-guide-to-the-mongodb-sum-operator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
