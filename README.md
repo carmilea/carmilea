@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [States Still Ban Community-Owned Broadband Networks Because AT&amp;T and Comcast](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
-- [Growing Food Instead of Lawns in California Front Yards](https://www.nytimes.com/2024/11/05/climate/microfarms-cropswapla-food-deserts.html)
-- [What Came First, The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
+- [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin &lpar;Dreamcast&rpar;](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
+- [Sixteen U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
 - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
+- [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 - [Optery &lpar;YC W22&rpar; Is Hiring Product Managers and Full Stack Developer &lpar;Node.js&rpar;](https://www.workatastartup.com/companies/optery)
 <!-- BLOG-POST-LIST:END -->
 
