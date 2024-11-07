@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QNX is now free for anything non-commercial, plus there&#39;s an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
+- [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
+- [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
+- [Gardens reduce seasonal hunger gaps for farmland pollinators](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1523)
 - [Ask HN: Why did consumer 3D printing take so long to be invented?](https://news.ycombinator.com/item?id=42079086)
-- [Imaging shapes of atomic nuclei in high-energy nuclear collisions](https://www.nature.com/articles/s41586-024-08097-2)
-- [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
-- [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
-- [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
