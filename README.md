@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why did consumer 3D printing take so long to be invented?](https://news.ycombinator.com/item?id=42079086)
+- [Imaging shapes of atomic nuclei in high-energy nuclear collisions](https://www.nature.com/articles/s41586-024-08097-2)
+- [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
-- [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
-- [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
-- [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
-- [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
+- [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
