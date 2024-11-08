@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Now 2024: SAS + SingleStore = Enterprise AI at Scale](https://www.youtube.com/watch?v=ztZyDqwpEXk)
+- [SingleStore Now 2024: AWS / Enterprise AI Innovation: Gen AI Experimentation](https://www.youtube.com/watch?v=YnH8dCuzTUU)
 - [SingleStore NOW 2024: Outreach / AI- and Data-Driven Sales](https://www.youtube.com/watch?v=UCozI7mnJKo)
 - [SingleStore Now 2024: 6sense / AI in Production: Lessons Learned](https://www.youtube.com/watch?v=KUqESDkAOgU)
 - [SingleStore Now 2024 / Pyler: AI-Powered Brand Safety](https://www.youtube.com/watch?v=Yr5U9FRUA2U)
-- [SingleStore NOW 2024 / LiveRamp: Building the World’s Largest Identity Graph without a Graph DB](https://www.youtube.com/watch?v=PeFKT7uu_Sg)
-- [How to Build Local LLM Apps with Ollama &amp; SingleStore for Maximum Security](https://www.youtube.com/watch?v=ixLuBDLURcc)
 <!-- YOUTUBE:END -->
 
 
