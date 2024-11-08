@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
+- [Apple Macintosh before System 7](https://earlymacintosh.org/)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
+- [Algol-68 seemed like a good idea – until it wasn&#39;t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
-- [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
-- [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
-- [Pirating &quot;The Pirate Bay&quot; TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
