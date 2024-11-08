@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC will stop making 7 nm chips for Chinese customers](https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/)
+- [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
+- [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
+- [Elwood Edwards, Voice of AOL&#39;s &#39;You&#39;ve Got Mail &#39; Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 - [How is the SSD installed – M4 Mac Mini &lpar;2024&rpar;](https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed)
-- [Judge&#39;s Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
-- [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
-- [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
-- [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
