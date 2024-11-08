@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [SingleStore Now 2024: AI-Powered Brand Safety with Pyler](https://www.youtube.com/watch?v=Yr5U9FRUA2U)
-- [SingleStore NOW 2024:LiveRamp / Building the World’s Largest Identity Graph without a Graph Database](https://www.youtube.com/watch?v=PeFKT7uu_Sg)
+- [SingleStore Now 2024: 6sense / AI in Production: Lessons Learned](https://www.youtube.com/watch?v=KUqESDkAOgU)
+- [SingleStore Now 2024 / Pyler: AI-Powered Brand Safety](https://www.youtube.com/watch?v=Yr5U9FRUA2U)
+- [SingleStore NOW 2024 / LiveRamp: Building the World’s Largest Identity Graph without a Graph DB](https://www.youtube.com/watch?v=PeFKT7uu_Sg)
 - [How to Build Local LLM Apps with Ollama &amp; SingleStore for Maximum Security](https://www.youtube.com/watch?v=ixLuBDLURcc)
 - [Mastering The Four Pillars in AI - Speed Security Accuracy Scale!](https://www.youtube.com/watch?v=KgAW0CX_kBQ)
-- [This Acquisition Led Amazon&#39;s AI Journey!](https://www.youtube.com/watch?v=YlZ1q4fWeKY)
 <!-- YOUTUBE:END -->
 
 
