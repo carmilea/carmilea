@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
+- [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
 - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
 - [Pirating &quot;The Pirate Bay&quot; TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
-- [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
-- [Aviator &lpar;YC S21&rpar; Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
