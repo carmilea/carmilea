@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police Freak Out at iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
+- [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+- [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
+- [iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
 - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 - [Wild Ball](https://r3f-drei-rapier.surge.sh)
-- [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
-- [Tell HN: Telegram is most likely doing client side scanning; I quit Telegram](https://news.ycombinator.com/item?id=42081574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
