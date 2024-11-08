@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
+- [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
+- [Pirating &quot;The Pirate Bay&quot; TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
+- [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 - [Aviator &lpar;YC S21&rpar; Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
-- [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
-- [First image of our Milky Way&#39;s black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
-- [The Weeds Are Winning](https://longreads.com/2024/11/07/the-weeds-are-winning/)
-- [Gravity&#39;s Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
