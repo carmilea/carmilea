@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build Local LLM Apps with Ollama &amp; SingleStore for Maximum Security](https://www.youtube.com/watch?v=ixLuBDLURcc)
 - [Mastering The Four Pillars in AI - Speed Security Accuracy Scale!](https://www.youtube.com/watch?v=KgAW0CX_kBQ)
 - [This Acquisition Led Amazon&#39;s AI Journey!](https://www.youtube.com/watch?v=YlZ1q4fWeKY)
 - [Future of Speech Recognition - No Words Needed.](https://www.youtube.com/watch?v=rNE2g3B2r-8)
 - [How We Made That App, Ep.12: From Alexa to Pryon – How Igor Jablokov is Shaping the Future of AI](https://www.youtube.com/watch?v=DO7RKONSEE0)
-- [Developing a GenAI application with SingleStore Helios on AWS | SingleStore Webinars](https://www.youtube.com/watch?v=uEyjvWduNMs)
 <!-- YOUTUBE:END -->
 
 
