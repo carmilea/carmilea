@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
+- [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
+- [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
 - [Perceptually lossless &lpar;talking head&rpar; video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
-- [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
-- [Intentrace: Strace for Everyone](https://github.com/sectordistrict/intentrace)
-- [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+- [The &#39;Invisibility Cloak&#39; – Slash-Proc Magic](https://dfir.ch/posts/slash-proc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
