@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sega is delisting 60 classic games from Steam, so now&#39;s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
-- [Bird flu infections undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
-- [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
-- [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
-- [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
+- [Police Freak Out at iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
+- [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
+- [Wild Ball](https://r3f-drei-rapier.surge.sh)
+- [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
+- [Tell HN: Telegram is most likely doing client side scanning; I quit Telegram](https://news.ycombinator.com/item?id=42081574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
