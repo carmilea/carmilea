@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
+- [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
 - [First image of our Milky Way&#39;s black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
 - [The Weeds Are Winning](https://longreads.com/2024/11/07/the-weeds-are-winning/)
-- [Elwood Edwards, Voice of AOL&#39;s &#39;You&#39;ve Got Mail &#39; Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
-- [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
-- [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
+- [Gravity&#39;s Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
