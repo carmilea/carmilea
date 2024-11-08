@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
+- [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
+- [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
 - [Apple Macintosh before System 7](https://earlymacintosh.org/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
-- [Algol-68 seemed like a good idea – until it wasn&#39;t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
-- [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
