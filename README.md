@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perceptually lossless &lpar;talking head&rpar; video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
-- [Corinthian Bronze](https://en.wikipedia.org/wiki/Corinthian_bronze)
 - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
