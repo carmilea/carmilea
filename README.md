@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There&#39;s Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)
 - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
 - [FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
-- [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
