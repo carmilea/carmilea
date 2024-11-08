@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
+- [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
 - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 - [Wild Ball](https://r3f-drei-rapier.surge.sh)
-- [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
