@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Mastering The Four Pillars in AI - Speed Security Accuracy Scale!](https://www.youtube.com/watch?v=KgAW0CX_kBQ)
+- [This Acquisition Led Amazon&#39;s AI Journey!](https://www.youtube.com/watch?v=YlZ1q4fWeKY)
+- [Future of Speech Recognition - No Words Needed.](https://www.youtube.com/watch?v=rNE2g3B2r-8)
 - [How We Made That App, Ep.12: From Alexa to Pryon – How Igor Jablokov is Shaping the Future of AI](https://www.youtube.com/watch?v=DO7RKONSEE0)
 - [Developing a GenAI application with SingleStore Helios on AWS | SingleStore Webinars](https://www.youtube.com/watch?v=uEyjvWduNMs)
-- [Using AI for good and future trends](https://www.youtube.com/watch?v=l621xd6Kjns)
-- [The new state of AI leveraging the power of multi agent systems](https://www.youtube.com/watch?v=oLaIJAdhvX8)
-- [The journey of LLMs and why democratizing AI now means getting into the AGI space](https://www.youtube.com/watch?v=eH68UbonaMI)
 <!-- YOUTUBE:END -->
 
 
