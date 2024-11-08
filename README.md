@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How is the SSD installed – M4 Mac Mini &lpar;2024&rpar;](https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed)
+- [Judge&#39;s Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
 - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
-- [Perceptually lossless &lpar;talking head&rpar; video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
-- [The &#39;Invisibility Cloak&#39; – Slash-Proc Magic](https://dfir.ch/posts/slash-proc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
