@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
 - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
-- [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
