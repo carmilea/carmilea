@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Now 2024 / Snowflake + SingleStore: Better Together](https://www.youtube.com/watch?v=35qYZkF6-9g)
+- [SingleStore Now 2024: Groq / AI Trends, and Running LLMs in the Enterprise](https://www.youtube.com/watch?v=jWCvqRAl5DQ)
+- [SingleStore Now 2024: LlamaIndex / Building Multi-Agent RAG Systems](https://www.youtube.com/watch?v=PzTHGaKiBZ8)
 - [SingleStore Now 2024: AI with SingleStore, IBM StreamSets and watsonx.ai](https://www.youtube.com/watch?v=1nDm2Eec-vY)
 - [SingleStore Now 2024: SAS + SingleStore = Enterprise AI at Scale](https://www.youtube.com/watch?v=ztZyDqwpEXk)
-- [SingleStore Now 2024: AWS / Enterprise AI Innovation: Gen AI Experimentation](https://www.youtube.com/watch?v=YnH8dCuzTUU)
-- [SingleStore NOW 2024: Outreach / AI- and Data-Driven Sales](https://www.youtube.com/watch?v=UCozI7mnJKo)
-- [SingleStore Now 2024: 6sense / AI in Production: Lessons Learned](https://www.youtube.com/watch?v=KUqESDkAOgU)
 <!-- YOUTUBE:END -->
 
 
