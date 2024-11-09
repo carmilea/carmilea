@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
+- [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 - [Reconstruction of Lomonosov&#39;s Discovery of Venus&#39;s Atmosphere &lpar;2012&rpar; [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
 - [It&#39;s legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
-- [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
-- [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
