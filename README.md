@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
-- [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
-- [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
-- [There aren&#39;t enough smart people in biology doing something boring](https://www.owlposting.com/p/there-arent-enough-smart-people-in)
-- [Trellis &lpar;YC W24&rpar; is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [SCIM: System for Cross-Domain Identity Management](https://scim.cloud/)
+- [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
+- [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
+- [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
+- [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
