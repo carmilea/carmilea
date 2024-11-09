@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 - [When you ask ChatGPT &quot;Tell me a story&quot; it&#39;s always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
-- [Reconstruction of Lomonosov&#39;s Discovery of Venus&#39;s Atmosphere &lpar;2012&rpar; [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
