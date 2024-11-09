@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
-- [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
-- [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
+- [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
+- [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
+- [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
 - [There aren&#39;t enough smart people in biology doing something boring](https://www.owlposting.com/p/there-arent-enough-smart-people-in)
 - [Trellis &lpar;YC W24&rpar; is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!-- BLOG-POST-LIST:END -->
