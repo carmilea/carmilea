@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
+- [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
 - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
-- [When you ask ChatGPT &quot;Tell me a story&quot; it&#39;s always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
-- [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
