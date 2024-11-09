@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SCIM: System for Cross-Domain Identity Management](https://scim.cloud/)
+- [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 - [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
 - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
