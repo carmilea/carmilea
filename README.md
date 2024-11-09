@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
+- [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
+- [Maelstrom: High-Performance Matrix Home-Server Written in Rust](https://github.com/maelstrom-rs/maelstrom)
 - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
-- [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
-- [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
-- [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
-- [Apple Macintosh before System 7](https://earlymacintosh.org/)
+- [Claude AI to process secret government data through new Palantir deal](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
