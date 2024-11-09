@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Following Wyoming Example, Feds Limit Foreign Crypto Mines Near Military Bases](https://cowboystatedaily.com/2024/11/08/following-wyoming-example-feds-limit-foreign-crypto-mines-near-military-bases/)
+- [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
-- [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
-- [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
-- [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
-- [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
+- [Defending the Tor network: Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
