@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
+- [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
+- [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
 - [Trellis &lpar;YC W24&rpar; is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Following Wyoming Example, Feds Limit Foreign Crypto Mines Near Military Bases](https://cowboystatedaily.com/2024/11/08/following-wyoming-example-feds-limit-foreign-crypto-mines-near-military-bases/)
-- [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
-- [Defending the Tor network: Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
