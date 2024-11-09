@@ -62,7 +62,7 @@
 - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
 - [Trellis &lpar;YC W24&rpar; is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
+- [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
