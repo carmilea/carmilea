@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+- [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
+- [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
-- [Cache Directory Tagging Specification &lpar;2004&rpar;](https://bford.info/cachedir/)
-- [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
-- [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
