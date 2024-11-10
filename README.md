@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brewington Hardaway Becomes First U.S. Born Black Grandmaster](https://www.chess.com/news/view/brewington-hardaway-earns-gm-title)
 - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 - [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
 - [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
+- [Show HN: Dracan – Open-source, 1:1 proxy with simple filtering/validation config](https://github.com/Veinar/dracan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
