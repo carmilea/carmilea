@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 - [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
 - [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
 - [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
-- [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
