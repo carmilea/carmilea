@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
-- [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
-- [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
-- [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
-- [Show HN: Dracan – Open-source, 1:1 proxy with simple filtering/validation config](https://github.com/Veinar/dracan)
+- [M4 and M4 Pro Mac minis are probably Apple&#39;s best Mac minis](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+- [High Power Mode for M4 Pro Macs](https://mjtsai.com/blog/2024/11/08/high-power-mode-for-m4-pro-macs/)
+- [Andrej Karpathy on learning &lpar;should never be fun&rpar;](https://twitter.com/karpathy/status/1756380066580455557)
+- [Ousterhout&#39;s Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
+- [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
