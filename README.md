@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dobble &lpar;The Mathematics Of&rpar; &lpar;2018&rpar;](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+- [The Principles of Mr. Harrison&#39;s Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
+- [Ask HN: Where to put a static page that would last forever](https://news.ycombinator.com/item?id=42099469)
+- [Linux Asceticism](https://www.rugu.dev/en/blog/linux-asceticism/)
 - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
-- [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
-- [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
-- [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
-- [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
