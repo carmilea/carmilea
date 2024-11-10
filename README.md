@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs have reached a point of diminishing returns](https://garymarcus.substack.com/p/confirmed-llms-have-indeed-reached)
+- [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
+- [Stargate built 15 years ago in Ohio 50k pounds concrete family time](https://www.usatoday.com/story/news/nation/2024/11/08/stargate-built-by-family-in-ohio/76133926007/)
+- [Archaeologists Puzzled by Skeleton of Bones of People Who Died 1000&#39;s Yrs Apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
-- [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
-- [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
