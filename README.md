@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California&#39;s gas prices to increase 65 cents per gallon with new fuel standards](https://abc7news.com/post/californias-air-resources-board-vote-new-fuel-standards-could-increase-gas-prices-65-cents-gallon/15528843/)
 - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 - [The Soul in the Stomach &lpar;2021&rpar;](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 - [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
-- [A life that added up to something &lpar;Obituary of Paul Erdòs&rpar;](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
