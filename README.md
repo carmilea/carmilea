@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
-- [Archaeologists Puzzled by Skeleton of Bones of People Who Died 1000&#39;s Yrs Apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
+- [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
