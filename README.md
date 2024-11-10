@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dobble &lpar;The Mathematics Of&rpar; &lpar;2018&rpar;](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+- [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 - [The Principles of Mr. Harrison&#39;s Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
-- [Ask HN: Where to put a static page that would last forever](https://news.ycombinator.com/item?id=42099469)
 - [Linux Asceticism](https://www.rugu.dev/en/blog/linux-asceticism/)
 - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 <!-- BLOG-POST-LIST:END -->
