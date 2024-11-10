@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
-- [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
-- [Typesetting Engines: A Programmer&#39;s Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
-- [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
-- [Dobble &lpar;The Mathematics Of&rpar; &lpar;2018&rpar;](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+- [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
+- [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
+- [What&#39;s New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
+- [Section 230 Immunizes OnlyFans for User-Uploaded Video–DOE vs. Fenix](https://blog.ericgoldman.org/archives/2024/11/section-230-immunizes-onlyfans-for-user-uploaded-video-doe-v-fenix.htm)
+- [Thoughts on the Resiliency of Web Projects](https://aaronparecki.com/2024/08/31/9/too-many-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
