@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
+- [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
+- [Ruby might be better than Python for new learners](https://ronynn.github.io/ruby-might-be-better-than-python/)
 - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
 - [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
-- [What&#39;s New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
-- [Section 230 Immunizes OnlyFans for User-Uploaded Video–DOE vs. Fenix](https://blog.ericgoldman.org/archives/2024/11/section-230-immunizes-onlyfans-for-user-uploaded-video-doe-v-fenix.htm)
-- [Thoughts on the Resiliency of Web Projects](https://aaronparecki.com/2024/08/31/9/too-many-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
