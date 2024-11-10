@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful/)
+- [A life that added up to something &lpar;Obituary of Paul Erdòs&rpar;](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
+- [The history of the epigraph from Appointment in Samarra &lpar;2022&rpar;](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
+- [A Lunar Space Elevator Could Be Built for $2B [pdf]](https://www.hou.usra.edu/meetings/newviews2018/pdf/6016.pdf)
 - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
-- [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
-- [Ruby might be better than Python for new learners](https://ronynn.github.io/ruby-might-be-better-than-python/)
-- [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
-- [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
