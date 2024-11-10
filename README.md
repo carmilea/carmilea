@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful/)
+- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
+- [The Soul in the Stomach &lpar;2021&rpar;](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
+- [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
+- [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
 - [A life that added up to something &lpar;Obituary of Paul Erdòs&rpar;](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
-- [The history of the epigraph from Appointment in Samarra &lpar;2022&rpar;](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
-- [A Lunar Space Elevator Could Be Built for $2B [pdf]](https://www.hou.usra.edu/meetings/newviews2018/pdf/6016.pdf)
-- [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
