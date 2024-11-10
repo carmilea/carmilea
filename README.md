@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dobble &lpar;The Mathematics Of&rpar; &lpar;2018&rpar;](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
-- [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
-- [The Principles of Mr. Harrison&#39;s Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
-- [Linux Asceticism](https://www.rugu.dev/en/blog/linux-asceticism/)
-- [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
+- [Typesetting Engines: A Programmer&#39;s Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
+- [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
+- [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
+- [Everything I&#39;ve learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
+- [ASCII Delimited Text – Not CSV or Tab Delimited Text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
