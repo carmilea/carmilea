@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs have reached a point of diminishing returns](https://garymarcus.substack.com/p/confirmed-llms-have-indeed-reached)
 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
-- [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
 - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
