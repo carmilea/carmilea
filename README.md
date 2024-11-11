@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Would Support Deploying the Military to Domestic Protests?](https://www.lawfaremedia.org/article/who-would-support-deploying-the-military-to-domestic-protests)
+- [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
 - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 - [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
 - [Australia&#39;s 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
-- [I fixed a server with a precisely placed piece of tape &lpar;2023&rpar;](https://social.treehouse.systems/@marcan/110252202169575508)
+- [Another simple online DNS query tool](https://nstoolbox.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
