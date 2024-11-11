@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 - [Virtual Windows 3.11 Computer](https://pieter.com/)
 - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
-- [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
