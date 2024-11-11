@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ERP rollout at Europe&#39;s largest local council slammed](https://www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/)
+- [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
+- [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
+- [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
+- [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
 - [Haven &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
-- [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
-- [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
-- [SST: Container Support](https://sst.dev/blog/container-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
