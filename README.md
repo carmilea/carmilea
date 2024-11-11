@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s 10am and Dad&#39;s Doing Jell-O Shots. Must Be Parents&#39; Weekend](https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532)
+- [Standing Desk Might Be as Bad as Sitting All Day](https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day)
+- [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
+- [Australia&#39;s 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
 - [I fixed a server with a precisely placed piece of tape &lpar;2023&rpar;](https://social.treehouse.systems/@marcan/110252202169575508)
 - [Another simple online DNS query tool](https://nstoolbox.com/)
-- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
-- [The Soul in the Stomach &lpar;2021&rpar;](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
