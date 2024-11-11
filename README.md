@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Brain stars&#39; store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)
+- [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
 - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
-- [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
-- [Nango &lpar;YC W23&rpar; is hiring remotely for open-source product integrations](https://nango.dev/jobs)
-- [The Death and Life of Prediction Markets at Google](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)
-- [The Doodle Theorem, and Beyond &lpar;2016&rpar;](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
+- [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
+- [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
