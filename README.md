@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23&rpar; is hiring remotely for open-source product integrations](https://nango.dev/jobs)
+- [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
+- [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
-- [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
-- [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
-- [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
