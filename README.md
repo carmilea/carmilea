@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
+- [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
 - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
-- [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
-- [Haven &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
