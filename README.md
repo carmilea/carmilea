@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [High Levels of Banned PFAS Detected in Hershey&#39;s Packaging](https://grizzlyreports.com/hsy/)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
-- [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
-- [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
-- [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
+- [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
+- [The online sports gambling experiment](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
+- [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
