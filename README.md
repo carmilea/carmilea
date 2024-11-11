@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 - [Nango &lpar;YC W23&rpar; is hiring remotely for open-source product integrations](https://nango.dev/jobs)
-- [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
-- [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
-- [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
-- [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
+- [The Death and Life of Prediction Markets at Google](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)
+- [The Doodle Theorem, and Beyond &lpar;2016&rpar;](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
+- [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning [pdf]](http://www.mit.edu/~akyurek/papers/ttt.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
