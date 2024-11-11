@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High Levels of Banned PFAS Detected in Hershey&#39;s Packaging](https://grizzlyreports.com/hsy/)
+- [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
+- [Misguided Apple Intelligence ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+- [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
-- [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
-- [The online sports gambling experiment](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
-- [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
