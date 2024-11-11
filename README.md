@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ERP rollout at Europe&#39;s largest local council slammed](https://www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/)
 - [Haven &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
 - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
 - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
-- [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
 - [SST: Container Support](https://sst.dev/blog/container-support/)
 <!-- BLOG-POST-LIST:END -->
 
