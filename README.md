@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple courier may have stolen 2 MacBooks, ... Apple is not going to help](https://forums.macrumors.com/threads/apple-courier-uber-may-have-stolen-2-macbooks-i-bought-and-its-looking-like-apple-is-not-going-to-help.2441932/)
+- [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
+- [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 - [Virtual Windows 3.11 Computer](https://pieter.com/)
-- [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
-- [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
-- [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
