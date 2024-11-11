@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haven &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
+- [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
 - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
+- [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
 - [SST: Container Support](https://sst.dev/blog/container-support/)
-- [Mattel apologises after Wicked movie dolls link to porn site on packaging](https://www.theguardian.com/film/2024/nov/11/mattel-apologises-after-mistakenly-linking-to-porn-website-on-wicked-dolls)
-- [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
-- [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
