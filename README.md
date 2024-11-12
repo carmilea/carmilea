@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
+- [Carving Your Space](https://heather-buchel.com/blog/2024/11/carving-space/)
 - [M4 Mac mini&#39;s efficiency is incredible](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
+- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 - [Spotify&#39;s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
-- [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
-- [Steam drops Windows 7 and 8 support with the latest client](https://www.tomshardware.com/video-games/pc-gaming/steam-drops-windows-7-and-8-support-with-the-latest-client-users-told-to-update-to-a-more-recent-version-of-windows-to-continue-gaming)
-- [Nowadays &lpar;YC S23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42119674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
