@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant &lpar;YC S22&rpar; Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
+- [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
+- [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
+- [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
 - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
-- [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
-- [Don&#39;t Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
-- [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
-- [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
