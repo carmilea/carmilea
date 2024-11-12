@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jelly – A Simpler Shared Inbox for Small Teams](https://letsjelly.com/)
-- [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
-- [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
-- [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
-- [Visualizing 13M Bluesky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
+- [Nowadays &lpar;YC S23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42119674)
+- [Spanish police arrest ex-fraud chief after €20M found in walls of his house](https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house)
+- [Russian Family Lived Alone in the Siberian Wilderness for 40 Years](https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/)
+- [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
+- [Show HN: Jelly – A simpler shared inbox for small teams](https://letsjelly.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
