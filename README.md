@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 - [Cheaper to rent in Barcelona and commute to London](https://bestburgerinnorthwestlondon.wordpress.com/2013/10/24/cheaper-to-rent-in-barcelona-and-commute-to-london/)
 - [Defensive Communication &lpar;1961&rpar;](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 - [Horse – The Organized Browser](https://browser.horse)
-- [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
