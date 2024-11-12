@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
+- [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
-- [Misguided Apple Intelligence ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
-- [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
+- [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
 <!-- BLOG-POST-LIST:END -->
 
 ---
