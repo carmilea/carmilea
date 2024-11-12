@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
+- [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+- [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
+- [Don&#39;t Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
-- [Genetic Discrimination Is Coming for Us All](https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/)
-- [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
-- [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
+- [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
