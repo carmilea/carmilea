@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why California is still counting votes and how long it may take to finish](https://www.washingtonpost.com/elections/2024/11/09/california-vote-count/)
 - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
 - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
+- [Misguided Apple Intelligence ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
