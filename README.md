@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
+- [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
 - [TaxGPT &lpar;YC S24&rpar; Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
-- [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
-- [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 - [Defensive Communication &lpar;1961&rpar;](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 <!-- BLOG-POST-LIST:END -->
