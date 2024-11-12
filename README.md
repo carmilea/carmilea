@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Fonts](https://devfonts.gafi.dev/)
 - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
-- [Cheaper to rent in Barcelona and commute to London](https://bestburgerinnorthwestlondon.wordpress.com/2013/10/24/cheaper-to-rent-in-barcelona-and-commute-to-london/)
 - [Defensive Communication &lpar;1961&rpar;](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
+- [I Will Always Be Angry About Software Engineering](https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/)
 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
-- [Horse – The Organized Browser](https://browser.horse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
