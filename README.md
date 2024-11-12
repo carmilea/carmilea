@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building a Vector Database in Excel with Prof. Tom Yeh](https://www.youtube.com/watch?v=pf3a2M_C5nE)
 - [Building a full stack NextJS AI app | SingleStore Webinars](https://www.youtube.com/watch?v=n9CXgbKNtjY)
 - [SingleStore Now 2024 / Snowflake + SingleStore: Better Together](https://www.youtube.com/watch?v=35qYZkF6-9g)
 - [SingleStore Now 2024: Groq / AI Trends, and Running LLMs in the Enterprise](https://www.youtube.com/watch?v=jWCvqRAl5DQ)
 - [SingleStore Now 2024: LlamaIndex / Building Multi-Agent RAG Systems](https://www.youtube.com/watch?v=PzTHGaKiBZ8)
-- [SingleStore Now 2024: AI with SingleStore, IBM StreamSets and watsonx.ai](https://www.youtube.com/watch?v=1nDm2Eec-vY)
 <!-- YOUTUBE:END -->
 
 
