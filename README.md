@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
+- [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 - [Instant &lpar;YC S22&rpar; Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
-- [The Future of Programming: Copilots vs. Agents &lpar;Part I&rpar;](https://eastwind.substack.com/p/the-future-of-programming-copilots)
-- [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
