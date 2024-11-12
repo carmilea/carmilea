@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
-- [TaxGPT &lpar;YC S24&rpar; Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
-- [The Lost Reading Items of Ilya Sutskever&#39;s AI Reading List](https://tensorlabbet.com/2024/11/11/lost-reading-items/)
-- [Defensive Communication &lpar;1961&rpar;](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
-- [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
+- [I&#39;m a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
+- [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
+- [Genetic Discrimination Is Coming for Us All](https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/)
+- [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
+- [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
