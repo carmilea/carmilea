@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Fonts](https://devfonts.gafi.dev/)
+- [TaxGPT &lpar;YC S24&rpar; Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
+- [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
 - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 - [Defensive Communication &lpar;1961&rpar;](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
-- [I Will Always Be Angry About Software Engineering](https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/)
 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 <!-- BLOG-POST-LIST:END -->
 
