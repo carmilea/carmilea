@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
+- [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
+- [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
+- [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
+- [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
 - [Why you&#39;re bad at giving feedback](https://posthog.com/newsletter/how-to-give-feedback)
-- [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
-- [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
-- [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
