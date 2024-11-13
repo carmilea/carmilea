@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
+- [Docker Compose Isn&#39;t Enough](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
 - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 - [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
 - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
-- [Why you&#39;re bad at giving feedback](https://posthog.com/newsletter/how-to-give-feedback)
+- [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
