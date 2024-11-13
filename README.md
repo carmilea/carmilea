@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
+- [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)
 - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 - [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
 - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
-- [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
-- [Delivering actionable feedback](https://posthog.com/newsletter/how-to-give-feedback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
