@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [B2C billing is harder than B2B billing](https://arnon.dk/6-reasons-why-b2c-billing-is-actually-harder-than-b2b/)
-- [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
-- [AMD&#39;s CPU sales are miles better than Intel](https://www.pcguide.com/news/amds-cpu-sales-are-unsurprisingly-miles-ahead-of-intel-as-first-9800x3d-launch-numbers-published/)
-- [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
+- [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
+- [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
+- [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
