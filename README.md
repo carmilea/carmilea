@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
-- [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
-- [Patterns &lpar;YC S21&rpar; Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
-- [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
-- [Covering the Supreme Court and the Judiciary in &lpar;Mostly&rpar; Plain English](https://amylhowe.com/)
+- [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
+- [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
+- [Netflix&#39;s Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
+- [A Student&#39;s Guide to Writing with ChatGPT](https://openai.com/chatgpt/use-cases/student-writing-guide/)
+- [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
