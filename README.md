@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Users Have Spoken: SingleStore Is a Fan Favorite on TrustRadius](https://www.singlestore.com/blog/singlestore-trustradius-fan-favorite)
+- [Farewell and thank you for the continued partnership, Francois Chollet](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
+- [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
+- [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
 - [FBI Raids Home of Polymarket CEO Shayne Coplan](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan)
-- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
-- [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
-- [Why the Guardian is no longer posting on X](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x)
-- [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
