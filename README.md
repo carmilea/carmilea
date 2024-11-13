@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
-- [Carving Your Space](https://heather-buchel.com/blog/2024/11/carving-space/)
-- [M4 Mac mini&#39;s efficiency is incredible](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
-- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
-- [Spotify&#39;s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+- [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)
+- [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
+- [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
+- [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
+- [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
