@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Patterns &lpar;YC S21&rpar; Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
-- [Just Eat Is Selling Grubhub to Marc Lore&#39;s Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
+- [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
+- [Covering the Supreme Court and the Judiciary in &lpar;Mostly&rpar; Plain English](https://amylhowe.com/)
 - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
-- [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
