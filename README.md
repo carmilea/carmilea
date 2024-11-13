@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)
-- [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
+- [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
 - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
 - [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
+- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
