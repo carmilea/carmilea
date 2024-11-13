@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
+- [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
+- [Why you&#39;re bad at giving feedback](https://posthog.com/newsletter/how-to-give-feedback)
 - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
 - [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
-- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
