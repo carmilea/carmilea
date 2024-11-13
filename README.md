@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI Raids Home of Polymarket CEO Shayne Coplan](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan)
 - [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
-- [FBI seizes Polymarket CEO&#39;s phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
-- [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
+- [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
+- [Why the Guardian is no longer posting on X](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x)
 - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
-- [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
