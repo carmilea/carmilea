@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
+- [FBI seizes Polymarket CEO&#39;s phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
+- [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
 - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
-- [Netflix&#39;s Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
-- [A Student&#39;s Guide to Writing with ChatGPT](https://openai.com/chatgpt/use-cases/student-writing-guide/)
-- [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
