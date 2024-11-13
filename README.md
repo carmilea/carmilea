@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Journalism&#39;s fight for survival in a postliterate democracy](https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in)
+- [Patterns &lpar;YC S21&rpar; Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
+- [Just Eat Is Selling Grubhub to Marc Lore&#39;s Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
 - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
 - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
-- [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 <!-- BLOG-POST-LIST:END -->
 
 ---
