@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GOG Preservation Program](https://www.gog.com/en/gog-preservation-program)
+- [Journalism&#39;s fight for survival in a postliterate democracy](https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in)
+- [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
+- [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
+- [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
-- [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
-- [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
-- [Hadrius &lpar;YC W23&rpar; is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
