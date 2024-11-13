@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
+- [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
 - [Patterns &lpar;YC S21&rpar; Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
 - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
 - [Covering the Supreme Court and the Judiciary in &lpar;Mostly&rpar; Plain English](https://amylhowe.com/)
-- [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
-- [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
 <!-- BLOG-POST-LIST:END -->
 
 ---
