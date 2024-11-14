@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MindsDB &lpar;YC W20&rpar; Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
-- [O2 unveils Daisy, the AI granny wasting scammers&#39; time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
-- [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
-- [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
-- [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
+- [Red Hat to contribute container tech &lpar;Podman, bootc, ComposeFS...&rpar; to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
+- [Mark Zuckerberg Wants to Feed You More AI Slop](https://www.bloomberg.com/opinion/articles/2024-11-04/mark-zuckerberg-wants-to-feed-you-more-ai-slop-on-facebook)
+- [We&#39;re experimenting with advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
+- [AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks](https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks)
+- [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
