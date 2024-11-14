@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
+- [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+- [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 - [The Onion Buys Alex Jones&#39;s Infowars Out of Bankruptcy](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 - [A memory leak in Apple&#39;s Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
-- [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-- [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
-- [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
