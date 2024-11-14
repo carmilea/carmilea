@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
+- [Looking for a Job Is Tough](https://blog.kaplich.me/looking-for-a-job-is-tough/)
 - [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
+- [Contracts for C++ &lpar;DbC&rpar; [pdf]](https://isocpp.org/files/papers/P2900R6.pdf)
 - [The Users Have Spoken: SingleStore Is a Fan Favorite on TrustRadius](https://www.singlestore.com/blog/singlestore-trustradius-fan-favorite)
-- [Farewell and thank you for the continued partnership, Francois Chollet](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
-- [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
-- [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
