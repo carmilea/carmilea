@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 - [Red Hat to contribute container tech &lpar;Podman, bootc, ComposeFS...&rpar; to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
-- [Mark Zuckerberg Wants to Feed You More AI Slop](https://www.bloomberg.com/opinion/articles/2024-11-04/mark-zuckerberg-wants-to-feed-you-more-ai-slop-on-facebook)
 - [We&#39;re experimenting with advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
-- [AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks](https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks)
 - [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
