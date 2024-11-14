@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
 - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-- [I Regret Ever Open Sourcing Java – Jill Malony Ratkevic](https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr)
 - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
-- [The closest open-source alternatives to Notion and Miro](https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0)
 - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
+- [Interview with gwern](https://www.dwarkeshpatel.com/p/gwern-branwen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
