@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB &lpar;YC W20&rpar; Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
+- [O2 unveils Daisy, the AI granny wasting scammers&#39; time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
+- [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
-- [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)
-- [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
 - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
-- [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
