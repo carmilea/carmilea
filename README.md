@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gwern Branwen – How an Anonymous Researcher Predicted AI&#39;s Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
-- [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
-- [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
-- [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
-- [GOG&#39;s Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
+- [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
+- [I Regret Ever Open Sourcing Java – Jill Malony Ratkevic](https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr)
+- [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
+- [The closest open-source alternatives to Notion and Miro](https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0)
+- [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
