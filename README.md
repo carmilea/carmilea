@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
+- [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)
+- [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
 - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
 - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
-- [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
-- [The Onion Buys Alex Jones&#39;s Infowars Out of Bankruptcy](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
-- [A memory leak in Apple&#39;s Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
