@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
+- [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
+- [Prompt Injecting Your Way to Shell: OpenAI&#39;s Containerized ChatGPT Environment](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment)
 - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 - [Red Hat to contribute container tech &lpar;Podman, bootc, ComposeFS...&rpar; to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
-- [We&#39;re experimenting with advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
-- [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
