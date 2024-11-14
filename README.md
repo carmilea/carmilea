@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go-Safeweb](https://github.com/google/go-safeweb)
+- [JSON for Classic C++](https://github.com/jart/json.cpp)
 - [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
-- [Looking for a Job Is Tough](https://blog.kaplich.me/looking-for-a-job-is-tough/)
 - [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
-- [Contracts for C++ &lpar;DbC&rpar; [pdf]](https://isocpp.org/files/papers/P2900R6.pdf)
-- [The Users Have Spoken: SingleStore Is a Fan Favorite on TrustRadius](https://www.singlestore.com/blog/singlestore-trustradius-fan-favorite)
+- [NextTrace: An open source visual route tracking CLI tool](https://www.nxtrace.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
