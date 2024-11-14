@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Async Await Is the Worst Thing to Happen to Programming](https://andrewzuo.com/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
+- [Gwern Branwen – How an Anonymous Researcher Predicted AI&#39;s Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
 - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
+- [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
-- [GOG&#39;s Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
-- [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
-- [Go-Safeweb](https://github.com/google/go-safeweb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
