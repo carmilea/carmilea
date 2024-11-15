@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
-- [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
-- [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
-- [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
-- [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
+- [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
+- [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
+- [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
+- [Show HN: OnAir – create link, receive calls](https://onair.io/)
+- [Google will stop serving political ads in the EU, including on YouTube](https://www.engadget.com/big-tech/google-will-stop-serving-political-ads-in-the-eu-including-on-youtube-210604043.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
