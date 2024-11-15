@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)
+- [I Used Star Methodology to Crack Amazon Leadership Principles Interview](https://techcareergrowth.beehiiv.com/p/star-methodology-amazon-interviews)
 - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
-- [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
-- [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
-- [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
-- [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
+- [100-MW solar farm just broke ground in Wisconsin](https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/)
+- [Pex: A tool for generating .pex &lpar;Python EXecutable&rpar; files, lock files and venvs](https://github.com/pex-tool/pex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
