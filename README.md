@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mayor Adams&#39; office directs NYC agencies to launch Bluesky accounts amid growth](https://www.nydailynews.com/2024/11/14/mayor-adams-office-directs-nyc-agencies-to-launch-bluesky-accounts-amid-growth-on-new-platform/)
-- [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
-- [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
+- [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)
 - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
+- [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
+- [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
