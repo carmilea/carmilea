@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Europe&#39;s flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
-- [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)
 - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
+- [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
