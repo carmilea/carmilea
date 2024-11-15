@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
+- [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
 - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 - [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
-- [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
-- [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
