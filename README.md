@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Has the Highest Fatal Accident Rate of All Auto Brands, Study Finds](https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/)
 - [Installed an open source garage door opener, and I&#39;m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
-- [Maybe Bluesky Has &quot;Won&quot;](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
-- [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
+- [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
 - [Cyph – A cryptographically secure messaging and social networking service](https://www.cyph.com/)
-- [Chemist Identifies Mystery &#39;Blobs&#39; Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
+- [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
