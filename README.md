@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installed an open source garage door opener, and I&#39;m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+- [Maybe Bluesky Has &quot;Won&quot;](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
+- [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
+- [Cyph – A cryptographically secure messaging and social networking service](https://www.cyph.com/)
 - [Chemist Identifies Mystery &#39;Blobs&#39; Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
-- [Bluesky says it won&#39;t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
-- [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
-- [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
-- [Gliimly is a programming language for web services](https://gliimly.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
