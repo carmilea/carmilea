@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
+- [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
+- [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 - [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
-- [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
-- [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
-- [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
