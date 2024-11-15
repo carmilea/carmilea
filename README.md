@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Has the Highest Fatal Accident Rate of All Auto Brands, Study Finds](https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/)
-- [Installed an open source garage door opener, and I&#39;m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
-- [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
-- [Cyph – A cryptographically secure messaging and social networking service](https://www.cyph.com/)
-- [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/)
+- [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
+- [Israel &#39;destroyed nuclear facilities&#39; during Iran strikes: report](https://www.newarab.com/news/israel-destroyed-nuclear-facilities-iran-strikes-report)
+- [Nearly 80k pounds of butter recalled because of missing label &quot;contains milk&quot;](https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/)
+- [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU &lpar;Phk&rpar;](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
+- [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
