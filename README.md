@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
+- [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
 - [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
-- [Show HN: OnAir – create link, receive calls](https://onair.io/)
-- [Google will stop serving political ads in the EU, including on YouTube](https://www.engadget.com/big-tech/google-will-stop-serving-political-ads-in-the-eu-including-on-youtube-210604043.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
