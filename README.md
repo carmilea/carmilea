@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
+- [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
+- [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
-- [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
-- [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
-- [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
-- [Show HN: OnAir – create link, receive calls](https://onair.io/)
+- [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
