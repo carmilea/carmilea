@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
+- [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
 - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
-- [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
+- [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
