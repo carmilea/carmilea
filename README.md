@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)
-- [I Used Star Methodology to Crack Amazon Leadership Principles Interview](https://techcareergrowth.beehiiv.com/p/star-methodology-amazon-interviews)
-- [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
-- [100-MW solar farm just broke ground in Wisconsin](https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/)
-- [Pex: A tool for generating .pex &lpar;Python EXecutable&rpar; files, lock files and venvs](https://github.com/pex-tool/pex)
+- [Chemist Identifies Mystery &#39;Blobs&#39; Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
+- [Bluesky says it won&#39;t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
+- [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
+- [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
+- [Gliimly is a programming language for web services](https://gliimly.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
