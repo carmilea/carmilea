@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
-- [Israel &#39;destroyed nuclear facilities&#39; during Iran strikes: report](https://www.newarab.com/news/israel-destroyed-nuclear-facilities-iran-strikes-report)
-- [Nearly 80k pounds of butter recalled because of missing label &quot;contains milk&quot;](https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/)
-- [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU &lpar;Phk&rpar;](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
-- [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
+- [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
+- [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
+- [FTC to launch investigation into Microsoft&#39;s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
+- [Black Plastic Kitchen Tools Might Expose You to Toxic Chemicals](https://www.nytimes.com/wirecutter/reviews/toxic-black-plastic-kitchen-alternatives/)
+- [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
 <!-- BLOG-POST-LIST:END -->
 
 ---
