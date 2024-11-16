@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SICP The only computer science book worth reading twice &lpar;2010&rpar;](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
-- [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
-- [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
-- [M4 Macs can&#39;t virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
-- [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
+- [Logica – Declarative logic programming language for data](https://logica.dev/)
+- [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
+- [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
+- [Military&#39;s UFO-hunting aerial surveillance system detailed in report](https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report)
+- [Statistical Rethinking &lpar;2024 Edition&rpar;](https://github.com/rmcelreath/stat_rethinking_2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
