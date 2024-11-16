@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pakistani religious body declares using VPN is against Islamic law](https://www.voanews.com/a/pakistani-religious-body-declares-using-vpn-is-against-islamic-law-/7865991.html)
+- [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
+- [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 - [M4 Macs can&#39;t virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
-- [The easiest way to create a README](https://readme.so)
-- [Apple Smells Blood in the Water](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/)
-- [The Bluesky Bubble: This is a relapse, not a fix](https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
