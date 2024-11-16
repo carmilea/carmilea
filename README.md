@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Penguin travels every year to visit man who rescued him &lpar;2016&rpar;](https://www.cbc.ca/news/trending/dindim-o-lindo-pinguim-1.3487668)
-- [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Uno Platform Studio: GUI Designer for Cross-Platform .NET Applications](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
+- [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
 - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
+- [Yggdrasil Network](https://yggdrasil-network.github.io/)
+- [C Compiler to SPIR-V](https://github.com/heroseh/hcc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
