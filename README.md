@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
-- [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
-- [Yggdrasil Network](https://yggdrasil-network.github.io/)
-- [C Compiler to SPIR-V](https://github.com/heroseh/hcc)
+- [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
+- [Thoughtworks Technology Radar Oct 2024 – From Coding Assistance to AI Evolution](https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/)
+- [E/acc as a religion:A Technologist&#39;s Right to Choose](https://www.avidfayaz.com/writings/eacc)
+- [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
+- [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
