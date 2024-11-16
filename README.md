@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
-- [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
+- [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
+- [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
+- [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
+- [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
 - [FTC to launch investigation into Microsoft&#39;s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
-- [Black Plastic Kitchen Tools Might Expose You to Toxic Chemicals](https://www.nytimes.com/wirecutter/reviews/toxic-black-plastic-kitchen-alternatives/)
-- [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
 <!-- BLOG-POST-LIST:END -->
 
 ---
