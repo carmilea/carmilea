@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How Public Key Cryptography Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+- [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 - [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
 - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
 - [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
-- [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
 <!-- BLOG-POST-LIST:END -->
 
 ---
