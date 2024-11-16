@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
-- [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
+- [Llama-OCR: Document to Markdown](https://llamaocr.com/)
 - [Caltrain&#39;s electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
 - [A basic introduction to the classfile API in Java](https://ifesunmola.com/a-basic-introduction-to-the-classfile-api/)
-- [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
+- [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
