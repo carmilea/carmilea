@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 - [Llama-OCR: Document to Markdown](https://llamaocr.com/)
-- [Caltrain&#39;s electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
-- [A basic introduction to the classfile API in Java](https://ifesunmola.com/a-basic-introduction-to-the-classfile-api/)
 - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+- [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
+- [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
