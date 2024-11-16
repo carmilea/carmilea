@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M4 Macs can&#39;t virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
-- [Thoughtworks Technology Radar Oct 2024 – From Coding Assistance to AI Evolution](https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/)
-- [E/acc as a religion:A Technologist&#39;s Right to Choose](https://www.avidfayaz.com/writings/eacc)
-- [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
-- [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
+- [The easiest way to create a README](https://readme.so)
+- [Apple Smells Blood in the Water](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/)
+- [The Bluesky Bubble: This is a relapse, not a fix](https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
