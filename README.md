@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pakistani religious body declares using VPN is against Islamic law](https://www.voanews.com/a/pakistani-religious-body-declares-using-vpn-is-against-islamic-law-/7865991.html)
+- [SICP The only computer science book worth reading twice &lpar;2010&rpar;](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 - [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
 - [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 - [M4 Macs can&#39;t virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
