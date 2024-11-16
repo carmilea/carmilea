@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
-- [Llama-OCR: Document to Markdown](https://llamaocr.com/)
-- [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
-- [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
-- [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
+- [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
+- [Uno Platform Studio: GUI Designer for Cross-Platform .NET Applications](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
+- [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
