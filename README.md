@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 - [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
-- [Gandhi&#39;s Letter to Hitler &lpar;1940&rpar;](https://www.mkgandhi.org/letters/hitler_ltr1.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
