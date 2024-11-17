@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
+- [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
 - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
-- [Will passkeys ever replace passwords? Can they? Here&#39;s why they should](https://www.theregister.com/2024/11/17/passkeys_passwords/)
+- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [Lucid dreaming app triples users&#39; awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
-- [Hobby Project: A dynamic C &lpar;Hot reloading&rpar; module-based Web Framework](https://github.com/joexbayer/c-web-modules)
-- [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
