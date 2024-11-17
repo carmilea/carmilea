@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
+- [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
+- [Will passkeys ever replace passwords? Can they? Here&#39;s why they should](https://www.theregister.com/2024/11/17/passkeys_passwords/)
+- [Lucid dreaming app triples users&#39; awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
+- [Hobby Project: A dynamic C &lpar;Hot reloading&rpar; module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
-- [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon&lpar;2019&rpar;](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
-- [Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/)
-- [AlphaProof&#39;s Greatest Hits: the coolest bits from the IMO 2024 solutions](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
