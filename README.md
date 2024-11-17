@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
+- [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
 - [Huawei developing SSD-tape hybrid amid US tech restrictions](https://blocksandfiles.com/2024/11/08/huawei-developing-meds-to-combat-disk-ship-stop-sickness/)
-- [Requiring Single Page Applications for Interactive Web Apps is a Myth](https://htmx.org/essays/you-cant/)
+- [The myth that you can’t build interactive web apps except as single page app](https://htmx.org/essays/you-cant/)
 - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
-- [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
