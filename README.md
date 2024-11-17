@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
+- [Cloudflare.com&#39;s Robots.txt](https://www.cloudflare.com/robots.txt)
 - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
-- [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
-- [DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What&#39;s the Difference?](https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
