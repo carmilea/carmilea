@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are Indian and African wildlife so similar?](https://wanderingthru.com/why-are-indian-and-african-animals-so-similar/)
 - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 - [Cloudflare.com&#39;s Robots.txt](https://www.cloudflare.com/robots.txt)
 - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
-- [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
-- [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
+- [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
