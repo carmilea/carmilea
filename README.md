@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ditched Buddhism &lpar;2003&rpar;](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
+- [Buddhist Retreat: Why I gave up on finding my religion &lpar;2003&rpar;](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
 - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
-- [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
 - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [Lucid dreaming app triples users&#39; awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
+- [Hobby Project: A dynamic C &lpar;Hot reloading&rpar; module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
