@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Restart of Three Mile Island tests US appetite for nuclear revival](https://www.ft.com/content/b90f6e21-bb8d-4606-9e5e-c4acb56b86ce)
+- [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
+- [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
-- [The decline and fall of the British economy &lpar;2022&rpar;](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 - [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
-- [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
+- [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 <!-- BLOG-POST-LIST:END -->
 
 ---
