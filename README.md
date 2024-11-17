@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
+- [Why on Earth do we have 29.97fps?](https://old.reddit.com/r/finalcutpro/comments/mm58qp/why_on_earth_do_we_have_2997fps_what_madness_is/)
 - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
 - [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
-- [Xogot – Godot for iPad](https://xogot.com/)
-- [Safety in an Unsafe World](https://lwn.net/Articles/995814/)
-- [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
+- [One-parting some Commodore 64 utilities for fun and profit](http://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
