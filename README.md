@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
+- [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 - [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
-- [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
+- [DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What&#39;s the Difference?](https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
