@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky is currently gaining more than 1M users a day](https://bsky.jazco.dev/stats)
-- [Logica – Declarative logic programming language for data](https://logica.dev/)
-- [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
-- [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
-- [Military&#39;s UFO-hunting aerial surveillance system detailed in report](https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report)
+- [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
+- [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
+- [James Gleick&#39;s Chaos: The Software](https://github.com/rudyrucker/chaos)
+- [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
+- [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
