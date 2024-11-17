@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 - [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 - [Gandhi&#39;s Letter to Hitler &lpar;1940&rpar;](https://www.mkgandhi.org/letters/hitler_ltr1.php)
-- [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
