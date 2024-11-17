@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
-- [Why on Earth do we have 29.97fps?](https://old.reddit.com/r/finalcutpro/comments/mm58qp/why_on_earth_do_we_have_2997fps_what_madness_is/)
-- [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
-- [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
-- [One-parting some Commodore 64 utilities for fun and profit](http://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
+- [King Arthur&#39;s ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
+- [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
+- [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
+- [Gandhi&#39;s Letter to Hitler &lpar;1940&rpar;](https://www.mkgandhi.org/letters/hitler_ltr1.php)
+- [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
