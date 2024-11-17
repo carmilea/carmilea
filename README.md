@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
+- [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
+- [Xogot – Godot for iPad](https://xogot.com/)
+- [Safety in an Unsafe World](https://lwn.net/Articles/995814/)
 - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
-- [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
-- [James Gleick&#39;s Chaos: The Software](https://github.com/rudyrucker/chaos)
-- [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
-- [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
