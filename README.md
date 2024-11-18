@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini tells grad student to &#39;please die&#39; while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/)
+- [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
+- [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
+- [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
+- [$500k Pay, Easy Hours: How Dermatology Became the &#39;It&#39; Job in Medicine](https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53)
 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
-- [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
-- [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
-- [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
