@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
+- [The tragedy of trying to run an old node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 - [Things you didn&#39;t know about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
 - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
