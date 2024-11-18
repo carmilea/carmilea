@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini tells grad student to &#39;please die&#39; while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/)
 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
-- [Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria](https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers)
+- [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
-- [Against Best Practices](https://www.arp242.net/best-practices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
