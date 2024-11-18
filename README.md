@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The most helpful charity isn&#39;t what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
+- [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
-- [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
-- [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
-- [$500k Pay, Easy Hours: How Dermatology Became the &#39;It&#39; Job in Medicine](https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53)
 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
+- [I was banned from the hCaptcha accessibility account for not being blind &lpar;2023&rpar;](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
