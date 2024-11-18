@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CPython&#39;s Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
-- [Every Billionaire Is a Policy Failure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442029)
-- [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
-- [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
-- [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
+- [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
+- [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
+- [Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria](https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers)
+- [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
+- [Against Best Practices](https://www.arp242.net/best-practices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
