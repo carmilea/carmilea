@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Regatta Storage &lpar;YC F24&rpar; – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
-- [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
-- [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
-- [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
-- [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
+- [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
+- [Things you didn&#39;t know about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
+- [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
+- [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
+- [Illegally logged wood from Cambodia likely ending up in U.S. homes](https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
