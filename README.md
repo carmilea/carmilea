@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CPython&#39;s Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
+- [Every Billionaire Is a Policy Failure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442029)
+- [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
 - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
-- [Show HN: World&#39;s Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
-- [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
-- [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
