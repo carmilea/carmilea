@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLMs Within Software Development May Be a Dead End](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/)
+- [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 - [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
 - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+- [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
