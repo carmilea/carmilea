@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
+- [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
 - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 - [It&#39;s Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
-- [Wiby – Search Engine for the Classic Web](https://wiby.me/)
+- [Why Not Bluesky](https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
