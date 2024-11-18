@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
+- [You Don&#39;t Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
 - [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-- [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
-- [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
-- [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
-- [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
+- [DNA testing company vanishes along with its customers&#39; genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
+- [End-to-End Tour of Text Layout/Rendering &lpar;2015&rpar;](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
