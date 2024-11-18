@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
-- [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
+- [It&#39;s Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
 - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
+- [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
