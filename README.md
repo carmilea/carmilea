@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why LLMs Within Software Development May Be a Dead End](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/)
+- [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
+- [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
-- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
-- [Lucid dreaming app triples users&#39; awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
-- [Hobby Project: A dynamic C &lpar;Hot reloading&rpar; module-based Web Framework](https://github.com/joexbayer/c-web-modules)
+- [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
