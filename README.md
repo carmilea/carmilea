@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
+- [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 - [It&#39;s Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
-- [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
-- [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
+- [Wiby – Search Engine for the Classic Web](https://wiby.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
