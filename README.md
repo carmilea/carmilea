@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/07/25/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
-- [November 1861: Chalmers&#39; under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
-- [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
-- [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
-- [I was banned from the hCaptcha accessibility account for not being blind &lpar;2023&rpar;](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
+- [Launch HN: Regatta Storage &lpar;YC F24&rpar; – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
+- [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
+- [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
+- [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
+- [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
