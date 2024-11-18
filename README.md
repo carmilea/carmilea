@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
+- [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
+- [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
+- [Show HN: World&#39;s Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
+- [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
 - [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
-- [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
-- [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
-- [It&#39;s Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
