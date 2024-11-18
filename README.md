@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The most helpful charity isn&#39;t what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
-- [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
+- [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/07/25/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
+- [November 1861: Chalmers&#39; under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 - [I was banned from the hCaptcha accessibility account for not being blind &lpar;2023&rpar;](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
