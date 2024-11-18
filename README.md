@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europeans spend 575M hours clicking on cookie banners a year](https://substack.com/@richholmes/note/c-77466623)
-- [Ben Affleck&#39;s a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
+- [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 - [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
 - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
+- [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
