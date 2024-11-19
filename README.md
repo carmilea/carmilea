@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
-- [Valve developers discuss why Half Life 2: Episode 3 was abandoned](https://arstechnica.com/gaming/2024/11/newell-says-he-was-stumped-on-how-to-finish-half-life-2-episode-3/)
+- [&#39;Achilles heel&#39; of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
+- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
 - [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-- [Microsoft starts boiling the Copilot frog: It&#39;s not a soup you want to drink](https://www.theregister.com/2024/11/18/opinion_piece_ai_tools/)
 - [DNA testing company vanishes along with its customers&#39; genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
+- [End-to-End Tour of Text Layout/Rendering &lpar;2015&rpar;](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
