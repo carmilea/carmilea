@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
+- [Red Hat and Microsoft Bringing RHEL to WSL](https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL)
+- [X&#39;s Moonshot for Circularity](https://x.company/blog/posts/moonshot-for-circularity/)
 - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
-- [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
-- [Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538)
-- [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
