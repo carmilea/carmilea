@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
-- [The Deep Sea](https://neal.fun/deep-sea/)
+- [Tech-vexed: how digital life threatens our capacity for awe](https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe)
+- [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
 - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
