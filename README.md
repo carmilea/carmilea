@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Super Heavy Splashes Down in the Gulf, Canceling Chopsticks Landing](https://twitter.com/spacex/status/1858995009384837380)
+- [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
 - [Why is Apple Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 - [Starship IFT-6 Livestream &lpar;liftoff at 4pm CT&rpar;](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
-- [TigerEye &lpar;YC S22&rpar; Is Hiring a Full Stack Engineer](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b)
-- [El Capitan: New Supercomputer Is the Fastest in the World](https://spectrum.ieee.org/supercomputer-for-nukes)
-- [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
+- [Math4devs.com: List of mathematical symbols with their JavaScript equivalent](https://math4devs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
