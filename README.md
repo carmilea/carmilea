@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Achilles heel&#39; of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
-- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
-- [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-- [DNA testing company vanishes along with its customers&#39; genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
-- [End-to-End Tour of Text Layout/Rendering &lpar;2015&rpar;](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
+- [The Users Have Spoken: SingleStore Is a Fan Favorite on TrustRadius](https://www.singlestore.com/blog/singlestore-trustradius-fan-favorite)
+- [The Complete Guide to the MongoDB® $sum Operator](https://www.singlestore.com/blog/complete-guide-to-the-mongodb-sum-operator)
+- [MySQL RDS Data Integration Into SingleStore](https://www.singlestore.com/blog/mysql-rds-data-integration-into-singlestore)
+- [Unlocking the Power of Data Lakehouses: The Role of Iceberg and Real-Time Analytics](https://www.singlestore.com/blog/unlocking-the-power-of-data-lakehouses)
+- [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
