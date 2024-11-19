@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to what gets lost when an MP3 is made &lpar;2015&rpar;](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
+- [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
 - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
 - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
-- [Retro beige PC case goes from April Fools&#39; joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
 - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
-- [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
