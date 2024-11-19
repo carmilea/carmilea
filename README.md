@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
+- [The Deep Sea](https://neal.fun/deep-sea/)
 - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
-- [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
-- [Justpaid.ai &lpar;YC W23&rpar; Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
