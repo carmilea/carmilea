@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
+- [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
+- [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
 - [OpenStreetMap&#39;s New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 - [Expand.ai &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
-- [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
-- [Listen to what gets lost when an MP3 is made &lpar;2015&rpar;](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
+- [We Can&#39;t Give Up Paper Checks, and That&#39;s a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
