@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
+- [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
 - [Justpaid.ai &lpar;YC W23&rpar; Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
-- [Bose buys McIntosh, storied maker of high-end luxury audio equipment](https://www.cnbc.com/2024/11/19/bose-buys-mcintosh-storied-maker-of-high-end-luxury-audio-equipment.html)
-- [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
