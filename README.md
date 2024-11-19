@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
+- [Hyrumtoken: A Go package to encrypt pagination tokens](https://github.com/ssoready/hyrumtoken)
+- [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
 - [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
 - [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
-- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
-- [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
