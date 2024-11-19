@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
+- [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
-- [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
-- [OpenStreetMap&#39;s New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
-- [Expand.ai &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
-- [We Can&#39;t Give Up Paper Checks, and That&#39;s a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
+- [Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538)
+- [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
