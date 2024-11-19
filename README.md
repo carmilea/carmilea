@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Retro beige PC case goes from April Fools&#39; joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
+- [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
 - [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
 - [Hyrumtoken: A Go package to encrypt pagination tokens](https://github.com/ssoready/hyrumtoken)
 - [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
-- [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
-- [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
