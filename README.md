@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expand.ai &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
+- [Arm PC Base System Architecture 1.0](https://developer.arm.com/documentation/den0151/a)
 - [Listen to what gets lost when an MP3 is made &lpar;2015&rpar;](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
-- [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
+- [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
 - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
-- [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
-- [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
