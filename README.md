@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Users Have Spoken: SingleStore Is a Fan Favorite on TrustRadius](https://www.singlestore.com/blog/singlestore-trustradius-fan-favorite)
-- [The Complete Guide to the MongoDB® $sum Operator](https://www.singlestore.com/blog/complete-guide-to-the-mongodb-sum-operator)
-- [MySQL RDS Data Integration Into SingleStore](https://www.singlestore.com/blog/mysql-rds-data-integration-into-singlestore)
-- [Unlocking the Power of Data Lakehouses: The Role of Iceberg and Real-Time Analytics](https://www.singlestore.com/blog/unlocking-the-power-of-data-lakehouses)
-- [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
+- [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
+- [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
+- [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
+- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
+- [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
