@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Danish Navy boarded Chinese cargo ship: who broke cables at bottom of Baltic Sea](https://eadaily.com/en/news/2024/11/20/the-danish-navy-boarded-a-chinese-cargo-ship-who-broke-the-cables-at-the-bottom-of-the-baltic-sea)
-- [Why don&#39;t you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
+- [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
 - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 - [Yhangry &lpar;YC W22&rpar; Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
+- [Trivial REST server in various languages to compare](https://github.com/begoon/http-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
