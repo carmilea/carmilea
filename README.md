@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)
 - [Europe&#39;s Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
+- [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
 - [Google stops letting sites like Forbes rule search for &quot;Best CBD Gummies&quot;](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Head of Marketing &lpar;B2B&rpar;](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
-- [With Core One, Prusa&#39;s Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
-- [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
