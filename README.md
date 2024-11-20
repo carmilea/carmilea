@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
+- [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
-- [Converge &lpar;YC S23&rpar; is hiring senior product engineers &lpar;NYC, in-person&rpar;](https://news.ycombinator.com/item?id=42195908)
-- [AMD crafts custom EPYC CPU with HBM3 for Azure: 88 Zen 4 cores and 450GB of HBM3](https://www.tomshardware.com/pc-components/cpus/amd-crafts-custom-epyc-cpu-for-microsoft-azure-with-hbm3-memory-cpu-with-88-zen-4-cores-and-450gb-of-hbm3-may-be-repurposed-mi300c-four-chips-hit-7-tb-s)
-- [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
+- [Ghost Tap: New cash-out tactic with NFC Relay](https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
