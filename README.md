@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
-- [Clearest Health &lpar;YC S23&rpar; is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
-- [Discarded delights: The joy of ex-library books &lpar;2021&rpar;](https://www.abebooks.com/books/ex-library-books)
-- [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
-- [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
+- [Automatic braking systems save lives. Now they&#39;ll need to work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
+- [Musi fans refuse to update iPhones until Apple unblocks controversial app](https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/)
+- [The Rise of Malört, an Unexpected Midwest Princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
+- [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
+- [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
