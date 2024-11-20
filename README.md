@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
+- [Google stops letting sites like Forbes rule search for &quot;Best CBD Gummies&quot;](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Head of Marketing &lpar;B2B&rpar;](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
 - [With Core One, Prusa&#39;s Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
 - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
-- [DOJ wants to force Google Chrome sale, Android de-bundling](https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/)
-- [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
