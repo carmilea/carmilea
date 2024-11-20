@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clearest Health &lpar;YC S23&rpar; is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
+- [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
 - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
-- [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
-- [Yhangry &lpar;YC W22&rpar; Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
-- [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
-- [Trivial REST server in various languages to compare](https://github.com/begoon/http-server)
+- [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
+- [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
