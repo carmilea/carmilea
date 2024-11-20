@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why don&#39;t you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
+- [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 - [Yhangry &lpar;YC W22&rpar; Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 - [Let&#39;s Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
-- [Blender 4.3](https://www.blender.org/download/releases/4-3/)
-- [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
