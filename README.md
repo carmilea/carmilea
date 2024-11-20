@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
 - [Tiny Glade &#39;built&#39; its way to &gt;600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
-- [Ask HN: Bluesky Accounts Worth Following for HN Enthusiasts](https://news.ycombinator.com/item?id=42189890)
 - [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
 - [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
-- [OpenJDK Authorization](https://github.com/pfirmstone/jdk-with-authorization/blob/master/README.md)
+- [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
