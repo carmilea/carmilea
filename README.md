@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
 - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
-- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
