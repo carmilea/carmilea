@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Super Heavy Splashes Down in the Gulf, Canceling Chopsticks Landing](https://twitter.com/spacex/status/1858995009384837380)
-- [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
-- [Why is Apple Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-- [Starship IFT-6 Livestream &lpar;liftoff at 4pm CT&rpar;](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
-- [Math4devs.com: List of mathematical symbols with their JavaScript equivalent](https://math4devs.com/)
+- [Tiny Glade &#39;built&#39; its way to &gt;600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
+- [Ask HN: Bluesky Accounts Worth Following for HN Enthusiasts](https://news.ycombinator.com/item?id=42189890)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
+- [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
+- [OpenJDK Authorization](https://github.com/pfirmstone/jdk-with-authorization/blob/master/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
