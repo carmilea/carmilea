@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic braking systems save lives. Now they&#39;ll need to work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
-- [Musi fans refuse to update iPhones until Apple unblocks controversial app](https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/)
-- [The Rise of Malört, an Unexpected Midwest Princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
-- [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
+- [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
+- [3 years ago, VCs in Bay Area tech were thriving. Now, they&#39;re &#39;bleeding cash.&#39;](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
+- [My Resignation from Emacs Development](https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html)
 - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
+- [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
