@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
 - [Clearest Health &lpar;YC S23&rpar; is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 - [Discarded delights: The joy of ex-library books &lpar;2021&rpar;](https://www.abebooks.com/books/ex-library-books)
 - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
-- [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
