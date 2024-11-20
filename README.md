@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
-- [3 years ago, VCs in Bay Area tech were thriving. Now, they&#39;re &#39;bleeding cash.&#39;](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
-- [My Resignation from Emacs Development](https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html)
-- [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
-- [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
+- [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
+- [Converge &lpar;YC S23&rpar; is hiring senior product engineers &lpar;NYC, in-person&rpar;](https://news.ycombinator.com/item?id=42195908)
+- [Show HN: I&#39;m 17 and made a tool to help students study smarter](https://lira.study)
+- [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
+- [The Rise of Malört, an Unexpected Midwest princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
