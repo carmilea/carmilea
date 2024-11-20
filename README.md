@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
+- [Show HN: Weave - actually measure engineering productivity](https://app.workweave.ai/welcome)
 - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
 - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
-- [Ghost Tap: New cash-out tactic with NFC Relay](https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
