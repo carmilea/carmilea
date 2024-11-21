@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Refresh vs. Long-lived Access Tokens &lpar;2023&rpar;](https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/)
+- [The FORTH code for Chipwits is released in the game&#39;s 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
+- [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
+- [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
 - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
-- [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
-- [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
