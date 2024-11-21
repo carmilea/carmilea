@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 - [The FORTH code for Chipwits is released in the game&#39;s 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
-- [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
 - [Oxide Cuts Data Center Power Consumption in Half](https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half)
 - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 <!-- BLOG-POST-LIST:END -->
