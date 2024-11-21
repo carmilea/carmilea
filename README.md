@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+- [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
 - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 - [The FORTH code for Chipwits is released in the game&#39;s 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
-- [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
-- [Oxide Cuts Data Center Power Consumption in Half](https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half)
-- [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
