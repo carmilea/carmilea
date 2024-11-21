@@ -61,8 +61,8 @@
 - [The Rectangular Cows of UK Art &lpar;2018&rpar;](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
 - [Personality Basins](https://near.blog/personality-basins/)
+- [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
 - [Handle.com &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
-- [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
