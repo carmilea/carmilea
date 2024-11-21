@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyrum&#39;s Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 - [DOJ filed paperwork to US District Court to force Google to spin off Chrome [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.0.pdf)
 - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
 - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
-- [Why one would use Qubes OS? &lpar;2023&rpar;](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
 - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 <!-- BLOG-POST-LIST:END -->
 
