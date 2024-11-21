@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
+- [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
 - [Vapi &lpar;YC W21&rpar; Is Hiring Founding Senior Engineer &lpar;Front End&rpar;](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
 - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
 - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
-- [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
-- [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
