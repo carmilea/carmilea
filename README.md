@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
 - [Personality Basins](https://near.blog/personality-basins/)
+- [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
 - [Handle.com &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
-- [You Exist in the Long Context](https://thelongcontext.com/)
-- [A common urban intersection in the Netherlands &lpar;2018&rpar;](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
