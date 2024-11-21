@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.4](https://www.php.net/releases/8.4/en.php)
+- [Personality Basins](https://near.blog/personality-basins/)
+- [Handle.com &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
+- [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 - [You Exist in the Long Context](https://thelongcontext.com/)
-- [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
-- [Hyrum&#39;s Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
-- [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
+- [A common urban intersection in the Netherlands &lpar;2018&rpar;](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
