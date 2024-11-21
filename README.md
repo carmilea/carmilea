@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Customer Advisory Board!](https://www.youtube.com/watch?v=uATljM2p8vA)
 - [Why Alexa Isn&#39;t Powered by Large Language Models&lpar;LLMs&rpar;?](https://www.youtube.com/watch?v=_QPI3tbsKI4)
 - [Igor Unraveling the Impact of ChatGPT on Companies!](https://www.youtube.com/watch?v=qecVM8qxBqo)
 - [Understanding Agents Governance and Anatomy Unpacked by Igor Jablokov](https://www.youtube.com/watch?v=B3lH7HZbTPk)
 - [The Future of Smart Scheduling: AI That Knows You!](https://www.youtube.com/watch?v=zKY5XEOrJdY)
-- [Igor Jablokov&#39;s Journey with AI From IBMs Watson to Today!](https://www.youtube.com/watch?v=nMJM5Xj_mc4)
 <!-- YOUTUBE:END -->
 
 
