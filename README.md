@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)
-- [Europe&#39;s Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
-- [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
-- [Google stops letting sites like Forbes rule search for &quot;Best CBD Gummies&quot;](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
-- [Distro &lpar;YC S24&rpar; Is Hiring a Head of Marketing &lpar;B2B&rpar;](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
+- [Vapi &lpar;YC W21&rpar; Is Hiring Founding Senior Engineer &lpar;Front End&rpar;](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
+- [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
+- [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
+- [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
+- [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
