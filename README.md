@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Text Search: Version 2](https://www.singlestore.com/blog/full-text-search-version-2)
-- [Launch HN: Fresco &lpar;YC F24&rpar; – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
-- [The Rectangular Cows of UK Art &lpar;2018&rpar;](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
-- [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
-- [Personality Basins](https://near.blog/personality-basins/)
+- [Refresh vs. Long-lived Access Tokens &lpar;2023&rpar;](https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/)
+- [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
+- [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
+- [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
+- [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
