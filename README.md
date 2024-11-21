@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+- [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
 - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
-- [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
-- [The FORTH code for Chipwits is released in the game&#39;s 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
+- [Security researchers identify new malware targeting Linux](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
