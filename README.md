@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
+- [PHP 8.4](https://www.php.net/releases/8.4/en.php)
+- [You Exist in the Long Context](https://thelongcontext.com/)
 - [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 - [Hyrum&#39;s Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
-- [Why one would use Qubes OS? &lpar;2023&rpar;](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
