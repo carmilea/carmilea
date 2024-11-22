@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 - [Ask HN: To those with successful browser extension&lpar;s&rpar;, how did you grow it?](https://news.ycombinator.com/item?id=42217504)
 - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
 - [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
-- [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 - [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 <!-- BLOG-POST-LIST:END -->
 
