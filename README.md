@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build Local LLM Apps with Ollama &amp; SingleStore for Maximum Security | SingleStore Webinars](https://www.youtube.com/watch?v=Bp30HoiMuRo)
 - [Building a Vector Database in Excel with Prof. Tom Yeh](https://www.youtube.com/watch?v=pf3a2M_C5nE)
 - [SingleStore Customer Advisory Board!](https://www.youtube.com/watch?v=uATljM2p8vA)
 - [Why Alexa Isn&#39;t Powered by Large Language Models&lpar;LLMs&rpar;?](https://www.youtube.com/watch?v=_QPI3tbsKI4)
 - [Igor Unraveling the Impact of ChatGPT on Companies!](https://www.youtube.com/watch?v=qecVM8qxBqo)
-- [Understanding Agents Governance and Anatomy Unpacked by Igor Jablokov](https://www.youtube.com/watch?v=B3lH7HZbTPk)
 <!-- YOUTUBE:END -->
 
 
