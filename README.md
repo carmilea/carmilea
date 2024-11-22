@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The first close-up picture of a star outside our own galaxy](https://www.eso.org/public/images/eso2417a/)
-- [IBM Quantum delivers on 2022 100x100 performance challenge](https://www.ibm.com/quantum/blog/qdc-2024)
-- [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
-- [Windmill hiring Senior Frontend &lpar;Svelte&rpar; Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
-- [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
+- [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
+- [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
+- [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
+- [The Tao of Topic Maps &lpar;2000&rpar;](https://ontopia.net/topicmaps/materials/tao.html)
+- [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
