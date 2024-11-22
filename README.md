@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
+- [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 - [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 - [MIT researchers develop an efficient way to train more reliable AI agents](https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122)
 - [The Ultimate Guide to MongoDB® Arrays: Efficient Querying and Filtering Techniques](https://www.singlestore.com/blog/ultimate-guide-to-mongodb-arrays)
-- [Understanding Google&#39;s Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
-- [Phased Array Microphone &lpar;2023&rpar;](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
