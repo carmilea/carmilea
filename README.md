@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windmill Hiring Senior Front End &lpar;Svelte&rpar; Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
+- [Windmill hiring Senior Frontend &lpar;Svelte&rpar; Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
 - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
+- [The Tao of Topic Maps &lpar;2000&rpar;](https://ontopia.net/topicmaps/materials/tao.html)
 - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
 - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
-- [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
