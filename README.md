@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
+- [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)
+- [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
-- [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
-- [The Tao of Topic Maps &lpar;2000&rpar;](https://ontopia.net/topicmaps/materials/tao.html)
-- [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+- [A “meta-optics” camera that is the size of a single grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
+- [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
