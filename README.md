@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
+- [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
 - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
-- [Mechanically strong yet metabolizable plastic breaks down in seawater](https://www.science.org/doi/abs/10.1126/science.ado1782?af=R)
-- [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
