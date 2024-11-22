@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 - [Understanding Google&#39;s Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 - [Phased Array Microphone &lpar;2023&rpar;](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 - [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
-- [Amazon to invest another $4B in Anthropic, OpenAI&#39;s biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
-- [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
+- [Rendering &quot;modern&quot; Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
