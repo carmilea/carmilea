@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+- [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+- [Amazon to invest another $4B in Anthropic, OpenAI&#39;s biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
+- [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 - [What Made Dostoevsky&#39;s Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
-- [Why so many families are &quot;drowning in toys&quot;](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
-- [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
-- [Do Large Language Models learn world models or just surface statistics? &lpar;2023&rpar;](https://thegradient.pub/othello/)
-- [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
