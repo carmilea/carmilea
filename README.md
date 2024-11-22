@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
+- [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
+- [U.S. women are outpacing men in college completion in every major group](https://www.pewresearch.org/short-reads/2024/11/18/us-women-are-outpacing-men-in-college-completion-including-in-every-major-racial-and-ethnic-group/)
 - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
 - [What&#39;s Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
-- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
-- [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
