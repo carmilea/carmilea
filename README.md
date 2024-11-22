@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What Made Dostoevsky&#39;s Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
+- [Why so many families are &quot;drowning in toys&quot;](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
 - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 - [Do Large Language Models learn world models or just surface statistics? &lpar;2023&rpar;](https://thegradient.pub/othello/)
 - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
-- [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
