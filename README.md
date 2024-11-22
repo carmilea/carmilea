@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Made Dostoevsky&#39;s Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 - [Do Large Language Models learn world models or just surface statistics? &lpar;2023&rpar;](https://thegradient.pub/othello/)
 - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
-- [A “meta-optics” camera that is the size of a grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
