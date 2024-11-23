@@ -62,7 +62,7 @@
 - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
 - [An Analysis of the Performance of WebSockets in Various Programming Languages &lpar;2021&rpar;](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
-- [Quake 3 Source Code Review: Network Model &lpar;2012&rpar;](https://fabiensanglard.net/quake3/network.php)
+- [How Tailscale&#39;s infra team stays small](https://tailscale.com/blog/infra-team-stays-small)
 <!-- BLOG-POST-LIST:END -->
 
 ---
