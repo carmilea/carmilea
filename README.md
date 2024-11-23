@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tjq: Giving Types to Jq](https://github.com/alpaylan/tjq)
+- [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
-- [Ask HN: To those with successful browser extension&lpar;s&rpar;, how did you grow it?](https://news.ycombinator.com/item?id=42217504)
-- [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
-- [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
 - [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
+- [The Ultimate Guide to MongoDB® Arrays: Efficient Querying and Filtering Techniques](https://www.singlestore.com/blog/ultimate-guide-to-mongodb-arrays)
 <!-- BLOG-POST-LIST:END -->
 
 ---
