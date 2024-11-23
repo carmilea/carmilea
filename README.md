@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite&#39;s Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
+- [Highest-Resolution Images Ever Captured of the Sun&#39;s Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+- [SQLite&#39;s Use of Tcl &lpar;2017&rpar;](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
+- [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
 - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 - [Edging Toward Japan: In his mind&#39;s eye, Rembrandt was always headed toward Japan](https://mainichi.jp/english/articles/20240601/p2a/00m/0et/012000c)
-- [An Analysis of the Performance of WebSockets in Various Programming Languages &lpar;2021&rpar;](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
-- [A simple semi-space collector – wingolog](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
