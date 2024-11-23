@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Futel](https://futel.net/)
 - [Alloy Automation &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
-- [Highest-Resolution Images Ever Captured of the Sun&#39;s Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
-- [SQLite&#39;s Use of Tcl &lpar;2017&rpar;](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
+- [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+- [SQLite’s Use of Tcl &lpar;2017&rpar;](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 - [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
-- [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
