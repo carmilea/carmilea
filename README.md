@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
-- [iFixit Shares M4 MacBook Pro Teardown](https://www.macrumors.com/2024/11/22/ifixit-shares-m4-macbook-pro-teardown/)
-- [3D Space Can Be Tiled with Corner-Free Shapes](https://hackaday.com/2024/11/23/3d-space-can-be-tiled-with-corner-free-shapes/)
 - [Futel](https://futel.net/)
 - [Alloy Automation &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
+- [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+- [SQLite’s Use of Tcl &lpar;2017&rpar;](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
