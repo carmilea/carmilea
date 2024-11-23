@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Analysis of the Performance of WebSockets in Various Programming Languages](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
 - [Quake 3 Source Code Review: Network Model &lpar;2012&rpar;](https://fabiensanglard.net/quake3/network.php)
 - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://arxiv.org/abs/2411.11922)
-- [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
