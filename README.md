@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&#39;s heir apparent isn&#39;t X or Threads – it&#39;s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
+- [The &#39;Return to Office&#39; Lies](https://blog.avas.space/rto/)
 - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
-- [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
-- [Futel](https://futel.net/)
 - [Alloy Automation &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 <!-- BLOG-POST-LIST:END -->
 
