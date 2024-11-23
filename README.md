@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
-- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
+- [Quake 3 Source Code Review: Network Model &lpar;2012&rpar;](https://fabiensanglard.net/quake3/network.php)
 - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
+- [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://arxiv.org/abs/2411.11922)
 - [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 <!-- BLOG-POST-LIST:END -->
 
