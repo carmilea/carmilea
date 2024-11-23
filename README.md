@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon won&#39;t accept written communication](https://news.ycombinator.com/item?id=42223738)
+- [Continuous Integration Dashboard for Apache NuttX RTOS &lpar;Prometheus and Grafana&rpar;](https://lupyuen.github.io/articles/ci4)
 - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
+- [Boulder&#39;s explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
 - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 - [How to give a senior leader feedback &lpar;without getting fired&rpar;](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
-- [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
