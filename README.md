@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tjq: Giving Types to Jq](https://github.com/alpaylan/tjq)
+- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
+- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
 - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 - [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
-- [The Ultimate Guide to MongoDB® Arrays: Efficient Querying and Filtering Techniques](https://www.singlestore.com/blog/ultimate-guide-to-mongodb-arrays)
 <!-- BLOG-POST-LIST:END -->
 
 ---
