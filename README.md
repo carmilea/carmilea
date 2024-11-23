@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite&#39;s Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/)
-- [&#39;Thirsty&#39; ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
-- [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 - [Edging Toward Japan: In his mind&#39;s eye, Rembrandt was always headed toward Japan](https://mainichi.jp/english/articles/20240601/p2a/00m/0et/012000c)
+- [An Analysis of the Performance of WebSockets in Various Programming Languages &lpar;2021&rpar;](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
+- [A simple semi-space collector – wingolog](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
