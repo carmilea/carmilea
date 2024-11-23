@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK sees privatisation &#39;opportunities&#39; in Ukraine war](https://www.declassifieduk.org/uk-sees-privatisation-opportunities-in-ukraine-war/)
 - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
-- [An Analysis of the Performance of WebSockets in Various Programming Languages](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
+- [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
+- [An Analysis of the Performance of WebSockets in Various Programming Languages &lpar;2021&rpar;](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
 - [Quake 3 Source Code Review: Network Model &lpar;2012&rpar;](https://fabiensanglard.net/quake3/network.php)
-- [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
-- [The Neuroscience Link Between Neuroticism and Social Media Addiction](https://www.lakeforest.edu/news/the-neuroscience-link-between-neuroticism-and-social-media-addiction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
