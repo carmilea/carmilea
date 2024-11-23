@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
-- [Mercedes spends $8bn/year on R&amp;D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)
+- [Large Chainsaw Model](https://www.scottsmitelli.com/articles/large-chainsaw-model/)
 - [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
-- [S3 Express Append has issues](https://blog.astradot.com/s3-express-append-has-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
