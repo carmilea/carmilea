@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wordpress.org released Secure Custom Fields &quot;PRO&quot; version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
+- [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 - [Continuous Integration Dashboard for Apache NuttX RTOS &lpar;Prometheus and Grafana&rpar;](https://lupyuen.github.io/articles/ci4)
+- [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
 - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
-- [Boulder&#39;s explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
-- [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
-- [How to give a senior leader feedback &lpar;without getting fired&rpar;](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 <!-- BLOG-POST-LIST:END -->
 
 ---
