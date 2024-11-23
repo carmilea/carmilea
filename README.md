@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter&#39;s heir apparent isn&#39;t X or Threads – it&#39;s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
-- [The &#39;Return to Office&#39; Lies](https://blog.avas.space/rto/)
-- [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
-- [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
-- [Alloy Automation &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
+- [Mercedes spends $8bn/year on R&amp;D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)
+- [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
+- [Fusion power is getting closer](https://www.economist.com/the-world-ahead/2024/11/20/fusion-power-is-getting-closer-no-really)
+- [The mind-bending new science of measuring time](https://www.ft.com/content/625d2043-a5a4-4d6d-bbe9-42e524a211dd)
+- [AI Data Centers May Consume More Electricity Than Entire Cities](https://www.cnbc.com/2024/11/23/data-centers-powering-ai-could-use-more-electricity-than-entire-cities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
