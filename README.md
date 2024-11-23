@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
+- [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
 - [Futel](https://futel.net/)
 - [Alloy Automation &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
-- [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
-- [SQLite’s Use of Tcl &lpar;2017&rpar;](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
