@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There Is No Business Case for Civilization](https://twitter.com/peterrhague/status/1764746632011149655)
+- [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
+- [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
+- [Hundreds More Nazca Lines Emerge in Peru&#39;s Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
+- [Ahmed Mohamed Clock Incident](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident)
 - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
-- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
-- [The biggest blocker to LibreOffice adoption? LibreOffice](https://www.dedoimedo.com/computers/libreoffice-adoption.html)
-- [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
