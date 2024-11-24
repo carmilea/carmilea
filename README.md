@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Literature Clock](https://literature-clock.jenevoldsen.com/)
 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
-- [Hundreds More Nazca Lines Emerge in Peru&#39;s Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 - [Developing nations blast $300B COP29 climate deal as insufficient](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/)
 - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
