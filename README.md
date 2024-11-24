@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prediction-Nuclear Pwr Will Be &gt; 30% of New Installed Capacity in 10 Years in US](https://2-5-10.com/prediction-nuclear-power-will-be-more-than-30-of-new-installed-capacity-in-10-years-in-usa/)
-- [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
-- [Setting up TiddlyWiki as a BASIC programming platform](https://www.youtube.com/watch?v=kNNjmha5Fzg)
+- [Jiga &lpar;YC W21&rpar; Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
+- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
+- [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
