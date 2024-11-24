@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make an STM &lpar;Scanning Tunneling Microscope&rpar; [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
-- [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
-- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
-- [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
-- [Async Django in Production](https://jonathanadly.com/is-async-django-ready-for-prime-time)
+- [Deegen: A JIT-Capable VM Generator for Dynamic Languages](https://arxiv.org/abs/2411.11469)
+- [Charset=&quot;WTF-8&quot;](https://wtf-8.xn--stpie-k0a81a.com/)
+- [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
