@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
+- [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 - [The &#39;giant&#39; river crabs that live beneath Rome&#39;s ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
+- [Php.net Is Down](https://www.php.net/)
 - [How to Make an STM &lpar;Scanning Tunneling Microscope&rpar; [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
-- [Deegen: A JIT-Capable VM Generator for Dynamic Languages](https://arxiv.org/abs/2411.11469)
-- [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
