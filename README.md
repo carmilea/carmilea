@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
 - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
-- [Those Correction Notices, in Full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
-- [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
+- [New study shows: EV batteries last much longer than expected](https://www.electrive.com/2024/11/24/new-study-shows-ev-batteries-last-much-longer-than-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
