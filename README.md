@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
+- [No More Storage Limits: M.2 Adapter for Apple&#39;s M1 MacBooks [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
+- [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
+- [C99 doesn&#39;t need function bodies: VLAs are Turing complete](https://lemon.rip/w/c99-vla-tricks/)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
-- [Pushing AMD&#39;s Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
-- [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
-- [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
