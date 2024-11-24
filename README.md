@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There Is No Business Case for Civilization](https://twitter.com/peterrhague/status/1764746632011149655)
+- [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
+- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 - [The biggest blocker to LibreOffice adoption? LibreOffice](https://www.dedoimedo.com/computers/libreoffice-adoption.html)
-- [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
-- [Bocker: Docker implemented in around 100 lines of Bash &lpar;2015&rpar;](https://github.com/p8952/bocker)
-- [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
-- [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
+- [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
