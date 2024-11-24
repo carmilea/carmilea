@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Standards Contributor Expelled for &#39;The Undefined Behavior Question&#39;](https://slashdot.org/submission/17330375/c-standards-contributor-expelled-for-the-undefined-behavior-question)
-- [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 - [Hundreds More Nazca Lines Emerge in Peru&#39;s Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
+- [Developing nations blast $300B COP29 climate deal as insufficient](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/)
+- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
