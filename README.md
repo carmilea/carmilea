@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
+- [Pushing AMD&#39;s Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
+- [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
 - [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
-- [Ubitium is developing &#39;universal&#39; processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
-- [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
-- [Lunatic Fringe is a game originally distributed as an AfterDark screensaver](https://github.com/jackinloadup/lunatic-fringe)
-- [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
