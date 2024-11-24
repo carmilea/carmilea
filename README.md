@@ -62,7 +62,7 @@
 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 - [Hundreds More Nazca Lines Emerge in Peru&#39;s Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
 - [Ahmed Mohamed Clock Incident](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident)
-- [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
+- [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
