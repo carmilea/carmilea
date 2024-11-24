@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
-- [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
-- [The &#39;giant&#39; river crabs that live beneath Rome&#39;s ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
-- [Php.net Is Down](https://www.php.net/)
-- [How to Make an STM &lpar;Scanning Tunneling Microscope&rpar; [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
+- [Those Correction Notices, in Full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
+- [Senators Say TSA&#39;s Facial Recognition Program Is Out of Control](https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310)
+- [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
+- [Open source audio transcription model that obscures sensitive info in realtime](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
+- [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
