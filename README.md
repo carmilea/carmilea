@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
+- [CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
+- [Bocker: Docker implemented in around 100 lines of Bash &lpar;2015&rpar;](https://github.com/p8952/bocker)
 - [Wordpress.org released Secure Custom Fields &quot;PRO&quot; version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
-- [Continuous Integration Dashboard for Apache NuttX RTOS &lpar;Prometheus and Grafana&rpar;](https://lupyuen.github.io/articles/ci4)
-- [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
-- [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
