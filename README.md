@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jiga &lpar;YC W21&rpar; Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
-- [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 - [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
+- [Async Django in Production](https://jonathanadly.com/is-async-django-ready-for-prime-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
