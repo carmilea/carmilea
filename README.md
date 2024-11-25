@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
+- [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
+- [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
 - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 - [RFC 35140: HTTP Do-Not-Stab &lpar;2023&rpar;](https://www.5snb.club/posts/2023/do-not-stab/)
-- [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
-- [Worldtimeapp.com Easy Timezone Converter](https://worldtimeapp.com/)
-- [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
