@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
+- [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 - [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
-- [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
-- [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
