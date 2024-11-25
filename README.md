@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synapse still can&#39;t find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
+- [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
-- [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
-- [Fleng 22 &lpar;concurrent logic programming&rpar;](http://www.call-with-current-continuation.org/fleng/fleng.html)
+- [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs &lpar;2015&rpar;](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
