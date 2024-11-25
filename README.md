@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
 - [Fleng 22 &lpar;concurrent logic programming&rpar;](http://www.call-with-current-continuation.org/fleng/fleng.html)
 - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 - [Replit &lpar;YC W18&rpar; Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
-- [The genesis of today&#39;s recruiting crisis](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
+- [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+- [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
