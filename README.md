@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 - [Synapse still can&#39;t find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs &lpar;2015&rpar;](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
