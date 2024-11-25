@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
+- [Fleng 22 &lpar;concurrent logic programming&rpar;](http://www.call-with-current-continuation.org/fleng/fleng.html)
+- [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 - [Replit &lpar;YC W18&rpar; Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
-- [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
-- [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
-- [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
-- [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
+- [The genesis of today&#39;s recruiting crisis](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
