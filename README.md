@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 - [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
-- [Computing Industry Doesn&#39;t Care about Performance: how I made things faster](https://deviantabstraction.com/2024/10/24/faster-computer/)
+- [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 - [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
 - [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
-- [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
