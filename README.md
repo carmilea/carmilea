@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 - [RFC 35140: HTTP Do-Not-Stab &lpar;2023&rpar;](https://www.5snb.club/posts/2023/do-not-stab/)
+- [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
 - [Worldtimeapp.com Easy Timezone Converter](https://worldtimeapp.com/)
-- [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 <!-- BLOG-POST-LIST:END -->
 
