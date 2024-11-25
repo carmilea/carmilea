@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
-- [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
-- [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
+- [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
+- [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
+- [Fleng 22 &lpar;concurrent logic programming&rpar;](http://www.call-with-current-continuation.org/fleng/fleng.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
