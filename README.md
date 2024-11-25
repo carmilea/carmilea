@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fleng 22 &lpar;concurrent logic programming&rpar;](http://www.call-with-current-continuation.org/fleng/fleng.html)
-- [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
-- [Replit &lpar;YC W18&rpar; Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
-- [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
-- [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
+- [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
+- [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
+- [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
+- [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
+- [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
