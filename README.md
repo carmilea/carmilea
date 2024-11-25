@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 - [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
 - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
-- [Focaccia: A Neolithic culinary tradition dating back 9k years ago](https://phys.org/news/2024-11-focaccia-neolithic-culinary-tradition-dating.html)
 - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
 <!-- BLOG-POST-LIST:END -->
 
