@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Pico 2 W on sale now at $7](https://www.raspberrypi.com/news/raspberry-pi-pico-2-w-on-sale-now/)
+- [Declassified Pentagon F-35 Study Details Reliability, Security Woes](https://www.bloomberg.com/news/articles/2024-11-21/declassified-pentagon-f-35-report-details-reliability-and-security-woes)
+- [Why I have resigned from the Royal Society](http://deevybee.blogspot.com/2024/11/why-i-have-resigned-from-royal-society.html)
+- [GitHub removes 42 &quot;basic functionality&quot; features from their roadmap](https://github.com/github/roadmap/discussions/1014)
 - [Judge&#39;s Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
-- [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
-- [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
