@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
-- [Contentlesshtml – An HTML page served entire in HTTP headers](https://www.5snb.club/pages/contentlesshtml/)
+- [Mysteries in polar orbit – space&#39;s oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)
 - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
 - [Judge&#39;s Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
+- [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
