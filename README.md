@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Scheduling Notebooks in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=boYyCOPaQqY)
 - [LangChain for Multimodal Apps: Chat With Text/Image Data  View As Guest](https://www.youtube.com/watch?v=-lYQyOeF938)
 - [Claude 3 Cookbook: Leveraging OCR &amp; Multimodal Data Extraction](https://www.youtube.com/watch?v=7l1OyXGykUs)
 - [Building a Vector Database in Excel with Prof. Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=YAjqASm1O5w)
 - [How to Build Local LLM Apps with Ollama &amp; SingleStore for Maximum Security | SingleStore Webinars](https://www.youtube.com/watch?v=Bp30HoiMuRo)
-- [Building a Vector Database in Excel with Prof. Tom Yeh](https://www.youtube.com/watch?v=pf3a2M_C5nE)
 <!-- YOUTUBE:END -->
 
 
