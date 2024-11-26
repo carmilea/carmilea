@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 6.13 KVM Eliminates an &quot;Awful Idea&quot;, Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
-- [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
-- [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-- [Cybertruck&#39;s Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
-- [Nvidia Fugatto: &quot;World&#39;s Most Flexible Sound Machine&quot;](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
+- [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
+- [USPTO petitioned to cancel Oracle&#39;s JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
+- [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
+- [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
+- [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
