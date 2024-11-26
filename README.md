@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
-- [USPTO petitioned to cancel Oracle&#39;s JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
-- [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
-- [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
-- [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
+- [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
+- [Henry James and H.G. Wells &lpar;1958&rpar;](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
+- [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
+- [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
+- [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
