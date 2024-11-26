@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
+- [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
+- [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
+- [Agile Is Dead](https://www.agilepilled.com/)
 - [Launch HN: Human Layer &lpar;YC F24&rpar; – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
-- [California&#39;s most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
-- [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
-- [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
-- [Qodo Merge integration with Jira — ensure code complies with ticket](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
