@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 6.13 KVM Eliminates an &quot;Awful Idea&quot;, Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
 - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
-- [Supreme Court wants US input on whether ISPs should be liable for users&#39; piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
-- [Lies we tell ourselves to keep using Golang &lpar;2022&rpar;](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 - [Cybertruck&#39;s Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
 - [Nvidia Fugatto: &quot;World&#39;s Most Flexible Sound Machine&quot;](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 <!-- BLOG-POST-LIST:END -->
