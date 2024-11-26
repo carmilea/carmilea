@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fly.io outage &lpar;restoration in progress&rpar;](https://status.flyio.net)
+- [Fly.io outage &lpar;restoration complete&rpar;](https://status.flyio.net)
 - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
 - [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
