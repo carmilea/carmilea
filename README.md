@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
+- [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
 - [GenChess](https://labs.google/genchess)
 - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-- [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
-- [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
