@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SQL 101 - Ep 3 - How to Use ORDER BY Clause in SQL | Learn With SingleStore](https://www.youtube.com/watch?v=6LX3t3Zt81w)
+- [SQL 101 - Ep 2  - WHERE Clause | Learn With SingleStore](https://www.youtube.com/watch?v=q7UMHZfSzF8)
+- [SQL 101 - Ep 1 - SELECT Statements - Learn With SingleStore](https://www.youtube.com/watch?v=kHPb-8ikPtY)
 - [AI-Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP](https://www.youtube.com/watch?v=wjHdaEFNVqs)
 - [Scheduling Notebooks in SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=boYyCOPaQqY)
-- [LangChain for Multimodal Apps: Chat With Text/Image Data  View As Guest](https://www.youtube.com/watch?v=-lYQyOeF938)
-- [Claude 3 Cookbook: Leveraging OCR &amp; Multimodal Data Extraction](https://www.youtube.com/watch?v=7l1OyXGykUs)
-- [Building a Vector Database in Excel with Prof. Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=YAjqASm1O5w)
 <!-- YOUTUBE:END -->
 
 
