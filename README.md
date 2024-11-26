@@ -62,7 +62,7 @@
 - [Henry James and H.G. Wells &lpar;1958&rpar;](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
-- [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
+- [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
