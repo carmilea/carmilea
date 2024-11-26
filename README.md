@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Human Layer &lpar;YC F24&rpar; – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
+- [California&#39;s most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
+- [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
 - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
-- [A slave narrative resurfaces after nearly 170 years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
-- [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
-- [Henry James and H.G. Wells &lpar;1958&rpar;](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
-- [Medicare Pays Different Prices for the Same Drug](https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c)
+- [Qodo Merge integration with Jira — ensure code complies with ticket](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
