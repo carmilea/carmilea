@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kim Dotcom Suffers Stroke](https://www.yahoo.com/news/internet-entrepreneur-kim-dotcom-suffered-095220437.html)
+- [Fly.io is having a complete outage](https://status.flyio.net)
+- [Google&#39;s iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
+- [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)
 - [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
-- [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- [The Raspberry Pi CM5 Is Weeks Away?](https://bret.dk/raspberry-pi-cm5-is-weeks-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
