@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
+- [A slave narrative resurfaces after nearly 170 years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
 - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 - [Henry James and H.G. Wells &lpar;1958&rpar;](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
-- [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
-- [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
-- [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
+- [Medicare Pays Different Prices for the Same Drug](https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
