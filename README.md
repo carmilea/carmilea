@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC Grants SpaceX Right to Some Direct-to-Cellular Operations [pdf]](https://docs.fcc.gov/public/attachments/DA-24-1193A1.pdf)
+- [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
+- [Yes, it ‘looks like a duck,’ but carriers like the new USPS mail truck](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
 - [GenChess](https://labs.google/genchess)
-- [Teen mathematicians tie knots through a mind-blowing fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-- [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
-- [Hats Off to NASA&#39;s Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
 <!-- BLOG-POST-LIST:END -->
 
 ---
