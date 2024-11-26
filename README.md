@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybertruck&#39;s Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
+- [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
+- [Nvidia Fugatto: &quot;World&#39;s Most Flexible Sound Machine&quot;](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 - [Fly.io outage &lpar;restoration complete&rpar;](https://status.flyio.net)
 - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
-- [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
-- [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs &lpar;2015&rpar;](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
