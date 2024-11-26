@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
 - [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
-- [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
 - [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
-- [Agile Is Dead](https://www.agilepilled.com/)
 - [Launch HN: Human Layer &lpar;YC F24&rpar; – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
+- [California&#39;s most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
