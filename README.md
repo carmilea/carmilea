@@ -61,8 +61,8 @@
 - [I Wrote &quot;Janet for Mortals&quot;](https://ianthehenry.com/posts/janet-for-mortals/)
 - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
-- [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
 - [I Didn&#39;t Need Kubernetes, and You Probably Don&#39;t Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+- [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
