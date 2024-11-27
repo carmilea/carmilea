@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Matomo-org/device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+- [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
 - [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
-- [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
-- [The Rise of Bluesky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
