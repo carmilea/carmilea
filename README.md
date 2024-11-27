@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
-- [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
-- [Prelude to McCarthyism: The Making of a Blacklist &lpar;2006&rpar;](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
-- [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
-- [Stage Is Now Generally Available – and It’s Free for Everyone!](https://www.singlestore.com/blog/stage-is-now-generally-available-and-free-for-everyone)
+- [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+- [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
+- [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
+- [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
+- [The Rise of Bluesky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
