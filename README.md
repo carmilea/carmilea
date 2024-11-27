@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Increasing testosterone levels does not increase sex drive](https://english.elpais.com/health/2024-11-27/increasing-testosterone-levels-does-not-increase-sex-drive.html)
-- [London&#39;s 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
-- [Hackerrank was broken – but now it&#39;s harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
-- [Device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
-- [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+- [Google Maps leads three men to death as car plunges from incomplete bridge](https://economictimes.indiatimes.com/news/india/google-maps-leads-three-men-to-death-as-car-plunges-from-incomplete-bridge-into-river-in-bareilly-up/articleshow/115651260.cms?from=mdr)
+- [Factoring in the Chicken McNugget monoid &lpar;2017&rpar;](https://arxiv.org/abs/1709.01606)
+- [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
+- [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
+- [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
