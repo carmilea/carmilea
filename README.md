@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi CM5 is a faster, drop-in upgrade](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
+- [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
+- [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment)
 - [Show HN: App that asks &#39;why?&#39; every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
-- [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 - [I Wrote &quot;Janet for Mortals&quot;](https://ianthehenry.com/posts/janet-for-mortals/)
-- [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
+- [A Dark Age Beacon](https://archaeology.org/issues/january-february-2019/features/a-dark-age-beacon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
