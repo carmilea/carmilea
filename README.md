@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade &lpar;mostly&rpar;](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
 - [Show HN: App that asks &#39;why?&#39; every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
-- [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
 - [I Wrote &quot;Janet for Mortals&quot;](https://ianthehenry.com/posts/janet-for-mortals/)
 - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
+- [I Didn&#39;t Need Kubernetes, and You Probably Don&#39;t Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 <!-- BLOG-POST-LIST:END -->
 
 ---
