@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 - [Prelude to McCarthyism: The Making of a Blacklist &lpar;2006&rpar;](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
+- [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
 - [Stage Is Now Generally Available – and It’s Free for Everyone!](https://www.singlestore.com/blog/stage-is-now-generally-available-and-free-for-everyone)
-- [Launch HN: Keep &lpar;YC W23&rpar; – Open-source AIOps and alert management](https://github.com/keephq/keep)
-- [Chebyshev Polynomials in the 16th Century &lpar;2022&rpar;](https://arxiv.org/abs/2203.10955)
 <!-- BLOG-POST-LIST:END -->
 
 ---
