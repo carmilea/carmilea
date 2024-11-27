@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
+- [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
 - [I Didn&#39;t Need Kubernetes, and You Probably Don&#39;t Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
-- [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
-- [ISPs say their &quot;excellent customer service&quot; is why users don&#39;t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
