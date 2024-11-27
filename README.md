@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
+- [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
 - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
+- [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
 - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
-- [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
-- [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
-- [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
