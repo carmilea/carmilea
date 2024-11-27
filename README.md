@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Matomo-org/device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
+- [Increasing testosterone levels does not increase sex drive](https://english.elpais.com/health/2024-11-27/increasing-testosterone-levels-does-not-increase-sex-drive.html)
+- [London&#39;s 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
+- [Hackerrank was broken – but now it&#39;s harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
+- [Device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
-- [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
-- [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
-- [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
