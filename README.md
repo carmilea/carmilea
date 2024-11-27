@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ryugu asteroid sample rapidly colonized by terrestrial life](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
-- [Bluesky Is Booming in Japan](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/)
 - [Raspberry Pi CM5 is a faster, drop-in upgrade](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
-- [Accelerated Jax on Mac](https://developer.apple.com/metal/jax/)
 - [Show HN: App that asks &#39;why?&#39; every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
+- [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
+- [I Wrote &quot;Janet for Mortals&quot;](https://ianthehenry.com/posts/janet-for-mortals/)
+- [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
