@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+- [Prelude to McCarthyism: The Making of a Blacklist &lpar;2006&rpar;](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
 - [Stage Is Now Generally Available – and It’s Free for Everyone!](https://www.singlestore.com/blog/stage-is-now-generally-available-and-free-for-everyone)
 - [Launch HN: Keep &lpar;YC W23&rpar; – Open-source AIOps and alert management](https://github.com/keephq/keep)
-- [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 - [Chebyshev Polynomials in the 16th Century &lpar;2022&rpar;](https://arxiv.org/abs/2203.10955)
-- [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
