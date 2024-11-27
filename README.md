@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
-- [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
+- [Stage Is Now Generally Available – and It’s Free for Everyone!](https://www.singlestore.com/blog/stage-is-now-generally-available-and-free-for-everyone)
+- [Launch HN: Keep &lpar;YC W23&rpar; – Open-source AIOps and alert management](https://github.com/keephq/keep)
 - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
-- [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
+- [Chebyshev Polynomials in the 16th Century &lpar;2022&rpar;](https://arxiv.org/abs/2203.10955)
 - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 <!-- BLOG-POST-LIST:END -->
 
