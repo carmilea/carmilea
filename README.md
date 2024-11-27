@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
-- [Hacker in Snowflake Extortions May Be a U.S. Soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
+- [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
+- [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 - [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
 - [ISPs say their &quot;excellent customer service&quot; is why users don&#39;t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
 - [Executing ARM Jazelle &lpar;JVM Bytecode&rpar; on the Wii&#39;s Starlet](https://github.com/thamugadi/jazelle-wii)
