@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
-- [Hetzner cuts traffic on US VPSs](https://news.ycombinator.com/item?id=42264427)
-- [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
-- [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
-- [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
+- [Jazz Kissa](https://en.wikipedia.org/wiki/Jazz_kissa)
+- [Who Is Jay Graber, the CEO of Bluesky?](https://www.lemonde.fr/en/m-le-mag/article/2024/11/21/who-is-jay-graber-the-ceo-of-bluesky_6733621_117.html)
+- [Seoul blanketed by heaviest November snow on record](https://www.bbc.com/news/articles/cpqdgw7lzw0o)
+- [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
+- [A Pretty Visualisation of the European Power Grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
