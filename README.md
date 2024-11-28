@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
-- [List of books that will induce a mindfuck](https://everything2.com/title/Books+that+will+induce+a+mindfuck)
 - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-- [Microsoft says it&#39;s built an Xbox game store on Android but can&#39;t launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
 - [Conversational Game Theory](https://aikiwiki.com/)
+- [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
+- [Fugees Founder Pras Michél Speaks Out: &#39;I Never Wanted to Be a Spy&#39;](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
