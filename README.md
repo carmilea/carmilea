@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SQL 101  - Ep 4  - DISTINCT KEYWORD | Learn With SingleStore](https://www.youtube.com/watch?v=SeWNmTtntIg)
 - [Highlights | H2O GenAI World NY 2024](https://www.youtube.com/watch?v=ZLogaVoXj8w)
 - [SingleStore   Time is Now](https://www.youtube.com/watch?v=ljERnr_iwQk)
 - [SQL 101 - Ep 3 - How to Use ORDER BY Clause in SQL | Learn With SingleStore](https://www.youtube.com/watch?v=6LX3t3Zt81w)
 - [SQL 101 - Ep 2  - WHERE Clause | Learn With SingleStore](https://www.youtube.com/watch?v=q7UMHZfSzF8)
-- [SQL 101 - Ep 1 - SELECT Statements - Learn With SingleStore](https://www.youtube.com/watch?v=kHPb-8ikPtY)
 <!-- YOUTUBE:END -->
 
 
