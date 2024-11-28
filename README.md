@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interpol arrests 5,500 across 5 continents for cybercrime, seizes over $400M](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million)
+- [The UX of Lego Interface Panels &lpar;2020&rpar;](https://interactionmagic.com/UX-LEGO-Interfaces/)
 - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 - [A Pretty Visualisation of the European Power Grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
-- [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
 - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
+- [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
