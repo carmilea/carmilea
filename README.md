@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The success and failure of Ninja &lpar;2020&rpar;](https://neugierig.org/software/blog/2020/05/ninja.html)
+- [In the Rockets&#39; Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 - [The UX of Lego Interface Panels &lpar;2020&rpar;](https://interactionmagic.com/UX-LEGO-Interfaces/)
 - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
-- [A Pretty Visualisation of the European Power Grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
-- [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
-- [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
+- [A pretty visualisation of the European power grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
