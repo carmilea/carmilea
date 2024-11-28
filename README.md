@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversational Game Theory](https://aikiwiki.com/)
 - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 - [Fugees Founder Pras Michél Speaks Out: &#39;I Never Wanted to Be a Spy&#39;](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
-- [A Beginner&#39;s Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
 - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 <!-- BLOG-POST-LIST:END -->
