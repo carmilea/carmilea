@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emacs: A Basic and Capable Configuration](https://protesilaos.com/codelog/2024-11-28-basic-emacs-configuration/)
-- [Synology patches unannounced multiple zero-day vulnerabilities](https://www.synology.com/en-us/security/advisory/Synology_SA_24_20)
-- [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
+- [Interpol arrests 5,500 across 5 continents for cybercrime, seizes over $400M](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million)
+- [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 - [A Pretty Visualisation of the European Power Grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
-- [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
+- [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
+- [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
