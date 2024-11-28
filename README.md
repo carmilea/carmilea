@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
-- [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
+- [Found in the wild: the first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
+- [Hetzner cuts traffic from 20 TB –&gt; 1..5 TB on US VPSs](https://news.ycombinator.com/item?id=42264427)
 - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
-- [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
