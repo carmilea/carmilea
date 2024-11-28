@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
 - [Tornado Cash Sanctions Found Illegal, in Legal Win for Crypto](https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M)
 - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
-- [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
-- [A Washing Machine for Human Beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
+- [Bluesky Social Dataset &lpar;235M posts from 4M users&rpar;](https://zenodo.org/records/11082879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
