@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hetzner cuts traffic from 20 TB –&gt; 1..5 TB on US VPSs](https://news.ycombinator.com/item?id=42264427)
-- [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
+- [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
+- [Hetzner cuts traffic on US VPSs](https://news.ycombinator.com/item?id=42264427)
+- [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
+- [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
-- [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-- [Conversational Game Theory](https://aikiwiki.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
