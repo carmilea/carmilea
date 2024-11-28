@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
 - [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 - [MIT Aluminum Bicycle Project 1974](https://www.sheldonbrown.com/AluminumBikeProject.html)
-- [Most American farmers have second jobs to stay afloat](https://www.marketplace.org/2024/11/27/to-stay-on-the-farm-more-and-more-farmers-are-working-extra-jobs/)
+- [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
 - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
-- [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
