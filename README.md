@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pissed off by Spotify Enshittifying more API endpoints? We can help](https://blog.metabrainz.org/2024/11/28/pissed-off-by-spotify-enshittifying-more-api-endpoints-we-can-help/)
-- [Global Solar Council announces 2 terawatt milestone achieved for solar](https://www.globalsolarcouncil.org/news/global-solar-council-announces-2-terawatt-milestone-achieved-for-solar/)
-- [Linux Kernel Performance Bottlenecks Spotted by Mold Developer](https://www.phoronix.com/news/Linux-Kernel-Bottlenecks-Mold)
-- [Jazz Kissa](https://en.wikipedia.org/wiki/Jazz_kissa)
-- [Who Is Jay Graber, the CEO of Bluesky?](https://www.lemonde.fr/en/m-le-mag/article/2024/11/21/who-is-jay-graber-the-ceo-of-bluesky_6733621_117.html)
+- [Emacs: A Basic and Capable Configuration](https://protesilaos.com/codelog/2024-11-28-basic-emacs-configuration/)
+- [Synology patches unannounced multiple zero-day vulnerabilities](https://www.synology.com/en-us/security/advisory/Synology_SA_24_20)
+- [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
+- [A Pretty Visualisation of the European Power Grid &lpar;2022&rpar;](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
+- [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
