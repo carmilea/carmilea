@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
+- [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
+- [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
+- [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
 - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
-- [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-- [Conversational Game Theory](https://aikiwiki.com/)
-- [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
-- [Fugees Founder Pras Michél Speaks Out: &#39;I Never Wanted to Be a Spy&#39;](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
