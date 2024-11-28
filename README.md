@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps leads three men to death as car plunges from incomplete bridge](https://economictimes.indiatimes.com/news/india/google-maps-leads-three-men-to-death-as-car-plunges-from-incomplete-bridge-into-river-in-bareilly-up/articleshow/115651260.cms?from=mdr)
-- [Factoring in the Chicken McNugget monoid &lpar;2017&rpar;](https://arxiv.org/abs/1709.01606)
+- [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
+- [MIT Aluminum Bicycle Project 1974](https://www.sheldonbrown.com/AluminumBikeProject.html)
+- [Most American farmers have second jobs to stay afloat](https://www.marketplace.org/2024/11/27/to-stay-on-the-farm-more-and-more-farmers-are-working-extra-jobs/)
 - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
-- [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
 - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 <!-- BLOG-POST-LIST:END -->
 
