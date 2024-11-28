@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye, Rust. I wish you success but I&#39;m back to C++ &lpar;sorry, it is a rant&rpar;](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
+- [Send someone you appreciate an official &#39;Continue and Persist&#39; Letter](https://ContinueAndPersist.org)
 - [Hetzner raises prices while significantly lowering bandwidth &lpar;US&rpar;](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
 - [The success and failure of Ninja &lpar;2020&rpar;](https://neugierig.org/software/blog/2020/05/ninja.html)
 - [In the Rockets&#39; Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
-- [The UX of Lego Interface Panels &lpar;2020&rpar;](https://interactionmagic.com/UX-LEGO-Interfaces/)
-- [Norway: Taxing Unrealized Gains Has Caused an Entrepreneurial Exodus](https://paragraph.xyz/@hagaetc/norway-shrugged)
 <!-- BLOG-POST-LIST:END -->
 
 ---
