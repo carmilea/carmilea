@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 - [MySQL OPTIMIZE TABLE: How to Keep Your Database Running Smoothly](https://www.singlestore.com/blog/mysql-optimize-table)
-- [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
-- [Chinese pebble-bed nuclear reactor passes &quot;meltdown&quot; test](https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/)
-- [Buy Nothing Day](https://buynothingday.co.uk/)
+- [US house prices in 1950 vs. 2024, accounting for inflation](https://brilliantmaps.com/us-houses-prices-1950-2024/)
+- [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
