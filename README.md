@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
+- [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
+- [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 - [MySQL OPTIMIZE TABLE: How to Keep Your Database Running Smoothly](https://www.singlestore.com/blog/mysql-optimize-table)
-- [US house prices in 1950 vs. 2024, accounting for inflation](https://brilliantmaps.com/us-houses-prices-1950-2024/)
-- [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
