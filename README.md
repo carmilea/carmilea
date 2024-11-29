@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Unlocking AI&#39;s Potential: Chemistry and Longevity Breakthroughs!](https://www.youtube.com/watch?v=VphBHJS6E4k)
+- [Transforming Database Solutions: See why SingleStore stands out!](https://www.youtube.com/watch?v=gV3YCorAZ2Q)
+- [SingleStore Revolutionizing Data Management](https://www.youtube.com/watch?v=Z2WQnCjk4lM)
+- [Future of Databases: Auto-tuning Queries &amp; Chatting!](https://www.youtube.com/watch?v=MUOH-exJr0I)
 - [SingleStore: Consolidate Your Data with Our Game Changing Single Connect](https://www.youtube.com/watch?v=3FkmR2_A7Ps)
-- [SingleStore: Breaking Barriers &amp; Achieving Millisecond Responses at Petabyte Scale!](https://www.youtube.com/watch?v=uphQDcJQeb0)
-- [SQL 101  - Ep 4  - DISTINCT KEYWORD | Learn With SingleStore](https://www.youtube.com/watch?v=SeWNmTtntIg)
-- [Highlights | H2O GenAI World NY 2024](https://www.youtube.com/watch?v=ZLogaVoXj8w)
-- [SingleStore   Time is Now](https://www.youtube.com/watch?v=ljERnr_iwQk)
 <!-- YOUTUBE:END -->
 
 
