@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+- [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 - [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
-- [Goodbye, Rust. I wish you success but I&#39;m back to C++ &lpar;sorry, it is a rant&rpar;](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
 - [Send someone you appreciate an official &#39;Continue and Persist&#39; Letter](https://ContinueAndPersist.org)
 - [The Denver OWASP Chapter is proud to present SnowFROC &#39;25](https://snowfroc.com/)
 <!-- BLOG-POST-LIST:END -->
