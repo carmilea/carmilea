@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)
+- [&#39;PDF to Brainrot&#39; study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
 - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
-- [Australian Parliament bans social media for under-16s](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
-- [US antitrust watchdog launches broad Microsoft investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
-- [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
 - [Physics in Next-Token Prediction](https://arxiv.org/abs/2411.00660)
+- [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
