@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [Black Friday is a trap](https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs)
 - [Database Partitioning vs. Sharding: What’s the Difference?](https://www.singlestore.com/blog/database-sharding-vs-partitioning-whats-the-difference)
 - [How to Fix MySQL Error 1040: Too Many Connections](https://www.singlestore.com/blog/mysql-error-too-many-connections)
 - [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
-- [MySQL Error 2002 &lpar;hy000&rpar;: can’t connect to local mysql server through socket](https://www.singlestore.com/blog/mysql-error-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
