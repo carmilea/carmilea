@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brits are scrolling away from X and aren&#39;t that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
+- [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
 - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
-- [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [MySQL OPTIMIZE TABLE: How to Keep Your Database Running Smoothly](https://www.singlestore.com/blog/mysql-optimize-table)
 <!-- BLOG-POST-LIST:END -->
 
 ---
