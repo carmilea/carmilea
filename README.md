@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian Parliament bans social media for under-16s with world-first law](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
+- [US Antitrust Watchdog Launches Broad Microsoft Investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
+- [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
+- [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
 - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
-- [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
-- [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
-- [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)
-- [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
