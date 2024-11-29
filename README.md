@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
 - [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)
 - [&#39;PDF to Brainrot&#39; study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
+- [Someone just won $50k by convincing an AI Agent to send all funds to them](https://twitter.com/jarrodwattsdev/status/1862299845710757980)
 - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
-- [Physics in Next-Token Prediction](https://arxiv.org/abs/2411.00660)
-- [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
