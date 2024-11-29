@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [Alibaba releases an &#39;open&#39; challenger to OpenAI&#39;s O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 - [Don&#39;t Fuck with Scroll](https://dontfuckwithscroll.com)
 - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
 - [Gimp 3.0](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
-- [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
-- [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
 <!-- BLOG-POST-LIST:END -->
 
 ---
