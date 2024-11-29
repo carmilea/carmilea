@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [Alibaba releases an &#39;open&#39; challenger to OpenAI&#39;s O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
-- [Don&#39;t Fuck with Scroll](https://dontfuckwithscroll.com)
-- [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
-- [Gimp 3.0](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
+- [MySQL Error 2002 &lpar;hy000&rpar;: can’t connect to local mysql server through socket](https://www.singlestore.com/blog/mysql-error-2022)
+- [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
+- [Core copyright violation moves ahead in The Intercept&#39;s lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
+- [The Most Hated Way of Firing Someone, the PIP, Is More Popular Than Ever](https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
