@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian Parliament bans social media for under-16s with world-first law](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
-- [US Antitrust Watchdog Launches Broad Microsoft Investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
+- [Australian Parliament bans social media for under-16s](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
+- [US antitrust watchdog launches broad Microsoft investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
 - [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
 - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
