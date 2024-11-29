@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [Black Friday is a trap](https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs)
-- [Database Partitioning vs. Sharding: What’s the Difference?](https://www.singlestore.com/blog/database-sharding-vs-partitioning-whats-the-difference)
-- [How to Fix MySQL Error 1040: Too Many Connections](https://www.singlestore.com/blog/mysql-error-too-many-connections)
-- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+- [MySQL OPTIMIZE TABLE: How to Keep Your Database Running Smoothly](https://www.singlestore.com/blog/mysql-optimize-table)
+- [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
+- [Chinese pebble-bed nuclear reactor passes &quot;meltdown&quot; test](https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/)
+- [Buy Nothing Day](https://buynothingday.co.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
