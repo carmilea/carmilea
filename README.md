@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding + Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [Database Partitioning vs. Sharding: What’s the Difference?](https://www.singlestore.com/blog/database-sharding-vs-partitioning-whats-the-difference)
+- [How to Fix MySQL Error 1040: Too Many Connections](https://www.singlestore.com/blog/mysql-error-too-many-connections)
+- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 - [MySQL Error 2002 &lpar;hy000&rpar;: can’t connect to local mysql server through socket](https://www.singlestore.com/blog/mysql-error-2022)
-- [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
-- [Core copyright violation moves ahead in The Intercept&#39;s lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
-- [The Most Hated Way of Firing Someone, the PIP, Is More Popular Than Ever](https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
