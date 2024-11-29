@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
+- [Finland, Sweden complete repairs on Baltic Sea cables](https://yle.fi/a/74-20128140)
 - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
 - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 - [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
-- [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
-- [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
