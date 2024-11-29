@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
+- [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+- [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)
 - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
-- [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
-- [Send someone you appreciate an official &#39;Continue and Persist&#39; Letter](https://ContinueAndPersist.org)
-- [The Denver OWASP Chapter is proud to present SnowFROC &#39;25](https://snowfroc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
