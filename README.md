@@ -62,7 +62,7 @@
 - [US Antitrust Watchdog Launches Broad Microsoft Investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
 - [The trouble with struct sockaddr&#39;s fake flexible array](https://lwn.net/Articles/997094/)
-- [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
+- [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
 <!-- BLOG-POST-LIST:END -->
 
 ---
