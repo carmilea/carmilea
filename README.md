@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
-- [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
-- [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
-- [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
-- [Calculating the largest known prime in Ruby](https://jpcamara.com/2024/11/26/looking-to-impress.html)
+- [Tesla Is Looking to Hire a Team to Remotely Control Its &#39;Self-Driving&#39; Robotaxis](https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600)
+- [US War Department 1945 // Army Talk Orientation Fact Sheet #64 – Fascism](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism)
+- [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
+- [Things I wish I knew the day I started Berklee &lpar;2008&rpar;](https://sive.rs/berklee)
+- [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
