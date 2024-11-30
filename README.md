@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TUI spreadsheet app in Rust based on IronCalc engine](https://github.com/zaphar/sheetsui)
+- [How Honeycrisp Apples Went from Marvel to Mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
 - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer &lpar;2009&rpar;](https://distrowatch.com/weekly.php?issue=20090323#feature)
-- [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
+- [The Story of Nel](https://www.deusinmachina.net/p/the-story-of-nel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
