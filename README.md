@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
+- [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
 - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 - [AMD Disables Zen 4&#39;s Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
 - [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
-- [How honeycrisp apples went from marvel to mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
-- [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
