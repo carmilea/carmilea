@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Googling Is for Old People. That&#39;s a Problem for Google](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed)
-- [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
-- [The Quake III Arena Bot &lpar;2001&rpar; [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
-- [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
+- [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+- [Cause of rare devastating, autoimmune disease in Puerto Ricans–and possible cure](https://medicalxpress.com/news/2024-11-scientists-rare-devastating-autoimmune-disease.html)
 - [NASA&#39;s Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+- [Geometric line-art of Wacław Szpakowski &lpar;2017&rpar;](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
+- [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
