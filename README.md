@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasabi &lpar;S3 Storage&rpar; is down](https://status.wasabi.com)
+- [Googling Is for Old People. That&#39;s a Problem for Google](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed)
 - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 - [The Quake III Arena Bot &lpar;2001&rpar; [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
-- [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
+- [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 - [NASA&#39;s Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 <!-- BLOG-POST-LIST:END -->
 
