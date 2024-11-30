@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
+- [&quot;Silicon Valley Is Turning into Its Own Worst Fear&quot; Ted Chiang &lpar;2017&rpar;](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
+- [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
 - [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
 - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
-- [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
-- [AMD Disables Zen 4&#39;s Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
-- [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
