@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+- [Calculating the largest known prime in Ruby](https://jpcamara.com/2024/11/26/looking-to-impress.html)
 - [Cause of rare devastating, autoimmune disease in Puerto Ricans–and possible cure](https://medicalxpress.com/news/2024-11-scientists-rare-devastating-autoimmune-disease.html)
 - [NASA&#39;s Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
-- [Geometric line-art of Wacław Szpakowski &lpar;2017&rpar;](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
