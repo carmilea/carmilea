@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Open Source Community Engineer &lpar;Remote&rpar; &lpar;IN/EU&rpar;](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
+- [I don&#39;t know how to build software and you don&#39;t either](https://www.seangoedecke.com/confidence/)
 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
-- [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
