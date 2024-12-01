@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI Search Engineer at Activeloop &lpar;YC S18&rpar;: Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
-- [ChatGPT Learned to Reason [video]](https://www.youtube.com/watch?v=PvDaPeQjxOE)
 - [Statistics, by Freedman, Pisani, and Purves &lpar;2017&rpar;](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 - [Advent of Code 2024](https://adventofcode.com/2024/about)
 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
+- [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
