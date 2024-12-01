@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
-- [Steam Deck hits 17,000 games playable and verified](https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/)
-- [December Adventure &lpar;Advent of Code alternative&rpar;](https://eli.li/december-adventure)
+- [Oliver Heaviside&#39;s Operator Calculus &lpar;2007&rpar;](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
+- [The Phones of the New NATO Secretary General](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+- [Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends](https://github.com/MinishLab/vicinity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
