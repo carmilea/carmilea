@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Color of Noise – The Witness &lpar;2014&rpar;](https://caseymuratori.com/blog_0010)
-- [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
+- [1/0 = 0 &lpar;2018&rpar;](https://www.hillelwayne.com/post/divide-by-zero/)
+- [The Color of Noise &lpar;2014&rpar;](https://caseymuratori.com/blog_0010)
 - [Heaviside’s Operator Calculus &lpar;2007&rpar;](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
-- [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
+- [Francis Crick&#39;s &quot;Central Dogma&quot; was misunderstood](https://www.asimov.press/p/crick)
+- [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
