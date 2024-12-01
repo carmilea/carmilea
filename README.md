@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yotta Bank and the Problem with Fintech &lpar;Patrick Boyle&rpar; [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
+- [The Rarest Mineral Is So Rare It&#39;s Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
 - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 - [AI Search Engineer at Activeloop &lpar;YC S18&rpar;: Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
-- [Statistics, by Freedman, Pisani, and Purves &lpar;2017&rpar;](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
-- [Advent of Code 2024](https://adventofcode.com/2024/about)
-- [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
+- [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
