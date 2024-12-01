@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oliver Heaviside&#39;s Operator Calculus &lpar;2007&rpar;](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
-- [The Phones of the New NATO Secretary General](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
+- [The Color of Noise – The Witness &lpar;2014&rpar;](https://caseymuratori.com/blog_0010)
+- [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
+- [Heaviside’s Operator Calculus &lpar;2007&rpar;](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
+- [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
-- [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
-- [Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends](https://github.com/MinishLab/vicinity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
