@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
+- [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+- [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
+- [Building a distributed log using S3 &lpar;under 150 lines of Go&rpar;](https://avi.im/blag/2024/s3-log/)
 - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
-- [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
-- [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
-- [Yotta Bank and the Problem with Fintech &lpar;Patrick Boyle&rpar; [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
-- [The Rarest Mineral Is So Rare It&#39;s Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
 <!-- BLOG-POST-LIST:END -->
 
 ---
