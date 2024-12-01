@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Search Engineer at Activeloop &lpar;YC S18&rpar;: Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
+- [ChatGPT Learned to Reason [video]](https://www.youtube.com/watch?v=PvDaPeQjxOE)
+- [Statistics, by Freedman, Pisani, and Purves &lpar;2017&rpar;](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 - [Advent of Code 2024](https://adventofcode.com/2024/about)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Open Source Community Engineer &lpar;Remote&rpar; &lpar;IN/EU&rpar;](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
-- [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
-- [Canon ships its first nanoprint lithography machine, rivals ASML](https://www.datacenterdynamics.com/en/news/canon-ships-its-first-nanoprint-lithography-machine-rivals-asml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
