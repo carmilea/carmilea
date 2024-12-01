@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 - [All Here founder&#39;s arrest shows it&#39;s easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
 - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
 - [Sei AI &lpar;YC W22&rpar; Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
-- [Controlling AI&#39;s Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
