@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
+- [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
+- [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 - [Yotta Bank and the Problem with Fintech &lpar;Patrick Boyle&rpar; [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 - [The Rarest Mineral Is So Rare It&#39;s Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
-- [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
-- [AI Search Engineer at Activeloop &lpar;YC S18&rpar;: Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
-- [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
