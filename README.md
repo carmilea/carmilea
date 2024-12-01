@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK counter-terrorism unit demands Steam withdraw controversial shooter from sale](https://www.eurogamer.net/uk-counter-terrorism-unit-demands-steam-withdraw-controversial-shooter-from-sale)
+- [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
+- [What Graykey iPhone hack tool can unlock](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool)
 - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
 - [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
-- [Uber&#39;s Dark Descent: How Abandoning Innovation Hurt Drivers and Gouges Riders](https://viewfromthewing.com/uber-downward-spiral/)
 - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 <!-- BLOG-POST-LIST:END -->
 
