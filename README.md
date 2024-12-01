@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
+- [Steam Deck hits 17,000 games playable and verified](https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/)
+- [December Adventure &lpar;Advent of Code alternative&rpar;](https://eli.li/december-adventure)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
-- [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
-- [Building a distributed log using S3 &lpar;under 150 lines of Go&rpar;](https://avi.im/blag/2024/s3-log/)
-- [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
