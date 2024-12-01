@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1/0 = 0 &lpar;2018&rpar;](https://www.hillelwayne.com/post/divide-by-zero/)
-- [The Color of Noise &lpar;2014&rpar;](https://caseymuratori.com/blog_0010)
-- [Heaviside’s Operator Calculus &lpar;2007&rpar;](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
-- [Francis Crick&#39;s &quot;Central Dogma&quot; was misunderstood](https://www.asimov.press/p/crick)
-- [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
+- [UK counter-terrorism unit demands Steam withdraw controversial shooter from sale](https://www.eurogamer.net/uk-counter-terrorism-unit-demands-steam-withdraw-controversial-shooter-from-sale)
+- [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
+- [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
+- [Uber&#39;s Dark Descent: How Abandoning Innovation Hurt Drivers and Gouges Riders](https://viewfromthewing.com/uber-downward-spiral/)
+- [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
