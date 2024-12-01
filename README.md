@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sei AI &lpar;YC W22&rpar; Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
+- [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
 - [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
-- [&quot;Silicon Valley Is Turning into Its Own Worst Fear&quot; Ted Chiang &lpar;2017&rpar;](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
-- [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
-- [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
-- [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
+- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/privastead/privastead)
+- [A Brazilian CA trusted only by Microsoft has issued a certificate for google.com](https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
