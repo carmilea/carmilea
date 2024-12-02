@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+- [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
 - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
-- [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
-- [Kenya and &quot;The Decline of the Greatest Coffee&quot; &lpar;2021&rpar;](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
-- [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
+- [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
