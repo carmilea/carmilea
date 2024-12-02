@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
+- [The Great Grocery Squeeze: federal policy change in &#39;80s created the food desert](https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/)
 - [Optimality of Gerver&#39;s Sofa](https://arxiv.org/abs/2411.19826)
 - [Tempest Anderson: Pioneer of Volcano Photography &lpar;2015&rpar;](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
-- [Facebook&#39;s Little Red Book](https://www.map.cv/blog/redbook)
-- [Static IPs for Serverless Containers](https://modal.com/blog/vprox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
