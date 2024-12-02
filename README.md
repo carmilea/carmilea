@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimality of Gerver&#39;s Sofa](https://arxiv.org/abs/2411.19826)
+- [Tempest Anderson: Pioneer of Volcano Photography &lpar;2015&rpar;](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
-- [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)
-- [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
-- [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
-- [The world of Dante&#39;s Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
+- [Facebook&#39;s Little Red Book](https://www.map.cv/blog/redbook)
+- [Static IPs for Serverless Containers](https://modal.com/blog/vprox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
