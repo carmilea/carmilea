@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
+- [The World of Dante&#39;s Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
 - [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
-- [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
-- [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
-- [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
+- [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
