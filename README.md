@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
-- [The World of Dante&#39;s Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
-- [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-- [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
-- [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
+- [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
+- [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)
+- [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
+- [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
+- [The world of Dante&#39;s Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
