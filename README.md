@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 - [Kenya and &quot;The Decline of the Greatest Coffee&quot; &lpar;2021&rpar;](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
 - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
-- [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 <!-- BLOG-POST-LIST:END -->
 
 ---
