@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
-- [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
 - [An Aperiodic Monotile &lpar;2023&rpar;](https://cs.uwaterloo.ca/~csk/hat/)
 - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
-- [&#39;Brain rot&#39; named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
+- [When was the famous &quot;sudo warning&quot; introduced? &lpar;2019&rpar;](https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom)
+- [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
+- [Ampere WS-1 Japanese APL Clamtop](https://computeradsfromthepast.substack.com/p/ampere-ws-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
