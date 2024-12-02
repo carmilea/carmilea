@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
+- [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
 - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 - [Kenya and &quot;The Decline of the Greatest Coffee&quot; &lpar;2021&rpar;](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
-- [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)
 - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
-- [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
