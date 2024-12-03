@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stephen King to Shut Down His 3 Radio Stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
+- [OpenAI reveals why ChatGPT won&#39;t say &quot;David Mayer&quot;](https://www.neowin.net/news/openai-finally-reveals-why-chatgpt-wont-say-david-meyer/)
 - [The Tube Computer](https://www.thetubecomputer.com/)
-- [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
-- [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
-- [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/)
-- [MTA&#39;s A.I. bus cameras issue mistaken parking violations](https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/)
+- [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
+- [Building Enterprise AI Apps with Multi-Agent RAG: Insights from TechCrunch Disrupt 2024](https://www.singlestore.com/blog/building-enterprise-ai-apps-with-multi-agent-rag-techcrunch-disrupt-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
