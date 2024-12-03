@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
+- [My domain registrar &lpar;DNSimple&rpar; tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
+- [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
+- [&#39;With brain preservation, nobody has to die&#39;](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
 - [Tweaking Stunt Island&#39;s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
-- [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
-- [High School Student&#39;s First App – NWS Weather Report](https://weatherreportnow.com/)
+- [Why Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
