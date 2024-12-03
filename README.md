@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kapa.ai &lpar;YC S23&rpar; is hiring AI research and full-stack roles &lpar;EU timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs)
 - [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
 - [Blizzard&#39;s pulling of Warcraft I and II tests GOG&#39;s new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
 - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 - [High School Student&#39;s First App – NWS Weather Report](https://weatherreportnow.com/)
-- [Twice-Yearly HIV Shot Shows 100% Effectiveness in Women](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
