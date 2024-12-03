@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tip pressure might work in the moment, but customers are less likely to return](https://theconversation.com/tip-pressure-might-work-in-the-moment-but-customers-are-less-likely-to-return-242089)
+- [Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
+- [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
+- [Show HN: Open-sourced &lpar;road&rpar; traffic counting application](https://github.com/asfarley/vtc_lfs)
 - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
-- [The Great Grocery Squeeze: federal policy change in &#39;80s created the food desert](https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/)
-- [Optimality of Gerver&#39;s Sofa](https://arxiv.org/abs/2411.19826)
-- [Tempest Anderson: Pioneer of Volcano Photography &lpar;2015&rpar;](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
-- [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
