@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korea President Yoon declares martial law](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/)
 - [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
 - [Tweaking Stunt Island&#39;s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
-- [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
+- [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
+- [High School Student&#39;s First App – NWS Weather Report](https://weatherreportnow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
