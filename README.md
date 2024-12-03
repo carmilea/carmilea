@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI](https://www.youtube.com/watch?v=slgADiuD3QY)
 - [Unlocking AI&#39;s Potential: Chemistry and Longevity Breakthroughs!](https://www.youtube.com/watch?v=VphBHJS6E4k)
 - [Transforming Database Solutions: See why SingleStore stands out!](https://www.youtube.com/watch?v=gV3YCorAZ2Q)
 - [SingleStore Revolutionizing Data Management](https://www.youtube.com/watch?v=Z2WQnCjk4lM)
 - [Future of Databases: Auto-tuning Queries &amp; Chatting!](https://www.youtube.com/watch?v=MUOH-exJr0I)
-- [SingleStore: Consolidate Your Data with Our Game Changing Single Connect](https://www.youtube.com/watch?v=3FkmR2_A7Ps)
 <!-- YOUTUBE:END -->
 
 
