@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasmer &lpar;YC S19&rpar; Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
+- [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
 - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
-- [Kapa.ai &lpar;YC S23&rpar; is hiring AI research and full-stack roles &lpar;EU timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs)
 - [Blizzard&#39;s pulling of Warcraft I and II tests GOG&#39;s new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
-- [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
