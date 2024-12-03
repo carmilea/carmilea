@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
 - [Openlayer &lpar;YC S21&rpar; is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 - [Egoless Engineering](https://egoless.engineering)
 - [Stephen King to shut down his 3 radio stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
 - [Text Editing Hates You Too &lpar;2019&rpar;](https://lord.io/text-editing-hates-you-too/)
-- [Show HN: I built an AI tool to analyze SEC filings the minute they&#39;re released](https://docdelta.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
