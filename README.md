@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea President Yoon declares martial law](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/)
+- [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
+- [Tweaking Stunt Island&#39;s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
+- [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
-- [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
-- [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
-- [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
-- [Blizzard&#39;s pulling of Warcraft I and II tests GOG&#39;s new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
