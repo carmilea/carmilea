@@ -61,8 +61,8 @@
 - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring AI research and full-stack roles &lpar;EU timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs)
-- [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
 - [Blizzard&#39;s pulling of Warcraft I and II tests GOG&#39;s new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
+- [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
