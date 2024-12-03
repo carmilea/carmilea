@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stephen King to Shut Down His 3 Radio Stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
-- [OpenAI reveals why ChatGPT won&#39;t say &quot;David Mayer&quot;](https://www.neowin.net/news/openai-finally-reveals-why-chatgpt-wont-say-david-meyer/)
-- [The Tube Computer](https://www.thetubecomputer.com/)
-- [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
-- [Building Enterprise AI Apps with Multi-Agent RAG: Insights from TechCrunch Disrupt 2024](https://www.singlestore.com/blog/building-enterprise-ai-apps-with-multi-agent-rag-techcrunch-disrupt-2024)
+- [Openlayer &lpar;YC S21&rpar; is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
+- [Egoless Engineering](https://egoless.engineering)
+- [Stephen King to shut down his 3 radio stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
+- [Text Editing Hates You Too &lpar;2019&rpar;](https://lord.io/text-editing-hates-you-too/)
+- [Show HN: I built an AI tool to analyze SEC filings the minute they&#39;re released](https://docdelta.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
