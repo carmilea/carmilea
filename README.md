@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
+- [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
+- [8 months of OCaml after 8 years of Haskell in production &lpar;2023&rpar;](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
 - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 - [Show HN: Open-sourced &lpar;road&rpar; traffic counting application](https://github.com/asfarley/vtc_lfs)
-- [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
