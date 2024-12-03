@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tip pressure might work in the moment, but customers are less likely to return](https://theconversation.com/tip-pressure-might-work-in-the-moment-but-customers-are-less-likely-to-return-242089)
-- [Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
+- [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
+- [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
 - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 - [Show HN: Open-sourced &lpar;road&rpar; traffic counting application](https://github.com/asfarley/vtc_lfs)
 - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
