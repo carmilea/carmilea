@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Auth &lpar;YC S24&rpar;, the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
-- [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
-- [My domain registrar &lpar;DNSimple&rpar; tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
-- [Launch HN: Vocera &lpar;YC F24&rpar; – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
-- [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
+- [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
+- [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
+- [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/)
+- [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
+- [MTA&#39;s A.I. bus cameras issue mistaken parking violations](https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
