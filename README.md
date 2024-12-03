@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack Auth &lpar;YC S24&rpar;, the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
+- [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 - [My domain registrar &lpar;DNSimple&rpar; tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
+- [Launch HN: Vocera &lpar;YC F24&rpar; – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
 - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
-- [&#39;With brain preservation, nobody has to die&#39;](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
-- [Tweaking Stunt Island&#39;s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
-- [Why Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
