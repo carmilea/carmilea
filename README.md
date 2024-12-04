@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
+- [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
