@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
-- [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
+- [UnitedHealthcare CEO fatally shot in midtown Manhattan](https://www.cnn.com/2024/12/04/us/brian-thompson-united-healthcare-death/index.html)
+- [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 - [Reprompt &lpar;YC W24&rpar; Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
 - [The &quot;Bird and Baby&quot; grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 - [How to grow professional relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
