@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why America&#39;s economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
+- [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 - [IMG_0001](https://walzr.com/IMG_0001/)
 - [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
-- [EmacsConf 2024](https://emacsconf.org/2024/)
-- [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
-- [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
+- [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
