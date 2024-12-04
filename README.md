@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
 - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 - [IMG_0001](https://walzr.com/IMG_0001/)
 - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
-- [EmacsConf 2024](https://emacsconf.org/2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
