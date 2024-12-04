@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
-- [Launch HN: Parsagon &lpar;YC W21&rpar; – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
-- [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
-- [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
-- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
+- [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
+- [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
+- [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
+- [Show HN: Amurex – A cursor like copilot for meetings but also open source](https://github.com/thepersonalaicompany/amurex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
