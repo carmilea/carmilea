@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
+- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
-- [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
