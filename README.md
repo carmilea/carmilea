@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram U-turns and joins child safety scheme](https://www.bbc.com/news/articles/c5yd35l0r91o)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
+- [Launch HN: Parsagon &lpar;YC W21&rpar; – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
+- [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
 - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-- [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-- [Reprompt &lpar;YC W24&rpar; Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
