@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
+- [Reprompt &lpar;YC W24&rpar; Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
+- [The &quot;Bird and Baby&quot; grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
-- [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
-- [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
-- [IMG_0001](https://walzr.com/IMG_0001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
