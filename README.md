@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
 - [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
 - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
-- [My son &lpar;9 yrs old&rpar; used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
