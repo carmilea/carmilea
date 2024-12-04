@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 - [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
-- [Show HN: Amurex – A cursor like copilot for meetings but also open source](https://github.com/thepersonalaicompany/amurex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
