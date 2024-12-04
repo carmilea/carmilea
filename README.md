@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why America&#39;s economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 - [IMG_0001](https://walzr.com/IMG_0001/)
-- [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
+- [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
+- [EmacsConf 2024](https://emacsconf.org/2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
