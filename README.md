@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+- [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
+- [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
 - [My son &lpar;9 yrs old&rpar; used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
-- [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
-- [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
-- [Openlayer &lpar;YC S21&rpar; is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
