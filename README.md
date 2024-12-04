@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IMG_0001](https://walzr.com/IMG_0001/)
 - [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
 - [EmacsConf 2024](https://emacsconf.org/2024/)
 - [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
-- [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
-- [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
+- [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
