@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
+- [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
+- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
-- [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
