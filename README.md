@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
 - [Humanloop &lpar;YC S20&rpar; Is Hiring Product Engineers in London and SF](https://humanloop.com)
-- [Wubuntu: The lovechild of Windows and Linux nobody asked for](https://www.theregister.com/2024/12/05/wubuntu/)
-- [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
-- [US Senators implore Department of Defense to expand the use of Matrix](https://element.io/blog/senators-implore-department-of-defense-to-expand-the-use-of-matrix/)
-- [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
+- [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
+- [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
+- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
