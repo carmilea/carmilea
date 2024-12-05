@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keye &lpar;YC F24&rpar; Is Hiring – Senior Software Engineer](https://news.ycombinator.com/item?id=42330812)
-- [OpenAI confirms new $200 monthly subscription, ChatGPT Pro](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
-- [OpenAI O1 System Card](https://openai.com/index/openai-o1-system-card/)
-- [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
-- [Boeing Plea Deal over Fatal 737 MAX Crashes Rejected by Judge](https://www.bloomberg.com/news/articles/2024-12-05/boeing-plea-deal-over-fatal-737-max-crashes-rejected-by-judge)
+- [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)
+- [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
+- [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
+- [React v19 has been released](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+- [Why Overplanning Makes Projects Fail?](https://www.sanju.sh/thoughts/why-greatness-cannot-be-planned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
