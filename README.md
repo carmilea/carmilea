@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
+- [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 - [Congo gov. says it&#39;s &#39;on alert&#39; over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
 - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
-- [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
-- [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
-- [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
+- [Memory is all we have](https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
