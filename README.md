@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eindhoven University researchers reinvent X-ray machine](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
+- [Researchers get &#39;compact&#39; hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
 - [The Acton Programming Language](https://www.acton-lang.org/)
 - [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
