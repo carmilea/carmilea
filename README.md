@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 - [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
-- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
