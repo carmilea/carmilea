@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin is over $100k](https://www.tradingview.com/symbols/BTCUSD/)
 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
 - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
 - [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
-- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
-- [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
