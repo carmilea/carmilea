@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
+- [Bitcoin price hits $100K for first time in history](https://cointelegraph.com/news/bitcoin-price-hits-100-000-first-time-new-all-time-high)
 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
-- [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
