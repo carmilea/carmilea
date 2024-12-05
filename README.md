@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
 - [Humanloop &lpar;YC S20&rpar; Is Hiring Product Engineers in London and SF](https://humanloop.com)
 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
