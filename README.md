@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
+- [Show HN: Replace &quot;hub&quot; by &quot;ingest&quot; in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
+- [Federal Court Says Dismantling a Phone to Install Firmware Isn&#39;t a &#39;Search&#39;](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
+- [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
 - [Humanloop &lpar;YC S20&rpar; Is Hiring Product Engineers in London and SF](https://humanloop.com)
-- [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
-- [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
-- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
-- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
