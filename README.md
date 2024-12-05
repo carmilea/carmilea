@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
-- [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
-- [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
-- [Show HN: Replace &quot;hub&quot; by &quot;ingest&quot; in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
-- [Federal Court Says Dismantling a Phone to Install Firmware Isn&#39;t a &#39;Search&#39;](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
+- [Keye &lpar;YC F24&rpar; Is Hiring – Senior Software Engineer](https://news.ycombinator.com/item?id=42330812)
+- [OpenAI confirms new $200 monthly subscription, ChatGPT Pro](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
+- [OpenAI O1 System Card](https://openai.com/index/openai-o1-system-card/)
+- [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
+- [Boeing Plea Deal over Fatal 737 MAX Crashes Rejected by Judge](https://www.bloomberg.com/news/articles/2024-12-05/boeing-plea-deal-over-fatal-737-max-crashes-rejected-by-judge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
