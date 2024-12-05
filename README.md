@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+- [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
 - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 - [Show HN: Replace &quot;hub&quot; by &quot;ingest&quot; in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
 - [Federal Court Says Dismantling a Phone to Install Firmware Isn&#39;t a &#39;Search&#39;](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
-- [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
-- [Humanloop &lpar;YC S20&rpar; Is Hiring Product Engineers in London and SF](https://humanloop.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
