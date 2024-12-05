@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
+- [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
+- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
 - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
-- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
-- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
-- [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
-- [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
