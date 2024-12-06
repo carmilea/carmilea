@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pitchforks Are Coming for Us Plutocrats &lpar;2014&rpar;](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
 - [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
+- [Roaming RAG – Make the Model Find the Answers](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/)
 - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
-- [Dangerous Things Sells &quot;Cybernetic Microchip Biohacking&quot; RFID and NFC Implants](https://dangerousthings.com/)
-- [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
