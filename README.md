@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
-- [Every UUID Dot Com](https://everyuuid.com/)
-- [Tokyo is set to introduce a four-day workweek for government employees](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
-- [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
-- [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
+- [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
+- [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
+- [United Health CEO Decries &quot;Aggressive&quot; Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)
+- [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
+- [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
