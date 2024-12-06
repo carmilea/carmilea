@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Fireside Chat with CBA | Sri Ambati, Dan Jermyn - H2O GenAI World NY](https://www.youtube.com/watch?v=ZKsuFhE2Yco)
 - [Keynote Address | Sri Ambati - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=muu3yv9-wR8)
 - [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI](https://www.youtube.com/watch?v=slgADiuD3QY)
 - [Unlocking AI&#39;s Potential: Chemistry and Longevity Breakthroughs!](https://www.youtube.com/watch?v=VphBHJS6E4k)
 - [Transforming Database Solutions: See why SingleStore stands out!](https://www.youtube.com/watch?v=gV3YCorAZ2Q)
-- [SingleStore Revolutionizing Data Management](https://www.youtube.com/watch?v=Z2WQnCjk4lM)
 <!-- YOUTUBE:END -->
 
 
