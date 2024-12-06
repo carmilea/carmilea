@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Romania cancels election after systems targeted in cyberattacks](https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times)
+- [New Box64 v0.3.2 and Box86 v0.3.8 released &lpar;Native Flags, Benchmarks, Box32&rpar;](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
+- [Intuitive introverts lead the most successful teams: study](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
 - [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
-- [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
+- [The Unplanned Impact of Mathematics &lpar;2011&rpar;](https://www.nature.com/articles/475166a)
 - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
-- [What is a Vector Database?](https://www.singlestore.com/blog/a-complete-guide-to-vector-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
