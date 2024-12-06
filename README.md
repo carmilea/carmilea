@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+- [Gordon Letwin OS/2 Usenet post &lpar;1995&rpar;](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
 - [There Are No More Dogs in Antarctica](https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html)
 - [65% of Employees Bypass Cybersecurity Measures, New Study Finds](https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/)
 - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
-- [The Pitchforks Are Coming for Us Plutocrats &lpar;2014&rpar;](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
-- [Why housing shortages cause homelessness](https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
