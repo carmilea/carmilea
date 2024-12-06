@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
-- [Air Canada to Remove Free Carry-On from Basic Economy](https://loyaltylobby.com/2024/12/04/air-canada-to-remove-free-carry-on-from-basic-economy-fares-starting-january-2025/)
 - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
 - [Dangerous Things Sells &quot;Cybernetic Microchip Biohacking&quot; RFID and NFC Implants](https://dangerousthings.com/)
+- [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
