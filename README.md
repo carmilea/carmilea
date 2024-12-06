@@ -62,7 +62,7 @@
 - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 - [Does Your Code Pass the Turkey Test?](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
-- [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
+- [Fructose in diet enhances tumor growth: research](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
