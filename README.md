@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My second year without a job](https://shilin.ca/my-second-year-without-job/)
+- [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+- [Does Your Code Pass the Turkey Test?](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
 - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
-- [United Health CEO Decries &quot;Aggressive&quot; Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)
-- [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
-- [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
