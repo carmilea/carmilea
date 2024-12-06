@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ExxonMobil&#39;s Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
-- [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
-- [Rivian Is Opening Its Charging Network to Other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
-- [Show HN: BunkerWeb – The Open-Source Web Application Firewall &lpar;WAF&rpar;](https://github.com/bunkerity/bunkerweb)
-- [Why is printer ink so expensive?](https://www.digitalrightsbytes.org/topics/why-is-printer-ink-so-expensive)
+- [Romania cancels election after systems targeted in cyberattacks](https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times)
+- [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
+- [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
+- [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
+- [What is a Vector Database?](https://www.singlestore.com/blog/a-complete-guide-to-vector-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
