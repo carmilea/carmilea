@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers get &#39;compact&#39; hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
-- [The Acton Programming Language](https://www.acton-lang.org/)
-- [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
-- [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
+- [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
+- [Air Canada to Remove Free Carry-On from Basic Economy](https://loyaltylobby.com/2024/12/04/air-canada-to-remove-free-carry-on-from-basic-economy-fares-starting-january-2025/)
+- [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
+- [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
+- [Dangerous Things Sells &quot;Cybernetic Microchip Biohacking&quot; RFID and NFC Implants](https://dangerousthings.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
