@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every UUID Dot Com](https://everyuuid.com/)
+- [Tokyo government gives workers 4-day workweek to boost fertility, family time](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
+- [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
+- [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
 - [New Box64 v0.3.2 and Box86 v0.3.8 released &lpar;Native Flags, Benchmarks, Box32&rpar;](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
-- [Intuitive introverts lead the most successful teams: study](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
-- [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
-- [The Unplanned Impact of Mathematics &lpar;2011&rpar;](https://www.nature.com/articles/475166a)
-- [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
