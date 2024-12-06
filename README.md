@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Agentic AI &amp; Enterprise h2oGPTe](https://www.youtube.com/watch?v=ox2P-G8C8U4)
+- [H2O on Dell AI Factory | Rob Parish - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=_I1CLeCpiG8)
 - [Fireside Chat with CBA | Sri Ambati, Dan Jermyn - H2O GenAI World NY](https://www.youtube.com/watch?v=ZKsuFhE2Yco)
 - [Keynote Address | Sri Ambati - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=muu3yv9-wR8)
 - [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI](https://www.youtube.com/watch?v=slgADiuD3QY)
-- [Unlocking AI&#39;s Potential: Chemistry and Longevity Breakthroughs!](https://www.youtube.com/watch?v=VphBHJS6E4k)
-- [Transforming Database Solutions: See why SingleStore stands out!](https://www.youtube.com/watch?v=gV3YCorAZ2Q)
 <!-- YOUTUBE:END -->
 
 
