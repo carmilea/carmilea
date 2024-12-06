@@ -61,8 +61,8 @@
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [Gordon Letwin OS/2 Usenet post &lpar;1995&rpar;](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
 - [There Are No More Dogs in Antarctica](https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html)
-- [65% of Employees Bypass Cybersecurity Measures, New Study Finds](https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/)
 - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
+- [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
