@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [LangChain for Multimodal Apps: Chat With Text/Image Data  View As Guest](https://www.youtube.com/watch?v=-lYQyOeF938)
 - [AI For Nature: From Science to Impact | Tanya Berger-Wolf - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=8yyKlxDfkw0)
 - [AI for Finance | Panel - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=FTxDDqdtP50)
 - [Model Validation For Generative AI | Agus Sudjianto, Srinivas Neppalli - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=HTplxY5wbvU)
 - [How to do Full-Text Search &lpar;Jlucean Version&rpar;](https://www.youtube.com/watch?v=fw82i_tXmrw)
-- [Agentic AI &amp; Enterprise h2oGPTe](https://www.youtube.com/watch?v=ox2P-G8C8U4)
 <!-- YOUTUBE:END -->
 
 
