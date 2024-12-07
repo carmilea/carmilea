@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI seeks to unlock investment by ditching &#39;AGI&#39; clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65)
-- [Show HN: Scraper for job listings directly from company websites](https://www.unlistedjobs.com/)
-- [Tell HN: Need help, locked out of Google account with 10 years of personal data](https://news.ycombinator.com/item?id=42350245)
+- [The electric shock behind Europe&#39;s stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
+- [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
+- [Show HN: App to discover job listings directly from company websites](https://www.unlistedjobs.com/)
+- [Police illegally sell restricted weapons, supplying crime](https://www.cbsnews.com/news/police-selling-restricted-guns-posties/)
 - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
-- [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
