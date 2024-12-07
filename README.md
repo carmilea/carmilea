@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
+- [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
+- [Just: Just a Command Runner](https://just.systems/)
 - [The electric shock behind Europe&#39;s stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
 - [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
-- [Show HN: App to discover job listings directly from company websites](https://www.unlistedjobs.com/)
-- [Police illegally sell restricted weapons, supplying crime](https://www.cbsnews.com/news/police-selling-restricted-guns-posties/)
-- [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
