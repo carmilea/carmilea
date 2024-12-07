@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Never fail a technical interview again](https://github.com/ibttf/interview-coder)
+- [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 - [Postgres for everything &lpar;e/Postgres&rpar;](https://github.com/Olshansk/postgres_for_everything)
-- [Precursors of Copernicus&#39; heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
