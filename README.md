@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
-- [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
+- [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
 - [Just: Just a Command Runner](https://just.systems/)
-- [The electric shock behind Europe&#39;s stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
-- [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
+- [Japanese scientists were pioneers of AI; they&#39;re being written out of history](https://theconversation.com/japanese-scientists-were-pioneers-of-ai-yet-theyre-being-written-out-of-its-history-243762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
