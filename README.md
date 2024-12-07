@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Health insurers remove executive bios, images from websites after CEO killing](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/)
+- [Postgres for Everything &lpar;E/Postgres&rpar;](https://github.com/Olshansk/postgres_for_everything)
+- [Precursors of Copernicus&#39; heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
-- [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 <!-- BLOG-POST-LIST:END -->
 
 ---
