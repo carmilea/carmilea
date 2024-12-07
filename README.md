@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-- [Does Your Code Pass the Turkey Test? &lpar;2008&rpar;](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
-- [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
-- [Fructose in diet enhances tumor growth: research](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
-- [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
+- [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
+- [The Biggest Shell Programs in the World &lpar;Wiki&rpar;](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
+- [A Kid Made $50k Dumping Crypto He&#39;d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+- [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
+- [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)
 <!-- BLOG-POST-LIST:END -->
 
 ---
