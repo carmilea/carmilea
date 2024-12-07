@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Food and Drug Administration moves to ban red food dye](https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye)
+- [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
-- [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)
 - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
-- [Raspberry Pi 5 now supports Valve&#39;s Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
+- [The Startup Trap &lpar;2013&rpar;](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
+- [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
