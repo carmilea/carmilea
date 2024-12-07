@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Health insurers remove executive bios, images from websites after CEO killing](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/)
+- [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
 - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
-- [My second year without a job](https://shilin.ca/my-second-year-without-job/)
-- [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
