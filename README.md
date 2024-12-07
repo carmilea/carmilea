@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
-- [The Biggest Shell Programs in the World &lpar;Wiki&rpar;](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
-- [A Kid Made $50k Dumping Crypto He&#39;d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
-- [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
-- [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)
+- [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
+- [Python with Rizz](https://github.com/shamith09/pygyat)
+- [My second year without a job](https://shilin.ca/my-second-year-without-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
