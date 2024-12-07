@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
+- [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 - [Raspberry Pi 5 now supports Valve&#39;s Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
 - [The Startup Trap &lpar;2013&rpar;](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-- [Google&#39;s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
-- [Just: Just a Command Runner](https://just.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
