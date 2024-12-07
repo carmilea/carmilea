@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi 5 now supports Valve&#39;s Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
+- [The Startup Trap &lpar;2013&rpar;](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-- [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
-- [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
+- [Google&#39;s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
 - [Just: Just a Command Runner](https://just.systems/)
-- [Japanese scientists were pioneers of AI; they&#39;re being written out of history](https://theconversation.com/japanese-scientists-were-pioneers-of-ai-yet-theyre-being-written-out-of-its-history-243762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
