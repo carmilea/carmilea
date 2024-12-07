@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
-- [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
-- [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
+- [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
+- [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
+- [Precursors of Copernicus&#39; heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
