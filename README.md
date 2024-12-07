@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres for Everything &lpar;E/Postgres&rpar;](https://github.com/Olshansk/postgres_for_everything)
+- [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
+- [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
+- [Postgres for everything &lpar;e/Postgres&rpar;](https://github.com/Olshansk/postgres_for_everything)
 - [Precursors of Copernicus&#39; heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
-- [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
-- [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
