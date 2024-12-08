@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monkeys Can Predict Election Outcomes](https://www.stevestewartwilliams.com/p/monkeys-can-predict-election-outcomes)
+- [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
+- [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 - [GW-BASIC User&#39;s Guide &lpar;1987&rpar;](http://www.antonis.de/qbebooks/gwbasman/)
 - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
-- [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
-- [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
+- [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
