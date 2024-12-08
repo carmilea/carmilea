@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
 - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
-- [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
 - [What Arm&#39;s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 - [Hacker.txt &lpar;1993&rpar;](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
+- [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
