@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 - [Tokyo University Used &quot;Tiananmen Square&quot; Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
 - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
 - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 - [Unless my phone can be a PC, I don&#39;t want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
-- [Scratch and Sniff Stickers and the Gas Panic of &#39;87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
