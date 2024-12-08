@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 - [Brian Krebs Investigates Internet&#39;s Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
+- [Airline informant received thousands from passenger cash seizures](https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/)
 - [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
-- [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
+- [GrapheneOS on Pixels getting extended Android support](https://grapheneos.social/@GrapheneOS/113603951027289464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
