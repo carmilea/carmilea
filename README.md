@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
+- [What Arm&#39;s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
+- [Hacker.txt &lpar;1993&rpar;](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
+- [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
 - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
-- [Brian Krebs Investigates Internet&#39;s Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
-- [Airline informant received thousands from passenger cash seizures](https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/)
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- [GrapheneOS on Pixels getting extended Android support](https://grapheneos.social/@GrapheneOS/113603951027289464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
