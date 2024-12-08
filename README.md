@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The GPT era is already ending](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
 - [How to Measure Frequency Response of a Speaker at Home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
 - [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)
 - [JSON5 – JSON for Humans](https://json5.org/)
 - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
+- [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
