@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 - [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
 - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 - [Brian Krebs Investigates Internet&#39;s Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
 - [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 <!-- BLOG-POST-LIST:END -->
 
 ---
