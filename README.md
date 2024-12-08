@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
-- [Linux EFI Zboot Abandoning &quot;Compression Library Museum&quot;, Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
-- [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
-- [SQLite changed temp file prefix after McAfee users called devs to complain &lpar;2006&rpar;](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
-- [Scratch and Sniff Stickers and the Gas Panic of &#39;87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
+- [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
+- [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
+- [The Rules of Programming](https://www.therulesofprogramming.com)
+- [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
+- [UK bans daytime TV ads for cereals, muffins and burgers](https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
