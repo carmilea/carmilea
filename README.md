@@ -61,8 +61,8 @@
 - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 - [Brian Krebs Investigates Internet&#39;s Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
 - [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- [Arctic uses a fan to cool another fan](https://www.tomshardware.com/pc-components/case-fans/arctic-uses-a-fan-to-cool-another-fan-s12038-4k-120mm-fan-adds-an-extra-fan-in-its-center-to-cool-its-central-shaft)
 - [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
+- [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 <!-- BLOG-POST-LIST:END -->
 
 ---
