@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
+- [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
+- [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
 - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
 - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
-- [GW-BASIC User&#39;s Guide &lpar;1987&rpar;](http://www.antonis.de/qbebooks/gwbasman/)
-- [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
-- [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
