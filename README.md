@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inkscape 1.4 – LWN](https://lwn.net/Articles/991732/)
-- [Intel&#39;s Death and Potential Revival](https://stratechery.com/2024/intels-death-and-potential-revival/)
+- [Kafka&#39;s Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+- [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
+- [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 - [Laylo &lpar;YC S20&rpar; Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
-- [Noise Filtering Using 1€ Filter &lpar;2020&rpar;](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
-- [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
+- [Noise Filtering Using €1 Filter &lpar;2020&rpar;](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
