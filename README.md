@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
-- [Raspberry Pi 500 and Raspberry Pi Monitor on sale now](https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/)
+- [Laylo &lpar;YC S20&rpar; Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
 - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 - [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
 - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+- [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
