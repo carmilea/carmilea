@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
+- [Howie Did It – 3D Printing a Printed Circuit Board [video]](https://www.youtube.com/watch?v=FzrZoVKT8gM)
+- [OpenAI: Sora](https://sora.com/)
+- [Tech companies Palantir and Anduril form fellowship for AI adventures](https://www.theregister.com/2024/12/09/palantir_anduril_alliance/)
 - [Knight TV Resurrection &lpar;2018&rpar;](http://pdp-6.net/knight-tv/knight-tv.html)
-- [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
-- [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
-- [Task-Specific LLM Evals That Do and Don&#39;t Work](https://eugeneyan.com/writing/evals/)
-- [Kafka&#39;s Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
