@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Measure Frequency Response of a Speaker at Home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
-- [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)
-- [JSON5 – JSON for Humans](https://json5.org/)
-- [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
-- [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
+- [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
+- [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
+- [Broward Co. to vacate convictions for buying crack made by Sheriff&#39;s Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
+- [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
+- [How to measure frequency response of a speaker at home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
