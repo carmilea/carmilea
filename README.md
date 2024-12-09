@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Does NYT Connections](https://mikehearn.notion.site/155c9175d23480bf9720cba20980f539)
+- [Task-Specific LLM Evals That Do and Don&#39;t Work](https://eugeneyan.com/writing/evals/)
 - [Kafka&#39;s Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+- [Abusing Git branch names to compromise a PyPI package](https://lwn.net/Articles/1001215/)
 - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
-- [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
-- [Laylo &lpar;YC S20&rpar; Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
-- [Noise Filtering Using €1 Filter &lpar;2020&rpar;](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
