@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dumbest Bike Lane Law Just Passed in Canada [video]](https://www.youtube.com/watch?v=KgFCQ7jEZxI)
+- [Itch.io: &quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
 - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
+- [Mystery &#39;Disease X&#39; outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
 - [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
-- [China&#39;s Salt Typhoon recorded top American officials&#39; calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
-- [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
+- [Xylella Fastidiosa: A Billion-Euro Crisis Brewing in Europe&#39;s Olive Groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
