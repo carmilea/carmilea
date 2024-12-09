@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attribute Extraction from Images Using DSPy](https://www.langtrace.ai/blog/attribute-extraction-from-images-using-dspy)
+- [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
 - [Trellis – 3D mesh generative model](https://trellis3d.github.io/)
-- [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
 - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 - [God Plays Chess &lpar;2018&rpar;](https://en.chessbase.com/post/how-god-plays-chess)
-- [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
