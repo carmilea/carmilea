@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skype Credit is no longer available](https://www.skype.com/en/credit/)
+- [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
+- [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
 - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-- [Misinformation fuels outrage and mindless social-media shares – study](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
-- [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
+- [Pat Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
 <!-- BLOG-POST-LIST:END -->
 
