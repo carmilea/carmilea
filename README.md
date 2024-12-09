@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
+- [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
+- [Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize](https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize)
+- [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
-- [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
-- [Broward Co. to vacate convictions for buying crack made by Sheriff&#39;s Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
-- [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
-- [How to measure frequency response of a speaker at home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
