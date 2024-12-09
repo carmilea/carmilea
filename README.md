@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis – 3D mesh generative model](https://trellis3d.github.io/)
+- [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
+- [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
+- [God Plays Chess &lpar;2018&rpar;](https://en.chessbase.com/post/how-god-plays-chess)
 - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
-- [OpenAI: Sora](https://sora.com/)
-- [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)
-- [Knight TV Resurrection &lpar;2018&rpar;](http://pdp-6.net/knight-tv/knight-tv.html)
-- [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
