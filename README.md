@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
 - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
-- [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
-- [Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize](https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize)
 - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
+- [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
