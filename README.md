@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Attribute Extraction from Images Using DSPy](https://www.langtrace.ai/blog/attribute-extraction-from-images-using-dspy)
+- [The Dumbest Bike Lane Law Just Passed in Canada [video]](https://www.youtube.com/watch?v=KgFCQ7jEZxI)
+- [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
+- [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
+- [China&#39;s Salt Typhoon recorded top American officials&#39; calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
 - [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
-- [Trellis – 3D mesh generative model](https://trellis3d.github.io/)
-- [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
-- [God Plays Chess &lpar;2018&rpar;](https://en.chessbase.com/post/how-god-plays-chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
