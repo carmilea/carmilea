@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+- [How to Create Intelligently Self-Modifying Software &lpar;Framework Release Soon&rpar;](https://github.com/EricArthurBlair1010/semantic_inference_programming_information)
 - [Misinformation fuels outrage and mindless social-media shares – study](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
-- [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
 - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
-- [Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize](https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize)
+- [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
