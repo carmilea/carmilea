@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knight TV Resurrection &lpar;2018&rpar;](http://pdp-6.net/knight-tv/knight-tv.html)
+- [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
+- [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 - [Task-Specific LLM Evals That Do and Don&#39;t Work](https://eugeneyan.com/writing/evals/)
 - [Kafka&#39;s Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
-- [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
-- [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
-- [Laylo &lpar;YC S20&rpar; Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
