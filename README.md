@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-generation datacenters consume zero water for cooling](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
-- [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
-- [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
+- [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
+- [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
+- [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
 - [Tree Calculus](https://treecalcul.us/)
-- [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
