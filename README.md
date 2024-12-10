@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Adults Have the Skills They Need to Thrive in a Changing World?](https://www.oecd.org/en/publications/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_b263dc5d-en.html)
-- [ChatGPT&#39;s Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)
+- [Next-generation datacenters consume zero water for cooling](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
 - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 - [Tree Calculus](https://treecalcul.us/)
+- [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
