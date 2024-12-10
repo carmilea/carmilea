@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
+- [What TDD is good for](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 - [Tree Calculus](https://treecalcul.us/)
-- [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
-- [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
-- [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
+- [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- [Save Music, Save the Archive](https://www.savethearchive.com/)
+- [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
