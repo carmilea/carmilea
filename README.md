@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From where I left](https://antirez.com/news/144)
-- [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
-- [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
-- [I Use AI 100 Times per Hour](https://tomtunguz.com/ai-use-in-one-afternoon/)
-- [From Unemployment to Lisp: Running GPT-2 on a Teen&#39;s Deep Learning Compiler](https://github.com/hikettei/Caten)
+- [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
+- [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
+- [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
+- [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
+- [AI slop is already invading Oregon&#39;s local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
