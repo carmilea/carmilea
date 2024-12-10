@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Say No to JavaScript](https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html)
+- [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 - [Tree Calculus](https://treecalcul.us/)
 - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
-- [Save Music, Save the Archive](https://www.savethearchive.com/)
-- [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
