@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator Funded AI Firm&#39;s &#39;Stop Hiring Humans&#39; Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
+- [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
+- [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
+- [Simplifying SingleStore Integration Through Drizzle ORM](https://www.singlestore.com/blog/singlestore-drizzle-integration)
 - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
-- [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
-- [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
-- [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
-- [AI slop is already invading Oregon&#39;s local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
