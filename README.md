@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How We Made That App, Ep.13: Ronald Ashri on Building OpenDialog for Enterprises](https://www.youtube.com/watch?v=qlnWxUiNS6I)
 - [LangChain for Multimodal Apps: Chat With Text/Image Data | SingleStore Webinars](https://www.youtube.com/watch?v=eF8938pcvhg)
 - [LangChain for Multimodal Apps: Chat With Text/Image Data  View As Guest](https://www.youtube.com/watch?v=-lYQyOeF938)
 - [AI For Nature: From Science to Impact | Tanya Berger-Wolf - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=8yyKlxDfkw0)
 - [AI for Finance | Panel - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=FTxDDqdtP50)
-- [Model Validation For Generative AI | Agus Sudjianto, Srinivas Neppalli - H2O GenAI World NY 2024](https://www.youtube.com/watch?v=HTplxY5wbvU)
 <!-- YOUTUBE:END -->
 
 
