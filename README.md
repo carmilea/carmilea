@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Itch.io: &quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
-- [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
-- [Mystery &#39;Disease X&#39; outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
-- [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
-- [Xylella Fastidiosa: A Billion-Euro Crisis Brewing in Europe&#39;s Olive Groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
+- [El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal](https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259)
+- [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
+- [&quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
+- [Debanking &lpar;and Debunking?&rpar;](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
+- [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
