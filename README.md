@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
-- [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
-- [Launch HN: Double &lpar;YC W24&rpar; – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
-- [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
-- [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
+- [From where I left](https://antirez.com/news/144)
+- [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
+- [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
+- [I Use AI 100 Times per Hour](https://tomtunguz.com/ai-use-in-one-afternoon/)
+- [From Unemployment to Lisp: Running GPT-2 on a Teen&#39;s Deep Learning Compiler](https://github.com/hikettei/Caten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
