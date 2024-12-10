@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 - [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
+- [AMD&#39;s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
-- [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
-- [Simplifying SingleStore Integration Through Drizzle ORM](https://www.singlestore.com/blog/singlestore-drizzle-integration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
