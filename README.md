@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
-- [If you&#39;ve got it, don&#39;t flaunt it in Sweden](https://www.economist.com/europe/2024/12/05/if-youve-got-it-dont-flaunt-it-in-sweden)
+- [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
 - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
+- [Simplifying SingleStore Integration Through Drizzle ORM](https://www.singlestore.com/blog/singlestore-drizzle-integration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
