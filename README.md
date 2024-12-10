@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What TDD is good for](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 - [Tree Calculus](https://treecalcul.us/)
 - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
 - [Save Music, Save the Archive](https://www.savethearchive.com/)
+- [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
 - [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!-- BLOG-POST-LIST:END -->
 
