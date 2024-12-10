@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
+- [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
 - [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 - [AMD&#39;s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
