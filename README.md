@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Double &lpar;YC W24&rpar; – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
+- [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
 - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
-- [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
-- [Tree Calculus](https://treecalcul.us/)
-- [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
+- [Show HN: HackerNews-new-jobs – insights into fresh and recurring job ads](https://github.com/nemanjam/hn-new-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
