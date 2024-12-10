@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
-- [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
-- [El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal](https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259)
-- [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
-- [&quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
+- [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
+- [Tree Calculus](https://treecalcul.us/)
+- [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
+- [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
