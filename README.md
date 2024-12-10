@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+- [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 - [Launch HN: Double &lpar;YC W24&rpar; – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
-- [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
 - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
-- [Show HN: HackerNews-new-jobs – insights into fresh and recurring job ads](https://github.com/nemanjam/hn-new-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
