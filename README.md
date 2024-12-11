@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
-- [One of our clients hasn&#39;t paid us $130k – or &quot;Why Every Contract Clause Matters&quot;](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
-- [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
+- [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 - [Launch HN: Azalea Robotics &lpar;YC S24&rpar; – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 <!-- BLOG-POST-LIST:END -->
