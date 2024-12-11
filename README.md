@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google are deliberately breaking YouTube when it detects you&#39;re running Firefox](https://old.reddit.com/r/firefox/comments/1cjbsmj/youtube_on_firefox_seems_to_be_getting_much_worse/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
+- [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL &lpar;new website&rpar;](https://pgroll.com/)
 - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
-- [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
-- [Ken Shirriff Tracks Down Intel&#39;s Infamous Pentium FDIV Bug in the Silicon Itself](https://www.hackster.io/news/ken-shirriff-tracks-down-intel-s-infamous-pentium-fdiv-bug-in-the-silicon-itself-fe6b8be99f30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
