@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
+- [One of our clients hasn&#39;t paid us $130k – or &quot;Why Every Contract Clause Matters&quot;](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
+- [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
+- [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 - [Launch HN: Azalea Robotics &lpar;YC S24&rpar; – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
-- [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations)
-- [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
-- [OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
