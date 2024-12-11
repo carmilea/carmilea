@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Evolving my ergonomic setup &lpar;or, my laptop with extra steps&rpar;](https://www.ntietz.com/blog/evolving-ergo-setup/)
+- [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 - [Stanley Kubrick&#39;s the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
-- [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
 - [Turning Off Zen 4&#39;s Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 - [The Case Against Google&#39;s Claims of &quot;Quantum Supremacy&quot;](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 <!-- BLOG-POST-LIST:END -->
