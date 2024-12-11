@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
-- [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
-- [AMD&#39;s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
-- [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
-- [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
+- [Electric &lpar;Postgres sync engine&rpar; BETA release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
+- [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+- [The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
+- [Bryan Johnson – The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
+- [Show HN: Don&#39;t let your billion-dollar ideas die](https://ideaharbor.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
