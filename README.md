@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heat disproportionately kills young people &lpar;study in Mexico&rpar;](https://www.science.org/doi/10.1126/sciadv.adq3367)
 - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
-- [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
+- [Turning Off Zen 4&#39;s Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 - [The Case Against Google&#39;s Claims of &quot;Quantum Supremacy&quot;](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 - [Alzheimer&#39;s study shows ketone bodies help clear misfolded proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
-- [Electric &lpar;Postgres sync engine&rpar; beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
