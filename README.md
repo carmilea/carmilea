@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
+- [Looking to marry someone with $1M+ of short-term capital gains for tax savings](https://old.reddit.com/r/wallstreetbets/comments/1hbgvr0/looking_to_marry_someone_with_1m_of_shortterm/)
+- [PHP Docker image just hit 1B pulls on Docker Hub](https://mydevmentor.com/blog/1-billion-pulls-later-php-is-far-from-dead)
+- [The PayPal Mafia is taking over America&#39;s government](https://www.economist.com/business/2024/12/10/the-paypal-mafia-is-taking-over-americas-government)
 - [Making memcpy&lpar;NULL, NULL, 0&rpar; well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
-- [Evolving my ergonomic setup &lpar;or, my laptop with extra steps&rpar;](https://www.ntietz.com/blog/evolving-ergo-setup/)
-- [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
