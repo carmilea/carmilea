@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alzheimer&#39;s Study Shows Ketone Bodies Help Clear Misfolded Proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
 - [Electric &lpar;Postgres sync engine&rpar; BETA release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
 - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 - [The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
 - [Bryan Johnson – The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
-- [Show HN: Don&#39;t let your billion-dollar ideas die](https://ideaharbor.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
