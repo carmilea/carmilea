@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heat disproportionately kills young people &lpar;study in Mexico&rpar;](https://www.science.org/doi/10.1126/sciadv.adq3367)
+- [Stanley Kubrick&#39;s the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
 - [Turning Off Zen 4&#39;s Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 - [The Case Against Google&#39;s Claims of &quot;Quantum Supremacy&quot;](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
