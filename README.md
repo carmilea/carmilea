@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
+- [Making memcpy&lpar;NULL, NULL, 0&rpar; well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
+- [Bankruptcy judge rejects The Onion&#39;s bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)
+- [The Onion&#39;s Purchase of Alex Jones&#39; Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)
 - [Evolving my ergonomic setup &lpar;or, my laptop with extra steps&rpar;](https://www.ntietz.com/blog/evolving-ergo-setup/)
-- [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
-- [Stanley Kubrick&#39;s the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
-- [You need 4 colors](https://www.iamsajid.com/colors/)
-- [Turning Off Zen 4&#39;s Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
