@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Azalea Robotics &lpar;YC S24&rpar; – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
+- [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations)
+- [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
+- [OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
-- [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL &lpar;new website&rpar;](https://pgroll.com/)
-- [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
-- [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
