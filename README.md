@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 - [Alzheimer&#39;s study shows ketone bodies help clear misfolded proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
 - [Electric &lpar;Postgres sync engine&rpar; beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
 - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 - [The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
-- [The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
