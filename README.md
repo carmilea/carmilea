@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As Wolf Populations Rebound, an Angry Backlash Intensifies](https://e360.yale.edu/features/wolves-united-states-europe)
+- [Cambridge Bitcoin Electricity Consumption Index](https://ccaf.io/cbnsi/cbeci/mining_map)
+- [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
+- [The FDA Hasn&#39;t Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
 - [Fermat&#39;s Last Theorem – how it&#39;s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
-- [Oasis Security Research Team Discovers Microsoft Azure MFA Bypass](https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass)
-- [French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight](https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/)
 - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 <!-- BLOG-POST-LIST:END -->
 
