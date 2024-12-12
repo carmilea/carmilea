@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT&#39;s Advanced Voice Mode adds Santa Mode, Live Video, Screensharing](https://openai.com/12-days/?day=6)
+- [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
+- [Converting untrusted PDFs into trusted ones: The Qubes Way &lpar;2013&rpar;](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
+- [The Rise and Fall of Ashton-Tate &lpar;2023&rpar;](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
 - [Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs](https://github.com/ivanyu/hn-tldr-extension)
-- [Great Question &lpar;YC W21&rpar; Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
-- [Show HN: Credit reports about German companies](https://bonscore.org/)
-- [Android XR](https://blog.google/products/android/android-xr/)
+- [&quot;Rules&quot; that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
