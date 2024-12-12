@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethical Challenges Related to the NeurIPS 2024 Best Paper Award](https://var-integrity-report.github.io/)
+- [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
+- [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring a Founding Solutions Engineer &lpar;Remote&rpar;](https://www.infracost.io/join-the-team)
 - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
-- [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
-- [Geometry clipmaps: simple terrain rendering with level of detail &lpar;2017&rpar;](https://mikejsavage.co.uk/geometry-clipmaps/)
-- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 &lpar;2023&rpar;](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
