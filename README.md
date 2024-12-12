@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending Open Source: Protecting the Future of WordPress](https://automattic.com/2024/protecting-wordpress/)
+- [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
+- [Making “Social” Social Again](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 - [Converting untrusted PDFs into trusted ones: The Qubes Way &lpar;2013&rpar;](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
-- [The Rise and Fall of Ashton-Tate &lpar;2023&rpar;](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
-- [Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs](https://github.com/ivanyu/hn-tldr-extension)
-- [&quot;Rules&quot; that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
