@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
+- [Geometry clipmaps: simple terrain rendering with level of detail &lpar;2017&rpar;](https://mikejsavage.co.uk/geometry-clipmaps/)
 - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 &lpar;2023&rpar;](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 - [Reachability Analysis of DNS](https://arxiv.org/abs/2411.10188)
 - [Majora&#39;s Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
-- [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
