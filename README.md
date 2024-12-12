@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 - [Parkinson&#39;s Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
-- [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 - [Geometry clipmaps: simple terrain rendering with level of detail &lpar;2017&rpar;](https://mikejsavage.co.uk/geometry-clipmaps/)
 <!-- BLOG-POST-LIST:END -->
