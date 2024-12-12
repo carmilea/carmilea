@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parkinson&#39;s Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
+- [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 - [Geometry clipmaps: simple terrain rendering with level of detail &lpar;2017&rpar;](https://mikejsavage.co.uk/geometry-clipmaps/)
-- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 &lpar;2023&rpar;](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
-- [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
