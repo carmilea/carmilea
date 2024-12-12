@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cambridge Bitcoin Electricity Consumption Index](https://ccaf.io/cbnsi/cbeci/mining_map)
+- [Great Question &lpar;YC W21&rpar; Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
+- [Android XR](https://blog.google/products/android/android-xr/)
+- [Leveraging the Simplicity of Scheduled Jobs](https://www.singlestore.com/blog/leveraging-the-simplicity-of-scheduled-jobs)
+- [Particle gains or loses mass depending on direction it travels](https://newatlas.com/physics/particle-gains-loses-mass-depending-direction/)
 - [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
-- [The FDA Hasn&#39;t Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
-- [Fermat&#39;s Last Theorem – how it&#39;s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
-- [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
