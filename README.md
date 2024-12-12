@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Pioneer Fei-Fei Li Has a Vision for Computer Vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
+- [Novel Link Between Cell Nutrition and Identity Could Improve Immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
+- [Pink Floyd&#39;s &#39;The Wall&#39;: A Complete Analysis](https://thewallanalysis.com/)
+- [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
 - [Defending Open Source: Protecting the Future of WordPress](https://automattic.com/2024/protecting-wordpress/)
-- [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
-- [Making “Social” Social Again](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
-- [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
-- [Converting untrusted PDFs into trusted ones: The Qubes Way &lpar;2013&rpar;](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
