@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Infracost &lpar;YC W21&rpar; Is Hiring a Founding Solutions Engineer &lpar;Remote&rpar;](https://www.infracost.io/join-the-team)
 - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
-- [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
-- [Parkinson&#39;s Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
+- [Geometry clipmaps: simple terrain rendering with level of detail &lpar;2017&rpar;](https://mikejsavage.co.uk/geometry-clipmaps/)
+- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 &lpar;2023&rpar;](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
