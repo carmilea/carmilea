@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI pioneer Fei-Fei Li has a vision for computer vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
+- [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
+- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 - [Novel link between cell nutrition and identity could improve immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
 - [Pink Floyd&#39;s &#39;The Wall&#39;: A Complete Analysis](https://thewallanalysis.com/)
 - [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
-- [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
 <!-- BLOG-POST-LIST:END -->
 
 ---
