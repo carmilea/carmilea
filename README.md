@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Challenges Related to the NeurIPS 2024 Best Paper Award](https://var-integrity-report.github.io/)
-- [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
-- [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
-- [Infracost &lpar;YC W21&rpar; Is Hiring a Founding Solutions Engineer &lpar;Remote&rpar;](https://www.infracost.io/join-the-team)
-- [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
+- [As Wolf Populations Rebound, an Angry Backlash Intensifies](https://e360.yale.edu/features/wolves-united-states-europe)
+- [Fermat&#39;s Last Theorem – how it&#39;s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
+- [Oasis Security Research Team Discovers Microsoft Azure MFA Bypass](https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass)
+- [French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight](https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/)
+- [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
