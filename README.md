@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Customer Advisory Board!](https://www.youtube.com/watch?v=QA3pwk1CmWQ)
 - [AI - Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP | SingleStore Webinars](https://www.youtube.com/watch?v=JlAYtxqnFis)
 - [AI-Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP](https://www.youtube.com/watch?v=wjHdaEFNVqs)
 - [How We Made That App, Ep.13: Ronald Ashri on Building OpenDialog for Enterprises](https://www.youtube.com/watch?v=qlnWxUiNS6I)
 - [LangChain for Multimodal Apps: Chat With Text/Image Data | SingleStore Webinars](https://www.youtube.com/watch?v=eF8938pcvhg)
-- [LangChain for Multimodal Apps: Chat With Text/Image Data  View As Guest](https://www.youtube.com/watch?v=-lYQyOeF938)
 <!-- YOUTUBE:END -->
 
 
