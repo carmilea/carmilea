@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- [The age of average &lpar;2023&rpar;](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
