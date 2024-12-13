@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mirror Bacteria Research Poses Significant Risks, Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
+- [The exact moment that I decided to go off-grid in Portugal](https://twitter.com/levelsio/status/1867314119654637629)
+- [Feds help health insurers hide their dirty secret: denials on the rise](https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/)
+- [AT&amp;T Won&#39;t Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies](https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/)
 - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
-- [SpaceX Seeks Approval to Turn Texas Starbase Site into New City](https://www.bloomberg.com/news/articles/2024-12-13/spacex-seeks-approval-to-turn-texas-starbase-site-into-new-city)
-- [The age of average &lpar;2023&rpar;](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
+- [Three Mistakes from Dart/Flutter&#39;s Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
