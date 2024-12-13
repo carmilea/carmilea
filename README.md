@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
+- [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
+- [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
 - [HyperDX &lpar;YC S22&rpar; Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 - [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
-- [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
-- [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
-- [Database Trends of 2024: What You Missed and Why It Matters](https://www.singlestore.com/blog/database-trends-of-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
