@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing network time security &lpar;NTP NTS&rpar; at the hardware level &lpar;2022&rpar;](https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/)
+- [A Rare Cross-Section Illustration: Infamous Happenings of Kowloon Walled City](https://www.thisiscolossal.com/2024/07/kowlooon-walled-city-illustration/)
 - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
-- [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
-- [HyperDX &lpar;YC S22&rpar; Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
-- [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
+- [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
