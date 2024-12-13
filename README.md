@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
-- [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
-- [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
-- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
-- [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
+- [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+- [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
+- [Rust&#39;s Incremental Compiler Architecture](https://lwn.net/Articles/997784/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
