@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=XhITcpn_nOE)
 - [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=wtMwBdmwZN4)
 - [Why GPUs Are Essential for AI: The Rise of LPU!](https://www.youtube.com/watch?v=NMWdDLE4Jz8)
 - [AI Security Concerns: Navigating NLMs and Buzzwords!](https://www.youtube.com/watch?v=A1wJ6QeVi3k)
 - [Unlocking Customer Value: Real Time Data Solutions!](https://www.youtube.com/watch?v=eC3swL__2JI)
-- [Unlocking AI Insights: Boost Your Sales Calls Fast!](https://www.youtube.com/watch?v=cq2lZoiDExc)
 <!-- YOUTUBE:END -->
 
 
