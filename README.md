@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
+- [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
 - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 - [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
-- [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
-- [Learning Tibetan changed the way I think &lpar;2023&rpar;](https://www.lionsroar.com/learning-tibetan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
