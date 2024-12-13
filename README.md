@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI](https://www.youtube.com/watch?v=slgADiuD3QY)
-- [Build a Smart AI Chatbot with Our Reactive Dash App!](https://www.youtube.com/watch?v=KYN0wr5IVWY)
-- [Achieve 1400X Faster Query Performance with SingleStore Kai!](https://www.youtube.com/watch?v=AgkukW6Ykd8)
-- [SingleStore Customer Advisory Board!](https://www.youtube.com/watch?v=QA3pwk1CmWQ)
-- [AI - Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP | SingleStore Webinars](https://www.youtube.com/watch?v=JlAYtxqnFis)
+- [Unlocking Real Time Pricing Insights with Snowflake &amp; SingleStore!](https://www.youtube.com/watch?v=MN4GeSypQUA)
+- [Revolutionizing Ride Sharing: Real Time Data Processing!](https://www.youtube.com/watch?v=dcTIkTlhPCc)
+- [Maximize Your Data Efficiency with SingleStore!](https://www.youtube.com/watch?v=UtWvALr8MVk)
+- [What Defines Us as Humans: The Power of Memory!](https://www.youtube.com/watch?v=va-7px8wbOk)
+- [Unlocking Enterprise AI with Multi Agent RAG Systems!](https://www.youtube.com/watch?v=BTcZYfVoZyM)
 <!-- YOUTUBE:END -->
 
 
