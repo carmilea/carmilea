@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
-- [Rust&#39;s Incremental Compiler Architecture](https://lwn.net/Articles/997784/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
