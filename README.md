@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
+- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 - [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
 - [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
-- [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
-- [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
+- [Learning Tibetan changed the way I think &lpar;2023&rpar;](https://www.lionsroar.com/learning-tibetan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
