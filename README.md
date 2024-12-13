@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Product Management](https://www.deeplearning.ai/the-batch/issue-279/)
+- [Mirror Bacteria Research Poses Significant Risks, Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
+- [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
+- [SpaceX Seeks Approval to Turn Texas Starbase Site into New City](https://www.bloomberg.com/news/articles/2024-12-13/spacex-seeks-approval-to-turn-texas-starbase-site-into-new-city)
 - [The age of average &lpar;2023&rpar;](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
-- [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
-- [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
