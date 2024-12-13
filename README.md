@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Unlocking Real Time Pricing Insights with Snowflake &amp; SingleStore!](https://www.youtube.com/watch?v=MN4GeSypQUA)
-- [Revolutionizing Ride Sharing: Real Time Data Processing!](https://www.youtube.com/watch?v=dcTIkTlhPCc)
-- [Maximize Your Data Efficiency with SingleStore!](https://www.youtube.com/watch?v=UtWvALr8MVk)
-- [What Defines Us as Humans: The Power of Memory!](https://www.youtube.com/watch?v=va-7px8wbOk)
-- [Unlocking Enterprise AI with Multi Agent RAG Systems!](https://www.youtube.com/watch?v=BTcZYfVoZyM)
+- [Why GPUs Are Essential for AI: The Rise of LPU!](https://www.youtube.com/watch?v=NMWdDLE4Jz8)
+- [AI Security Concerns: Navigating NLMs and Buzzwords!](https://www.youtube.com/watch?v=A1wJ6QeVi3k)
+- [Unlocking Customer Value: Real Time Data Solutions!](https://www.youtube.com/watch?v=eC3swL__2JI)
+- [Unlocking AI Insights: Boost Your Sales Calls Fast!](https://www.youtube.com/watch?v=cq2lZoiDExc)
+- [Harnessing Big Data and AI for Business Insights!](https://www.youtube.com/watch?v=YKVxgr-rino)
 <!-- YOUTUBE:END -->
 
 
