@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
+- [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
 - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 - [Garbage collected smart pointers in Rust via concurrent cycle collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
-- [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
-- [HyperDX &lpar;YC S22&rpar; Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
