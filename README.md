@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing network time security &lpar;NTP NTS&rpar; at the hardware level &lpar;2022&rpar;](https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/)
-- [A Rare Cross-Section Illustration: Infamous Happenings of Kowloon Walled City](https://www.thisiscolossal.com/2024/07/kowlooon-walled-city-illustration/)
+- [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
-- [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
+- [Garbage collected smart pointers in Rust via concurrent cycle collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 - [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
+- [HyperDX &lpar;YC S22&rpar; Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
