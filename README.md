@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The exact moment that I decided to go off-grid in Portugal](https://twitter.com/levelsio/status/1867314119654637629)
-- [Feds help health insurers hide their dirty secret: denials on the rise](https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/)
-- [AT&amp;T Won&#39;t Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies](https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/)
+- [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
+- [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
+- [Database Trends of 2024: What You Missed and Why It Matters](https://www.singlestore.com/blog/database-trends-of-2024)
+- [Web Origami, for making websites where you can understand how they&#39;re made](https://weborigami.org)
 - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
-- [Three Mistakes from Dart/Flutter&#39;s Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
