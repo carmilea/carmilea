@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI](https://www.youtube.com/watch?v=slgADiuD3QY)
+- [Build a Smart AI Chatbot with Our Reactive Dash App!](https://www.youtube.com/watch?v=KYN0wr5IVWY)
+- [Achieve 1400X Faster Query Performance with SingleStore Kai!](https://www.youtube.com/watch?v=AgkukW6Ykd8)
 - [SingleStore Customer Advisory Board!](https://www.youtube.com/watch?v=QA3pwk1CmWQ)
 - [AI - Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP | SingleStore Webinars](https://www.youtube.com/watch?v=JlAYtxqnFis)
-- [AI-Powered Personalized Shopping &amp; Reco Engine with OpenAI CLIP](https://www.youtube.com/watch?v=wjHdaEFNVqs)
-- [How We Made That App, Ep.13: Ronald Ashri on Building OpenDialog for Enterprises](https://www.youtube.com/watch?v=qlnWxUiNS6I)
-- [LangChain for Multimodal Apps: Chat With Text/Image Data | SingleStore Webinars](https://www.youtube.com/watch?v=eF8938pcvhg)
 <!-- YOUTUBE:END -->
 
 
