@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
+- [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
+- [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
-- [Novel link between cell nutrition and identity could improve immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
-- [Pink Floyd&#39;s &#39;The Wall&#39;: A Complete Analysis](https://thewallanalysis.com/)
-- [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
