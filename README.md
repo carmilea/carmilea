@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HyperDX &lpar;YC S22&rpar; Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
 - [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
 - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
 - [Database Trends of 2024: What You Missed and Why It Matters](https://www.singlestore.com/blog/database-trends-of-2024)
-- [Web Origami, for making websites where you can understand how they&#39;re made](https://weborigami.org)
-- [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
