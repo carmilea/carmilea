@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The age of average &lpar;2023&rpar;](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
 - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
+- [Rust&#39;s Incremental Compiler Architecture](https://lwn.net/Articles/997784/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
