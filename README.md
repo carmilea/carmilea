@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biodiversity loss due to agricultural trade three times higher than thought](https://phys.org/news/2024-12-tropical-regions-biodiversity-loss-due.html)
+- [Ilya Sutskever Test of Time Talk &quot;Pre-training as we know it will end&quot;](https://twitter.com/i/status/1867719020444889118)
 - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
 - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
