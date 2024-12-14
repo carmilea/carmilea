@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 - [Racing&#39;s Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
-- [Fern &lpar;YC W23&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
+- [Show HN: Open-sourcing my failed startup&rpar; Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
 - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
-- [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
