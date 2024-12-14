@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
+- [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
-- [Sequence to sequence learning with neural networks: what a decade [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
-- [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
