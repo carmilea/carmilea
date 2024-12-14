@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
+- [Fern &lpar;YC W23&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
+- [Asynchronous Rust on Cortex-M Microcontrollers &lpar;2023&rpar;](https://interrupt.memfault.com/blog/embedded-async-rust)
 - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
-- [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
-- [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
-- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
-- [Suchir&#39;s Essay on Fair Use](https://suchir.net/fair_use.html)
+- [Fujitsu&#39;s Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
