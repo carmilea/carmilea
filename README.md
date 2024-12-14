@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Grad to Staff at Meta in 3 years](https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years)
+- [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
 - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
-- [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
-- [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
