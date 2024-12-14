@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
+- [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
+- [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
 - [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 - [Racing&#39;s Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
-- [Show HN: Open-sourcing my failed startup&rpar; Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
-- [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
-- [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
