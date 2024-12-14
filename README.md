@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 - [Fern &lpar;YC W23&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 - [Asynchronous Rust on Cortex-M Microcontrollers &lpar;2023&rpar;](https://interrupt.memfault.com/blog/embedded-async-rust)
 - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 - [Fujitsu&#39;s Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)
+- [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
