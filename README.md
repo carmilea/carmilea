@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
-- [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
-- [Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
 - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
+- [Suchir&#39;s Essay on Fair Use](https://suchir.net/fair_use.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
