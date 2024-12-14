@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
+- [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
+- [South Korea&#39;s parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 - [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
-- [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-- [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
-- [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
-- [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
+- [Hacking physics from the back of a napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
