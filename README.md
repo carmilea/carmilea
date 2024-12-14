@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ilya Sutskever Test of Time Talk &quot;Pre-training as we know it will end&quot;](https://twitter.com/i/status/1867719020444889118)
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
+- [Sequence to sequence learning with neural networks: what a decade [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
 - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
-- [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
