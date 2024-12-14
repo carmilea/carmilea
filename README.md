@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)
 - [They See Your Photos](https://theyseeyourphotos.com/)
 - [Occasional Paper: Four Hidden Species of Portuguese Man-O&#39;-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
-- [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
 - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
 - [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 <!-- BLOG-POST-LIST:END -->
