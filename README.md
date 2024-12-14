@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
-- [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
-- [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
-- [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
-- [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
+- [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
+- [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
+- [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+- [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
+- [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
