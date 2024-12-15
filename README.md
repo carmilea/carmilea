@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOOM ported to run atop AMD ROCm + LLVM libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
+- [Ann Arbor hopes to bring rooftop solar to the masses by creating a utility](https://www.bridgemi.com/michigan-environment-watch/ann-arbor-hopes-bring-rooftop-solar-masses-creating-utility)
 - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates&#39; Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 - [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
