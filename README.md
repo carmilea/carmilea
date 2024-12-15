@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
-- [Proof of Concept showcasing WASM program access files outside node:wasi&#39;s dir](https://github.com/humodz/node-wasi-preopens-escape)
-- [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
-- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
-- [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
+- [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)
+- [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+- [Palm&#39;s CEO emails Steve Jobs &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1868368310024462791)
+- [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
+- [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
