@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
+- [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
 - [A visual proof that a^2 – b^2 = &lpar;a + b&rpar;&lpar;a – b&rpar;](https://www.futilitycloset.com/2024/12/15/tidy-2/)
-- [What&#39;s Happening with Founders over 40?](https://justinjackson.ca/over-40)
 - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 - [When a Crystal Ball Isn&#39;t Enough to Make You Rich](https://elmwealth.com/crystal-ball/)
-- [Starting a Business at 60: My Father&#39;s Story](https://thoughts.jatintiwari.com/pages/starting-business-at-60.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
