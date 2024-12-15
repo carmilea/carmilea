@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UnitedHealth Is Strategically Limiting Access to Treatment for Kids with Autism](https://www.propublica.org/article/unitedhealthcare-insurance-autism-denials-applied-behavior-analysis-medicaid)
 - [When a Crystal Ball Isn&#39;t Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
+- [Starting a Business at 60: My Father&#39;s Story](https://thoughts.jatintiwari.com/pages/starting-business-at-60.html)
 - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
-- [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
+- [New Java to WASM GC Transpiler: Run Java in the Browser, No Plugin Required](https://teavm.org/docs/release-notes/0.11.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
