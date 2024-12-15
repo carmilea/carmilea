@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A visual proof that a^2 – b^2 = &lpar;a + b&rpar;&lpar;a – b&rpar;](https://www.futilitycloset.com/2024/12/15/tidy-2/)
+- [What&#39;s Happening with Founders over 40?](https://justinjackson.ca/over-40)
 - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
-- [When a Crystal Ball Isn&#39;t Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
+- [When a Crystal Ball Isn&#39;t Enough to Make You Rich](https://elmwealth.com/crystal-ball/)
 - [Starting a Business at 60: My Father&#39;s Story](https://thoughts.jatintiwari.com/pages/starting-business-at-60.html)
-- [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
-- [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
