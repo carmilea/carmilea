@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)
-- [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+- [Fractional Jobs – The Job Board for Fractional Work](https://www.fractionaljobs.io/)
 - [Palm&#39;s CEO emails Steve Jobs &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1868368310024462791)
 - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
+- [Maximum Likelihood Estimation and Loss Functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
