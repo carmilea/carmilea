@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
+- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
+- [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
-- [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
-- [A visual proof that a^2 – b^2 = &lpar;a + b&rpar;&lpar;a – b&rpar;](https://www.futilitycloset.com/2024/12/15/tidy-2/)
-- [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
-- [When a Crystal Ball Isn&#39;t Enough to Make You Rich](https://elmwealth.com/crystal-ball/)
+- [Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving](https://news.ycombinator.com/item?id=42423742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
