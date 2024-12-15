@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
+- [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
+- [Proof of Concept showcasing WASM program access files outside node:wasi&#39;s dir](https://github.com/humodz/node-wasi-preopens-escape)
+- [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
 - [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
-- [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
-- [Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving](https://news.ycombinator.com/item?id=42423742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
