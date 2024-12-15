@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)
-- [They See Your Photos](https://theyseeyourphotos.com/)
-- [Occasional Paper: Four Hidden Species of Portuguese Man-O&#39;-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
-- [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
-- [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
+- [I Track My Health Data in Markdown: Lessons in Digital Longevity](https://news.ycombinator.com/item?id=42420721)
+- [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
+- [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
+- [Should Programming Languages Be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+- [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
