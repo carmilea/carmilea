@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The First 50M Prime Numbers &lpar;1975&rpar; [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
-- [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)
 - [Map of GitHub](https://github.com/anvaka/map-of-github)
-- [Tesla Cybertruck Becomes Extensively Corroded After Exposed to Magnet](https://www.torquenews.com/11826/tesla-cybertruck-becomes-extensively-corroded-after-exposed-magnet)
-- [A &#39;Second Tree of Life&#39; Could Wreak Havoc](https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html)
+- [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+- [Palm&#39;s CEO emails Steve Jobs &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1868368310024462791)
+- [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 <!-- BLOG-POST-LIST:END -->
 
 ---
