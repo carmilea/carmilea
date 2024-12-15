@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 - [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
 - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates&#39; Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
-- [There&#39;s a New Country Ranking and You&#39;re Not Going to Like It](https://www.atvbt.com/bmi/)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 <!-- BLOG-POST-LIST:END -->
 
