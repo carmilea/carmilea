@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Track My Health Data in Markdown: Lessons in Digital Longevity](https://news.ycombinator.com/item?id=42420721)
+- [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 - [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
-- [Should Programming Languages Be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
-- [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
+- [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+- [Problems with Python dependency management](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
