@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
+- [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
+- [The Clever Hans Effect, Iterative LLM Prompting, and Socrates&#39; Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
+- [There&#39;s a New Country Ranking and You&#39;re Not Going to Like It](https://www.atvbt.com/bmi/)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
-- [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
-- [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
-- [Problems with Python dependency management](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
