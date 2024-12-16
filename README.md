@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
+- [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 - [Canada&#39;s First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 - [OpenERV](https://www.openerv.ca)
