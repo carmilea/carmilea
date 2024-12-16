@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
+- [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
+- [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
+- [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
 - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
-- [Modelica](https://modelica.org/)
-- [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
-- [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
-- [Where Is HTTP/3? &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
