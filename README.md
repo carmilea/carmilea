@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
-- [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 - [Canada&#39;s First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
+- [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 - [OpenERV](https://www.openerv.ca)
 <!-- BLOG-POST-LIST:END -->
