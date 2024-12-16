@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pelicans on a Bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
+- [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
 - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
+- [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 - [Lfgss shutting down 16th March 2025 &lpar;day before Online Safety Act is enforced&rpar;](https://www.lfgss.com/conversations/401475/)
-- [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
-- [Converge &lpar;YC S23&rpar; is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
+- [Backward-incompatible GRUB2 change causing BIOS setup bootloop](https://op-co.de/blog/posts/grub2_bios_bootloop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
