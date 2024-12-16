@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing video games boosts IQ in children](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-says-study)
+- [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
+- [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
+- [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
 - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
-- [Canada&#39;s First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
-- [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
-- [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
-- [OpenERV](https://www.openerv.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
