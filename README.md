@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
+- [OpenERV](https://www.openerv.ca)
+- [US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19](https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/)
 - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 - [The First 50M Prime Numbers &lpar;1975&rpar; [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
-- [Map of GitHub](https://github.com/anvaka/map-of-github)
-- [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
-- [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 <!-- BLOG-POST-LIST:END -->
 
 ---
