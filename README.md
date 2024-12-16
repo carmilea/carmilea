@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing video games boosts IQ in children](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-says-study)
+- [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
+- [Where Is HTTP/3?](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
+- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [Will Even the Most Advanced Subs Have Nowhere to Hide?](https://spectrum.ieee.org/submarine-stealth)
 - [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
-- [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
-- [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
-- [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
