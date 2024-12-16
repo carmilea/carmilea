@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Always go to the funeral &lpar;2005&rpar;](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 - [The Year of McDonald&#39;s](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 - [In the 1970s, the CIA created a robot dragonfly &lpar;2020&rpar;](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
-- [Show HN: Autonomous AI agents that monitor the stock market for you](https://decodeinvesting.com/chat?agents=lima)
-- [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
+- [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
