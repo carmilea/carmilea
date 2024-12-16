@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Converge &lpar;YC S23&rpar; is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
+- [What Did Ada Lovelace&#39;s Program Actually Do? &lpar;2018&rpar;](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
+- [Only 720k Snapdragon X laptops sold in Q3 – less than 0.8% of PCs](https://www.techradar.com/pro/Only-about-720000-Qualcomm-Snapdragon--laptops-sold-since-launch)
+- [In Search of a Faster SQLite](https://avi.im/blag/2024/faster-sqlite/)
 - [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
-- [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
-- [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
-- [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
-- [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
