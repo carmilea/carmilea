@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
+- [Canada&#39;s First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 - [OpenERV](https://www.openerv.ca)
 - [Derivatives don&#39;t always act like fractions &lpar;2021&rpar;](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
-- [US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19](https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/)
-- [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
