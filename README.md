@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
-- [Where Is HTTP/3?](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
-- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
-- [Will Even the Most Advanced Subs Have Nowhere to Hide?](https://spectrum.ieee.org/submarine-stealth)
-- [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
+- [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
+- [Modelica](https://modelica.org/)
+- [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
+- [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
+- [Where Is HTTP/3? &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
