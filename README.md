@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Converge &lpar;YC S23&rpar; is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
-- [What Did Ada Lovelace&#39;s Program Actually Do? &lpar;2018&rpar;](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
-- [Only 720k Snapdragon X laptops sold in Q3 – less than 0.8% of PCs](https://www.techradar.com/pro/Only-about-720000-Qualcomm-Snapdragon--laptops-sold-since-launch)
-- [In Search of a Faster SQLite](https://avi.im/blag/2024/faster-sqlite/)
-- [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
+- [Pelicans on a Bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
+- [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
+- [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
+- [Lfgss shutting down 16th March 2025 &lpar;day before Online Safety Act is enforced&rpar;](https://www.lfgss.com/conversations/401475/)
+- [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
