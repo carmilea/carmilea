@@ -61,8 +61,8 @@
 - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 - [Zaymo &lpar;YC W24&rpar; Is Hiring Founding Engineer &lpar;In Person – Utah&rpar;](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
-- [Tig: Text-Mode Interface for Git](https://jonas.github.io/tig/)
 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
+- [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
