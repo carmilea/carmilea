@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Always go to the funeral &lpar;2005&rpar;](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
-- [The Year of McDonald&#39;s](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
+- [Kevin Langdon&#39;s &#39;Omni Magazine&#39; unsupervised IQ test &lpar;1979&rpar;](http://www.lumifont.co.uk/omnitest.php)
+- [The higher fertility of TSMC semiconductor workers](https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor)
+- [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-- [In the 1970s, the CIA created a robot dragonfly &lpar;2020&rpar;](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
-- [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
+- [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
