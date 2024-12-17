@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
+- [In Defense of Y&#39;All](https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/)
+- [Ozempic increases risk of debilitating eye condition: studies](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
+- [What’s New in SingleStore 8.9?](https://www.singlestore.com/blog/new-in-singlestore-8-9)
+- [Webhook Tester/Debugger](https://www.hooklistener.com/)
 - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
-- [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
-- [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
-- [Moon](https://ciechanow.ski/moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
