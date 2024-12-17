@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
-- [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
+- [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
+- [Moon](https://ciechanow.ski/moon/)
+- [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
+- [Getting to 2M users as a one woman dev team [video]](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 - [Launch HN: Langfuse &lpar;YC W23&rpar; – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
-- [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
-- [Zaymo &lpar;YC W24&rpar; Is Hiring Founding Engineer &lpar;In Person – Utah&rpar;](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
