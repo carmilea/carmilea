@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After 3 Years, I Failed. Here&#39;s All My Startup&#39;s Code](https://dylanhuang.com/blog/closing-my-startup/)
 - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 - [Zaymo &lpar;YC W24&rpar; Is Hiring Founding Engineer &lpar;In Person – Utah&rpar;](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
+- [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 - [Tig: Text-Mode Interface for Git](https://jonas.github.io/tig/)
 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 <!-- BLOG-POST-LIST:END -->
