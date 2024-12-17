@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 3 Years, I Failed. Here&#39;s All My Startup&#39;s Code](https://dylanhuang.com/blog/closing-my-startup/)
+- [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+- [Zaymo &lpar;YC W24&rpar; Is Hiring Founding Engineer &lpar;In Person – Utah&rpar;](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
+- [Tig: Text-Mode Interface for Git](https://jonas.github.io/tig/)
 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
-- [Make your QEMU faster &lpar;2022&rpar;](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
-- [Kevin Langdon&#39;s &#39;Omni&#39; IQ test](http://www.lumifont.co.uk/omnitest.php)
-- [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
-- [Always go to the funeral &lpar;2005&rpar;](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
