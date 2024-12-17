@@ -61,8 +61,8 @@
 - [Make your QEMU faster &lpar;2022&rpar;](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 - [MIT study explains why laws are written in an incomprehensible style](https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819)
-- [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
 - [Settlement for Australian users impacted by Cambridge Analytica incident](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
+- [Kevin Langdon&#39;s &#39;Omni&#39; IQ test](http://www.lumifont.co.uk/omnitest.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
