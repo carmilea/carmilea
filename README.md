@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
+- [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
+- [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
 - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 - [Moon](https://ciechanow.ski/moon/)
-- [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
-- [Getting to 2M users as a one woman dev team [video]](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
-- [Launch HN: Langfuse &lpar;YC W23&rpar; – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
