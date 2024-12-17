@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
 - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
+- [Launch HN: Langfuse &lpar;YC W23&rpar; – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 - [Zaymo &lpar;YC W24&rpar; Is Hiring Founding Engineer &lpar;In Person – Utah&rpar;](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
-- [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
-- [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
