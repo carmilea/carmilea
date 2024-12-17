@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to do Full-Text Search &lpar;Lucene Version&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=Nyerhv4X0eI)
 - [How to do Full-Text Search &lpar;Jlucean Version&rpar;](https://www.youtube.com/watch?v=fw82i_tXmrw)
 - [LLM Agents with h2oGPTe: Tools, Applications, and Integration](https://www.youtube.com/watch?v=xMopFKbGYro)
 - [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=XhITcpn_nOE)
 - [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=wtMwBdmwZN4)
-- [Why GPUs Are Essential for AI: The Rise of LPU!](https://www.youtube.com/watch?v=NMWdDLE4Jz8)
 <!-- YOUTUBE:END -->
 
 
