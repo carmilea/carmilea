@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
+- [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
 - [Kevin Langdon&#39;s &#39;Omni Magazine&#39; unsupervised IQ test &lpar;1979&rpar;](http://www.lumifont.co.uk/omnitest.php)
-- [The higher fertility of TSMC semiconductor workers](https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor)
 - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-- [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
