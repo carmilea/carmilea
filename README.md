@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
 - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
 - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
-- [Kevin Langdon&#39;s &#39;Omni Magazine&#39; unsupervised IQ test &lpar;1979&rpar;](http://www.lumifont.co.uk/omnitest.php)
 - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 <!-- BLOG-POST-LIST:END -->
