@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 - [Make your QEMU faster &lpar;2022&rpar;](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
-- [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 - [Kevin Langdon&#39;s &#39;Omni&#39; IQ test](http://www.lumifont.co.uk/omnitest.php)
+- [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
+- [Always go to the funeral &lpar;2005&rpar;](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
