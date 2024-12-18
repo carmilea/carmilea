@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
+- [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
-- [U.S. Supreme Court will hear arguments over TikTok divestment law](https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html)
-- [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
-- [W54](https://en.wikipedia.org/wiki/W54)
-- [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
+- [Launch HN: Innate &lpar;YC F24&rpar; – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
+- [Show HN: Brisk – Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast](https://github.com/brisklib/brisk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
