@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
+- [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
 - [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 - [What is metformin&#39;s secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-- [Show HN: K8s Cleaner – Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
-- [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
