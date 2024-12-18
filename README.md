@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
+- [Insurers Are Deserting Homeowners as Climate Shocks Worsen](https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html)
+- [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
-- [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
 - [Trying to Recreate iOS on the Web](https://homescreen.app/)
-- [Lies, damned lies, and Impact Hero &lpar;refoorest, allcolibri&rpar;](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
