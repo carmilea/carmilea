@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Health Insurance is a Racket. What value do these companies add, really?](https://paulkrugman.substack.com/p/health-insurance-is-a-racket)
+- [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
+- [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
+- [US Weighs Banning TP-Link Routers](https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/)
 - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
-- [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
-- [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
-- [Interpol wants everyone to stop saying &#39;pig butchering&#39;](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
-- [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
