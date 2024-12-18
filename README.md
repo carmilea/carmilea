@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
+- [GPS – Bartosz Ciechanowski &lpar;2022&rpar;](https://ciechanow.ski/gps/)
 - [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
 - [Lou&#39;s Pseudo 3D Page &lpar;2013&rpar;](http://www.extentofthejam.com/pseudo/)
 - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
-- [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
