@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 - [What is metformin&#39;s secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-- [Show HN: K8s Cleaner – Your Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
-- [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 &lpar;2003&rpar;](https://www.historylink.org/File/5136)
-- [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
+- [Show HN: K8s Cleaner – Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
+- [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
