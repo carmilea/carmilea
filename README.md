@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 &lpar;2003&rpar;](https://www.historylink.org/File/5136)
+- [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
 - [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
-- [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
-- [Launch HN: Innate &lpar;YC F24&rpar; – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
-- [Show HN: Zipshare – one-step Android screen sharing for support teams](https://www.getzipshare.com)
+- [The end is nigh and here&#39;s why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)
+- [GitHub Copilot is now available for free](https://github.com/features/copilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
