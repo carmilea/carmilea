@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Includeable minimal operating system for C++](https://www.includeos.org/)
-- [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
-- [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
-- [CRDTs and Collaborative Playground](https://www.cerbos.dev/blog/crdts-and-collaborative-playground)
-- [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
+- [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
+- [The XOR Texture](https://lodev.org/cgtutor/xortexture.html)
+- [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
+- [Google, the search engine that&#39;s forgotten how to search](https://semking.com/google-search-real-user-feedback/)
+- [We Built the Saturn V &lpar;2017&rpar;](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
