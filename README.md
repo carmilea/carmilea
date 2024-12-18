@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lou&#39;s Pseudo 3D Page &lpar;2013&rpar;](http://www.extentofthejam.com/pseudo/)
 - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
 - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
 - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
-- [The XOR Texture &lpar;2004&rpar;](https://lodev.org/cgtutor/xortexture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
