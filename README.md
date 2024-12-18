@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Health Insurance is a Racket. What value do these companies add, really?](https://paulkrugman.substack.com/p/health-insurance-is-a-racket)
-- [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
-- [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
-- [US Weighs Banning TP-Link Routers](https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/)
-- [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
+- [U.S. Supreme Court will hear arguments over TikTok divestment law](https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html)
+- [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
+- [W54](https://en.wikipedia.org/wiki/W54)
+- [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
