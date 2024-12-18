@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lies, damned lies, and Impact Hero &lpar;refoorest, allcolibri&rpar;](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
 - [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)
 - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
 - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
 - [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
-- [Lou&#39;s Pseudo 3D Page &lpar;2013&rpar;](http://www.extentofthejam.com/pseudo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
