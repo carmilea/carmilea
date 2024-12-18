@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is metformin&#39;s secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
+- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
+- [Show HN: K8s Cleaner – Your Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
 - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 &lpar;2003&rpar;](https://www.historylink.org/File/5136)
-- [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
-- [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
-- [The end is nigh and here&#39;s why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)
-- [GitHub Copilot is now available for free](https://github.com/features/copilot)
+- [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
