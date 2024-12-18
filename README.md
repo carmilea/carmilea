@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
+- [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
-- [The XOR Texture](https://lodev.org/cgtutor/xortexture.html)
+- [The XOR Texture &lpar;2004&rpar;](https://lodev.org/cgtutor/xortexture.html)
 - [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
-- [Google, the search engine that&#39;s forgotten how to search](https://semking.com/google-search-real-user-feedback/)
-- [We Built the Saturn V &lpar;2017&rpar;](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
