@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
+- [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
+- [Trying to Recreate iOS on the Web](https://homescreen.app/)
 - [Lies, damned lies, and Impact Hero &lpar;refoorest, allcolibri&rpar;](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
-- [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)
-- [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
-- [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
-- [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
