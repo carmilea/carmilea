@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
+- [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
 - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
 - [Launch HN: Innate &lpar;YC F24&rpar; – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
-- [Show HN: Brisk – Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast](https://github.com/brisklib/brisk)
+- [Show HN: Zipshare – one-step Android screen sharing for support teams](https://www.getzipshare.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
