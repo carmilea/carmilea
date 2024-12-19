@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
+- [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
-- [Exposing the Clearingstelle Urheberrecht Im Internet &lpar;CUII&rpar;](https://damcraft.de/blog/exposing-the-cuii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
