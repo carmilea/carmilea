@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=XhITcpn_nOE)
 - [Get Started with SingleStore using Docker](https://www.youtube.com/watch?v=i1aLnZOPtJM)
 - [Getting Started with SingleStore Cloud](https://www.youtube.com/watch?v=v4WzNwuCPcc)
 - [H2O Machine Learning Starter Pack](https://www.youtube.com/watch?v=U79LpC1HKow)
 - [H2O Predictive Modeling Starter Pack](https://www.youtube.com/watch?v=2qWtwBpAQU8)
-- [H2O GenAI LLM Starter Pack](https://www.youtube.com/watch?v=SeQQmfgrR8k)
 <!-- YOUTUBE:END -->
 
 
