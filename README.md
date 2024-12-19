@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kelly Can&#39;t Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 - [Openlayer &lpar;YC S21&rpar; is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
-- [Silk – Interactive Generative Art](http://weavesilk.com/)
-- [How types make hard problems easy](https://mayhul.com/posts/type-driven-design/)
+- [Silk – Interactive Generative Art &lpar;2011&rpar;](http://weavesilk.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
