@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists learning to &#39;write&#39; skills to human brain noninvasively, like Matrix](https://interestingengineering.com/science/implant-information-directly-into-brain)
+- [Don&#39;t Be Misled by Build an App in 5 Minutes with Cursor](https://www.pixelstech.net/article/1734488862-do-not-be-misled-by-%e2%80%98build-an-app-in-5-minutes%e2%80%99%3a-in-depth-practice-with-cursor)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
-- [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
+- [Markov Keyboard: keyboard layout that changes by Markov frequency &lpar;2019&rpar;](https://github.com/shapr/markovkeyboard)
 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 <!-- BLOG-POST-LIST:END -->
