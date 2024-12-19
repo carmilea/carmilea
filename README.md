@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
-- [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
-- [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
-- [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435)
-- [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
+- [Openlayer &lpar;YC S21&rpar; is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
+- [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
+- [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
+- [Silk – Interactive Generative Art](http://weavesilk.com/)
+- [How types make hard problems easy](https://mayhul.com/posts/type-driven-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
