@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Replacement for Bert](https://huggingface.co/blog/modernbert)
+- [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 - [Tracing packets in the Linux kernel networking stack and friends](https://github.com/retis-org/retis)
 - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
-- [Show HN: Job Simlarity &lpar;vector similarity graphs, WhoIsHiring/JSON Resume&rpar;](https://registry.jsonresume.org/job-similarity)
-- [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
