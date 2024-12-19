@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists learning to &#39;write&#39; skills to human brain noninvasively, like Matrix](https://interestingengineering.com/science/implant-information-directly-into-brain)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
-- [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
