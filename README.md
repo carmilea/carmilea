@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get Started with SingleStore using Docker](https://www.youtube.com/watch?v=i1aLnZOPtJM)
+- [Getting Started with SingleStore Cloud](https://www.youtube.com/watch?v=v4WzNwuCPcc)
 - [H2O Machine Learning Starter Pack](https://www.youtube.com/watch?v=U79LpC1HKow)
 - [H2O Predictive Modeling Starter Pack](https://www.youtube.com/watch?v=2qWtwBpAQU8)
 - [H2O GenAI LLM Starter Pack](https://www.youtube.com/watch?v=SeQQmfgrR8k)
-- [Accelerate MongoDB® Apps for 100x Faster Analytics and AI](https://www.youtube.com/watch?v=kKEMpimvlbc)
-- [How to do Full-Text Search &lpar;Jlucean Version&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=Nyerhv4X0eI)
 <!-- YOUTUBE:END -->
 
 
