@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
+- [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
 - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
+- [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435)
 - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
-- [A Replacement for Bert](https://huggingface.co/blog/modernbert)
-- [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
-- [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
