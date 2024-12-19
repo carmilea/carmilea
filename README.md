@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
+- [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
 - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
+- [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
 - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
-- [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
-- [Tracing packets in the Linux kernel networking stack and friends](https://github.com/retis-org/retis)
-- [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
