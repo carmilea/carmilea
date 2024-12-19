@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
+- [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
+- [Mozilla: Proposals in US vs. Google threaten vital role of independent browsers](https://blog.mozilla.org/en/mozilla/internet-policy/google-remedies-browsers/)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 - [Markov Keyboard: keyboard layout that changes by Markov frequency &lpar;2019&rpar;](https://github.com/shapr/markovkeyboard)
 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
-- [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
