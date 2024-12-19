@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
+- [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
+- [Exposing the Clearingstelle Urheberrecht Im Internet &lpar;CUII&rpar;](https://damcraft.de/blog/exposing-the-cuii)
+- [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
 - [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
-- [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
-- [Advanced Civilizations Could Be Indistinguishable from Nature](https://www.universetoday.com/169993/advanced-civilizations-could-be-indistinguishable-from-nature/)
-- [I Built a Figma Plugin That Generates Custom SVG Illustrations with AI](https://www.figma.com/community/plugin/1440141868641854458/vector-image-ai)
-- [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
