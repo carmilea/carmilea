@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The longest straight line in Great Britain &lpar;without crossing a public road&rpar;](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
+- [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 - [Markov Keyboard: keyboard layout that changes by Markov frequency &lpar;2019&rpar;](https://github.com/shapr/markovkeyboard)
 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
