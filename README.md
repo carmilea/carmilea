@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Be Misled by Build an App in 5 Minutes with Cursor](https://www.pixelstech.net/article/1734488862-do-not-be-misled-by-%e2%80%98build-an-app-in-5-minutes%e2%80%99%3a-in-depth-practice-with-cursor)
+- [The longest straight line in Great Britain &lpar;without crossing a public road&rpar;](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 - [Markov Keyboard: keyboard layout that changes by Markov frequency &lpar;2019&rpar;](https://github.com/shapr/markovkeyboard)
 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
