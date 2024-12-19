@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
-- [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
-- [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
-- [What is metformin&#39;s secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
-- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
+- [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
+- [Apple Says Meta Is Making Unreasonable Interoperability Requests Under EU&#39;s DMA](https://www.macrumors.com/2024/12/18/apple-meta-interoperability-requests-dma/)
+- [Nurses whose shitty boss is a shitty app](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)
+- [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
+- [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
