@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
-- [Apple Says Meta Is Making Unreasonable Interoperability Requests Under EU&#39;s DMA](https://www.macrumors.com/2024/12/18/apple-meta-interoperability-requests-dma/)
-- [Nurses whose shitty boss is a shitty app](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)
+- [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
+- [Advanced Civilizations Could Be Indistinguishable from Nature](https://www.universetoday.com/169993/advanced-civilizations-could-be-indistinguishable-from-nature/)
+- [I Built a Figma Plugin That Generates Custom SVG Illustrations with AI](https://www.figma.com/community/plugin/1440141868641854458/vector-image-ai)
 - [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
-- [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
