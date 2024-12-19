@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
+- [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 - [Exposing the Clearingstelle Urheberrecht Im Internet &lpar;CUII&rpar;](https://damcraft.de/blog/exposing-the-cuii)
-- [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
-- [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
