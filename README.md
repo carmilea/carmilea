@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 - [Tldraw Computer](https://computer.tldraw.com)
 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
