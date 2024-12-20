@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
+- [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
+- [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
 - [Gauntlet AI &lpar;YC S17&rpar; is training AI engineers and hiring them in Austin &lpar;$200k/yr&rpar;](https://gauntletai.com)
 - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
-- [Tldraw Computer](https://computer.tldraw.com)
-- [ByteDance&#39;s Recommendation System](https://github.com/bytedance/monolith)
-- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
