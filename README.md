@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gauntlet AI &lpar;YC S17&rpar; is training AI engineers and hiring them in Austin &lpar;$200k/yr&rpar;](https://gauntletai.com)
-- [Intel Core Ultra 9 285K &quot;Arrow Lake&quot; Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
+- [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 - [Tldraw Computer](https://computer.tldraw.com)
+- [ByteDance&#39;s Recommendation System](https://github.com/bytedance/monolith)
 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
-- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
