@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
+- [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
+- [Ask HN: Stanford CS 153 help](https://news.ycombinator.com/item?id=42475526)
 - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 - [What did the DOS &quot;APPEND&quot; command do?](https://www.os2museum.com/wp/dos-append/)
 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
-- [Grayjay Desktop App](https://grayjay.app/desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
