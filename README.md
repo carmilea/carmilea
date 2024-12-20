@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
+- [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
+- [What did the DOS &quot;APPEND&quot; command do?](https://www.os2museum.com/wp/dos-append/)
 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 - [Grayjay Desktop App](https://grayjay.app/desktop/)
-- [Show HN: Spotify and Apple Health data as art](https://apps.apple.com/us/app/day-by-data/id6737629704)
-- [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
-- [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
