@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
-- [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
+- [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 - [Kelly Can&#39;t Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 - [Openlayer &lpar;YC S21&rpar; is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
-- [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
