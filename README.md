@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People Are the New Brands](https://www.profgalloway.com/people-are-the-new-brands/)
+- [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
 - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
-- [Gauntlet AI &lpar;YC S17&rpar; is training AI engineers and hiring them in Austin &lpar;$200k/yr&rpar;](https://gauntletai.com)
-- [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
