@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39; first&#39; open-source ARMv9 motherboard surfaces – Radxa Orion O6](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)
 - [Gauntlet AI &lpar;YC S17&rpar; is training AI engineers and hiring them in Austin &lpar;$200k/yr&rpar;](https://gauntletai.com)
 - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
-- [A comparison to Waymo’s auto liability insurance claims at 25M miles](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 - [Tldraw Computer](https://computer.tldraw.com)
+- [ByteDance&#39;s Recommendation System](https://github.com/bytedance/monolith)
+- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
