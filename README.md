@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tldraw Computer](https://computer.tldraw.com)
 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
 - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
-- [Kelly Can&#39;t Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
