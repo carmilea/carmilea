@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People Are the New Brands](https://www.profgalloway.com/people-are-the-new-brands/)
+- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
+- [Grayjay Desktop App](https://grayjay.app/desktop/)
+- [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
 - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
-- [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
-- [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
