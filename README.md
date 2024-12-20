@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 - [Grayjay Desktop App](https://grayjay.app/desktop/)
-- [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
+- [Show HN: Spotify and Apple Health data as art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
-- [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
+- [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
