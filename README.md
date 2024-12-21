@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
+- [Show HN:Free Online Tool to Experience Microsoft&#39;s MarkItdown](https://markitdown.pro)
 - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 - [US judge finds Israel&#39;s NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
-- [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-- [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
