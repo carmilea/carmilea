@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Data Table Thousands of Years Old &lpar;2020&rpar;](https://www.datafix.com.au/BASHing/2020-08-12.html)
+- [Ask HN: How to unblock RSS feeds on Cloudflare hosted sites?](https://news.ycombinator.com/item?id=42482684)
 - [Magical Thinking: Edward Bellamy&#39;s Looking Backward &lpar;2011&rpar;](https://www.laphamsquarterly.org/future/magical-thinking)
 - [Singlefile: A web extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
-- [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
-- [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
