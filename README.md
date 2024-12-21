@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
+- [Our remedies proposal in DOJ&#39;s search distribution case](https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/)
+- [US judge finds Israel&#39;s NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-- [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
-- [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
-- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
