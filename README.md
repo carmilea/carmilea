@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
+- [Ask HN: Do you backup your Emails?](https://news.ycombinator.com/item?id=42478897)
 - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 - [The Christmas story of one tube station&#39;s &#39;Mind the Gap&#39; voice &lpar;2019&rpar;](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
-- [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
