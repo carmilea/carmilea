@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
 - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
+- [Introducing S2](https://s2.dev/blog/intro)
 - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
 - [Escaping Google&#39;s Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
-- [Query Apple&#39;s FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
-- [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
