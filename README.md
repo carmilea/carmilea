@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Query Apple&#39;s FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
-- [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
 - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
+- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
