@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SingleFile: A Web Extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
+- [Magical Thinking: Edward Bellamy&#39;s Looking Backward &lpar;2011&rpar;](https://www.laphamsquarterly.org/future/magical-thinking)
+- [Singlefile: A web extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 - [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
-- [Introducing S2](https://s2.dev/blog/intro)
-- [Escaping Google&#39;s Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
+- [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
