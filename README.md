@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SingleFile: A Web Extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
-- [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
-- [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
+- [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
 - [Introducing S2](https://s2.dev/blog/intro)
 - [Escaping Google&#39;s Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
 <!-- BLOG-POST-LIST:END -->
