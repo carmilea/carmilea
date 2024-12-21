@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US judge finds Israel&#39;s NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 - [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
-- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
