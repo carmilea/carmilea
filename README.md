@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
-- [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
-- [The essays of Michel de Montaigne online](https://hyperessays.net/)
-- [Slow deployment causes meetings &lpar;2015&rpar;](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
-- [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
+- [Stem cells head to the clinic: treatments for cancer, diabetes and Parkinson&#39;s](https://www.nature.com/articles/d41586-024-04160-0)
+- [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
+- [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
+- [Telling Stories in Athenian Law [pdf] &lpar;2002&rpar;](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
