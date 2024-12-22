@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 is behind schedule](https://www.msn.com/en-us/money/other/the-next-great-leap-in-ai-is-behind-schedule-and-crazy-expensive/ar-AA1wfMCB)
+- [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
 - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
-- [Show HN: NoSQL, but it&#39;s SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
-- [MacKenzie Scott donates over $2B in 2024 to 199 organizations](https://yieldgiving.com/essays/investing/)
+- [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
+- [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
