@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [German watchdog orders Sam Altman&#39;s biometric ID project World to delete data](https://www.euronews.com/next/2024/12/19/german-watchdog-orders-sam-altmans-biometric-id-project-world-to-delete-data)
 - [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
-- [As Drugstores Close, Older People Are Left in &#39;Pharmacy Deserts&#39;](https://www.nytimes.com/2024/12/21/health/drugstore-closures-seniors.html)
 - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
-- [Something is wrong on the Internet](https://www.lawyersgunsmoneyblog.com/2024/12/something-is-wrong-on-the-internet)
+- [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
+- [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
