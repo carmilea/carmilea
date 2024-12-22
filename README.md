@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German watchdog orders Sam Altman&#39;s biometric ID project World to delete data](https://www.euronews.com/next/2024/12/19/german-watchdog-orders-sam-altmans-biometric-id-project-world-to-delete-data)
+- [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
+- [ChatGPT O3 Preview Announcement](https://openai.com/12-days/)
 - [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
 - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
-- [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
-- [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
+- [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
