@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: NoSQL, but it&#39;s SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
 - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 - [Slow deployment causes meetings &lpar;2015&rpar;](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
-- [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
