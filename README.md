@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
 - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 - [Slow deployment causes meetings &lpar;2015&rpar;](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 - [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
-- [AI Is the Black Mirror](https://nautil.us/ai-is-the-black-mirror-1169121/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
