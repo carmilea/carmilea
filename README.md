@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind Germany&#39;s Political Turmoil, a Stagnating Economy](https://www.nytimes.com/2024/12/17/world/europe/germany-government-collapse-economy.html)
-- [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 - [The essays of Michel de Montaigne online](https://hyperessays.net/)
+- [Slow deployment causes meetings &lpar;2015&rpar;](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
+- [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
