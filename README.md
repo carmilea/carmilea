@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
 - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
+- [The missing introduction to Jujutsu version control](https://neugierig.org/software/blog/2024/12/jujutsu.html)
+- [The California Job-Killer That Wasn&#39;t](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
-- [Telling Stories in Athenian Law [pdf] &lpar;2002&rpar;](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
