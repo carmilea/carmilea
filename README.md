@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Data Table Thousands of Years Old &lpar;2020&rpar;](https://www.datafix.com.au/BASHing/2020-08-12.html)
-- [Ask HN: How to unblock RSS feeds on Cloudflare hosted sites?](https://news.ycombinator.com/item?id=42482684)
+- [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
+- [A data table thousands of years old &lpar;2020&rpar;](https://www.datafix.com.au/BASHing/2020-08-12.html)
 - [Magical Thinking: Edward Bellamy&#39;s Looking Backward &lpar;2011&rpar;](https://www.laphamsquarterly.org/future/magical-thinking)
-- [Singlefile: A web extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
-- [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
+- [Richard Bellman on the Birth of Dynamic Programming &lpar;2002&rpar; [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
+- [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 <!-- BLOG-POST-LIST:END -->
 
 ---
