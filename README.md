@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
-- [The missing introduction to Jujutsu version control](https://neugierig.org/software/blog/2024/12/jujutsu.html)
-- [The California Job-Killer That Wasn&#39;t](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
-- [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
+- [German watchdog orders Sam Altman&#39;s biometric ID project World to delete data](https://www.euronews.com/next/2024/12/19/german-watchdog-orders-sam-altmans-biometric-id-project-world-to-delete-data)
+- [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
+- [As Drugstores Close, Older People Are Left in &#39;Pharmacy Deserts&#39;](https://www.nytimes.com/2024/12/21/health/drugstore-closures-seniors.html)
+- [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
+- [Something is wrong on the Internet](https://www.lawyersgunsmoneyblog.com/2024/12/something-is-wrong-on-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
