@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
+- [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
-- [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
 - [Telling Stories in Athenian Law [pdf] &lpar;2002&rpar;](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
-- [Decoding the telephony signals in Pink Floyd&#39;s &#39;The Wall&#39;](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
