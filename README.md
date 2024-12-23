@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas school district bans the Bible because of its sexual content](https://www.msn.com/en-us/politics/government/texas-school-district-bans-the-bible-because-of-its-patently-offensive-sexual-content/ar-AA1wf98M)
+- [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
-- [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
+- [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
-- [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
-- [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
