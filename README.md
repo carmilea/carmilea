@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Good cities can&#39;t exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)
+- [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
+- [Subchannel Stations: The Radio Broadcasts You Didn&#39;t Know Were There](https://hackaday.com/2024/12/20/subchannel-stations-the-radio-broadcasts-you-didnt-know-were-there/)
 - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Cloud Platform Engineers &lpar;Fully Remote&rpar;](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
-- [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
-- [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
