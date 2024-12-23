@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
-- [Phrack 72 &quot;40th Anniversary Edition&quot; Call for Papers](https://phrack.org)
-- [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
-- [A Life-Saving Checklist &lpar;2007&rpar;](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
-- [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
+- [OneText &lpar;YC W23&rpar; Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
+- [Nordstrom Family to Take Company Private in $6.25B Deal](https://www.bloomberg.com/news/articles/2024-12-23/nordstrom-family-to-take-company-private-in-6-25-billion-deal)
+- [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
+- [A New Logo for Perl](https://perladvent.org/2024/2024-12-23.html)
+- [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
 <!-- BLOG-POST-LIST:END -->
 
 ---
