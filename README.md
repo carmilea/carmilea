@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;United Healthcare&#39; Using DMCA Against Luigi Mangione Images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
+- [Classified fighter jet specs leaked on War Thunder forums – again](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
 - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
+- [Whither Dashboard Design?](https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/)
 - [ChatGPT O3 Preview Announcement](https://openai.com/12-days/)
-- [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
-- [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
-- [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
