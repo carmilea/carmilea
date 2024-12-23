@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
+- [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
 - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
-- [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
-- [CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
