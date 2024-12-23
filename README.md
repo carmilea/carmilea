@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
-- [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
 - [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
 - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
