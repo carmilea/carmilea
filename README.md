@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
+- [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
+- [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
+- [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
 - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
-- [OneText &lpar;YC W23&rpar; Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
-- [Nordstrom Family to Take Company Private in $6.25B Deal](https://www.bloomberg.com/news/articles/2024-12-23/nordstrom-family-to-take-company-private-in-6-25-billion-deal)
-- [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
-- [A New Logo for Perl](https://perladvent.org/2024/2024-12-23.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
