@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas school district bans the Bible because of its sexual content](https://www.msn.com/en-us/politics/government/texas-school-district-bans-the-bible-because-of-its-patently-offensive-sexual-content/ar-AA1wf98M)
 - [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
+- [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
 - [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
 <!-- BLOG-POST-LIST:END -->
