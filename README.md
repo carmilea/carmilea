@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-- [&#39;United Healthcare&#39; using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
 - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
+- [CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
