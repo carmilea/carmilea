@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring Cloud Platform Engineers &lpar;Fully Remote&rpar;](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
+- [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-- [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
-- [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 <!-- BLOG-POST-LIST:END -->
 
 ---
