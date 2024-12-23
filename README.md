@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good cities can&#39;t exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)
+- [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
+- [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
+- [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
-- [Subchannel Stations: The Radio Broadcasts You Didn&#39;t Know Were There](https://hackaday.com/2024/12/20/subchannel-stations-the-radio-broadcasts-you-didnt-know-were-there/)
-- [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
-- [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
+- [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
