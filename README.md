@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Airlines Grounds All Flights After &quot;Technical Issue&quot;](https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html)
+- [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+- [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
 - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
-- [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
-- [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
-- [National Cryptologic Museum &lpar;NSA/CSS&rpar; New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
