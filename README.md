@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple seeks to defend Google&#39;s billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)
-- [AIs Will Increasingly Fake Alignment](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment)
+- [Cerebrum: What if we could recreate your brain?](https://svbrain.xyz/2024/12/20/cerebrum)
 - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
 - [The prisoners in Maine working remote jobs](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+- [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
