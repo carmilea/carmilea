@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source maintainers are drowning in junk bug reports written by AI](https://www.theregister.com/2024/12/10/ai_slop_bug_reports/)
 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
-- [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
 - [National Cryptologic Museum &lpar;NSA/CSS&rpar; New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
+- [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
+- [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
