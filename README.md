@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
+- [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
 - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
 - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
