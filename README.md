@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
 - [Automating the Search for Artificial Life with Foundation Models](https://sakana.ai/asal/)
 - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
-- [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
 <!-- BLOG-POST-LIST:END -->
 
 ---
