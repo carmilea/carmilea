@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+- [The AI backlash couldn&#39;t have come at a better time](https://www.infoworld.com/article/3626533/the-ai-backlash-couldnt-have-come-at-a-better-time.html)
 - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
-- [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
 - [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155)
 - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
-- [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
