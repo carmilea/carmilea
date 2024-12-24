@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
+- [Return to NSA&#39;s Menwith Hill with 60 Minutes &lpar;2000&rpar;](https://cryptome.org/menwith-mn60.htm)
+- [Why making friends as an adult is hard](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
+- [New research suggests that Walmart makes the communities it operates in poorer](https://www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/)
 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
-- [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
-- [National Cryptologic Museum &lpar;NSA/CSS&rpar; New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
-- [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
-- [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
