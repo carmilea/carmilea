@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
+- [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
+- [Parsing millions of URLs per Second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
+- [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
-- [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
-- [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
-- [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
-- [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
