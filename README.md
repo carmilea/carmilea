@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
+- [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+- [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
+- [National Cryptologic Museum &lpar;NSA/CSS&rpar; New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
 - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
-- [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
-- [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
-- [Automating the Search for Artificial Life with Foundation Models](https://sakana.ai/asal/)
-- [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
