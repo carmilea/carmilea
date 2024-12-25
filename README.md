@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
+- [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
