@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
+- [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
+- [Ask HN: Why isn&#39;t Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?](https://news.ycombinator.com/item?id=42505519)
 - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
-- [The AI backlash couldn&#39;t have come at a better time](https://www.infoworld.com/article/3626533/the-ai-backlash-couldnt-have-come-at-a-better-time.html)
-- [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
-- [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155)
-- [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
+- [Trying out QvQ – Qwen&#39;s new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
