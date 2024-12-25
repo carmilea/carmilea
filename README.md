@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [T * sin &lpar;t&rpar;&#39; ≈ Ornamented Christmas Tree &lpar;2013&rpar;](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
 - [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
 - [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
-- [Ask HN: Why isn&#39;t Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?](https://news.ycombinator.com/item?id=42505519)
+- [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
-- [Trying out QvQ – Qwen&#39;s new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
