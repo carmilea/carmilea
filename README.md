@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
+- [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
+- [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 - [Ask HN: Resources for General Purpose GPU development on Apple&#39;s M* chips?](https://news.ycombinator.com/item?id=42509730)
-- [Early Christian Writings](https://www.earlychristianwritings.com/index.html)
 - [Three-quarters of the land is drying out, &#39;redefining life on Earth&#39;](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 <!-- BLOG-POST-LIST:END -->
 
