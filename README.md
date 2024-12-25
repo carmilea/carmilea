@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
-- [News for Ruby 3.4.0](https://docs.ruby-lang.org/en/master/NEWS_md.html)
 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
+- [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
