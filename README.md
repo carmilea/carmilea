@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
+- [Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
+- [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
 - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
-- [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
-- [Ask HN: Resources for General Purpose GPU development on Apple&#39;s M* chips?](https://news.ycombinator.com/item?id=42509730)
-- [Three-quarters of the land is drying out, &#39;redefining life on Earth&#39;](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
