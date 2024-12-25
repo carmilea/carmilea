@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
-- [Solar, EVs and a Big Exit from Coal: 2024&#39;s Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)
+- [A Taping of &#39;Curb Your Enthusiasm&#39; Saved an Innocent Man from Death Row &lpar;2017&rpar;](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
 - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
 - [T * sin &lpar;t&rpar;&#39; ≈ Ornamented Christmas Tree &lpar;2013&rpar;](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
 <!-- BLOG-POST-LIST:END -->
