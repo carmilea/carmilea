@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Resources for General Purpose GPU development on Apple&#39;s M* chips?](https://news.ycombinator.com/item?id=42509730)
+- [Three-quarters of the land is drying out, &#39;redefining life on Earth&#39;](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
-- [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
-- [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
-- [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
-- [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
+- [Ants vs. Humans: Putting Group Smarts to the Test](https://wis-wander.weizmann.ac.il/space-physics/ants-vs-humans-putting-group-smarts-test)
+- [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
