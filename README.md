@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
+- [Ask HN: Practical Tips to Stay Productive?](https://news.ycombinator.com/item?id=42508587)
 - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
-- [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
-- [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
