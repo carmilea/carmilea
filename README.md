@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)
+- [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
+- [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 - [Gondwanaland: The search for a land before &lpar;human&rpar; time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
 - [Ocular AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
-- [I&#39;ve made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
-- [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
-- [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
