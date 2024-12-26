@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
 - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
 - [Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
-- [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
-- [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
+- [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
