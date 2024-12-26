@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
 - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 - [Ghostty 1.0](https://ghostty.org/)
 - [Write a Shell in C &lpar;2015&rpar;](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
-- [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
