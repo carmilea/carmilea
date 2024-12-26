@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
+- [Ask HN: How do you maintain personal annotations for code you don&#39;t control?](https://news.ycombinator.com/item?id=42514803)
 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
