@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
-- [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
-- [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
+- [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
