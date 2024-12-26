@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
+- [Coccinelle](https://docs.kernel.org/dev-tools/coccinelle.html)
 - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
 - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
-- [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
-- [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
