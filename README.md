@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)
-- [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
-- [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
-- [Gondwanaland: The search for a land before &lpar;human&rpar; time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
-- [Ocular AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
+- [Ghostty 1.0](https://ghostty.org/)
+- [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
+- [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
+- [The Semver Trick](https://github.com/dtolnay/semver-trick)
+- [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
