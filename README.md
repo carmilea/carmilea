@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
+- [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
+- [Neutron Stars with Less Mass Than a White Dwarf Might Exist](https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/)
 - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
-- [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-- [Ghostty 1.0](https://ghostty.org/)
-- [Write a Shell in C &lpar;2015&rpar;](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-- [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
+- [Sub-pixel distance transform &lpar;2023&rpar;](https://acko.net/blog/subpixel-distance-transform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
