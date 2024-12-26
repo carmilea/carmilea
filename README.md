@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 - [Ghostty 1.0](https://ghostty.org/)
+- [Write a Shell in C &lpar;2015&rpar;](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+- [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
 - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
-- [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
-- [The Semver Trick](https://github.com/dtolnay/semver-trick)
-- [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
