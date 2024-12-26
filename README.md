@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-- [RIP W3C&#39;s HTML working group 1994-2024](https://www.w3.org/groups/wg/htmlwg/)
 - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
-- [Racket School 2019: The &quot;How to Design Languages&quot; Track](https://school.racket-lang.org/2019/plan/)
 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
+- [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
+- [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
+- [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
