@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
-- [Ask HN: How do you maintain personal annotations for code you don&#39;t control?](https://news.ycombinator.com/item?id=42514803)
+- [Thruster – HTTP/2 proxy for Rails apps with built-in Let&#39;s Encrypt and caching](https://github.com/basecamp/thruster)
 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
