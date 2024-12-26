@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gondwanaland: The search for a land before &lpar;human&rpar; time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
+- [Ocular AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
+- [I&#39;ve made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
 - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
-- [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)
 - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
-- [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
-- [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
