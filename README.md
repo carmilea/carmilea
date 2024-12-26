@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
+- [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
 - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
-- [Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
-- [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
