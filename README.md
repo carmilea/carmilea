@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
 - [Ask HN: How do you maintain personal annotations for code you don&#39;t control?](https://news.ycombinator.com/item?id=42514803)
 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
-- [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
