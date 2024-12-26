@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
+- [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
-- [Coccinelle](https://docs.kernel.org/dev-tools/coccinelle.html)
 - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
 - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
-- [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
