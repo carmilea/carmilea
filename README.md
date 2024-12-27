@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
+- [Why OpenAI&#39;s Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
+- [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
+- [Confession: I Barely Use Web3](https://research.auditless.com/p/al-89-confession-i-barely-use-web3)
 - [Harper &lpar;YC W25&rpar; Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
-- [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
-- [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
-- [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
-- [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
