@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: NeatShift – Organize Windows files with symbolic links](https://github.com/BytexGrid/NeatShift)
 - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
+- [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
+- [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
 - [NASA&#39;s Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
-- [Show HN: I Made a Web App to Bring Children&#39;s Drawings to Life](https://doodledreams.cc)
-- [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
-- [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
