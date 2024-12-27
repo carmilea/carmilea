@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
+- [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
+- [Fatty acid amides present in Camembert cheese improved cognitive decline](https://www.sciencedirect.com/science/article/pii/S0168010224000403)
 - [Show HN: NeatShift – Organize Windows files with symbolic links](https://github.com/BytexGrid/NeatShift)
-- [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
-- [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
-- [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
-- [NASA&#39;s Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
+- [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
 <!-- BLOG-POST-LIST:END -->
 
 ---
