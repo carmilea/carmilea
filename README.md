@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
-- [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
-- [PQConnect – Automated Post-Quantum End-to-End Tunnels from DJB, Lange, ohters.](https://www.pqconnect.net/)
-- [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
-- [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
+- [VW Suffers Major Breach Exposing Location of 800k Electric Vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
+- [Parents of OpenAI Whistleblower Don&#39;t Believe He Died by Suicide, Order Autopsy](https://sfist.com/2024/12/26/parents-of-openai-whistleblower-dont-believe-he-died-by-suicide-order-second-autopsy/)
+- [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
+- [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
+- [Complain and Propose](https://tidyfirst.substack.com/p/complain-and-propose)
 <!-- BLOG-POST-LIST:END -->
 
 ---
