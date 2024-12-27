@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Tongue-in-Cheek Look Back at Broderbund&#39;s &#39;The Print Shop&#39;](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
+- [Thermodynamic model identifies how gold reaches Earth&#39;s surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
 - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 - [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
 - [Neutron Stars with Less Mass Than a White Dwarf Might Exist](https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/)
-- [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
-- [Sub-pixel distance transform &lpar;2023&rpar;](https://acko.net/blog/subpixel-distance-transform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
