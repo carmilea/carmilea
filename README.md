@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denmark Offers to Buy USA &lpar;2019&rpar;](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)
+- [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
 - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
-- [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
+- [From Pen and Paper to an AI Factory: McLaren&#39;s F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
