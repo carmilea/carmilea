@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 - [NASA&#39;s Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
+- [Show HN: I Made a Web App to Bring Children&#39;s Drawings to Life](https://doodledreams.cc)
 - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
 - [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
-- [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
-- [Tesla Light Show XLights Guide](https://github.com/teslamotors/light-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
