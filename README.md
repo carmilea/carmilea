@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denmark Offers to Buy USA &lpar;2019&rpar;](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)
+- [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
+- [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
+- [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
-- [Why OpenAI&#39;s Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
-- [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
-- [Confession: I Barely Use Web3](https://research.auditless.com/p/al-89-confession-i-barely-use-web3)
-- [Harper &lpar;YC W25&rpar; Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
