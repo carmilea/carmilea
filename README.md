@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harper &lpar;YC W25&rpar; Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
+- [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
-- [Why did so many mid-century designers make children&#39;s books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
-- [Show HN: Map with an LLM](https://godview.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
