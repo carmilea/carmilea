@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany Opened Its Doors to Migrants. Now It&#39;s Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
+- [What can strong engineers do that weak engineers can&#39;t?](https://www.seangoedecke.com/weak-engineers/)
 - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
+- [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 - [Why did so many mid-century designers make children&#39;s books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
-- [Show HN: Map with an LLM](https://godview.ai)
-- [Search ArXiv Fluidly](https://searchthearxiv.com/)
-- [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
