@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 - [Why did so many mid-century designers make children&#39;s books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
+- [Show HN: Map with an LLM](https://godview.ai)
+- [Search ArXiv Fluidly](https://searchthearxiv.com/)
 - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
-- [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
-- [Thermodynamic model identifies how gold reaches Earth&#39;s surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
