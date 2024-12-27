@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Map with an LLM](https://godview.ai)
+- [Why Did So Many Mid-Century Designers Make Children&#39;s Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
 - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 - [A Tongue-in-Cheek Look Back at Broderbund&#39;s &#39;The Print Shop&#39;](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
 - [Thermodynamic model identifies how gold reaches Earth&#39;s surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
