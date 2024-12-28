@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
+- [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 - [Ada&#39;s Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
+- [PCIe trouble with 4TB Crucial T500 NVMe SSD for &gt;1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 - [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)
-- [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
-- [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
-- [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
