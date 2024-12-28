@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
+- [Free Software Needs Free Tools &lpar;2010&rpar;](https://mako.cc/writing/hill-free_tools.html)
 - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 - [Ada&#39;s Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 - [PCIe trouble with 4TB Crucial T500 NVMe SSD for &gt;1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
