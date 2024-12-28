@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)
 - [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
-- [Carlsen Disqualified from World Rapid and Blitz Championship for Wearing Jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
-- [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
+- [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
