@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
+- [My history with Forth and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
 - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Spotify Shuts Down ‘Unwrapped’ Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
