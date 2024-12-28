@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
+- [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
+- [Intel&#39;s $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 - [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
-- [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
-- [Libero – A Programmer&#39;s Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
-- [Google&#39;s Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
-- [My history with Forth and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
 <!-- BLOG-POST-LIST:END -->
 
 ---
