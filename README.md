@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix tells writers to have characters &quot;announce what they&#39;re doing&quot;](https://www.worldofreel.com/blog/2024/12/27/netflix-tells-writers-to-have-characters-announce-what-theyre-doing-just-in-case-viewer-is-busy-doing-something-else)
+- [The Nvidia Way – Review of Tae Kim&#39;s New Book](https://thechipletter.substack.com/p/the-nvidia-way)
 - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 - [Free Software Needs Free Tools &lpar;2010&rpar;](https://mako.cc/writing/hill-free_tools.html)
-- [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 - [Ada&#39;s dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
-- [PCIe trouble with 4TB Crucial T500 NVMe SSD for &gt;1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
