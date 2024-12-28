@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
+- [Libero – A Programmer&#39;s Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
 - [Google&#39;s Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
-- [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)
 - [My history with Forth and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
+- [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
