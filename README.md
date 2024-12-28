@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
+- [U.S. homelessness jumps to record high amid affordable housing shortage](https://www.npr.org/2024/12/27/nx-s1-5241115/us-homeless-hud-housing-costs-migrants)
 - [My history with Forth and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
-- [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
-- [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
