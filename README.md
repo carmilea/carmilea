@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google&#39;s Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
-- [U.S. homelessness jumps to record high amid affordable housing shortage](https://www.npr.org/2024/12/27/nx-s1-5241115/us-homeless-hud-housing-costs-migrants)
 - [My history with Forth and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
 - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
+- [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
