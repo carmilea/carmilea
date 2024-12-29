@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 - [I Was Wrong about the Ethics Crisis &lpar;Moshe Vardi, CACM&rpar;](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
-- [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
+- [BSD kqueue is a mountain of technical debt &lpar;2021&rpar;](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
-- [We&#39;ve not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
-- [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
+- [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
