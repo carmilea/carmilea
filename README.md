@@ -61,8 +61,8 @@
 - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
 - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-- [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 - [Personal Mail Server on OpenBSD &lpar;2019&rpar;](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
+- [Jeju Air Jet Crashes in South Korea With Over 170 Dead or Missing](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
