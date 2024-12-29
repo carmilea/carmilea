@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
+- [Tools to Consider for Your Next Django Project](https://thinkingbytes.co.uk/posts/favourite-django-tools/)
+- [I&#39;m trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
+- [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
 - [We&#39;ve not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
-- [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
-- [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
-- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-- [Personal Mail Server on OpenBSD &lpar;2019&rpar;](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
