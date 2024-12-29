@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Was Wrong about the Ethics Crisis &lpar;Moshe Vardi, CACM&rpar;](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
-- [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
-- [I don&#39;t do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 - [We&#39;ve not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
+- [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 <!-- BLOG-POST-LIST:END -->
 
 ---
