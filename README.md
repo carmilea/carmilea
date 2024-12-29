@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 - [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
-- [Tools to Consider for Your Next Django Project](https://thinkingbytes.co.uk/posts/favourite-django-tools/)
 - [I&#39;m trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
-- [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
+- [McKinsey Destroyed the Middle Class &lpar;2020&rpar;](https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/)
 - [We&#39;ve not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 <!-- BLOG-POST-LIST:END -->
 
