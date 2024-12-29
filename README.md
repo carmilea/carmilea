@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [President Jimmy Carter has passed away](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
+- [Stripe V2](https://brandur.org/fragments/stripe-v2)
+- [&#39;No Problem&#39; Word Processor Poses a Problem for Former President Carter &lpar;1981&rpar;](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
+- [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
+- [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
-- [Are PC hardware companies driving technology into restricted closed ecosystems?](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
-- [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
-- [I was wrong about the ethics crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
