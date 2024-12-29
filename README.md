@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
+- [The Global Loss of the U-Shaped Curve of Happiness](https://www.afterbabel.com/p/youth-health-declines-82-countries)
+- [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
+- [Finding and exploiting hidden features of Animal Crossing&#39;s NES emulator](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
 - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
 - [Intel&#39;s $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
-- [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
-- [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
 <!-- BLOG-POST-LIST:END -->
 
 ---
