@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Mail Server on OpenBSD](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
-- [Plane Crashes at South Korea Airport, Killing at Least 28](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
+- [Personal Mail Server on OpenBSD &lpar;2019&rpar;](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
 - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
 - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
+- [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
 - [Finding and exploiting hidden features of Animal Crossing&#39;s NES emulator &lpar;2018&rpar;](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
 <!-- BLOG-POST-LIST:END -->
 
