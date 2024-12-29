@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What a World Growing Older Fast Means for Investing](https://www.bloomberg.com/news/articles/2024-05-21/what-a-world-growing-older-fast-means-for-investing)
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 - [Personal Mail Server on OpenBSD &lpar;2019&rpar;](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
 - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
-- [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
