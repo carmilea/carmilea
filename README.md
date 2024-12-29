@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
 - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 - [I Was Wrong about the Ethics Crisis &lpar;Moshe Vardi, CACM&rpar;](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 - [BSD kqueue is a mountain of technical debt &lpar;2021&rpar;](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
-- [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
