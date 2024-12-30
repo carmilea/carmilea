@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pincites &lpar;YC S23&rpar; is hiring a founding engineer to build legal AI agents &lpar;Remote&rpar;](https://www.ycombinator.com/companies/pincites/jobs)
+- [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
+- [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
+- [Limits to Growth &lpar;1972&rpar;](http://bit-player.org/extras/limits/)
 - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
-- [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
-- [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
-- [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
-- [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
