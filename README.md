@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
+- [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
+- [The Cody Computer](https://www.codycomputer.org/)
+- [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
-- [&#39;No Problem&#39; Word Processor Poses a Problem for Former President Carter &lpar;1981&rpar;](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
-- [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
-- [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
-- [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
