@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
+- [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)
 - [Passkey technology is elegant, but it&#39;s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
+- [What is it like to be a thermostat?](https://annakaharris.com/chalmers/)
 - [Pincites &lpar;YC S23&rpar; is hiring a founding engineer to build legal AI agents &lpar;Remote&rpar;](https://www.ycombinator.com/companies/pincites/jobs)
-- [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
-- [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
-- [Limits to Growth &lpar;1972&rpar;](http://bit-player.org/extras/limits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
