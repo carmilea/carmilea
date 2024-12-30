@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+- [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 - [&#39;ruthlessly imaginative&#39; 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
 - [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
 - [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
-- [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
-- [The Cody Computer](https://www.codycomputer.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
