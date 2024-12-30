@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC Orders &#39;Gun Detection&#39; Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
+- [Rite Aid&#39;s &#39;Zombie&#39; stores take over America](https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632)
 - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 - [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)
-- [Passkey technology is elegant, but it&#39;s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
-- [What is it like to be a thermostat?](https://annakaharris.com/chalmers/)
-- [Pincites &lpar;YC S23&rpar; is hiring a founding engineer to build legal AI agents &lpar;Remote&rpar;](https://www.ycombinator.com/companies/pincites/jobs)
+- [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
