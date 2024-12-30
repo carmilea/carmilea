@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
 - [FTC Orders &#39;Gun Detection&#39; Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
-- [Rite Aid&#39;s &#39;Zombie&#39; stores take over America](https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632)
+- [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
+- [After 30 years, FDA overhauls guideline for the claim &quot;Healthy&quot; on food packages](https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56)
 - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
-- [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)
-- [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
