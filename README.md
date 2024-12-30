@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
 - [FTC Orders &#39;Gun Detection&#39; Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
 - [After 30 years, FDA overhauls guideline for the claim &quot;Healthy&quot; on food packages](https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56)
-- [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
