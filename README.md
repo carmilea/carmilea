@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
+- [QR-style codes could replace barcodes &#39;within two years&#39;](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
-- [FTC Orders &#39;Gun Detection&#39; Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
-- [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
-- [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
+- [FTC orders &#39;gun detection&#39; tech maker Evolv to stop overstating effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
