@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
+- [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
+- [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
+- [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
 - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
-- [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
-- [Archibald Low&#39;s ‘ruthlessly imaginative’ 1925 predictions come true, mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
-- [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
-- [Neuters: Lightweight front end to Reuters News](https://neuters.de/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
