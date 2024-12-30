@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;A Course of Pure Mathematics&quot; – G. H. Hardy &lpar;1921&rpar; [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 - [Jack Elam and the Fly in &#39;Once Upon a Time in the West&#39;](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
-- [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
+- [Database mocks are not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
-- [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
