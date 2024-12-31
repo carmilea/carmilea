@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: TLS 1.3 and Post-Quantum Encryption for HN?](https://news.ycombinator.com/item?id=42555328)
+- [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
+- [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
+- [Cook: Colliding with the SHA prefix of Linux&#39;s initial Git commit](https://lwn.net/Articles/1003797/)
 - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
-- [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
-- [&quot;A Course of Pure Mathematics&quot; – G. H. Hardy &lpar;1921&rpar; [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
-- [Jack Elam and the Fly in &#39;Once Upon a Time in the West&#39;](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
-- [Database mocks are not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
