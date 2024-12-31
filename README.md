@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
+- [Legion Health &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
+- [Show HN: Watch 3 AIs compete in real-time stock trading &lpar;$5/trade&rpar;](https://trading.snagra.com)
+- [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
-- [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
-- [Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
