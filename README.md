@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Interview with DeepSeek&#39;s CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 - [U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 - [Dog Aging Project](https://dogagingproject.org/)
 - [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
-- [Orbit by Mozilla](https://orbitbymozilla.com/)
-- [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
+- [App Should Have Been a Website &lpar;and Probably Your Game Too&rpar;](https://rogueengine.io/blog/your-app-should-have-been-a-website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
