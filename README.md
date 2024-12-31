@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 - [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 - [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
-- [Arnis: Generate Cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
+- [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
-- [Dinner for One: British comedy Germans have been laughing at for years &lpar;2018&rpar;](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
