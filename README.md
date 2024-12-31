@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: TLS 1.3 and Post-Quantum Encryption for HN?](https://news.ycombinator.com/item?id=42555328)
+- [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
+- [Orbit. Mozilla&#39;s AI Assistant for Firefox](https://orbitbymozilla.com/)
+- [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
 - [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
 - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
-- [Cook: Colliding with the SHA prefix of Linux&#39;s initial Git commit](https://lwn.net/Articles/1003797/)
-- [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
