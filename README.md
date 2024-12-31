@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
-- [Interesting Interview with DeepSeek&#39;s CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
+- [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+- [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
+- [Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 - [U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 - [Dog Aging Project](https://dogagingproject.org/)
-- [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
