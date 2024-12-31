@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD is automaker with the most R&amp;D staff in the world](https://electrek.co/2024/09/13/byd-worlds-largest-automaker-rd-workforce/)
 - [T2x – a CLI tool for AI-first text operations](https://www.shruggingface.com/microblog/2024/11/28/t2x-a-cli-tool-for-ai-first-text-operations)
 - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
 - [Orbit by Mozilla](https://orbitbymozilla.com/)
 - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
+- [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
