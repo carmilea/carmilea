@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 - [Dinner for One: the British comedy Germans have been laughing at for years&lpar;2018&rpar;](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
 - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
-- [Show HN: Watch 3 AIs compete in real-time stock trading &lpar;$5/trade&rpar;](https://trading.snagra.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
