@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
 - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+- [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 - [Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
-- [U.S. Army Soldier Arrested in AT&amp;T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
-- [Dog Aging Project](https://dogagingproject.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
