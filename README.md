@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
+- [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
 - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
-- [Signalling chaos: Inside the Elizabeth line&#39;s two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
 - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
 <!-- BLOG-POST-LIST:END -->
 
