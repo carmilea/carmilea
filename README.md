@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla replaces laid-off U.S. workers with foreigners using visas pushed by Musk](https://www.msn.com/en-ca/autos/electric-cars/tesla-replaces-laid-off-u-s-workers-with-foreigners-using-visas-pushed-by-musk-report/ar-AA1wILAQ)
+- [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
+- [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
-- [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
-- [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
