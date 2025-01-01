@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 - [How and Why I Stopped Buying New Laptops &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
 - [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
-- [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
-- [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
+- [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
