@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
 - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
-- [How and Why I Stopped Buying New Laptops &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
+- [2025 Banished Words List](https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/)
 - [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
-- [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
