@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
+- [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
+- [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
 - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
-- [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 - [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
-- [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
-- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
