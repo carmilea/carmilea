@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How extreme car dependency is driving Americans to unhappiness](https://www.theguardian.com/us-news/2024/dec/29/extreme-car-dependency-unhappiness-americans)
 - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 - [Keeper &lpar;YC S21&rpar; Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
-- [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
-- [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
-- [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
+- [A. A. Milne&#39;s Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
+- [The Magic of Metalinguistic Programming](https://ericnormand.substack.com/p/the-magic-of-metalinguistic-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
