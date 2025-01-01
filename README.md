@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
+- [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
 - [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
-- [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
-- [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
