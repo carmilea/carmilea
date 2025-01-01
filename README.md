@@ -61,7 +61,7 @@
 - [Signalling chaos: Inside the Elizabeth line&#39;s two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
 - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
 - [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
-- [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
+- [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750)
 - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 <!-- BLOG-POST-LIST:END -->
 
