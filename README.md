@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How extreme car dependency is driving Americans to unhappiness](https://www.theguardian.com/us-news/2024/dec/29/extreme-car-dependency-unhappiness-americans)
+- [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
+- [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
+- [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 - [Keeper &lpar;YC S21&rpar; Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
-- [A. A. Milne&#39;s Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
-- [The Magic of Metalinguistic Programming](https://ericnormand.substack.com/p/the-magic-of-metalinguistic-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
