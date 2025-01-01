@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy of Photos.app&#39;s Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
 - [In Search of Types &lpar;2014&rpar; [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
+- [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
 - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
-- [When the Lore Defeated the Law](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
+- [How the lore of New Year defeated the law of New Year](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
 - [Show HN: GitHub-style screen time visualizer on iOS](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807)
 <!-- BLOG-POST-LIST:END -->
 
