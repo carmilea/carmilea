@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla replaces laid-off U.S. workers with foreigners using visas pushed by Musk](https://www.msn.com/en-ca/autos/electric-cars/tesla-replaces-laid-off-u-s-workers-with-foreigners-using-visas-pushed-by-musk-report/ar-AA1wILAQ)
+- [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
-- [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
-- [Keeper &lpar;YC S21&rpar; Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
