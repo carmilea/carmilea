@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
-- [Spirituality Is Secure Attachment with Reality](https://intimatemirror.substack.com/p/spirituality-is-secure-attachment)
-- [The Cybertruck that exploded and the New Orleans vehicle both rented using Turo](https://www.businessinsider.com/turo-rental-app-used-cybertruck-las-vegas-new-orleans-attack-2025-1)
-- [Blogs rot. Wikis wait](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
-- [Exercise may be the &#39;most potent medical intervention ever known&#39;](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
+- [What’s New in SingleStore 8.9?](https://www.singlestore.com/blog/new-in-singlestore-8-9)
+- [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
+- [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
+- [Database Trends of 2024: What You Missed and Why It Matters](https://www.singlestore.com/blog/database-trends-of-2024)
+- [Leveraging the Simplicity of Scheduled Jobs](https://www.singlestore.com/blog/leveraging-the-simplicity-of-scheduled-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
