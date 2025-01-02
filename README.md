@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
 - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 - [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
 - [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-- [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
-- [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+- [Are there more trees on Earth than stars in the Milky Way? &lpar;2016&rpar;](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
