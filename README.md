@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
+- [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 - [iTerm2 Critical Security Release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 - [Unifying the Technical Interview &lpar;2020&rpar;](https://aphyr.com/posts/354-unifying-the-technical-interview)
-- [U.S. Appeals Court Strikes Down FCC&#39;s Net Neutrality Rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
-- [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
