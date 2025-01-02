@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s New in SingleStore 8.9?](https://www.singlestore.com/blog/new-in-singlestore-8-9)
-- [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
-- [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
-- [Database Trends of 2024: What You Missed and Why It Matters](https://www.singlestore.com/blog/database-trends-of-2024)
-- [Leveraging the Simplicity of Scheduled Jobs](https://www.singlestore.com/blog/leveraging-the-simplicity-of-scheduled-jobs)
+- [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
+- [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
+- [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
+- [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
+- [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
