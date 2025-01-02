@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Connecting a Node js App To SingleStore | SingleStore Tutorials](https://www.youtube.com/watch?v=jF1Q_qoaZAY)
-- [Adding a Database To A NodeJS | SingleStore Tutorials](https://www.youtube.com/watch?v=JN5WxhF1cc0)
-- [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=XhITcpn_nOE)
-- [Get Started with SingleStore using Docker](https://www.youtube.com/watch?v=i1aLnZOPtJM)
-- [Getting Started with SingleStore Cloud](https://www.youtube.com/watch?v=v4WzNwuCPcc)
+- [Boost Your Customer Conversions: 500% Growth Secrets!](https://www.youtube.com/watch?v=4n8S6AWwLXk)
+- [Unlocking Developer Productivity: Harnessing Generative AI for Engineers!](https://www.youtube.com/watch?v=Uu1JcKcPCo0)
+- [Unlocking Developer Power : Transforming Customer Experience!](https://www.youtube.com/watch?v=N0rfjfTQCMc)
+- [Simplifying AI and Cloud Solutions for Users!](https://www.youtube.com/watch?v=yTAW9teyH0o)
+- [CROs&#39; Ideal Insights: Navigating Tough Revenue Forecasting!](https://www.youtube.com/watch?v=fjsf9Gdn94Y)
 <!-- YOUTUBE:END -->
 
 
