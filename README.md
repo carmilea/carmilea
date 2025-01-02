@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
+- [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Cloud Efficiency at Netflix](https://netflixtechblog.com/cloud-efficiency-at-netflix-f2a142955f83)
 - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
-- [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
-- [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
-- [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
-- [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
