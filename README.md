@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogs Rot. Wikis Wait.](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
+- [Exercise may be the &#39;most potent medical intervention ever known&#39;](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
 - [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
 - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-- [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
-- [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
 - [Are there more trees on Earth than stars in the Milky Way? &lpar;2016&rpar;](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 <!-- BLOG-POST-LIST:END -->
 
