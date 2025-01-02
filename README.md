@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 - [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
 - [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-- [Signalens&#39; SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 - [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 <!-- BLOG-POST-LIST:END -->
