@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Design, Build and Deploy AI-Powered Personalization Engines](https://www.singlestore.com/blog/design-build-and-deploy-ai-powered-personalization-engines)
-- [The Accidental Invention of the Snow Globe &lpar;2024&rpar;](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
-- [A Private Life – Nikolai Tolstoy Remembers Patrick O&#39;Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
-- [What Is miniKanren?](http://minikanren.org/)
-- [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
+- [Distro &lpar;YC S24&rpar; Is Hiring a Business Development Representative &lpar;BDR&rpar;](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
+- [Diagnosing an Unusual WiFi Issue](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
+- [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
+- [Notes on the New Deepseek v3](https://composio.dev/blog/notes-on-new-deepseek-v3/)
+- [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
