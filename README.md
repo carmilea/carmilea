@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Boost Your Customer Conversions: 500% Growth Secrets!](https://www.youtube.com/watch?v=4n8S6AWwLXk)
-- [Unlocking Developer Productivity: Harnessing Generative AI for Engineers!](https://www.youtube.com/watch?v=Uu1JcKcPCo0)
-- [Unlocking Developer Power : Transforming Customer Experience!](https://www.youtube.com/watch?v=N0rfjfTQCMc)
-- [Simplifying AI and Cloud Solutions for Users!](https://www.youtube.com/watch?v=yTAW9teyH0o)
-- [CROs&#39; Ideal Insights: Navigating Tough Revenue Forecasting!](https://www.youtube.com/watch?v=fjsf9Gdn94Y)
+- [Revolutionizing Knowledge Work: Automate Reports Easily!](https://www.youtube.com/watch?v=K8NLHYoMCac)
+- [Unlocking Success: The Power of Fast Learning in Business!](https://www.youtube.com/watch?v=os0kKLmLNqY)
+- [Unleashing SAS Viya: The Ultimate AI Development Platform!](https://www.youtube.com/watch?v=5m5abAyakcQ)
+- [The Impact of AI Bias on Productivity and Performance!](https://www.youtube.com/watch?v=TY3zMt8O8M0)
+- [Revolutionizing Data Management: AI Powered Solutions!](https://www.youtube.com/watch?v=XaQ_Y6dolT8)
 <!-- YOUTUBE:END -->
 
 
