@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design, Build and Deploy AI-Powered Personalization Engines](https://www.singlestore.com/blog/design-build-and-deploy-ai-powered-personalization-engines)
+- [The Accidental Invention of the Snow Globe &lpar;2024&rpar;](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
+- [A Private Life – Nikolai Tolstoy Remembers Patrick O&#39;Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 - [What Is miniKanren?](http://minikanren.org/)
 - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
-- [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
-- [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
-- [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
