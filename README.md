@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlasticList&#39;s Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
+- [Tell HN: Impassable Cloudflare challenges are ruining my browsing experience](https://news.ycombinator.com/item?id=42577076)
 - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
 - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
-- [Ask HN: Share your &quot;LLM screwed us over&quot; stories?](https://news.ycombinator.com/item?id=42576647)
 - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
-- [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
