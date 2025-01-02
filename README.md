@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi global bootloader unlock policy has changed](https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/)
 - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
-- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
