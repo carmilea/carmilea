@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is miniKanren?](http://minikanren.org/)
+- [Over 3.1M fake &quot;stars&quot; on GitHub projects used to boost rankings](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
 - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
-- [Xiaomi global bootloader unlock policy has changed](https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/)
 - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
-- [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
