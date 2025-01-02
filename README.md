@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Search of Types &lpar;2014&rpar; [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
-- [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
-- [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
-- [How the lore of New Year defeated the law of New Year](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
-- [Show HN: GitHub-style screen time visualizer on iOS](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807)
+- [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
+- [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
+- [Signalens&#39; SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
+- [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
+- [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
