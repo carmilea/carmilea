@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
+- [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
+- [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
 - [PlasticList&#39;s Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 - [Tell HN: Impassable Cloudflare challenges are ruining my browsing experience](https://news.ycombinator.com/item?id=42577076)
-- [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
-- [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
-- [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
