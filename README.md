@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogs Rot. Wikis Wait.](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
+- [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
+- [Spirituality Is Secure Attachment with Reality](https://intimatemirror.substack.com/p/spirituality-is-secure-attachment)
+- [The Cybertruck that exploded and the New Orleans vehicle both rented using Turo](https://www.businessinsider.com/turo-rental-app-used-cybertruck-las-vegas-new-orleans-attack-2025-1)
+- [Blogs rot. Wikis wait](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
 - [Exercise may be the &#39;most potent medical intervention ever known&#39;](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
-- [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
-- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-- [Are there more trees on Earth than stars in the Milky Way? &lpar;2016&rpar;](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
