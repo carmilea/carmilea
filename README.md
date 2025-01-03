@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
+- [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
+- [I still don&#39;t think companies serve you ads based on your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 - [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
