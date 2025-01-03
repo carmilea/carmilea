@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
+- [Her Treatment Was Helping. That&#39;s Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 - [Two Turntables and a Microphone &lpar;2006&rpar;](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 - [OnlyFangs has made &#39;World of Warcraft&#39; into Twitch&#39;s best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
-- [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
