@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Her Treatment Was Helping. That&#39;s Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
+- [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
-- [Two Turntables and a Microphone &lpar;2006&rpar;](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
-- [OnlyFangs has made &#39;World of Warcraft&#39; into Twitch&#39;s best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
+- [Triangulation of a polyline with thickness &lpar;a.k.a. line strip&rpar;](https://jvernay.fr/en/blog/polyline-triangulation/)
+- [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code &lpar;2020&rpar;](https://github.com/s-macke/VoxelSpace)
+- [Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?](https://news.ycombinator.com/item?id=42588748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
