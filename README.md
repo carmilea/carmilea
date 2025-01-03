@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
+- [Time to check if you ran any of these malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 - [CoinTracker &lpar;YC W18&rpar; hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-- [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
-- [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
-- [Can LLMs write better code if you keep asking them to &quot;write better code&quot;?](https://minimaxir.com/2025/01/write-better-code/)
+- [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
+- [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
+- [Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
