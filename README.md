@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
-- [Let&#39;s Encrypt to end OCSP support in 2025](https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/)
-- [Mandelbrot deep zoom theory and practice &lpar;2021&rpar;](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
-- [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
-- [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
+- [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity &lpar;2021&rpar;](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
+- [Arketa &lpar;YC S20&rpar; Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
+- [Harnessing 3200 Gbps Network: A Journey with RDMA, EFA, and Libfabric](https://le.qun.ch/en/blog/2024/12/25/libfabric-efa-0-intro/)
+- [Savoy Style vs. Hollywood Style: A Fight to the Death &lpar;Hopefully?&rpar; &lpar;2011&rpar;](https://swungover.wordpress.com/2011/06/15/savoy-style-vs-hollywood-style-a-fight-to-the-death-hopefully/)
+- [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
