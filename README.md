@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
 - [Two Turntables and a Microphone &lpar;2006&rpar;](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
+- [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
 - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity &lpar;2021&rpar;](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
 - [SpaceSim](https://pavelsevecek.github.io/)
 - [Arketa &lpar;YC S20&rpar; Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
