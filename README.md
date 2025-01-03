@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
 - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
-- [iTerm2 Critical Security Release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
+- [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Unifying the Technical Interview &lpar;2020&rpar;](https://aphyr.com/posts/354-unifying-the-technical-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
