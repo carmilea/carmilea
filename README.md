@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
+- [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 - [Two Turntables and a Microphone &lpar;2006&rpar;](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
+- [OnlyFangs has made &#39;World of Warcraft&#39; into Twitch&#39;s best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
 - [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
-- [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity &lpar;2021&rpar;](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
-- [SpaceSim](https://pavelsevecek.github.io/)
-- [Arketa &lpar;YC S20&rpar; Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
