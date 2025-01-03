@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
 - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
 - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
-- [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
