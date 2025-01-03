@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid 5 years later: Learning from a pandemic many are forgetting](https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting)
+- [Digital gardens people maintain outside the &quot;Big Tech&quot; walled gardens](https://blogscroll.com/)
 - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
-- [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
 - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
-- [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
