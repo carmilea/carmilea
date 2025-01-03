@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Time to check if you ran any of these malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 - [CoinTracker &lpar;YC W18&rpar; hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-- [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
+- [K/Simple in OCaml](https://git.uwaterloo.ca/lseo/ksimple_ml)
 - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
-- [Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
+- [Laser mapping reveals oldest Amazonian cities, built 2500 years ago &lpar;2024&rpar;](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
+- [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
