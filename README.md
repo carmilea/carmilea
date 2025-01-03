@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CoinTracker &lpar;YC W18&rpar; hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-- [K/Simple in OCaml](https://git.uwaterloo.ca/lseo/ksimple_ml)
-- [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
-- [Laser mapping reveals oldest Amazonian cities, built 2500 years ago &lpar;2024&rpar;](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
-- [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
+- [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
+- [Let&#39;s Encrypt to end OCSP support in 2025](https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/)
+- [Mandelbrot deep zoom theory and practice &lpar;2021&rpar;](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
+- [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
+- [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
 <!-- BLOG-POST-LIST:END -->
 
 ---
