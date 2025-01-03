@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A path to O1 open source](https://arxiv.org/abs/2412.14135)
 - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 - [Triangulation of a polyline with thickness &lpar;a.k.a. line strip&rpar;](https://jvernay.fr/en/blog/polyline-triangulation/)
 - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code &lpar;2020&rpar;](https://github.com/s-macke/VoxelSpace)
-- [Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?](https://news.ycombinator.com/item?id=42588748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
