@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;A Digital Prison&quot;: Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
-- [UK ICO response to Google&#39;s policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
-- [Laser mapping reveals oldest Amazonian cities, built 2500 years ago](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
-- [Digital gardens people maintain outside the &quot;Big Tech&quot; walled gardens](https://blogscroll.com/)
-- [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
+- [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
+- [CoinTracker &lpar;YC W18&rpar; hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
+- [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
+- [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
+- [Can LLMs write better code if you keep asking them to &quot;write better code&quot;?](https://minimaxir.com/2025/01/write-better-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
