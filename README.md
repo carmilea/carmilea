@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Signify – FOSS tool to generate Email signatures &lpar;HTML and PNG&rpar;](https://signify.difuse.io)
+- [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
+- [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 - [Killing Orson Welles at Midnight &lpar;2011&rpar;](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
 - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
-- [A Return to Polymathy &lpar;2015&rpar; [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
-- [US newspapers are deleting old crime stories, offering subjects a &#39;clean slate&#39;](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
