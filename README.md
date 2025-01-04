@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)
+- [Wine 10.0 RC4 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0-rc4)
+- [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
+- [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
-- [Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
-- [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
