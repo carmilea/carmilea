@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
 - [Wine 10.0 RC4 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0-rc4)
+- [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)
 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
-- [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
-- [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
