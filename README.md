@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
+- [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- [The Unisys Icon: One Canadian Xennial&#39;s Memories of Ontario&#39;s Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
+- [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
-- [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-- [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
-- [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
-- [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
