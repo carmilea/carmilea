@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-- [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
 - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
+- [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
