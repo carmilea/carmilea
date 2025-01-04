@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
+- [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)
 - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
 - [Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
