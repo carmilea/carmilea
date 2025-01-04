@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US newspapers are deleting old crime stories, offering subjects a &#39;clean slate&#39;](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
+- [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
 - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 - [The Unisys Icon: One Canadian Xennial&#39;s Memories of Ontario&#39;s Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
-- [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
-- [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
