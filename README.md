@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
+- [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
+- [Kids can&#39;t use computers and this is why it should worry you &lpar;2013&rpar;](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
 - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
-- [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [Triangulation of a polyline with thickness &lpar;a.k.a. line strip&rpar;](https://jvernay.fr/en/blog/polyline-triangulation/)
-- [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code &lpar;2020&rpar;](https://github.com/s-macke/VoxelSpace)
+- [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
