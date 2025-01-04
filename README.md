@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Killing Orson Welles at Midnight &lpar;2011&rpar;](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
+- [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 - [A Return to Polymathy &lpar;2015&rpar; [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 - [US newspapers are deleting old crime stories, offering subjects a &#39;clean slate&#39;](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
-- [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 <!-- BLOG-POST-LIST:END -->
 
 ---
