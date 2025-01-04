@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
-- [Show HN: An SSH based utility to transfer pipes across machines – beam](https://github.com/ksdme/beam)
 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
+- [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
 - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 <!-- BLOG-POST-LIST:END -->
