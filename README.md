@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
+- [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
+- [Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
 - [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
 - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
-- [Kids can&#39;t use computers and this is why it should worry you &lpar;2013&rpar;](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
-- [A path to O1 open source](https://arxiv.org/abs/2412.14135)
-- [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
