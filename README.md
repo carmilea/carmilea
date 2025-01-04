@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ohio Puts Police Bodycam Footage Behind a Paywall](https://theintercept.com/2025/01/03/police-body-camera-footage-ohio/)
 - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
 - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
 - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 - [Killing Orson Welles at Midnight &lpar;2011&rpar;](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
+- [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
