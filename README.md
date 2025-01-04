@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
-- [US newspapers are deleting old crime stories, offering subjects a &#39;clean slate&#39;](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
-- [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
-- [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
-- [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- [The Complete Guide to the MongoDB® Aggregate $count Stage](https://www.singlestore.com/blog/the-complete-guide-to-the-mongodb-aggregate-count-stage)
+- [Design, Build and Deploy AI-Powered Personalization Engines](https://www.singlestore.com/blog/design-build-and-deploy-ai-powered-personalization-engines)
+- [What’s New in SingleStore 8.9?](https://www.singlestore.com/blog/new-in-singlestore-8-9)
+- [Agentic RAG with SingleStore](https://www.singlestore.com/blog/agentic-rag-with-singlestore)
+- [From Data to Discovery: AWS re:Invent 2024](https://www.singlestore.com/blog/aws-re-invent-recap-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
