@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
-- [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
-- [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
 - [Ads chew through half of mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
 - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
+- [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
+- [Human study on AI spear phishing campaigns](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
