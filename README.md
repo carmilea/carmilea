@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
+- [Duolicious – Open-source dating app](https://github.com/duolicious)
+- [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
+- [ESET recommends Linux if your unsupported Windows 11 PC can&#39;t update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
+- [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 - [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
-- [Show HN: I built a tool to rank cities based on purchasing power for SWEs](https://www.techcities.app/?baseCity=sf)
-- [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
-- [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
 <!-- BLOG-POST-LIST:END -->
 
 ---
