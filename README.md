@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
-- [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
-- [The largest hydroelectric dam in the world has been approved](https://newatlas.com/energy/yarlung-tsangpo-hydroelectric-project-china/)
-- [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
-- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- [Olympians turn to OnlyFans to fund dreams due to &#39;broken&#39; finance system &lpar;2024&rpar;](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
+- [AI&#39;s next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
+- [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
+- [Learn New Skills](https://www.attejuvonen.fi/learn/)
+- [You Wouldn&#39;t Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
