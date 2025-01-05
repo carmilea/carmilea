@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
+- [The largest hydroelectric dam in the world has been approved](https://newatlas.com/energy/yarlung-tsangpo-hydroelectric-project-china/)
+- [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
 - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
-- [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
 - [How Nat Traversal Works &lpar;2020&rpar;](https://tailscale.com/blog/how-nat-traversal-works)
-- [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
-- [The funniest thing I ever did – a.k.a. &quot;How To Make $100K From A Dick Joke.&quot;](https://imgur.com/gallery/KZ4u3c4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
