@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
+- [The funniest thing I ever did – a.k.a. &quot;How To Make $100K From A Dick Joke.&quot;](https://imgur.com/gallery/KZ4u3c4)
+- [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
+- [Game dev in Rust: a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
-- [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
-- [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
-- [GPON FTTH networks &lpar;in&rpar;security &lpar;2016&rpar;](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
-- [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
