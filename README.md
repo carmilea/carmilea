@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)
+- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
+- [How Nat Traversal Works &lpar;2020&rpar;](https://tailscale.com/blog/how-nat-traversal-works)
 - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 - [The funniest thing I ever did – a.k.a. &quot;How To Make $100K From A Dick Joke.&quot;](https://imgur.com/gallery/KZ4u3c4)
-- [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
-- [Back to basics: Why we chose long-polling over websockets](https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
