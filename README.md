@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plastic crystals could replace greenhouse gases used in refrigerators](https://techxplore.com/news/2025-01-plastic-crystals-greenhouse-gases-refrigerators.html)
+- [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
+- [Web page annoyances that I don&#39;t inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 - [Do Kwon pleads not guilty to US fraud charges in $40B crypto collapse](https://www.reuters.com/legal/former-crypto-executive-do-kwon-due-us-court-criminal-fraud-charges-2025-01-02/)
-- [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
-- [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
+- [University of Alabama Engineer Pioneers New Process for Recycling Plastics &lpar;2024&rpar;](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
