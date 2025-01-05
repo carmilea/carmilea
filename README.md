@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)
 - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 - [The funniest thing I ever did – a.k.a. &quot;How To Make $100K From A Dick Joke.&quot;](https://imgur.com/gallery/KZ4u3c4)
 - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
-- [Game dev in Rust: a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
-- [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
+- [Back to basics: Why we chose long-polling over websockets](https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
