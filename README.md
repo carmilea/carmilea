@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Olympians turn to OnlyFans to fund dreams due to &#39;broken&#39; finance system &lpar;2024&rpar;](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 - [AI&#39;s next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
-- [Learn New Skills](https://www.attejuvonen.fi/learn/)
 - [You Wouldn&#39;t Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+- [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
+- [The Evolution of Tunnel Boring Machines &lpar;2023&rpar;](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
