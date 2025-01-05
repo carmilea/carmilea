@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
+- [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+- [GPON FTTH networks &lpar;in&rpar;security &lpar;2016&rpar;](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
 - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
-- [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
-- [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
-- [Web page annoyances that I don&#39;t inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
