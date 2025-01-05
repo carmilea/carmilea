@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plastic crystals could replace greenhouse gases used in refrigerators](https://techxplore.com/news/2025-01-plastic-crystals-greenhouse-gases-refrigerators.html)
+- [Do Kwon pleads not guilty to US fraud charges in $40B crypto collapse](https://www.reuters.com/legal/former-crypto-executive-do-kwon-due-us-court-criminal-fraud-charges-2025-01-02/)
+- [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
 - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
-- [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
-- [Killing Orson Welles at Midnight &lpar;2011&rpar;](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
-- [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
