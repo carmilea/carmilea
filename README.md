@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
+- [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
+- [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
+- [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
 - [You Wouldn&#39;t Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
-- [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
-- [The Evolution of Tunnel Boring Machines &lpar;2023&rpar;](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
