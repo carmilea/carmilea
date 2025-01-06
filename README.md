@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
+- [DVD shop owner vows to be &#39;last man standing&#39;](https://www.bbc.com/news/articles/cx2wypg7jrdo)
 - [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
 - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring for Multiple Roles &lpar;Remote&rpar;](https://supabase.com/careers)
-- [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
