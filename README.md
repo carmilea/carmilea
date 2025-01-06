@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)
+- [Hacker of the year nominee: Gromit the Dog](https://cybershow.uk/blog/posts/gromit/)
+- [America&#39;s first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html)
 - [Artie &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 - [Triptych Proposals](https://alexanderpetros.com/triptych/)
-- [Used Meta AI, now Instagram is using my face on ads targeted at me](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)
-- [AMD &#39;Strix Halo&#39; Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
-- [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
