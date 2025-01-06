@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lord of the Io_uring](https://unixism.net/loti/index.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring for Multiple Roles &lpar;Remote&rpar;](https://supabase.com/careers)
 - [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
-- [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
