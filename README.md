@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justin Trudeau announces resignation as Canadian prime minister](https://www.bbc.com/news/live/clyjmy7vl64t)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
+- [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
+- [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
+- [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
-- [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
-- [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
-- [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
