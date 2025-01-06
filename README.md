@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer Eats Efficiently](https://futureboy.us/blog/twofifty.html)
 - [Reflections](https://blog.samaltman.com/reflections)
 - [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
 - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
-- [Why America is stuck with an elevator crisis](https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction)
+- [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
+- [Killed by LLM](https://r0bk.github.io/killedbyllm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
