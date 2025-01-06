@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell will no longer make XPS computers](https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/)
+- [AMD &#39;Strix Halo&#39; Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
+- [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
 - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
-- [Software is eating the world, all right &lpar;2024&rpar;](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
-- [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
-- [The Future of Htmx](https://htmx.org/essays/future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
