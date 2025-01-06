@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
 - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
+- [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 - [Show HN: Filter out engagement bait and politics on your X/Twitter feed](https://unbaited.danielpetho.com)
-- [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
-- [Lord of the Io_uring &lpar;2020&rpar;](https://unixism.net/loti/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
