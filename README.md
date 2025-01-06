@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring for Multiple Roles &lpar;Remote&rpar;](https://supabase.com/careers)
+- [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
+- [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
-- [Unemployed office workers are having a harder time finding new jobs](https://www.wsj.com/economy/jobs/job-search-workers-unemployment-months-5a4cfcee)
-- [Printf debugging is ok](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
-- [Engineer eats efficiently for $2.50 a day &lpar;2016&rpar;](https://futureboy.us/blog/twofifty.html)
-- [Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+- [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
