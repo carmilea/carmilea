@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New California law prohibits using AI as basis to deny health insurance claims](https://www.mercurynews.com/2025/01/05/new-california-law-ban-artificial-intelligence-deny-insurance-claims/)
-- [Unemployed Office Workers Are Having a Harder Time Finding New Jobs](https://www.wsj.com/economy/jobs/job-search-workers-unemployment-months-5a4cfcee)
+- [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
+- [Unemployed office workers are having a harder time finding new jobs](https://www.wsj.com/economy/jobs/job-search-workers-unemployment-months-5a4cfcee)
 - [Printf debugging is ok](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 - [Engineer eats efficiently for $2.50 a day &lpar;2016&rpar;](https://futureboy.us/blog/twofifty.html)
-- [Reflections](https://blog.samaltman.com/reflections)
+- [Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
