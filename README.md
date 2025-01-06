@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Htmx](https://htmx.org/essays/future/)
+- [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
+- [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
 - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
-- [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
-- [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
-- [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
