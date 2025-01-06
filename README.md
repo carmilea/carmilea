@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
+- [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 - [Reflections](https://blog.samaltman.com/reflections)
-- [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
 - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
 - [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
-- [Killed by LLM](https://r0bk.github.io/killedbyllm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
