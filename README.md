@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justin Trudeau announces resignation as Canadian prime minister](https://www.bbc.com/news/live/clyjmy7vl64t)
 - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
+- [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
 - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
 - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
-- [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
-- [Show HN: Filter out engagement bait and politics on your X/Twitter feed](https://unbaited.danielpetho.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
