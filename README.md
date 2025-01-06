@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
+- [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
+- [Software is eating the world, all right &lpar;2024&rpar;](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
+- [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
 - [The Future of Htmx](https://htmx.org/essays/future/)
-- [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
-- [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
-- [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
