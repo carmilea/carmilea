@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Computer Scientists Consult Oracles](https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/)
 - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring for Multiple Roles &lpar;Remote&rpar;](https://supabase.com/careers)
-- [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 <!-- BLOG-POST-LIST:END -->
