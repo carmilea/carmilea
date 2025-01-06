@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Duolicious – Open-source dating app](https://github.com/duolicious)
-- [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
-- [ESET recommends Linux if your unsupported Windows 11 PC can&#39;t update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
-- [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
-- [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
+- [Reflections – Sam Altman](https://blog.samaltman.com/reflections)
+- [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+- [Why America is stuck with an elevator crisis](https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction)
+- [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
+- [Killed by LLM](https://r0bk.github.io/killedbyllm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
