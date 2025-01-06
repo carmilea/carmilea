@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)
+- [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
+- [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
+- [Dtack Grounded archive &lpar;1981-1985&rpar;](http://www.easy68k.com/paulrsm/dg/)
 - [Hacker of the year nominee: Gromit the Dog](https://cybershow.uk/blog/posts/gromit/)
 - [America&#39;s first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html)
-- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
-- [Triptych Proposals](https://alexanderpetros.com/triptych/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
