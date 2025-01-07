@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+- [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
+- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 - [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
 - [OmniAI &lpar;YC W24&rpar; Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
-- [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
-- [In a cold day of late winter a new search experience came out](http://lexy.uno)
-- [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
