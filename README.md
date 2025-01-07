@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
 - [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
+- [NYC Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
 - [I live my life a quarter century at a time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
-- [Dtack Grounded archive &lpar;1981-1985&rpar;](http://www.easy68k.com/paulrsm/dg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
