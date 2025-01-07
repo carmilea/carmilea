@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
 - [OmniAI &lpar;YC W24&rpar; Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
-- [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
 - [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
 - [In a cold day of late winter a new search experience came out](http://lexy.uno)
 - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
