@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science graduates with a 4.0 GPA can&#39;t get a job in tech](https://xcancel.com/davenewworld_2/status/1874919912621453374)
-- [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
-- [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
-- [Bog Standard &lpar;2005&rpar;](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
+- [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
+- [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
+- [The Patterns of Barricelli &lpar;2024&rpar;](https://akkartik.name/post/2024-08-30-devlog)
+- [PCalc, an Origin Story &lpar;2012&rpar;](https://www.pcalc.com/mac/twenty.html)
+- [Federal Reserve Bank of NY &quot;Doomsday Book&quot; 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
