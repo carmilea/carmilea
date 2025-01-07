@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
-- [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
-- [The Patterns of Barricelli &lpar;2024&rpar;](https://akkartik.name/post/2024-08-30-devlog)
-- [PCalc, an Origin Story &lpar;2012&rpar;](https://www.pcalc.com/mac/twenty.html)
-- [Federal Reserve Bank of NY &quot;Doomsday Book&quot; 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+- [Red Hat in-vehicle OS hits key milestone towards Functional Safety Certification](https://www.redhat.com/en/about/press-releases/red-hat-reaches-key-milestone-push-functional-safety-certification-red-hat-vehicle-operating-system)
+- [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
+- [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
+- [The Ultimate Guide to Scaling Elasticsearch](https://www.singlestore.com/blog/the-ultimate-guide-to-scaling-elasticsearch)
+- [Lenovo Officially Announces the Legion Go S Handheld with SteamOS](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517395-lenovo-officially-announces-the-legion-go-s-handheld-with-steamos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
