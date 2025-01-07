@@ -61,8 +61,8 @@
 - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 - [Stay Gold, America](https://blog.codinghorror.com/)
 - [Axiom.ai &lpar;YC W21&rpar; Is Hiring a Contract Web Designer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
-- [Y2K – why I know it was a real problem &lpar;2015&rpar;](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
-- [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- [Nvidia&#39;s Project Digits is a &#39;personal AI supercomputer&#39;](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
