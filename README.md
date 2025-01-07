@@ -62,7 +62,7 @@
 - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
 - [Bog Standard &lpar;2005&rpar;](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
 - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
-- [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
+- [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
