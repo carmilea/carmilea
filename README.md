@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stay Gold, America](https://blog.codinghorror.com/)
 - [Axiom.ai &lpar;YC W21&rpar; Is Hiring a Contract Web Designer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
+- [Y2K – why I know it was a real problem &lpar;2015&rpar;](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
 - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 - [Nvidia&#39;s Project Digits is a &#39;personal AI supercomputer&#39;](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
-- [Roman Empire&#39;s use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
-- [Zig&#39;s Comptime Is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
