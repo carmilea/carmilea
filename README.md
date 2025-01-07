@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
+- [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
 - [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
 - [The Patterns of Barricelli &lpar;2024&rpar;](https://akkartik.name/post/2024-08-30-devlog)
 - [PCalc, an Origin Story &lpar;2012&rpar;](https://www.pcalc.com/mac/twenty.html)
