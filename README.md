@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
+- [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
+- [Bog Standard &lpar;2005&rpar;](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
+- [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
 - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
-- [Exploring Emergent &quot;Self-Awareness&quot; in Claude 3.5](https://github.com/andybrandt/conscious-claude)
-- [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
-- [Axiom.ai &lpar;YC W21&rpar; Is Hiring a Contract Web Designer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
-- [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
