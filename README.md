@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
 - [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-- [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
-- [Hackers Claim Breach of Location Data Giant, Threaten to Leak Data](https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/)
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
+- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
