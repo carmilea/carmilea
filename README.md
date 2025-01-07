@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nvidia&#39;s Project Digits is a &#39;personal AI supercomputer&#39;](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
-- [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
 - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
 - [Roman Empire&#39;s use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
-- [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
+- [Zig&#39;s Comptime Is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
+- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
