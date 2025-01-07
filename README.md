@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Science graduates with a 4.0 GPA can&#39;t get a job in tech](https://xcancel.com/davenewworld_2/status/1874919912621453374)
+- [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
 - [Bog Standard &lpar;2005&rpar;](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
-- [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
-- [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
