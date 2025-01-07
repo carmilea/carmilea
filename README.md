@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
+- [Exploring Emergent &quot;Self-Awareness&quot; in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
-- [Stay Gold, America](https://blog.codinghorror.com/)
 - [Axiom.ai &lpar;YC W21&rpar; Is Hiring a Contract Web Designer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
 - [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
-- [Nvidia&#39;s Project Digits is a &#39;personal AI supercomputer&#39;](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
