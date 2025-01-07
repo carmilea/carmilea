@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat in-vehicle OS hits key milestone towards Functional Safety Certification](https://www.redhat.com/en/about/press-releases/red-hat-reaches-key-milestone-push-functional-safety-certification-red-hat-vehicle-operating-system)
+- [OmniAI &lpar;YC W24&rpar; Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
+- [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
+- [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
+- [In a cold day of late winter a new search experience came out](http://lexy.uno)
 - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
-- [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
-- [The Ultimate Guide to Scaling Elasticsearch](https://www.singlestore.com/blog/the-ultimate-guide-to-scaling-elasticsearch)
-- [Lenovo Officially Announces the Legion Go S Handheld with SteamOS](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517395-lenovo-officially-announces-the-legion-go-s-handheld-with-steamos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
