@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
+- [Roman Empire&#39;s use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
 - [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
-- [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
 - [NYC Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
 - [I live my life a quarter century at a time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
-- [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
 <!-- BLOG-POST-LIST:END -->
 
 ---
