@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
 - [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-- [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
-- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
-- [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
-- [OmniAI &lpar;YC W24&rpar; Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
+- [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
+- [Hackers Claim Breach of Location Data Giant, Threaten to Leak Data](https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/)
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
