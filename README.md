@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
+- [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
+- [A Day in the Life of a Prolific Voice Phishing Crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+- [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
+- [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 - [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
-- [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
-- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
