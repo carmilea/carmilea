@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: The Atlas of Space](https://atlasof.space/)
 - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
-- [The Aging Programmer](https://www.youtube.com/watch?v=mVWQQeSOD0M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
