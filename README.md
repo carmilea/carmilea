@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [[Fireside chat] Chintan Mehta and Sri Ambati](https://www.youtube.com/watch?v=sqiqfeiquPg)
 - [Fireside Chat: Deepesh Chandra and Sri Ambati](https://www.youtube.com/watch?v=r_gTpceoskQ)
 - [Sizing Your First Cluster in SingleStore](https://www.youtube.com/watch?v=UJeSJE6V1Fw)
 - [Revolutionizing Knowledge Work: Automate Reports Easily!](https://www.youtube.com/watch?v=K8NLHYoMCac)
 - [Unlocking Success: The Power of Fast Learning in Business!](https://www.youtube.com/watch?v=os0kKLmLNqY)
-- [Unleashing SAS Viya: The Ultimate AI Development Platform!](https://www.youtube.com/watch?v=5m5abAyakcQ)
 <!-- YOUTUBE:END -->
 
 
