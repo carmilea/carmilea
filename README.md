@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+- [Two Dots &lpar;YC S22&rpar; Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 - [Show HN: The Atlas of Space](https://atlasof.space/)
 - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
-- [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
-- [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
