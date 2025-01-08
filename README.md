@@ -62,7 +62,7 @@
 - [Two Dots &lpar;YC S22&rpar; Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 - [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, &amp; Pokemon](https://cardstock.denta.co)
-- [Show HN: The Atlas of Space](https://atlasof.space/)
+- [Show HN: Atlas of Space](https://atlasof.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
