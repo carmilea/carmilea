@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Priesthoods](https://www.astralcodexten.com/p/on-priesthoods)
+- [In a first, EU Court fines EU for breaching own data protection law](https://www.reuters.com/world/europe/first-eu-court-fines-eu-breaching-own-data-protection-law-2025-01-08/)
 - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
+- [Nvidia CEO says his AI chips are improving faster than Moore&#39;s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
-- [Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/)
-- [Germans turn to balcony solar panels to save money](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money)
-- [All Garmin Connect services are down](https://connect.garmin.com/status/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
