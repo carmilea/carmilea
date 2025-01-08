@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
+- [SWE Bench just got updated – new #1s](https://www.swebench.com/)
 - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
 - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
-- [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
-- [White House unveils Cyber Trust Mark program for consumer devices](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/)
-- [Two Dots &lpar;YC S22&rpar; Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
+- [Facebook is removing stories about pornographic ads](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
