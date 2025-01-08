@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitwarden Is Down](https://status.bitwarden.com)
+- [The U.S. Government Tried Replacing Migrant Farmworkers with Teenagers &lpar;2018&rpar;](https://www.npr.org/sections/thesalt/2018/07/31/634442195/when-the-u-s-government-tried-to-replace-migrant-farmworkers-with-high-schoolers)
+- [If GPUs Are So Good, Why Do We Still Use CPUs at All?](https://codingstuff.substack.com/p/if-gpus-are-so-good-why-do-we-still)
+- [Bitwarden Was Down](https://status.bitwarden.com)
 - [Annual &#39;winners&#39; for most egregious US healthcare profiteering announced](https://www.theguardian.com/us-news/2025/jan/07/annual-awards-healthcare-profiteering)
-- [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
 - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
-- [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
