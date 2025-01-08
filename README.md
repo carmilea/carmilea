@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fired from Meta After 1 Week: Here&#39;s All the Dirt I Got](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65)
+- [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
 - [Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/)
+- [Germans turn to balcony solar panels to save money](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money)
 - [All Garmin Connect services are down](https://connect.garmin.com/status/)
-- [Spinal cord injuries from mountain biking exceed hockey, other high-risk sports](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
