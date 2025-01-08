@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 - [Scsh Acknowledgements &lpar;1994&rpar;](https://scsh.net/docu/html/man.html)
 - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
 - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 - [Tiptap &lpar;YC S23&rpar; is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
-- [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
