@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
-- [A Day in the Life of a Prolific Voice Phishing Crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+- [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
 - [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
-- [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
-- [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+- [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
+- [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
