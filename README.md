@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
+- [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 - [Tiptap &lpar;YC S23&rpar; is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
-- [DEF CON&#39;s hacker-in-chief faces fortune in medical bills](https://www.theregister.com/2025/01/07/def_con_security_chief_injured/)
-- [The U.S. Government Tried Replacing Migrant Farmworkers with Teenagers &lpar;2018&rpar;](https://www.npr.org/sections/thesalt/2018/07/31/634442195/when-the-u-s-government-tried-to-replace-migrant-farmworkers-with-high-schoolers)
-- [Bitwarden Was Down](https://status.bitwarden.com)
+- [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
