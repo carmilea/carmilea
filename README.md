@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+- [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 - [Two Dots &lpar;YC S22&rpar; Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
+- [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
+- [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, &amp; Pokemon](https://cardstock.denta.co)
 - [Show HN: The Atlas of Space](https://atlasof.space/)
-- [Fidget](https://www.mattkeeter.com/projects/fidget/)
-- [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
