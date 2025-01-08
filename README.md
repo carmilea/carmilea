@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Priesthoods](https://www.astralcodexten.com/p/on-priesthoods)
-- [In a first, EU Court fines EU for breaching own data protection law](https://www.reuters.com/world/europe/first-eu-court-fines-eu-breaching-own-data-protection-law-2025-01-08/)
+- [Fidget](https://www.mattkeeter.com/projects/fidget/)
+- [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
-- [Nvidia CEO says his AI chips are improving faster than Moore&#39;s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
+- [The Aging Programmer](https://www.youtube.com/watch?v=mVWQQeSOD0M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
