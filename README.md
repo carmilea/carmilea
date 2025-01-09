@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why aren&#39;t we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 - [Roboflow &lpar;YC S20&rpar; is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
+- [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
-- [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
+- [How to become a Data Scientist? My journey, overview of skill set, practice tips](https://mljar.com/blog/how-to-become-data-scientist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
