@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roboflow &lpar;YC S20&rpar; is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
+- [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
+- [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
-- [The sad beige aesthetic: why has the world suddenly turned taupe?](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe)
-- [Thank You, Airbnb](https://twitter.com/anammostarac/status/1876872587738833184)
 - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
-- [AccessOwl &lpar;YC S22&rpar; is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
