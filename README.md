@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Britain got its first internet connection &lpar;2018&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
+- [Perpetual Movement: Francis Picabia&#39;s 391 Review &lpar;1917–1924&rpar;](https://publicdomainreview.org/collection/francis-picabia-391-review/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 - [&quot;Twelfth Night Till Candlemas&quot; – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
-- [The Complete Text of &quot;All Watched over by Machines of Loving Grace&quot;](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html)
-- [SingleStore Matches Vector Search Performance of Pinecone and Zilliz — Plus Gives Benefits of a Modern SQL Database](https://www.singlestore.com/blog/singlestore-matches-vector-search-performance-of-pinecone-and-zilliz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
