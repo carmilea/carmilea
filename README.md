@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AccessOwl &lpar;YC S22&rpar; is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
-- [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
+- [Luigi Mangione&#39;s account has been renamed on Stack Overflow](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
+- [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
+- [My Experience Biohacking](https://vale.rocks/posts/my-experience-biohacking)
 - [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
-- [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
-- [Steve Langasek, one of Ubuntu Linux&#39;s leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
