@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
-- [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
+- [Why aren&#39;t we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 - [Roboflow &lpar;YC S20&rpar; is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
-- [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
-- [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
+- [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
+- [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
+- [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
