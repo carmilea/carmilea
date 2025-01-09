@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
+- [&quot;Twelfth Night Till Candlemas&quot; – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+- [Atari ST 40th Anniversary](https://www.goto10retro.com/p/atari-st-40th-anniversary)
 - [SingleStore Matches Vector Search Performance of Pinecone and Zilliz — Plus Gives Benefits of a Modern SQL Database](https://www.singlestore.com/blog/singlestore-matches-vector-search-performance-of-pinecone-and-zilliz)
-- [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
-- [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)
-- [My Favorite Self-Hosted Apps Launched in 2024](https://selfh.st/2024-favorite-new-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
