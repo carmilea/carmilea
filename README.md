@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
 - [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 - [A Supermarket in California &lpar;1955&rpar;](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
 - [Steve Langasek, one of Ubuntu Linux&#39;s leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
-- [Salesforce will hire no more software engineers in 2025, says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
