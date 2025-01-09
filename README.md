@@ -61,8 +61,8 @@
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 - [&quot;Twelfth Night Till Candlemas&quot; – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
-- [Atari ST 40th Anniversary](https://www.goto10retro.com/p/atari-st-40th-anniversary)
-- [SingleStore Matches Vector Search Performance of Pinecone and Zilliz — Plus Gives Benefits of a Modern SQL Database](https://www.singlestore.com/blog/singlestore-matches-vector-search-performance-of-pinecone-and-zilliz)
+- [The Complete Text of &quot;All Watched over by Machines of Loving Grace&quot;](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html)
+- [Show HN: Kate&#39;s App](https://katesapp.org/hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
