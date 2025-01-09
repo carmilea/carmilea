@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
+- [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 - [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 - [A Supermarket in California &lpar;1955&rpar;](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
