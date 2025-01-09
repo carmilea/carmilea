@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World&#39;s largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
-- [How Britain got its first internet connection &lpar;2018&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
+- [The &#39;90s weren&#39;t that great](https://www.slowboring.com/p/the-90s-werent-that-great)
+- [How Britain got its first internet connection &lpar;2015&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 - [Perpetual Movement: Francis Picabia&#39;s 391 Review &lpar;1917–1924&rpar;](https://publicdomainreview.org/collection/francis-picabia-391-review/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 - [&quot;Twelfth Night Till Candlemas&quot; – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
