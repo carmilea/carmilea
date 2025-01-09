@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roboflow &lpar;YC S20&rpar; is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
-- [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
-- [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
-- [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
-- [How to become a Data Scientist? My journey, overview of skill set, practice tips](https://mljar.com/blog/how-to-become-data-scientist/)
+- [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+- [SingleStore Matches Vector Search Performance of Pinecone and Zilliz — Plus Gives Benefits of a Modern SQL Database](https://www.singlestore.com/blog/singlestore-matches-vector-search-performance-of-pinecone-and-zilliz)
+- [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
+- [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)
+- [My Favorite Self-Hosted Apps Launched in 2024](https://selfh.st/2024-favorite-new-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
