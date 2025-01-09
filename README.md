@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
+- [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
 - [Roboflow &lpar;YC S20&rpar; is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
-- [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
+- [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
 - [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
-- [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
-- [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
