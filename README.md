@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who would buy a Raspberry Pi for $120?](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120)
+- [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 - [AccessOwl &lpar;YC S22&rpar; is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 - [Luigi Mangione&#39;s account has been renamed on Stack Overflow](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
-- [My Experience Biohacking](https://vale.rocks/posts/my-experience-biohacking)
-- [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
