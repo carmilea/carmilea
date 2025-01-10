@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biggest Privacy Erosion in 10 Years? On Google&#39;s Policy Change](https://blog.lukaszolejnik.com/biggest-privacy-erosion-in-10-years-on-googles-policy-change-towards-fingerprinting/)
+- [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
 - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
+- [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Engineer in EU timezone &lpar;Remote&rpar;](https://www.workatastartup.com/jobs/41643)
 - [lc: List files in categories &lpar;and columns&rpar; – from Coherent Unix clone](https://github.com/gdm85/lc)
-- [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
-- [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
