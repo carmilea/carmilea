@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
-- [How Britain got its first internet connection &lpar;2015&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
-- [Perpetual Movement: Francis Picabia&#39;s 391 Review &lpar;1917–1924&rpar;](https://publicdomainreview.org/collection/francis-picabia-391-review/)
-- [How do you backup your Android?](https://news.ycombinator.com/item?id=42648597)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
+- [Television: Blazing fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
+- [Rodney Brooks: Predictions Scorecard, 2025](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+- [Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
+- [Disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
+- [A quickstart eBook about Helm&#39;s essentials](https://curiousdevscorner.gumroad.com/l/master-helm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
