@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Reentry, by Eric Berger](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
+- [Meta&#39;s memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
+- [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
+- [Getting silly with C, part &lpar;void*&rpar;2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 - [Web apps built with Ruby on Rails](https://weuserails.com/)
-- [Formal Methods: Just Good Engineering Practice? &lpar;2024&rpar;](https://brooker.co.za/blog/2024/04/17/formal)
-- [I Program with LLMs](https://arstechnica.com/ai/2025/01/how-i-program-with-llms/)
-- [Ask HN: How to approach first days on a new job as a senior engineer?](https://news.ycombinator.com/item?id=42656184)
-- [I&#39;ve Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
