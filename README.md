@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
+- [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
+- [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
 - [lc: List files in categories &lpar;and columns&rpar; – from Coherent Unix clone](https://github.com/gdm85/lc)
 - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
-- [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
