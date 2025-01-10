@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biggest Privacy Erosion in 10 Years? On Google&#39;s Policy Change](https://blog.lukaszolejnik.com/biggest-privacy-erosion-in-10-years-on-googles-policy-change-towards-fingerprinting/)
+- [Show HN: Boulette - Protect you from yourself &lpar;even as root&rpar;.](https://github.com/pipelight/boulette)
+- [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
+- [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Engineer in EU timezone &lpar;Remote&rpar;](https://www.workatastartup.com/jobs/41643)
-- [lc: List files in categories &lpar;and columns&rpar; – from Coherent Unix clone](https://github.com/gdm85/lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
