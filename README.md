@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Web apps built with Ruby on Rails](https://weuserails.com/)
 - [Formal Methods: Just Good Engineering Practice? &lpar;2024&rpar;](https://brooker.co.za/blog/2024/04/17/formal)
+- [I Program with LLMs](https://arstechnica.com/ai/2025/01/how-i-program-with-llms/)
+- [Ask HN: How to approach first days on a new job as a senior engineer?](https://news.ycombinator.com/item?id=42656184)
 - [I&#39;ve Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
-- [Show HN: Boulette - Protect you from yourself &lpar;even as root&rpar;.](https://github.com/pipelight/boulette)
-- [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
