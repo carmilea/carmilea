@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
+- [lc: List files in categories &lpar;and columns&rpar; – from Coherent Unix clone](https://github.com/gdm85/lc)
+- [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
-- [Ruby/tk: Tk interface module using tcltklib](https://github.com/ruby/tk)
-- [Telli &lpar;YC F24&rpar; is hiring product engineers in Berlin, Germany &lpar;in-person&rpar;](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
-- [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
-- [A three month review of kagi search and the orion web browser &lpar;2024&rpar;](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
+- [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
