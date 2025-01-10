@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)
+- [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 - [Mercury&#39;s shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
-- [H-1B Visa Lottery Is Shutting Out Top Talent. Replace It](https://www.bloomberg.com/opinion/articles/2025-01-10/h-1b-visa-isn-t-working-as-it-should-thanks-to-lottery-lower-wages)
 - [Meta&#39;s memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
-- [Getting silly with C, part &lpar;void*&rpar;2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
