@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
+- [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
+- [Ruby/tk: Tk interface module using tcltklib](https://github.com/ruby/tk)
 - [Telli &lpar;YC F24&rpar; is hiring product engineers in Berlin, Germany &lpar;in-person&rpar;](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
-- [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
 - [A three month review of kagi search and the orion web browser &lpar;2024&rpar;](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 <!-- BLOG-POST-LIST:END -->
 
