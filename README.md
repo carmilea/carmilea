@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gleam v1.7.0 Released](https://gleam.run/news/improved-performance-and-publishing/)
-- [Los Angeles fires expose inflated US home prices](https://www.reuters.com/breakingviews/los-angeles-fires-expose-inflated-us-home-prices-2025-01-09/)
+- [A Three Month Review of Kagi Search and the Orion Web Browser &lpar;2024&rpar;](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 - [41% of Employers Worldwide Say They&#39;ll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
 - [TikTok tells staff impacted by wildfires to use sick hours if they can&#39;t work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
-- [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
+- [Toyota rethinks its bet on hydrogen](https://www.ft.com/content/69422656-7a25-4bc7-b626-1e69d4da953c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
