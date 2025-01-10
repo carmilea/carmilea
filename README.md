@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [41% of Employers Worldwide Say They&#39;ll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
+- [TikTok tells staff impacted by wildfires to use sick hours if they can&#39;t work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
+- [Fascism shattered Europe century ago – historians hear echoes today in U.S. &lpar;24&rpar;](https://news.berkeley.edu/2024/09/09/fascism-shattered-europe-a-century-ago-and-historians-hear-echoes-today-in-the-u-s/)
 - [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
 - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
-- [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
-- [Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
-- [Disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
