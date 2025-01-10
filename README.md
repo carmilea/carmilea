@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web apps built with Ruby on Rails](https://weuserails.com/)
+- [Formal Methods: Just Good Engineering Practice? &lpar;2024&rpar;](https://brooker.co.za/blog/2024/04/17/formal)
+- [I&#39;ve Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 - [Show HN: Boulette - Protect you from yourself &lpar;even as root&rpar;.](https://github.com/pipelight/boulette)
 - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
-- [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
-- [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
-- [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
