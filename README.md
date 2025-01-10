@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD&#39;s electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 - [Telli &lpar;YC F24&rpar; is hiring product engineers in Berlin, Germany &lpar;in-person&rpar;](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 - [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
-- [A three month review of kagi search and the orion web browser &lpar;2024&rpar;](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
