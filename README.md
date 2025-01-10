@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gleam v1.7.0 Released](https://gleam.run/news/improved-performance-and-publishing/)
-- [Toyota rethinks its bet on hydrogen](https://www.ft.com/content/69422656-7a25-4bc7-b626-1e69d4da953c)
-- [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
-- [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
-- [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
+- [Telli &lpar;YC F24&rpar; is hiring product engineers in Berlin, Germany &lpar;in-person&rpar;](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
+- [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
+- [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
+- [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
+- [A three month review of kagi search and the orion web browser &lpar;2024&rpar;](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
