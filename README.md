@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Television: Blazing fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
-- [Rodney Brooks: Predictions Scorecard, 2025](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+- [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
+- [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+- [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
 - [Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
 - [Disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
-- [A quickstart eBook about Helm&#39;s essentials](https://curiousdevscorner.gumroad.com/l/master-helm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
