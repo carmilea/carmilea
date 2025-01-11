@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyundai just launched its cheapest EV in Japan, starting at only $18,000](https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/)
-- [Why Greenland Is of Growing Strategic Significance](https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance)
+- [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
+- [Hyundai just launched its cheapest EV in Japan](https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/)
 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
