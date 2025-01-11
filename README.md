@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite: How it works, by Richard Hipp &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
+- [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
+- [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
+- [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 - [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
-- [What Is the &quot;Mffam&quot; Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
-- [Photoroom &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer in Paris &lpar;React, MobX&rpar;](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
-- [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
-- [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
