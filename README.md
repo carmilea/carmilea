@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford&#39;s electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
+- [Map of California roads for cyclers &lpar;1895&rpar;](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
+- [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
 - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 - [Show HN: TypeScript/React/Vue Window Layout Manager &lpar;Tabs, Floating, Popouts&rpar;](https://github.com/mathuo/dockview)
-- [Show HN: A Better Log Service](https://txtlog.net/)
-- [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
-- [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
