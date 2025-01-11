@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Laptop Stand Made from a Single Sheet of Recycled Paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)
+- [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
+- [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-- [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
