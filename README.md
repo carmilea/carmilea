@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s bot crushed this seven-person company&#39;s web site &#39;like a DDoS attack&#39;](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
+- [A Laptop Stand Made from a Single Sheet of Recycled Paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)
+- [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
+- [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-- [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 - [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-- [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
