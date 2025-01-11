@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeju Air jet black boxes stopped recording before crash: transport ministry](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html)
-- [SQLite: How it works, by Richard Hipp &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
-- [What automation tools are essential for a lean startup with a small team?](https://news.ycombinator.com/item?id=42665314)
-- [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
+- [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
+- [Sony Proposes Changing LLVM Clang Default to C++20 Mode](https://www.phoronix.com/news/Sony-LLVM-Clang-CXX20-Default)
+- [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
+- [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
