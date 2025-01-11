@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Greenland Is of Growing Strategic Significance](https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance)
 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
-- [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
