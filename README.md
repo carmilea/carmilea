@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Civilian police oversight in Florida crumbles after new law kicks in](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/)
 - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 - [Show HN: TypeScript/React/Vue Window Layout Manager &lpar;Tabs, Floating, Popouts&rpar;](https://github.com/mathuo/dockview)
 - [Show HN: A Better Log Service](https://txtlog.net/)
 - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
-- [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
