@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A Better Log Service](https://txtlog.net/)
 - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
-- [Sony Proposes Changing LLVM Clang Default to C++20 Mode](https://www.phoronix.com/news/Sony-LLVM-Clang-CXX20-Default)
 - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
-- [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
+- [Using black magic to make a fast circular buffer &lpar;2017&rpar;](https://lo.calho.st/posts/black-magic-buffer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
