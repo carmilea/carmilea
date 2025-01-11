@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Black boxes from Jeju Air 2216 stopped recording four minutes before crash](https://www.cnn.com/2025/01/11/asia/south-korean-airline-black-boxes-stopped-recording-intl-hnk/index.html)
+- [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
 - [What Is the &quot;Mffam&quot; Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer in Paris &lpar;React, MobX&rpar;](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
-- [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
+- [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
