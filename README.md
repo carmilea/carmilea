@@ -62,7 +62,7 @@
 - [What Is the &quot;Mffam&quot; Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer in Paris &lpar;React, MobX&rpar;](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
 - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
-- [MessagePack: It&#39;s like JSON, but fast and small.](https://msgpack.org/)
+- [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
