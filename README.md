@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+- [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
-- [New Worker Uprising: Employees Are Bypassing HR, Sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
+- [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 - [Why the Getty Center Is the Safest Place for Art During a Fire &lpar;2019&rpar;](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
-- [The Case for Letting Malibu Burn &lpar;2018&rpar;](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
-- [Great things about Rust that aren&#39;t just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
