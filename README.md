@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS No Longer Ships with Emacs](https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/)
-- [HMD Key Announced for £59 in the UK, Australia, and New Zealand](https://www.hmd.com/en_int/press/hmd-key-press-release)
+- [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
+- [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
+- [HMD Key – A lightweight, affordable smartphone](https://www.hmd.com/en_int/press/hmd-key-press-release)
 - [Harper &lpar;YC W25&rpar; Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 - [AI founders will learn the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
-- [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
