@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
+- [Why Matt Should Resign &lpar;2010&rpar;](https://web.archive.org/web/20110117190122/http://wpblogger.com/matt-should-resign.php)
+- [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
+- [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
+- [Aaron Swartz and Sam Altman](https://journa.host/@jeremiak/113811327999722586)
 - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
-- [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-- [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
-- [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
