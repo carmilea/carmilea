@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
-- [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
+- [Bad Apple but it&#39;s 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
+- [The mistake of yearning for the &#39;friendly&#39; online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 - [HMD Key – A lightweight, affordable smartphone](https://www.hmd.com/en_int/press/hmd-key-press-release)
 - [Harper &lpar;YC W25&rpar; Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 - [AI founders will learn the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
