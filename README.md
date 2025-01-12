@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
+- [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
+- [I deleted my social media accounts &lpar;and why you should too&rpar;](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
 - [Russia&#39;s Hidden War Debt](https://navigatingrussia.substack.com/p/russias-hidden-war-debt)
 - [Microsoft Bob: Microsoft&#39;s biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
-- [Uv&#39;s killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
-- [Best Pens for 2025](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
-- [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
