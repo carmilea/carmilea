@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
+- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-- [Adobe Lightroom&#39;s AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
 - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
-- [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
