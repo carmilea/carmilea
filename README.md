@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harper &lpar;YC W25&rpar; Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
+- [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
+- [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
+- [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
 - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
-- [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
-- [Yhangry &lpar;YC W22&rpar; Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
-- [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
-- [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
