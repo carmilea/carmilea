@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Addresses in 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-- [Euthanasia Coaster &lpar;2010&rpar;](https://julijonasurbonas.lt/euthanasia_coaster)
+- [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 - [Adobe Lightroom&#39;s AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
+- [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
-- [What it&#39;s like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
+- [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
