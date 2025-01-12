@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 - [Yhangry &lpar;YC W22&rpar; Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
-- [Show HN: Willpayforthis.com – Gathering posts about what people will pay for](https://www.willpayforthis.com/)
 - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 - [Aaron Swartz and Sam Altman](https://journa.host/@jeremiak/113811327999722586)
