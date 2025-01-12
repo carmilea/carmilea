@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+- [Uv&#39;s killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
+- [Best Pens for 2025](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
-- [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
-- [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
-- [Why the Getty Center Is the Safest Place for Art During a Fire &lpar;2019&rpar;](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
+- [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
+- [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
