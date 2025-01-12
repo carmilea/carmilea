@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yhangry &lpar;YC W22&rpar; Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
+- [Show HN: Willpayforthis.com – Gathering posts about what people will pay for](https://www.willpayforthis.com/)
 - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 - [Aaron Swartz and Sam Altman](https://journa.host/@jeremiak/113811327999722586)
-- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
