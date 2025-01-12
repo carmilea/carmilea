@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad Apple but it&#39;s 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
-- [The mistake of yearning for the &#39;friendly&#39; online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
-- [HMD Key – A lightweight, affordable smartphone](https://www.hmd.com/en_int/press/hmd-key-press-release)
-- [Harper &lpar;YC W25&rpar; Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
-- [AI founders will learn the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
+- [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
+- [A well designed ski jump](https://www.dezeen.com/2025/01/08/bergisel-ski-jump-zaha-hadid-21st-century-architecture/)
+- [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
+- [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
+- [Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT](https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
