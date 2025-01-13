@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
+- [Syria flooded with Pepsi and Pringles as rulers open economy](https://www.ft.com/content/a1d032b6-f91b-465f-b3fa-9b46ae072fe5)
+- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 - [Humanize Healthcare Content as Wyndly &lpar;YC W21&rpar; &#39;s first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
-- [Ask HN: Is maintaining a personal blog still worth it in 2025?](https://news.ycombinator.com/item?id=42685534)
-- [&lpar; UK &rpar; Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
 - [Database vs. Data Warehouse vs. Data Lake: Choosing the Right Solution](https://www.singlestore.com/blog/database-vs-data-warehouse-vs-data-lake)
-- [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
