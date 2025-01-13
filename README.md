@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
-- [I deleted my social media accounts &lpar;and why you should too&rpar;](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
-- [Russia&#39;s Hidden War Debt](https://navigatingrussia.substack.com/p/russias-hidden-war-debt)
-- [Microsoft Bob: Microsoft&#39;s biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
+- [A decade and a half of instability: The history of Google messaging apps &lpar;2021&rpar;](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
+- [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
+- [Standard Patterns in Choice-Based Games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
+- [The Consensus on Havana Syndrome Is Cracking](https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/)
+- [Right to Root Access](https://medhir.com/blog/right-to-root-access)
 <!-- BLOG-POST-LIST:END -->
 
 ---
