@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanize Healthcare Content as Wyndly &lpar;YC W21&rpar; &#39;s first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
+- [Ask HN: Is maintaining a personal blog still worth it in 2025?](https://news.ycombinator.com/item?id=42685534)
 - [&lpar; UK &rpar; Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
-- [An &quot;oh fuck&quot; moment in time](https://ghuntley.com/oh-fuck/)
+- [Database vs. Data Warehouse vs. Data Lake: Choosing the Right Solution](https://www.singlestore.com/blog/database-vs-data-warehouse-vs-data-lake)
 - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
-- [Subway Stories](https://subwaystories.nyc/)
-- [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
