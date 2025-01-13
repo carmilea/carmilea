@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
-- [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
 - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
-- [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
+- [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
+- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
