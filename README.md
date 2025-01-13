@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
-- [A decade and a half of instability: The history of Google messaging apps &lpar;2021&rpar;](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
+- [Disco Elysium Explorer](http://134.0.119.41)
+- [How did they make cars fall apart in old movies](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 - [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
-- [Standard Patterns in Choice-Based Games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
-- [The Free Movie: Frame-by-frame, handrawn reproduction of &quot;The Bee Movie&quot;](https://thefreemovie.buzz/)
+- [Standard patterns in choice-based games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
+- [The Free Movie: Frame-by-frame, handrawn reproduction of &quot;The Bee Movie&quot; &lpar;2023&rpar;](https://thefreemovie.buzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
