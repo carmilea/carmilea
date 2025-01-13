@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lorne Michaels Is the Real Star of &quot;Saturday Night Live&quot;](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
+- [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
 - [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 - [New York starts enforcing $15 broadband law that ISPs tried to kill](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/)
-- [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
-- [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
-- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+- [How corn syrup took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 <!-- BLOG-POST-LIST:END -->
 
 ---
