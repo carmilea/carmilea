@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg says AI could soon do the work of Meta&#39;s midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
-- [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
-- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
-- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
-- [Humanize Healthcare Content as Wyndly &lpar;YC W21&rpar; &#39;s first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
+- [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
+- [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
+- [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
+- [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+- [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
