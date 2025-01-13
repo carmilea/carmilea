@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
+- [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
 - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
 - [Raycast &lpar;YC W20&rpar; Is Hiring Full Stack Eng &lpar;EU, Remote, €105k-€160k&rpar;](https://www.raycast.com/jobs/software-engineer-full-stack)
 - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
-- [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
-- [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
