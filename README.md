@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg says AI could soon do the work of Meta&#39;s midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
 - [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
-- [Syria flooded with Pepsi and Pringles as rulers open economy](https://www.ft.com/content/a1d032b6-f91b-465f-b3fa-9b46ae072fe5)
+- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 - [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 - [Humanize Healthcare Content as Wyndly &lpar;YC W21&rpar; &#39;s first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
-- [Database vs. Data Warehouse vs. Data Lake: Choosing the Right Solution](https://www.singlestore.com/blog/database-vs-data-warehouse-vs-data-lake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
