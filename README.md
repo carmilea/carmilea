@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US-owned Greenland and Gulf of America? What a weird week](https://www.theregister.com/2025/01/11/opinion_column_us_moves/)
-- [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
-- [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](https://akkartik.name/post/literate-programming)
-- [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
-- [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
+- [&lpar; UK &rpar; Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
+- [An &quot;oh fuck&quot; moment in time](https://ghuntley.com/oh-fuck/)
+- [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
+- [Subway Stories](https://subwaystories.nyc/)
+- [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
