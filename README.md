@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Langfuse &lpar;YC W23&rpar; Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
-- [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)
-- [Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html)
-- [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+- [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
+- [Raycast &lpar;YC W20&rpar; Is Hiring Full Stack Eng &lpar;EU, Remote, €105k-€160k&rpar;](https://www.raycast.com/jobs/software-engineer-full-stack)
 - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
+- [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
+- [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
