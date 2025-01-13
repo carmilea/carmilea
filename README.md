@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WH Executive Order Affecting Chips and AI Models](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/fact-sheet-ensuring-u-s-security-and-economic-strength-in-the-age-of-artificial-intelligence/)
+- [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](https://akkartik.name/post/literate-programming)
 - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
-- [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
-- [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
+- [The Timeless 9 Golden Rules of Debugging &lpar;2004&rpar;](https://dwheeler.com/essays/debugging-agans.html)
 - [Raycast &lpar;YC W20&rpar; Is Hiring Full Stack Eng &lpar;EU, Remote, €105k-€160k&rpar;](https://www.raycast.com/jobs/software-engineer-full-stack)
-- [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
