@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WH Executive Order Affecting Chips and AI Models](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/fact-sheet-ensuring-u-s-security-and-economic-strength-in-the-age-of-artificial-intelligence/)
+- [US-owned Greenland and Gulf of America? What a weird week](https://www.theregister.com/2025/01/11/opinion_column_us_moves/)
+- [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 - [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](https://akkartik.name/post/literate-programming)
 - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
-- [The Timeless 9 Golden Rules of Debugging &lpar;2004&rpar;](https://dwheeler.com/essays/debugging-agans.html)
-- [Raycast &lpar;YC W20&rpar; Is Hiring Full Stack Eng &lpar;EU, Remote, €105k-€160k&rpar;](https://www.raycast.com/jobs/software-engineer-full-stack)
+- [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
