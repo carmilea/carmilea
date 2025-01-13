@@ -61,8 +61,8 @@
 - [A decade and a half of instability: The history of Google messaging apps &lpar;2021&rpar;](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
 - [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
 - [Standard Patterns in Choice-Based Games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
-- [The Consensus on Havana Syndrome Is Cracking](https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/)
-- [Right to Root Access](https://medhir.com/blog/right-to-root-access)
+- [The Free Movie: Frame-by-frame, handrawn reproduction of &quot;The Bee Movie&quot;](https://thefreemovie.buzz/)
+- [The consensus on Havana Syndrome is cracking](https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
