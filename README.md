@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 - [Disco Elysium Explorer](http://134.0.119.41)
-- [How did they make cars fall apart in old movies](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
+- [How did they make cars fall apart in old movies &lpar;2017&rpar;](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 - [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
 - [Standard patterns in choice-based games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
-- [The Free Movie: Frame-by-frame, handrawn reproduction of &quot;The Bee Movie&quot; &lpar;2023&rpar;](https://thefreemovie.buzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
