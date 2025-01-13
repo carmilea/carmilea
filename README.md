@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to turn off Apple Intelligence on your iPhone](https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to)
 - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 - [Disco Elysium Explorer](http://134.0.119.41)
-- [How did they make cars fall apart in old movies &lpar;2017&rpar;](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
