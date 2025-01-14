@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two auto-braking systems can&#39;t see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
+- [Proof of location for online polls](https://ip-vote.com/geolocation_via_latency.html)
+- [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
+- [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)
 - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
-- [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
-- [What’s in a Name? From MemSQL to SingleStore](https://www.singlestore.com/blog/from-memsql-to-singlestore)
-- [Apple will soon receive &#39;made in America&#39; chips from TSMC&#39;s Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
-- [Google’s OAuth login doesn’t protect against purchasing a failed startup domain](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
