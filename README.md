@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lorne Michaels Is the Real Star of &quot;Saturday Night Live&quot;](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
-- [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
-- [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
-- [New York starts enforcing $15 broadband law that ISPs tried to kill](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/)
-- [How corn syrup took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+- [Judge ends man&#39;s 11-year quest to dig up landfill and recover $765M in Bitcoin](https://arstechnica.com/tech-policy/2025/01/judge-ends-mans-11-year-quest-to-dig-up-landfill-and-recover-765m-in-bitcoin/)
+- [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
+- [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
+- [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
+- [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
