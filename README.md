@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
+- [Show HN: Simple Docker Hosting](https://sliplane.io)
 - [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
-- [X-ray flashes from nearby supermassive black hole accelerate mysteriously](https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113)
-- [I Switched to Firefox and Never Looked Back](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/)
-- [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
+- [Robinhood to Pay $45M SEC Settlement over Data Breach, Other Violations](https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
