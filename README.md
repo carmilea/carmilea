@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are tech people suddenly so into homeschooling?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
+- [Meta announces 5% cuts in preparation for &#39;intense year&#39;](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
+- [Allstate used GasBuddy and other apps to track driving behavior](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/)
+- [Millions of Accounts Vulnerable Due to Google&#39;s OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 - [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
 - [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
-- [Proton: We&#39;re giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
-- [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
