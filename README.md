@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Absolutely insane&#39;. Dragonfly&#39;s extreme loop-the-loops unparalleled in nature](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
+- [Campsite is now open source](https://github.com/campsite/campsite)
+- [Dragonfly&#39;s extreme loop-the-loops](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
 - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
 - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
 - [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
-- [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
