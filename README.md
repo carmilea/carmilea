@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
-- [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)
+- [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 - [What’s in a Name? From MemSQL to SingleStore](https://www.singlestore.com/blog/from-memsql-to-singlestore)
 - [Apple will soon receive &#39;made in America&#39; chips from TSMC&#39;s Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
+- [Google’s OAuth login doesn’t protect against purchasing a failed startup domain](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
