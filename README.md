@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If You Ever See This Speed Sign, You&#39;re Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
 - [Two auto-braking systems can&#39;t see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
 - [Proof of location for online polls](https://ip-vote.com/geolocation_via_latency.html)
 - [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
 - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)
-- [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 <!-- BLOG-POST-LIST:END -->
 
 ---
