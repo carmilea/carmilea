@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
+- [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
 - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
 - [Campsite is now open source](https://github.com/campsite/campsite)
-- [Dragonfly&#39;s extreme loop-the-loops](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
-- [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
