@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
-- [Judge ends man&#39;s 11-year quest to dig up landfill and recover $765M in Bitcoin](https://arstechnica.com/tech-policy/2025/01/judge-ends-mans-11-year-quest-to-dig-up-landfill-and-recover-765m-in-bitcoin/)
+- [&#39;Absolutely insane&#39;. Dragonfly&#39;s extreme loop-the-loops unparalleled in nature](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
+- [Why do small children in Japan ride the subway alone?](https://www.economist.com/christmas-specials/2024/12/19/why-do-small-children-in-japan-ride-the-subway-alone)
 - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
 - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
-- [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
