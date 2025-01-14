@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
-- [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
-- [Show HN: Simple Docker Hosting](https://sliplane.io)
-- [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
-- [Robinhood to Pay $45M SEC Settlement over Data Breach, Other Violations](https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc)
+- [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
+- [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
+- [Proton: We&#39;re giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
+- [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
+- [Craniometrix &lpar;YC W22&rpar; Is Hiring Founding Engineer on CTO Track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 <!-- BLOG-POST-LIST:END -->
 
 ---
