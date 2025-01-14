@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 - [Campsite is now open source](https://github.com/campsite/campsite)
 - [Dragonfly&#39;s extreme loop-the-loops](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
 - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
 - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
-- [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
