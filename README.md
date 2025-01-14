@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
-- [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
+- [Why are tech people suddenly so into homeschooling?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
+- [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
+- [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
 - [Proton: We&#39;re giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
 - [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
-- [Craniometrix &lpar;YC W22&rpar; Is Hiring Founding Engineer on CTO Track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 <!-- BLOG-POST-LIST:END -->
 
 ---
