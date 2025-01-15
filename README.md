@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
+- [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 - [GPT-4o with scheduled tasks &lpar;jawbone&rpar; is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 - [If You Ever See This Speed Sign, You&#39;re Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
-- [Don&#39;t use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
-- [Two auto-braking systems can&#39;t see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
-- [Proof of location for online polls](https://ip-vote.com/geolocation_via_latency.html)
+- [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
