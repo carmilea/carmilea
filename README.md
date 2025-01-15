@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft won&#39;t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
-- [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
-- [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+- [The Ultimate Guide to the Vector Database Landscape: 2025 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
+- [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
+- [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
+- [Why does Cloudflare Pages have such a generous free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 - [Understanding the Aggregation Operator in MongoDB®: Key Concepts and Use Cases](https://www.singlestore.com/blog/understanding-the-aggregation-operator-in-mongodb)
-- [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
