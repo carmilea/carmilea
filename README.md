@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sky-Scanning Complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
+- [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
+- [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
+- [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
+- [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
-- [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
-- [Researchers have identified a total of 6 vulnerabilities in rsync](https://www.openwall.com/lists/oss-security/2025/01/14/3)
-- [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
