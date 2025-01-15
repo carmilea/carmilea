@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
+- [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
 - [The Ultimate Guide to the Vector Database Landscape: 2025 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
 - [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
 - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
-- [Why does Cloudflare Pages have such a generous free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
-- [Understanding the Aggregation Operator in MongoDB®: Key Concepts and Use Cases](https://www.singlestore.com/blog/understanding-the-aggregation-operator-in-mongodb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
