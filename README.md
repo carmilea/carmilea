@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky-Scanning Complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
+- [Researchers have identified a total of 6 vulnerabilities in rsync](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
-- [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
-- [Don&#39;t use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
