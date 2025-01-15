@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 - [GPT-4o with scheduled tasks &lpar;jawbone&rpar; is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 - [If You Ever See This Speed Sign, You&#39;re Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
-- [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
