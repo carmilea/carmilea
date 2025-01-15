@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft won&#39;t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
 - [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
-- [AI Brad Pitt dupes French woman out of €830k](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo)
 - [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+- [Understanding the Aggregation Operator in MongoDB®: Key Concepts and Use Cases](https://www.singlestore.com/blog/understanding-the-aggregation-operator-in-mongodb)
 - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
-- [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
