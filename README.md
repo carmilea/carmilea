@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Natrium &#39;advanced nuclear&#39; power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
-- [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
-- [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
-- [The Ultimate Guide to the Vector Database Landscape: 2025 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
-- [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
+- [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
+- [Show HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
+- [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)
+- [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
+- [Google brings real-time information from The Associated Press to Gemini](https://blog.google/products/news/associated-press-gemini-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
