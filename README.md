@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
-- [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
-- [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
-- [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
-- [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
+- [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
+- [AI Brad Pitt dupes French woman out of €830k](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo)
+- [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+- [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
+- [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
