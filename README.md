@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
 - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
-- [Nobody Cares](https://grantslatton.com/nobody-cares)
 - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 - [GPT-4o with scheduled tasks &lpar;jawbone&rpar; is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
