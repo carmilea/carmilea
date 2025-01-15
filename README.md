@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
+- [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
 - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
-- [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
 - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
-- [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
