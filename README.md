@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Engineer &lpar;Distributed Systems&rpar;](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
+- [California&#39;s future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)
+- [Walgreens replaced fridge doors with smart screens. It&#39;s now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
+- [The Ultimate Guide to the Best SQL Database Options in 2025](https://www.singlestore.com/blog/ultimate-guide-best-sql-database-options-2025)
 - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
-- [The Conundrum of Life&#39;s Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
-- [Astronomers discover neutron star with an incredibly slow six-hour spin](https://www.abc.net.au/news/science/2025-01-16/neutron-star-radio-transient-6-hours/104799106)
-- [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
-- [Stanford Researchers Produce Ammonia Fuel from Thin Air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
