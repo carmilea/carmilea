@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More than 74,000 Canadians have died on health-care wait lists since 2018:report](https://nationalpost.com/news/canada/canadians-health-care-wait-list-deaths)
 - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
 - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
 - [Empirical Health &lpar;YC S23&rpar; is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
-- [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
