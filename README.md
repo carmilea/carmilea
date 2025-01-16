@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Desktop Broken on Mac OS Update for over a Week](https://www.dockerstatus.com/)
+- [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
+- [Why Tech Giants Can&#39;t Stop Hoarding H-1B Visas](https://www.msn.com/en-us/money/careersandeducation/does-the-tech-industry-really-need-so-many-workers-on-h-1b-visas/ar-BB1rogdq)
+- [&#39;Passive House&#39; Survives Fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)
 - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
-- [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
-- [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-- [Empirical Health &lpar;YC S23&rpar; is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
+- [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
