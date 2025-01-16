@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
+- [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 - [Intel&#39;s Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
-- [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
