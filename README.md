@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FEMA: Never donate clothing &lpar;it is never needed&rpar;](https://www.fema.gov/disaster/recover/volunteer-donate)
+- [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
+- [David Lynch, Twin Peaks and Muholland Drive director, dies aged 78](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78)
 - [Oh Shit, Git?](https://ohshitgit.com/)
 - [David Lynch has passed away](https://www.facebook.com/davidlynchofficial/posts/it-is-with-deep-regret-that-we-his-family-announce-the-passing-of-the-man-and-th/1179118190251944/)
-- [Replit CEO on AI breakthroughs: We don&#39;t care about professional coders anymore](https://www.semafor.com/article/01/15/2025/replit-ceo-on-ai-breakthroughs-we-dont-care-about-professional-coders-anymore)
-- [Same three bands appear in three different presentations with different labels](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
-- [I am offering mentoring: In which I help you](https://dynomight.substack.com/p/mentoring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
