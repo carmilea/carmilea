@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Karen Wynn Fonstad, Who Mapped Tolkien&#39;s Middle-Earth](https://www.nytimes.com/2025/01/13/obituaries/karen-wynn-fonstad-overlooked.html)
+- [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
+- [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
+- [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 - [Intel&#39;s Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
-- [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
-- [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
