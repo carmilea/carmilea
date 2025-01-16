@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Engineer &lpar;Distributed Systems&rpar;](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
-- [California&#39;s future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)
-- [Walgreens replaced fridge doors with smart screens. It&#39;s now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
-- [The Ultimate Guide to the Best SQL Database Options in 2025](https://www.singlestore.com/blog/ultimate-guide-best-sql-database-options-2025)
-- [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
+- [Oh Shit, Git?](https://ohshitgit.com/)
+- [David Lynch has passed away](https://www.facebook.com/davidlynchofficial/posts/it-is-with-deep-regret-that-we-his-family-announce-the-passing-of-the-man-and-th/1179118190251944/)
+- [Replit CEO on AI breakthroughs: We don&#39;t care about professional coders anymore](https://www.semafor.com/article/01/15/2025/replit-ceo-on-ai-breakthroughs-we-dont-care-about-professional-coders-anymore)
+- [Same three bands appear in three different presentations with different labels](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
+- [I am offering mentoring: In which I help you](https://dynomight.substack.com/p/mentoring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
