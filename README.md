@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
+- [Learn Yjs Interactively](https://learn.yjs.dev/)
+- [MuJoco Playground](https://playground.mujoco.org/)
+- [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
-- [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 <!-- BLOG-POST-LIST:END -->
 
 ---
