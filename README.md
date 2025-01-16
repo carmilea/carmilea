@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How H2O.AI’s Small Language Model is Changing the Game](https://www.youtube.com/watch?v=wRgASknaDRk)
+- [What are Small Language Models?](https://www.youtube.com/watch?v=GiliyYLchvI)
 - [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=2q4kEBPHBO0)
 - [Apache Spark + OpenAI for Personalized Banking Services | SingleStore Webinars](https://www.youtube.com/watch?v=YgVLUeX2RRI)
 - [H2O.ai h2oGPTe Agentic AI](https://www.youtube.com/watch?v=3AKdTMacGtg)
-- [[Fireside chat] Chintan Mehta and Sri Ambati](https://www.youtube.com/watch?v=sqiqfeiquPg)
-- [Fireside Chat: Deepesh Chandra and Sri Ambati](https://www.youtube.com/watch?v=r_gTpceoskQ)
 <!-- YOUTUBE:END -->
 
 
