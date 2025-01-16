@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
-- [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)
-- [Nokia&#39;s internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
-- [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
-- [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
+- [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
+- [Stanford Researchers Produce Ammonia Fuel from Thin Air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
+- [No Calls](https://keygen.sh/blog/no-calls/)
+- [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
+- [Nokia&#39;s internal presentation after iPhone was launched &lpar;2007&rpar; [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
