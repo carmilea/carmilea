@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin New Glenn Mission NG-1 &lpar;video&rpar;](https://www.blueorigin.com/missions/ng-1)
 - [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
 - [Intel&#39;s Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 - [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
-- [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
