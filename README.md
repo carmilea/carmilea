@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
+- [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
 - [Mathematicians Discover New Way for Spheres to &#39;Kiss&#39;](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
-- [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
-- [Intel&#39;s Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
