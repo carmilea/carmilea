@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
-- [Why Tech Giants Can&#39;t Stop Hoarding H-1B Visas](https://www.msn.com/en-us/money/careersandeducation/does-the-tech-industry-really-need-so-many-workers-on-h-1b-visas/ar-BB1rogdq)
-- [&#39;Passive House&#39; Survives Fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)
-- [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
+- [Intel&#39;s Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
+- [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+- [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
