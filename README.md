@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FEMA: Never donate clothing &lpar;it is never needed&rpar;](https://www.fema.gov/disaster/recover/volunteer-donate)
+- [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
+- [How can a top scientist be so confidently wrong? R. A. Fisher and smoking &lpar;2022&rpar;](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
+- [Suchir Balaji Case Reopened: From ‘Suicide&#39; to &#39;Active Investigation’](https://www.msn.com/en-in/news/India/suchir-balaji-case-reopened-from-suicide-to-active-investigation/ar-AA1xf9Q1)
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
-- [David Lynch, Twin Peaks and Muholland Drive director, dies aged 78](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78)
 - [Oh Shit, Git?](https://ohshitgit.com/)
-- [David Lynch has passed away](https://www.facebook.com/davidlynchofficial/posts/it-is-with-deep-regret-that-we-his-family-announce-the-passing-of-the-man-and-th/1179118190251944/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
