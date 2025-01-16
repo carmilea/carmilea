@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More than 74,000 Canadians have died on health-care wait lists since 2018:report](https://nationalpost.com/news/canada/canadians-health-care-wait-list-deaths)
+- [Docker Desktop Broken on Mac OS Update for over a Week](https://www.dockerstatus.com/)
 - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
 - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
