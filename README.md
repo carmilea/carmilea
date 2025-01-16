@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 - [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
-- [How can a top scientist be so confidently wrong? R. A. Fisher and smoking &lpar;2022&rpar;](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
-- [Suchir Balaji Case Reopened: From ‘Suicide&#39; to &#39;Active Investigation’](https://www.msn.com/en-in/news/India/suchir-balaji-case-reopened-from-suicide-to-active-investigation/ar-AA1xf9Q1)
+- [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
+- [Suchir Balaji Case Reopened: From ‘Suicide&#39; to &#39;Active Investigation’](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation)
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
-- [Oh Shit, Git?](https://ohshitgit.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
