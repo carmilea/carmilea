@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the World Becoming Uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
+- [Firebase bill is usually $50, but I was surprised to see a $70k bill in one day](https://twitter.com/tamarajtran/status/1880036092906467841)
+- [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
 - [Learn Yjs Interactively](https://learn.yjs.dev/)
 - [MuJoco Playground](https://playground.mujoco.org/)
-- [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
-- [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
