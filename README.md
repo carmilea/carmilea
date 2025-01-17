@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
+- [French modernists were alarmed, inspired by newspaper&#39;s voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
-- [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
-- [The Derelict &lpar;2015&rpar;](https://www.damninteresting.com/the-derelict/)
-- [Fern &lpar;YC W23&rpar; Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
+- [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
