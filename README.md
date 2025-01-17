@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating an &quot;Evil&quot; RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
 - [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
-- [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
