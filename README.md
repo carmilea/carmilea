@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
+- [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 - [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
+- [The Derelict &lpar;2015&rpar;](https://www.damninteresting.com/the-derelict/)
 - [Fern &lpar;YC W23&rpar; Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
-- [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
-- [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
-- [Canon wants us to pay for using our own camera as a webcam](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
