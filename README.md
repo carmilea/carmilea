@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
+- [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
+- [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 - [You can&#39;t use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
-- [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
