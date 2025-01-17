@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 - [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
 - [French modernists were alarmed, inspired by newspaper&#39;s voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
+- [Selling the Collective: On Kevin Killian&#39;s &quot;Selected Amazon Reviews&quot;](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
 - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
-- [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
-- [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
