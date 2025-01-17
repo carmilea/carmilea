@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
+- [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
 - [Learn Yjs Interactively](https://learn.yjs.dev/)
 - [MuJoco Playground](https://playground.mujoco.org/)
 - [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
