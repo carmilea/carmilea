@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rumor About GPT-5 Changes Everything](https://www.thealgorithmicbridge.com/p/this-rumor-about-gpt-5-changes-everything)
 - [Fern &lpar;YC W23&rpar; Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 - [You can&#39;t use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
+- [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
