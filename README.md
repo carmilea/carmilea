@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Investigating an &quot;Evil&quot; RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+- [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
-- [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
