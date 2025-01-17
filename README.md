@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
-- [Sources Say Intel Is an Acquisition Target](https://www.semiaccurate.com/2025/01/17/sources-say-intel-is-an-acquisition-target/)
-- [Zig: What to Expect from Release Month](https://ziglang.org/news/what-to-expect-from-release-month/)
+- [RAG Tutorial: A Beginner&#39;s Guide to Retrieval Augmented Generation](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag)
 - [Fern &lpar;YC W23&rpar; Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
+- [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
+- [Canon wants us to pay for using our own camera as a webcam](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
