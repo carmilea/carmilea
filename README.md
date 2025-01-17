@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
-- [Firebase bill is usually $50, but I was surprised to see a $70k bill in one day](https://twitter.com/tamarajtran/status/1880036092906467841)
 - [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
 - [Learn Yjs Interactively](https://learn.yjs.dev/)
+- [MuJoco Playground](https://playground.mujoco.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
