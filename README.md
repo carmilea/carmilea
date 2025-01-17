@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [L.A. Fires: We Can&#39;t Let Insurance Companies Exploit the Disaster](https://www.rollingstone.com/culture/culture-commentary/la-fires-insurance-exploitation-1235239102/)
+- [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
 - [Investigating an &quot;Evil&quot; RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
-- [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
-- [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
