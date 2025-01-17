@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kokoro TTS – A lightweight &lpar;82M params&rpar; text-to-speech model](https://kokorotts.online/)
+- [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
 - [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
-- [Learn Yjs Interactively](https://learn.yjs.dev/)
-- [MuJoco Playground](https://playground.mujoco.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
