@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy seeks to curb &#39;fake&#39; online reviews for hotels and restaurants](https://www.rte.ie/news/world/2025/0114/1490847-italy-reviews-legislation/)
-- [What If No One Misses TikTok?](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html)
+- [Amazon&#39;s AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
+- [O1 isn&#39;t a chat model &lpar;and that&#39;s the point&rpar;](https://www.latent.space/p/o1-skill-issue)
 - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
 - [Dusa Programming Language &lpar;Finite-Choice Logic Programming&rpar;](https://dusa.rocks/docs/)
 - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
