@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
-- [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)
 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
-- [Is the TikTok ban a chance to rethink the whole internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
 - [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
+- [EFF statement on U.S. Supreme Court&#39;s decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
+- [Investigating an &quot;evil&quot; RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
