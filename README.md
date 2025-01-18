@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pharaoh&#39;s Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
+- [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
+- [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
 - [WASM GC isn&#39;t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
-- [Skymont: Intel&#39;s E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
-- [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
-- [Amazon&#39;s AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
