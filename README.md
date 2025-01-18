@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Interactive systemd &lpar;a better way to work with systemd units&rpar;](https://isd-project.github.io/isd/)
+- [Dusa Programming Language &lpar;Finite-Choice Logic Programming&rpar;](https://dusa.rocks/docs/)
+- [Why do bees die when they sting you?](https://www.subanima.org/bees/)
+- [NASA&#39;s Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
 - [Ask HN: Has anyone tried alternative company models &lpar;like a co-op&rpar; for SaaS?](https://news.ycombinator.com/item?id=42748394)
-- [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
-- [The AMD Radeon Instinct MI300A&#39;s Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
-- [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
-- [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
