@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Toyota Prius Transformed the Auto Industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
+- [Ask HN: Has anyone tried alternative company models &lpar;like a co-op&rpar; for SaaS?](https://news.ycombinator.com/item?id=42748394)
+- [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
 - [The AMD Radeon Instinct MI300A&#39;s Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 - [Honest Ahmed &lpar;2011&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
-- [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
