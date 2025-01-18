@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
+- [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 - [I&#39;ve been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 - [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
-- [EFF statement on U.S. Supreme Court&#39;s decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
 <!-- BLOG-POST-LIST:END -->
 
 ---
