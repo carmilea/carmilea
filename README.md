@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
+- [WASM GC isn&#39;t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 - [Skymont: Intel&#39;s E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
 - [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 - [Amazon&#39;s AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
-- [Looking at some claims that quantum computers won&#39;t work](https://blog.cr.yp.to/20250118-flight.html)
-- [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
