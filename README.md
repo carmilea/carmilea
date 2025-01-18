@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
+- [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
 - [I&#39;ve been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 - [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
