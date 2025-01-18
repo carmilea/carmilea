@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloodletting recommended for Jersey residents after PFAS contamination](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination)
+- [Transmeta: A CPU Revolution That Never Was [video]](https://www.youtube.com/watch?v=U2aQTJDJwd8)
+- [The Toyota Prius Transformed the Auto Industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
 - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
-- [Honest Ahmed &lpar;2011&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
-- [I&#39;ve been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
-- [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
