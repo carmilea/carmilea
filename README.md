@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skymont: Intel&#39;s E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
+- [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 - [Amazon&#39;s AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
-- [O1 isn&#39;t a chat model &lpar;and that&#39;s the point&rpar;](https://www.latent.space/p/o1-skill-issue)
-- [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
-- [Dusa Programming Language &lpar;Finite-Choice Logic Programming&rpar;](https://dusa.rocks/docs/)
-- [Why do bees die when they sting you?](https://www.subanima.org/bees/)
+- [Looking at some claims that quantum computers won&#39;t work](https://blog.cr.yp.to/20250118-flight.html)
+- [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
