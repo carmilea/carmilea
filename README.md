@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+- [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 - [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
-- [EFF statement on U.S. Supreme Court&#39;s decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
-- [Investigating an &quot;evil&quot; RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
