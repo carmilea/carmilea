@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [L.A. Fires: We Can&#39;t Let Insurance Companies Exploit the Disaster](https://www.rollingstone.com/culture/culture-commentary/la-fires-insurance-exploitation-1235239102/)
-- [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
+- [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
+- [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
+- [EFF Statement on U.S. Supreme Court&#39;s Decision to Uphold TikTok Ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
 - [Investigating an &quot;Evil&quot; RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
-- [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
