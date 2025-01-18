@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Interactive systemd &lpar;a better way to work with systemd units&rpar;](https://isd-project.github.io/isd/)
+- [Italy seeks to curb &#39;fake&#39; online reviews for hotels and restaurants](https://www.rte.ie/news/world/2025/0114/1490847-italy-reviews-legislation/)
+- [What If No One Misses TikTok?](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html)
+- [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
 - [Dusa Programming Language &lpar;Finite-Choice Logic Programming&rpar;](https://dusa.rocks/docs/)
 - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
-- [NASA&#39;s Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
-- [Ask HN: Has anyone tried alternative company models &lpar;like a co-op&rpar; for SaaS?](https://news.ycombinator.com/item?id=42748394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
