@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
+- [Zuckerberg appeared to know Llama trained on Libgen](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/)
+- [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 - [GauntletAI &lpar;YC S17&rpar; will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
-- [TikTok Shut Down: Data Shows 85% Drop in US Access &lpar;and Surge to Alternatives&rpar;](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/)
-- [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
-- [Calculator Forensics &lpar;2002&rpar;](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
-- [Open Dylan](https://opendylan.org/)
+- [Lenovo has removed the TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
