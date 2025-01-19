@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
-- [Mark Zuckerberg blamed Sheryl Sandberg for Meta &#39;inclusivity&#39; push: report](https://www.msn.com/en-us/money/executive-leadership-and-management/mark-zuckerberg-blamed-sheryl-sandberg-for-meta-inclusivity-push-report/ar-AA1xolsJ)
-- [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
+- [Yek: Serialize your code repo &lpar;or part of it&rpar; to feed into any LLM](https://github.com/bodo-run/yek)
 - [How Unix spell ran in 64kb RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 - [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
 <!-- BLOG-POST-LIST:END -->
