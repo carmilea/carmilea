@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok users posting cat videos do not threaten UK national security, minister](https://www.theguardian.com/technology/2025/jan/19/tiktok-users-posting-cat-videos-do-not-threaten-uk-national-security-minister-says)
 - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
-- [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
