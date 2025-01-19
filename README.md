@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Games Workshop and the big ambition of a miniatures business](https://www.bbc.com/news/articles/cr5369029dzo)
+- [Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
+- [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
 - [Pharaoh&#39;s Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
 - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
-- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
-- [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
-- [WASM GC isn&#39;t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
