@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don&#39;t Force Dark Mode on Users](https://iamvishnu.com/posts/please-dont-force-dark-mode)
+- [Hacking the Yamaha DX9 to Turn It into a DX7 &lpar;2023&rpar;](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
+- [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
+- [Please don&#39;t force dark mode](https://iamvishnu.com/posts/please-dont-force-dark-mode)
 - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
-- [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
-- [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
