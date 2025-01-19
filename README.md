@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Traitors&quot;, a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
+- [IsMyXFeedFcked – Analyze How Your X Feed&#39;s Impacting You](https://www.ismyxfeedfucked.com/)
 - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 - [The &quot;35-cent&quot; Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
-- [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
-- [Yek: Serialize your code repo &lpar;or part of it&rpar; to feed into any LLM](https://github.com/bodo-run/yek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
