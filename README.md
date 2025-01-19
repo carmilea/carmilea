@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Twitter is such a big deal &lpar;2009&rpar;](https://paulgraham.com/twitter.html)
+- [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
+- [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
+- [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
-- [GauntletAI &lpar;YC S17&rpar; will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
-- [Lenovo has removed the TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
