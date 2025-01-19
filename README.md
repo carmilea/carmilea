@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 - [The &quot;35-cent&quot; Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [Yek: Serialize your code repo &lpar;or part of it&rpar; to feed into any LLM](https://github.com/bodo-run/yek)
-- [How Unix spell ran in 64kb RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
