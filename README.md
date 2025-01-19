@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Dylan](https://opendylan.org/)
 - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
-- [“The Traitors”, a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
-- [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
-- [The &quot;35-cent&quot; Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
-- [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
+- [About A comprehensive guide for Linux Network &lpar;Socket&rpar; programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
+- [A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100](https://nicole.express/2025/invisicom.html)
+- [The Fuzzing Book](https://www.fuzzingbook.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
