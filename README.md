@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s elderly are lonely and struggling. Some women choose to go to jail](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html)
 - [&quot;The Traitors&quot;, a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
-- [IsMyXFeedFcked – Analyze How Your X Feed&#39;s Impacting You](https://www.ismyxfeedfucked.com/)
 - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 - [The &quot;35-cent&quot; Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
