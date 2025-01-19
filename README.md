@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GauntletAI &lpar;YC S17&rpar; will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
+- [TikTok Shut Down: Data Shows 85% Drop in US Access &lpar;and Surge to Alternatives&rpar;](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/)
+- [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
+- [Calculator Forensics &lpar;2002&rpar;](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 - [Open Dylan](https://opendylan.org/)
-- [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
-- [About A comprehensive guide for Linux Network &lpar;Socket&rpar; programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
-- [A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100](https://nicole.express/2025/invisicom.html)
-- [The Fuzzing Book](https://www.fuzzingbook.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
