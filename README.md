@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Games Workshop and the big ambition of a miniatures business](https://www.bbc.com/news/articles/cr5369029dzo)
+- [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
 - [Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
-- [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
 - [Pharaoh&#39;s Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
 - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 <!-- BLOG-POST-LIST:END -->
