@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I got a heat pump, and my energy bill went up](https://www.heatpumped.org/p/i-got-a-heat-pump-and-my-energy-bill-went-up)
+- [Bambu Connect&#39;s Authentication X.509 Certificate and Private Key Extracted](https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/)
+- [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
+- [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)
 - [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
 - [UK&#39;s hardware talent is being wasted](https://josef.cn/blog/uk-talent)
-- [Invisible Epidemic: The Loneliness Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
-- [FrontierMath was funded by OpenAI](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
