@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking the Yamaha DX9 to Turn It into a DX7 &lpar;2023&rpar;](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
-- [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
-- [Please don&#39;t force dark mode](https://iamvishnu.com/posts/please-dont-force-dark-mode)
-- [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
-- [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
+- [I got a heat pump, and my energy bill went up](https://www.heatpumped.org/p/i-got-a-heat-pump-and-my-energy-bill-went-up)
+- [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
+- [UK&#39;s hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+- [Invisible Epidemic: The Loneliness Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
+- [FrontierMath was funded by OpenAI](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
