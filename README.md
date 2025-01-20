@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bambu Lab - Setting the Record Straight About Our Security Update](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
+- [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
+- [Authors Seek Meta&#39;s Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 - [The Making of Community Notes &lpar;2024&rpar;](https://asteriskmag.com/issues/08/the-making-of-community-notes)
-- [After Authenticity &lpar;2018&rpar;](https://subpixel.space/entries/after-authenticity/)
-- [Viagra-laced &#39;erectile honey&#39; is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
 - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
-- [I am &lpar;not&rpar; a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
