@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am &lpar;not&rpar; a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
+- [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
 - [Show HN: Personalized Duolingo &lpar;Kind of&rpar; for Vocabulary Building](https://github.com/baturyilmaz/wordpecker-app)
 - [I&#39;m Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
-- [Mixxx: GPL DJ Software](https://mixxx.org/)
-- [The deeper under the Earth&#39;s surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
