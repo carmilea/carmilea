@@ -61,8 +61,8 @@
 - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
 - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
-- [What does &quot;supports DRM and may not be fully accessible&quot; mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
+- [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
