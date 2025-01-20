@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Discover Enterprise h2oGPT Agents](https://www.youtube.com/watch?v=6FMos3W26Bo)
 - [How H2O.AI’s Small Language Model is Changing the Game](https://www.youtube.com/watch?v=wRgASknaDRk)
 - [What are Small Language Models?](https://www.youtube.com/watch?v=GiliyYLchvI)
 - [Apache Spark + OpenAI for Personalized Banking Services](https://www.youtube.com/watch?v=2q4kEBPHBO0)
 - [Apache Spark + OpenAI for Personalized Banking Services | SingleStore Webinars](https://www.youtube.com/watch?v=YgVLUeX2RRI)
-- [H2O.ai h2oGPTe Agentic AI](https://www.youtube.com/watch?v=3AKdTMacGtg)
 <!-- YOUTUBE:END -->
 
 
