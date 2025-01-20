@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
+- [Don&#39;t use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 - [What does &quot;supports DRM and may not be fully accessible&quot; mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 - [I&#39;ll think twice before using GitHub Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
-- [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
-- [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
