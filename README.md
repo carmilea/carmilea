@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 - [Mixxx: GPL DJ Software](https://mixxx.org/)
+- [The deeper under the Earth&#39;s surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
