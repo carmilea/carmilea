@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does &quot;supports DRM functions and may not be fully accessible&quot;mean for SSDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
-- [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
 - [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
 - [UK&#39;s hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 <!-- BLOG-POST-LIST:END -->
