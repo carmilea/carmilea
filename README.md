@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Making of Community Notes &lpar;2024&rpar;](https://asteriskmag.com/issues/08/the-making-of-community-notes)
-- [After Authenticity](https://subpixel.space/entries/after-authenticity/)
-- [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
+- [After Authenticity &lpar;2018&rpar;](https://subpixel.space/entries/after-authenticity/)
+- [Viagra-laced &#39;erectile honey&#39; is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
+- [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 - [I am &lpar;not&rpar; a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
-- [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
