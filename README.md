@@ -61,8 +61,8 @@
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
-- [Google serving sponsored link to Homebrew site clone with malware](https://twitter.com/ryanchenkie/status/1880730173634699393)
-- [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
+- [Zork: The Great Inner Workings &lpar;2020&rpar;](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
+- [Where Do Those Undergraduate Divisibility Problems Come From?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
