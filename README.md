@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
+- [How the strengths of Lisp facilitate complex and flexible applications &lpar;2016&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
+- [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
+- [Invisible Electrostatic Wall at 3M plant](http://amasci.com/weird/unusual/e-wall.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
-- [Understanding OLAP vs. OLTP: The Key Differences](https://www.singlestore.com/blog/understanding-olap-vs-oltp-the-key-differences)
-- [How many Alpine packages can you install at once? &lpar;2024&rpar;](https://www.naff.dev/blog/all-the-packages)
-- [Show HN: Pica – Rust-based agentic AI infrastructure &lpar;open-source&rpar;](https://www.picaos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
