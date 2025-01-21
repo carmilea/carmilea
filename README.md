@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
+- [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
+- [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
 - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
-- [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
-- [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
-- [Some Lessons from the OpenAI FrontierMath Debacle](https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle)
-- [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
+- [The QUIC API OpenSSL will not provide &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
