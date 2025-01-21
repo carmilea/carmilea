@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 - [Why AI reminds me of cloud computing](https://bitmasonsllc.blogspot.com/2025/01/why-ai-reminds-me-of-cloud-computing.html)
 - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
-- [Rafael Araujo&#39;s 20 Mesmerizing Geometrical Masterpieces &lpar;2024&rpar;](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
-- [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
