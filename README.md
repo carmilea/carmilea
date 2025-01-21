@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 - [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
-- [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
-- [Why AI reminds me of cloud computing](https://bitmasonsllc.blogspot.com/2025/01/why-ai-reminds-me-of-cloud-computing.html)
-- [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
+- [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
+- [JReleaser: quick and effortless way to release your project](https://jreleaser.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
