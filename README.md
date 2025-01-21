@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding OLAP vs. OLTP: The Key Differences](https://www.singlestore.com/blog/understanding-olap-vs-oltp-the-key-differences)
+- [How many Alpine packages can you install at once? &lpar;2024&rpar;](https://www.naff.dev/blog/all-the-packages)
+- [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
+- [Show HN: Pica – Rust-based agentic AI infrastructure &lpar;open-source&rpar;](https://www.picaos.com/)
 - [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
-- [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
-- [Ask HN: Organize local communities without Facebook?](https://news.ycombinator.com/item?id=42779776)
-- [&#39;It&#39;s a nightmare&#39;: couriers mystified by the algorithms that control their jobs](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs)
-- [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
