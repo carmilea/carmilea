@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
+- [Rafael Araujo&#39;s 20 Mesmerizing Geometrical Masterpieces &lpar;2024&rpar;](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
+- [Webring](https://webring.xxiivv.com/)
+- [Why do regexes use `$` and `^` as line anchors? &lpar;2024&rpar;](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
-- [How the strengths of Lisp facilitate complex and flexible applications &lpar;2016&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
-- [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
-- [Invisible Electrostatic Wall at 3M plant](http://amasci.com/weird/unusual/e-wall.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
