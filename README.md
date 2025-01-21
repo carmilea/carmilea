@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [President signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china)
-- [Japan Offers Free Daycare to Boost Tokyo&#39;s Falling Birth Rate](https://www.xatakaon.com/magnet/japan-is-desperate-to-increase-its-birth-rate-that-tokyo-is-trying-out-a-new-idea-free-daycare)
-- [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)
 - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
 - [An astronomical view of Ancient Egyptian star clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+- [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)
+- [Flag drawing with Turtle](https://jtanx.github.io/2018/12/28/turtle-flag-drawing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
