@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
+- [Poland fumes over US block on AI chips](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/)
 - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 - [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
-- [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
-- [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
 - [The QUIC API OpenSSL will not provide &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 <!-- BLOG-POST-LIST:END -->
 
