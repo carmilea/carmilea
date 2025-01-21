@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [People are bad at reporting what they eat. That&#39;s a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
-- [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
-- [Trump&#39;s science advisers: how they could influence his second presidency](https://www.nature.com/articles/d41586-025-00132-0)
-- [What I&#39;ve learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
-- [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
+- [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
+- [The QUIC API OpenSSL will not provide &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
+- [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
+- [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
