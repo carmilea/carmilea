@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
 - [Ask HN: Organize local communities without Facebook?](https://news.ycombinator.com/item?id=42779776)
 - [&#39;It&#39;s a nightmare&#39;: couriers mystified by the algorithms that control their jobs](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs)
 - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
-- [People are bad at reporting what they eat. That&#39;s a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
 <!-- BLOG-POST-LIST:END -->
 
 ---
