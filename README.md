@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New tech turns seawater into drinking water without tons of chemicals](https://news.umich.edu/new-water-purification-technology-helps-turn-seawater-into-drinking-water-without-tons-of-chemicals/)
+- [United States Digital Service Renamed to DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
+- [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)
 - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
-- [An Astronomical View of Ancient Egyptian Star Clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
-- [Reverse Engineering Call of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
-- [The Selma March &lpar;1965&rpar;](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
+- [An astronomical view of Ancient Egyptian star clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
