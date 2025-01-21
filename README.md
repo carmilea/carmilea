@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 - [Understanding OLAP vs. OLTP: The Key Differences](https://www.singlestore.com/blog/understanding-olap-vs-oltp-the-key-differences)
 - [How many Alpine packages can you install at once? &lpar;2024&rpar;](https://www.naff.dev/blog/all-the-packages)
-- [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
 - [Show HN: Pica – Rust-based agentic AI infrastructure &lpar;open-source&rpar;](https://www.picaos.com/)
-- [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
