@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
+- [New tech turns seawater into drinking water without tons of chemicals](https://news.umich.edu/new-water-purification-technology-helps-turn-seawater-into-drinking-water-without-tons-of-chemicals/)
+- [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
+- [An Astronomical View of Ancient Egyptian Star Clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- [Reverse Engineering Call of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 - [The Selma March &lpar;1965&rpar;](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
-- [Bambu Lab - Setting the Record Straight About Our Security Update](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
-- [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
-- [Authors Seek Meta&#39;s Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
