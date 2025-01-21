@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
+- [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
 - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 - [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
-- [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 - [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
-- [JReleaser: quick and effortless way to release your project](https://jreleaser.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
