@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 - [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
-- [Ross Ulbricht was just granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
-- [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+- [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
+- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
