@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU &lpar;open source&rpar;](https://github.com/sauravpanda/BrowserAI)
+- [TabBoo – add random jumpscares to websites you&#39;re trying to avoid](https://tabboo.xyz/)
+- [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
+- [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 - [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
-- [From Rockset to SingleStore: My Journey and a Guide for Rockset Developers Seeking a New Home](https://www.singlestore.com/blog/from-rockset-to-singlestore)
-- [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
-- [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
-- [Simple CPU Design](http://simplecpudesign.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
