@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Boost Business Success with Enterprise h2oGPTe](https://www.youtube.com/watch?v=OgN1MK6XRSw)
 - [Enterprise GPTe - A RAG machine, but not only!](https://www.youtube.com/watch?v=x-IOe2KE5Z4)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=uq_iNwPpQGE)
 - [What Are RAGs, and Why Do We Need Them?](https://www.youtube.com/watch?v=XyxYwHY9npc)
 - [Discover Enterprise h2oGPT Agents](https://www.youtube.com/watch?v=6FMos3W26Bo)
-- [How H2O.AI’s Small Language Model is Changing the Game](https://www.youtube.com/watch?v=wRgASknaDRk)
 <!-- YOUTUBE:END -->
 
 
