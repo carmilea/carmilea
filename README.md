@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flame: A small language model for spreadsheet formulas &lpar;2023&rpar;](https://arxiv.org/abs/2301.13779)
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
 - [Why is zero plural? &lpar;2024&rpar;](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
 - [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
-- [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
