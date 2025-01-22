@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
+- [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
+- [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
 - [Federal Court &lpar;Finally&rpar; Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 - [Trellis &lpar;YC W24&rpar; Is Hiring](https://runtrellis.com/)
 - [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
-- [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
