@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; Is Hiring](https://runtrellis.com/)
+- [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
 - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 - [C stdlib isn&#39;t threadsafe and even safe Rust didn&#39;t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 - [TabBoo – add random jumpscares to websites you&#39;re trying to avoid](https://tabboo.xyz/)
-- [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
-- [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
