@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
+- [Federal Court &lpar;Finally&rpar; Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 - [Trellis &lpar;YC W24&rpar; Is Hiring](https://runtrellis.com/)
+- [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
 - [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
-- [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
-- [C stdlib isn&#39;t threadsafe and even safe Rust didn&#39;t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
-- [TabBoo – add random jumpscares to websites you&#39;re trying to avoid](https://tabboo.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
