@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
+- [Ross Ulbricht was just granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-- [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
-- [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
-- [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
-- [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
+- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
