@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
+- [Strac &lpar;YC W22&rpar; Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
+- [I Won&#39;t Invest &lpar;2019&rpar;](https://davidjarvis.com/why-i-wont-invest/)
+- [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 - [Flame: A small language model for spreadsheet formulas &lpar;2023&rpar;](https://arxiv.org/abs/2301.13779)
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
-- [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
-- [The first release of OpenVox, the OSS implementation of Puppet](https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
