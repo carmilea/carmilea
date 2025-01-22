@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptocurrency Turns to Cash in Russian Banks](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
+- [The Tyranny of Structurelessness &lpar;1970&rpar;](https://www.jofreeman.com/joreen/tyranny.htm)
 - [PyVista](https://pyvista.org/)
 - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
 - [Strac &lpar;YC W22&rpar; Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
