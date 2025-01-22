@@ -61,8 +61,8 @@
 - [Flame: A small language model for spreadsheet formulas &lpar;2023&rpar;](https://arxiv.org/abs/2301.13779)
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
+- [The first release of OpenVox, the OSS implementation of Puppet](https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/)
 - [Why is zero plural? &lpar;2024&rpar;](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
-- [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
