@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
 - [Strac &lpar;YC W22&rpar; Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
 - [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
-- [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 - [Flame: A small language model for spreadsheet formulas &lpar;2023&rpar;](https://arxiv.org/abs/2301.13779)
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 <!-- BLOG-POST-LIST:END -->
