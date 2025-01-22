@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tyranny of Structurelessness &lpar;1970&rpar;](https://www.jofreeman.com/joreen/tyranny.htm)
-- [PyVista](https://pyvista.org/)
-- [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
-- [Strac &lpar;YC W22&rpar; Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
-- [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
+- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+- [From Rockset to SingleStore: My Journey and a Guide for Rockset Developers Seeking a New Home](https://www.singlestore.com/blog/from-rockset-to-singlestore)
+- [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
+- [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
+- [Simple CPU Design](http://simplecpudesign.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
