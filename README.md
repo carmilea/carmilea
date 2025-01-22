@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)
-- [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
 - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
 - [Flame: A small language model for spreadsheet formulas &lpar;2023&rpar;](https://arxiv.org/abs/2301.13779)
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
+- [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
+- [The first release of OpenVox, the OSS implementation of Puppet](https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
