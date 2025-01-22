@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
+- [Why is zero plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
 - [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 - [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
 - [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
-- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
