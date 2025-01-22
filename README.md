@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
-- [Why is zero plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
+- [Why is zero plural? &lpar;2024&rpar;](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
 - [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 - [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
-- [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
