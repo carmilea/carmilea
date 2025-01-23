@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Polars – A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars/)
 - [Morse Code in Tubular Bells &lpar;2021&rpar;](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
-- [You should write &quot;without bugs&quot;](https://korshakov.com/posts/no-bugs)
 - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
-- [Finnish Wartime Photograph Archive &lpar;1939-1945&rpar;](http://sa-kuva.fi/neo?tem=webneoeng#)
 - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
+- [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
