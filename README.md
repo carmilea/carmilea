@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
-- [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
-- [Federal Court &lpar;Finally&rpar; Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
-- [Trellis &lpar;YC W24&rpar; Is Hiring](https://runtrellis.com/)
-- [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
+- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
+- [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+- [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
+- [Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
+- [NIH hit with freezes on meetings, travel, communications, and hiring](https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
