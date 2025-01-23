@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
-- [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
-- [Where is London&#39;s most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
+- [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
+- [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
+- [Finding the Best Cloud Database: Top Solutions for Your Business Needs](https://www.singlestore.com/blog/finding-the-best-cloud-database)
+- [Psychedelic Graphics: An Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
+- [Third Base &lpar;2001&rpar;](https://www.americanscientist.org/article/third-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
