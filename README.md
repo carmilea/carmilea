@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
+- [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 - [Edge TTS](https://github.com/rany2/edge-tts)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
