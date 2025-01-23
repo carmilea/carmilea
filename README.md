@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Polars – A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars/)
+- [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
+- [Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
 - [Morse Code in Tubular Bells &lpar;2021&rpar;](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
 - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
-- [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
