@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using 2 Editors Because Xcode Is Dumb](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/)
+- [Why the next energy race is for underground hydrogen](https://www.technologyreview.com/2025/01/23/1110435/geologic-hydrogen/)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
 - [Where is London&#39;s most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
-- [We&#39;re accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
-- [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
-- [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
-- [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
