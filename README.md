@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+- [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
+- [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 - [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-- [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
-- [Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
-- [NIH hit with freezes on meetings, travel, communications, and hiring](https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
