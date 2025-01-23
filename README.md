@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
+- [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
 - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 - [Edge TTS](https://github.com/rany2/edge-tts)
-- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
-- [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
