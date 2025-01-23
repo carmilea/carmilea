@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
-- [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
-- [Frequent social media use tied to higher levels of irritability](https://medicalxpress.com/news/2025-01-frequent-social-media-higher.html)
-- [DeepSeek and the Effects of GPU Export Controls](https://www.vincentschmalbach.com/deepseek-and-the-effects-of-gpu-export-controls/)
 - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
+- [Where is London&#39;s most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
