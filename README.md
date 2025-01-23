@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
+- [DeepSeek and the Effects of GPU Export Controls](https://www.vincentschmalbach.com/deepseek-and-the-effects-of-gpu-export-controls/)
 - [Using 2 Editors Because Xcode Is Dumb](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/)
 - [Why the next energy race is for underground hydrogen](https://www.technologyreview.com/2025/01/23/1110435/geologic-hydrogen/)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
-- [Where is London&#39;s most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
