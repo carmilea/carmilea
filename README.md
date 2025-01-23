@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You should write &quot;without bugs&quot;](https://korshakov.com/posts/no-bugs)
+- [Finnish Wartime Photograph Archive &lpar;1939-1945&rpar;](http://sa-kuva.fi/neo?tem=webneoeng#)
 - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
-- [Introducing Operator](https://openai.com/index/introducing-operator/)
-- [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
