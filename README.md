@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intrinsic &lpar;YC W23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42805699)
+- [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
+- [Working with Files Is Hard &lpar;2019&rpar;](https://danluu.com/deconstruct-files/)
+- [Orbit Spirograph &lpar;2019&rpar;](https://www.redblobgames.com/x/1903-orbit-spirograph/)
 - [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
-- [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
-- [Finding the Best Cloud Database: Top Solutions for Your Business Needs](https://www.singlestore.com/blog/finding-the-best-cloud-database)
-- [Psychedelic Graphics: An Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
-- [Third Base &lpar;2001&rpar;](https://www.americanscientist.org/article/third-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
