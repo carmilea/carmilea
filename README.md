@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
+- [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 - [Introducing Operator](https://openai.com/index/introducing-operator/)
-- [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/)
-- [Show HN: Mixlist](https://www.mixlist.org/)
-- [Intrinsic &lpar;YC W23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42805699)
+- [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
