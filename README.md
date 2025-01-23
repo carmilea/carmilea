@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge TTS](https://github.com/rany2/edge-tts)
 - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
-- [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
