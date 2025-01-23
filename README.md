@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
+- [Introducing Operator](https://openai.com/index/introducing-operator/)
+- [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/)
+- [Show HN: Mixlist](https://www.mixlist.org/)
 - [Intrinsic &lpar;YC W23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42805699)
-- [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
-- [Working with Files Is Hard &lpar;2019&rpar;](https://danluu.com/deconstruct-files/)
-- [Orbit Spirograph &lpar;2019&rpar;](https://www.redblobgames.com/x/1903-orbit-spirograph/)
-- [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
