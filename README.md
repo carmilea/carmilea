@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)
 - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 - [Edge TTS](https://github.com/rany2/edge-tts)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+- [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
