@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Converge &lpar;YC S23&rpar; Is Hiring Founding Engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+- [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
+- [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
+- [Wild – A Fast Linker for Linux](https://github.com/davidlattimore/wild)
 - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
-- [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
-- [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
-- [Threlte 8](https://threlte.xyz/blog/threlte-8)
-- [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
