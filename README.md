@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FEMA May Be Eliminated](https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina)
-- [The Past, Present, and Future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
-- [Looking for work is a full time job](https://www.resumevue.com/board)
-- [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
-- [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
+- [Nuclear Proliferation and the &quot;Nth Country Experiment&quot;](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
+- [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
+- [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
+- [Legalyze.ai: Review Medical Records with AI](https://www.legalyze.ai/)
+- [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
