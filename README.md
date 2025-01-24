@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky&#39;s science takeover: 70% of Nature poll respondents use platform](https://www.nature.com/articles/d41586-025-00177-1)
+- [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
+- [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
+- [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
+- [Threlte 8](https://threlte.xyz/blog/threlte-8)
 - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
-- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
-- [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
-- [New electrical code could doom most common EV charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
