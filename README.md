@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
+- [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
+- [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
+- [PhysicsForums and the Dead Internet Theory](https://hallofdreams.org/posts/physicsforums/)
 - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
-- [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
-- [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
