@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sei &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
+- [Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 - [Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
-- [Morse Code in Tubular Bells &lpar;2021&rpar;](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
-- [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
-- [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
