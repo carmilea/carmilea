@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon UK to stop selling Bloomsbury&#39;s books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
+- [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 - [The State of Vim](https://lwn.net/Articles/1002342/)
 - [Weierstrass&#39;s Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
-- [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
