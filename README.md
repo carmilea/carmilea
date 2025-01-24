@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
+- [Bluesky&#39;s science takeover: 70% of Nature poll respondents use platform](https://www.nature.com/articles/d41586-025-00177-1)
+- [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
-- [Court rules FBI&#39;s warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
-- [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
-- [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
+- [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
+- [New electrical code could doom most common EV charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
