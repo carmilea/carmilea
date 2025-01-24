@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FEMA May Be Eliminated](https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina)
+- [The Past, Present, and Future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
+- [Looking for work is a full time job](https://www.resumevue.com/board)
 - [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 - [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
-- [PhysicsForums and the Dead Internet Theory](https://hallofdreams.org/posts/physicsforums/)
-- [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
-- [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
