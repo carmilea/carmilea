@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Linux Phone You&#39;ve Been Waiting For&quot;](https://liberux.net/#home)
+- [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 - [South Korea&#39;s Democracy Saved Itself &lpar;2024&rpar;](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)
 - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
-- [100% Unemployment: on keeping busy when the robots take over &lpar;2013&rpar;](https://hyponymo.us/2013/01/29/100-percent-unemployment/)
 - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
+- [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
