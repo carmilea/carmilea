@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
+- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+- [Court rules FBI&#39;s warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
 - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
 - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
-- [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
-- [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-- [The State of Vim](https://lwn.net/Articles/1002342/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
