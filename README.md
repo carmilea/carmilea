@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
 - [Sei &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 - [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 - [Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
-- [Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
