@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon UK to stop selling Bloomsbury&#39;s books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
-- [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
-- [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-- [The State of Vim](https://lwn.net/Articles/1002342/)
-- [Weierstrass&#39;s Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+- [&quot;The Linux Phone You&#39;ve Been Waiting For&quot;](https://liberux.net/#home)
+- [South Korea&#39;s Democracy Saved Itself &lpar;2024&rpar;](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)
+- [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
+- [100% Unemployment: on keeping busy when the robots take over &lpar;2013&rpar;](https://hyponymo.us/2013/01/29/100-percent-unemployment/)
+- [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
