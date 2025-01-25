@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dwarf Fortress Adventure Mode – Out Now – Official Release Trailer [video]](https://www.youtube.com/watch?v=7zY0UxSxTzU)
+- [Cal Newport: What Happened When an Offline Person Tried TikTok](https://www.newyorker.com/culture/infinite-scroll/what-happened-when-an-extremely-offline-person-tried-tiktok)
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [Deadly and Imminent; The Pentagon&#39;s Mad Dash for Silicon Valley&#39;s AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 - [Caltrain&#39;s electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
