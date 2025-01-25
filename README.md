@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
+- [Frustrated YouTube viewers seek explanation for hour-long unskippable ads](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
+- [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
 - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 - [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
-- [Crushing Jira tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/)
-- [VIC 20 Elite](https://vic20elite.wordpress.com/)
-- [Nuclear Proliferation and the &quot;Nth Country Experiment&quot;](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
