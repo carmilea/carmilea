@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cal Newport: What Happened When an Offline Person Tried TikTok](https://www.newyorker.com/culture/infinite-scroll/what-happened-when-an-extremely-offline-person-tried-tiktok)
+- [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor &lpar;2024&rpar;](https://wedistribute.org/2024/11/loops-early-look/)
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 - [Deadly and Imminent; The Pentagon&#39;s Mad Dash for Silicon Valley&#39;s AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 - [Caltrain&#39;s electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-- [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
+- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
