@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Russians Support the War in Ukraine?](https://www.newyorker.com/news/a-reporter-at-large/do-russians-really-support-the-war-in-ukraine)
-- [All the monkeys that escaped from a South Carolina research facility recaptured](https://www.cnn.com/2025/01/25/us/south-carolina-monkeys-captured/index.html)
+- [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
 - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 - [Doorbell camera catches rare footage of meteorite striking home&#39;s front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
-- [Liberux Nexx: Linux smartphone &lpar;found on Galaxus, Swiss online reseller&rpar;](https://www.digitec.ch/en/page/liberux-nexx-linux-smartphone-with-special-features-36483)
+- [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
+- [Show HN: Krita RGBA Tech – Exploring Filter Engines in Open-Source Art](https://github.com/Draneria/Toolkit-by-Draneria_Krita-Brushes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
