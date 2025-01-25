@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Men lose half their emotional support networks between 30 and 90](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)
-- [DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside](https://www.wired.com/story/doge-elon-musk/)
-- [AI isn&#39;t going to build your startup](https://justinjackson.ca/ai-build-saas)
-- [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
-- [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
+- [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
+- [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
+- [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
+- [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
