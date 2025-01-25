@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dwarf Fortress Adventure Mode – Out Now – Official Release Trailer [video]](https://www.youtube.com/watch?v=7zY0UxSxTzU)
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- [French police free kidnapped Ledger executive](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 - [Deadly and Imminent; The Pentagon&#39;s Mad Dash for Silicon Valley&#39;s AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 - [Caltrain&#39;s electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
 - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
