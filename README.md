@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 - [Doorbell camera catches rare footage of meteorite striking home&#39;s front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
-- [To make electricity cheaper and greener, connect the world&#39;s grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
+- [Liberux Nexx: Linux smartphone &lpar;found on Galaxus, Swiss online reseller&rpar;](https://www.digitec.ch/en/page/liberux-nexx-linux-smartphone-with-special-features-36483)
+- [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
 - [Hacker infects 18,000 &quot;script kiddies&quot; with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
-- [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
-- [Pixelfed Hit 500K Users](https://fedidb.org/software/pixelfed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
