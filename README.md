@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
-- [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
-- [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-- [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
+- [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
+- [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+- [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)
+- [WebFFT – The Fastest Fourier Transform on the Web](https://github.com/IQEngine/WebFFT)
+- [The invalid 68030 instruction that accidentally allowed the Mac Classic II to s](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
