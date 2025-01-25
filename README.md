@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
-- [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
-- [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)
-- [WebFFT – The Fastest Fourier Transform on the Web](https://github.com/IQEngine/WebFFT)
-- [The invalid 68030 instruction that accidentally allowed the Mac Classic II to s](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
+- [Bucket Robotics &lpar;YC S24&rpar; Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
+- [Fault Tolerance in Tandem Computer Systems &lpar;1986&rpar;[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
+- [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
+- [Poll: What is your preferred Search Engine?](https://news.ycombinator.com/item?id=42825048)
+- [Immutability Changes Everything &lpar;2016&rpar; [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
