@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
+- [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
+- [Crushing Jira tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/)
+- [VIC 20 Elite](https://vic20elite.wordpress.com/)
 - [Nuclear Proliferation and the &quot;Nth Country Experiment&quot;](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
-- [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
-- [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
-- [Legalyze.ai: Review Medical Records with AI](https://www.legalyze.ai/)
-- [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
