@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Men lose half their emotional support networks between 30 and 90](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)
+- [DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside](https://www.wired.com/story/doge-elon-musk/)
+- [AI isn&#39;t going to build your startup](https://justinjackson.ca/ai-build-saas)
 - [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
 - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
-- [Doorbell camera catches rare footage of meteorite striking home&#39;s front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
-- [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
-- [Show HN: Krita RGBA Tech – Exploring Filter Engines in Open-Source Art](https://github.com/Draneria/Toolkit-by-Draneria_Krita-Brushes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
