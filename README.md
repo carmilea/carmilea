@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 - [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-- [Frustrated YouTube viewers seek explanation for hour-long unskippable ads](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
 - [Show HN: I recovered one of my earliest ZX-Spectrum games from an audio cassette](https://news.ycombinator.com/item?id=42818581)
 - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
+- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
