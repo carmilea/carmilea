@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
+- [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 - [Bucket Robotics &lpar;YC S24&rpar; Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
 - [Fault Tolerance in Tandem Computer Systems &lpar;1986&rpar;[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
-- [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
-- [Poll: What is your preferred Search Engine?](https://news.ycombinator.com/item?id=42825048)
-- [Immutability Changes Everything &lpar;2016&rpar; [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+- [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior &lpar;2024&rpar;](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
