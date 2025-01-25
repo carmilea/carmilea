@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
-- [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
+- [French police free kidnapped Ledger executive](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
+- [Deadly and Imminent; The Pentagon&#39;s Mad Dash for Silicon Valley&#39;s AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
+- [Caltrain&#39;s electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
 - [Show HN: I recovered one of my earliest ZX-Spectrum games from an audio cassette](https://news.ycombinator.com/item?id=42818581)
 - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
-- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
