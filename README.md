@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inboxbooster &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
 - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
+- [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 - [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor &lpar;2024&rpar;](https://wedistribute.org/2024/11/loops-early-look/)
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- [Caltrain&#39;s electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
