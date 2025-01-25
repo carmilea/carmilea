@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doorbell camera catches rare footage of meteorite striking home&#39;s front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
+- [To make electricity cheaper and greener, connect the world&#39;s grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
 - [Hacker infects 18,000 &quot;script kiddies&quot; with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
 - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
-- [My Impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
-- [Inboxbooster &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
-- [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
+- [Pixelfed Hit 500K Users](https://fedidb.org/software/pixelfed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
