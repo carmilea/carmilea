@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
-- [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
+- [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
+- [It&#39;s not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
+- [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
+- [The Protesters&#39; Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 - [Paxo: A DIY Phone](https://paxo.fr/)
-- [SigNoz &lpar;YC W21&rpar; Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
-- [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
