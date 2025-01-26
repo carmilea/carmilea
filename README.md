@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Anyone else find LLM related posts causing them to lose interest in HN](https://news.ycombinator.com/item?id=42827723)
+- [Explainer: What&#39;s R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
 - [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 - [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
 - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
