@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
+- [GPT-4o-powered cleaning robot &lpar;built in 4 days&rpar;](https://twitter.com/JannikGrothusen/status/1852790503823057073)
+- [Another undersea cable damaged in Baltic Sea](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship)
 - [Former tech CEO suing to get the record of his arrest removed from the internet](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet)
 - [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
-- [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
-- [Render raises $80M in Series C financing](https://render.com/blog/series-c)
-- [Austin rents have fallen for nearly two years. Here&#39;s why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
