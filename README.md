@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21&rpar; Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
+- [Did a Private Equity Fire Truck Roll-Up Worsen the L.A. Fires?](https://www.thebignewsletter.com/p/did-a-private-equity-fire-truck-roll)
+- [The Graphics Codex](https://graphicscodex.com/)
 - [Explainer: What&#39;s R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
-- [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
-- [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
-- [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
-- [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
+- [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
