@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
-- [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
-- [It&#39;s not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
-- [The Protesters&#39; Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
-- [Paxo: A DIY Phone](https://paxo.fr/)
+- [No Bitcoin ETFs at Vanguard? Here&#39;s why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
+- [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
+- [Notes on Argentina](https://jorgevelez.substack.com/p/notes-on-argentina)
+- [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
+- [Two F-14 fighter jets were diverted to USS Midway](https://theaviationgeekclub.com/that-time-two-f-14-fighter-jets-were-diverted-to-uss-midway-the-carriers-flight-deck-and-infrastructure-could-not-support-regular-operation-of-the-large-heavy-tomcat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
