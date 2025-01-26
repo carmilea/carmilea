@@ -61,8 +61,8 @@
 - [SigNoz &lpar;YC W21&rpar; Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
 - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
 - [The Graphics Codex](https://graphicscodex.com/)
-- [Explainer: What&#39;s R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
 - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+- [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
 <!-- BLOG-POST-LIST:END -->
 
 ---
