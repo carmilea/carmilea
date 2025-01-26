@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperbound &lpar;YC S23&rpar; Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
 - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
+- [Astronomers seek global ban on space advertising](https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/)
+- [Brazil bans Sam Altman&#39;s tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
 - [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
-- [The Only Photo of the Concorde Flying at Supersonic Speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
-- [I don&#39;t like Docker or Podman](https://blog.liw.fi/posts/2025/docker/)
-- [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
