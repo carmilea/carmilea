@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
+- [Ask HN: Anyone else find LLM related posts causing them to lose interest in HN](https://news.ycombinator.com/item?id=42827723)
+- [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+- [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
 - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
-- [The South Vietnamese pilot who landed a Cessna on a carrier to save his family &lpar;2019&rpar;](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
-- [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
