@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
+- [The South Vietnamese pilot who landed a Cessna on a carrier to save his family](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
+- [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
+- [Tool touted as &#39;first AI software engineer&#39; is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
 - [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
-- [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
-- [Bucket Robotics &lpar;YC S24&rpar; Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
-- [Fault Tolerance in Tandem Computer Systems &lpar;1986&rpar;[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
-- [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior &lpar;2024&rpar;](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
