@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
-- [GPT-4o-powered cleaning robot &lpar;built in 4 days&rpar;](https://twitter.com/JannikGrothusen/status/1852790503823057073)
-- [Another undersea cable damaged in Baltic Sea](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship)
-- [Former tech CEO suing to get the record of his arrest removed from the internet](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet)
-- [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
+- [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
+- [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
+- [The Only Photo of the Concorde Flying at Supersonic Speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
+- [I don&#39;t like Docker or Podman](https://blog.liw.fi/posts/2025/docker/)
+- [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
