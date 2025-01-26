@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 - [It&#39;s not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
-- [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
 - [The Protesters&#39; Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 - [Paxo: A DIY Phone](https://paxo.fr/)
 <!-- BLOG-POST-LIST:END -->
