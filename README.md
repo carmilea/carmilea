@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Render raises $80M in Series C financing](https://render.com/blog/series-c)
+- [Austin rents have fallen for nearly two years. Here&#39;s why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
 - [No Bitcoin ETFs at Vanguard? Here&#39;s why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
 - [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
-- [Notes on Argentina](https://jorgevelez.substack.com/p/notes-on-argentina)
 - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
-- [Two F-14 fighter jets were diverted to USS Midway](https://theaviationgeekclub.com/that-time-two-f-14-fighter-jets-were-diverted-to-uss-midway-the-carriers-flight-deck-and-infrastructure-could-not-support-regular-operation-of-the-large-heavy-tomcat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
