@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)
 - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
 - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family &lpar;2019&rpar;](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
 - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
 - [Tool touted as &#39;first AI software engineer&#39; is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
-- [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
 <!-- BLOG-POST-LIST:END -->
 
 ---
