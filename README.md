@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Former tech CEO suing to get the record of his arrest removed from the internet](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet)
+- [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
+- [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
 - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
 - [Austin rents have fallen for nearly two years. Here&#39;s why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
-- [No Bitcoin ETFs at Vanguard? Here&#39;s why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
-- [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
-- [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
