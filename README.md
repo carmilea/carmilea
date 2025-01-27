@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US restricts Switzerland&#39;s access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
+- [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
 - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
 - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
-- [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
-- [Openhaystack: Build &#39;AirTags&#39; – track Bluetooth devices via Apple&#39;s network](https://github.com/seemoo-lab/openhaystack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
