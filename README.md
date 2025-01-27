@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oliver Heaviside and the theory of transmission lines](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
-- [SiFive&#39;s P550 Microarchitecture – By Chester Lam](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
+- [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
+- [Oliver Heaviside and the theory of transmission lines &lpar;2021&rpar;](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
+- [SiFive&#39;s P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
+- [Sweden Seizes Ship Suspected of Baltic Sea &#39;Sabotage&#39;](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
 - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
-- [Once You&#39;re Laid Off, You&#39;ll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
-- [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
