@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
+- [Lessons Learned From Using Azure Versioning and Soft-Delete](https://www.singlestore.com/blog/lessons-learned-from-using-azure-versioning-and-soft-delete)
 - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel &lpar;2021&rpar;](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
 - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
-- [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
-- [Oliver Heaviside and the theory of transmission lines &lpar;2021&rpar;](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
