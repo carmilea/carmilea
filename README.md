@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
-- [Calif.-founded EV maker Canoo, once worth $2.4B, goes belly-up](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
+- [If OpenSSL were a GUI &lpar;2022&rpar;](https://smallstep.com/blog/if-openssl-were-a-gui/)
+- [EV maker Canoo, once worth $2.4B, files for bankruptcy](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
 - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
-- [Show HN: An innovative flag-guessing game that identify regions by fragments](https://flagle.fun/)
 - [Purelymail: Cheap, no-nonsense email](https://purelymail.com/)
+- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
