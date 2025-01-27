@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
+- [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
 - [If OpenSSL were a GUI &lpar;2022&rpar;](https://smallstep.com/blog/if-openssl-were-a-gui/)
 - [EV maker Canoo, once worth $2.4B, files for bankruptcy](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
 - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
-- [Purelymail: Cheap, no-nonsense email](https://purelymail.com/)
-- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
