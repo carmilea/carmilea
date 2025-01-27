@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US restricts Switzerland&#39;s access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
-- [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
-- [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
-- [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
-- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
+- [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
+- [Calif.-founded EV maker Canoo, once worth $2.4B, goes belly-up](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
+- [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
+- [Show HN: An innovative flag-guessing game that identify regions by fragments](https://flagle.fun/)
+- [Purelymail: Cheap, no-nonsense email](https://purelymail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
