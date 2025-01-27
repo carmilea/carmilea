@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
-- [Sweden Seizes Ship Suspected of Baltic Sea &#39;Sabotage&#39;](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
+- [Oliver Heaviside and the theory of transmission lines](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
+- [SiFive&#39;s P550 Microarchitecture – By Chester Lam](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
 - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
-- [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
 - [Once You&#39;re Laid Off, You&#39;ll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
+- [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
