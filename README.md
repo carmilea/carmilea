@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweden Seizes Ship Suspected of Baltic Sea &#39;Sabotage&#39;](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
 - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
 - [Once You&#39;re Laid Off, You&#39;ll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 - [Hedy: Textual programming made easy](https://www.hedy.org/)
-- [If OpenSSL were a GUI &lpar;2022&rpar;](https://smallstep.com/blog/if-openssl-were-a-gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
