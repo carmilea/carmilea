@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
 - [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
 - [Openhaystack: Build &#39;AirTags&#39; – track Bluetooth devices via Apple&#39;s network](https://github.com/seemoo-lab/openhaystack)
 - [Lessons in creating family photos that people want to keep &lpar;2018&rpar;](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
-- [Kansas tuberculosis outbreak is now America&#39;s largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
