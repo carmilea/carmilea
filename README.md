@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pebble smartwatch firmware released as open-source](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+- [Google has open-sourced the Pebble smartwatch operating system](https://rebble.io/2025/01/27/the-future-of-rebble.html)
+- [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
-- [Current recycling innovations to utilize e-waste in green metal manufacturing](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0239)
 - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
-- [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
-- [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
