@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How DeepSeek-R1 Was Built, for Dummies](https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it)
+- [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel &lpar;2021&rpar;](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
+- [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
+- [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
 - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 - [Oliver Heaviside and the theory of transmission lines &lpar;2021&rpar;](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
-- [SiFive&#39;s P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
-- [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
