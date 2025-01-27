@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
+- [Current recycling innovations to utilize e-waste in green metal manufacturing](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0239)
+- [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
 - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
-- [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
-- [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
-- [Janus-Pro: Autoregressive framework unifying multimodal understanding&amp;generation](https://huggingface.co/deepseek-ai/Janus-Pro-7B)
 <!-- BLOG-POST-LIST:END -->
 
 ---
