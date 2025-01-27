@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pebble smartwatch firmware released as open-source](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
-- [Google has open-sourced the Pebble smartwatch operating system](https://rebble.io/2025/01/27/the-future-of-rebble.html)
-- [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
-- [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
-- [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
+- [Hackers are targeting machine identities;Token Security raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
+- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
+- [We&#39;re bringing Pebble back](https://repebble.com/)
+- [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+- [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
