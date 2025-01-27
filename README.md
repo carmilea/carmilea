@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How DeepSeek-R1 Was Built, for Dummies](https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it)
 - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 - [Oliver Heaviside and the theory of transmission lines &lpar;2021&rpar;](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 - [SiFive&#39;s P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
-- [Microplastics block blood flow in the brain, mouse study reveals](https://www.nature.com/articles/d41586-025-00178-0)
-- [A layoff fundamentally changed how I perceive work](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
+- [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
