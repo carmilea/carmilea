@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I trusted an LLM, now I&#39;m on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
+- [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)
 - [Hackers are targeting machine identities;Token Security raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
+- [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 - [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
-- [We&#39;re bringing Pebble back](https://repebble.com/)
-- [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
-- [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
