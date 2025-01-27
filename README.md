@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperbound &lpar;YC S23&rpar; Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-- [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
-- [Astronomers seek global ban on space advertising](https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/)
-- [Brazil bans Sam Altman&#39;s tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
-- [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
+- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
+- [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
+- [Openhaystack: Build &#39;AirTags&#39; – track Bluetooth devices via Apple&#39;s network](https://github.com/seemoo-lab/openhaystack)
+- [Lessons in creating family photos that people want to keep &lpar;2018&rpar;](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
+- [Kansas tuberculosis outbreak is now America&#39;s largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
