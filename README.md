@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 - [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
 - [I trusted an LLM, now I&#39;m on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 - [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 - [We&#39;re bringing Pebble back](https://repebble.com/)
-- [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
