@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=uq_iNwPpQGE)
 - [SingleStore Flow: The No-Code Tool for Effortless Data Migration and CDC](https://www.youtube.com/watch?v=1OOG5khS1Hs)
 - [Accelerate MongoDB® Apps for 100x Faster Analytics and AI | SingleStore Webinars](https://www.youtube.com/watch?v=-XrYh5rfLMU)
 - [Getting Started with H2O.ai Aquarium](https://www.youtube.com/watch?v=8dUnFEtASeA)
 - [Boost Business Success with Enterprise h2oGPTe](https://www.youtube.com/watch?v=OgN1MK6XRSw)
-- [Enterprise GPTe - A RAG machine, but not only!](https://www.youtube.com/watch?v=x-IOe2KE5Z4)
 <!-- YOUTUBE:END -->
 
 
