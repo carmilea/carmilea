@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps to Rename &#39;Gulf of Mexico&#39; to &#39;Gulf of America&#39;](https://thehill.com/policy/technology/5109912-google-maps-to-rename-gulf-of-mexico-to-gulf-of-america/)
 - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
-- [How Communism Is Outcompeting Capitalism](https://indi.ca/how-communism-is-obviously-outcompeting-capitalism/)
 - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 - [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
+- [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
