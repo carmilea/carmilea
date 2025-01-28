@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 - [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
-- [Why OpenAI&#39;s $157B valuation misreads AI&#39;s future &lpar;Oct 2024&rpar;](https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/)
 - [I trusted an LLM, now I&#39;m on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
