@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1,156 Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
+- [2024 YR4 and other dangerous asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
+- [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
 - [SciPhi &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
-- [Someone at Activision is leaking Slack screenshots to right-wing X users](https://www.gamedeveloper.com/business/it-looks-like-someone-at-activision-is-leaking-slack-screenshots-to-right-wing-x-users)
 - [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
-- [Parkinsons patient &quot;feels cured&quot; with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
-- [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
