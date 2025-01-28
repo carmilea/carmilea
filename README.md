@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
 - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
 - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
 - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
-- [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
