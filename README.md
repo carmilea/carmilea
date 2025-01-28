@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
-- [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
-- [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
-- [Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD](https://calbryant.uk/blog/speakers/)
-- [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
+- [Bitwarden introduces mandatory 2FA for new devices](https://bitwarden.com/help/new-device-verification/)
+- [XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
+- [Almost one in 10 people use the same four-digit PIN](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842)
+- [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
+- [Hackers Crack Subaru&#39;s Connected Services to Access Data, Door Locks and More](https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
