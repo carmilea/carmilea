@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
+- [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
+- [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
 - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
 - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
-- [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
-- [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
-- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
