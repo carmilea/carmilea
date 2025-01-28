@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek could represent Nvidia CEO Jensen Huang&#39;s worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
+- [Portal – sell your freelance services with style](https://useportal.net/)
+- [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
+- [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
 - [AI, but at What Cost? Breakdown of AI&#39;s Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
 - [Structured &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
-- [Cleveland police used AI to justify a search warrant. It derailed a murder case](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html)
-- [How Much Do Udemy Instructors Make &lpar;2024&rpar;](https://sellcoursesonline.com/udemy-earnings-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
