@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Civil servants are being asked who they voted for in 2024 election](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html)
 - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
+- [Show HN: I Created a Pomodoro Timer](https://25min.work)
 - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
-- [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
 - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
+- [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
