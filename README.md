@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portal – sell your freelance services with style](https://useportal.net/)
-- [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
-- [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
-- [AI, but at What Cost? Breakdown of AI&#39;s Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
-- [Structured &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
+- [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
+- [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
+- [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
+- [Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD](https://calbryant.uk/blog/speakers/)
+- [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
 <!-- BLOG-POST-LIST:END -->
 
 ---
