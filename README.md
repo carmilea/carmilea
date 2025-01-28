@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek could represent Nvidia CEO Jensen Huang&#39;s worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
+- [AI, but at What Cost? Breakdown of AI&#39;s Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
 - [Structured &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
-- [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
-- [Show HN: I Created a Pomodoro Timer](https://25min.work)
-- [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
-- [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
+- [Cleveland police used AI to justify a search warrant. It derailed a murder case](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html)
+- [How Much Do Udemy Instructors Make &lpar;2024&rpar;](https://sellcoursesonline.com/udemy-earnings-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
