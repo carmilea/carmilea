@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Apple CPU side-channel attacks steals data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
+- [Berkeley Researchers Replicate DeepSeek R1&#39;s Core Tech for Just $30: A Small Mod](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek)
+- [Using UV as Your Shebang Line](https://akrabat.com/using-uv-as-your-shebang-line/)
+- [Has DeepSeek improved the Transformer architecture](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)
 - [Curo &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply)
-- [Sam Altman said startups with $10M were &#39;hopeless&#39; competing with OpenAI](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise)
-- [Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model](https://qwenlm.github.io/blog/qwen2.5-max/)
-- [Bitwarden introduces mandatory 2FA for new devices](https://bitwarden.com/help/new-device-verification/)
-- [XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
