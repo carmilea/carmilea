@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [POTUS Tracker – Executive Orders, Presidential Schedule, Signed Legislation](https://potustracker.us/)
-- [New speculative attacks on Apple CPUs](https://predictors.fail/)
-- [New Apple CPU side-channel attacks steals data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
-- [Using uv as your shebang line](https://akrabat.com/using-uv-as-your-shebang-line/)
-- [How has DeepSeek improved the Transformer architecture?](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)
+- [Parkinsons patient &quot;feels cured&quot; with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
+- [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
+- [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
+- [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
+- [LinkedIn LinkedIn Removes Accounts of AI &#39;Co-Workers&#39; Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
