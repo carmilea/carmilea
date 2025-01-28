@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1,156 Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
-- [2024 YR4 and other dangerous asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
+- [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
+- [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
+- [DeepSeek&#39;s Multi-head latent attention and other KV cache tricks explained](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
+- [Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
 - [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
-- [SciPhi &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
-- [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
