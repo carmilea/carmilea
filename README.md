@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek R1 671B running on 2 M2 Ultras faster than reading speed](https://twitter.com/awnihannun/status/1881412271236346233)
-- [It&#39;s official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
-- [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
-- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
-- [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
+- [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
+- [AI bots everywhere. Does anyone have a good whitelist for robots.txt?](https://news.ycombinator.com/item?id=42861047)
+- [Confusion, uncertainty in industry as Army contracts seemingly halted](https://breakingdefense.com/2025/01/what-the-f-is-going-on-confusion-uncertainty-in-industry-as-army-contracts-seemingly-halted/)
+- [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
+- [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
