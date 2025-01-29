@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
+- [Frigade &lpar;YC W23&rpar; is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
+- [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
 - [How to Choose the Right SQL Database](https://www.singlestore.com/blog/how-to-choose-the-right-sql-database)
 - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
 - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
-- [US children fall further behind in reading](https://www.cnn.com/2025/01/29/us/education-standardized-test-scores/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
