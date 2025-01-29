@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frigade &lpar;YC W23&rpar; is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
-- [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
-- [How to Choose the Right SQL Database](https://www.singlestore.com/blog/how-to-choose-the-right-sql-database)
-- [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
-- [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
+- [No Man&#39;s Sky&#39;s update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
+- [Astral – &quot;We&#39;re building a new static type checker for Python&quot;](https://twitter.com/charliermarsh/status/1884651482009477368)
+- [Intel doesn&#39;t know how to be a foundry,&quot; Tim Cook reportedly told TSMC&#39;s CEO](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry)
+- [Ötzi the Lyme Mummy &lpar;2019&rpar;](https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/)
+- [An analysis of deepseek&#39;s R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
