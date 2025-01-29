@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK Weighs Making Netflix Users Pay License Fee to Fund BBC](https://www.bloomberg.com/news/articles/2025-01-28/uk-considers-making-netflix-users-pay-license-fee-to-fund-bbc)
-- [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
-- [AI bots everywhere. Does anyone have a good whitelist for robots.txt?](https://news.ycombinator.com/item?id=42861047)
-- [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
+- [Apple and SpaceX link up to support Starlink satellite network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
 - [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
+- [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
+- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
+- [DeepSeek&#39;s AI breakthrough bypasses industry-standard CUDA, uses PTX](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
