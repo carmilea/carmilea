@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Shares Resume Fall](https://www.ft.com/content/68912f4f-c3a6-4ef7-9ca9-4f92a92600a3)
+- [Groups helping Americans find abortion pills report Instagram &#39;shadow-banning&#39;](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
+- [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
+- [Ask HN: Are there &quot;story-based&quot; and &quot;fact-based&quot; people?](https://news.ycombinator.com/item?id=42869865)
 - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 - [Adding iodine to salt played a role in cognitive improvements: research &lpar;2013&rpar;](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
-- [No Man&#39;s Sky&#39;s update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
-- [Astral – &quot;We&#39;re building a new static type checker for Python&quot;](https://twitter.com/charliermarsh/status/1884651482009477368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
