@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof of concept WMI virus &lpar;zero-day&rpar;](https://github.com/pulpocaminante/Stuxnet)
-- [I do not want AI to &quot;polish&quot; me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
-- [Seagate: &#39;new&#39; hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
-- [Our phones are killing our ability to feel sexy &lpar;2024&rpar;](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
-- [Preserves: An Expressive Data Language](https://preserves.dev/)
+- [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
+- [Complete hardware and software setup for running Deepseek-R1 locally. &lpar;$6000&rpar;](https://twitter.com/carrigmat/status/1884244369907278106)
+- [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
+- [Meta&#39;s Mark Zuckerberg explores purchase of Washington DC property](https://www.ft.com/content/93109ba4-b779-46dc-8370-0dd871fac82a)
+- [Italy&#39;s privacy regulator goes after DeepSeek](https://www.politico.eu/article/italys-privacy-regulator-goes-after-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
