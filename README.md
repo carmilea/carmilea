@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yellowish Nodules on a Man Consuming a Carnivore Diet](https://jamanetwork.com/journals/jamacardiology/article-abstract/2828915?resultClick=1)
+- [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
+- [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
+- [Preserves: An Expressive Data Language](https://preserves.dev/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring Senior Software Engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
-- [Nuclear fusion: it&#39;s time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
-- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
-- [Qwen2.5-Max: The Next Leap in AI Innovation](https://medium.com/@ashinno43/qwen2-5-max-the-next-leap-in-ai-innovation-476749c0b4ff)
+- [Adding concurrent read/write to DuckDB with Arrow Flight](https://www.definite.app/blog/duck-takes-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
