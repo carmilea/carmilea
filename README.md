@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bacteria &lpar;and Their Metabolites&rpar; and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
-- [We got hit by an alarmingly well-prepared phish spammer](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer)
-- [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
-- [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
-- [Science YouTuber physicsgirl &lpar;Dianna Cowern&rpar; stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
+- [Yellowish Nodules on a Man Consuming a Carnivore Diet](https://jamanetwork.com/journals/jamacardiology/article-abstract/2828915?resultClick=1)
+- [Infracost &lpar;YC W21&rpar; Is Hiring Senior Software Engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
+- [Nuclear fusion: it&#39;s time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
+- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- [Qwen2.5-Max: The Next Leap in AI Innovation](https://medium.com/@ashinno43/qwen2-5-max-the-next-leap-in-ai-innovation-476749c0b4ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
