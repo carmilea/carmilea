@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
+- [How to Choose the Right SQL Database](https://www.singlestore.com/blog/how-to-choose-the-right-sql-database)
+- [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
 - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
-- [Complete hardware and software setup for running Deepseek-R1 locally. &lpar;$6000&rpar;](https://twitter.com/carrigmat/status/1884244369907278106)
-- [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
-- [Meta&#39;s Mark Zuckerberg explores purchase of Washington DC property](https://www.ft.com/content/93109ba4-b779-46dc-8370-0dd871fac82a)
-- [Italy&#39;s privacy regulator goes after DeepSeek](https://www.politico.eu/article/italys-privacy-regulator-goes-after-deepseek/)
+- [US children fall further behind in reading](https://www.cnn.com/2025/01/29/us/education-standardized-test-scores/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
