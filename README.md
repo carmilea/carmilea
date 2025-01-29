@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
 - [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
 - [Science YouTuber physicsgirl &lpar;Dianna Cowern&rpar; stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
 - [Apple and SpaceX link up to support Starlink satellite network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
 - [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
-- [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
