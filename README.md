@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek R1 671B running on 2 M2 Ultras faster than reading speed](https://twitter.com/awnihannun/status/1881412271236346233)
 - [It&#39;s official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
+- [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
 - [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
 - [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
-- [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
-- [DeepSeek&#39;s multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
