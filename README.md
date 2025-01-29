@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Shares Resume Fall](https://www.ft.com/content/68912f4f-c3a6-4ef7-9ca9-4f92a92600a3)
+- [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
+- [Adding iodine to salt played a role in cognitive improvements: research &lpar;2013&rpar;](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
 - [No Man&#39;s Sky&#39;s update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
 - [Astral – &quot;We&#39;re building a new static type checker for Python&quot;](https://twitter.com/charliermarsh/status/1884651482009477368)
-- [Intel doesn&#39;t know how to be a foundry,&quot; Tim Cook reportedly told TSMC&#39;s CEO](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry)
-- [Ötzi the Lyme Mummy &lpar;2019&rpar;](https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/)
-- [An analysis of deepseek&#39;s R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
