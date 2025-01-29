@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
-- [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
-- [DeepSeek&#39;s Multi-head latent attention and other KV cache tricks explained](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
-- [Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
-- [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
+- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
+- [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
+- [The Americans Pledging to Buy Less–Or Even Nothing](https://www.wsj.com/personal-finance/the-americans-pledging-to-buy-lessor-even-nothing-7edeacf3)
+- [I want my AI to get mad](https://jesseduffield.com/Angry-AI/)
+- [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
