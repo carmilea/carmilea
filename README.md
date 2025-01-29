@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Groups helping Americans find abortion pills report Instagram &#39;shadow-banning&#39;](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
+- [Making the Video That Made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
+- [DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
+- [Dead Games](https://garry.net/posts/dead-games)
+- [Fed leaves rates unchanged, drops reference to inflation &#39;progress&#39;](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
 - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
-- [Ask HN: Are there &quot;story-based&quot; and &quot;fact-based&quot; people?](https://news.ycombinator.com/item?id=42869865)
-- [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
-- [Adding iodine to salt played a role in cognitive improvements: research &lpar;2013&rpar;](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
