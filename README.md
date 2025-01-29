@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
-- [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
+- [Proof of concept WMI virus &lpar;zero-day&rpar;](https://github.com/pulpocaminante/Stuxnet)
+- [I do not want AI to &quot;polish&quot; me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
+- [Seagate: &#39;new&#39; hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
+- [Our phones are killing our ability to feel sexy &lpar;2024&rpar;](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 - [Preserves: An Expressive Data Language](https://preserves.dev/)
-- [Infracost &lpar;YC W21&rpar; Is Hiring Senior Software Engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
-- [Adding concurrent read/write to DuckDB with Arrow Flight](https://www.definite.app/blog/duck-takes-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
