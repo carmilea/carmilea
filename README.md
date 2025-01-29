@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google discontinuing work on Dart macros](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
-- [Zed&#39;s Vim Roadmap – 2025](https://zed.dev/blog/vim-2025)
-- [Parsing PDFs &lpar;and more&rpar; in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
-- [Keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
-- [Making the video that made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
+- [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
+- [An update on Dart macros and data serialization](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
+- [Vim Roadmap 2025](https://zed.dev/blog/vim-2025)
+- [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
+- [Meta Reports Fourth Quarter and Full Year 2024 Results](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
