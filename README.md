@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
 - [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
 - [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
-- [The Americans Pledging to Buy Less–Or Even Nothing](https://www.wsj.com/personal-finance/the-americans-pledging-to-buy-lessor-even-nothing-7edeacf3)
-- [I want my AI to get mad](https://jesseduffield.com/Angry-AI/)
 - [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
+- [DeepSeek&#39;s multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
