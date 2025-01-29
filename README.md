@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [H2O.ai h2oGPTe Agentic AI Webinar Recording](https://www.youtube.com/watch?v=m3I3ro_ZAnE)
 - [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window](https://www.youtube.com/watch?v=OygO14pXK84)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=w0IkvIvCt-8)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=uq_iNwPpQGE)
 - [SingleStore Flow: The No-Code Tool for Effortless Data Migration and CDC](https://www.youtube.com/watch?v=1OOG5khS1Hs)
-- [Accelerate MongoDB® Apps for 100x Faster Analytics and AI | SingleStore Webinars](https://www.youtube.com/watch?v=-XrYh5rfLMU)
 <!-- YOUTUBE:END -->
 
 
