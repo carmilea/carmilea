@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
+- [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
+- [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 - [Codes Health &lpar;YC S24&rpar; Is Hiring](https://news.ycombinator.com/item?id=42877004)
 - [LibreOffice 400M Downloads, and Counting](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/)
-- [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
-- [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
+- [Interview with DeepSeek Founder: We&#39;re Done Following. It&#39;s Time to Lead](https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
