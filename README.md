@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
-- [Show HN: Reactive Signals for Python – inspired by Angular&#39;s reactivity model](https://github.com/buiapp/reaktiv)
 - [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 <!-- BLOG-POST-LIST:END -->
 
