@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
 - [Codes Health &lpar;YC S24&rpar; Is Hiring](https://news.ycombinator.com/item?id=42877004)
 - [LibreOffice 400M Downloads, and Counting](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/)
 - [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
-- [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
