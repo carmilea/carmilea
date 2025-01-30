@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US government&#39;s open data on Data.gov is currently being scrubbed](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/)
+- [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 - [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
-- [Decompiling 2024: A Year of Resurgance in Decompilation Research](https://mahaloz.re/dec-progress-2024)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Senior Software Engineer &lpar;SF&rpar;](https://news.ycombinator.com/item?id=42873532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
