@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
 - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
-- [Codes Health &lpar;YC S24&rpar; Is Hiring](https://news.ycombinator.com/item?id=42877004)
-- [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
-- [Investigating the case of human nose shape and climate adaptation &lpar;2017&rpar;](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
+- [History of APL in the USSR &lpar;1991&rpar;](https://dl.acm.org/doi/10.1145/130647.130656)
+- [Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
