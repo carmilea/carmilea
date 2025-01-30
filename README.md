@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What makes a great mocktail? &lpar;2018&rpar;](https://www.seriouseats.com/cocktail-science-mocktail-how-to-replicate-the-taste-of-alcohol-in-a-nonalcoholic-drink)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
-- [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
