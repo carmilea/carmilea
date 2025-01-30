@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
+- [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/)
+- [Show HN: Reactive Signals for Python – inspired by Angular&#39;s reactivity model](https://github.com/buiapp/reaktiv)
 - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 - [1996 &quot;Authentic&quot; Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
-- [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)
-- [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
-- [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
