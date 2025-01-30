@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
-- [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/)
+- [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
 - [Show HN: Reactive Signals for Python – inspired by Angular&#39;s reactivity model](https://github.com/buiapp/reaktiv)
-- [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
-- [1996 &quot;Authentic&quot; Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
+- [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
