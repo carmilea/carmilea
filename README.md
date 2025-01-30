@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
-- [An update on Dart macros and data serialization](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
-- [Vim Roadmap 2025](https://zed.dev/blog/vim-2025)
-- [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
-- [Meta Reports Fourth Quarter and Full Year 2024 Results](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx)
+- [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Senior Software Engineer &lpar;SF&rpar;](https://news.ycombinator.com/item?id=42873532)
+- [Classic Duck Hunt Game Made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
+- [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
+- [Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions](https://github.com/marketplace/actions/feed-to-bluesky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
