@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
+- [Great Question &lpar;YC W21&rpar; Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
+- [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
 - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 - [History of APL in the USSR &lpar;1991&rpar;](https://dl.acm.org/doi/10.1145/130647.130656)
-- [Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
