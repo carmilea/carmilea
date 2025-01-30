@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral](https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/)
 - [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
 - [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Senior Software Engineer &lpar;SF&rpar;](https://news.ycombinator.com/item?id=42873532)
 - [Classic Duck Hunt game made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
-- [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
