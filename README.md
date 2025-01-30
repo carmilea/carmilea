@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US government&#39;s open data on Data.gov is currently being scrubbed](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/)
+- [I built a website where you can pop confettis for no reason](https://poptheconfetti.website)
+- [A Young Man Used AI to Build a Nuclear Fusor and Now I Must Weep](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear)
 - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
-- [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
