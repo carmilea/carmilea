@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
-- [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
-- [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
-- [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
+- [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
+- [1996 &quot;Authentic&quot; Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
+- [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)
+- [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
+- [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
