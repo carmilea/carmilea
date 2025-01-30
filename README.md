@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FAA issues ground stop after plane crashes in Potomac River](https://www.cnn.com/2025/01/29/us/plane-crash-potomac-river/index.html)
-- [Commercial Jet Collides with Police Chopper Near Reagan Airport – Mediaite](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
+- [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
 - [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Senior Software Engineer &lpar;SF&rpar;](https://news.ycombinator.com/item?id=42873532)
-- [Classic Duck Hunt Game Made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
+- [Classic Duck Hunt game made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
+- [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
