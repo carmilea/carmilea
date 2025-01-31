@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Approves drug to treat pain without opioid effects](https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html)
 - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
+- [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
