@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram and Facebook Blocked and Hid Abortion Pill Providers&#39; Posts](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html)
-- [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
-- [Meta in talks to reincorporate in Texas or another state, WSJ reports](https://www.reuters.com/technology/meta-talks-reincorporate-texas-or-another-state-exit-delaware-wsj-reports-2025-01-31/)
-- [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
-- [The Tensor Cookbook](https://tensorcookbook.com/)
+- [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
+- [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
+- [US government agency argues that money isn&#39;t property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
+- [Federal employees told to remove pronouns from email signatures by end of day](https://abcnews.go.com/US/federal-employees-told-remove-pronouns-email-signatures-end/story?id=118310483)
 <!-- BLOG-POST-LIST:END -->
 
 ---
