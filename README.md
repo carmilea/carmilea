@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)
+- [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 - [Copyright Office suggests AI copyright debate was settled in 1965](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/)
-- [Inducing brain-like structure in GPT&#39;s weights makes them parameter efficient](https://arxiv.org/abs/2501.16396)
-- [65% of all ski resorts in the US have closed since 1960s &lpar;2022&rpar;](https://www.mdpi.com/2073-445X/11/4/494)
-- [Show HN: 1M+ animated GPU sprites in JavaScript](https://phaser.io/news/2025/01/phaser-v4-beta-5-released)
+- [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396)
+- [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
