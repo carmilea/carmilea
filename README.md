@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hedge fund warns White House is inflating crypto bubble that could wreak havoc](https://www.ft.com/content/5fe69580-7f01-4215-98bb-b6ec5f7cd833)
+- [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
+- [Llama.cpp supports Vulkan. why doesn&#39;t Ollama?](https://github.com/ollama/ollama/pull/5059)
+- [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
 - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
-- [Hacker News for Gamedev](https://gamedev.city/)
-- [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
-- [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
-- [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
