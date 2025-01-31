@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
+- [Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/)
+- [Germany: Number of unemployed highest in 10 years](https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806)
+- [Oil giant Shell walks away from major New Jersey offshore wind farm](https://apnews.com/article/wind-energy-offshore-turbines-trump-executive-order-new-jersey-121fe7a76529fcf9ce969868dda6283e)
 - [Add &quot;fucking&quot; to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
-- [How will Australia&#39;s under-16 social media ban work? We asked the law&#39;s enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
-- [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
-- [US government agency argues that money isn&#39;t property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
