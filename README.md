@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini-R1: Reproduce DeepSeek R1 &quot;Aha Moment&quot;](https://www.philschmid.de/mini-deepseek-r1)
+- [Google Pixel 4a update to &quot;improve stability&quot; of the battery cuts life in half](https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/)
 - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
+- [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 - [Copyright Office suggests AI copyright debate was settled in 1965](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/)
-- [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396)
-- [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
