@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Distro &lpar;YC S24&rpar; Is Hiring a Chief of Staff in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff)
-- [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
-- [Apple files emergency motion to become defendant in Google vs. US [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf)
-- [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
-- [Fixing E.T. The Extra-Terrestrial for the Atari 2600 &lpar;2013&rpar;](http://www.neocomputer.org/projects/et/)
+- [Older Adults Disproportionately Hindered by Touch Screen Interfaces](https://journals.sagepub.com/doi/10.1177/21695067231193656)
+- [Three AM 911 call, 9 AM salesman](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/)
+- [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
+- [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
+- [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 <!-- BLOG-POST-LIST:END -->
 
 ---
