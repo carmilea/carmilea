@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
+- [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
 - [Mini-R1: Reproduce DeepSeek R1 &quot;Aha Moment&quot;](https://www.philschmid.de/mini-deepseek-r1)
-- [Google Pixel 4a update to &quot;improve stability&quot; of the battery cuts life in half](https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/)
 - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
-- [Copyright Office suggests AI copyright debate was settled in 1965](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
