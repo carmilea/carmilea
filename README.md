@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram and Facebook Blocked and Hid Abortion Pill Providers&#39; Posts](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html)
+- [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
+- [Meta in talks to reincorporate in Texas or another state, WSJ reports](https://www.reuters.com/technology/meta-talks-reincorporate-texas-or-another-state-exit-delaware-wsj-reports-2025-01-31/)
 - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
-- [OpenAI launches o3-mini, its latest &#39;reasoning&#39; model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
-- [TCAS Avoided Collision with Army Helicopter over Potomac River [video]](https://www.youtube.com/watch?v=huVFZ__q2rI)
-- [FBI, Dutch Police Disrupt &#39;Manipulaters&#39; Phishing Gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
-- [O3-mini System Card [pdf]](https://cdn.openai.com/o3-mini-system-card.pdf)
+- [The Tensor Cookbook](https://tensorcookbook.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
