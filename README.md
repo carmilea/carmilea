@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The American science funding catastrophe](https://scottaaronson.blog/?p=8609)
+- [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
+- [Hacker News for Gamedev](https://gamedev.city/)
 - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
 - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
 - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
-- [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
