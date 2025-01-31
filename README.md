@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RamaLama](https://github.com/containers/ramalama)
-- [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
-- [Patient Monitor Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/resources-tools/resources/contec-cms8000-contains-backdoor)
-- [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
-- [Ear muscle we thought humans didn&#39;t use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
+- [A brief history of counting machines &lpar;2023&rpar;](https://lcamtuf.substack.com/p/a-brief-history-of-counting-stuff)
+- [Pimping my Casio with Oddly Specific Objects&#39; alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
+- [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
+- [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
+- [For privacy: Change of our refund policy from 30 to 14 days](https://mullvad.net/en/blog/for-privacy-change-of-our-refund-policy-from-30-to-14-days)
 <!-- BLOG-POST-LIST:END -->
 
 ---
