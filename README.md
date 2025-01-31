@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The American science funding catastrophe](https://scottaaronson.blog/?p=8609)
 - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
-- [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
-- [Mini-R1: Reproduce DeepSeek R1 &quot;Aha Moment&quot;](https://www.philschmid.de/mini-deepseek-r1)
 - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
+- [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
