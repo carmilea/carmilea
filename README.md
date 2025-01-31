@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hedge fund warns White House is inflating crypto bubble that could wreak havoc](https://www.ft.com/content/5fe69580-7f01-4215-98bb-b6ec5f7cd833)
+- [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
+- [Five years of Brexit reshaped Britain](https://www.ft.com/content/4d2d78b0-eedd-485c-9a9c-4e41baf46146)
+- [Ear muscle we thought humans didn&#39;t use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
 - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
 - [Llama.cpp supports Vulkan. why doesn&#39;t Ollama?](https://github.com/ollama/ollama/pull/5059)
-- [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
-- [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
 <!-- BLOG-POST-LIST:END -->
 
 ---
