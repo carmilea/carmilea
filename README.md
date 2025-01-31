@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A brief history of counting machines &lpar;2023&rpar;](https://lcamtuf.substack.com/p/a-brief-history-of-counting-stuff)
-- [Pimping my Casio with Oddly Specific Objects&#39; alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
-- [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
-- [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
-- [For privacy: Change of our refund policy from 30 to 14 days](https://mullvad.net/en/blog/for-privacy-change-of-our-refund-policy-from-30-to-14-days)
+- [Distro &lpar;YC S24&rpar; Is Hiring a Chief of Staff in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff)
+- [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
+- [Apple files emergency motion to become defendant in Google vs. US [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf)
+- [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
+- [Fixing E.T. The Extra-Terrestrial for the Atari 2600 &lpar;2013&rpar;](http://www.neocomputer.org/projects/et/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
