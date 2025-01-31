@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
+- [Add &quot;fucking&quot; to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
+- [How will Australia&#39;s under-16 social media ban work? We asked the law&#39;s enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
 - [FurtherAI &lpar;YC W24&rpar; Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
 - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
 - [US government agency argues that money isn&#39;t property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
-- [Federal employees told to remove pronouns from email signatures by end of day](https://abcnews.go.com/US/federal-employees-told-remove-pronouns-email-signatures-end/story?id=118310483)
 <!-- BLOG-POST-LIST:END -->
 
 ---
