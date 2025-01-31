@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Older Adults Disproportionately Hindered by Touch Screen Interfaces](https://journals.sagepub.com/doi/10.1177/21695067231193656)
-- [Three AM 911 call, 9 AM salesman](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/)
-- [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
-- [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
-- [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
+- [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
+- [OpenAI launches o3-mini, its latest &#39;reasoning&#39; model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
+- [TCAS Avoided Collision with Army Helicopter over Potomac River [video]](https://www.youtube.com/watch?v=huVFZ__q2rI)
+- [FBI, Dutch Police Disrupt &#39;Manipulaters&#39; Phishing Gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
+- [O3-mini System Card [pdf]](https://cdn.openai.com/o3-mini-system-card.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
