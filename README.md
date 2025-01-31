@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RamaLama](https://github.com/containers/ramalama)
+- [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 - [Patient Monitor Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/resources-tools/resources/contec-cms8000-contains-backdoor)
 - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
-- [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
 - [Ear muscle we thought humans didn&#39;t use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
-- [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
