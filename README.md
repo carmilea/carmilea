@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: TalkNotes – A site that turns your GENIUS IDEAS into tasks](https://www.talknotes.tech/)
+- [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
+- [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
 - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
 - [How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/)
 - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
-- [How to turn off Apple Intelligence](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
