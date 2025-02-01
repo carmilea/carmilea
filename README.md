@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The FAA&#39;s Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
-- [ADHD Didn&#39;t Break Me–My Parents Did](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did)
+- [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
+- [Google Maps reclassifies the U.S. as a &#39;sensitive country&#39;](https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/)
+- [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
 - [Reprompt &lpar;YC W24&rpar; is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
 - [It&#39;s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
-- [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
