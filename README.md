@@ -62,7 +62,7 @@
 - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 - [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
 - [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)
-- [Norway&#39;s wealth fund now worth $319,900 per citizen](https://sherwood.news/world/norways-wealth-fund-reports-record-profits-worth-usd319-900-citizen/)
+- [Hell is overconfident developers writing encryption code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
