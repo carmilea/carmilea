@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zizians](https://zizians.info/)
 - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
-- [Running DeepSeek R1 on Your Own &lpar;cheap&rpar; Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
 - [Ratzilla](https://orhun.dev/ratzilla/demo/)
 - [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
 - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
