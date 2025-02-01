@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
-- [Google Maps reclassifies the U.S. as a &#39;sensitive country&#39;](https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/)
-- [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
-- [Reprompt &lpar;YC W24&rpar; is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
-- [It&#39;s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
+- [Phyllis Fong, who was investigating Neuralink, &quot;forcefully removed &quot;](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
+- [National Science Foundation freezes payments in response to executive orders](https://www.npr.org/2025/01/31/nx-s1-5282162/scientists-grants-frozen-trump-executive-actions-dei-deia)
+- [NTSB forces reporters to get plane crash updates on X](https://thedesk.net/2025/02/ntsb-moves-plane-crash-press-updates-x-twitter/)
+- [USAID website has been taken down](https://www.reuters.com/world/us/website-usaid-appears-be-offline-2025-02-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
