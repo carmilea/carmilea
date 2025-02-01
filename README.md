@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Macrodata Refinement](https://lumon-industries.com/)
+- [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)
+- [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
+- [A bookmarklet to kill sticky headers &lpar;2013&rpar;](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 - [Phyllis Fong, who was investigating Neuralink, &quot;forcefully removed &quot;](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
-- [National Science Foundation freezes payments in response to executive orders](https://www.npr.org/2025/01/31/nx-s1-5282162/scientists-grants-frozen-trump-executive-actions-dei-deia)
-- [NTSB forces reporters to get plane crash updates on X](https://thedesk.net/2025/02/ntsb-moves-plane-crash-press-updates-x-twitter/)
-- [USAID website has been taken down](https://www.reuters.com/world/us/website-usaid-appears-be-offline-2025-02-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
