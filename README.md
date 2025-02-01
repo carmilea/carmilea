@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
+- [The FAA&#39;s Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
 - [ADHD Didn&#39;t Break Me–My Parents Did](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did)
 - [Reprompt &lpar;YC W24&rpar; is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
 - [It&#39;s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
