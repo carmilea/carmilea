@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
 - [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
 - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
 - [Notes on OpenAI O3-Mini](https://simonwillison.net/2025/Jan/31/o3-mini/)
-- [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
