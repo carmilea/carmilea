@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: TalkNotes – A site that turns your GENIUS IDEAS into tasks](https://www.talknotes.tech/)
+- [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
+- [How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/)
 - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
-- [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
-- [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
-- [Reflections on palantir – Nabeel S. Qureshi](https://nabeelqu.co/reflections-on-palantir)
-- [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
+- [How to turn off Apple Intelligence](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
