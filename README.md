@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
-- [Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/)
-- [Germany: Number of unemployed highest in 10 years](https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806)
-- [Oil giant Shell walks away from major New Jersey offshore wind farm](https://apnews.com/article/wind-energy-offshore-turbines-trump-executive-order-new-jersey-121fe7a76529fcf9ce969868dda6283e)
-- [Add &quot;fucking&quot; to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
+- [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
+- [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
+- [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
+- [Notes on OpenAI O3-Mini](https://simonwillison.net/2025/Jan/31/o3-mini/)
+- [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
