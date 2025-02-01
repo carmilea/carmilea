@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Macrodata Refinement](https://lumon-industries.com/)
-- [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)
 - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
 - [A bookmarklet to kill sticky headers &lpar;2013&rpar;](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
-- [Phyllis Fong, who was investigating Neuralink, &quot;forcefully removed &quot;](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
+- [Oracle Cloud deleting active user accounts without possibility for data recovery](https://mastodon.de/@ErikUden/113930010311998246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
