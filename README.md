@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strike Is Coming](https://generalstrikeus.com)
+- [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
+- [ADHD Didn&#39;t Break Me–My Parents Did](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did)
 - [Reprompt &lpar;YC W24&rpar; is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
+- [It&#39;s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
 - [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
-- [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
-- [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
