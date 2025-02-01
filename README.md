@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Authoritarian Coups Are Gradual Then Sudden](https://hartmannreport.com/p/authoritarian-coups-are-gradual-then)
-- [Authoritarian Coups Are Gradual Then Sudden](https://hartmannreport.com/p/authoritarian-coups-are-gradual-then)
-- [I Miss Vim](https://leblancfg.com/i-miss-vim.html)
+- [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)
+- [I miss Vim](https://leblancfg.com/i-miss-vim.html)
 - [Hell is overconfident developers writing encryption code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
-- [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
+- [Hoppscotch: Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
+- [Running DeepSeek R1 Models Locally on NPU](https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
