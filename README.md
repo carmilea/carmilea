@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Executive Order: For each new agency regulation issued, 10 must be repealed](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-launches-massive-10-to-1-deregulation-initiative/)
-- [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
-- [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
-- [Island residents are still dealing with the fallout of exploded Starship](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html)
-- [Ratzilla](https://orhun.dev/ratzilla/demo/)
+- [The Strike Is Coming](https://generalstrikeus.com)
+- [Reprompt &lpar;YC W24&rpar; is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
+- [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
+- [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
+- [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
