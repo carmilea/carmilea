@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Zizians](https://zizians.info/)
-- [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
+- [Executive Order: For each new agency regulation issued, 10 must be repealed](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-launches-massive-10-to-1-deregulation-initiative/)
+- [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
+- [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
+- [Island residents are still dealing with the fallout of exploded Starship](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html)
 - [Ratzilla](https://orhun.dev/ratzilla/demo/)
-- [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
-- [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
