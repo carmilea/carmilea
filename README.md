@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
+- [Reflections on palantir – Nabeel S. Qureshi](https://nabeelqu.co/reflections-on-palantir)
 - [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
-- [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)
-- [Hell is overconfident developers writing encryption code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
