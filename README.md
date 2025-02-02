@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+- [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
 - [Compiling Java into Native Binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-- [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
-- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
