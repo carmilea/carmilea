@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GarminDB](https://github.com/tcgoetz/GarminDB)
+- [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
+- [Don&#39;t make fun of renowned author Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
+- [Costa Rican Supermarket Wins Trademark Battle Against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
 - [A loophole used by Shein/Temu to ship packages to US tax-free &lpar;2024&rpar;](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
-- [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
-- [Waydroid – Android in a Linux container](https://waydro.id/)
-- [UK betting giant&#39;s unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
-- [The Legacy of Lies in Alzheimer&#39;s Science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
