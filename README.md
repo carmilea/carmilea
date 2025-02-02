@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Science is political and always has been](https://jrhawley.ca/2024/11/15/science-is-political-and-always-has-been)
+- [A loophole used by Shein/Temu to ship packages to US tax-free](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
 - [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
-- [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
-- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
-- [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
+- [Waydroid – Android in a Linux container](https://waydro.id/)
+- [UK betting giant&#39;s unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
+- [The Legacy of Lies in Alzheimer&#39;s Science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
