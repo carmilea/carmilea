@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
+- [I&#39;m Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
-- [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
-- [Compiling Java into native binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 - [&#39;Obelisks&#39;, a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
+- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
