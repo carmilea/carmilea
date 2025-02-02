@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 - [Reinforcement Learning: An Overview &lpar;December 2024&rpar;](https://arxiv.org/abs/2412.05265)
-- [Mutool – all purpose tool for dealing with PDF files](https://www.mankier.com/1/mutool)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
+- [Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
 <!-- BLOG-POST-LIST:END -->
 
 ---
