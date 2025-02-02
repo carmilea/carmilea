@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
+- [Reinforcement Learning: An Overview &lpar;December 2024&rpar;](https://arxiv.org/abs/2412.05265)
+- [Mutool – all purpose tool for dealing with PDF files](https://www.mankier.com/1/mutool)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
-- [Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
-- [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card &lpar;2020&rpar;](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
-- [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
