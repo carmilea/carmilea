@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card &lpar;2020&rpar;](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+- [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
-- [Sound &amp; Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf)
-- [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
