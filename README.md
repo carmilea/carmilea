@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 - [Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
+- [Spaced repetition can allow for infinite recall &lpar;2022&rpar;](https://www.efavdb.com/memory%20recall)
 - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card &lpar;2020&rpar;](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
-- [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
-- [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
