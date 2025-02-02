@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers just discovered an new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-- [Smoot–Hawley Tariff Act](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act)
-- [Medical billing firm Medusind discloses breach affecting 360k people](https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/)
+- [Proposed bill to make it a crime to download DeepSeek in the US](https://www.congress.gov/bill/119th-congress/senate-bill/321/all-actions?s=3&r=1)
+- [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
+- [DOGE Staff Had Questions About the &#39;Resign&#39; Email. Their HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
 - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
-- [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)
+- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
