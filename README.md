@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A loophole used by Shein/Temu to ship packages to US tax-free](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
+- [A loophole used by Shein/Temu to ship packages to US tax-free &lpar;2024&rpar;](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
 - [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 - [Waydroid – Android in a Linux container](https://waydro.id/)
 - [UK betting giant&#39;s unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
