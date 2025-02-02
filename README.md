@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Lume – OS Lightweight CLI/API for macOS/Linux VMs on Apple Silicon](https://github.com/trycua/lume)
+- [Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
 - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card &lpar;2020&rpar;](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
