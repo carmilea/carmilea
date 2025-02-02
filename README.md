@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Science is political and always has been](https://jrhawley.ca/2024/11/15/science-is-political-and-always-has-been)
+- [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
-- [Reinforcement Learning: An Overview &lpar;December 2024&rpar;](https://arxiv.org/abs/2412.05265)
+- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
-- [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
-- [Show HN: Lume – OS lightweight CLI for MacOS &amp; Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
 <!-- BLOG-POST-LIST:END -->
 
 ---
