@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lume – OS Lightweight CLI/API for macOS/Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card &lpar;2020&rpar;](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
-- [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
