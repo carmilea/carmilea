@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Proposed bill to make it a crime to download DeepSeek in the US](https://www.congress.gov/bill/119th-congress/senate-bill/321/all-actions?s=3&r=1)
 - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-- [DOGE Staff Had Questions About the &#39;Resign&#39; Email. Their HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
 - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
 - [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
+- [RLHF Book](https://rlhfbook.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
