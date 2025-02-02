@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
+- [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
+- [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 - [I&#39;m Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
-- [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
-- [&#39;Obelisks&#39;, a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
