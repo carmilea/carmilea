@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hightouch &lpar;YC S19&rpar; Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
+- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
+- [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
 - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
-- [Reverse Engineering Apple&#39;s typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
-- [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
-- [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
-- [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
+- [Ask HN: Who is hiring? &lpar;February 2025&rpar;](https://news.ycombinator.com/item?id=42919502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
