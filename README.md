@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dumbest Trade War Fallout Begins](https://www.wsj.com/opinion/the-trump-tariff-fallout-begins-canada-mexico-vow-retaliation-economic-uncertainty-da522b44)
+- [Managing Secrets in Docker Compose – A Developer&#39;s Guide](https://phase.dev/blog/docker-compose-secrets/)
+- [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
 - [Patterns for Personal Web Sites &lpar;2003&rpar;](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
-- [Deep Research](https://openai.com/index/introducing-deep-research/)
+- [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
-- [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
