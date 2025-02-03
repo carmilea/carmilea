@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
+- [It&#39;s not &#39;emotional labour&#39;, it&#39;s kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
+- [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
-- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
-- [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
-- [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
-- [Ask HN: Who is hiring? &lpar;February 2025&rpar;](https://news.ycombinator.com/item?id=42919502)
+- [Developer Philosophy](https://qntm.org/devphilo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
