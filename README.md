@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
+- [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
+- [London Street Views &lpar;1840&rpar;](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
+- [Polish city is using mussels to monitor water quality &lpar;2020&rpar;](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
+- [Chaplin: Local visual speech recognition &lpar;VSR&rpar; in real-time](https://github.com/amanvirparhar/chaplin)
 - [Patterns for Personal Web Sites &lpar;2003&rpar;](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
-- [Introducing deep research](https://openai.com/index/introducing-deep-research/)
-- [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
-- [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
