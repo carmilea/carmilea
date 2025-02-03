@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
-- [It&#39;s not &#39;emotional labour&#39;, it&#39;s kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
+- [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
+- [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
-- [Developer Philosophy](https://qntm.org/devphilo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
