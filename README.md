@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dumbest Trade War Fallout Begins](https://www.wsj.com/opinion/the-trump-tariff-fallout-begins-canada-mexico-vow-retaliation-economic-uncertainty-da522b44)
+- [Patterns for Personal Web Sites &lpar;2003&rpar;](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 - [Deep Research](https://openai.com/index/introducing-deep-research/)
+- [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
-- [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
-- [GarminDB](https://github.com/tcgoetz/GarminDB)
-- [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
