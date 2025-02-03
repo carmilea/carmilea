@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 - [A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
+- [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 - [The Cantonese Scrolls &lpar;粵卷&rpar; – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
-- [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
-- [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
