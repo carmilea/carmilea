@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Anything threatening to be a subculture is commodified before it can walk&quot;](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
+- [DOJ demands list of FBI agents who worked on Jan. 6 investigations](https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/index.html)
 - [YouTube shut down audio developer&#39;s channel of 15 years standing for &quot;reasons&quot;](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
+- [AI systems with &#39;unacceptable risk&#39; are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
-- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
-- [Anthropic: &quot;Applicants should not use AI assistants&quot;](https://simonwillison.net/2025/Feb/2/anthropic/)
-- [London Street Views &lpar;1840&rpar;](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 <!-- BLOG-POST-LIST:END -->
 
 ---
