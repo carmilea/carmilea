@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, I&#39;m Mr. Null. My Name Makes Me Invisible to Computers &lpar;2015&rpar;](https://www.wired.com/2015/11/null/)
 - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
+- [S1: Simple Test-Time Scaling](https://github.com/simplescaling/s1)
 - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
-- [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
