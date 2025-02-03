@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economic and Fiscal Effects of the Trump Administration&#39;s Proposed Tariffs](https://budgetlab.yale.edu/research/economic-and-fiscal-effects-trump-administrations-proposed-tarrifs)
 - [Managing Secrets in Docker Compose – A Developer&#39;s Guide](https://phase.dev/blog/docker-compose-secrets/)
-- [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
 - [Patterns for Personal Web Sites &lpar;2003&rpar;](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
