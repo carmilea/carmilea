@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
+- [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
+- [New York claims a small victory in &#39;forever war on rats&#39;](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
+- [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
 - [&quot;Anything threatening to be a subculture is commodified before it can walk&quot; &lpar;2014&rpar;](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
-- [Our channel on YouTube has been deleted due to “spam and deceptive policies”](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
-- [Bayesian Epistemology &lpar;2022&rpar;](https://plato.stanford.edu/entries/epistemology-bayesian/)
-- [London Street Views &lpar;1840&rpar;](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
-- [Polish city is using mussels to monitor water quality &lpar;2020&rpar;](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
