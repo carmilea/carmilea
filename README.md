@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GarminDB](https://github.com/tcgoetz/GarminDB)
-- [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
-- [Don&#39;t make fun of renowned author Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
-- [Costa Rican Supermarket Wins Trademark Battle Against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
-- [A loophole used by Shein/Temu to ship packages to US tax-free &lpar;2024&rpar;](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
+- [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)
+- [Deep Research](https://openai.com/index/introducing-deep-research/)
+- [Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year &lpar;2016&rpar;](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
+- [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
+- [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
