@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)
 - [Deep Research](https://openai.com/index/introducing-deep-research/)
-- [Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year &lpar;2016&rpar;](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
 - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
+- [GarminDB](https://github.com/tcgoetz/GarminDB)
+- [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
