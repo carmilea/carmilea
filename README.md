@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
+- [Reverse Engineering Apple&#39;s typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
+- [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
 - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
-- [New York claims a small victory in &#39;forever war on rats&#39;](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
-- [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
-- [&quot;Anything threatening to be a subculture is commodified before it can walk&quot; &lpar;2014&rpar;](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
