@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek gives Europe&#39;s tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
+- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 - [Anthropic: &quot;Applicants should not use AI assistants&quot;](https://simonwillison.net/2025/Feb/2/anthropic/)
-- [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 - [London Street Views &lpar;1840&rpar;](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 - [Polish city is using mussels to monitor water quality &lpar;2020&rpar;](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
-- [Chaplin: Local visual speech recognition &lpar;VSR&rpar; in real-time](https://github.com/amanvirparhar/chaplin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
