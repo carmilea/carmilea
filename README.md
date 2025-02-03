@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic: &quot;Applicants should not use AI assistants&quot;](https://simonwillison.net/2025/Feb/2/anthropic/)
 - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 - [London Street Views &lpar;1840&rpar;](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 - [Polish city is using mussels to monitor water quality &lpar;2020&rpar;](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 - [Chaplin: Local visual speech recognition &lpar;VSR&rpar; in real-time](https://github.com/amanvirparhar/chaplin)
-- [Patterns for Personal Web Sites &lpar;2003&rpar;](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
