@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
+- [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
+- [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
 - [Alibaba/T-HEAD&#39;s Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
-- [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
 - [What&#39;s Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)
-- [I bought a container full of Chinese electric excavators. Here&#39;s what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
+- [Escaping surprise bills and over-engineered messes: Why I left AWS](https://travisbumgarner.dev/blog/leaving-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ---
