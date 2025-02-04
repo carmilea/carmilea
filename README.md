@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
+- [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
+- [GitHub reveals how software engineers are purging federal databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
 - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 - [WikiTok](https://wikitok.vercel.app/)
 - [The Slotted Counter Pattern &lpar;2020&rpar;](https://planetscale.com/blog/the-slotted-counter-pattern)
-- [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
