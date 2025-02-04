@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Slotted Counter Pattern &lpar;2020&rpar;](https://planetscale.com/blog/the-slotted-counter-pattern)
+- [TikTok&#39;s algorithm exhibited pro-Republican bias during 2024 presidential race](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/)
+- [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 - [Launch HN: Pinch &lpar;YC W25&rpar; – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
-- [How does fentanyl get into the US?](https://www.bbc.com/news/articles/cvg93nn1e6go)
-- [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
-- [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
-- [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
+- [Orion O6 ITX Arm V9 board – temper your expectations](https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
