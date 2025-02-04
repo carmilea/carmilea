@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
-- [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go)
-- [Windows 11 – There&#39;s still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
-- [Nango &lpar;Product Integrations Platform&rpar; Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
-- [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
+- [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
+- [Payments Crisis of 2025: Doge Have &quot;Read-Write&quot; Access to Federal Payment System](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)
+- [The Lost Story of Alan Turing&#39;s &quot;Delilah&quot; Project](https://spectrum.ieee.org/alan-turings-delilah)
+- [Programmers are modern-day computers](https://jtlicardo.com/writing/modern-day-computers/)
+- [The Database Cheatsheet: Database Operations](https://www.singlestore.com/blog/the-database-cheatsheet-database-operations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
