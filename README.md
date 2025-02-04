@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Government planned it 7 years,beavers built the dam in 2 days and saved them $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
 - [Roame &lpar;YC S23&rpar; Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
+- [TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8](https://trailbase.io/reference/benchmarks/)
 - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
 - [MathScroll – Infinitely Scroll Mathematics](https://projects.ollybritton.com/mathscroll/)
-- [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
-- [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 <!-- BLOG-POST-LIST:END -->
 
 ---
