@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Platform for supporting local sellers and buyers](https://blunum.com/)
 - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
 - [Alibaba/T-HEAD&#39;s Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
 - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
 - [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
-- [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
