@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
+- [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
+- [WikiTok](https://wikitok.vercel.app/)
 - [The Slotted Counter Pattern &lpar;2020&rpar;](https://planetscale.com/blog/the-slotted-counter-pattern)
-- [TikTok&#39;s algorithm exhibited pro-Republican bias during 2024 presidential race](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/)
 - [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
-- [Launch HN: Pinch &lpar;YC W25&rpar; – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
-- [Orion O6 ITX Arm V9 board – temper your expectations](https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
