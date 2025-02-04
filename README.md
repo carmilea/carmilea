@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
+- [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go)
 - [Windows 11 – There&#39;s still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 - [Nango &lpar;Product Integrations Platform&rpar; Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
 - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
-- [Microsoft Is Dead &lpar;2007&rpar;](https://www.paulgraham.com/microsoft.html)
-- [Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
