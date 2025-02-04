@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Pinch &lpar;YC W25&rpar; – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
+- [How does fentanyl get into the US?](https://www.bbc.com/news/articles/cvg93nn1e6go)
+- [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
-- [Poland&#39;s Justice Minister Arrested for Illegal Use of NSO Group Malware](https://www.techdirt.com/2025/02/03/polands-justice-minister-arrested-for-illegal-use-of-nso-group-malware/)
 - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
-- [Spotify Paid $10B to the Music Industry in 2024, $1B More Than Last Year](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/)
-- [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
