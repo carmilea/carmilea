@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roame &lpar;YC S23&rpar; Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
+- [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
+- [MathScroll – Infinitely Scroll Mathematics](https://projects.ollybritton.com/mathscroll/)
+- [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
-- [GitHub reveals how software engineers are purging federal databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
-- [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
-- [WikiTok](https://wikitok.vercel.app/)
-- [The Slotted Counter Pattern &lpar;2020&rpar;](https://planetscale.com/blog/the-slotted-counter-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 ---
