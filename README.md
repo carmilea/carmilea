@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba/T-HEAD&#39;s Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
+- [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
 - [I bought a container full of Chinese electric excavators. Here&#39;s what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
 - [Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS](https://travisbumgarner.dev/blog/leaving-aws)
 - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
-- [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
-- [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
