@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
 - [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
 - [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 - [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
 - [US Bill Proposes Jail Time for People Who Download DeepSeek](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/)
-- [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
