@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
+- [Poland&#39;s Justice Minister Arrested for Illegal Use of NSO Group Malware](https://www.techdirt.com/2025/02/03/polands-justice-minister-arrested-for-illegal-use-of-nso-group-malware/)
+- [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
+- [Spotify Paid $10B to the Music Industry in 2024, $1B More Than Last Year](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/)
 - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
-- [Payments Crisis of 2025: Doge Have &quot;Read-Write&quot; Access to Federal Payment System](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)
-- [The Lost Story of Alan Turing&#39;s &quot;Delilah&quot; Project](https://spectrum.ieee.org/alan-turings-delilah)
-- [Programmers are modern-day computers](https://jtlicardo.com/writing/modern-day-computers/)
-- [The Database Cheatsheet: Database Operations](https://www.singlestore.com/blog/the-database-cheatsheet-database-operations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
