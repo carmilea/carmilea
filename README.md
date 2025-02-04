@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
 - [Alibaba/T-HEAD&#39;s Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
 - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
+- [What&#39;s Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)
 - [I bought a container full of Chinese electric excavators. Here&#39;s what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
-- [Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS](https://travisbumgarner.dev/blog/leaving-aws)
-- [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
