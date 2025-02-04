@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Platform for supporting local sellers and buyers](https://blunum.com/)
-- [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
-- [Alibaba/T-HEAD&#39;s Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
-- [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
-- [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
+- [Nango &lpar;Product Integrations Platform&rpar; Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
+- [Microsoft Is Dead &lpar;2007&rpar;](https://www.paulgraham.com/microsoft.html)
+- [Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/)
+- [Nvidia open-source nanite: continuous level of detail &lpar;LOD&rpar; mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
+- [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 <!-- BLOG-POST-LIST:END -->
 
 ---
