@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
+- [GNU Make Standard Library](https://gmsl.jgc.org/)
+- [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
-- [The Full Story of the FAA&#39;s Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
-- [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
-- [Huawei&#39;s Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
