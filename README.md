@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mt32-pi Developer calls it a day](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
+- [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
+- [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
-- [OCR Crypto Stealers in Google Play and App Store](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play/115385/)
 - [DARPA solicitation for the Active Social Engineering Defense program &lpar;2017&rpar;](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 <!-- BLOG-POST-LIST:END -->
