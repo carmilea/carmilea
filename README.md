@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA solicitation for the Active Social Engineering Defense program &lpar;2017&rpar;](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
+- [Google Kills Diversity Hiring Targets](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)
 - [Cloudflare Is Blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 - [Zig Guide](https://zig.guide/)
-- [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
-- [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-- [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
+- [The Sudoku Affair](https://explaining.software/archive/the-sudoku-affair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
