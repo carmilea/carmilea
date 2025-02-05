@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google erases promise not to use AI technology for weapons or surveillance](https://www.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html)
 - [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
+- [We need network societies, not network states](https://www.cip.org/blog/network-societies)
 - [CodeCrafters &lpar;YC S22&rpar; is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
 - [Beej&#39;s Guide to Git](https://beej.us/guide/bggit/)
-- [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
-- [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
