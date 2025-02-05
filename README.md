@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
-- [What&#39;s Happening Inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
-- [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
-- [The APL Challenge](https://challenge.dyalog.com/)
-- [Government planned it 7 years, beavers built a dam in 2 days and saved $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
+- [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
+- [Beej&#39;s Guide to Git](https://beej.us/guide/bggit/)
+- [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
+- [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
