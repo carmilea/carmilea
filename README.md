@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
+- [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
+- [Huawei&#39;s Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
+- [Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
 - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
-- [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
-- [We need network societies, not network states &lpar;2024&rpar;](https://www.cip.org/blog/network-societies)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
-- [Beej&#39;s Guide to Git](https://beej.us/guide/bggit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
