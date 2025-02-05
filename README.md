@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zig Guide](https://zig.guide/)
+- [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
+- [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
 - [Ingesting PDFs and Why Gemini 2.0 Changes Everything](https://www.sergey.fyi/articles/gemini-flash-2)
-- [Running ArchiveTeam&#39;s Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
-- [The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/)
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Engineers &lpar;Infra, Backend, Growth&rpar;](https://www.ycombinator.com/companies/ploomber/jobs)
-- [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
