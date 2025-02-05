@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Engineers &lpar;Infra, Back End, Growth&rpar;](https://www.ycombinator.com/companies/ploomber/jobs)
+- [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 - [Prediction Games](https://www.argmin.net/p/prediction-games)
 - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
-- [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
-- [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
