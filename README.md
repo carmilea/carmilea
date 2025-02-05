@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toma &lpar;YC W24&rpar; Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
+- [Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/)
+- [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 - [Chrome 133 Supports DOM State-Preserving Move with moveBefore&lpar;&rpar;](https://chromestatus.com/feature/5135990159835136)
 - [Software development topics I&#39;ve changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
-- [Go Data Structures](https://research.swtch.com/godata)
-- [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
-- [GNU Make Standard Library](https://gmsl.jgc.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
