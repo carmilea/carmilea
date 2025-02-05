@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome 133 Supports DOM State-Preserving Move with moveBefore&lpar;&rpar;](https://chromestatus.com/feature/5135990159835136)
+- [Software development topics I&#39;ve changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
+- [Go Data Structures](https://research.swtch.com/godata)
 - [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 - [GNU Make Standard Library](https://gmsl.jgc.org/)
-- [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
-- [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
-- [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
