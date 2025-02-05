@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
+- [The Full Story of the FAA&#39;s Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
 - [Huawei&#39;s Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
-- [Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
-- [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
