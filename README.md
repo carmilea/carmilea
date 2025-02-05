@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
+- [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
+- [I&#39;m Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
+- [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 - [F-Droid Awarded Open Technology Fund&#39;s FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
-- [Toma &lpar;YC W24&rpar; Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
-- [Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/)
-- [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
-- [Chrome 133 Supports DOM State-Preserving Move with moveBefore&lpar;&rpar;](https://chromestatus.com/feature/5135990159835136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
