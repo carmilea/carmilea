@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
+- [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 - [GNU Make Standard Library](https://gmsl.jgc.org/)
 - [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
