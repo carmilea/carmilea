@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Engineers &lpar;Infra, Back End, Growth&rpar;](https://www.ycombinator.com/companies/ploomber/jobs)
+- [Ingesting PDFs and Why Gemini 2.0 Changes Everything](https://www.sergey.fyi/articles/gemini-flash-2)
+- [Running ArchiveTeam&#39;s Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
+- [The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/)
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Engineers &lpar;Infra, Backend, Growth&rpar;](https://www.ycombinator.com/companies/ploomber/jobs)
 - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
-- [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
-- [Prediction Games](https://www.argmin.net/p/prediction-games)
-- [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
