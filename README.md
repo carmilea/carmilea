@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
+- [Prediction Games](https://www.argmin.net/p/prediction-games)
+- [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
-- [I&#39;m Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
-- [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
-- [F-Droid Awarded Open Technology Fund&#39;s FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
