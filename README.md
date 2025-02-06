@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
+- [Show HN: An homage to Tom Dowdy&#39;s 1991 screensaver, &quot;Kaos&quot;](https://thestrikeagency.com/kaos/)
 - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 - [The Database Cheatsheet: Essential Table Operations](https://www.singlestore.com/blog/the-database-cheatsheet-essential-table-operations)
-- [The Sad Math of Ads: Messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
-- [Memfault &lpar;YC W19&rpar; Is Hiring an Android System &lpar;AOSP&rpar; Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
-- [Pre-Trained Large Language Models Use Fourier Features for Addition &lpar;2024&rpar;](https://arxiv.org/abs/2406.03445)
+- [Simulating Water over Terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
