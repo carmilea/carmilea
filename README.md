@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human Brain May Contain as Much as a Spoon&#39;s Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
+- [You Didn&#39;t Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 - [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 - [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
-- [DARPA solicitation for the Active Social Engineering Defense program &lpar;2017&rpar;](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
-- [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
