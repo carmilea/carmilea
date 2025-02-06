@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - [Verse &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=42966455)
 - [R1 Computer Use](https://github.com/agentsea/r1-computer-use)
 - [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
 - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
-- [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
