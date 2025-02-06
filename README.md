@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
 - [Memfault &lpar;YC W19&rpar; Is Hiring an Android System &lpar;AOSP&rpar; Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
 - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
 - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
-- [Markdown&#39;s Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
 - [Paper Apps](https://gladdendesign.com/collections/paper-apps)
 <!-- BLOG-POST-LIST:END -->
 
