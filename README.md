@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google scraps diversity &#39;aspirations,&#39; citing role as federal contractor](https://www.cnbc.com/2025/02/05/google-scraps-diversity-aspirations-as-a-federal-contractor.html)
+- [LLMs Were Backdoored Years Ago](https://remyhax.xyz/posts/plagairism/)
+- [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
 - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
 - [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
-- [Deep Reinforcement Learning: Pong from Pixels &lpar;2016&rpar;](http://karpathy.github.io/2016/05/31/rl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
