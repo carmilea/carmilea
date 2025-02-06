@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
+- [Markdown&#39;s Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
 - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
+- [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)
 - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
-- [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
-- [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
-- [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
