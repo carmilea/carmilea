@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
+- [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+- [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
-- [Transfinite NIM &lpar;the game, not the programming language&rpar;](https://jdh.hamkins.org/transfinite-nim/)
-- [Show HN: An homage to Tom Dowdy&#39;s 1991 screensaver, &quot;Kaos&quot;](https://thestrikeagency.com/kaos/)
-- [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
