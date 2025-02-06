@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [CERN&#39;s open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
-- [OpenWrt 24.10.0 – First Stable Release – 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
-- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-- [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
+- [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
+- [Deep Reinforcement Learning: Pong from Pixels &lpar;2016&rpar;](http://karpathy.github.io/2016/05/31/rl/)
+- [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
