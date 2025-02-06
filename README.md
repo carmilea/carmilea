@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)
+- [CERN&#39;s open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
+- [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
+- [OpenWrt 24.10.0 – First Stable Release – 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
-- [Human Brain May Contain as Much as a Spoon&#39;s Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
-- [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
-- [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
