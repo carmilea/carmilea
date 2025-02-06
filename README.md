@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NOAA Employees Told to Pause Work with &#39;Foreign Nationals&#39;](https://www.wired.com/story/noaa-employees-foreign-nationals/)
+- [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)
+- [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
 - [Human Brain May Contain as Much as a Spoon&#39;s Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
 - [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
-- [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
