@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
+- [Memfault &lpar;YC W19&rpar; Is Hiring an Android System &lpar;AOSP&rpar; Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
+- [Origami by Meenakshi](https://origamee.net/)
 - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
 - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
 - [Markdown&#39;s Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
-- [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
