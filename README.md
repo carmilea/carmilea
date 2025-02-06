@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
+- [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
-- [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+- [Who Does That Server Serve? &lpar;2010&rpar;](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
 - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
-- [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
-- [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
