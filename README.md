@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
+- [Public services are for users, not providers](https://www.slowboring.com/p/public-services-are-for-users-not)
 - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
 - [Show HN: An homage to Tom Dowdy&#39;s 1991 screensaver, &quot;Kaos&quot;](https://thestrikeagency.com/kaos/)
 - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
-- [The Database Cheatsheet: Essential Table Operations](https://www.singlestore.com/blog/the-database-cheatsheet-essential-table-operations)
-- [Simulating Water over Terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
