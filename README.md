@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
+- [Trails of Wind &lpar;2019&rpar;](https://trailsofwind.figures.cc/)
 - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - [Verse &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=42966455)
-- [R1 Computer Use](https://github.com/agentsea/r1-computer-use)
-- [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
 - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
 <!-- BLOG-POST-LIST:END -->
 
