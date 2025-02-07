@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
 - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
+- [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
 - [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer)
 - [OpenAI cofounder John Schulman is joining Mira Murati&#39;s startup](https://finance.yahoo.com/news/openai-cofounder-john-schulman-joining-211110685.html)
-- [Meta torrented &amp; seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
-- [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 <!-- BLOG-POST-LIST:END -->
 
 ---
