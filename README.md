@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Montreal has dropped Amazon from its list of suppliers, pledges to buy local](https://cultmtl.com/2025/02/the-city-of-montreal-has-dropped-amazon-from-its-list-of-suppliers-pledges-to-buy-local/)
 - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 - [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
 - [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
-- [PropRise &lpar;YC S23&rpar; Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
