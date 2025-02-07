@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Is Alienating the People It Needs Most: Study](https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/)
+- [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)
+- [Search PPP Loans by Zip Code](https://ppploanmap.com/)
+- [Mad at Meta? Don&#39;t Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
 - [Easy 6502](https://skilldrick.github.io/easy6502/)
-- [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
-- [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
-- [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
+- [Robust autonomy emerges from self-play](https://arxiv.org/abs/2502.03349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
