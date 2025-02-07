@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
+- [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer)
+- [OpenAI cofounder John Schulman is joining Mira Murati&#39;s startup](https://finance.yahoo.com/news/openai-cofounder-john-schulman-joining-211110685.html)
+- [Meta torrented &amp; seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
-- [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
-- [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
-- [How does life happen when there&#39;s barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
-- [Donald Knuth&#39;s 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
