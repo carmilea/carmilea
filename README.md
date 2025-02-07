@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)
+- [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
+- [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
+- [There May Not Be Aha Moment in R1-Zero-Like Training](https://oatllm.notion.site/oat-zero)
+- [Android XR will allow camera access like on the phone](https://skarredghost.com/2025/02/07/android-xr-camera-access-2/)
 - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
-- [Mad at Meta? Don&#39;t Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
-- [Easy 6502](https://skilldrick.github.io/easy6502/)
-- [Robust autonomy emerges from self-play](https://arxiv.org/abs/2502.03349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
