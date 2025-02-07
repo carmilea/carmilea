@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Donald Knuth&#39;s 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 - [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
 - [There May Not Be Aha Moment in R1-Zero-Like Training](https://oatllm.notion.site/oat-zero)
-- [Android XR will allow camera access like on the phone](https://skarredghost.com/2025/02/07/android-xr-camera-access-2/)
-- [Search PPP Loans by Zip Code](https://ppploanmap.com/)
+- [HTML Whitespace Is Broken](https://blog.dwac.dev/posts/html-whitespace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
