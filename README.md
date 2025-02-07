@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
+- [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
+- [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
+- [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
 - [PropRise &lpar;YC S23&rpar; Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
-- [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
-- [Stop Using Zip Codes for Geospatial Analysis &lpar;2019&rpar;](https://carto.com/blog/zip-codes-spatial-analysis)
-- [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
-- [A 16TB Mirror of Data.gov on Source.Coop](https://source.coop/repositories/harvard-lil/gov-data/description)
 <!-- BLOG-POST-LIST:END -->
 
 ---
