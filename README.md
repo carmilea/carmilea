@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI dialogue analysis confirms movies have grown more violent over past 70 years](https://phys.org/news/2025-02-ai-driven-dialogue-analysis-popular.html)
+- [How to help us build open source Pebble software](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/)
+- [Procedural Hydrology: Dynamic Lake and River Simulation &lpar;2020&rpar;](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 - [Entity-Component-System Architecture in Kubernetes](https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html)
-- [UK demands access to Apple users&#39; encrypted data](https://www.bbc.co.uk/news/articles/c20g288yldko)
-- [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
-- [Estonia to disconnect from the Russian-run electricity network on Saturday](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday)
 - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
 <!-- BLOG-POST-LIST:END -->
 
