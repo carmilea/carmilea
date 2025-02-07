@@ -62,7 +62,7 @@
 - [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
 - [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
 - [Show HN: A simple Hackernews client for iOS and Android](https://github.com/EmergeTools/hackernews)
-- [The impact of AI on the technical interview process](https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process/)
+- [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
