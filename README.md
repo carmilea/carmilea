@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
-- [Show HN: ExpenseOwl – simple and beautiful self-hostedexpense tracker](https://github.com/Tanq16/ExpenseOwl)
-- [Long Covid impacting more than 1M children: CDC study suggests](https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880)
-- [Show HN: Open-source Hacker News apps](https://github.com/EmergeTools/hackernews)
+- [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
+- [Show HN: A simple Hackernews client for iOS and Android](https://github.com/EmergeTools/hackernews)
+- [The impact of AI on the technical interview process](https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
