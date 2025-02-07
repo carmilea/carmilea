@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entity-Component-System Architecture in Kubernetes](https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html)
+- [UK demands access to Apple users&#39; encrypted data](https://www.bbc.co.uk/news/articles/c20g288yldko)
 - [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
+- [Estonia to disconnect from the Russian-run electricity network on Saturday](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday)
 - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
-- [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
-- [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer)
-- [OpenAI cofounder John Schulman is joining Mira Murati&#39;s startup](https://finance.yahoo.com/news/openai-cofounder-john-schulman-joining-211110685.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
