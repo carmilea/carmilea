@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Is Alienating the People It Needs Most: Study](https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/)
+- [Easy 6502](https://skilldrick.github.io/easy6502/)
+- [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
 - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
-- [Elon Musk&#39;s Demolition Crew](https://projects.propublica.org/elon-musk-doge-tracker/)
 - [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
-- [TKey – Security for the New World](https://tillitis.se/products/tkey/)
-- [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
