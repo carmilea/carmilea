@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists on alert as NOAA restricts contact with foreign nationals](https://www.washingtonpost.com/climate-environment/2025/02/06/noaa-fisheries-international-communication-doge/)
-- [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
-- [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
+- [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
+- [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
+- [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
 - [How does life happen when there&#39;s barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 - [Donald Knuth&#39;s 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 <!-- BLOG-POST-LIST:END -->
