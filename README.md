@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
-- [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
-- [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
-- [AI Everything: Themes From the 2025 World Economic Forum](https://www.singlestore.com/blog/ai-everything-themes-from-the-2025-world-economic-forum)
-- [Get Your Data “AI-ready”](https://www.singlestore.com/blog/get-your-data-ai-ready)
+- [PropRise &lpar;YC S23&rpar; Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
+- [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
+- [Stop Using Zip Codes for Geospatial Analysis &lpar;2019&rpar;](https://carto.com/blog/zip-codes-spatial-analysis)
+- [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
+- [A 16TB Mirror of Data.gov on Source.Coop](https://source.coop/repositories/harvard-lil/gov-data/description)
 <!-- BLOG-POST-LIST:END -->
 
 ---
