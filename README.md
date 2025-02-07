@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
+- [TKey – Security for the New World](https://tillitis.se/products/tkey/)
+- [Ask HN: Is Godaddy Running a Scam?](https://news.ycombinator.com/item?id=42967247)
 - [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
 - [Trails of Wind &lpar;2019&rpar;](https://trailsofwind.figures.cc/)
-- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
-- [Verse &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=42966455)
-- [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
