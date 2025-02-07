@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
+- [Elon Musk&#39;s Demolition Crew](https://projects.propublica.org/elon-musk-doge-tracker/)
 - [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
 - [TKey – Security for the New World](https://tillitis.se/products/tkey/)
 - [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
-- [Trails of Wind &lpar;2019&rpar;](https://trailsofwind.figures.cc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
