@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists on alert as NOAA restricts contact with foreign nationals](https://www.washingtonpost.com/climate-environment/2025/02/06/noaa-fisheries-international-communication-doge/)
+- [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
 - [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
 - [How does life happen when there&#39;s barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 - [Donald Knuth&#39;s 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
-- [Announcing the data.gov archive](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
-- [There may not be aha moment in R1-Zero-like training](https://oatllm.notion.site/oat-zero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
