@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
-- [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
-- [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
-- [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
-- [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
+- [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
+- [Show HN: ExpenseOwl – simple and beautiful self-hostedexpense tracker](https://github.com/Tanq16/ExpenseOwl)
+- [Long Covid impacting more than 1M children: CDC study suggests](https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880)
+- [Show HN: Open-source Hacker News apps](https://github.com/EmergeTools/hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
