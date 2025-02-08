@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mars Dream Is Back — Here’s How to Make It Actually Happen](https://www.thenewatlantis.com/publications/the-mars-dream-is-back-how-to-go)
+- [No Way Home](https://literaryreview.co.uk/no-way-home)
+- [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
+- [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
+- [Show HN: FreeDemandLetter – A Weapon for Anyone Who&#39;s Sick of Getting Shafted](https://www.freedemandletter.com)
 - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
-- [Generating Voronoi Diagrams Using Fortune&#39;s Algorithm &lpar;With Odin&rpar;](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
-- [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
-- [LINUX is obsolete &lpar;1992&rpar;](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
