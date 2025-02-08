@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
-- [NIH slashes overhead payments for research](https://www.science.org/content/article/nih-slashes-overhead-payments-research-sparking-outrage)
-- [LINUX is obsolete &lpar;1992&rpar;](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
-- [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
 - [Why gold loves arsenic &lpar;2021&rpar;](https://www.mining.com/why-gold-loves-arsenic/)
+- [Oral History of Andy Bechtolsheim &lpar;2015&rpar; [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
+- [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
+- [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
