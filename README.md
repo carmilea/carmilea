@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Licensing Racket&#39; Review: There&#39;s a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 - [Generating Voronoi Diagrams Using Fortune&#39;s Algorithm &lpar;With Odin&rpar;](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 - [Why gold loves arsenic &lpar;2021&rpar;](https://www.mining.com/why-gold-loves-arsenic/)
 - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
-- [Value-Based Deep RL Scales Predictably](https://arxiv.org/abs/2502.04327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
