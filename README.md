@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for Mathematical Handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
+- [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
+- [Auto-Rewind for Daily Test &lpar;Apache NuttX RTOS&rpar;](https://lupyuen.org/articles/rewind.html)
+- [Tips for mathematical handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
 - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
 - [The Daughter of Dawn [1920] &lpar;2024&rpar;](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
-- [Amazon blew Alexa&#39;s shot to dominate AI, according to employees &lpar;2024&rpar;](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
-- [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
