@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)
+- [We&#39;re Performing for an Audience of Machines](https://christopherireland.substack.com/p/outrage-is-addictiveand-someones)
 - [VSCode&#39;s SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
 - [The &#39;dangerous&#39; promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
 - [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
-- [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
