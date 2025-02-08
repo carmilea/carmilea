@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Bake Is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
+- [LINUX is obsolete &lpar;1992&rpar;](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
+- [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
+- [Why gold loves arsenic &lpar;2021&rpar;](https://www.mining.com/why-gold-loves-arsenic/)
 - [Oral History of Andy Bechtolsheim &lpar;2015&rpar; [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
 - [Bolt: Bootstrap long chain-of-thought in LLMs without distillation [pdf]](https://arxiv.org/abs/2502.03860)
-- [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
-- [VSCode&#39;s SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
