@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)
 - [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 - [Auto-Rewind for Daily Test &lpar;Apache NuttX RTOS&rpar;](https://lupyuen.org/articles/rewind.html)
 - [Tips for mathematical handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
 - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
-- [The Daughter of Dawn [1920] &lpar;2024&rpar;](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
