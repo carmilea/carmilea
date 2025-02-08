@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Daughter of Dawn &lpar;2024&rpar;](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
+- [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
+- [The Daughter of Dawn [1920] &lpar;2024&rpar;](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 - [Amazon blew Alexa&#39;s shot to dominate AI, according to employees](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
 - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
-- [No Way Home](https://literaryreview.co.uk/no-way-home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
