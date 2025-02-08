@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [No Way Home](https://literaryreview.co.uk/no-way-home)
+- [Carbon is not a programming language &lpar;sort of&rpar;](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
 - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
 - [Show HN: FreeDemandLetter – A Weapon for Anyone Who&#39;s Sick of Getting Shafted](https://www.freedemandletter.com)
-- [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
