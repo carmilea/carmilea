@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)
+- [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
+- [Is Software Abstraction Killing Civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
+- [Jacksonpollock.org](https://jacksonpollock.org/)
 - [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
-- [Auto-Rewind for Daily Test &lpar;Apache NuttX RTOS&rpar;](https://lupyuen.org/articles/rewind.html)
-- [Tips for mathematical handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
-- [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
+- [Ada Gems &lpar;2014&rpar;](https://www.adacore.com/gems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
