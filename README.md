@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;dangerous&#39; promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
 - [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
 - [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
-- [Show HN: A simple Hackernews client for iOS and Android](https://github.com/EmergeTools/hackernews)
 - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 <!-- BLOG-POST-LIST:END -->
 
