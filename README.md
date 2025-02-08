@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)
-- [We&#39;re Performing for an Audience of Machines](https://christopherireland.substack.com/p/outrage-is-addictiveand-someones)
-- [VSCode&#39;s SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
-- [The &#39;dangerous&#39; promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
-- [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
+- [Docker Bake Is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
+- [Oral History of Andy Bechtolsheim &lpar;2015&rpar; [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
+- [Bolt: Bootstrap long chain-of-thought in LLMs without distillation [pdf]](https://arxiv.org/abs/2502.03860)
+- [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
+- [VSCode&#39;s SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
