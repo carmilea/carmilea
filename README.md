@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 - [Why gold loves arsenic &lpar;2021&rpar;](https://www.mining.com/why-gold-loves-arsenic/)
-- [Oral History of Andy Bechtolsheim &lpar;2015&rpar; [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
 - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
-- [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
+- [Value-Based Deep RL Scales Predictably](https://arxiv.org/abs/2502.04327)
+- [VSCode&#39;s SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
