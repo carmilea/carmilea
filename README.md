@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
 - [Is software abstraction killing civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
-- [Jacksonpollock.org](https://jacksonpollock.org/)
+- [Jacksonpollock.org &lpar;2003&rpar;](https://jacksonpollock.org/)
 - [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 - [Ada Gems &lpar;2014&rpar;](https://www.adacore.com/gems)
 <!-- BLOG-POST-LIST:END -->
