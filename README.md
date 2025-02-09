@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t &quot;optimize&quot; conditional moves in shaders with mix&lpar;&rpar;+step&lpar;&rpar;](https://iquilezles.org/articles/gpuconditionals/)
 - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
+- [Linux as co-operative Windows process](http://www.colinux.org/)
 - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 - [Chimes at Midnight &lpar;2024&rpar;](https://asteriskmag.com/issues/08/chimes-at-midnight)
-- [Mathematics in the 20th century, by Michael Atiyah [pdf] &lpar;2002&rpar;](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
-- [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
