@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
-- [Is Software Abstraction Killing Civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
+- [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
+- [Is software abstraction killing civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
 - [Jacksonpollock.org](https://jacksonpollock.org/)
 - [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 - [Ada Gems &lpar;2014&rpar;](https://www.adacore.com/gems)
