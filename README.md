@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
+- [Definancialization / Hyperfinancialization](https://mylessnider.com/articles/definancialization-hyperfinancialization)
 - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
-- [Show HN: AI driven calendar to combat student procrastination](https://www.ocal.ai/)
+- [Show HN: Ocal – AI Calendar That Schedules Assignments for You](https://www.ocal.ai/)
 - [Don&#39;t &quot;optimize&quot; conditional moves in shaders with mix&lpar;&rpar;+step&lpar;&rpar;](https://iquilezles.org/articles/gpuconditionals/)
-- [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
-- [Dear Mr. Vice President, Please Take Off Your Apple Watch](https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
