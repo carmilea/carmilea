@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;US and Canada&rpar;](https://www.ycombinator.com/companies/infisical/jobs/ZHPybgI-full-stack-engineer)
+- [UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/)
+- [Mission Accomplished? Heat pump adoption has a long way to go](https://www.heatpumped.org/p/mission-accomplished-heat-pump-adoption-has-a-long-way-to-go)
 - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
-- [How &lpar;not&rpar; to sign a JSON object &lpar;2019&rpar;](https://www.latacora.com/blog/2019/07/24/how-not-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
