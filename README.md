@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
+- [Show HN: AI driven calendar to combat student procrastination](https://www.ocal.ai/)
 - [Don&#39;t &quot;optimize&quot; conditional moves in shaders with mix&lpar;&rpar;+step&lpar;&rpar;](https://iquilezles.org/articles/gpuconditionals/)
 - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
-- [Linux as co-operative Windows process](http://www.colinux.org/)
-- [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
-- [Chimes at Midnight &lpar;2024&rpar;](https://asteriskmag.com/issues/08/chimes-at-midnight)
+- [Dear Mr. Vice President, Please Take Off Your Apple Watch](https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
