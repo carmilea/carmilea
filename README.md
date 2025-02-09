@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
+- [Three Observations](https://blog.samaltman.com/three-observations)
 - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
+- [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
 - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
-- [OpenStreetMap Calendar](https://osmcal.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
