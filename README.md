@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Observations](https://blog.samaltman.com/three-observations)
-- [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
-- [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
-- [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
+- [Google Pay Study Finds It Underpaid Men for Some Jobs &lpar;2019&rpar;](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
+- [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+- [The Recombobulation Area &lpar;2023&rpar;](https://onmilwaukee.com/articles/recombobulationsigns)
+- [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 <!-- BLOG-POST-LIST:END -->
 
