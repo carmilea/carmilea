@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZeroTier – home VPN without a public IP address](https://blog.tomaszdunia.pl/zerotier-eng/)
+- [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 - [Chimes at Midnight](https://asteriskmag.com/issues/08/chimes-at-midnight)
 - [Mathematics in the 20th century, by Michael Atiyah [pdf] &lpar;2002&rpar;](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
 - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
-- [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
-- [Show HN: Daily-notes.nvim – fuzzy time journal and planning plugin](https://github.com/fdavies93/daily-notes.nvim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
