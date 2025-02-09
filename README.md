@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
+- [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
+- [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
 - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 - [OpenStreetMap Calendar](https://osmcal.org/)
-- [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
-- [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
-- [AI Demos by Meta](https://aidemos.meta.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
