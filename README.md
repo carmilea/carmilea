@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
+- [Elon Musk-Led Group Makes $97.4B Bid for Control of OpenAI](https://www.wsj.com/tech/elon-musk-openai-bid-4af12827)
 - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
-- [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
-- [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
-- [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
+- [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
