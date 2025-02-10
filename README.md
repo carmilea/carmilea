@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A story about USB floppy drives &lpar;2004&rpar;](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 - [Earth&#39;s inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
+- [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
 - [The Database Cheatsheet: Data Manipulation](https://www.singlestore.com/blog/the-database-cheatsheet-data-manipulation)
-- [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
-- [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 <!-- BLOG-POST-LIST:END -->
 
 ---
