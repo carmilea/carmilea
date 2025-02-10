@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
 - [The Database Cheatsheet: Data Manipulation](https://www.singlestore.com/blog/the-database-cheatsheet-data-manipulation)
 - [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
 - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
-- [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
