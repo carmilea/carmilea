@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+- [Thomas Aquinas&#39; Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
 - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
 - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
-- [One Text to Speech wrapper for Python for all &lpar;?&rpar; TTS engines](https://pypi.org/project/py3-tts-wrapper/)
+- [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
