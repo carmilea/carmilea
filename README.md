@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
+- [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
 - [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
 - [How does Ada&#39;s memory safety compare against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 - [Don&#39;t Be Frupid](https://selix.net/notes/dont-be-frupid)
-- [Thomas Aquinas&#39; skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
-- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
