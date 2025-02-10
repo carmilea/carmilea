@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
-- [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
-- [Apple&#39;s Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
-- [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
+- [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
+- [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
+- [Steam makes its ban on in-game ads explicit](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/)
+- [AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
+- [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
