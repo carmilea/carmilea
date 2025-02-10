@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
-- [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
-- [Steam makes its ban on in-game ads explicit](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/)
-- [AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
-- [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
+- [Show HN: HTML visualization of a PDF file&#39;s internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
+- [Why hasn&#39;t commercial air travel gotten any faster since the 1960s?](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
+- [What about K?](https://xpqz.github.io/kbook/Introduction.html)
+- [I built an open source AI tool to find my autoimmune disease](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
