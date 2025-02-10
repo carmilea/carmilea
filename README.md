@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Pay Study Finds It Underpaid Men for Some Jobs &lpar;2019&rpar;](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
+- [Ilya Sutskever&#39;s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/)
+- [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
+- [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
+- [One Text to Speech wrapper for Python for all &lpar;?&rpar; TTS engines](https://pypi.org/project/py3-tts-wrapper/)
 - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
-- [The Recombobulation Area &lpar;2023&rpar;](https://onmilwaukee.com/articles/recombobulationsigns)
-- [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
-- [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
