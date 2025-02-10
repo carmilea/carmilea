@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
-- [Elon Musk-Led Group Makes $97.4B Bid for Control of OpenAI](https://www.wsj.com/tech/elon-musk-openai-bid-4af12827)
 - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
 - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
+- [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
