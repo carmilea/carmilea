@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 - [Show HN: HTML visualization of a PDF file&#39;s internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
-- [Why hasn&#39;t commercial air travel gotten any faster since the 1960s?](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
 - [What about K?](https://xpqz.github.io/kbook/Introduction.html)
 - [I built an open source AI tool to find my autoimmune disease](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
