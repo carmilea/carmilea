@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ABA supports the rule of law](https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/)
 - [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
-- [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
-- [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
-- [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
-- [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
+- [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
+- [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
+- [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 <!-- BLOG-POST-LIST:END -->
 
 ---
