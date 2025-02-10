@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
-- [How Does Ada&#39;s Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
+- [How does Ada&#39;s memory safety compare against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 - [Don&#39;t Be Frupid](https://selix.net/notes/dont-be-frupid)
 - [Thomas Aquinas&#39; skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
