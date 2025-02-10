@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
+- [The Database Cheatsheet: Data Manipulation](https://www.singlestore.com/blog/the-database-cheatsheet-data-manipulation)
+- [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
 - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
-- [Show HN: HTML visualization of a PDF file&#39;s internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
-- [What about K?](https://xpqz.github.io/kbook/Introduction.html)
-- [I built an open source AI tool to find my autoimmune disease](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
