@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
 - [How Does Ada&#39;s Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 - [Don&#39;t Be Frupid](https://selix.net/notes/dont-be-frupid)
-- [Thomas Aquinas&#39; Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
-- [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
-- [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
+- [Thomas Aquinas&#39; skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
+- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
