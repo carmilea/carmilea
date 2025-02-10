@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
+- [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
 - [Apple&#39;s Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
 - [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
-- [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
 - [How does Ada&#39;s memory safety compare against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
-- [Don&#39;t Be Frupid](https://selix.net/notes/dont-be-frupid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
