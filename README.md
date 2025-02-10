@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1% Equity for Founding Engineers Is BS](https://fetchfox.ai/a/founding-engineer-compensation)
 - [A story about USB floppy drives &lpar;2004&rpar;](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 - [Earth&#39;s inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
 - [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
-- [The Database Cheatsheet: Data Manipulation](https://www.singlestore.com/blog/the-database-cheatsheet-data-manipulation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
