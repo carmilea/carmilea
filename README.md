@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1% Equity for Founding Engineers Is BS](https://fetchfox.ai/a/founding-engineer-compensation)
-- [A story about USB floppy drives &lpar;2004&rpar;](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
-- [Earth&#39;s inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
-- [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
-- [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
+- [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
+- [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
+- [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
+- [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
+- [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
