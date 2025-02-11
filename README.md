@@ -61,8 +61,8 @@
 - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 - [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 - [&#39;social network&#39; attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
-- [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce &lpar;1971&rpar; [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
 - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
+- [Hedge Funds Are Pocketing Much of Their Clients&#39; Gains with &#39;No Limit&#39; Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
