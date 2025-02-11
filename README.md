@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legion Health &lpar;YC S21, AI-Driven Psychiatry&rpar; Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
+- [The Curious Similarity Between LLMs and Quantum Mechanics](https://robleclerc.substack.com/p/the-curious-similarity-between-llms)
+- [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
+- [EU&#39;s AltStore Gets First Native iOS Pornography App](https://www.macrumors.com/2025/02/03/eu-altstore-porn-app/)
 - [E Ink&#39;s color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
-- [A pair of scissors on formica table suddenly bursts into flames](https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/)
-- [Disabling cert checks: we have not learned much](https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/)
-- [I Tasted Honda&#39;s Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
-- [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
