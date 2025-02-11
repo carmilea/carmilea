@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Altman: OpenAI not for sale, especially to competitor who is not able to beat us](https://www.axios.com/2025/02/11/openai-altman-musk-offer)
-- [Sid Meier&#39;s Civilization VII](https://civilization.2k.com/civ-vii/buy/)
 - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
-- [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
 - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+- [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
+- [Meta&#39;s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
+- [Elementary Functions and Not Following the IEEE754 Floating-Point Standard&lpar;2020&rpar;](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
