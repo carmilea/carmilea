@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NOAA&#39;s public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
+- [The Butter Thesis &lpar;2019&rpar;](https://nickgrossman.xyz/the-butter-thesis)
 - [Empirical Health &lpar;YC S23&rpar; Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- [Thomson Reuters wins AI copyright case, rejecting fair use](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
+- [Thomson Reuters wins first major AI copyright case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
 - [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
-- [Mass market non-fiction has bad incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
-- [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
