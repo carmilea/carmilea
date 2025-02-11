@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Firing Programmers for AI Will Destroy Everything](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
+- [Altman: OpenAI not for sale, especially to competitor who is not able to beat us](https://www.axios.com/2025/02/11/openai-altman-musk-offer)
 - [Sid Meier&#39;s Civilization VII](https://civilization.2k.com/civ-vii/buy/)
 - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
