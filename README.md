@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
+- [My Wife&#39;s Enemies Are Now My Enemies, Too &lpar;2019&rpar;](https://www.thecut.com/2019/12/my-wifes-enemies-are-now-my-enemies-too.html)
+- [Microsoft open sources PostgreSQL extensions to muscle in on NoSQL](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/)
+- [The Mythology of Work &lpar;2018&rpar;](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone)
 - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
-- [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
-- [Meta&#39;s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
-- [Elementary Functions and Not Following the IEEE754 Floating-Point Standard&lpar;2020&rpar;](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
-- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
