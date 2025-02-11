@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ABA supports the rule of law](https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/)
-- [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
-- [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
-- [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
-- [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
+- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
+- [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+- [&#39;social network&#39; attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
+- [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce &lpar;1971&rpar; [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
+- [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
