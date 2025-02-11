@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
-- [My Wife&#39;s Enemies Are Now My Enemies, Too &lpar;2019&rpar;](https://www.thecut.com/2019/12/my-wifes-enemies-are-now-my-enemies-too.html)
-- [Microsoft open sources PostgreSQL extensions to muscle in on NoSQL](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/)
-- [The Mythology of Work &lpar;2018&rpar;](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone)
-- [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+- [I Tasted Honda&#39;s Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
+- [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
+- [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
+- [More users are watching YouTube on TV than mobile](https://www.engadget.com/entertainment/youtube/more-users-are-watching-youtube-on-tv-than-mobile-140035151.html)
+- [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
