@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
+- [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
+- [NixOS and Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 - [Meta&#39;s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
-- [Make Your Own Website: A beginner&#39;s guide](https://web.pixelshannon.com/make/)
-- [Elementary Functions and Not Following the IEEE754 Floating-Point Standard&lpar;2020&rpar;](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
