@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 - [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
 - [Apple software update &quot;bug&quot; enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 - [Make Your Own Website: A beginner&#39;s guide](https://web.pixelshannon.com/make/)
 - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
-- [SolarWinds to Be Acquired by Turn/River Capital](https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
