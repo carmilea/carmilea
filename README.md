@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [E Ink&#39;s color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
+- [A pair of scissors on formica table suddenly bursts into flames](https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/)
+- [Disabling cert checks: we have not learned much](https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/)
 - [I Tasted Honda&#39;s Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
-- [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
-- [More users are watching YouTube on TV than mobile](https://www.engadget.com/entertainment/youtube/more-users-are-watching-youtube-on-tv-than-mobile-140035151.html)
-- [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
