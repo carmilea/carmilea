@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-Fiction Has Bad Incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
+- [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
+- [Tesla Cybertruck Drives Itself into a Pole, Owner Says &#39;Thank You Tesla&#39;](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
+- [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](https://www.emergent-values.ai/)
 - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
-- [Judge tells agencies to restore webpages and data removed](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33)
-- [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
-- [Japan can be a science heavyweight once more – if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
-- [Go&#39;s new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
