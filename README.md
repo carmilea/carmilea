@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
 - [Apple software update &quot;bug&quot; enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
+- [Make Your Own Website: A beginner&#39;s guide](https://web.pixelshannon.com/make/)
 - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
 - [SolarWinds to Be Acquired by Turn/River Capital](https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx)
-- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
-- [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
