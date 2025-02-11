@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-Fiction Has Bad Incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
-- [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
-- [Tesla Cybertruck Drives Itself into a Pole, Owner Says &#39;Thank You Tesla&#39;](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
-- [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](https://www.emergent-values.ai/)
-- [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
+- [Empirical Health &lpar;YC S23&rpar; Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
+- [Thomson Reuters wins AI copyright case, rejecting fair use](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
+- [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+- [Mass market non-fiction has bad incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
+- [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
