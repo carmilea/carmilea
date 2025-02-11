@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Legion Health &lpar;YC S21, AI-Driven Psychiatry&rpar; Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
-- [The Curious Similarity Between LLMs and Quantum Mechanics](https://robleclerc.substack.com/p/the-curious-similarity-between-llms)
-- [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
-- [EU&#39;s AltStore Gets First Native iOS Pornography App](https://www.macrumors.com/2025/02/03/eu-altstore-porn-app/)
-- [E Ink&#39;s color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
+- [Man who threw away $750M in Bitcoin wants to buy the dump where it&#39;s buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
+- [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
+- [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)
+- [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
+- [Harry Stewart, Jr., one of the last surviving Tuskegee Airmen, dies at 100](https://apnews.com/article/tuskegee-airmen-harry-stewart-jr-78fd504895d7af70d4bb1e2243a54ee6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
