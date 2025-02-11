@@ -48,7 +48,7 @@
 - [Building a Full Stack App with Drizzle ORM and React](https://www.youtube.com/watch?v=g2BefSGYG1o)
 - [H2O.ai h2oGPTe Agentic AI Webinar Recording](https://www.youtube.com/watch?v=m3I3ro_ZAnE)
 - [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window](https://www.youtube.com/watch?v=OygO14pXK84)
-- [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=w0IkvIvCt-8)
+- [Kafka Unleashed: Powering Real-Time AI with Streaming Data!](https://www.youtube.com/watch?v=w0IkvIvCt-8)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=uq_iNwPpQGE)
 <!-- YOUTUBE:END -->
 
