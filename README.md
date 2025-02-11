@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man who threw away $750M in Bitcoin wants to buy the dump where it&#39;s buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
-- [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
-- [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)
-- [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
-- [Harry Stewart, Jr., one of the last surviving Tuskegee Airmen, dies at 100](https://apnews.com/article/tuskegee-airmen-harry-stewart-jr-78fd504895d7af70d4bb1e2243a54ee6)
+- [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
+- [Judge tells agencies to restore webpages and data removed](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33)
+- [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
+- [Japan can be a science heavyweight once more – if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
+- [Go&#39;s new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
