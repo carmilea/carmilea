@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 - [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
 - [Meta&#39;s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard&lpar;2020&rpar;](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
+- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
