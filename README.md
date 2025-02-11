@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What are non intelligent people like me supposed to do for money?](https://www.reddit.com/r/findapath/s/Me91Ke0COG)
 - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 - [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 - [&#39;social network&#39; attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
-- [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
-- [Hedge Funds Are Pocketing Much of Their Clients&#39; Gains with &#39;No Limit&#39; Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
+- [Nocc – A Distributed C++ Compiler](https://github.com/VKCOM/nocc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
