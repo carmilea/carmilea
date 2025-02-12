@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
+- [Artie &lpar;YC S23&rpar; Is Hiring Business Operations](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations)
+- [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
+- [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
 - [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
-- [The Database Cheatsheet: Advanced Queries](https://www.singlestore.com/blog/the-database-cheatsheet-advanced-queries)
-- [Syd: An Introduction to Secure Application Sandboxing for Linux [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)
-- [Dose-dependent effects of LSD in double-blind placebo-controlled study &lpar;2020&rpar;](https://www.nature.com/articles/s41386-020-00883-6)
-- [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
