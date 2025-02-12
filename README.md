@@ -61,8 +61,8 @@
 - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
-- [Show HN: Mikey – No bot meeting notetaker for Windows](https://github.com/hotrod462/Mikey)
-- [Show HN: Release skies-adsb 2.0 – RTL-SDR ADS-B 3D plane tracking app](https://github.com/llopisdon/skies-adsb)
+- [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
+- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
