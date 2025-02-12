@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)
 - [Hackers leak cop manuals for departments after breaching major provider](https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/)
 - [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 - [NOAA&#39;s public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
-- [Empirical Health &lpar;YC S23&rpar; Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
