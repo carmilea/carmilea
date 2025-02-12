@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
 - [Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow)
 - [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
 - [ElevenReader by ElevenLabs](https://elevenreader.io)
-- [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
+- [I wrote a static web page and accidentally started a community &lpar;2023&rpar;](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
+- [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
