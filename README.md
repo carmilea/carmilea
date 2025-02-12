@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Associated Press Barred from Oval Office for Not Using &#39;Gulf of America&#39;](https://www.theguardian.com/us-news/2025/feb/11/associated-press-oval-office-gulf-of-america)
+- [Hackers leak cop manuals for departments after breaching major provider](https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/)
+- [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 - [NOAA&#39;s public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
-- [The Butter Thesis &lpar;2019&rpar;](https://nickgrossman.xyz/the-butter-thesis)
 - [Empirical Health &lpar;YC S23&rpar; Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 <!-- BLOG-POST-LIST:END -->
 
