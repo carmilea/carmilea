@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow)
-- [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
-- [ElevenReader by ElevenLabs](https://elevenreader.io)
-- [I wrote a static web page and accidentally started a community &lpar;2023&rpar;](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
-- [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
+- [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- [EU to mobilize 200B Euros to invest in AI](https://www.euronews.com/next/2025/02/11/eu-to-mobilise-200-billion-for-ai-investment)
+- [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
+- [Show HN: Release skies-adsb 2.0 – RTL-SDR ADS-B 3D plane tracking app](https://github.com/llopisdon/skies-adsb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
