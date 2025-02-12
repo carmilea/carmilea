@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
 - [ElevenReader by ElevenLabs](https://elevenreader.io)
 - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 - [I wrote a static web page and accidentally started a community &lpar;2023&rpar;](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
-- [The year I didn&#39;t survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
