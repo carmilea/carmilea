@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
+- [The Database Cheatsheet: Advanced Queries](https://www.singlestore.com/blog/the-database-cheatsheet-advanced-queries)
+- [Syd: An Introduction to Secure Application Sandboxing for Linux [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)
 - [Dose-dependent effects of LSD in double-blind placebo-controlled study &lpar;2020&rpar;](https://www.nature.com/articles/s41386-020-00883-6)
 - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
-- [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
-- [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
