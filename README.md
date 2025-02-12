@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
+- [ElevenReader by ElevenLabs](https://elevenreader.io)
 - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 - [I wrote a static web page and accidentally started a community &lpar;2023&rpar;](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
