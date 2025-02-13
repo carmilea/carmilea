@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
-- [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
-- [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
-- [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
-- [Magnetic field sorting of superconducting graphite particles with Tc&gt;400K](https://arxiv.org/abs/2410.18020)
+- [Mysterious Palo Alto firewall reboots? You&#39;re not alone](https://www.theregister.com/2025/02/13/palo_alto_firewall/)
+- [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
+- [Larry Ellison wants to put all America&#39;s data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
+- [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
+- [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
