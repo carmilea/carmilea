@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
+- [Cybertrucks Are Deadlier Than Infamous Ford Pintos](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/)
+- [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
-- [Larry Ellison wants to put all America&#39;s data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
 - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
 <!-- BLOG-POST-LIST:END -->
 
