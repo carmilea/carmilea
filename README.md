@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperbound &lpar;YC S23&rpar; Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
+- [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
 - [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
-- [Amazon ends kindle ebooks &quot;Download and Transfer via USB&quot;](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th)
 - [JesseSort: A novel sorting algorithm that is faster than Python&#39;s default sort.](https://github.com/lewj85/jessesort)
 - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
-- [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
