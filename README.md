@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Web &lpar;2024&rpar;](https://garry.net/posts/the-death-of-the-web)
-- [Foreign Aid Freeze Leaves Millions Without HIV Treatment](https://www.nytimes.com/2025/02/05/health/trump-usaid-pepfar.html)
+- [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
+- [Amazon ends kindle ebooks &quot;Download and Transfer via USB&quot;](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th)
+- [JesseSort: A novel sorting algorithm that is faster than Python&#39;s default sort.](https://github.com/lewj85/jessesort)
 - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
-- [How Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
