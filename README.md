@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Lighthouse recommends not embedding YouTube videos directly](https://developer.chrome.com/docs/lighthouse/performance/third-party-facades)
 - [How to professionally say &lpar;2022&rpar;](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 - [YouTube&#39;s New Hue](https://design.google/library/youtube-new-red-color)
 - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
 - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
+- [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
