@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Death of the Web &lpar;2024&rpar;](https://garry.net/posts/the-death-of-the-web)
+- [Foreign Aid Freeze Leaves Millions Without HIV Treatment](https://www.nytimes.com/2025/02/05/health/trump-usaid-pepfar.html)
 - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
-- [&#39;It&#39;s a money game to them&#39;:son takes on UnitedHealth over elderly father&#39;s care](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care)
-- [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
-- [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
-- [Who exactly needs to get approval from an institutional review board &lpar;IRB&rpar;?](https://dynomight.net/irb/)
+- [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
+- [How Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
