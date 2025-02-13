@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE as a National Cyberattack](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html)
+- [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
+- [U.K. demand for a back door to Apple data threatens Americans, lawmakers say](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/)
+- [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
 - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
 - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
-- [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
-- [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
