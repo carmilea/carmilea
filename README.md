@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mysterious Palo Alto firewall reboots? You&#39;re not alone](https://www.theregister.com/2025/02/13/palo_alto_firewall/)
+- [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
+- [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
 - [Larry Ellison wants to put all America&#39;s data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
 - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
-- [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
