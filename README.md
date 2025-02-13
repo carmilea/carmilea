@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
-- [U.K. demand for a back door to Apple data threatens Americans, lawmakers say](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/)
-- [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
-- [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
-- [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
+- [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
+- [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
+- [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
+- [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
+- [Magnetic field sorting of superconducting graphite particles with Tc&gt;400K](https://arxiv.org/abs/2410.18020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
