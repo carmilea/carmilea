@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
-- [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
 - [Federal data is disappearing. On Thursday, meet the teams working to rescue it](https://www.muckrock.com/news/archives/2025/feb/10/federal-data-is-disappearing-on-thursday-meet-the-teams-working-to-rescue-it-and-learn-how-you-can-help/)
 - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
 - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
+- [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
