@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybertrucks Are Deadlier Than Infamous Ford Pintos](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/)
+- [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
+- [&#39;It&#39;s a money game to them&#39;:son takes on UnitedHealth over elderly father&#39;s care](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care)
+- [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
 - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
-- [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
-- [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
-- [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
+- [Who exactly needs to get approval from an institutional review board &lpar;IRB&rpar;?](https://dynomight.net/irb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
