@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE&#39;s &#39;Genius&#39; Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
+- [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
+- [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute)
 - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
-- [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
+- [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
 - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
-- [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
