@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic&#39;s next major AI model could arrive within weeks](https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/)
+- [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
+- [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
 - [Doge.gov site has been hacked](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
-- [Rob Pike: On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000)
-- [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
-- [Yhangry &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=43045656)
-- [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+- [Gemini beats everyone on new OCR benchmark](https://arxiv.org/abs/2502.06445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
