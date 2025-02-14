@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperbound &lpar;YC S23&rpar; Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
-- [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
-- [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
-- [JesseSort: A novel sorting algorithm that is faster than Python&#39;s default sort.](https://github.com/lewj85/jessesort)
-- [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
+- [Passing the Torch on Asahi Linux](https://asahilinux.org/2025/02/passing-the-torch/)
+- [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
+- [We are the &quot;thin blue line&quot; that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
+- [MIT evolves virtual eye from scratch](https://eyes.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
