@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)
-- [Nearly half of Steam&#39;s users are still using Windows 10](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/)
-- [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
-- [DA, sheriff, who shared woman&#39;s nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
+- [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
+- [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
+- [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
+- [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 - [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
 <!-- BLOG-POST-LIST:END -->
 
