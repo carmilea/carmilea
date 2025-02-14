@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doge.gov site has been hacked](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
+- [Rob Pike: On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000)
 - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 - [Yhangry &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=43045656)
 - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
-- [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
-- [Neovim tee.exe binary dependency exhibiting illegitimate / unauthorized behavior](https://github.com/neovim/neovim/issues/32431)
 <!-- BLOG-POST-LIST:END -->
 
 ---
