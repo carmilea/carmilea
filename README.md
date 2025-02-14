@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
-- [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
-- [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
-- [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
-- [Type safe variadic printf](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
+- [Trump&#39;s Purge Hits Nuclear Weapons Agency–Setting Off National Crisis](https://newrepublic.com/post/191564/trump-fires-rehires-nuclear-weapons-agency-staff)
+- [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
+- [We Were Wrong About GPUs](https://fly.io/blog/wrong-about-gpu/)
+- [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
+- [Terence Tao – Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
 <!-- BLOG-POST-LIST:END -->
 
 ---
