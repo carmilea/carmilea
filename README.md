@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Resumes Advertising on X](https://daringfireball.net/linked/2025/02/12/apple-advertising-x)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
-- [Passing the Torch on Asahi Linux](https://asahilinux.org/2025/02/passing-the-torch/)
 - [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
 - [We are the &quot;thin blue line&quot; that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
 - [MIT evolves virtual eye from scratch](https://eyes.mit.edu/)
