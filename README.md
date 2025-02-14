@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
-- [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute)
-- [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
-- [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
-- [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
+- [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
+- [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+- [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
+- [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
+- [Type safe variadic printf](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
