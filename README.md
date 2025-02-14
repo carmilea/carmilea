@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE exposes once-secret government networks](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)
+- [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
+- [DA, sheriff, who shared woman&#39;s nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
 - [ICE Wants to Know If You&#39;re Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
-- [AI will divide the best from the rest](https://www.economist.com/finance-and-economics/2025/02/13/how-ai-will-divide-the-best-from-the-rest)
-- [A woman made her AI voice clone say &quot;arse.&quot; Then she got banned](https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/)
 - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
-- [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
