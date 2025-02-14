@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
-- [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
-- [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
-- [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
-- [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
+- [DOGE&#39;s &#39;Genius&#39; Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
+- [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
+- [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
+- [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
+- [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
