@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State Capture](https://en.wikipedia.org/wiki/State_capture)
 - [Germany says its warships were sabotaged](https://www.businessinsider.com/german-navy-says-warships-were-sabotaged-warns-of-russian-threat-2025-2)
-- [VA dismisses more than 1k employees](https://news.va.gov/press-room/va-dismisses-more-than-1000-employees/)
 - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
 - [OCR4all](https://www.ocr4all.org/)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
+- [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
