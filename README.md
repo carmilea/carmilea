@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany says its warships were sabotaged](https://www.businessinsider.com/german-navy-says-warships-were-sabotaged-warns-of-russian-threat-2025-2)
-- [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
-- [OCR4all](https://www.ocr4all.org/)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
-- [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
+- [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
+- [Yhangry &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=43045656)
+- [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+- [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+- [Neovim tee.exe binary dependency exhibiting illegitimate / unauthorized behavior](https://github.com/neovim/neovim/issues/32431)
 <!-- BLOG-POST-LIST:END -->
 
 ---
