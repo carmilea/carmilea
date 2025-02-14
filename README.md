@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
-- [UK drops &#39;safety&#39; from its AI body, now called AI Security Institute](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
 - [OCR4all](https://www.ocr4all.org/)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
 - [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
+- [We are the &quot;thin blue line&quot; that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
