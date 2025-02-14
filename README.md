@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Gov Org Chart](https://doge.gov/workforce?orgId=69ee18bc-9ac8-467e-84b0-106601b01b90)
 - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+- [Watchdog ponders why Apple doesn&#39;t apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
 - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
-- [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
-- [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
-- [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
+- [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services &lpar;2017&rpar;](https://github.com/ricochet-im/ricochet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
