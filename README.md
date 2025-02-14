@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Gov Org Chart](https://doge.gov/workforce?orgId=69ee18bc-9ac8-467e-84b0-106601b01b90)
+- [ICE Wants to Know If You&#39;re Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
+- [AI will divide the best from the rest](https://www.economist.com/finance-and-economics/2025/02/13/how-ai-will-divide-the-best-from-the-rest)
+- [A woman made her AI voice clone say &quot;arse.&quot; Then she got banned](https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/)
+- [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
-- [Watchdog ponders why Apple doesn&#39;t apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
-- [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
-- [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services &lpar;2017&rpar;](https://github.com/ricochet-im/ricochet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
