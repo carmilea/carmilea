@@ -62,7 +62,7 @@
 - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
 - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
-- [Gemini beats everyone on new OCR benchmark](https://arxiv.org/abs/2502.06445)
+- [Benchmarking Vision-Language Models on OCR in Dynamic Video Environments](https://arxiv.org/abs/2502.06445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
