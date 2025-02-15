@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump&#39;s Purge Hits Nuclear Weapons Agency–Setting Off National Crisis](https://newrepublic.com/post/191564/trump-fires-rehires-nuclear-weapons-agency-staff)
-- [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
-- [We Were Wrong About GPUs](https://fly.io/blog/wrong-about-gpu/)
-- [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
-- [Terence Tao – Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
+- [Men claiming to be from DOGE show up at San Francisco City Hall, demand records](https://www.cbsnews.com/sanfrancisco/news/doge-3-men-show-up-at-sf-city-hall-demand-records/)
+- [Executive Order for MAHA Commission](https://foodishealth.substack.com/p/breaking-executive-order-for-maha)
+- [The IRS Is Buying an AI Supercomputer from Nvidia](https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/)
+- [Wyden Releases Draft Bill to Secure Americans&#39; Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
+- [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
