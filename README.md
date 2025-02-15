@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gazeta Wyborcza, Poland&#39;s largest newspaper quits X, now on Bluesky](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t)
+- [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
+- [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
-- [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
-- [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
-- [Jane Street&#39;s Figgie card game](https://www.figgie.com/)
-- [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
+- [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
