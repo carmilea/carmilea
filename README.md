@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gazeta Wyborcza, Poland&#39;s largest newspaper quits X, now on Bluesky](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t)
-- [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
+- [Amazon&#39;s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
+- [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
 - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
