@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Men claiming to be from DOGE show up at San Francisco City Hall, demand records](https://www.cbsnews.com/sanfrancisco/news/doge-3-men-show-up-at-sf-city-hall-demand-records/)
-- [Executive Order for MAHA Commission](https://foodishealth.substack.com/p/breaking-executive-order-for-maha)
-- [The IRS Is Buying an AI Supercomputer from Nvidia](https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/)
+- [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 - [Wyden Releases Draft Bill to Secure Americans&#39; Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
 - [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
+- [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/)
+- [Mathics3 Live Shell](https://mathics3.github.io/Mathics3-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
