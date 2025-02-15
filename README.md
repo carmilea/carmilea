@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. conditionally approves vaccine to protect poultry from avian flu](https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu)
 - [Why Aren&#39;t We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
-- [Sabine Hossenfelder: I was asked to keep this confidential](https://www.youtube.com/watch?v=shFUDPqVmTg)
+- [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
+- [Alzheimer&#39;s biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
 - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
-- [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s &lpar;eval 11.68 tok/s&rpar;](https://github.com/b4rtaz/distributed-llama/discussions/162)
-- [Nintendo Obtains New Anti-Palworld Patent and Seeks Even More](https://gamerant.com/nintendo-anti-palworld-patents-uspto-infringement-lawsuit-implications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
