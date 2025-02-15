@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
+- [Jane Street&#39;s Figgie card game](https://www.figgie.com/)
 - [Airbnb CEO says it&#39;s still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
-- [Are DOGE&#39;s Claims of Social Security Payments to 150-Year-Olds Way Off Base?](https://slashdot.org/submission/17333271/are-doges-claims-of-social-security-payments-to-150-year-olds-way-off-base)
 - [If you believe in &quot;Artificial Intelligence&quot;, take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
 - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
-- [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
