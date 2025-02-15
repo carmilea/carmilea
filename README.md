@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s &lpar;eval 11.68 tok/s&rpar;](https://github.com/b4rtaz/distributed-llama/discussions/162)
 - [Nintendo Obtains New Anti-Palworld Patent and Seeks Even More](https://gamerant.com/nintendo-anti-palworld-patents-uspto-infringement-lawsuit-implications/)
 - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
 - [Dust from Car Brakes More Harmful Than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 - [Increasing rat numbers in cities are linked to climate warming, urbanization](https://www.science.org/doi/10.1126/sciadv.ads6782)
-- [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
