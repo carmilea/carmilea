@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What country would you like to relocate to and why?](https://news.ycombinator.com/item?id=43056495)
-- [Court rulings referenced in condo dispute were AI generated, &#39;do not exist,&#39;](https://www.ctvnews.ca/vancouver/article/court-rulings-referenced-in-bc-condo-dispute-were-ai-generated-do-not-exist-tribunal-finds/)
+- [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 - [Why I quit: kernel developer Con Kolivas &lpar;2007&rpar;](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
 - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
-- [Sunsetting Create React App](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)
+- [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+- [Gary Marcus discusses AI&#39;s technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
