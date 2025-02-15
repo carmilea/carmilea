@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;the Zooms don&#39;t show up&quot; Jamie Dimon](https://www.mediaite.com/tv/leaked-audio-reveals-jp-morgan-ceo-going-off-on-young-staffers-wanting-to-work-from-home/)
+- [Why I quit: kernel developer Con Kolivas &lpar;2007&rpar;](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
 - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+- [Gary Marcus discusses AI&#39;s technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
-- [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
