@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Karol Herbst Steps Down as Nouveau Maintainer Due to Linux&#39;s Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
 - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 - [Jane Street&#39;s Figgie card game](https://www.figgie.com/)
 - [Airbnb CEO says it&#39;s still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
-- [If you believe in &quot;Artificial Intelligence&quot;, take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
 - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 <!-- BLOG-POST-LIST:END -->
 
