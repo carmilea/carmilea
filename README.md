@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 - [My Life in Weeks](https://weeks.ginatrapani.org/)
 - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
+- [OmniParser V2 – A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
 - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
-- [Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/)
-- [PAROL6: 3D-printed desktop robotic arm](https://source-robotics.github.io/PAROL-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
