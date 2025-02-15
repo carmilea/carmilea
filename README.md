@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
+- [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+- [To avoid being replaced by LLMs, do what they can&#39;t](https://www.seangoedecke.com/what-llms-cant-do/)
 - [My Life in Weeks](https://weeks.ginatrapani.org/)
-- [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
-- [OmniParser V2 – A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
-- [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
