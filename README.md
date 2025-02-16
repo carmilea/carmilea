@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
+- [Why is there a screen that says &quot;It is now safe to turn off your computer&quot;? &lpar;2016&rpar;](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
+- [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
 - [Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer)
 - [Trick to find commands in the terminal quickly](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
-- [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)
-- [When Compilers Were the &#39;AI&#39; That Scared Programmers](https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/)
-- [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
