@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I went viral with a silly startup](https://www.cyberpatterns.xyz/p/vc-subsidized)
+- [Doubts remain over reliability of Texas&#39; power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
+- [United States Power Outage Map](https://poweroutage.us/)
+- [Apple Maps Might Start Showing Ads](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/)
 - [Vim after Bram: a core maintainer on how they&#39;ve kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
-- [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
-- [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
-- [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
+- [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
