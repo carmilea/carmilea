@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)
 - [Ollama-Swift](https://nshipster.com/ollama/)
 - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
-- [US Forest Service and National Park Service to fire thousands of workers](https://www.theguardian.com/us-news/2025/feb/15/us-forest-service-national-park-service-layoffs)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
 - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!-- BLOG-POST-LIST:END -->
