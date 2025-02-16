@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Flow: Escaping digital distractions through deep work and slow living](https://www.ssp.sh/blog/finding-flow/)
+- [Man from uncontacted tribe emerges in Amazon, villagers demonstrate a lighter](https://apnews.com/article/brazil-amazon-indigenous-uncontacted-isolated-tribe-funai-0552568846327f9e4b296f83152c1afc)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
 - [Dinner at a North Korean Restaurant in Shanghai &lpar;2016&rpar;](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
-- [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
-- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
