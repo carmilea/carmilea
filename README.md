@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So Many Unmarried Men](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life)
-- [Rust Is Eating JavaScript](https://leerob.com/n/rust)
-- [Statement or eyesore? Japan&#39;s divisive brutalist buildings – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures)
-- [Finding Flow: Escaping digital distractions through deep work and slow living](https://www.ssp.sh/blog/finding-flow/)
-- [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
+- [I went viral with a silly startup](https://www.cyberpatterns.xyz/p/vc-subsidized)
+- [Vim after Bram: a core maintainer on how they&#39;ve kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
+- [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
+- [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
+- [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
