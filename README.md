@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
-- [&#39;Reading is part of my identity&#39;: the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)
+- [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
 - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
+- [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
 - [Why I&#39;m leaving Elm &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
-- [Doubts remain over reliability of Texas power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
