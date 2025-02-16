@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
+- [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
 - [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
-- [JPMorgan employee questioned Dimon&#39;s RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
-- [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
 <!-- BLOG-POST-LIST:END -->
 
