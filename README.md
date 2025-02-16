@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
+- [Langfuse &lpar;YC W23&rpar; Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
 - [Dinner at a North Korean Restaurant in Shanghai &lpar;2016&rpar;](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
