@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)
-- [Ollama-Swift](https://nshipster.com/ollama/)
+- [JPMorgan employee questioned Dimon&#39;s RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
+- [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
+- [Ask HN: Struggling to Understand DHTs – Any Good Resources?](https://news.ycombinator.com/item?id=43065125)
 - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
-- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
