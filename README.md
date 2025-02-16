@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists uncover evidence of two arrows of time emerging at the quantum level](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
+- [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
+- [Uchū · the color scheme for internet lovers](https://uchu.style)
 - [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
-- [NOAA: File is deleted by executive order [pdf]](https://www.noaa.gov/sites/default/files/2024-01/NOAA_Radar_Next-Radar_Next_Program_242901.pdf)
-- [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
-- [Why is there a screen that says &quot;It is now safe to turn off your computer&quot;? &lpar;2016&rpar;](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
-- [Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer)
+- [Critics say new Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
