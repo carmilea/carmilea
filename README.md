@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer)
+- [Trick to find commands in the terminal quickly](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
+- [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)
+- [When Compilers Were the &#39;AI&#39; That Scared Programmers](https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/)
 - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
-- [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
-- [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
-- [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
-- [Why I&#39;m leaving Elm &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
