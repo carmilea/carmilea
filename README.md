@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doubts remain over reliability of Texas&#39; power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
-- [United States Power Outage Map](https://poweroutage.us/)
-- [Apple Maps Might Start Showing Ads](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/)
-- [Vim after Bram: a core maintainer on how they&#39;ve kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
-- [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
+- [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
+- [&#39;Reading is part of my identity&#39;: the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)
+- [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
+- [Why I&#39;m leaving Elm &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+- [Doubts remain over reliability of Texas power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
