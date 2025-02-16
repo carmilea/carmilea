@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
-- [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
 - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 - [Create a QubesOS Gaming HVM with GPU PCI passthrough &lpar;2023&rpar;](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
+- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
