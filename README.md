@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
-- [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
-- [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
+- [Dinner at a North Korean Restaurant in Shanghai &lpar;2016&rpar;](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 - [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
+- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
