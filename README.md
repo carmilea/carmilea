@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So Many Unmarried Men](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life)
 - [Rust Is Eating JavaScript](https://leerob.com/n/rust)
 - [Statement or eyesore? Japan&#39;s divisive brutalist buildings – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures)
 - [Finding Flow: Escaping digital distractions through deep work and slow living](https://www.ssp.sh/blog/finding-flow/)
 - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
