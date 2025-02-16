@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
+- [Create a QubesOS Gaming HVM with GPU PCI passthrough &lpar;2023&rpar;](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
+- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
-- [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
-- [My Life in Weeks](https://weeks.ginatrapani.org/)
-- [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
