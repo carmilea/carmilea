@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who carved South America&#39;s mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
 - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 - [Launch HN: Roark &lpar;YC W25&rpar; – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
-- [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
-- [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+- [Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
