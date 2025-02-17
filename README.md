@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
+- [BMW&#39;s next-gen EVs depend on an unassuming black box called &#39;Heart of Joy&#39;](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
+- [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
-- [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
 - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 - [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
 <!-- BLOG-POST-LIST:END -->
