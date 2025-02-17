@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
-- [Learning happens in environments optimized for understanding, not winning](https://www.joanwestenberg.com/you-will-never-win-an-argument-on-the-internet-heres-why/)
 - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 - [0+0 &gt; 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
 - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
+- [X users are unable to post “Signal.me” links](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
