@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
+- [PASS on Firing of Probationary Employees at FAA](https://www.passnational.org/index.php/news/873-pass-statement-on-firing-of-probationary-employees-at-faa)
 - [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
-- [Elon Musk&#39;s terrifying vision for AI](https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for)
 - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 - [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
 <!-- BLOG-POST-LIST:END -->
