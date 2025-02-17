@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Searchcode.com&#39;s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 - [Twitter blocks links to Signal messenger](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
-- [South Korea bans new DeepSeek AI downloads](https://www.bbc.com/news/articles/clyzym0vn8go)
+- [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
 - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
-- [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
