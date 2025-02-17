@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
-- [TestRigor &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
-- [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
-- [Who carved South America&#39;s mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
-- [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
+- [Argentina president faces impeachment calls over crypto crash](https://www.bbc.com/news/articles/cp9x9j89evxo)
+- [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
+- [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
+- [Mt32-pi developer quits due to community harassment](https://github.com/dwhinham/mt32-pi)
+- [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
