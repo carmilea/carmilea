@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project 2025 Observer](https://www.project2025.observer/)
+- [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 - [TestRigor &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
+- [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 - [Who carved South America&#39;s mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
-- [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 <!-- BLOG-POST-LIST:END -->
 
