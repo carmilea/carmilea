@@ -62,7 +62,7 @@
 - [Representing Graphs in PostgreSQL](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html)
 - [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
 - [0+0 &gt; 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
-- [Searchcode.com&#39;s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
+- [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
