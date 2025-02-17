@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 - [Representing Graphs in PostgreSQL](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html)
-- [Doge-affiliated employee expected to seek access to IRS system](https://www.nbcnews.com/politics/doge/doge-affiliated-employee-access-irs-system-sensitive-taxpayer-inform-rcna192423)
+- [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
+- [0+0 &gt; 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
 - [Searchcode.com&#39;s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
-- [X blocks links to Signal](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
-- [Is ChatGPT autocomplete bad UX/UI?](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
