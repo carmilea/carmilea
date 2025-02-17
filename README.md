@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
+- [Launch HN: Roark &lpar;YC W25&rpar; – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
 - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
-- [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
-- [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
-- [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
+- [Watch R1 &quot;think&quot; with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
