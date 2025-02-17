@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Physicists uncover evidence of two arrows of time emerging at the quantum level](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
-- [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
-- [Uchū · the color scheme for internet lovers](https://uchu.style)
-- [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
-- [Critics say new Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
+- [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
+- [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T)
+- [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+- [America will collapse by 2025 &lpar;2010&rpar;](https://www.salon.com/2010/12/06/america_collapse_2025/)
+- [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
