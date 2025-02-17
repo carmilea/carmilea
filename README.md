@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project 2025 Observer](https://www.project2025.observer/)
+- [TestRigor &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 - [Who carved South America&#39;s mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
 - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
-- [Launch HN: Roark &lpar;YC W25&rpar; – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
-- [Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
