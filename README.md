@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
+- [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+- [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
+- [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
 - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
-- [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
-- [0+0 &gt; 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
-- [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
-- [X users are unable to post “Signal.me” links](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
