@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-Text Search vs. Semantic Search](https://www.singlestore.com/blog/full-text-search-vs-semantic-search)
+- [Tech Continues to Be Political](https://www.miriamsuzanne.com/2025/02/12/tech-ai-wtf/)
 - [Converge &lpar;YC S23&rpar; is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 - [DeepSeek &#39;shared user data&#39; with TikTok owner ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
 - [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
-- [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
-- [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
