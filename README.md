@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Electric Cars That Much Cheaper to Operate Than ICE?](https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice)
-- [By the end of today, NASA&#39;s workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
+- [Andrej Karpathy: &quot;I was given early access to Grok 3 earlier today&quot;](https://twitter.com/karpathy/status/1891720635363254772)
+- [Svelte 5 is not JavaScript](https://hodlbod.npub.pro/post/1739830562159/)
+- [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b)
 - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
-- [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
