@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
+- [The Generative AI Con](https://www.wheresyoured.at/longcon/)
+- [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
+- [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
 - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
-- [Dedekind&#39;s Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
-- [On David Lynch&#39;s Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
-- [Police arrest apparent leader of cultlike &#39;Zizian&#39; group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
-- [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
