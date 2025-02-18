@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Converge &lpar;YC S23&rpar; is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+- [DeepSeek &#39;shared user data&#39; with TikTok owner ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
+- [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
 - [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
-- [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
-- [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
-- [Moving on from 18F](https://ethanmarcotte.com/wrote/leaving-18f/)
-- [Semantic Search: What Is It + How Does It Work?](https://www.singlestore.com/blog/a-complete-guide-to-semantic-search-for-beginners)
+- [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
