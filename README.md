@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tensor Evolution: A Framework for Fast Evaluation Using Recurrences](https://arxiv.org/abs/2502.03402)
-- [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
-- [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
-- [Launch HN: Promptless &lpar;YC W25&rpar; – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
-- [A simple geometry question that fools almost everyone](https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone)
+- [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
+- [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+- [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
+- [Moving on from 18F](https://ethanmarcotte.com/wrote/leaving-18f/)
+- [Semantic Search: What Is It + How Does It Work?](https://www.singlestore.com/blog/a-complete-guide-to-semantic-search-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
