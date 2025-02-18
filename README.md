@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
+- [Launch HN: Promptless &lpar;YC W25&rpar; – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
+- [Web awesome: &quot;Shoelace 3.0&quot; open source web components](https://backers.webawesome.com)
+- [Try Thinking and Learning Without Working Memory &lpar;2008&rpar;](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
 - [Andrej Karpathy: &quot;I was given early access to Grok 3 earlier today&quot;](https://twitter.com/karpathy/status/1891720635363254772)
-- [Svelte 5 is not JavaScript](https://hodlbod.npub.pro/post/1739830562159/)
-- [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b)
-- [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
-- [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
