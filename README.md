@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tensor Evolution: A Framework for Fast Evaluation Using Recurrences](https://arxiv.org/abs/2502.03402)
+- [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
 - [Launch HN: Promptless &lpar;YC W25&rpar; – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
-- [Web awesome: &quot;Shoelace 3.0&quot; open source web components](https://backers.webawesome.com)
-- [Try Thinking and Learning Without Working Memory &lpar;2008&rpar;](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
-- [Andrej Karpathy: &quot;I was given early access to Grok 3 earlier today&quot;](https://twitter.com/karpathy/status/1891720635363254772)
+- [A simple geometry question that fools almost everyone](https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
