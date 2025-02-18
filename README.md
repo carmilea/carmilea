@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.24](https://tip.golang.org/doc/go1.24)
 - [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
-- [The Generative AI Con](https://www.wheresyoured.at/longcon/)
+- [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
-- [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
-- [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+- [Sony FX-300 Jackal: A technological marvel of the late 70s](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
