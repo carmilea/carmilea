@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
+- [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- [Linux&#39;s Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
+- [Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
 - [Show HN: Live-updating version of the &#39;What a week, huh?&#39; meme](https://tintin.dlazaro.ca/)
-- [Go 1.24](https://tip.golang.org/doc/go1.24)
-- [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
