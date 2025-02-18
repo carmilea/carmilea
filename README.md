@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+- [Linux&#39;s Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
 - [Show HN: Live-updating version of the &#39;What a week, huh?&#39; meme](https://tintin.dlazaro.ca/)
 - [Go 1.24](https://tip.golang.org/doc/go1.24)
 - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
-- [The Generative AI Con](https://www.wheresyoured.at/longcon/)
-- [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
