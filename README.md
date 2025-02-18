@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Honestly terrifying&#39;: Yosemite National Park is in chaos](https://www.sfgate.com/california-parks/article/yosemite-national-park-in-chaos-20163260.php)
+- [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
 - [Dedekind&#39;s Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 - [On David Lynch&#39;s Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
 - [Police arrest apparent leader of cultlike &#39;Zizian&#39; group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
