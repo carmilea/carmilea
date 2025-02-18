@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I was given early access to Grok 3 earlier today](https://twitter.com/karpathy/status/1891720635363254772)
+- [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
+- [Show HN: Live-updating version of the &#39;What a week, huh?&#39; meme](https://tintin.dlazaro.ca/)
 - [Go 1.24](https://tip.golang.org/doc/go1.24)
-- [Grok3 Launch](https://x.com/xai/status/1891699715298730482)
-- [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
-- [Sony FX-300 Jackal: A technological marvel of the late 70s &lpar;2021&rpar;](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/)
+- [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
+- [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
