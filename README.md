@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
-- [Tesla was hit by a wave of protests, sales are crashing, insiders are waking up](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/)
+- [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
+- [Show HN: Sober Ringtones – Cringe-free ringtones for people who hate ringtones](https://sober-ringtones.wize.io/)
 - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- [Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
+- [Show HN: Live-updating version of the &#39;What a week, huh?&#39; meme](https://tintin.dlazaro.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
