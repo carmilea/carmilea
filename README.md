@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Electric Cars That Much Cheaper to Operate Than ICE?](https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice)
+- [By the end of today, NASA&#39;s workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
+- [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
-- [Show HN: Sober Ringtones – Cringe-free ringtones for people who hate ringtones](https://sober-ringtones.wize.io/)
 - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- [Show HN: Live-updating version of the &#39;What a week, huh?&#39; meme](https://tintin.dlazaro.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
