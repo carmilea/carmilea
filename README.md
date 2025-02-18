@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Acquires Humane&#39;s AI Software](https://humane.com/media/humane-hp)
 - [Full-Text Search vs. Semantic Search](https://www.singlestore.com/blog/full-text-search-vs-semantic-search)
-- [Tech Continues to Be Political](https://www.miriamsuzanne.com/2025/02/12/tech-ai-wtf/)
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
+- [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
 - [Converge &lpar;YC S23&rpar; is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
-- [DeepSeek &#39;shared user data&#39; with TikTok owner ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
-- [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
 <!-- BLOG-POST-LIST:END -->
 
 ---
