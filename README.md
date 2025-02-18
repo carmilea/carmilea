@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Argentina president faces impeachment calls over crypto crash](https://www.bbc.com/news/articles/cp9x9j89evxo)
-- [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
+- [Why can&#39;t we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)
+- [Dedekind&#39;s Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
+- [On David Lynch&#39;s Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
+- [Police arrest apparent leader of cultlike &#39;Zizian&#39; group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
 - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
-- [Mt32-pi developer quits due to community harassment](https://github.com/dwhinham/mt32-pi)
-- [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
