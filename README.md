@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
+- [USDA fired officials working on bird flu, now trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716)
 - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
-- [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
-- [HP Acquires Humane&#39;s AI Software](https://humane.com/media/humane-hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
