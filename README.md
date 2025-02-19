@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
+- [Penguins Help to Map Antarctica&#39;s Growing Mercury Threat](https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/)
 - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
 - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
-- [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
-- [Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters](https://skillsets.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
