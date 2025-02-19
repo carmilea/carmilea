@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+- [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
 - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
-- [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
-- [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
