@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
-- [Penguins Help to Map Antarctica&#39;s Growing Mercury Threat](https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/)
-- [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
-- [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
-- [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+- [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
+- [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
+- [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
+- [Electric-truck maker Nikola files for Chapter 11 bankruptcy protection](https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html)
+- [Accelerating scientific breakthroughs with an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
