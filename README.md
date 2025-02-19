@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
-- [USDA fired officials working on bird flu, now trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716)
 - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
