@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A SpaceX team is being brought in to overhaul FAA&#39;s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
+- [The reality of long-term software maintenance from the maintainer&#39;s perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
 - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
-- [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
-- [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
-- [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
+- [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
