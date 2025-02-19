@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doge Claimed It Saved $8B in One Contract. It Was $8M](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html)
+- [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
+- [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
 - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
-- [NASA says &#39;City killer&#39; asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
-- [The reality of long-term software maintenance from the maintainer&#39;s perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
-- [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+- [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
+- [Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters](https://skillsets.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
