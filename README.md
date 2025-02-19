@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1972 Unix V2 &quot;Beta&quot; Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+- [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
+- [I built a large language model &quot;from scratch&quot;](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
 - [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
-- [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
-- [One Head, Two Brains &lpar;2015&rpar;](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
-- [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
-- [An inside look at NSA tactics, techniques and procedures from China&#39;s lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
+- [Apple’s closed-source approach is losing out to AI app builders](https://www.telkins.dev/blog/how-apples-closed-source-approach-is-losing-out-to-ai-app-builders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
