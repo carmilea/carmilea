@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A SpaceX team is being brought in to overhaul FAA&#39;s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
+- [Doge Claimed It Saved $8B in One Contract. It Was $8M](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html)
+- [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+- [NASA says &#39;City killer&#39; asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
 - [The reality of long-term software maintenance from the maintainer&#39;s perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
-- [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
-- [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
