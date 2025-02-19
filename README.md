@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Minuteman III test showcases readiness of U.S. nuclear force&#39;s deterrent](https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/)
+- [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
+- [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 - [One Head, Two Brains &lpar;2015&rpar;](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
-- [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
-- [Kids Love Landline Phones](https://www.rnz.co.nz/news/national/542294/who-still-has-a-landline-phone)
-- [Building a Bitcoin Exchange with FOSS BTC Pay Server](https://blog.btcpayserver.org/case-study-unbank/)
+- [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
+- [An inside look at NSA tactics, techniques and procedures from China&#39;s lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
