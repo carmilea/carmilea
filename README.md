@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What should I expect from moving tech jobs from USA to Europe?](https://news.ycombinator.com/item?id=43108657)
+- [Egg Prices Are Soaring. Are Backyard Chickens the Answer?](https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/)
 - [1972 Unix V2 &quot;Beta&quot; Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 - [I built a large language model &quot;from scratch&quot;](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
-- [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
-- [Apple’s closed-source approach is losing out to AI app builders](https://www.telkins.dev/blog/how-apples-closed-source-approach-is-losing-out-to-ai-app-builders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
