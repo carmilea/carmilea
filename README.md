@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In a last-minute decision, White House decides not to terminate NASA employees](https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/)
 - [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
-- [Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
+- [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
 - [HP Acquires Humane&#39;s AI Software](https://humane.com/media/humane-hp)
 - [Full-Text Search vs. Semantic Search](https://www.singlestore.com/blog/full-text-search-vs-semantic-search)
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 <!-- BLOG-POST-LIST:END -->
 
 ---
