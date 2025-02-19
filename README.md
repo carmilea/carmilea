@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unsloth AI &lpar;YC S24&rpar; is hiring ML engineers](https://x.com/danielhanchen/status/1891194528931209644)
-- [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
-- [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
-- [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
-- [The Database Cheatsheet: SingleStore-Specific Features](https://www.singlestore.com/blog/the-database-cheatsheet-singlestore-specific-features)
+- [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
+- [National Science Foundation fires roughly 10% of its workforce](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce)
+- [Bill prohibiting police from lying to children passes Virginia Senate](https://www.courthousenews.com/bill-prohibiting-police-from-lying-to-children-passes-virginia-senate/)
+- [When imperfect systems are good: Bluesky&#39;s lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
+- [The Future of Watmm](https://forum.watmm.com/announcement/67-the-future-of-watmm-please-read/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
