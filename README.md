@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A few hours ago, the US has turned into a de-facto dictatorship](https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the)
 - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
 - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
+- [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
