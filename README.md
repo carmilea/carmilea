@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids Love Landline Phones](https://www.rnz.co.nz/news/national/542294/who-still-has-a-landline-phone)
 - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
-- [National Science Foundation fires roughly 10% of its workforce](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce)
+- [An inside look at NSA tactics, techniques and procedures from China&#39;s lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
 - [Bill prohibiting police from lying to children passes Virginia Senate](https://www.courthousenews.com/bill-prohibiting-police-from-lying-to-children-passes-virginia-senate/)
 - [When imperfect systems are good: Bluesky&#39;s lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
-- [The Future of Watmm](https://forum.watmm.com/announcement/67-the-future-of-watmm-please-read/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
