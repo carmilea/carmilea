@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
-- [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
-- [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
-- [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
-- [DOGE has &#39;god mode&#39; access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
+- [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
+- [The Cryptocurrency Scam That Turned a Small Town Against Itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
+- [Nezha 2 becomes highest-grossing animated film globally](https://www.reuters.com/lifestyle/chinese-film-nezha-2-becomes-highest-grossing-animated-film-globally-2025-02-18/)
+- [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
+- [Amazon MGM Studios will gain creative control of the James Bond franchise](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
