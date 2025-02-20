@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
+- [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
+- [Treasury agrees to block DOGE&#39;s access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
+- [TinyCompiler: A compiler in a week-end](https://ssloy.github.io/tinycompiler/)
+- [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 - [DOGE puts $1 spending limit on government employee credit cards](https://www.wired.com/story/doge-government-credit-cards/)
-- [Helpcare AI &lpar;YC F24&rpar; Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
-- [Lynx Browser: The Land That Time Revived &lpar;2022&rpar;](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
-- [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
