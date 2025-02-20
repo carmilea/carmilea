@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mexico issues legal threat to Google](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html)
+- [Hacked on Stripe–$41K Gone, No Real Help from Support. What Now?](https://old.reddit.com/r/stripe/comments/1itn3i7/hacked_on_stripe41k_gone_no_real_help_from/)
 - [Corvus Robotics &lpar;YC S18&rpar; Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
 - [WonderHuman: 3D avatars from single-view video](https://arxiv.org/abs/2502.01045)
 - [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
-- [What Makes a Great Software Engineer &lpar;Dissertation&rpar; [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
-- [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
