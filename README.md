@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
+- [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
 - [DOGE has &#39;god mode&#39; access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 - [The Plan 9 Foundation](https://plan9foundation.org/)
 - [FAQ on Microsoft&#39;s topological qubit thing](https://scottaaronson.blog/?p=8669)
-- [Grok 3: Another win for the bitter lesson](https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter)
-- [The Forecasting Company &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
