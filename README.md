@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
+- [DOGE puts $1 spending limit on government employee credit cards](https://www.wired.com/story/doge-government-credit-cards/)
 - [Helpcare AI &lpar;YC F24&rpar; Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 - [Lynx Browser: The Land That Time Revived &lpar;2022&rpar;](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
-- [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
-- [New Horizons for Julia](https://lwn.net/Articles/1006117/)
-- [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
+- [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
