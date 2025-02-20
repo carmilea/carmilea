@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What should I expect from moving tech jobs from USA to Europe?](https://news.ycombinator.com/item?id=43108657)
-- [Egg Prices Are Soaring. Are Backyard Chickens the Answer?](https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/)
-- [1972 Unix V2 &quot;Beta&quot; Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
-- [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
-- [I built a large language model &quot;from scratch&quot;](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
+- [Corvus Robotics &lpar;YC S18&rpar; Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
+- [WonderHuman: 3D avatars from single-view video](https://arxiv.org/abs/2502.01045)
+- [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
+- [What Makes a Great Software Engineer &lpar;Dissertation&rpar; [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
+- [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
