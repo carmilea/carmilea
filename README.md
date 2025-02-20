@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A password generator inspired by the Xkcd password spec](https://github.com/beala/xkcd-password)
+- [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
+- [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
 - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
 - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
-- [The Plan 9 Foundation](https://plan9foundation.org/)
-- [FAQ on Microsoft&#39;s topological qubit thing](https://scottaaronson.blog/?p=8669)
+- [DOGE has &#39;god mode&#39; access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
