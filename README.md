@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian is now free for work](https://obsidian.md/blog/free-for-work/)
 - [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
+- [Launch HN: Confident AI &lpar;YC W25&rpar; – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 - [The Cryptocurrency Scam That Turned a Small Town Against Itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
-- [Nezha 2 becomes highest-grossing animated film globally](https://www.reuters.com/lifestyle/chinese-film-nezha-2-becomes-highest-grossing-animated-film-globally-2025-02-18/)
 - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
-- [Amazon MGM Studios will gain creative control of the James Bond franchise](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
