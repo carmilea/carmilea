@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE has &#39;god mode&#39; access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
+- [The Plan 9 Foundation](https://plan9foundation.org/)
+- [FAQ on Microsoft&#39;s topological qubit thing](https://scottaaronson.blog/?p=8669)
+- [Grok 3: Another win for the bitter lesson](https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter)
 - [The Forecasting Company &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
-- [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
-- [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
-- [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
-- [Obscura VPN – Privacy that&#39;s more than a promise](https://obscura.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
