@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
-- [Obsidian is now free for work](https://obsidian.md/blog/free-for-work/)
-- [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
-- [Launch HN: Confident AI &lpar;YC W25&rpar; – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
-- [A cryptocurrency scam that turned a small town against itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
+- [Lynx Browser: The Land That Time Revived &lpar;2022&rpar;](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
+- [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
+- [New Horizons for Julia](https://lwn.net/Articles/1006117/)
+- [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
+- [OpenEuroLLM](https://openeurollm.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
