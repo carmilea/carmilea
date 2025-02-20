@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
-- [Palantir Drops 10% on Report of Pentagon Slashing Budget](https://www.msn.com/en-ae/money/companies/palantir-drops-over-10-after-report-of-pentagon-slashing-budget/ar-AA1zomcb)
 - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
 - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
+- [Obscura VPN – Privacy that&#39;s more than a promise](https://obscura.net/)
 - [Corvus Robotics &lpar;YC S18&rpar; Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
 <!-- BLOG-POST-LIST:END -->
 
