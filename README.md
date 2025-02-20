@@ -62,7 +62,7 @@
 - [Obsidian is now free for work](https://obsidian.md/blog/free-for-work/)
 - [SingleStore Database Branching: How to Boost Developer Productivity](https://www.singlestore.com/blog/singlestore-database-branching)
 - [Launch HN: Confident AI &lpar;YC W25&rpar; – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
-- [The Cryptocurrency Scam That Turned a Small Town Against Itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
+- [A cryptocurrency scam that turned a small town against itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
