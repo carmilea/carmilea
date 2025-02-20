@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xbox Pushes Ahead with New Generative AI. Developers Say &#39;Nobody Will Want This&#39;](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
+- [The Forecasting Company &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
-- [Large Language Diffusion Models](https://ml-gsai.github.io/LLaDA-demo/)
-- [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
+- [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
+- [Obscura VPN – Privacy that&#39;s more than a promise](https://obscura.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
