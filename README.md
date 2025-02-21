@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
+- [Suckless.org: software that sucks less](https://suckless.org/)
 - [NASA&#39;s James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
 - [I think Yann Lecun was right about LLMs &lpar;but perhaps only by accident&rpar;](https://substack.com/home/post/p-157633768)
-- [Richard Feynman&#39;s Blackboard at the Time of His Death &lpar;1988&rpar;](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
-- [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
