@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE&#39;s Cuts at the National Nuclear Security Administration](https://www.thebulwark.com/p/inside-doges-dumbest-cut-yet)
-- [The Profitable Startup](https://linear.app/blog/the-profitable-startup)
-- [The CRPG Renaissance, Part 3: TSR Is Dead](https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/)
-- [Posh &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
-- [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
+- [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
+- [NASA&#39;s James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
+- [I think Yann Lecun was right about LLMs &lpar;but perhaps only by accident&rpar;](https://substack.com/home/post/p-157633768)
+- [Richard Feynman&#39;s Blackboard at the Time of His Death &lpar;1988&rpar;](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
+- [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
