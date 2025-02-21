@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [2. What is H2O Label Genie](https://www.youtube.com/watch?v=XPUs0ltN_wU)
+- [1. Revolutionizing Data Annotation with H2O Label Genie Teaser](https://www.youtube.com/watch?v=fuUXV6-aqzs)
 - [[Webinar] Agentes de IA além do hype: para que servem na prática](https://www.youtube.com/watch?v=XQSsXwkz5PI)
 - [Building a Full Stack App with Drizzle ORM and React](https://www.youtube.com/watch?v=g2BefSGYG1o)
 - [Texto-to-SQL: Fine-tuning for Enhaced Query Generation at AT&amp;T](https://www.youtube.com/watch?v=dlvKLVgLyIg)
-- [AT&amp;T Call Center Classification](https://www.youtube.com/watch?v=w5DItrdSECY)
-- [Start Using SingleStore in under 3 Minutes: Easy Sign-Up Tutorial](https://www.youtube.com/watch?v=-_3BEuuUcZM)
 <!-- YOUTUBE:END -->
 
 
