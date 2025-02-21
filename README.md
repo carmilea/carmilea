@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple pulls encryption feature from UK](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
+- [Posh &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
+- [CSS-zero: opinionated CSS starter kit for your &quot;nobuild&quot; application](https://github.com/lazaronixon/css-zero)
+- [Show HN: Txeo – A Modern C++ Wrapper for TensorFlow](https://github.com/rdabra/txeo)
+- [Launch HN: Massdriver &lpar;YC W22&rpar; – Self-serve cloud infra without the red tape](https://news.ycombinator.com/item?id=43129301)
 - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
-- [Apple Pulls Encrypted iCloud Security Feature in UK](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)
-- [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
-- [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
