@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [[Webinar] Agentes de IA além do hype: para que servem na prática](https://www.youtube.com/watch?v=XQSsXwkz5PI)
 - [Building a Full Stack App with Drizzle ORM and React](https://www.youtube.com/watch?v=g2BefSGYG1o)
 - [Texto-to-SQL: Fine-tuning for Enhaced Query Generation at AT&amp;T](https://www.youtube.com/watch?v=dlvKLVgLyIg)
 - [AT&amp;T Call Center Classification](https://www.youtube.com/watch?v=w5DItrdSECY)
 - [Start Using SingleStore in under 3 Minutes: Easy Sign-Up Tutorial](https://www.youtube.com/watch?v=-_3BEuuUcZM)
-- [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window](https://www.youtube.com/watch?v=OygO14pXK84)
 <!-- YOUTUBE:END -->
 
 
