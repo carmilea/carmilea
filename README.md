@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
-- [Treasury agrees to block DOGE&#39;s access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
-- [TinyCompiler: A compiler in a week-end](https://ssloy.github.io/tinycompiler/)
-- [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
-- [DOGE puts $1 spending limit on government employee credit cards](https://www.wired.com/story/doge-government-credit-cards/)
+- [Exa Laboratories &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
+- [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
+- [Ask HN: Tired of startups – want a normal job. Help](https://news.ycombinator.com/item?id=43122800)
+- [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
+- [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
