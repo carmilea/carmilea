@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Users don&#39;t care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
 - [Meta claims torrenting pirated books isn&#39;t illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
+- [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
+- [Show HN: One year of bewCloud &lpar;a simpler Nextcloud alternative&rpar;](https://bewcloud.com#one-year-later)
 - [Train Your Own O1 Preview Model Within $450](https://sky.cs.berkeley.edu/project/sky-t1/)
-- [Running Systemd-Nspawn Containers](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/)
-- [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
-- [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
