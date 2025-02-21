@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
+- [The Ren&#39;Py Visual Novel Engine](https://www.renpy.org/)
+- [Neo Gamma &lpar;Home Humanoid&rpar;](https://www.1x.tech/neo)
 - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
-- [Suckless.org: software that sucks less](https://suckless.org/)
-- [NASA&#39;s James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
-- [I think Yann Lecun was right about LLMs &lpar;but perhaps only by accident&rpar;](https://substack.com/home/post/p-157633768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
