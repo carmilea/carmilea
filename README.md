@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
+- [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
+- [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 - [Exa Laboratories &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
 - [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
-- [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
-- [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
-- [Introduction to CUDA programming for Python developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
