@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
+- [We the Builders](https://www.wethebuilders.org/)
+- [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
+- [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
+- [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
 - [The Ren&#39;Py Visual Novel Engine](https://www.renpy.org/)
-- [Neo Gamma &lpar;Home Humanoid&rpar;](https://www.1x.tech/neo)
-- [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
-- [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
