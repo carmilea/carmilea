@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EFF: Social media platforms are removing vital info on reproductive health](https://bsky.app/profile/eff.org/post/3likxtlnruk23)
-- [CDC terminates flu vaccine promotion campaign](https://www.npr.org/sections/shots-health-news/2025/02/19/nx-s1-5302906/cdc-flu-vaccine-campaign-terminated)
 - [HP ditches 15-minute wait time policy due to &#39;feedback&#39;](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/)
 - [Users don&#39;t care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
 - [Meta claims torrenting pirated books isn&#39;t illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
+- [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
+- [Show HN: One year of bewCloud &lpar;a simpler Nextcloud alternative&rpar;](https://bewcloud.com#one-year-later)
 <!-- BLOG-POST-LIST:END -->
 
 ---
