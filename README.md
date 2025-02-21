@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Exa Laboratories &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
+- [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
 - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
-- [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
 - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
-- [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
+- [Introduction to CUDA programming for Python developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
