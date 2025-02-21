@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HP ditches 15-minute wait time policy due to &#39;feedback&#39;](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/)
+- [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+- [Linus on Rust and the Kernel DMA Layer](https://lwn.net/ml/all/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/)
+- [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
+- [Microsoft had videos of this startup founder for years. She got them taken down](https://www.wired.com/story/deepfake-survivor-breeze-liu-microsoft/)
 - [Users don&#39;t care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
-- [Meta claims torrenting pirated books isn&#39;t illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
-- [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
-- [Show HN: One year of bewCloud &lpar;a simpler Nextcloud alternative&rpar;](https://bewcloud.com#one-year-later)
 <!-- BLOG-POST-LIST:END -->
 
 ---
