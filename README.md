@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
+- [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
 - [Paxlovid: You&#39;d have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
-- [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
-- [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
