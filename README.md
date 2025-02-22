@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
+- [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
 - [Binned staff, slashed stock options. What&#39;s next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
-- [Do you want to be doing this when you&#39;re 50?](https://prog21.dadgum.com/154.html)
 - [DigiKey&#39;s Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
-- [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
