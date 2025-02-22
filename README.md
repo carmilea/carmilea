@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Binned staff, slashed stock options. What&#39;s next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
+- [Do you want to be doing this when you&#39;re 50?](https://prog21.dadgum.com/154.html)
 - [DigiKey&#39;s Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
-- [Start a computer club in the place that you live &lpar;2023&rpar;](https://startacomputer.club/)
 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 <!-- BLOG-POST-LIST:END -->
