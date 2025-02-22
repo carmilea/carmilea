@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
+- [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
 - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
-- [Binned staff, slashed stock options. What&#39;s next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
-- [DigiKey&#39;s Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
-- [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
+- [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
