@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Are Heading for the Exits](https://newrepublic.com/article/191421/trump-emigration-wave-brain-drain)
+- [Ask HN: Is Anyone Still Using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
+- [The People Take Antitrust into Their Own Hands](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
+- [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
 - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
-- [French nuclear plant consumes more power than it generates in first two months](https://www.energy-charts.info/charts/power/chart.htm?l=en&c=FR&source=nuclear_unit&per_unit_consumption=production_and_consumption&legendItems=1sy10&interval=year&year=2025)
-- [How people get rich now &lpar;2021&rpar;](https://paulgraham.com/richnow.html)
 - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
 <!-- BLOG-POST-LIST:END -->
 
