@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
+- [Who Wants to Work in a Factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)
 - [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
-- [Paxlovid: You&#39;d have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
 <!-- BLOG-POST-LIST:END -->
