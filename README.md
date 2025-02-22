@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaneo – An open source project management platform](https://kaneo.app/)
+- [September 17, 1787: &quot;A Republic, If You Can Keep It&quot;](https://www.nps.gov/articles/000/constitutionalconvention-september17.htm)
+- [Utah Bill Aims to Make Officers Disclose AI-Written Police Reports](https://www.eff.org/deeplinks/2025/02/utah-bill-aims-make-officers-disclose-ai-written-police-reports)
 - [Simplewall Has Been Discontinued](https://github.com/henrypp/simplewall)
 - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
-- [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
-- [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)
-- [Amazon now discloses you&#39;re buying a license to view Kindle eBooks](https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
