@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We are the builders](https://www.wethebuilders.org/)
+- [Paxlovid: You&#39;d Have Expected More](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
+- [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
+- [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
 - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
-- [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
-- [The Ren&#39;Py Visual Novel Engine](https://www.renpy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
