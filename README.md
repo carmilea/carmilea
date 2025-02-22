@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
-- [California Nominates Steve Jobs for Its American Innovation $1 Coin](https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/)
+- [DigiKey&#39;s Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
 - [Start a computer club in the place that you live &lpar;2023&rpar;](https://startacomputer.club/)
 - [Paxlovid: You&#39;d have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
