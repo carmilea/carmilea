@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Are Heading for the Exits](https://newrepublic.com/article/191421/trump-emigration-wave-brain-drain)
+- [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
+- [French nuclear plant consumes more power than it generates in first two months](https://www.energy-charts.info/charts/power/chart.htm?l=en&c=FR&source=nuclear_unit&per_unit_consumption=production_and_consumption&legendItems=1sy10&interval=year&year=2025)
+- [How people get rich now &lpar;2021&rpar;](https://paulgraham.com/richnow.html)
 - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
-- [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
-- [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
-- [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
-- [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
