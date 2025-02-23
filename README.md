@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret That Colleges Should Stop Keeping](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/)
-- [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
-- [See the submissions you have flagged &lpar;maybe accidentally&rpar;](https://news.ycombinator.com/flagged)
-- [Countries spend huge sums on fossil fuel subsidies – why they&#39;re so hard to end](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346)
-- [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
+- [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
+- [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
+- [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Chipzilla Devours the Desktop](https://www.abortretry.fail/p/chipzilla-devours-the-desktop)
+- [&#39;Everybody is looking at their phones,&#39; says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
