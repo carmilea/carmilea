@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
 - [Fish-delousing underwater laser &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
 - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
 - [Electronics Teardown: Stelo Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- [Digital Services Playbook](https://playbook.usds.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
