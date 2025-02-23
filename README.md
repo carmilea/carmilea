@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vine: A programming language based on Interaction Nets](https://vine.dev/)
-- [Gig workers worked more but earned less in 2024, a new study shows](https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2)
-- [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
-- [Kaneo – An open source project management platform](https://kaneo.app/)
-- [September 17, 1787: &quot;A Republic, If You Can Keep It&quot;](https://www.nps.gov/articles/000/constitutionalconvention-september17.htm)
+- [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- [Digital Services Playbook](https://playbook.usds.gov/)
+- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
+- [Python&#39;s official documentation contains textbook example of insecure code &lpar;XSS&rpar;](https://seclists.org/fulldisclosure/2025/Feb/15)
+- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
