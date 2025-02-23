@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
+- [U Pittsburgh pauses all PhD admissions amid DOGE funding cuts](https://www.wesa.fm/health-science-tech/2025-02-21/university-pittsburgh-phd-pause-research-funding-uncertainty)
+- [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 - [Digital Services Playbook](https://playbook.usds.gov/)
-- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
-- [Python&#39;s official documentation contains textbook example of insecure code &lpar;XSS&rpar;](https://seclists.org/fulldisclosure/2025/Feb/15)
-- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
