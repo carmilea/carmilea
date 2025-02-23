@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)
-- [Turning Off All 8k EV Chargers at All Federal Government Buildings](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings)
+- [Technofossils: Humanity&#39;s eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
+- [Decades of Research Misconduct Stalled an Alzheimer&#39;s Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - [PropRise &lpar;YC S23&rpar; Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
 - [Ultima VII: Revisited](https://www.u7revisited.com/)
