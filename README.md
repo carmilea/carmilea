@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
 - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
+- [NASA Downgrades the Risk of 2024 YR4 to Below 1%](https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/)
 - [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
-- [No One Lives Forever &lpar;NOLF&rpar; Revival Edition](http://nolfrevival.tk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
