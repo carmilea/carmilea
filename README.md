@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret That Colleges Should Stop Keeping](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/)
+- [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
+- [See the submissions you have flagged &lpar;maybe accidentally&rpar;](https://news.ycombinator.com/flagged)
+- [Countries spend huge sums on fossil fuel subsidies – why they&#39;re so hard to end](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346)
 - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
-- [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
-- [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
-- [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
-- [Tell HN: Five random IndieWeb blog links on your terminal](https://news.ycombinator.com/item?id=43148408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
