@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
-- [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
+- [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
+- [IQ numbers for historical figures are made up](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
+- [Electronics Teardown: Stelo Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 - [Digital Services Playbook](https://playbook.usds.gov/)
-- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
