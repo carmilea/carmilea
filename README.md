@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many School Shootings? All Incidents from 1966-Present](https://k12ssdb.org/all-shootings)
-- [IQ isn&#39;t 160. No one&#39;s is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
 - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
 - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- [Digital Services Playbook](https://playbook.usds.gov/)
+- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
