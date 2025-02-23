@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
+- [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
+- [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
 - [AI-designed chips are so weird that &#39;humans cannot understand them&#39;](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
-- [Technofossils: Humanity&#39;s eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
-- [Decades of Research Misconduct Stalled an Alzheimer&#39;s Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
-- [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
