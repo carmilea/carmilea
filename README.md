@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)
+- [Turning Off All 8k EV Chargers at All Federal Government Buildings](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings)
+- [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - [PropRise &lpar;YC S23&rpar; Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
-- [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
-- [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
-- [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Chipzilla Devours the Desktop](https://www.abortretry.fail/p/chipzilla-devours-the-desktop)
+- [Ultima VII: Revisited](https://www.u7revisited.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
