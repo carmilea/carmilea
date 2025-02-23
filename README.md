@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Downgrades the Risk of 2024 YR4 to Below 1%](https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/)
+- [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
+- [Half-Life](https://www.filfre.net/2024/12/half-life/)
 - [Fish-delousing underwater laser &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
 - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
-- [Electronics Teardown: Stelo Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
-- [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
-- [Digital Services Playbook](https://playbook.usds.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
