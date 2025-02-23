@@ -62,7 +62,7 @@
 - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 - [Digital Services Playbook](https://playbook.usds.gov/)
-- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
+- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
