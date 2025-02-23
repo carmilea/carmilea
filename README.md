@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
 - [AI-designed chips are so weird that &#39;humans cannot understand them&#39;](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
-- [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
