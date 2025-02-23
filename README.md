@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
+- [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
+- [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
 - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
-- [NASA Downgrades the Risk of 2024 YR4 to Below 1%](https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/)
-- [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
-- [Half-Life](https://www.filfre.net/2024/12/half-life/)
+- [Tell HN: Five random IndieWeb blog links on your terminal](https://news.ycombinator.com/item?id=43148408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
