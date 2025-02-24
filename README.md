@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pollution from Big Tech&#39;s data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
-- [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
+- [Computer Simulation of Neural Networks Using Spreadsheets &lpar;2018&rpar;](https://arxiv.org/abs/1807.00018)
 - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
-- [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
+- [The benefits of learning in public](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 <!-- BLOG-POST-LIST:END -->
 
