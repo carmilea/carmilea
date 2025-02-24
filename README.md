@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+- [Behold Modular Forms, the &#39;Fifth Fundamental Operation&#39; of Math[2023]](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+- [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
 - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
-- [Micro Journal: Distraction-Free Writing Device](https://github.com/unkyulee/micro-journal)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
-- [Right to Repair laws have now been introduced in all 50 us states](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
-- [Launch HN: SubImage &lpar;YC W25&rpar; – See your infra from an attacker&#39;s perspective](https://news.ycombinator.com/item?id=43161332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
