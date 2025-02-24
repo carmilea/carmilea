@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
+- [Micro Journal: Distraction-Free Writing Device](https://github.com/unkyulee/micro-journal)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
-- [Right to Repair Laws Have Now Been Introduced in All 50 US States](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
+- [Right to Repair laws have now been introduced in all 50 us states](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
 - [Launch HN: SubImage &lpar;YC W25&rpar; – See your infra from an attacker&#39;s perspective](https://news.ycombinator.com/item?id=43161332)
-- [Building Real-Time Autocomplete With Typo Tolerance](https://www.singlestore.com/blog/building-real-time-autocomplete-with-typo-tolerance)
-- [Larry Ellison&#39;s Half-Billion-Dollar Quest to Change Farming Has Been a Bust](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
