@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The closer to the train station, the worse the kebab&quot; – A &quot;Study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
+- [&quot;The closer to the train station, the worse the kebab&quot; – a &quot;study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
-- [$1.5B Bybit Hack – How the biggest hack in history happened?](https://harrydonnelly.substack.com/p/how-the-biggest-crypto-hack-in-history)
 - [Closing the &quot;green gap&quot;: energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
-- [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
