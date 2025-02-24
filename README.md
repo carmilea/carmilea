@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
+- [Show HN: I scrape Steam data every month and it&#39;s yours to download for free](https://www.gginsights.io)
 - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
 - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
 - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
-- [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
-- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
