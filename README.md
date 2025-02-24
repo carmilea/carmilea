@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
+- [Right to Repair Laws Have Now Been Introduced in All 50 US States](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
+- [Launch HN: SubImage &lpar;YC W25&rpar; – See your infra from an attacker&#39;s perspective](https://news.ycombinator.com/item?id=43161332)
+- [Building Real-Time Autocomplete With Typo Tolerance](https://www.singlestore.com/blog/building-real-time-autocomplete-with-typo-tolerance)
 - [Larry Ellison&#39;s Half-Billion-Dollar Quest to Change Farming Has Been a Bust](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
-- [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
-- [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
-- [MongoDB Announces Acquisition of Voyage AI for $220M](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
-- [Laravel Cloud](https://app.laravel.cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
