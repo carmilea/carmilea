@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Impossible-to-Hack&#39; Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
-- [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
-- [Our Epidemic of Loneliness and Isolation [pdf]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
-- [The Wrongs of Thomas More &lpar;Wrong 5&rpar;](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
-- [Show HN: I scrape Steam data every month and it&#39;s yours to download for free](https://www.gginsights.io)
+- [Larry Ellison&#39;s Half-Billion-Dollar Quest to Change Farming Has Been a Bust](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
+- [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
+- [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
+- [MongoDB Announces Acquisition of Voyage AI for $220M](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
+- [Laravel Cloud](https://app.laravel.cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
