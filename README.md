@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pollution from Big Tech&#39;s data centre boom costs US public health $5.4B](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
+- [Pollution from Big Tech&#39;s data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
 - [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
 - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 - [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
