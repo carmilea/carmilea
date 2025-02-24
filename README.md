@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 - [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
 - [Defragging my old Dell&#39;s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-- [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
