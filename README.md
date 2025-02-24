@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
-- [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
-- [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
-- [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
-- [AI-designed chips are so weird that &#39;humans cannot understand them&#39;](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
+- [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
+- [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
+- [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
+- [Defragging my old Dell&#39;s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
+- [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
