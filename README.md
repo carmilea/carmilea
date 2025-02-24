@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
-- [Cloudflare takes legal action over LaLiga&#39;s &quot;disproportionate blocking efforts&quot;](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
-- [JSON has become today&#39;s machine-readable output format &lpar;on Unix&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat)
-- [Pollution from Big Tech&#39;s data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
-- [Computer Simulation of Neural Networks Using Spreadsheets &lpar;2018&rpar;](https://arxiv.org/abs/1807.00018)
+- [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
+- [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
+- [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
+- [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
