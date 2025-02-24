@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
-- [Show HN: I scrape Steam data every month and it&#39;s yours to download for free](https://www.gginsights.io)
-- [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
-- [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
-- [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
+- [Ente: Self Host the Google Photos Alternative and Own Your Privacy](https://developer-friendly.blog/blog/2025/02/24/ente-self-host-the-google-photos-alternative-and-own-your-privacy/)
+- [Wiley journal retracts 26 papers for &#39;compromised peer review&#39;](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
+- [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
+- [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/)
+- [The Wrongs of Thomas More &lpar;Wrong 5&rpar;](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
