@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare takes legal action over LaLiga&#39;s &quot;disproportionate blocking efforts&quot;](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 - [We don&#39;t need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
 - [JSON has become today&#39;s machine-readable output format &lpar;on Unix&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat)
 - [Pollution from Big Tech&#39;s data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
 - [Computer Simulation of Neural Networks Using Spreadsheets &lpar;2018&rpar;](https://arxiv.org/abs/1807.00018)
-- [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
