@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
+- [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
+- [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
 - [Disclosure of personal information to DOGE “is irreparable harm,” judge rules](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
 - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
-- [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
-- [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
-- [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 <!-- BLOG-POST-LIST:END -->
 
 ---
