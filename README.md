@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
+- [There Isn&#39;t Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
 - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
 - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
-- [Disclosure of personal information to DOGE “is irreparable harm,” judge rules](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
-- [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
