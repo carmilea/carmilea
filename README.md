@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations](https://www.phoronix.com/news/Zlib-rs-0.4.2)
-- [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
-- [Embedding Python in Elixir, It&#39;s Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
-- [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
-- [What do people see when they&#39;re tripping? Analyzing Erowid&#39;s trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
+- [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
+- [Launch HN: Browser Use &lpar;YC W25&rpar; – open-source web agents](https://github.com/browser-use/browser-use)
+- [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)
+- [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
+- [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
