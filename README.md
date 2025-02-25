@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
+- [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
+- [Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations](https://www.phoronix.com/news/Zlib-rs-0.4.2)
+- [Unknown illness kills over 50 in Congo with hours between symptoms and death](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db)
+- [Embedding Python in Elixir, It&#39;s Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
-- [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
-- [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
-- [US court upholds Theranos founder Elizabeth Holmes&#39;s conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
