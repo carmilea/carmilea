@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: GoatDB – A Lightweight, Offline-First, Realtime NoDB for Deno and React](https://github.com/goatplatform/goatdb)
-- [Jane Street Open Source](https://opensource.janestreet.com/)
-- [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
-- [ChatGPT Can Be Used as Default Safari Search Engine with New Extension](https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/)
-- [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
+- [Low Overhead Allocation Sampling with VMProf in PyPy&#39;s GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
+- [The XB-70 &lpar;2019&rpar;](http://codex99.com/photography/the-xb70.html)
+- [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
+- [&#39;Hey Number 17 &#39;](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/)
+- [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
