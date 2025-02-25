@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
+- [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
+- [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
+- [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
 - [US court upholds Theranos founder Elizabeth Holmes&#39;s conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
-- [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
-- [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
-- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
-- [What would happen if we didn&#39;t use TCP or UDP?](https://github.com/Hawzen/hdp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
