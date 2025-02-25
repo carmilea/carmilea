@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 - [What would happen if we didn&#39;t use TCP or UDP?](https://github.com/Hawzen/hdp)
 - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
 - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
-- [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
