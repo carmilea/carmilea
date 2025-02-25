@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
+- [It&#39;s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
+- [US friendship is in freefall – shredding bonds and cutting lives short](https://nypost.com/2025/02/24/opinion/friendship-in-america-is-in-freefall-and-its-killing-us/)
+- [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 - [&quot;The closer to the train station, the worse the kebab&quot; – a &quot;study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
-- [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
-- [Closing the &quot;green gap&quot;: energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
-- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
-- [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
