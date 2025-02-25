@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge: US gov&#39;t violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
+- [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
+- [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
 - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 - [It&#39;s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
-- [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
-- [&quot;The closer to the train station, the worse the kebab&quot; – a &quot;study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
-- [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
