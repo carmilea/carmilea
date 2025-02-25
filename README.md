@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
+- [US court upholds Theranos founder Elizabeth Holmes&#39;s conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
 - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
 - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
