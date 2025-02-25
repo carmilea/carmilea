@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
 - [Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations](https://www.phoronix.com/news/Zlib-rs-0.4.2)
-- [Unknown illness kills over 50 in Congo with hours between symptoms and death](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db)
+- [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
 - [Embedding Python in Elixir, It&#39;s Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
+- [What do people see when they&#39;re tripping? Analyzing Erowid&#39;s trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 <!-- BLOG-POST-LIST:END -->
 
 ---
