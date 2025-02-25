@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
+- [Framework&#39;s first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 - [Low Overhead Allocation Sampling with VMProf in PyPy&#39;s GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 - [The XB-70 &lpar;2019&rpar;](http://codex99.com/photography/the-xb70.html)
-- [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
-- [&#39;Hey Number 17 &#39;](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
