@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Voker &lpar;YC S24&rpar; Is Hiring an LA-Based Founding Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165715593)
+- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
 - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
