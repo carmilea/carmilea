@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GoatDB – A Lightweight, Offline-First, Realtime NoDB for Deno and React](https://github.com/goatplatform/goatdb)
+- [Jane Street Open Source](https://opensource.janestreet.com/)
+- [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
+- [ChatGPT Can Be Used as Default Safari Search Engine with New Extension](https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/)
 - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
-- [Launch HN: Browser Use &lpar;YC W25&rpar; – open-source web agents](https://github.com/browser-use/browser-use)
-- [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)
-- [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
-- [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
