@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voker &lpar;YC S24&rpar; Is Hiring an LA-Based Founding Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165715593)
+- [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
+- [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
 - [Framework&#39;s first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
-- [AI is blurring the line between PMs and engineers?](https://humanloop.com/blog/ai-is-blurring-the-lines-between-pms-and-engineers)
-- [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
-- [Low Overhead Allocation Sampling with VMProf in PyPy&#39;s GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
