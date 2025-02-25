@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Linus think Rust causes Linux breakage?](https://lwn.net/ml/all/CAHk-=wie_Winz7CtRCM62S2b1pWKN2Jt2wdGHgFBv=aBU8qwqg@mail.gmail.com/)
 - [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
+- [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
+- [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 - [What would happen if we didn&#39;t use TCP or UDP?](https://github.com/Hawzen/hdp)
-- [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
