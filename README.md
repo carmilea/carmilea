@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
+- [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
+- [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
+- [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
+- [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
 - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
-- [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
-- [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
-- [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
