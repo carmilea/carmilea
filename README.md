@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 - [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
 - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
-- [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
-- [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
 - [Securing tomorrow&#39;s software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
+- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
