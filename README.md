@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
+- [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
 - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
-- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
-- [Your camera can take 3D photos. Your screen can display 3D photos.](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
-- [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool &lpar;1993&rpar;](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
-- [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
+- [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
+- [Securing tomorrow&#39;s software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
