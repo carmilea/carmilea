@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PanGui – A cross-platform UI library with a razor sharp focus on performance](https://pangui.io/)
+- [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
+- [Exposed GitHub repos, now private, can be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
 - [Marek has graciously offered to maintain the dma-mapping tree](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/)
 - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
-- [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
-- [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
-- [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
