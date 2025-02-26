@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
 - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 - [Gustatory Wisdom: Bruegel the Elder&#39;s Twelve Proverbs &lpar;1558&rpar;](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
 - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 - [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
-- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
 <!-- BLOG-POST-LIST:END -->
 
 ---
