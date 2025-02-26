@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
+- [Jeff Bezos&#39; revamp of &#39;Washington Post&#39; opinions leads editor to quit](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section)
 - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
+- [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 - [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
-- [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
-- [Securing tomorrow&#39;s software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
-- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
