@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)
+- [Launch HN: Maritime Fusion &lpar;YC W25&rpar; – Fusion Reactors for Ships](https://maritimefusion.com/)
+- [MichiganTypeScript: A WebAssembly runtime implemented in TypeScript types](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)
 - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
 - [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
-- [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
-- [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
-- [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
