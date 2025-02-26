@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)
-- [Launch HN: Maritime Fusion &lpar;YC W25&rpar; – Fusion Reactors for Ships](https://maritimefusion.com/)
-- [MichiganTypeScript: A WebAssembly runtime implemented in TypeScript types](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)
-- [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
-- [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
+- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
+- [Your camera can take 3D photos. Your screen can display 3D photos.](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
+- [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool &lpar;1993&rpar;](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
+- [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
+- [Migrating a Legacy Data Warehouse to SingleStore Helios®: A Six Thinking Hats Approach with Modern AI Tools](https://www.singlestore.com/blog/migrating-a-legacy-data-warehouse-to-singlestore-helios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
