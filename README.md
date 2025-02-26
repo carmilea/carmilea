@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BP to slash green investment and ramp up gas and oil](https://www.bbc.com/news/articles/c3374ekd11po)
-- [Toyota completes phase 1 construction of futuristic city](https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/)
+- [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
+- [Gustatory Wisdom: Bruegel the Elder&#39;s Twelve Proverbs &lpar;1558&rpar;](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
 - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 - [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 - [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
