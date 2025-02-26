@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+- [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 - [Gustatory Wisdom: Bruegel the Elder&#39;s Twelve Proverbs &lpar;1558&rpar;](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
 - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
-- [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
