@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator deletes posts after a startup&#39;s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
-- [Show HN: Paste a Zillow URL and get a property analysis](https://www.trymasterkey.com/properties/1100-leavenworth-st-a-p-t-4-san-francisco-nob-hill-ca-94109)
-- [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
+- [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 - [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
+- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
+- [EdgeDB is now Gel and Postgres is the future](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
