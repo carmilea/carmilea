@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
-- [Kastle &lpar;YC S24&rpar; Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
-- [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
-- [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
-- [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
+- [Some Command &amp; Conquer games are now open source](https://github.com/electronicarts)
+- [Carlos Slim cancels his collaboration with Elon Musk&#39;s Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
+- [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
+- [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
+- [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
