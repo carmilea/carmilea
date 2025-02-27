@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning &lpar;2023&rpar;](https://kzakka.com/robopianist/#demo)
 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 - [Geometric Algebra](https://bivector.net/)
 - [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
-- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
