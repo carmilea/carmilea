@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a Bluetooth Device into an Apple AirTag Without Root Privileges](https://nroottag.github.io/)
-- [The muon&#39;s magnetic moment exposes a hole in the SM – unless it doesn&#39;t](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
-- [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
-- [At 3 A.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)
-- [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
+- [Show HN: LoomLetter – an app to organize newsletters and listen on the go](https://www.loomletter.app/)
+- [ADHD Guide to Spaced Repetition](https://page.brick.do/adhd-guide-to-spaced-repetition-4ja9ZO4DXLM2)
+- [Launch HN: Bild AI &lpar;YC W25&rpar; – Understands Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
+- [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
+- [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
