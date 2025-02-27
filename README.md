@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
 - [Kastle &lpar;YC S24&rpar; Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
+- [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 - [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
-- [What can be computed? A practical guide to the theory of computation &lpar;2018&rpar; [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
-- [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
