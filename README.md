@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning &lpar;2023&rpar;](https://kzakka.com/robopianist/#demo)
-- [Japan births fall to lowest in 125 years](https://www.ft.com/content/95d3282e-daef-4670-b704-c1215393e7f8)
-- [US examining whether UK&#39;s encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
-- [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
+- [Geometric Algebra](https://bivector.net/)
+- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
+- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
