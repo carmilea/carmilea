@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US examining whether UK&#39;s encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
 - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 - [Geometric Algebra](https://bivector.net/)
-- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
