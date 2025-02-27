@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
-- [Mozilla&#39;s New Terms of Use Are Out of Step with Firefox&#39;s Direct Competition](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html)
-- [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
-- [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning &lpar;2023&rpar;](https://kzakka.com/robopianist/#demo)
+- [The muon&#39;s magnetic moment exposes a hole in the SM – unless it doesn&#39;t](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
+- [$100 Muon Detector Lets You Harness the Cosmos](https://spectrum.ieee.org/diy-muon-tomography)
+- [Solitaire](https://localthunk.com/blog/solitaire)
+- [Who was Aleph Null? &lpar;2013&rpar;](http://bit-player.org/2013/who-was-aleph-null)
+- [Seizing the Moment: Real-Time Insights and AI for Next-Gen Martech, Adtech + Salestech](https://www.singlestore.com/blog/seizing-the-moment-real-time-insights-and-ai-martech-adtech-salestech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
