@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
+- [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning &lpar;2023&rpar;](https://kzakka.com/robopianist/#demo)
 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
-- [Geometric Algebra](https://bivector.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
