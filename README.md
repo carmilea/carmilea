@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geometric Algebra](https://bivector.net/)
 - [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
 - [Jeff Bezos&#39; revamp of &#39;Washington Post&#39; opinions leads editor to quit](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section)
 - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
-- [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
