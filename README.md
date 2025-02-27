@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kastle &lpar;YC S24&rpar; Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
+- [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
-- [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
-- [What Can Be Computed? A Practical Guide to the Theory of Computation [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
+- [What can be computed? A practical guide to the theory of computation &lpar;2018&rpar; [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
 - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
-- [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
