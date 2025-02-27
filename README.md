@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
+- [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 - [Show HN: LoomLetter – an app to organize newsletters and listen on the go](https://www.loomletter.app/)
-- [ADHD Guide to Spaced Repetition](https://page.brick.do/adhd-guide-to-spaced-repetition-4ja9ZO4DXLM2)
-- [Launch HN: Bild AI &lpar;YC W25&rpar; – Understands Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
-- [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
-- [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
+- [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
+- [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
