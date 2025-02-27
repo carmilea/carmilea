@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Captain &#39;lost for words&#39; after witnessing a super pod of more than 2k dolphins](https://www.cbc.ca/radio/asithappens/dolphin-super-pod-1.7469441)
-- [U.S. soldier charged in AT&amp;T hack searched &quot;can hacking be treason&quot;](https://krebsonsecurity.com/2025/02/u-s-soldier-charged-in-att-hack-searched-can-hacking-be-treason/)
-- [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
-- [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
+- [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
+- [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 - [Geometric Algebra](https://bivector.net/)
+- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
+- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
