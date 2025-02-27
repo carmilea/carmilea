@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
+- [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
+- [What Can Be Computed? A Practical Guide to the Theory of Computation [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
 - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
-- [Show HN: LoomLetter – an app to organize newsletters and listen on the go](https://www.loomletter.app/)
-- [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
-- [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
