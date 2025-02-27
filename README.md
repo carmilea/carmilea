@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 - [Geometric Algebra](https://bivector.net/)
 - [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
-- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
