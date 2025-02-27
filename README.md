@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning a Bluetooth Device into an Apple AirTag Without Root Privileges](https://nroottag.github.io/)
 - [The muon&#39;s magnetic moment exposes a hole in the SM – unless it doesn&#39;t](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
-- [$100 Muon Detector Lets You Harness the Cosmos](https://spectrum.ieee.org/diy-muon-tomography)
-- [Solitaire](https://localthunk.com/blog/solitaire)
-- [Who was Aleph Null? &lpar;2013&rpar;](http://bit-player.org/2013/who-was-aleph-null)
-- [Seizing the Moment: Real-Time Insights and AI for Next-Gen Martech, Adtech + Salestech](https://www.singlestore.com/blog/seizing-the-moment-real-time-insights-and-ai-martech-adtech-salestech)
+- [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
+- [At 3 A.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)
+- [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
