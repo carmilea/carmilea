@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
-- [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)
+- [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
+- [Mozilla&#39;s New Terms of Use Are Out of Step with Firefox&#39;s Direct Competition](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html)
+- [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning &lpar;2023&rpar;](https://kzakka.com/robopianist/#demo)
-- [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
