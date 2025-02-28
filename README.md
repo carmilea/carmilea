@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
+- [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
 - [Harold Cohen and Aaron – A 40-Year Collaboration &lpar;2016&rpar;](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
 - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
 - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
-- [Medical treatments devised for war can quickly be implemented in US hospitals](https://theconversation.com/how-medical-treatments-devised-for-war-can-quickly-be-implemented-in-us-hospitals-to-save-lives-247752)
-- [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
