@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
+- [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
+- [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
+- [WASM Wayland Web &lpar;WWW&rpar;](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
-- [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
-- [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
-- [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
-- [macOS Tips and Tricks &lpar;2022&rpar;](https://saurabhs.org/macos-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
