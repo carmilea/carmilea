@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC Declares Memecoins Are Not Subject to Oversight](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html)
+- [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
+- [Exploring UK Environment Agency Data with DuckDB and Rill](https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/)
+- [Waterfox: Fast and Private Web Browser](https://www.waterfox.net/)
 - [Openlayer &lpar;YC S21&rpar; is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
-- [A Comment on Mozilla&#39;s Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
-- [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
