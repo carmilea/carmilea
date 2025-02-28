@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds in US climate agency fired in latest cuts](https://www.bbc.com/news/articles/cdell8n14x2o)
+- [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
+- [Medical treatments devised for war can quickly be implemented in US hospitals](https://theconversation.com/how-medical-treatments-devised-for-war-can-quickly-be-implemented-in-us-hospitals-to-save-lives-247752)
 - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 - [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
-- [Openlayer &lpar;YC S21&rpar; is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
