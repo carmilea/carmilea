@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
+- [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
 - [Does iOS Have Sideloading Yet? No](https://doesioshavesideloadingyet.com/)
 - [Markov Chains Explained Visually &lpar;2014&rpar;](https://setosa.io/ev/markov-chains/)
-- [Mozilla owns &quot;information you input through Firefox&quot;](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
-- [Automattic&#39;s &quot;nuclear war&quot; over WordPress access sparks potential class action](https://arstechnica.com/tech-policy/2025/02/automattic-shirked-duty-to-keep-wordpress-free-for-everyone-lawsuit-says/)
+- [&quot;Free&quot; Office for Windows is being trialed](https://office-watch.com/2025/free-office-for-windows-is-being-trialed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
