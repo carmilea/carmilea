@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Tips and Tricks](https://saurabhs.org/macos-tips)
+- [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
+- [macOS Tips and Tricks &lpar;2022&rpar;](https://saurabhs.org/macos-tips)
 - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
+- [Putting Andrew Ng&#39;s OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 - [Doc NTIA lead nominee criticizes &quot;woke&quot; and &quot;socialist&quot; fiber broadband subsidy](https://broadbandbreakfast.com/incoming-ntia-chief-doesnt-like-beads-fiber-preference-low-cost-mandates-2/)
-- [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
-- [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
