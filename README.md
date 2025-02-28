@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
-- [Exploring UK Environment Agency Data with DuckDB and Rill](https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/)
-- [Waterfox: Fast and Private Web Browser](https://www.waterfox.net/)
+- [May 5, Microsoft&#39;s Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
+- [Starlink to take over $2.4B contract to overhaul air traffic control comms](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk)
+- [SEC Declares Memecoins Are Not Subject to Oversight](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html)
 - [Openlayer &lpar;YC S21&rpar; is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 <!-- BLOG-POST-LIST:END -->
