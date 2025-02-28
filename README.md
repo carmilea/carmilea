@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Command &amp; Conquer games are now open source](https://github.com/electronicarts)
-- [Carlos Slim cancels his collaboration with Elon Musk&#39;s Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
-- [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
-- [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
-- [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
+- [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
+- [Does iOS Have Sideloading Yet? No](https://doesioshavesideloadingyet.com/)
+- [Markov Chains Explained Visually &lpar;2014&rpar;](https://setosa.io/ev/markov-chains/)
+- [Mozilla owns &quot;information you input through Firefox&quot;](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
+- [Automattic&#39;s &quot;nuclear war&quot; over WordPress access sparks potential class action](https://arstechnica.com/tech-policy/2025/02/automattic-shirked-duty-to-keep-wordpress-free-for-everyone-lawsuit-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
