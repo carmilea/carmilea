@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Openlayer &lpar;YC S21&rpar; is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
+- [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+- [A Comment on Mozilla&#39;s Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
+- [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
 - [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
-- [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
-- [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
-- [WASM Wayland Web &lpar;WWW&rpar;](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
-- [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
