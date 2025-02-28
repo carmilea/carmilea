@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;No, we are absolutely not prepared to [fork Firefox]&quot;](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)
+- [Japanese Toshiba Typewriter Model BW-2112 &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
+- [Show HN: Betting game puzzle &lpar;Hamming neighbor sum in linear time&rpar;](https://news.ycombinator.com/item?id=43210185)
 - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
-- [Harold Cohen and Aaron – A 40-Year Collaboration &lpar;2016&rpar;](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
-- [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
-- [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
