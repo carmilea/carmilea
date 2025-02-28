@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
+- [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
+- [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
 - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
 - [macOS Tips and Tricks &lpar;2022&rpar;](https://saurabhs.org/macos-tips)
-- [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
-- [Putting Andrew Ng&#39;s OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
-- [Doc NTIA lead nominee criticizes &quot;woke&quot; and &quot;socialist&quot; fiber broadband subsidy](https://broadbandbreakfast.com/incoming-ntia-chief-doesnt-like-beads-fiber-preference-low-cost-mandates-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
