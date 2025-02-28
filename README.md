@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;No, we are absolutely not prepared to [fork Firefox]&quot;](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)
+- [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 - [Japanese Toshiba Typewriter Model BW-2112 &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 - [Show HN: Betting game puzzle &lpar;Hamming neighbor sum in linear time&rpar;](https://news.ycombinator.com/item?id=43210185)
 - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
