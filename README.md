@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The American Weather Forecast Is in Trouble](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/)
+- [A Letter to the American People](https://18f.org/)
+- [Federal spending is stable over time](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/)
 - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 - [Why Can&#39;t We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
-- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
-- [Nearly 25 years later, Terminator 2 is getting a new video game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
-- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
