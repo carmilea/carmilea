@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
-- [Japanese Toshiba Typewriter Model BW-2112 &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
-- [Show HN: Betting game puzzle &lpar;Hamming neighbor sum in linear time&rpar;](https://news.ycombinator.com/item?id=43210185)
-- [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
-- [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
+- [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [An Update on Mozilla&#39;s Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+- [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
+- [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+- [Why it&#39;s so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
