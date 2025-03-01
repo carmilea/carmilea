@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese scientists unveil aerial/terrestrial robot prototype for Mars](https://english.news.cn/20250213/fd1eb85f20e04e62a569b1c756f0fbff/c.html)
-- [Hemochromatosis patients can donate their blood rather than having it discarded](https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html)
-- [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
-- [Yes, Claude Code can decompile itself. Here&#39;s the source code](https://ghuntley.com/tradecraft/)
-- [Zen 5&#39;s AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
+- [The most unhinged video wall &lpar;made out of Chromebooks&rpar;](https://varun.ch/posts/videowall/)
+- [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
+- [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
+- [Servo – Open Collective](https://opencollective.com/servo)
+- [The AI Code Review Disconnect: Why Your Tools Aren&#39;t Solving Your Real Problem](https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
