@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
-- [18F GitHub Repositories](https://github.com/18f)
-- [3x Improvement with Infinite Retrieval: Attention Enhanced LLMs in Long-Context](https://arxiv.org/abs/2502.12962)
-- [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
-- [Efabless – Shutdown Notice](https://efabless.com/notice)
+- [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
+- [Why Can&#39;t We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
+- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
+- [Nearly 25 years later, Terminator 2 is getting a new video game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
+- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
