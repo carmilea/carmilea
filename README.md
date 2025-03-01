@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The most unhinged video wall &lpar;made out of Chromebooks&rpar;](https://varun.ch/posts/videowall/)
+- [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
+- [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
 - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
 - [Servo – Open Collective](https://opencollective.com/servo)
-- [The AI Code Review Disconnect: Why Your Tools Aren&#39;t Solving Your Real Problem](https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
