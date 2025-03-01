@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
-- [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 - [Yes, Claude Code can decompile itself. Here&#39;s the source code](https://ghuntley.com/tradecraft/)
 - [Zen 5&#39;s AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
+- [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
