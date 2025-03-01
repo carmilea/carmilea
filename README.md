@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
+- [Magic Isn&#39;t Real](https://pthorpe92.dev/magic/)
 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
 - [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
 - [An Update on Mozilla&#39;s Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
-- [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 <!-- BLOG-POST-LIST:END -->
 
 ---
