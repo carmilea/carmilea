@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
+- [18F GitHub Repositories](https://github.com/18f)
+- [3x Improvement with Infinite Retrieval: Attention Enhanced LLMs in Long-Context](https://arxiv.org/abs/2502.12962)
 - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
-- [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
-- [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
-- [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
-- [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
+- [Efabless – Shutdown Notice](https://efabless.com/notice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
