@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
-- [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
+- [Yes, Claude Code can decompile itself. Here&#39;s the source code](https://ghuntley.com/tradecraft/)
 - [Zen 5&#39;s AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
