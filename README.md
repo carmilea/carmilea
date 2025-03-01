@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zen 5&#39;s AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
-- [Magic Isn&#39;t Real](https://pthorpe92.dev/magic/)
 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-- [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
-- [An Update on Mozilla&#39;s Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+- [The Housing Theory of Everything &lpar;2021&rpar;](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [An update on Mozilla&#39;s terms of use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
