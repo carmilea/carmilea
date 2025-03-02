@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dozens of U.S. academics lose grants from Minerva Research Initiative](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science)
+- [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+- [Gooey rubber that&#39;s slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
-- [Rotors: A practical introduction for 3D graphics &lpar;2023&rpar;](https://jacquesheunis.com/post/rotors/)
 - [Matt&#39;s Script Archive &lpar;1995&rpar;](https://www.scriptarchive.com/)
 - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 <!-- BLOG-POST-LIST:END -->
