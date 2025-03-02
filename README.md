@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefly &#39;Blue Ghost&#39; lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
+- [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
+- [What, if anything, should I do about using Mozilla&#39;s Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
+- [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
+- [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
 - [Show HN: Robyn – &quot;Batman Inspired&quot; Python Web Framework Built with Rust](https://robyn.tech/)
-- [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
-- [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
-- [Mozilla site down due to &quot;overdue hosting payments&quot;](https://linuxmom.net/@vkc/114089626244932902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
