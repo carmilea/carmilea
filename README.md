@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The NIH is being slashed and burned, not &quot;reformed&quot;](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
+- [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+- [Mozilla site down due to &quot;overdue hosting payments&quot;](https://linuxmom.net/@vkc/114089626244932902)
 - [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 - [The early days of Linux &lpar;2023&rpar;](https://lwn.net/Articles/928581/)
 - [How Flash games shaped the video game industry &lpar;2020&rpar;](https://www.flashgamehistory.com/)
-- [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
