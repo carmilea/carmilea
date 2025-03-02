@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The American Weather Forecast Is in Trouble](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/)
-- [A Letter to the American People](https://18f.org/)
-- [Federal spending is stable over time](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/)
-- [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
-- [Why Can&#39;t We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
+- [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
+- [I&#39;m Done with Coding](https://www.neelc.org/2025/03/01/im-done-with-coding/)
+- [The Early Days of Linux](https://lwn.net/Articles/928581/)
+- [How Flash Games Shaped the Video Game Industry](https://www.flashgamehistory.com/)
+- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
