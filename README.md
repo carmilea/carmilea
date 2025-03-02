@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [5. Exporting the Outcomes](https://www.youtube.com/watch?v=t7GTftH4l4E)
 - [4. Creating New Annotations with H2O Label Genie](https://www.youtube.com/watch?v=DwJqJDSVxEI)
 - [3. Exploring H2O Label Genie Homepage and Datasets Tabs](https://www.youtube.com/watch?v=sbLllt9QthQ)
 - [H2O.ai University: AI Education for Everyone](https://www.youtube.com/watch?v=wl9aaVuzI9E)
 - [Building Applications with DeepSeek and SingleStore!](https://www.youtube.com/watch?v=A5sK2_BjbdI)
-- [2. What is H2O Label Genie](https://www.youtube.com/watch?v=XPUs0ltN_wU)
 <!-- YOUTUBE:END -->
 
 
