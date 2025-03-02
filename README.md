@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla is trying to backtrack on Firefox&#39;s controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
 - [olduse.net](https://olduse.net/)
+- [Let me GPT that for you](https://letmegptthatforyou.com)
 - [&#39;Your showerhead is lying to you&#39;](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
 - [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
-- [Speedrunners are vulnerability researchers, they just don&#39;t know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
-- [Falsehoods programmers believe about languages &lpar;localization&rpar;](https://www.lexiconista.com/falsehoods-about-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
