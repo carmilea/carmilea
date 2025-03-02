@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a neuroscientist. Here&#39;s the surprising truth about TikTok &#39;brain rot&#39;](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
+- [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
+- [Ask HN: Where are the good Markdown to PDF tools &lpar;that meet these requirements&rpar;?](https://news.ycombinator.com/item?id=43231964)
+- [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
 - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
 - [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
-- [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
-- [GPT-4.5: &quot;Not a frontier model&quot;?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
