@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly &#39;Blue Ghost&#39; lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
+- [Show HN: Robyn – &quot;Batman Inspired&quot; Python Web Framework Built with Rust](https://robyn.tech/)
 - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
-- [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
 - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
-- [Mozilla site down due to &quot;overdue hosting payments&quot;](https://linuxmom.net/@vkc/114089626244932902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
