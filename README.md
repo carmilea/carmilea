@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla is trying to backtrack on Firefox&#39;s controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
+- [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)
+- [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
+- [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
+- [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
 - [olduse.net](https://olduse.net/)
-- [Let me GPT that for you](https://letmegptthatforyou.com)
-- [&#39;Your showerhead is lying to you&#39;](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
-- [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
