@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)
+- [Matt&#39;s Script Archive &lpar;1995&rpar;](https://www.scriptarchive.com/)
 - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
-- [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
-- [olduse.net](https://olduse.net/)
+- [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
+- [Gödel&#39;s theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
