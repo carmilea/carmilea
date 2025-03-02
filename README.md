@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
+- [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
 - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
-- [Show HN: What did you do last week? – Evaluates your 5 bullet points](https://whatdidyoudolastweek.biz)
 - [Mozilla site down due to &quot;overdue hosting payments&quot;](https://linuxmom.net/@vkc/114089626244932902)
-- [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
