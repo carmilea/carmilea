@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
-- [Ask HN: Where are the good Markdown to PDF tools &lpar;that meet these requirements&rpar;?](https://news.ycombinator.com/item?id=43231964)
-- [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
-- [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
-- [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
+- [olduse.net](https://olduse.net/)
+- [&#39;Your showerhead is lying to you&#39;](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
+- [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
+- [Speedrunners are vulnerability researchers, they just don&#39;t know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
+- [Falsehoods programmers believe about languages &lpar;localization&rpar;](https://www.lexiconista.com/falsehoods-about-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
