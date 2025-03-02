@@ -62,7 +62,7 @@
 - [Show HN: Robyn – &quot;Batman Inspired&quot; Python Web Framework Built with Rust](https://robyn.tech/)
 - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
 - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
-- [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
+- [Mozilla site down due to &quot;overdue hosting payments&quot;](https://linuxmom.net/@vkc/114089626244932902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
