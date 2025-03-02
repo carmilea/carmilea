@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dozens of U.S. academics lose grants from Minerva Research Initiative](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science)
+- [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
+- [Rotors: A practical introduction for 3D graphics &lpar;2023&rpar;](https://jacquesheunis.com/post/rotors/)
 - [Matt&#39;s Script Archive &lpar;1995&rpar;](https://www.scriptarchive.com/)
 - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
-- [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
-- [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
-- [Gödel&#39;s theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
