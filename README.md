@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Cuban offers to fund 18f](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
+- [Chrome has built-in AI history search](https://support.google.com/chrome/answer/15305774?hl=en)
 - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
+- [Trust in Firefox and Mozilla Is Gone – Let&#39;s Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
 - [What, if anything, should I do about using Mozilla&#39;s Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
-- [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
-- [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
-- [Show HN: Robyn – “Batman Inspired” Python Web Framework Built with Rust](https://robyn.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
