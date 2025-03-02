@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The NIH Is Being Slashed and Burned, Not &quot;Reformed&quot;](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
 - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 - [Wealthy Americans fuel half of us economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending)
+- [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 - [The early days of Linux &lpar;2023&rpar;](https://lwn.net/Articles/928581/)
-- [How Flash games shaped the video game industry](https://www.flashgamehistory.com/)
-- [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
