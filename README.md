@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
 - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 - [I&#39;m Done with Coding](https://www.neelc.org/2025/03/01/im-done-with-coding/)
 - [The Early Days of Linux](https://lwn.net/Articles/928581/)
 - [How Flash Games Shaped the Video Game Industry](https://www.flashgamehistory.com/)
-- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
