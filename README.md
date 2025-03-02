@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Cuban offers to fund 18f](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
-- [Chrome has built-in AI history search](https://support.google.com/chrome/answer/15305774?hl=en)
-- [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
-- [Trust in Firefox and Mozilla Is Gone – Let&#39;s Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
-- [What, if anything, should I do about using Mozilla&#39;s Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
+- [I&#39;m a neuroscientist. Here&#39;s the surprising truth about TikTok &#39;brain rot&#39;](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
+- [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
+- [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
+- [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
+- [GPT-4.5: &quot;Not a frontier model&quot;?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
