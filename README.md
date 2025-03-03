@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BM25 in PostgreSQL – 3x Faster Than Elasticsearch](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
+- [Everything Is Chrome](https://vale.rocks/posts/everything-is-chrome)
+- [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
 - [Losing a 5-year-long Illinois FOIA lawsuit for database schemas](https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html)
 - [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
-- [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
