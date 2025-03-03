@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
-- [Ask HN: Who is hiring? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43243024)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43243023)
-- [Drone Delivery for Defense](https://seanobannon.substack.com/p/drone-delivery-for-defense)
-- [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
+- [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
+- [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
+- [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
+- [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Climate Tech &lpar;Los Angeles&rpar;](https://www.keelinglabs.com/jobs)
+- [What is a Low-Latency Database? Benefits and Key Considerations](https://www.singlestore.com/blog/what-is-a-low-latency-database)
 <!-- BLOG-POST-LIST:END -->
 
 ---
