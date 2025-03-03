@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+- [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
+- [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
+- [CSS Custom Functions are coming](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+- [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/)
 - [Gooey rubber that&#39;s slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
-- [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
-- [Matt&#39;s Script Archive &lpar;1995&rpar;](https://www.scriptarchive.com/)
-- [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 <!-- BLOG-POST-LIST:END -->
 
 ---
