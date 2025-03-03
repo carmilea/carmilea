@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Send Data with Sound](https://github.com/solst-ice/chirp)
+- [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 - [Launch HN: Cuckoo &lpar;YC W25&rpar; – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+- [James Harrison, whose blood donations saved &gt;2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
 - [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
-- [AgenticMemory: Zettelkasten inspired agentic memory system](https://github.com/WujiangXu/AgenticMemory)
-- [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
-- [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
