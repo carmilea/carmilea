@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
 - [Fintoc &lpar;YC W21&rpar; Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
+- [Amazon’s delivery drones are grounded in College Station, Texas](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
 - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
-- [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
-- [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
-- [FlakeUI](https://github.com/tearflake/flake-ui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
