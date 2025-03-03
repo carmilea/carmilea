@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE&#39;s AI use in government doesn&#39;t add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
+- [Launch HN: Cuckoo &lpar;YC W25&rpar; – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+- [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
+- [AgenticMemory: Zettelkasten inspired agentic memory system](https://github.com/WujiangXu/AgenticMemory)
 - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 - [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
-- [Effect of chewing hard material on enhancing cognitive function](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2024.1489919/full)
-- [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
