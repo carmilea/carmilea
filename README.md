@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tianjin robot incident raises alarm over public safety and robotics](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533)
-- [Atlanta Fed predicts -2.8% GDP](https://www.atlantafed.org/cqer/research/gdpnow)
-- [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
-- [Send Data with Sound](https://github.com/solst-ice/chirp)
+- [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
+- [Nomadic infrastructure design for AI workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
+- [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
 - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
+- [Launch HN: Cuckoo &lpar;YC W25&rpar; – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
