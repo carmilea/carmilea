@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon&#39;s Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
 - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
-- [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
-- [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+- [Alibaba Launches C930 RISC-V Chip Amid Shift from Western Tech](https://www.hpcwire.com/2025/02/28/alibaba-launches-c930-risc-v-chip-amid-shift-from-western-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
