@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
-- [Fintoc &lpar;YC W21&rpar; Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
-- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
-- [Amazon’s delivery drones are grounded in College Station, Texas](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
-- [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
+- [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
+- [Ask HN: Who is hiring? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43243024)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43243023)
+- [Drone Delivery for Defense](https://seanobannon.substack.com/p/drone-delivery-for-defense)
+- [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
