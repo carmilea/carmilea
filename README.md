@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything Is Chrome](https://vale.rocks/posts/everything-is-chrome)
+- [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
+- [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 - [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
 - [Losing a 5-year-long Illinois FOIA lawsuit for database schemas](https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html)
-- [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
