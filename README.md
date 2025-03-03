@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Google Chrome&#39;s &quot;This extension may soon no longer be supported&quot;](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 - [Permacomputing](https://permacomputing.net/)
-- [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
