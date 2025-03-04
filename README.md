@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building Applications with DeepSeek and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=5qYn5fzwKGU)
 - [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window | SingleStore Webinars](https://www.youtube.com/watch?v=wSc8a7GWl9M)
 - [5. Exporting the Outcomes](https://www.youtube.com/watch?v=t7GTftH4l4E)
 - [4. Creating New Annotations with H2O Label Genie](https://www.youtube.com/watch?v=DwJqJDSVxEI)
 - [3. Exploring H2O Label Genie Homepage and Datasets Tabs](https://www.youtube.com/watch?v=sbLllt9QthQ)
-- [H2O.ai University: AI Education for Everyone](https://www.youtube.com/watch?v=wl9aaVuzI9E)
 <!-- YOUTUBE:END -->
 
 
