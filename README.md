@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar crushed 2024, but emissions were up as industry used more natural gas](https://techcrunch.com/2025/02/20/solar-crushed-2024-but-emissions-were-up-as-industry-used-more-natural-gas/)
+- [Foundry &lpar;YC F24&rpar; Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
 - [Satellogic&#39;s Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
+- [Should Managers Still Code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
 - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
-- [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
