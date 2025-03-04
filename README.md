@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: Where in the Loop Should Humans Go?](https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go)
 - [ARC-AGI without pretraining](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html)
 - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
 - [The Imaginary Engineer – Karl Hans Janke&#39;s Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
+- [Who&#39;s Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
