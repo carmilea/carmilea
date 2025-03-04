@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Father tries to block daughter&#39;s euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
+- [Solar crushed 2024, but emissions were up as industry used more natural gas](https://techcrunch.com/2025/02/20/solar-crushed-2024-but-emissions-were-up-as-industry-used-more-natural-gas/)
+- [Satellogic&#39;s Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
+- [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
+- [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
-- [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
-- [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
-- [Microsoft&#39;s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
