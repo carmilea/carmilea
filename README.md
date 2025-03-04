@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
+- [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
 - [Microsoft&#39;s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 - [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
 - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
-- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
-- [Italy moves to reverse anti-nuclear stance](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
