@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Lonely at All &lpar;2009&rpar;](https://ma.tt/2009/07/not-lonely-at-all/)
 - [The Kill-or-Be-Killed Fight for Crypto&#39;s Future](https://www.wsj.com/finance/currencies/who-is-giancarlo-devasini-tether-jeremy-allaire-circle-90a408b9)
 - [Let&#39;s code a TCP/IP stack, 1: Ethernet and ARP &lpar;2016&rpar;](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 - [DeepSeek&#39;s smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
+- [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
