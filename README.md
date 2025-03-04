@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+- [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
+- [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 - [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
-- [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
-- [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
-- [Launch HN: Cuckoo &lpar;YC W25&rpar; – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
