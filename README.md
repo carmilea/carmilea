@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shaking the Earth: from volcanology to seismic surveys &lpar;2024&rpar;](https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31)
+- [The Imaginary Engineer – Karl Hans Janke&#39;s Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
 - [Who&#39;s Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
 - [Translating Natural Language to First-Order Logic for Logical Fallacy Detection](https://arxiv.org/abs/2405.02318)
 - [Show HN: Vidformer – Drop-In Acceleration for Cv2 Video Annotation Scripts](https://github.com/ixlab/vidformer)
