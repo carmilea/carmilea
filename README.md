@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
+- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
+- [Italy moves to reverse anti-nuclear stance](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance)
 - [Let’s code a TCP/IP stack, 1: Ethernet and ARP &lpar;2016&rpar;](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
-- [DeepSeek&#39;s smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
-- [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
-- [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
