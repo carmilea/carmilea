@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+- [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
 - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
-- [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
+- [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 - [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
 <!-- BLOG-POST-LIST:END -->
