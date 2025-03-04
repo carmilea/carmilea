@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla rewrites Firefox&#39;s Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
 - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 - [Let’s code a TCP/IP stack, 1: Ethernet and ARP &lpar;2016&rpar;](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
 - [DeepSeek&#39;s smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
+- [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
