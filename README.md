@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Father tries to block daughter&#39;s euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
+- [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
-- [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
+- [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 - [Microsoft&#39;s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
-- [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
-- [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
