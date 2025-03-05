@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
+- [Get Started with Neural Rendering Using Nvidia RTX Kit &lpar;Vulkan&rpar;](https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/)
 - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
 - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
 - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
-- [Brother accused of locking down third-party printer ink cartridges](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
