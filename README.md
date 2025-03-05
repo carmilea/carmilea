@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [6. Multiclass labeling with H2O Label Genie](https://www.youtube.com/watch?v=oJ9EmHph57s)
+- [Multiclass labeling with H2O Label Genie - Part 5](https://www.youtube.com/watch?v=oJ9EmHph57s)
 - [Building Applications with DeepSeek and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=5qYn5fzwKGU)
 - [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window | SingleStore Webinars](https://www.youtube.com/watch?v=wSc8a7GWl9M)
-- [5. Exporting the Outcomes](https://www.youtube.com/watch?v=t7GTftH4l4E)
-- [4. Creating New Annotations with H2O Label Genie](https://www.youtube.com/watch?v=DwJqJDSVxEI)
+- [Exporting the Outcomes - Part 4](https://www.youtube.com/watch?v=t7GTftH4l4E)
+- [Creating New Annotations with H2O Label Genie - Part 3](https://www.youtube.com/watch?v=DwJqJDSVxEI)
 <!-- YOUTUBE:END -->
 
 
