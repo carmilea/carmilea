@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
-- [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
-- [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)
-- [Leaked VA memo calls for up to 83,000 layoffs to reduce workforce to 2019 levels](https://www.govexec.com/workforce/2025/03/va-plans-lay-many-83000-employees-year/403477/)
-- [Apple takes UK to court over &#39;backdoor&#39; order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
+- [Brother refutes &quot;false claims&quot; that it bricked printers using third-party ink](https://arstechnica.com/gadgets/2025/03/brother-denies-using-firmware-updates-to-brick-printers-with-third-party-ink/)
+- [CGNAT frustrates all IP address-based technologies &lpar;2019&rpar;](https://www.sidn.nl/en/news-and-blogs/cgnat-frustrates-all-ip-address-based-technologies)
+- [NCSC, GCHQ, UK Gov&#39;t expunge advice to &quot;use Apple encryption&quot;](https://alecmuffett.com/article/112522)
+- [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
+- [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
