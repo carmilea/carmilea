@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
 - [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
+- [A sysadmin&#39;s rant about feed readers and crawlers &lpar;2022&rpar;](http://rachelbythebay.com/w/2022/03/07/get/)
 - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
 - [&#39;Shadow fleets&#39; and sabotage: are Europe&#39;s undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
-- [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
-- [Get Started with Neural Rendering Using Nvidia RTX Kit &lpar;Vulkan&rpar;](https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
