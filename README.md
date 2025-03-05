@@ -61,8 +61,8 @@
 - [We&#39;re Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
 - [Cobalt Networks CobaltOS: Proxmox Port](https://archive.org/details/CobaltOS-Proxmox)
 - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
+- [The Nightmare Bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
-- [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
