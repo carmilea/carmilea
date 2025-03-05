@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greptile &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 - [My Beancount books are 95% automatic after 3 years &lpar;2024&rpar;](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
+- [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
 - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
-- [Tech and Non-Tech Stacks to Run Listen Notes &lpar;2025&rpar;](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
 - [Design and Explore Noise Handshake Patterns &lpar;2018&rpar;](https://noiseexplorer.com/)
-- [Things we&#39;ve learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 <!-- BLOG-POST-LIST:END -->
 
 ---
