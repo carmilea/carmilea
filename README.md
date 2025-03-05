@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeep Owners Fed Up with In-Car Pop-Up Ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
+- [Jeep owners fed up with in-car pop-up ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
 - [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
 - [Git Without a Forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
-- [Macron to open debate on extending French nuclear protection to European allies](https://www.reuters.com/world/europe/frances-macron-address-nation-late-wednesday-2025-03-05/)
+- [Renault Is Giving Away Its Proprietary Tech to Stop EV Fires Quickly](https://www.thedrive.com/news/renault-is-giving-away-its-proprietary-tech-to-stop-ev-fires-quickly)
 - [Automating Incident Resolution: The Journey of SingleStore&#39;s Slackbot](https://www.singlestore.com/blog/automating-incident-resolution-the-journey-of-singlestore-s-slackbot)
 <!-- BLOG-POST-LIST:END -->
 
