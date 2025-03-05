@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeep owners fed up with in-car pop-up ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
+- [A sprawling detention center in Texas to hold migrant children and their parents](https://www.washingtonpost.com/immigration/2025/03/05/dilley-texas-family-detention-center-ice/)
+- [Superintelligence Strategy](https://www.nationalsecurity.ai/)
+- [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
 - [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
-- [Git Without a Forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
-- [Renault Is Giving Away Its Proprietary Tech to Stop EV Fires Quickly](https://www.thedrive.com/news/renault-is-giving-away-its-proprietary-tech-to-stop-ev-fires-quickly)
-- [Automating Incident Resolution: The Journey of SingleStore&#39;s Slackbot](https://www.singlestore.com/blog/automating-incident-resolution-the-journey-of-singlestore-s-slackbot)
+- [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
