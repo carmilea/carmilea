@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple takes UK to court over &#39;backdoor&#39; order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
+- [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
+- [The Tiny Star Explosions Powering Moore&#39;s Law](https://spectrum.ieee.org/euv-light-source)
+- [Show HN: Beating Pokemon Red with RL and &lt;10M Parameters](https://drubinstein.github.io/pokerl/)
 - [Greptile &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
-- [My Beancount books are 95% automatic after 3 years &lpar;2024&rpar;](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
-- [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
-- [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
-- [Design and Explore Noise Handshake Patterns &lpar;2018&rpar;](https://noiseexplorer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
