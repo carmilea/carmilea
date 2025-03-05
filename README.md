@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
+- [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
+- [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)
+- [Leaked VA memo calls for up to 83,000 layoffs to reduce workforce to 2019 levels](https://www.govexec.com/workforce/2025/03/va-plans-lay-many-83000-employees-year/403477/)
 - [Apple takes UK to court over &#39;backdoor&#39; order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
-- [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
-- [The Tiny Star Explosions Powering Moore&#39;s Law](https://spectrum.ieee.org/euv-light-source)
-- [Show HN: Beating Pokemon Red with RL and &lt;10M Parameters](https://drubinstein.github.io/pokerl/)
-- [Greptile &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
