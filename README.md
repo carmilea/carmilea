@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Melbourne startup launches &#39;biological computer&#39; made of human brain cells](https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484)
+- [Show HN: Scholium, Your Own Research Assistant](https://github.com/QDScholium/ScholiumAI)
+- [Show HN: ArchGW – An open-source intelligent proxy server for prompts](https://github.com/katanemo/archgw)
 - [ARC-AGI without pretraining](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html)
 - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
-- [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
-- [The Imaginary Engineer – Karl Hans Janke&#39;s Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
-- [Who&#39;s Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
