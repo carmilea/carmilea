@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brother refutes &quot;false claims&quot; that it bricked printers using third-party ink](https://arstechnica.com/gadgets/2025/03/brother-denies-using-firmware-updates-to-brick-printers-with-third-party-ink/)
-- [CGNAT frustrates all IP address-based technologies &lpar;2019&rpar;](https://www.sidn.nl/en/news-and-blogs/cgnat-frustrates-all-ip-address-based-technologies)
-- [NCSC, GCHQ, UK Gov&#39;t expunge advice to &quot;use Apple encryption&quot;](https://alecmuffett.com/article/112522)
-- [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
-- [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
+- [Jeep Owners Fed Up with In-Car Pop-Up Ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
+- [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
+- [Git Without a Forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
+- [Macron to open debate on extending French nuclear protection to European allies](https://www.reuters.com/world/europe/frances-macron-address-nation-late-wednesday-2025-03-05/)
+- [Automating Incident Resolution: The Journey of SingleStore&#39;s Slackbot](https://www.singlestore.com/blog/automating-incident-resolution-the-journey-of-singlestore-s-slackbot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
