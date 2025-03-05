@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 - [Mice exhibit paramedic-like behaviors toward unresponsive peers, study finds](https://medicalxpress.com/news/2025-02-mice-paramedic-behaviors-unresponsive-peers.html)
+- [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
+- [Brother may be locking out 3rd party printer cartridge via forced firmware upd](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
 - [GSA prepares to sell over 400 federal properties](https://www.politico.com/news/2025/03/04/gsa-sell-400-federal-properties-00212071)
-- [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
-- [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)
-- [Tmux – The Essentials &lpar;2019&rpar;](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
