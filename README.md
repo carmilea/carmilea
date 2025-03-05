@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
-- [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
-- [A sysadmin&#39;s rant about feed readers and crawlers &lpar;2022&rpar;](http://rachelbythebay.com/w/2022/03/07/get/)
-- [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
-- [&#39;Shadow fleets&#39; and sabotage: are Europe&#39;s undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
+- [Apple reveals M3 Ultra, taking Apple Silicon to a new extreme](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
+- [Why “alias” is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
+- [Private employers added just 77,000 jobs in February, far below expectations](https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html)
+- [How a key ingredient in Coca-Cola, M&amp;M&#39;s is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
+- [Who&#39;s Afraid of Peter Thiel? A New Biography Suggests We All Should Be &lpar;2021&rpar;](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
