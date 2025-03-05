@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MacBook Air M4](https://www.apple.com/macbook-air/)
-- [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
-- [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
-- [Why “alias” is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
-- [Kevin Rose, Alexis Ohanian Acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
+- [My Beancount books are 95% automatic after 3 years &lpar;2024&rpar;](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
+- [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
+- [Tech and Non-Tech Stacks to Run Listen Notes &lpar;2025&rpar;](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
+- [Design and Explore Noise Handshake Patterns &lpar;2018&rpar;](https://noiseexplorer.com/)
+- [Things we&#39;ve learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 <!-- BLOG-POST-LIST:END -->
 
 ---
