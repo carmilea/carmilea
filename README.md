@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple reveals M3 Ultra, taking Apple Silicon to a new extreme](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
+- [MacBook Air M4](https://www.apple.com/macbook-air/)
+- [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
+- [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 - [Why “alias” is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
-- [Private employers added just 77,000 jobs in February, far below expectations](https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html)
-- [How a key ingredient in Coca-Cola, M&amp;M&#39;s is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
-- [Who&#39;s Afraid of Peter Thiel? A New Biography Suggests We All Should Be &lpar;2021&rpar;](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/)
+- [Kevin Rose, Alexis Ohanian Acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
