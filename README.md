@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget Twitter Threads; Write a Blog Post Instead](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
+- [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
+- [Forget Twitter Threads; Write a Blog Post Instead &lpar;2021&rpar;](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
+- [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
+- [Due to new tariffs, many more physical game discs may &quot;simply not get made&quot;](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)
 - [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
-- [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
-- [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
-- [Xdg-ninja: checking your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
