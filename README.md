@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bcvi – run vi over a &#39;back-channel&#39; &lpar;2010&rpar;](https://sshmenu.sourceforge.net/articles/bcvi/)
-- [Warewulf is a stateless and diskless container OS provisioning system](https://github.com/warewulf/warewulf)
-- [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
-- [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
-- [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
+- [Using GRPO to Beat o1, o3-mini and R1 at &quot;Temporal Clue&quot;](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
+- [How the Index Card Cataloged the World &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
+- [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
+- [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
+- [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
