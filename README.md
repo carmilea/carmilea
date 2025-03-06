@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaping AI &lpar;YC W25&rpar; Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
+- [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
+- [More thoughts on the 1670 modem&#39;s weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 - [Launch HN: Cenote &lpar;YC W25&rpar; – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
-- [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
-- [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
-- [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
+- [Bangladesh&#39;s factories turn to surveillance, automation; workers feel pressure](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
