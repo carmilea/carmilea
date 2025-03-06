@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Escaping Difficult Employment Situation?](https://news.ycombinator.com/item?id=43280413)
+- [Jack Daniel&#39;s says Canada pulling US alcohol off shelves &#39;worse than tariff&#39;](https://www.reuters.com/business/retail-consumer/brown-forman-misses-quarterly-sales-estimates-muted-spirits-demand-2025-03-05/)
+- [I Used to Teach Students. Now I Catch ChatGPT Cheats](https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/)
 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
-- [Finland ends homelessness and provides shelter for all in need](https://thebetter.news/housing-first-finland-homelessness/)
 - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- [Now there are two Chinese automakers on the top list](https://daoinsights.com/news/now-there-are-two-chinese-automakers-on-the-worlds-top-10-list/)
-- [AMD Announces &quot;Instella&quot; Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
