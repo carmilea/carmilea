@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Koko &lpar;YC W22&rpar; Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
+- [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 - [Using GRPO to Beat o1, o3-mini and R1 at &quot;Temporal Clue&quot;](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 - [How the Index Card Cataloged the World &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
 - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
-- [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
-- [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
