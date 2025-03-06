@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A sprawling detention center in Texas to hold migrant children and their parents](https://www.washingtonpost.com/immigration/2025/03/05/dilley-texas-family-detention-center-ice/)
-- [Superintelligence Strategy](https://www.nationalsecurity.ai/)
-- [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
-- [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
-- [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
+- [Ask HN: Best Windows/Linux developer laptop in 2025](https://news.ycombinator.com/item?id=43275014)
+- [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
+- [A few words about FiveThirtyEight](https://www.natesilver.net/p/a-few-words-about-fivethirtyeight)
+- [Tesla gets more than 20% of parts from Mexico, it will be affected by tariffs](https://electrek.co/2025/03/05/tesla-gets-more-than-20-of-its-parts-from-mexico-yes-it-will-be-affected-by-tariffs/)
+- [Volkswagen seeks to counter rivals with budget EV model](https://www.ttnews.com/articles/vw-introduces-id-every1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
