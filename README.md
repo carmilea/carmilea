@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bcvi – run vi over a &#39;back-channel&#39; &lpar;2010&rpar;](https://sshmenu.sourceforge.net/articles/bcvi/)
+- [Warewulf is a stateless and diskless container OS provisioning system](https://github.com/warewulf/warewulf)
+- [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 - [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
 - [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
-- [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
-- [The Combined Cipher Machine 1940&#39;s-1950&#39;s](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
-- [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
