@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaping AI &lpar;YC W25&rpar; Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
-- [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
-- [More thoughts on the 1670 modem&#39;s weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
-- [Launch HN: Cenote &lpar;YC W25&rpar; – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
-- [Bangladesh&#39;s factories turn to surveillance, automation; workers feel pressure](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/)
+- [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
+- [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
+- [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
+- [The Combined Cipher Machine 1940&#39;s-1950&#39;s](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
+- [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
