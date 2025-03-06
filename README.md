@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy European Made. Support European Values](https://www.buy-european-made.eu/)
 - [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
 - [Forget Twitter Threads; Write a Blog Post Instead &lpar;2021&rpar;](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
 - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 - [Due to new tariffs, many more physical game discs may &quot;simply not get made&quot;](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)
-- [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
