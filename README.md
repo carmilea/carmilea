@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Cenote &lpar;YC W25&rpar; – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
 - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
-- [AMD Announces &quot;Instella&quot; Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
