@@ -45,8 +45,8 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [SQL 101 - Ep 6 - HAVING Clause](https://www.youtube.com/watch?v=uY7q-VH6JMw)
-- [SQL 101 - Ep 5 - GROUP BY Clause](https://www.youtube.com/watch?v=ZLlkT1We8X4)
+- [SQL 101 - Ep 6 - HAVING Clause | Learn with SingleStore](https://www.youtube.com/watch?v=uY7q-VH6JMw)
+- [SQL 101 - Ep 5 - GROUP BY Clause | Learn with SingleStore](https://www.youtube.com/watch?v=ZLlkT1We8X4)
 - [Getting Started With Claude Code](https://www.youtube.com/watch?v=z37_rONQof8)
 - [Taking advantage of the Summarization tasks | H2O Label Genie Starter Track - Part 6](https://www.youtube.com/watch?v=Cv3atXs8vVI)
 - [Multiclass labeling | H2O Label Genie Starter Track - Part 5](https://www.youtube.com/watch?v=oJ9EmHph57s)
