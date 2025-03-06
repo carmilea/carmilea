@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MAGA Wants to End Capitalism as We Know It](https://www.bloomberg.com/opinion/articles/2025-03-06/maga-wants-to-end-capitalism-as-we-know-it)
+- [Forget Twitter Threads; Write a Blog Post Instead](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
 - [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
 - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
