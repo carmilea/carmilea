@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
+- [Finland ends homelessness and provides shelter for all in need](https://thebetter.news/housing-first-finland-homelessness/)
 - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 - [Now there are two Chinese automakers on the top list](https://daoinsights.com/news/now-there-are-two-chinese-automakers-on-the-worlds-top-10-list/)
 - [AMD Announces &quot;Instella&quot; Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
-- [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
