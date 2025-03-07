@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ParadeDB &lpar;YC S23&rpar; Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
+- [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 - [Europe&#39;s most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
 - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
 - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
-- [WB offers replacements, but no refunds, for DVDs rotting prematurely](https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/)
-- [Age Verification Laws: A Backdoor to Surveillance](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
