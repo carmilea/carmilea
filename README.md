@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Female brewers are back – 500 years since their heyday](https://www.telegraph.co.uk/food-and-drink/beer/female-brewers-are-back/)
-- [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
-- [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
-- [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
-- [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
+- [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
+- [Kraftful &lpar;YC S19&rpar; is hiring a founding eng to support our hockey-stick growth](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer)
+- [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
+- [Why reading Martha C Nussbaum&#39;s philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
+- [Laser-based device can scan almost any sample of gas and tell you what&#39;s in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
