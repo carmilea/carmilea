@@ -61,8 +61,8 @@
 - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
+- [Ask HN: How did the internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
-- [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
