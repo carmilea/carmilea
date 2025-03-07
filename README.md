@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Matters Computational – Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
-- [Days Since Starship Exploded counter made it to 48. It&#39;s back to zero again now](https://www.theregister.com/2025/03/07/spacex_starship_mission_fail/)
-- [Google begins testing AI-only search results](https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/)
+- [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 - [Bye, Prime](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime)
-- [Shares of Starlink&#39;s European rival Eutelsat have tripled](https://www.marketwatch.com/story/shares-of-starlinks-european-competitor-have-tripled-ceo-says-it-can-do-the-job-in-ukraine-f5e4e1ac)
+- [Cargo &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
+- [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
