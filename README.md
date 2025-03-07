@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
-- [Kraftful &lpar;YC S19&rpar; is hiring a founding eng to support our hockey-stick growth](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer)
-- [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
-- [Why reading Martha C Nussbaum&#39;s philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
-- [Laser-based device can scan almost any sample of gas and tell you what&#39;s in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
+- [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
+- [What if America turned off Britain&#39;s weapons?](https://www.reaction.life/p/what-if-america-turned-off-britains)
+- [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
+- [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
+- [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
