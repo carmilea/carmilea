@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Else Considered Smelly](https://wiki.c2.com/?ElseConsideredSmelly)
+- [The Official Aztec C Online Museum](https://www.aztecmuseum.ca/index.htm)
 - [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
+- [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
 - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
-- [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
-- [StrictYAML](https://hitchdev.com/strictyaml/)
-- [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
