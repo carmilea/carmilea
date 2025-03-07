@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [40% of Britons haven&#39;t read a single book in the last 12 months](https://yougov.co.uk/entertainment/articles/51730-40-of-britons-havent-read-a-single-book-in-the-last-12-months)
 - [Cargo &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
-- [Bring Starlink on airplane in carry on, sell access?](https://news.ycombinator.com/item?id=43287694)
-- [Rules to improve air quality are under attack](https://www.heatpumped.org/p/you-put-your-pitchfork-away-already)
+- [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
-- [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
