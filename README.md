@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI for Business Growth  #H2OaiUniversity #AI #BusinessGrowth #AIeducation #GenerativeAI #LLM](https://www.youtube.com/watch?v=dk4N-BB-LjM)
 - [A Quick Overview of H2O.ai Agents | H2O Generative AI Starter Track - Part 16](https://www.youtube.com/watch?v=BW_ZV5jgeks)
 - [SQL 101 - Ep 6 - HAVING Clause | Learn with SingleStore](https://www.youtube.com/watch?v=uY7q-VH6JMw)
 - [SQL 101 - Ep 5 - GROUP BY Clause | Learn with SingleStore](https://www.youtube.com/watch?v=ZLlkT1We8X4)
 - [Getting Started With Claude Code](https://www.youtube.com/watch?v=z37_rONQof8)
-- [Taking advantage of the Summarization tasks | H2O Label Genie Starter Track - Part 6](https://www.youtube.com/watch?v=Cv3atXs8vVI)
 <!-- YOUTUBE:END -->
 
 
