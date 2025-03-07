@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+- [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
+- [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
 - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 - [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
-- [Koko &lpar;YC W22&rpar; Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
-- [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
-- [Using GRPO to Beat o1, o3-mini and R1 at &quot;Temporal Clue&quot;](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
