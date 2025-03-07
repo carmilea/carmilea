@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [40% of Britons haven&#39;t read a single book in the last 12 months](https://yougov.co.uk/entertainment/articles/51730-40-of-britons-havent-read-a-single-book-in-the-last-12-months)
+- [Google begins testing AI-only search results](https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/)
+- [Bye, Prime](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime)
+- [Shares of Starlink&#39;s European rival Eutelsat have tripled](https://www.marketwatch.com/story/shares-of-starlinks-european-competitor-have-tripled-ceo-says-it-can-do-the-job-in-ukraine-f5e4e1ac)
 - [Cargo &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
 - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
-- [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
-- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
