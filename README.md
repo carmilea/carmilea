@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Local-First Software Is the Future and Its Limitations](https://rxdb.info/articles/local-first-future.html)
+- [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 - [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
 - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
-- [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
-- [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- [Matters Computational &lpar;2010&rpar; [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
+- [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
