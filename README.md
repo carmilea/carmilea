@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
+- [WB offers replacements, but no refunds, for DVDs rotting prematurely](https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/)
+- [First Porn, Now Skin Cream? &#39;Age Verification&#39; Bills Are Out of Control](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
+- [AMD YOLO](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html)
 - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
-- [What if America turned off Britain&#39;s weapons?](https://www.reaction.life/p/what-if-america-turned-off-britains)
-- [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
-- [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
-- [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
