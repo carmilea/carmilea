@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
+- [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
+- [Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
+- [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
 - [Monotype and Phototypesetting &lpar;2000&rpar; [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
-- [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
-- [&#39;Next-Level&#39; Chaos Traces the True Limit of Predictability](https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/)
-- [Europe&#39;s most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
