@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Auntie PDF – an open source app built using Mistral OCR](https://www.auntiepdf.com/)
 - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-- [Developer sabotaged ex-employer with kill switch that activated when fired](https://www.theregister.com/2025/03/08/developer_server_kill_switch/)
+- [Take It Down Act: A Flawed Attempt to Protect Victims That&#39;ll Lead to Censorship](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship)
 - [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 - [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
-- [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
