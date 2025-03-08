@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
+- [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)
+- [Deploy from local to production &lpar;self-hosted&rpar;](https://github.com/bypirob/airo)
+- [How Much Are LLMs Boosting Real-World Programmer Productivity?](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer)
 - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
 - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
-- [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
-- [Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
