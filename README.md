@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat-Eared Robots Are Waiting Tables in Japan&#39;s Restaurants](https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan)
-- [AI &#39;wingmen&#39; bots to write profiles and flirt on dating apps](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps)
-- [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
-- [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
-- [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
+- [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
+- [Sex Traffickers in Colombia Using Facebook, Tinder and Airbnb to Exploit Minors](https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia)
+- [Sam Bankman-Fried Thrown into Solitary over Tucker Carlson Interview: Report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
+- [Spice Data &lpar;YC S19&rpar; Is Hiring a Founding Senior/Staff Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer)
+- [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
