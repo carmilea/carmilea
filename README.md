@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
 - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
+- [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
 - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
-- [Sex Traffickers in Colombia Using Facebook, Tinder and Airbnb to Exploit Minors](https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia)
 - [Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
 <!-- BLOG-POST-LIST:END -->
 
