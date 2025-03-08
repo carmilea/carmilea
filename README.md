@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI is still dumb and not scary at all &lpar;pt. 1&rpar;](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary)
+- [Maybe coders should learn to love analog? Could they?](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
+- [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
+- [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 - [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
-- [Microsoft Windows 1.0 with Steve Ballmer &lpar;1986&rpar;](https://www.youtube.com/watch?v=EtuDS0ntaJY)
 - [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
-- [Accessibility: Don&#39;t Use Fake Bold or Italic in Social Media](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
