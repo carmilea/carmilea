@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing death penalty by firing squad because it&#39;s safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)
+- [Most Americans just don&#39;t matter to the economy like they once did](https://www.marketwatch.com/story/most-americans-cant-afford-life-anymore-and-they-just-dont-matter-to-the-economy-like-they-used-to-5c5aaca5)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 - [PayPal honey extension has again &quot;featured&quot; flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
+- [Svelte5: A Less Favorable Vue3](https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3)
 - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
-- [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
