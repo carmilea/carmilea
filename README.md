@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing death penalty by firing squad because it&#39;s safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 - [PayPal honey extension has again &quot;featured&quot; flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
 - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
