@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford scientists discover new Ozempic alternative with RegEx](https://twitter.com/lauriewired/status/1898149987890217033)
-- [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
 - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
-- [The DOJ Still Wants Google to Sell Off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
+- [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
+- [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
