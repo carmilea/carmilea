@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer sabotaged ex-employer with kill switch that activated when fired](https://www.theregister.com/2025/03/08/developer_server_kill_switch/)
+- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 - [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
 - [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
 - [Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
-- [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
-- [Monotype and Phototypesetting &lpar;2000&rpar; [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
