@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
+- [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [US support to maintain UK&#39;s nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
 - [Ask HN: Is Cursor deleting working code for you too or is it just me?](https://news.ycombinator.com/item?id=43298275)
 - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
-- [PayPal honey extension has again &quot;featured&quot; flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
