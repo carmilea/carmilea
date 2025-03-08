@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My legal last name prevents me from completing my Twitch affiliate onboarding](https://old.reddit.com/r/Twitch/comments/1j3fvzx/my_legal_last_name_is_preventing_me_from/)
-- [Auntie PDF – an open source app built using Mistral OCR](https://www.auntiepdf.com/)
-- [Exploring the Hybrid Debian GNU/KFreeBSD Distribution](https://www.linuxjournal.com/content/exploring-hybrid-debian-gnukfreebsd-distribution)
+- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
+- [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-- [Take It Down Act: A Flawed Attempt to Protect Victims That&#39;ll Lead to Censorship](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship)
+- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
+- [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
