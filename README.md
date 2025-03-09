@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yhangry &lpar;YC W22&rpar; Consumer Marketplace &lpar;London Based&rpar; Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
-- [Becoming a Good Engineer](https://0x0001.cc/blog/good-engineer.md)
 - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 - [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
+- [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
