@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
 - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
 - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
+- [Rewriting essential Linux packages in Rust](https://lwn.net/Articles/1007907/)
 - [Europe bets once again on RISC-V for supercomputing](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
-- [Infisical &lpar;YC W23&rpar; Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
-- [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
