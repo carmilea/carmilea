@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Helpcare AI &lpar;YC F24&rpar; Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
-- [How to know when it&#39;s time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
-- [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
-- [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
+- [I&#39;ve been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
+- [Why Layoffs Don&#39;t Work](https://thehustle.co/originals/why-layoffs-dont-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
