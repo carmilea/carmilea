@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
+- [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
+- [Where are all the self-directed learners?](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c)
 - [Yhangry &lpar;YC W22&rpar; Consumer Marketplace &lpar;London Based&rpar; Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
-- [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
-- [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
-- [Online Embedded Rust Simulator](https://wokwi.com/rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
