@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-- [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)
 - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 - [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
