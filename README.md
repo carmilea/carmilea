@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe coders should learn to love analog? Could they?](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
+- [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
+- [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)
+- [Maybe coders should learn to love analog? &lpar;2024&rpar;](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
 - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
-- [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
-- [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
