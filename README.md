@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Helpcare AI &lpar;YC F24&rpar; Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [Why Go&#39;s Error Handling Is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
+- [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
+- [How to know when it&#39;s time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 - [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
-- [I&#39;ve been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
-- [Why Layoffs Don&#39;t Work](https://thehustle.co/originals/why-layoffs-dont-work)
-- [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
