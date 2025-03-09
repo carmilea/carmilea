@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yhangry &lpar;YC W22&rpar; Consumer Marketplace &lpar;London Based&rpar; Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
-- [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
-- [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
-- [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
-- [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
+- [Becoming a Good Engineer](https://0x0001.cc/blog/good-engineer.md)
+- [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
+- [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
+- [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
