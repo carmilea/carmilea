@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
+- [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
+- [Europe bets once again on RISC-V for supercomputing](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
 - [Infisical &lpar;YC W23&rpar; Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
-- [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
-- [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
-- [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
-- [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
+- [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
