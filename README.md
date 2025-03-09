@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity](https://www.nature.com/articles/s41586-025-08626-7)
+- [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
+- [El Salvador&#39;s crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
-- [DOGE&#39;s government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
-- [Scientists Just Discovered an RNA That Repairs DNA Damage – It&#39;s a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
+- [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 <!-- BLOG-POST-LIST:END -->
 
