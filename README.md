@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top links on Bluesky, Updated Hourly](https://theblue.report)
+- [Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/)
+- [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)
 - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
 - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
-- [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
-- [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
-- [Europe bets once again on RISC-V for supercomputing](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
