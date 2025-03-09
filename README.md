@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
+- [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
 - [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
+- [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-- [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
-- [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
-- [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 <!-- BLOG-POST-LIST:END -->
 
 ---
