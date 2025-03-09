@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Helpcare AI &lpar;YC F24&rpar; Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
-- [Why Go&#39;s Error Handling Is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
 - [How to know when it&#39;s time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
-- [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
+- [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
+- [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
