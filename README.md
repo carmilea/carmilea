@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helpcare AI &lpar;YC F24&rpar; Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
 - [I&#39;ve been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
+- [Why Layoffs Don&#39;t Work](https://thehustle.co/originals/why-layoffs-dont-work)
 - [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
-- [Where are all the self-directed learners?](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c)
-- [Yhangry &lpar;YC W22&rpar; Consumer Marketplace &lpar;London Based&rpar; Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
-- [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
