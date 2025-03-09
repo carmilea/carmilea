@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State Department Will Use AI to Search for &#39;Pro-Hamas&#39; Students to Deport](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143)
+- [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
-- [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
 - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
+- [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
