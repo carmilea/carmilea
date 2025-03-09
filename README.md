@@ -62,7 +62,7 @@
 - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 - [Stem cell therapy trial reverses &quot;irreversible&quot; damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
-- [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
+- [Online Embedded Rust Simulator](https://wokwi.com/rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
