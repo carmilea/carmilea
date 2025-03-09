@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
+- [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 - [Helpcare AI &lpar;YC F24&rpar; Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
-- [I&#39;ve been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
-- [Why Layoffs Don&#39;t Work](https://thehustle.co/originals/why-layoffs-dont-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
