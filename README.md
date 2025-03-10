@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;ve been wrong about math for 2300 years](https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300)
 - [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122)
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
-- [STEPS Toward the Reinvention of Programming [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
+- [STEPS Toward the Reinvention of Programming &lpar;2012&rpar; [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
+- [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
