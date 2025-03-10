@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Chilling Effects](https://donmoynihan.substack.com/p/real-chilling-effects)
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
 - [Go European: Discover European products and services](https://www.goeuropean.org/)
-- [Longest road and rail tunnel is being built under the Baltic Sea](https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html)
-- [European Cloud Computing Platforms](https://european-alternatives.eu/category/cloud-computing-platforms)
 - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
+- [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
+- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
