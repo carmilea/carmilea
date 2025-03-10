@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
+- [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
+- [Contra Chrome: How Google&#39;s browser became a threat to privacy and democracy](https://contrachrome.com)
 - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
-- [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
-- [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
-- [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
