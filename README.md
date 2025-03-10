@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A bear case: My predictions regarding AI progress](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
+- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
+- [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
-- [Free95: An open-source Windows-compatible operating system](https://github.com/Versoft-Software/Free95)
 - [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
 - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 <!-- BLOG-POST-LIST:END -->
