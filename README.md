@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
-- [US added to international watchlist for rapid decline in civic freedoms](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus)
+- [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
+- [Microsoft&#39;s Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
 - [If you witness a cardiac arrest, here&#39;s what to do](https://www.cbc.ca/lite/story/1.7136483)
 - [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
-- [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
