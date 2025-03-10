@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Unlocking the Power of Generative AI | H2O Generative AI Starter Track - Teaser](https://www.youtube.com/watch?v=IMct8JTFfQw)
 - [Label Genie Starter Track - Take Aways](https://www.youtube.com/watch?v=WAW4FjVSNyo)
 - [AI for Business Growth  #H2OaiUniversity #AI #BusinessGrowth #AIeducation #GenerativeAI #LLM](https://www.youtube.com/watch?v=dk4N-BB-LjM)
 - [A Quick Overview of H2O.ai Agents | H2O Generative AI Starter Track - Part 16](https://www.youtube.com/watch?v=BW_ZV5jgeks)
 - [SQL 101 - Ep 6 - HAVING Clause | Learn with SingleStore](https://www.youtube.com/watch?v=uY7q-VH6JMw)
-- [SQL 101 - Ep 5 - GROUP BY Clause | Learn with SingleStore](https://www.youtube.com/watch?v=ZLlkT1We8X4)
 <!-- YOUTUBE:END -->
 
 
