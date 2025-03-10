@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025](https://www.yaps.chat/)
-- [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
-- [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
-- [Contra Chrome: How Google&#39;s browser became a threat to privacy and democracy](https://contrachrome.com)
-- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
+- [Real Chilling Effects](https://donmoynihan.substack.com/p/real-chilling-effects)
+- [Go European: Discover European products and services](https://www.goeuropean.org/)
+- [Longest road and rail tunnel is being built under the Baltic Sea](https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html)
+- [European Cloud Computing Platforms](https://european-alternatives.eu/category/cloud-computing-platforms)
+- [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
