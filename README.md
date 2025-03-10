@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone](https://alex-j-lowry.github.io/leningrd.html)
+- [You suck at CSS &lpar;and that&#39;s okay&rpar;[2022]](https://rexriepe.com/yousuckatcss/)
+- [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
 - [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
-- [British tourist detained by US authorities for 10 days over visa issue](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue)
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
 <!-- BLOG-POST-LIST:END -->
