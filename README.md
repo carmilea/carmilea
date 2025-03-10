@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Editable Games](https://playscl.com/make)
-- [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
-- [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
-- [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
-- [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory &lpar;2022&rpar;](https://physics.aps.org/articles/v18/53)
+- [Generative AI Hype Peaking](https://bjornwestergard.com/generative-ai-hype-peaking/)
+- [Does Visual Studio Rot the Mind? &lpar;2005&rpar;](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
+- [Ceramic powders with Archimedean shapes resist extreme heat and oxidation](https://phys.org/news/2025-02-ceramic-powders-archimedean-resist-extreme.html)
+- [X.com Is Down](https://www.isitdownrightnow.com/twitter.com.html)
+- [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
