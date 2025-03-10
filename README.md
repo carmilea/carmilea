@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
+- [Steve Wozniak says Tesla &#39;is the worst in the world&#39; at improving its technology](https://fortune.com/2025/03/07/steve-wozniak-says-tesla-is-worst-at-improving-driver-tech/)
+- [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
 - [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
 - [Contra Chrome: How Google&#39;s browser became a threat to privacy and democracy](https://contrachrome.com)
 - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
-- [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
