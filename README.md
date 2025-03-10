@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Editable Games](https://playscl.com/make)
+- [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
+- [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
 - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory &lpar;2022&rpar;](https://physics.aps.org/articles/v18/53)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
-- [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
