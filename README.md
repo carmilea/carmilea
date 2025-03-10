@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wall Street sell-off turns &#39;ugly&#39; as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
+- [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
+- [Software-Defined Radio for Engineers &lpar;2018&rpar; [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
+- [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [Generative AI Hype Peaking](https://bjornwestergard.com/generative-ai-hype-peaking/)
-- [Does Visual Studio Rot the Mind? &lpar;2005&rpar;](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
-- [Ceramic powders with Archimedean shapes resist extreme heat and oxidation](https://phys.org/news/2025-02-ceramic-powders-archimedean-resist-extreme.html)
-- [X.com Is Down](https://www.isitdownrightnow.com/twitter.com.html)
-- [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
