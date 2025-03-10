@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A bear case: predictions regarding AI](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
+- [Free95: An open-source Windows-compatible operating system](https://github.com/Versoft-Software/Free95)
 - [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
 - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
-- [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
-- [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
