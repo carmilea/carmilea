@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
+- [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory &lpar;2022&rpar;](https://physics.aps.org/articles/v18/53)
 - [FurtherAI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
 - [Go European: Discover European products and services](https://www.goeuropean.org/)
 - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
-- [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
-- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
