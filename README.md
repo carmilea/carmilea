@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Wozniak says Tesla &#39;is the worst in the world&#39; at improving its technology](https://fortune.com/2025/03/07/steve-wozniak-says-tesla-is-worst-at-improving-driver-tech/)
+- [Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025](https://www.yaps.chat/)
 - [Trees not profits: we&#39;re giving up our right to ever sell Ecosia &lpar;2018&rpar;](https://blog.ecosia.org/trees-not-profits/)
 - [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
 - [Contra Chrome: How Google&#39;s browser became a threat to privacy and democracy](https://contrachrome.com)
