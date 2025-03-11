@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steal My Tesla](http://stealmytesla.com/)
-- [&quot;It Has Been Determined&quot; That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
+- [Ask HN: How do you have effective 1:1s with your manager?](https://news.ycombinator.com/item?id=43337028)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [&quot;It has been determined&quot; that infected dairy herd serology can be disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
 - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
-- [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
