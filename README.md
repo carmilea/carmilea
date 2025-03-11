@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pets Can&#39;t Stop Watching &#39;Flow,&#39; the Oscar-Winning Cat Movie](https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html)
 - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 - [Shef](https://github.com/eduardoagarcia/shef)
 - [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
 - [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
-- [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
