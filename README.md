@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
+- [UK petition to keep Apple data encrypted](https://you.38degrees.org.uk/petitions/keep-our-apple-data-encrypted)
+- [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
 - [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 - [Legion Health &lpar;YC S21&rpar; is hiring an AI/ML Engineer](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows)
-- [Show HN: Program Explorer](https://programexplorer.org/)
-- [Fastplotlib: Driving scientific discovery through data visualization](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
-- [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
