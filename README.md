@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
+- [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
 - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
-- [UK petition to keep Apple data encrypted](https://you.38degrees.org.uk/petitions/keep-our-apple-data-encrypted)
 - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
 - [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
-- [Legion Health &lpar;YC S21&rpar; is hiring an AI/ML Engineer](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
