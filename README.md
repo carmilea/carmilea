@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping the University of Chicago&#39;s 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
 - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 - [What Makes Code Hard to Read: Visual Patterns of Complexity &lpar;2023&rpar;](https://seeinglogic.com/posts/visual-readability-patterns/)
 - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
-- [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
