@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
+- [Saving U.S. Climate and Environmental Data Before It Goes Away](https://e360.yale.edu/features/eric-nost-interview)
+- [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
-- [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
-- [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
-- [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 <!-- BLOG-POST-LIST:END -->
 
 ---
