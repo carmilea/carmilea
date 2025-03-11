@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
+- [Unix Needs a True Integrated Environment: CASE Closed &lpar;1989&rpar; [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [India&#39;s Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
 - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
-- [How do we tell truths that might hurt? &lpar;1975&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
-- [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
-- [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
