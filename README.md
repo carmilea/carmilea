@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
+- [New Zealand&#39;s $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 - [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-- [Shef](https://github.com/eduardoagarcia/shef)
-- [Bending Spacetime in the Basement &lpar;1997&rpar;](https://www.fourmilab.ch/gravitation/foobar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
