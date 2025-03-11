@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You suck at CSS &lpar;and that&#39;s okay&rpar;[2022]](https://rexriepe.com/yousuckatcss/)
+- [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
 - [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
 - [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
