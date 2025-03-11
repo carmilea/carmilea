@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A succinct email in just a subject line](https://rubenerd.com/a-succinct-email-in-just-a-subject-line/)
 - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
-- [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
-- [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-- [Shef](https://github.com/eduardoagarcia/shef)
-- [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
+- [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
+- [Nasdaq halts high-speed trading service after regulatory pressure](https://www.ft.com/content/d062eb67-4fa7-4b72-bbf8-6cb27bef2202)
+- [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
