@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are things to work on that are not AI or QC?](https://news.ycombinator.com/item?id=43329030)
+- [Cloudflare blocking Pale Moon and other browsers](https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/)
+- [Leopards, Faces, etc.](https://blog.plover.com/politics/mangione.html)
 - [Pets Can&#39;t Stop Watching &#39;Flow,&#39; the Oscar-Winning Cat Movie](https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html)
-- [White House: Stock market plunge is not as &#39;meaningful&#39; as business activity](https://www.cnbc.com/2025/03/10/white-house-stock-market-sell-off-animal-spirits.html)
 - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 - [Shef](https://github.com/eduardoagarcia/shef)
 <!-- BLOG-POST-LIST:END -->
