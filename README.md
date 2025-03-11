@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
+- [Legion Health &lpar;YC S21&rpar; is hiring an AI/ML Engineer](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows)
+- [Show HN: Program Explorer](https://programexplorer.org/)
+- [Fastplotlib: Driving scientific discovery through data visualization](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 - [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
-- [Saving U.S. Climate and Environmental Data Before It Goes Away](https://e360.yale.edu/features/eric-nost-interview)
-- [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
-- [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
-- [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
