@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 - [What Makes Code Hard to Read: Visual Patterns of Complexity &lpar;2023&rpar;](https://seeinglogic.com/posts/visual-readability-patterns/)
 - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
-- [Meta must defend claim it stripped copyright info from Llama&#39;s training fodder](https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/)
-- [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
+- [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
