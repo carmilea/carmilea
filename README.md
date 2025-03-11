@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare blocking Pale Moon and other browsers](https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/)
-- [Leopards, Faces, etc.](https://blog.plover.com/politics/mangione.html)
-- [Pets Can&#39;t Stop Watching &#39;Flow,&#39; the Oscar-Winning Cat Movie](https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html)
+- [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
+- [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 - [Shef](https://github.com/eduardoagarcia/shef)
+- [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
