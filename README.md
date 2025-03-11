@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steal My Tesla](http://stealmytesla.com/)
+- [&quot;It Has Been Determined&quot; That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
 - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
 - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
-- [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
-- [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
