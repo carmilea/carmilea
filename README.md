@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping the University of Chicago&#39;s 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
-- [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
-- [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
-- [What Makes Code Hard to Read: Visual Patterns of Complexity &lpar;2023&rpar;](https://seeinglogic.com/posts/visual-readability-patterns/)
-- [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
+- [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
+- [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
+- [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+- [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
+- [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 <!-- BLOG-POST-LIST:END -->
 
 ---
