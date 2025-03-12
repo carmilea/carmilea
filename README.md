@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 10k Day](https://blog.comma.ai/happy10kday/)
 - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
 - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
 - [The Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 - [Unix Needs a True Integrated Environment: CASE Closed &lpar;1989&rpar; [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
