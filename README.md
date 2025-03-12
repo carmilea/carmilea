@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
-- [Tell Mozilla: it&#39;s time to ditch Google](https://mozillapetition.com/)
 - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 - [I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
 - [I use Cursor daily - here&#39;s how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
+- [Azure&#39;s Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
+- [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
