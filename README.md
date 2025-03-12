@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a movie recommendation app based on your mood](https://www.moodiemovie.top/)
+- [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
+- [I use Cursor daily - here&#39;s how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
+- [Azure&#39;s Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
-- [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
-- [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
-- [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
-- [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
