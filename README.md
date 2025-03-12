@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla&#39;s response to proposed remedies in U.S. vs. Google](https://blog.mozilla.org/en/mozilla/internet-policy/proposed-remedies-browsers/)
+- [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
 - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 - [A look at the creative process behind Bluey and Cocomelon](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
