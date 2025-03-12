@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
-- [How far neuroscience is from understanding brains &lpar;2023&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
-- [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
-- [Pivot Robotics &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
-- [The Future Is Niri](https://ersei.net/en/blog/niri)
+- [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
+- [Reverse Engineering OpenAI Code Execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
+- [Show HN: AudioNimbus – Steam Audio&#39;s immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
+- [&#39;It was chaos&#39;: The history of San Francisco&#39;s most unforgettable ad](https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php)
+- [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
