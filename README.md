@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
 - [Show HN: Nuanced – Help AI understand code structure, not just text](https://www.nuanced.dev/blog/initial-launch)
 - [Artie &lpar;YC S23&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
 - [Shenmue &lpar;1999&rpar; Reverse Engineering Reveals Possible Sun Position Oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
 - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
-- [Reverse Engineering OpenAI Code Execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
