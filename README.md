@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a movie recommendation app based on your mood](https://www.moodiemovie.top/)
 - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 - [I use Cursor daily - here&#39;s how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
 - [Azure&#39;s Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+- [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
