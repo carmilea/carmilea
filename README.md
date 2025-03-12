@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Night Watch by James Mickens is a fantastic read [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
+- [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
+- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 - [Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
-- [Intel Appoints Lip-Bu Tan as Its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
-- [Show HN: Time Portal – Get dropped into history, guess where you landed](https://www.eggnog.ai/entertimeportal)
-- [Zinc, a systems programming language prototype](https://sr.ht/~oconnor0/zinc/)
+- [Chris Moore, illustrator for classic sci-fi books, has died](https://www.nytimes.com/2025/03/12/arts/chris-moore-dead.html)
+- [Intel appoints Lip-Bu Tan as its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
