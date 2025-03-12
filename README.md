@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 - [How far neuroscience is from understanding brains &lpar;2023&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
 - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 - [Pivot Robotics &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
 - [The Future Is Niri](https://ersei.net/en/blog/niri)
-- [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
