@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why it makes sense for wealthier nations to help others decarbonize](https://www.nature.com/articles/d41586-025-00779-9)
+- [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
+- [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
+- [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 - [&quot;Have Quotes About Salieri&quot;](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
-- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
-- [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
-- [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
-- [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
