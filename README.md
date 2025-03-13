@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
+- [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
+- [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 - [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
-- [Carefully but Purposefully Oxidising Ubuntu](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995)
-- [Are There Opportunities to Use OODA Loops in Your Software Project?](https://spin.atomicobject.com/ooda-loops-software-project/)
-- [Shadeform &lpar;YC S23&rpar; is hiring a senior founding engineer](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer)
-- [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
+- [Statistical Formulas for Programmers &lpar;2013&rpar;](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
