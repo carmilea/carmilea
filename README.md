@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is trying to stop a former employee from promoting her book about Facebook](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html)
+- [Mercedes-Benz Drives Toward Solid-State EV Batteries](https://spectrum.ieee.org/mercedes-benz)
+- [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
 - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 - [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
-- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
-- [Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
-- [Intel appoints Lip-Bu Tan as its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
