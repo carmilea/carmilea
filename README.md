@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei targeted in new European Parliament corruption probe](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe)
+- [Game Boy Advance Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy-advance/)
 - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 - [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
-- [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
-- [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 <!-- BLOG-POST-LIST:END -->
 
 ---
