@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why it makes sense for wealthier nations to help others decarbonize](https://www.nature.com/articles/d41586-025-00779-9)
+- [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
+- [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
 - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
 - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
 - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
-- [&quot;Have Quotes About Salieri&quot;](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
