@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 - [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
 - [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
 - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
-- [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
