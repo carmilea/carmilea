@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Pi Almost Wasn&#39;t](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
+- [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
 - [Voker &lpar;YC S24&rpar; Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
 - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 - [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
-- [&quot;Normal&quot; engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
-- [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
