@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 - [Huawei targeted in new European Parliament corruption probe](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe)
 - [Game Boy Advance Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy-advance/)
 - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
-- [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
