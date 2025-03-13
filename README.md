@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
+- [Pirate Bay co-founder Carl Lundström has died](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html)
+- [Revealed: How the UK tech secretary uses ChatGPT for policy advice](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/)
 - [Shadeform &lpar;YC S23&rpar; is hiring a senior founding engineer](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer)
 - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
-- [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
