@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
+- [Why &quot;Normal&quot; Engineers Are the Key to Great Teams](https://spectrum.ieee.org/10x-engineer)
 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 - [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
 - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
-- [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
-- [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
