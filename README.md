@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Have Quotes About Salieri&quot;](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
+- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+- [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
 - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
-- [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
-- [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
-- [Statistical Formulas for Programmers &lpar;2013&rpar;](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
