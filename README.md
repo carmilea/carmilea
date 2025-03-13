@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voker &lpar;YC S24&rpar; Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
+- [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 - [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
-- [Why &quot;Normal&quot; Engineers Are the Key to Great Teams](https://spectrum.ieee.org/10x-engineer)
+- [&quot;Normal&quot; engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
-- [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
-- [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
