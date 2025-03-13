@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
-- [Released my full transputer OS, K&amp;R C compiler and utilities &lpar;1996&rpar;](https://nanochess.org/transputer_operating_system.html)
+- [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
 - [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
 - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 - [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
