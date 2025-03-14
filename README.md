@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Any&rpar; 8-hour time-restricted-eating window effective for weight loss](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss)
+- [The School Car Pickup Line Is a National Embarrassment](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national)
+- [The Curious Surge of Productivity in U.S. Restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
+- [You Can Make Postgres Scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
 - [Prequel &lpar;YC W21&rpar; Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
-- [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
-- [The 2FA app that tells you when you get `314159` &lpar;2024&rpar;](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
-- [&#39;A lot worse than expected&#39;: AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
-- [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
