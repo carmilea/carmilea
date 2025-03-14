@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
+- [East Asian personality may stem from Ice Age Siberia 20000 yrs ago](https://davidsun.substack.com/p/the-origins-of-arcticism-theory)
+- [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
 - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
 - [Chrome for Android doesn&#39;t have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
-- [Apple&#39;s Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes](https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes)
-- [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
-- [&lpar;Any&rpar; 8-hour time-restricted-eating window effective for weight loss](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
