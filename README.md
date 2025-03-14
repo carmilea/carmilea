@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
+- [Cwtch – Privacy Preserving Messaging](https://docs.cwtch.im/)
+- [FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-- [East Asian personality may stem from Ice Age Siberia 20000 yrs ago](https://davidsun.substack.com/p/the-origins-of-arcticism-theory)
-- [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
-- [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
-- [Chrome for Android doesn&#39;t have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
+- [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
