@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prequel &lpar;YC W21&rpar; Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
 - [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
+- [The 2FA app that tells you when you get `314159` &lpar;2024&rpar;](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 - [&#39;A lot worse than expected&#39;: AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
 - [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
-- [Why Do Transit Agencies Keep Falling for the Hydrogen Bus Myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
-- [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
