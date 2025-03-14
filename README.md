@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI declares AI race &quot;over&quot; if training on copyrighted works isn&#39;t fair use](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/)
+- [&#39;Profit-Enhancing Middlemen&#39; Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
 - [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
-- [Ask HN: How to study for system design that doesn&#39;t include front end/back end?](https://news.ycombinator.com/item?id=43358293)
-- [Would {word1} beat {word2} • Ranked AI game](https://www.word-battle.com/)
-- [How Pi Almost Wasn&#39;t](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
+- [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
