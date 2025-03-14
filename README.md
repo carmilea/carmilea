@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI declares AI race &quot;over&quot; if training on copyrighted works isn&#39;t fair use](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/)
+- [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
+- [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
 - [&#39;Profit-Enhancing Middlemen&#39; Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
-- [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
-- [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
+- [The 2008 coal ash disaster in Kingston, Tennessee](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
 <!-- BLOG-POST-LIST:END -->
 
 ---
