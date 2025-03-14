@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
 - [GCVR &lpar;YC W22&rpar; Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
 - [Cwtch – Privacy Preserving Messaging](https://docs.cwtch.im/)
+- [Tariffs Are Proving &#39;Big Headache&#39; for Tech Giants, Says Foxconn](https://www.ft.com/content/cc290f55-e45a-42b1-bf2d-cf323053fade)
 - [FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
-- [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-- [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
