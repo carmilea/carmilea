@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
+- [&#39;A lot worse than expected&#39;: AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
+- [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
+- [Why Do Transit Agencies Keep Falling for the Hydrogen Bus Myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
 - [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
-- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
-- [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
-- [Stoicism&#39;s Appeal to the Rich and Powerful &lpar;2019&rpar;](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
