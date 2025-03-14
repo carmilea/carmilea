@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
-- [Recurse Center &lpar;YC S10&rpar; Is Hiring an Office and Operations Assistant &lpar;New York&rpar;](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
-- [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
-- [AMD&#39;s Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
-- [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
+- [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
+- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
+- [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
+- [Stoicism&#39;s Appeal to the Rich and Powerful &lpar;2019&rpar;](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
