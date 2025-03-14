@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
+- [Chrome for Android doesn&#39;t have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
+- [Apple&#39;s Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes](https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes)
+- [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 - [&lpar;Any&rpar; 8-hour time-restricted-eating window effective for weight loss](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss)
-- [The School Car Pickup Line Is a National Embarrassment](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national)
-- [The Curious Surge of Productivity in U.S. Restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
-- [You Can Make Postgres Scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
-- [Prequel &lpar;YC W21&rpar; Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
