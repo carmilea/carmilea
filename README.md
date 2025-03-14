@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Recapping the Three Paradigms of AI | H2O Generative AI Starter Track - Part 2](https://www.youtube.com/watch?v=Pog32r2IkNw)
 - [[Webinar] Beyond the Black Box: Making GenAI Safe for Banking &amp; Finance with H2O.ai MRM Framework](https://www.youtube.com/watch?v=-VvLwib6vaM)
 - [Overview - Generative AI Fundamentals | H2O Generative AI Starter Track - Part 1](https://www.youtube.com/watch?v=vn75WfUUAV0)
 - [Unlocking the Power of Generative AI | H2O Generative AI Starter Track - Teaser](https://www.youtube.com/watch?v=IMct8JTFfQw)
 - [Label Genie Starter Track - Take Aways](https://www.youtube.com/watch?v=WAW4FjVSNyo)
-- [AI for Business Growth  #H2OaiUniversity #AI #BusinessGrowth #AIeducation #GenerativeAI #LLM](https://www.youtube.com/watch?v=dk4N-BB-LjM)
 <!-- YOUTUBE:END -->
 
 
