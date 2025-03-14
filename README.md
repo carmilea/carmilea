@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI calls on U.S. Government to let it freely use copyrighted material](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan/)
+- [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
+- [The End of YC](https://benn.substack.com/p/the-end-of-yc)
 - [Ex-Facebook director&#39;s new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
-- [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
 - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
-- [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
-- [&#39;Profit-Enhancing Middlemen&#39; Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
