@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
+- [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
+- [Ask HN: How to study for system design that doesn&#39;t include front end/back end?](https://news.ycombinator.com/item?id=43358293)
+- [Would {word1} beat {word2} • Ranked AI game](https://www.word-battle.com/)
 - [How Pi Almost Wasn&#39;t](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
-- [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
-- [Voker &lpar;YC S24&rpar; Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
-- [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
-- [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
