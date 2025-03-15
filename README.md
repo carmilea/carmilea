@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunset Geometry &lpar;2016&rpar;](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+- [Is our universe trapped inside a black hole? This JWS Telescope discovery](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Cradle – Open-Source Collaborative Threat Intelligence Hub](https://cradle.sh/)
 - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
-- [Finland&#39;s National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
-- [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
