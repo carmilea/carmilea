@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
+- [Optifye.ai &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
+- [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
 - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
 - [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
 - [&#39;Once in a Century&#39; Proof Settles Math&#39;s Kakeya Conjecture](https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/)
-- [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
