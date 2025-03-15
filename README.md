@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Microlightning&#39; in water droplets may have sparked life on Earth](https://phys.org/news/2025-03-microlightning-droplets-life-earth.html)
+- [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
+- [Finland&#39;s National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
 - [Noloco &lpar;YC S21&rpar; Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
-- [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
-- [Using a graphics tablet as a programming tool &lpar;2018&rpar;](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
-- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
