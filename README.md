@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
+- [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
+- [&#39;Once in a Century&#39; Proof Settles Math&#39;s Kakeya Conjecture](https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/)
+- [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
 - [New York Times shut down Tor Onion service](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
-- [ICE Returns All Migrants from Guantánamo to Stateside Facilities](https://www.nytimes.com/2025/03/12/us/politics/ice-migrants-guantanamo.html)
-- [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
-- [GCVR &lpar;YC W22&rpar; is hiring a lead technical artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
-- [FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
