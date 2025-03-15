@@ -61,8 +61,8 @@
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Cradle – Open-Source Collaborative Threat Intelligence Hub](https://cradle.sh/)
 - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
-- [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
 - [Finland&#39;s National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
+- [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
