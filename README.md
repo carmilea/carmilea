@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Noloco &lpar;YC S21&rpar; Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
-- [Optifye.ai &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
 - [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
+- [Using a graphics tablet as a programming tool &lpar;2018&rpar;](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
 - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
-- [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
