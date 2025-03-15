@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
+- [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
+- [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
+- [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood)
 - [Sunset Geometry &lpar;2016&rpar;](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
-- [Is our universe trapped inside a black hole? This JWS Telescope discovery](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
-- [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
