@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collatzeral damage: bitwise and proof foolish](https://soatok.blog/2025/01/06/collatzeral-damage-bitwise-and-proof-foolish/)
+- [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
 - [Parahelp &lpar;YC S24&rpar; Is Hiring Founding Engineers &lpar;SF&rpar;](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 - [Show HN: Aiopandas – Async .apply&lpar;&rpar; and .map&lpar;&rpar; for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
-- [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
-- [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
