@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
+- [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
 - [Stellar Sleep &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+- [LearnLM: An experimental task-specific model for learning science principles &lpar;2024&rpar;](https://ai.google.dev/gemini-api/docs/learnlm)
 - [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
-- [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
-- [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
-- [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
