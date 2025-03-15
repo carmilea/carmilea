@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellar Sleep &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+- [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
+- [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
 - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
-- [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
-- [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood)
-- [Sunset Geometry &lpar;2016&rpar;](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
