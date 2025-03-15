@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 - [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
+- [Elderly patients can deteriorate in the ER. This team works to get them out](https://www.cbc.ca/radio/whitecoat/geriatric-er-care-1.7478304)
 - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
 - [Stellar Sleep &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
-- [LearnLM: An experimental task-specific model for learning science principles &lpar;2024&rpar;](https://ai.google.dev/gemini-api/docs/learnlm)
-- [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
