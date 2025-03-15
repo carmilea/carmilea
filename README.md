@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parahelp &lpar;YC S24&rpar; Is Hiring Founding Engineers &lpar;SF&rpar;](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+- [Show HN: Aiopandas – Async .apply&lpar;&rpar; and .map&lpar;&rpar; for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
 - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
 - [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
-- [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
-- [Stellar Sleep &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
