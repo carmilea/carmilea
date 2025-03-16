@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imagine an Agent that can hot-reload tools. Open-source](https://github.com/ShaojieJiang/extendable-agent)
+- [Career Advice in 2025](https://lethain.com/career-advice-2025/)
 - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
 - [Mandelbrot Set Explorer](https://mandelbrot.site)
 - [Parahelp &lpar;YC S24&rpar; Is Hiring Founding Engineers &lpar;SF&rpar;](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
-- [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
-- [Show HN: Aiopandas – Async .apply&lpar;&rpar; and .map&lpar;&rpar; for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
