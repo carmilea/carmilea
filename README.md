@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-- [&#39;Bloody Saturday&#39; at Voice of America and other U.S.-funded networks](https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake)
-- [How our noisy world is seriously damaging our health](https://www.bbc.com/news/articles/crmjdm2m4yjo)
-- [AI Is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
-- [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
+- [Kastle &lpar;YC S24&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
+- [Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/)
+- [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
+- [Leaked Apple meeting shows how dire the Siri situation is](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features)
+- [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
