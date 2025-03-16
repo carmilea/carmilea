@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Interfaces Have Lost Their Senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
-- [Teach, Don&#39;t Tell &lpar;2013&rpar;](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
-- [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
-- [Abuse of power at Germany&#39;s elite research institution [video]](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207)
-- [&quot;Wait, not like that&quot;: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
+- [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+- [&#39;Bloody Saturday&#39; at Voice of America and other U.S.-funded networks](https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake)
+- [How our noisy world is seriously damaging our health](https://www.bbc.com/news/articles/crmjdm2m4yjo)
+- [AI Is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
+- [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
