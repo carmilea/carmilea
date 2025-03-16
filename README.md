@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My high school team&#39;s space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
 - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 - [Implementing &quot;Tennis for Two&quot; using op amps &lpar;2024&rpar;](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
 - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
 - [More pro for the DEC Professional 380 &lpar;featuring PRO/VENIX&rpar;](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
-- [Apple&#39;s long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
