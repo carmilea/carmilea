@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
+- [DiceDB](https://dicedb.io/)
 - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
-- [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)
-- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com/content)
-- [Big LLMs weights are a piece of history](https://antirez.com/news/147)
-- [Lago &lpar;Open-Source Usage Based Billing&rpar;Is Hiring Sr Ruby Engineers &lpar;Latam&rpar;](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
+- [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
+- [Learn You Some Erlang for Great Good &lpar;2013&rpar;](https://learnyousomeerlang.com/content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
