@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lago &lpar;Open-Source Usage Based Billing&rpar;Is Hiring Sr Ruby Engineers &lpar;Latam&rpar;](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
+- [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
+- [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 - [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
 - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
-- [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
-- [Show HN: My high school team&#39;s space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
-- [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
