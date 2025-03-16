@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine an Agent that can hot-reload tools. Open-source](https://github.com/ShaojieJiang/extendable-agent)
+- [Apple&#39;s long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
 - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
 - [Mandelbrot Set Explorer](https://mandelbrot.site)
