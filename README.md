@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
+- [Abuse of power at Germany&#39;s elite research institution [video]](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207)
+- [&quot;Wait, not like that&quot;: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=43380440)
-- [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
-- [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
-- [Big LLMs weights are a piece of history](https://antirez.com/news/147)
-- [Raytracing on Intel&#39;s Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
+- [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
