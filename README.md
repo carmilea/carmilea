@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
-- [DiceDB](https://dicedb.io/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=43380440)
 - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
-- [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
 - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
+- [Big LLMs weights are a piece of history](https://antirez.com/news/147)
+- [Raytracing on Intel&#39;s Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
