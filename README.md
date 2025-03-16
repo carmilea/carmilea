@@ -62,7 +62,7 @@
 - [DiceDB](https://dicedb.io/)
 - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 - [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
-- [Learn You Some Erlang for Great Good &lpar;2013&rpar;](https://learnyousomeerlang.com/content)
+- [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
