@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft paywalling features in Notepad and Paint](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html)
 - [Kastle &lpar;YC S24&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
-- [Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/)
 - [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
 - [Leaked Apple meeting shows how dire the Siri situation is](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features)
 - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
