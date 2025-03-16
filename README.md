@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
+- [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
 - [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 - [Show HN: My high school team&#39;s space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
 - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
-- [Implementing &quot;Tennis for Two&quot; using op amps &lpar;2024&rpar;](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
-- [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
