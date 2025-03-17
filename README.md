@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI Courses by H2O.ai Univeristy is now on Coursera](https://www.youtube.com/watch?v=UtRO0QcJl-0)
 - [The Importance of Prompt Engineering | H2O Generative AI Starter Track - Part 3](https://www.youtube.com/watch?v=VFyMfMVgdOE)
 - [Recapping the Three Paradigms of AI | H2O Generative AI Starter Track - Part 2](https://www.youtube.com/watch?v=Pog32r2IkNw)
 - [[Webinar] Beyond the Black Box: Making GenAI Safe for Banking &amp; Finance with H2O.ai MRM Framework](https://www.youtube.com/watch?v=-VvLwib6vaM)
 - [Overview - Generative AI Fundamentals | H2O Generative AI Starter Track - Part 1](https://www.youtube.com/watch?v=vn75WfUUAV0)
-- [Unlocking the Power of Generative AI | H2O Generative AI Starter Track - Teaser](https://www.youtube.com/watch?v=IMct8JTFfQw)
 <!-- YOUTUBE:END -->
 
 
