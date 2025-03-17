@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
 - [Luthor &lpar;YC F24&rpar; Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
+- [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
 - [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
 - [Occupry your next lease to negotiate a better deal](https://occupry.com)
-- [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
-- [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
