@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Luthor &lpar;YC F24&rpar; Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
+- [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
+- [Occupry your next lease to negotiate a better deal](https://occupry.com)
 - [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
 - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
-- [Piramidal &lpar;YC W24&rpar; is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
-- [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
-- [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
