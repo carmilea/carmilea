@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
+- [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
+- [Darker Than a Dark Pool? Welcome to Wall Street&#39;s &#39;Private Rooms&#39;](https://finance.yahoo.com/news/darker-dark-pool-welcome-wall-210011026.html)
 - [Piramidal &lpar;YC W24&rpar; is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
-- [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
-- [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
-- [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
-- [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
+- [Alphabet spins out Taara – Internet over lasers](https://x.company/blog/posts/taara-graduation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
