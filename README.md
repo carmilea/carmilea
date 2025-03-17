@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [uv overtakes Poetry &lpar;for Wagtail users&rpar;](https://wagtail.org/blog/uv-overtakes-poetry/)
+- [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
+- [uv downloads overtake Poetry for Wagtail users](https://wagtail.org/blog/uv-overtakes-poetry/)
+- [A Facebook Insider&#39;s Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 - [The exceptional Jordan algebra &lpar;2020&rpar;](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
-- [The Alexa feature &quot;Do Not Send Voice Recordings&quot; you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
-- [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
-- [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
+- [Technical Mathematics &lpar;1954&rpar; [pdf]](https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
