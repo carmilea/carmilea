@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
+- [Pine64&#39;s RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
+- [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
 - [uv downloads overtake Poetry for Wagtail users](https://wagtail.org/blog/uv-overtakes-poetry/)
 - [A Facebook Insider&#39;s Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 - [The exceptional Jordan algebra &lpar;2020&rpar;](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
-- [Technical Mathematics &lpar;1954&rpar; [pdf]](https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
