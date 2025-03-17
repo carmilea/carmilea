@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Secret Mortgage Blacklist Is Leaving Homeowners Stuck with Unsellable Condos](https://www.wsj.com/finance/regulation/condo-sales-home-insurance-crisis-a921362b)
 - [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
 - [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 - [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
 - [Show HN: A bi-directional, persisted KV store that is faster than Redis](https://hpkv.io)
-- [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring Remote Engineers](https://www.nango.dev/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
