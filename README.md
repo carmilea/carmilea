@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pine64&#39;s RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
-- [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
-- [uv downloads overtake Poetry for Wagtail users](https://wagtail.org/blog/uv-overtakes-poetry/)
-- [A Facebook Insider&#39;s Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
-- [The exceptional Jordan algebra &lpar;2020&rpar;](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
+- [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
+- [Configure Azure Entra ID as IdP on Keycloak](https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/)
+- [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring Remote Engineers](https://www.nango.dev/careers)
+- [Scientists discover first known animal that doesn&#39;t breathe](https://www.livescience.com/first-non-breathing-animal.html)
+- [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
