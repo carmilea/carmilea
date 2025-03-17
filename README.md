@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;We remember as true things that never even happened&#39;: Julian Barnes](https://www.theguardian.com/books/2025/mar/16/we-remember-as-true-things-that-never-even-happened-julian-barnes-on-memory-and-changing-his-mind)
+- [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
+- [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
 - [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring Remote Engineers](https://www.nango.dev/careers)
-- [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
-- [Pine64&#39;s RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
-- [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
+- [Converting C to ASM to specs and then to a working Z/80 Speccy tape](https://ghuntley.com/z80/)
+- [Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
