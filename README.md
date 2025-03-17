@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [uv overtakes Poetry &lpar;for Wagtail users&rpar;](https://wagtail.org/blog/uv-overtakes-poetry/)
 - [The exceptional Jordan algebra &lpar;2020&rpar;](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
 - [The Alexa feature &quot;Do Not Send Voice Recordings&quot; you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
 - [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
-- [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
