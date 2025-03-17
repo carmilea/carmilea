@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brown Medicine professor and doctor deported to Lebanon despite valid visa](https://www.nbcnews.com/news/us-news/brown-medicine-professor-doctor-deported-lebanon-valid-visa-court-fili-rcna196638)
-- [SpaceX asks US to address foreign trade barriers](https://www.reuters.com/technology/elon-musks-spacex-asks-us-address-foreign-trade-barriers-2025-03-14/)
 - [The Alexa feature &quot;Do Not Send Voice Recordings&quot; you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
+- [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
 - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
+- [Kastle &lpar;YC S24&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
