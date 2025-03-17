@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Net Zero by 2050 Is &#39;Impossible,&#39; UK Tory Leader Badenoch Says](https://www.bloomberg.com/news/articles/2025-03-17/net-zero-by-2050-is-impossible-uk-tory-leader-badenoch-says)
+- [What Will the Betelgeuse Supernova Be Like – and Will It Hurt Us?](https://www.universetoday.com/articles/what-will-the-betelgeuse-supernova-be-like-and-will-it-hurt-us)
+- [Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B](https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion)
+- [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)
 - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
-- [Luthor &lpar;YC F24&rpar; Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
-- [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
-- [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
-- [Occupry your next lease to negotiate a better deal](https://occupry.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
