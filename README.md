@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
-- [Configure Azure Entra ID as IdP on Keycloak](https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/)
+- [&#39;We remember as true things that never even happened&#39;: Julian Barnes](https://www.theguardian.com/books/2025/mar/16/we-remember-as-true-things-that-never-even-happened-julian-barnes-on-memory-and-changing-his-mind)
 - [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring Remote Engineers](https://www.nango.dev/careers)
-- [Scientists discover first known animal that doesn&#39;t breathe](https://www.livescience.com/first-non-breathing-animal.html)
 - [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
+- [Pine64&#39;s RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
+- [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
