@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
 - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
-- [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
-- [Darker Than a Dark Pool? Welcome to Wall Street&#39;s &#39;Private Rooms&#39;](https://finance.yahoo.com/news/darker-dark-pool-welcome-wall-210011026.html)
 - [Piramidal &lpar;YC W24&rpar; is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
-- [Alphabet spins out Taara – Internet over lasers](https://x.company/blog/posts/taara-graduation/)
+- [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
+- [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
