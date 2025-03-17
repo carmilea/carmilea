@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
 - [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 - [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
+- [Show HN: A bi-directional, persisted KV store that is faster than Redis](https://hpkv.io)
 - [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring Remote Engineers](https://www.nango.dev/careers)
-- [Converting C to ASM to specs and then to a working Z/80 Speccy tape](https://ghuntley.com/z80/)
-- [Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
