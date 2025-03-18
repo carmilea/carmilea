@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD says new fast-charging system could be as quick as filling up a tank](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed)
+- [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html)
+- [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
 - [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
+- [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 - [Depot &lpar;YC W23&rpar; is hiring a founding developer marketer &lpar;EU/US remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
-- [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
-- [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
