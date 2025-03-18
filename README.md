@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html)
-- [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
-- [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
-- [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
+- [BYD announces charging tech that&#39;s twice as fast as Tesla&#39;s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)
+- [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
+- [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 - [Depot &lpar;YC W23&rpar; is hiring a founding developer marketer &lpar;EU/US remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
+- [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
