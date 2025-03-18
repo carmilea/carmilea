@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD says new fast-charging system could be as quick as filling up a tank](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed)
+- [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
 - [Depot &lpar;YC W23&rpar; is hiring a founding developer marketer &lpar;EU/US remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 - [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
 - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
-- [Rhombus Language](https://rhombus-lang.org)
-- [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
