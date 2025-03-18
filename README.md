@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
-- [The real failure rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
-- [North Korea Launders Billions in Stolen Crypto](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto)
-- [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
-- [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
+- [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
+- [Spaceium Inc &lpar;YC S24&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
+- [Fedora 42 Beta now available](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
+- [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
+- [Underrated Soft Skill for Developers: Charisma](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
 <!-- BLOG-POST-LIST:END -->
 
 ---
