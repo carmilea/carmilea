@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hungary&#39;s use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
+- [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
 - [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
 - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
-- [Java 24](https://jdk.java.net/24/)
-- [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work &lpar;2019&rpar;](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
 <!-- BLOG-POST-LIST:END -->
 
 ---
