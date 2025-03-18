@@ -61,8 +61,8 @@
 - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
 - [Rhombus Language](https://rhombus-lang.org)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
+- [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
 - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
-- [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
