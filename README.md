@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
+- [Tesla Hate Is Making Insurance More Expensive for Owners](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467)
+- [HTTrack Website Copier](https://www.httrack.com/)
+- [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
 - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
-- [Spaceium Inc &lpar;YC S24&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
-- [Fedora 42 Beta now available](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
-- [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
-- [Underrated Soft Skill for Developers: Charisma](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
 <!-- BLOG-POST-LIST:END -->
 
 ---
