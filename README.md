@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia&#39;s RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
+- [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
+- [A Tale of Four Kernels [pdf]](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
+- [Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
 - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
 - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
-- [Learning to Love Dandelions &lpar;2021&rpar;](https://baynature.org/2021/11/04/learning-to-love-dandelions/)
-- [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
