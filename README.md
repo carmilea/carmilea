@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [American Pharmaceutical Companies Aren&#39;t Paying Tax in the U.S.](https://www.cfr.org/blog/american-pharmaceutical-companies-still-arent-paying-tax-us)
+- [Rhombus Language](https://rhombus-lang.org)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
 - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 - [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
-- [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
+- [Show HN: I Built an iOS app to locate stray animals](https://apps.apple.com/us/app/straysync/id6742747753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
