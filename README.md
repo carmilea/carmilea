@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hungary&#39;s use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
-- [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
-- [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
-- [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
+- [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
+- [The real failure rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
+- [North Korea Launders Billions in Stolen Crypto](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto)
 - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
+- [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
