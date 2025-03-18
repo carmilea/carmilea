@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
-- [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
+- [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work &lpar;2019&rpar;](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
+- [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
+- [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
 - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
-- [Depot &lpar;YC W23&rpar; is hiring a founding developer marketer &lpar;EU/US remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
