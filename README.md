@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft quantum computing claim still lacks evidence](https://www.nature.com/articles/d41586-025-00829-2)
 - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 - [Turkish university annuls Erdogan rival&#39;s degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
 - [A Tale of Four Kernels [pdf] &lpar;2008&rpar;](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
 - [Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
-- [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
