@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Tech Bros Overestimate AI&#39;s Creative Abilities](https://www.aaronrosspowell.com/p/why-tech-bros-overestimate-ai-s-creative-abilities)
 - [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
 - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
 - [Fauna Service Winding Down](https://fauna.com/blog/the-future-of-fauna)
 - [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
+- [Launch HN: Modernbanc &lpar;YC W20&rpar; – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 <!-- BLOG-POST-LIST:END -->
 
 ---
