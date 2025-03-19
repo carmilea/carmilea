@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 - [The Intenet Slum: is abandoning the Internet the next big thing? &lpar;2004&rpar;](https://www.fourmilab.ch/documents/netslum/)
 - [Digital Hygiene](https://karpathy.bearblog.dev/digital-hygiene/)
 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
+- [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
