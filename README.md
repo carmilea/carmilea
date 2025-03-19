@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
+- [Show HN: AGX – Open-Source Data Exploration for ClickHouse &lpar;The New Standard?&rpar;](https://github.com/agnosticeng/agx)
 - [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
 - [Ikemen-GO: open-source reimplementation of MUGEN](https://github.com/ikemen-engine/Ikemen-GO)
-- [Supply Constraints Do Not Explain House Price, Quantity Growth Across US Cities](https://www.nber.org/papers/w33576)
 - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
-- [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
