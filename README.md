@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
+- [Ikemen-GO: open-source reimplementation of MUGEN](https://github.com/ikemen-engine/Ikemen-GO)
+- [Supply Constraints Do Not Explain House Price, Quantity Growth Across US Cities](https://www.nber.org/papers/w33576)
 - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
 - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
-- [fd: A simple, fast and user-friendly alternative to &#39;find&#39;](https://github.com/sharkdp/fd)
-- [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
-- [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
