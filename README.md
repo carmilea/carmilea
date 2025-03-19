@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
 - [Chrome disabling uBlock Origin is a serious security threat](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat)
+- [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
 - [The Intenet Slum: is abandoning the Internet the next big thing? &lpar;2004&rpar;](https://www.fourmilab.ch/documents/netslum/)
 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
-- [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
