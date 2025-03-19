@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
-- [Show HN: AGX – Open-Source Data Exploration for ClickHouse &lpar;The New Standard?&rpar;](https://github.com/agnosticeng/agx)
-- [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
-- [Ikemen-GO: open-source reimplementation of MUGEN](https://github.com/ikemen-engine/Ikemen-GO)
-- [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
+- [People Are Using AI to Create Influencers with Down Syndrome Who Sell Nudes](https://www.404media.co/people-are-using-ai-to-create-influencers-with-down-syndrome-who-sell-nudes/)
+- [How Fast the Days Are Getting Longer](https://joe-antognini.github.io/astronomy/daylight)
+- [Solar Generation Surge Sends European Power Prices Below Zero](https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero)
+- [The Business of Phish &lpar;2013&rpar;](https://priceonomics.com/business-of-phish/)
+- [Google to pay $28M to settle claims it favoured white and Asian employees](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
