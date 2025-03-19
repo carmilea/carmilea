@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
-- [Chrome disabling uBlock Origin is a serious security threat](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat)
-- [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
-- [The Intenet Slum: is abandoning the Internet the next big thing? &lpar;2004&rpar;](https://www.fourmilab.ch/documents/netslum/)
-- [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
+- [Apple M4 MacBook Air review: I have no notes](https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/)
+- [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_pi_bill)
+- [The Document Culture of Amazon &lpar;2021&rpar;](https://justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+- [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
+- [Intel AVX10 Drops Optional 512-Bit: No AVX10 256-Bit Only E-Cores in the Future](https://www.phoronix.com/news/Intel-AVX10-Drops-256-Bit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
