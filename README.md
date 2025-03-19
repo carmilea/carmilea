@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple M4 MacBook Air review: I have no notes](https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/)
-- [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_pi_bill)
-- [The Document Culture of Amazon &lpar;2021&rpar;](https://justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+- [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
+- [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
+- [fd: A simple, fast and user-friendly alternative to &#39;find&#39;](https://github.com/sharkdp/fd)
 - [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
-- [Intel AVX10 Drops Optional 512-Bit: No AVX10 256-Bit Only E-Cores in the Future](https://www.phoronix.com/news/Intel-AVX10-Drops-256-Bit)
+- [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
