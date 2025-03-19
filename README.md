@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
+- [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
 - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 - [Turkish university annuls Erdogan rival&#39;s degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
-- [A Tale of Four Kernels [pdf] &lpar;2008&rpar;](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
-- [Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
 <!-- BLOG-POST-LIST:END -->
 
 ---
