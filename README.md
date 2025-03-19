@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People Are Using AI to Create Influencers with Down Syndrome Who Sell Nudes](https://www.404media.co/people-are-using-ai-to-create-influencers-with-down-syndrome-who-sell-nudes/)
+- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
+- [Launch HN: Modernbanc &lpar;YC W20&rpar; – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 - [How Fast the Days Are Getting Longer](https://joe-antognini.github.io/astronomy/daylight)
-- [Solar Generation Surge Sends European Power Prices Below Zero](https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero)
 - [The Business of Phish &lpar;2013&rpar;](https://priceonomics.com/business-of-phish/)
 - [Google to pay $28M to settle claims it favoured white and Asian employees](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees)
 <!-- BLOG-POST-LIST:END -->
