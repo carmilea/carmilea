@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
-- [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
-- [Fauna Service Winding Down](https://fauna.com/blog/the-future-of-fauna)
-- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
-- [Launch HN: Modernbanc &lpar;YC W20&rpar; – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
+- [When writing, don&#39;t mention people who&#39;ve criticized you – PG](https://twitter.com/paulg/status/1902310081066147942)
+- [Scoping a Local-First Image Archive](https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/)
+- [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
+- [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)
+- [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
