@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
-- [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
-- [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
-- [How I accepted myself into Canada&#39;s largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
-- [&#39;More Than a Hint&#39; That Dark Energy Isn&#39;t What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
+- [The Front End Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
+- [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages)
+- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+- [Powers of 2 with all even digits](https://oeis.org/A068994)
+- [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
