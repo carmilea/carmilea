@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
-- [ACARS Drama](https://acarsdrama.com/)
-- [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
-- [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
-- [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
+- [Pump.co &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
+- [Claude can now search the web](https://www.anthropic.com/news/web-search)
+- [CVE-2024-54471: Leaking Passwords &lpar;and More!&rpar; on macOS](https://wts.dev/posts/password-leak/)
+- [Canada considering charging for road access from USA to Alaska](https://washingtonstatestandard.com/2025/03/17/british-columbia-introduces-toll-measure-to-counter-tariffs/)
+- [Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
