@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
-- [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
-- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
-- [Powers of 2 with all even digits](https://oeis.org/A068994)
-- [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
+- [ACARS Drama](https://acarsdrama.com/)
+- [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
+- [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
+- [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
+- [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
