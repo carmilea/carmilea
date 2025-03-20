@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-Israel and anti-Jewish bias undermines Wikipedia&#39;s neutrality, says ADL](https://www.msnbc.com/morning-joe/watch/anti-israel-and-anti-jewish-bias-undermines-wikipedia-s-neutrality-says-adl-report-234825285807)
-- [SAR-DT Reveals Internal Structure of the Great Pyramid of Giza](https://www.mdpi.com/2072-4292/14/20/5231)
-- [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
-- [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
+- [Anubis: Proof-of-work proxy to prevent AI crawlers](https://anubis.techaro.lol/)
+- [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
+- [The Burnout Machine](https://unionize.fyi)
 - [OpenAI Audio Models](https://www.openai.fm/)
+- [Pump.co &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
