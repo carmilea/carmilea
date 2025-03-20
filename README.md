@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-- [OpenAI&#39;s o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
-- [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
-- [Looking Ahead at Intel&#39;s Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
-- [Control your attention on the web – Block sites on certain days and times](https://github.com/Bsodoge/Focus-Mode)
+- [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)
+- [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
+- [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
+- [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
+- [Is Dark Energy Getting Weaker? New Evidence Strengthens the Case](https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
