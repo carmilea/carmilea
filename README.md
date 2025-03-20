@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Recapping the Essentials | H2O Generative AI Starter Track - Part 5](https://www.youtube.com/watch?v=wJLJEZ1tILM)
 - [Search Tactics in SingleStore Part 2: Full Text Search](https://www.youtube.com/watch?v=mBXEwmn4FrI)
 - [Search Tactics in SingleStore Part 1: Vector Search](https://www.youtube.com/watch?v=snbiIWXbb00)
 - [Simplifying RAG Concepts | H2O Generative AI Starter Track - Part 4](https://www.youtube.com/watch?v=ppV-Nz7S1Pk)
 - [AI Courses by H2O.ai Univeristy is now on Coursera](https://www.youtube.com/watch?v=UtRO0QcJl-0)
-- [The Importance of Prompt Engineering | H2O Generative AI Starter Track - Part 3](https://www.youtube.com/watch?v=VFyMfMVgdOE)
 <!-- YOUTUBE:END -->
 
 
