@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pump.co &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
-- [Claude can now search the web](https://www.anthropic.com/news/web-search)
-- [CVE-2024-54471: Leaking Passwords &lpar;and More!&rpar; on macOS](https://wts.dev/posts/password-leak/)
-- [Canada considering charging for road access from USA to Alaska](https://washingtonstatestandard.com/2025/03/17/british-columbia-introduces-toll-measure-to-counter-tariffs/)
-- [Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
+- [Tesla recalls most Cybertrucks due to trim detaching from vehicle](https://www.reuters.com/business/autos-transportation/tesla-recall-over-46000-cybertrucks-nhtsa-says-2025-03-20/)
+- [Beef industry knew of environment impact; spent decades blocking climate action](https://www.vox.com/future-perfect/405005/beef-meat-industry-climate-change-fossil-fuel-playbook)
+- [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
+- [OpenAI Audio Models](https://www.openai.fm/)
+- [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
