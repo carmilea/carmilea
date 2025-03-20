@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
+- [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
+- [Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
+- [GPascal – A Blast from the Past &lpar;2011&rpar;](https://www.gammon.com.au/forum/?id=11203)
 - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
-- [PackagePhobia – Find the cost of adding a new dev dependency to your project](https://packagephobia.com/)
-- [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
-- [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
-- [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
