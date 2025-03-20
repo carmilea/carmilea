@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla recalls most Cybertrucks due to trim detaching from vehicle](https://www.reuters.com/business/autos-transportation/tesla-recall-over-46000-cybertrucks-nhtsa-says-2025-03-20/)
-- [Beef industry knew of environment impact; spent decades blocking climate action](https://www.vox.com/future-perfect/405005/beef-meat-industry-climate-change-fossil-fuel-playbook)
-- [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
+- [Anti-Israel and anti-Jewish bias undermines Wikipedia&#39;s neutrality, says ADL](https://www.msnbc.com/morning-joe/watch/anti-israel-and-anti-jewish-bias-undermines-wikipedia-s-neutrality-says-adl-report-234825285807)
+- [SAR-DT Reveals Internal Structure of the Great Pyramid of Giza](https://www.mdpi.com/2072-4292/14/20/5231)
+- [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
+- [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
 - [OpenAI Audio Models](https://www.openai.fm/)
-- [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
