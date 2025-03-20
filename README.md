@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anubis: Proof-of-work proxy to prevent AI crawlers](https://anubis.techaro.lol/)
 - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 - [The Burnout Machine](https://unionize.fyi)
 - [OpenAI Audio Models](https://www.openai.fm/)
+- [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models)
 - [Pump.co &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 <!-- BLOG-POST-LIST:END -->
 
