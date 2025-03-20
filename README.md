@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greenpeace must pay over $660M in case over Dakota Access protest activities](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb)
+- [Tourist in US chained &#39;like Hannibal Lecter&#39;](https://www.bbc.co.uk/news/articles/cly67j35y99o)
+- [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
+- [The Shitthropocene – Patagonia](https://www.patagonia.com/stories/the-shitthropocene/video-150905.html)
 - [The Front End Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
-- [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages)
-- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
-- [Powers of 2 with all even digits](https://oeis.org/A068994)
-- [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
