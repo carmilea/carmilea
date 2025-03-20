@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)
 - [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
 - [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
 - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
-- [Is Dark Energy Getting Weaker? New Evidence Strengthens the Case](https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/)
+- [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
+- [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
