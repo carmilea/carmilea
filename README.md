@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
-- [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
-- [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
-- [Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
-- [GPascal – A Blast from the Past &lpar;2011&rpar;](https://www.gammon.com.au/forum/?id=11203)
+- [Automating Incident Resolution: The Journey of SingleStore&#39;s Slackbot](https://www.singlestore.com/blog/automating-incident-resolution-the-journey-of-singlestore-s-slackbot)
+- [SingleStore&#39;s Three Key Takeaways from the Latest Forrester Wave™ Report 2024](https://www.singlestore.com/blog/three-key-takeaways-from-the-latest-forrester-wave-report-2024)
+- [What is a Low-Latency Database? Benefits and Key Considerations](https://www.singlestore.com/blog/what-is-a-low-latency-database)
+- [Seizing the Moment: Real-Time Insights and AI for Next-Gen Martech, Adtech + Salestech](https://www.singlestore.com/blog/seizing-the-moment-real-time-insights-and-ai-martech-adtech-salestech)
+- [Migrating a Legacy Data Warehouse to SingleStore Helios®: A Six Thinking Hats Approach with Modern AI Tools](https://www.singlestore.com/blog/migrating-a-legacy-data-warehouse-to-singlestore-helios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
