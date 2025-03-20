@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 - [ACARS Drama](https://acarsdrama.com/)
 - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
 - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
-- [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
