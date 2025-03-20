@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Incident Resolution: The Journey of SingleStore&#39;s Slackbot](https://www.singlestore.com/blog/automating-incident-resolution-the-journey-of-singlestore-s-slackbot)
-- [SingleStore&#39;s Three Key Takeaways from the Latest Forrester Wave™ Report 2024](https://www.singlestore.com/blog/three-key-takeaways-from-the-latest-forrester-wave-report-2024)
-- [What is a Low-Latency Database? Benefits and Key Considerations](https://www.singlestore.com/blog/what-is-a-low-latency-database)
-- [Seizing the Moment: Real-Time Insights and AI for Next-Gen Martech, Adtech + Salestech](https://www.singlestore.com/blog/seizing-the-moment-real-time-insights-and-ai-martech-adtech-salestech)
-- [Migrating a Legacy Data Warehouse to SingleStore Helios®: A Six Thinking Hats Approach with Modern AI Tools](https://www.singlestore.com/blog/migrating-a-legacy-data-warehouse-to-singlestore-helios)
+- [How I accepted myself into Canada&#39;s largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
+- [&#39;More Than a Hint&#39; That Dark Energy Isn&#39;t What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
+- [Austral: A Systems Language with Linear Types and Capabilities &lpar;2022&rpar;](https://borretti.me/article/introducing-austral)
+- [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
+- [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
