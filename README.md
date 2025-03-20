@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Appeals court rules that Constitution protects possession of AI-generated CSAM](https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/)
+- [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
 - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 - [The Burnout Machine](https://unionize.fyi)
 - [OpenAI Audio Models](https://www.openai.fm/)
-- [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models)
-- [Pump.co &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
