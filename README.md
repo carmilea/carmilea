@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
+- [PackagePhobia – Find the cost of adding a new dev dependency to your project](https://packagephobia.com/)
 - [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
 - [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
 - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
-- [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-- [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
