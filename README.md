@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
+- [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
+- [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
 - [How I accepted myself into Canada&#39;s largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 - [&#39;More Than a Hint&#39; That Dark Energy Isn&#39;t What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
-- [Austral: A Systems Language with Linear Types and Capabilities &lpar;2022&rpar;](https://borretti.me/article/introducing-austral)
-- [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
-- [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
