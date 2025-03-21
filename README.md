@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New USPTO Memo Makes Fighting Patent Trolls Even Harder](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder)
+- [Artificial Intelligence Learns to Reason](https://www.science.org/doi/10.1126/science.adw5211)
 - [Show HN: A terminal emulator in pure PHP](https://github.com/soloterm/screen)
+- [Game of Trees](https://gameoftrees.org/index.html)
 - [Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]](https://www.daemonology.net/blog/chunking-attacks.pdf)
-- [Bigscreen Beyond 2](https://www.bigscreenvr.com/)
-- [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=43438166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
