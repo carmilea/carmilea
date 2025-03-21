@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
 - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
-- [Wheel Reinventor&#39;s Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
+- [Wheel Reinventor’s Principles &lpar;2024&rpar;](https://tobloef.com/blog/wheel-reinventors-principles/)
 - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
 - [Career Development: What It Means to Be a Manager, Director, or VP &lpar;2015&rpar;](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-- [Numbering should start at zero &lpar;1982&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
