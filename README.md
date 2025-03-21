@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New USPTO Memo Makes Fighting Patent Trolls Even Harder](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder)
-- [Artificial Intelligence Learns to Reason](https://www.science.org/doi/10.1126/science.adw5211)
-- [Show HN: A terminal emulator in pure PHP](https://github.com/soloterm/screen)
-- [Game of Trees](https://gameoftrees.org/index.html)
-- [Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]](https://www.daemonology.net/blog/chunking-attacks.pdf)
+- [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
+- [Ask HN: What is the simplest data orchestration tool you&#39;ve worked with?](https://news.ycombinator.com/item?id=43439939)
+- [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
+- [Plex remote stream no longer free; Plex Pass 2x price hike](https://www.plex.tv/blog/important-2025-plex-updates/)
+- [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
