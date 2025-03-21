@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)
 - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 - [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
-- [Show HN: Minimal JavaScript/TS framework that made us 10k in 10 days](https://github.com/The-Pocket-World/Pocket-Flow-Framework)
 - [Apple shuffles AI executive ranks in bid to turn around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
-- [The head of South Korea&#39;s guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
+- [A New Form Factor for Drones: Vertical and Coaxial](https://www.core77.com/posts/135952/A-New-Form-Factor-for-Drones-Vertical-and-Coaxial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
