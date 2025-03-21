@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)
+- [The FBI Seized This Woman&#39;s Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 - [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
 - [Apple shuffles AI executive ranks in bid to turn around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
