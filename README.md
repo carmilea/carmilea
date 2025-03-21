@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. blocks Canadian access to iconic Stanstead border-straddling library](https://www.cbc.ca/lite/story/1.7489528)
+- [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 - [Wheel Reinventor&#39;s Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
 - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
 - [Career Development: What It Means to Be a Manager, Director, or VP &lpar;2015&rpar;](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-- [Boston Dynamics shows off another major leap in humanoid mobility](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/)
+- [Numbering should start at zero &lpar;1982&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
