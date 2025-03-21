@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
+- [The little book about OS development](https://littleosbook.github.io/)
+- [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
+- [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
-- [Ask HN: What is the simplest data orchestration tool you&#39;ve worked with?](https://news.ycombinator.com/item?id=43439939)
-- [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
-- [Plex remote stream no longer free; Plex Pass 2x price hike](https://www.plex.tv/blog/important-2025-plex-updates/)
-- [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
