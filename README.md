@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Live from NVIDIA GTC: How do you think H2O.ai is helping to democratize AI?](https://www.youtube.com/watch?v=uK2unfHL0mM)
-- [Search Tactics in SingleStore Part 3: Semantic Search](https://www.youtube.com/watch?v=pPtMqtcIDUo)
-- [Learn AI with H2O.ai on Udemy](https://www.youtube.com/watch?v=6-V91361ueE)
-- [Recapping the Essentials | H2O Generative AI Starter Track - Part 5](https://www.youtube.com/watch?v=wJLJEZ1tILM)
-- [Search Tactics in SingleStore Part 2: Full Text Search](https://www.youtube.com/watch?v=mBXEwmn4FrI)
+- [LIVE from NVIDIA GTC: What are the ways that NVIDIA and H2O.ai are working together?](https://www.youtube.com/watch?v=yg7IqW3IzX0)
+- [LIVE from NVIDIA GTC: John Mao &lpar;VP of Alliances at Vast Data&rpar;](https://www.youtube.com/watch?v=OI69Dl34l-I)
+- [Live from NVIDIA GTC: Mark Austin and Hien Lam &lpar;AT&amp;T&rpar;](https://www.youtube.com/watch?v=KZRHBLuvhU8)
+- [Live from NVIDIA GTC: How is VAST Data and H2O.ai working together](https://www.youtube.com/watch?v=L635JYOEDEU)
+- [Live from NVIDIA GTC: How are you using H2O LLM Studio?](https://www.youtube.com/watch?v=R69TTDjPJlo)
 <!-- YOUTUBE:END -->
 
 
