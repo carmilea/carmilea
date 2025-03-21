@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Boycott IETF 127](https://boycott-ietf127.org/)
-- [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
 - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
+- [London&#39;s Heathrow Airport announces complete shutdown due to power outage](https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html)
 - [The head of South Korea&#39;s guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
 - [The IndieWeb Doesn&#39;t Need to &quot;Take Off&quot;](https://susam.net/indieweb-does-not-need-to-take-off.html)
 <!-- BLOG-POST-LIST:END -->
