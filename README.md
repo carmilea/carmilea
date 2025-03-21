@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
+- [Members of British punk rock band UK Subs denied entry into the US](https://www.theguardian.com/us-news/2025/mar/21/uk-subs-band-detained-deported)
+- [IronRDP: a Rust implementation of Microsoft&#39;s RDP protocol](https://github.com/Devolutions/IronRDP)
+- [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
+- [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
 - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
-- [Wheel Reinventor’s Principles &lpar;2024&rpar;](https://tobloef.com/blog/wheel-reinventors-principles/)
-- [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
-- [Career Development: What It Means to Be a Manager, Director, or VP &lpar;2015&rpar;](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
