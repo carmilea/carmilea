@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A terminal emulator in pure PHP](https://github.com/soloterm/screen)
+- [Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]](https://www.daemonology.net/blog/chunking-attacks.pdf)
 - [Bigscreen Beyond 2](https://www.bigscreenvr.com/)
+- [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=43438166)
-- [The Cult of the American Lawn](https://www.noemamag.com/the-cult-of-the-american-lawn/)
-- [IronRDP: a Rust implementation of Microsoft&#39;s RDP protocol](https://github.com/Devolutions/IronRDP)
-- [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
