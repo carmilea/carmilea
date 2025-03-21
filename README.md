@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/)
-- [Show HN: My Attempt to Organize the World of AI Dev Tools](https://aicode.danvoronov.com/tools/)
+- [U.S. blocks Canadian access to iconic Stanstead border-straddling library](https://www.cbc.ca/lite/story/1.7489528)
+- [Wheel Reinventor&#39;s Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
 - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
 - [Career Development: What It Means to Be a Manager, Director, or VP &lpar;2015&rpar;](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 - [Boston Dynamics shows off another major leap in humanoid mobility](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/)
