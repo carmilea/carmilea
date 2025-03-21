@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
+- [The head of South Korea&#39;s guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
 - [Nonprofit&#39;s Leader Convicted of Siphoning Off $240M in Federal Food Aid](https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html)
-- [Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women](https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/)
-- [Be My Eyes](https://www.bemyeyes.com/)
+- [The IndieWeb Doesn&#39;t Need to &quot;Take Off&quot;](https://susam.net/indieweb-does-not-need-to-take-off.html)
 - [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
+- [Chibi: PNG-tuber application made in Rust](https://github.com/megabytesofrem/chibi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
