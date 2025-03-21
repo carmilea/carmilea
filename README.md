@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)
-- [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
-- [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
-- [The Burnout Machine](https://unionize.fyi)
-- [OpenAI Audio Models](https://www.openai.fm/)
+- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
+- [Nonprofit&#39;s Leader Convicted of Siphoning Off $240M in Federal Food Aid](https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html)
+- [Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women](https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/)
+- [Be My Eyes](https://www.bemyeyes.com/)
+- [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
