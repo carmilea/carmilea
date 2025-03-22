@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul A. M. Dirac, Interview by Friedrich Hund &lpar;1982&rpar; [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+- [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
 - [PyTorch Internals: Ezyang&#39;s Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 - [One mother&#39;s win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
-- [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
-- [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
