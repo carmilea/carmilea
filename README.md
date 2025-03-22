@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
 - [Monster Cables picked the wrong guy to threaten &lpar;2008&rpar;](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+- [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
 - [Not OK Cupid – A story of poor email address validation](https://www.fastmail.com/blog/not-ok-cupid/)
 - [MySQL transactions per second vs. fsyncs per second &lpar;2020&rpar;](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
-- [France rejects backdoor mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
