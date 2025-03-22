@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaping AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
+- [&quot;Vibe Coding&quot; vs. Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
+- [There&#39;s no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger)
+- [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
-- [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
-- [Most AI value will come from broad automation, not from R&amp;D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
-- [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
-- [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
