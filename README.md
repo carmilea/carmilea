@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Not a Criminal, but You&#39;re Going to Jail: My ICE Detention Story](https://medium.com/@jasminemooney/youre-not-a-criminal-but-you-re-going-to-jail-my-ice-detention-story-as-a-canadian-citizen-08b4fa77a15c)
-- [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
+- [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
+- [When you deleted /lib on Linux while still connected via SSH](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
 - [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
