@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
+- [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
+- [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
 - [Facebook to stop targeting ads at UK woman after legal fight](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo)
-- [Paul A. M. Dirac, Interview by Friedrich Hund &lpar;1982&rpar; [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
-- [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
-- [PyTorch Internals: Ezyang&#39;s Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
-- [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
+- [Revenge of the Junior Developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
