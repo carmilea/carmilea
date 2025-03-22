@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO of AI ad-tech firm pledging &quot;world free of fraud&quot; sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
 - [Leaping AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
+- [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 - [&quot;Vibe Coding&quot; vs. Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
-- [There&#39;s no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger)
 - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
-- [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
