@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances](https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html)
+- [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
+- [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
+- [Most AI value will come from broad automation, not from R&amp;D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
 - [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
-- [Tencent&#39;s &#39;Hunyuan-T1&#39;–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en)
-- [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
