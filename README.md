@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
 - [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
 - [Monster Cables picked the wrong guy to threaten &lpar;2008&rpar;](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
 - [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
 - [Not OK Cupid – A story of poor email address validation](https://www.fastmail.com/blog/not-ok-cupid/)
-- [MySQL transactions per second vs. fsyncs per second &lpar;2020&rpar;](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 <!-- BLOG-POST-LIST:END -->
 
 ---
