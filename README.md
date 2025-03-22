@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances](https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html)
 - [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
+- [Tencent&#39;s &#39;Hunyuan-T1&#39;–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en)
 - [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
-- [Facebook to stop targeting ads at UK woman after legal fight](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo)
-- [Revenge of the Junior Developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
