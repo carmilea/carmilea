@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CEO of AI ad-tech firm pledging &quot;world free of fraud&quot; sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
+- [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
+- [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
+- [CEO of Kubient sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
 - [Leaping AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
-- [&quot;Vibe Coding&quot; vs. Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
-- [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
