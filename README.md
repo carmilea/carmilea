@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
-- [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/#fnref-1)
-- [Don&#39;t compete](https://invertedpassion.com/dont-compete/)
 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
+- [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
+- [Monster Cables picked the wrong guy to threaten &lpar;2008&rpar;](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+- [MySQL transactions per second vs. fsyncs per second &lpar;2020&rpar;](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 <!-- BLOG-POST-LIST:END -->
 
 ---
