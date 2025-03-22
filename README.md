@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
 - [The CRPG Renaissance, Part 5: Fallout 2 and Baldur&#39;s Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
 - [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
-- [Monster Cables picked the wrong guy to threaten &lpar;2008&rpar;](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
