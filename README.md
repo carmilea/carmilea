@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
+- [I&#39;d like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)
 - [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
-- [The CRPG Renaissance, Part 5: Fallout 2 and Baldur&#39;s Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
-- [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
