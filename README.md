@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
-- [IBM&#39;s CEO doesn&#39;t think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
+- [The Worst Programmer I Know &lpar;2023&rpar;](https://dannorth.net/the-worst-programmer/)
+- [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
-- [I made &quot;Character AI&quot; for learning](https://news.ycombinator.com/item?id=43452320)
+- [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
 <!-- BLOG-POST-LIST:END -->
 
