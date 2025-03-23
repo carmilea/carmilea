@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Recommendation Systems and Search&rpar; × LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- [Older editions of which books were better than the new ones?](https://mathoverflow.net/questions/29710/older-editions-of-which-books-were-better-than-the-new-ones)
 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 <!-- BLOG-POST-LIST:END -->
