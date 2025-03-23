@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
 - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 - [A USB Interface to the &quot;Mother of All Demos&quot; Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
+- [Achieving Great Privacy with Safari](https://matanabudy.com/achieving-great-privacy-with-safari/)
 - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
-- [The Worst Programmer I Know &lpar;2023&rpar;](https://dannorth.net/the-worst-programmer/)
-- [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
