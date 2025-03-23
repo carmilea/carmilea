@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
 - [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
 - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 - [A USB Interface to the &quot;Mother of All Demos&quot; Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 - [Achieving Great Privacy with Safari](https://matanabudy.com/achieving-great-privacy-with-safari/)
-- [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
