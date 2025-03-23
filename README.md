@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
+- [IBM&#39;s CEO doesn&#39;t think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
 - [I made &quot;Character AI&quot; for learning](https://news.ycombinator.com/item?id=43452320)
 - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
-- [Do Viruses Trigger Alzheimer&#39;s?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
-- [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
