@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadrius &lpar;YC W23&rpar; Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
+- [I made &quot;Character AI&quot; for learning](https://news.ycombinator.com/item?id=43452320)
 - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
 - [Do Viruses Trigger Alzheimer&#39;s?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-- [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
-- [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
