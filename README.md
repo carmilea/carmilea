@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My iOS app to practice sight reading &lpar;10 years in the App Store&rpar;](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
 - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 - [The Scammer&#39;s Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
-- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
-- [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
+- [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
