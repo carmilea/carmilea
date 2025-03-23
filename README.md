@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
 - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
-- [CEO of Kubient sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
-- [Leaping AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
+- [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
