@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
+- [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
