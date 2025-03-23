@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
+- [ChatGPT can&#39;t kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 - [Improving Recommendation Systems &amp; Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
-- [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
