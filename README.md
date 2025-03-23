@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
+- [A USB Interface to the &quot;Mother of All Demos&quot; Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
+- [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 - [The Worst Programmer I Know &lpar;2023&rpar;](https://dannorth.net/the-worst-programmer/)
-- [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
-- [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
-- [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
+- [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
