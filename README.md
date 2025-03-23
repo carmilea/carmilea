@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-- [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 - [The Scammer&#39;s Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 - [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
+- [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
