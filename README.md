@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
+- [In some parts of the US, the clack of typewriter keys can still be heard](https://www.bbc.com/future/article/20250321-the-people-who-still-use-typewriters)
 - [Do Viruses Trigger Alzheimer&#39;s?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
-- [ChatGPT can&#39;t kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 - [Carl Linnaeus&#39;s note-taking innovations](https://jillianhess.substack.com/p/carl-linnaeuss-note-taking-innovations)
-- [Mindfulness mediates the association between chronotype and depressive symptoms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319915)
+- [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
+- [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
 <!-- BLOG-POST-LIST:END -->
 
 ---
