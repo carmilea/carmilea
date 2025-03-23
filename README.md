@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
+- [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
+- [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 - [The Scammer&#39;s Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
-- [Germany is unlocking billions to supercharge its military at a seismic moment](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html)
-- [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
+- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
