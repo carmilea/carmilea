@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
+- [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
+- [Do Viruses Trigger Alzheimer&#39;s?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 - [ChatGPT can&#39;t kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
-- [Improving Recommendation Systems &amp; Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-- [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
-- [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
+- [Carl Linnaeus&#39;s note-taking innovations](https://jillianhess.substack.com/p/carl-linnaeuss-note-taking-innovations)
+- [Mindfulness mediates the association between chronotype and depressive symptoms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
