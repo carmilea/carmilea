@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Vatican&#39;s Latinist: On the Career of Reginald Foster. &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
+- [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 - [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
 - [RDNA 4&#39;s “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
-- [Show HN: My iOS app to practice sight reading &lpar;10 years in the App Store&rpar;](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
