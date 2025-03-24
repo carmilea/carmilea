@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple vulnerabilities in ingress-Nginx &lpar;Score 9.8&rpar;](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ)
-- [Eli Lilly will soon release key data on its weight loss pill orforglipron](https://www.cnbc.com/2025/03/24/eli-lilly-to-release-weight-loss-pill-orforglipron-trial-data-.html)
+- [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
 - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
 - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
+- [Cottagecore Programmers](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
 - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
 <!-- BLOG-POST-LIST:END -->
 
