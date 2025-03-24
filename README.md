@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RDNA 4&#39;s &quot;Out-of-Order&quot; Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
+- [The Vatican&#39;s Latinist: On the Career of Reginald Foster. &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
+- [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
+- [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
+- [RDNA 4&#39;s “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
 - [Show HN: My iOS app to practice sight reading &lpar;10 years in the App Store&rpar;](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
-- [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
-- [The Scammer&#39;s Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
-- [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
