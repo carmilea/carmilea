@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
+- [Langfuse &lpar;YC W23&rpar; Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+- [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
 - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
-- [A 1930s movement wanted to merge the US, Canada and Greenland](https://theconversation.com/a-1930s-movement-wanted-to-merge-the-us-canada-and-greenland-heres-why-it-has-modern-resonances-252587)
 - [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)
-- [Millions are visiting the European Alternatives site––what trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
-- [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
