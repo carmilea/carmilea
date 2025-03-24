@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
 - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists &lpar;2010&rpar;](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 - [TUI editor and Vim/Neovim alternative](https://github.com/tauraamui/lilly)
 - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
 - [SingleStore vs. ClickHouse: Why SingleStore Stands Out](https://www.singlestore.com/blog/singlestore-vs-clickhouse-why-singlestore-stands-out)
-- [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
