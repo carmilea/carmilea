@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists &lpar;2010&rpar;](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
+- [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
+- [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
+- [SingleStore vs. ClickHouse: Why SingleStore Stands Out](https://www.singlestore.com/blog/singlestore-vs-clickhouse-why-singlestore-stands-out)
 - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
-- [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
-- [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
-- [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
