@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
-- [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
-- [The Vatican&#39;s Latinist &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
-- [63 Chinese Cuisines: The Complete Guide &lpar;2024&rpar;](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
-- [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
+- [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
+- [A 1930s movement wanted to merge the US, Canada and Greenland](https://theconversation.com/a-1930s-movement-wanted-to-merge-the-us-canada-and-greenland-heres-why-it-has-modern-resonances-252587)
+- [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)
+- [Millions are visiting the European Alternatives site––what trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
+- [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
