@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple vulnerabilities in ingress-Nginx &lpar;Score 9.8&rpar;](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ)
+- [Eli Lilly will soon release key data on its weight loss pill orforglipron](https://www.cnbc.com/2025/03/24/eli-lilly-to-release-weight-loss-pill-orforglipron-trial-data-.html)
+- [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
+- [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
 - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
-- [Building an idempotent email API with River unique jobs](https://riverqueue.com/blog/idempotent-email-api-with-river)
-- [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
-- [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
-- [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists &lpar;2010&rpar;](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 <!-- BLOG-POST-LIST:END -->
 
 ---
