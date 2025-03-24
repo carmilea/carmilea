@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
 - [The Vatican&#39;s Latinist: On the Career of Reginald Foster. &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
 - [63 Chinese Cuisines: The Complete Guide &lpar;2024&rpar;](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
+- [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
