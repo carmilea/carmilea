@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
 - [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
-- [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
 - [The Vatican&#39;s Latinist &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
 - [63 Chinese Cuisines: The Complete Guide &lpar;2024&rpar;](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
