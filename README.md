@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
+- [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
 - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 - [Status as a Service &lpar;2019&rpar;](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-- [Music and the Decline of Civilization](https://renovatio.zaytuna.edu/article/plato-laws-music-civilization)
 - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
-- [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
