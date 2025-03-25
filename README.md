@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
 - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
+- [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
+- [Optimizing ML Training with Metagradient Descent](https://arxiv.org/abs/2503.13751)
 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
-- [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
-- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
-- [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
