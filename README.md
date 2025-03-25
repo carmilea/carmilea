@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
-- [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
-- [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
-- [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
+- [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
+- [Intel: A Bug and a Pro](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
 - [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
 <!-- BLOG-POST-LIST:END -->
 
