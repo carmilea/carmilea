@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
-- [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
-- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
-- [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
-- [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
+- [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
+- [A Sneaky Phish Just Grabbed My Mailchimp Mailing List](https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/)
+- [Status as a Service &lpar;2019&rpar;](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+- [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
+- [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
