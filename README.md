@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blood on the Keyboard](https://www.historynewsnetwork.org/article/blood-on-the-keyboard)
-- [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
+- [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
-- [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
 - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
+- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
+- [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
