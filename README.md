@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)
+- [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
+- [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
+- [OpenID Coming to SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 - [An AI bubble threatens Silicon Valley, and all of us](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/)
-- [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
-- [Tim, don&#39;t kill my vibe](https://irace.me/vibe)
-- [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)
-- [X&#39;s head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
