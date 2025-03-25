@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)
+- [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
+- [My Favorite C++ Pattern: X Macros &lpar;2023&rpar;](https://danilafe.com/blog/chapel_x_macros/)
+- [Beej&#39;s Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
+- [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
-- [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
-- [OpenID Coming to SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
-- [An AI bubble threatens Silicon Valley, and all of us](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
