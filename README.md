@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft&#39;s many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
 - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
-- [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
+- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+- [AI bots are destroying Open Access](https://go-to-hellman.blogspot.com/2025/03/ai-bots-are-destroying-open-access.html)
 - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
-- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
