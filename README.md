@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
+- [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
+- [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
 - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
-- [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)
-- [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
-- [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
+- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
