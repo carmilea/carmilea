@@ -61,8 +61,8 @@
 - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 - [A Sneaky Phish Just Grabbed My Mailchimp Mailing List](https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/)
 - [Status as a Service &lpar;2019&rpar;](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-- [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
 - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
+- [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
