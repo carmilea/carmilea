@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deregulation in Argentina: Milei Takes &quot;Deep Chainsaw&quot; to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
-- [Palantir suggests &#39;common operating system&#39; for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
-- [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
-- [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn&#39;t Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
-- [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
+- [An AI bubble threatens Silicon Valley, and all of us](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/)
+- [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
+- [Tim, don&#39;t kill my vibe](https://irace.me/vibe)
+- [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)
+- [X&#39;s head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
