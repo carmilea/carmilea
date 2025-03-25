@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deregulation in Argentina: Milei Takes &quot;Deep Chainsaw&quot; to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
+- [Palantir suggests &#39;common operating system&#39; for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
+- [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
+- [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn&#39;t Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
-- [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
-- [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
-- [Status as a Service &lpar;2019&rpar;](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-- [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
