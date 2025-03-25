@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Working with GeoSpatial Data in SingleStore](https://www.youtube.com/watch?v=4-MR5SbOne8)
 - [Leveraging Generative AI for Impressive ROI - A Case Study from AT&amp;T](https://www.youtube.com/watch?v=SmuErbr-euU)
 - [CBA Customer Engagement and Combating Fraud with H2O ai](https://www.youtube.com/watch?v=RSwmVOaaqbI)
 - [Search Tactics in SingleStore Part 4: Hybrid Search](https://www.youtube.com/watch?v=sH12BLF60Bo)
 - [Leverage h2oGPTe for Actionable Insights | H2O Generative AI Starter Track - Part 6](https://www.youtube.com/watch?v=ZQ02Qw2Zckg)
-- [LIVE from NVIDIA GTC: What are the ways that NVIDIA and H2O.ai are working together?](https://www.youtube.com/watch?v=yg7IqW3IzX0)
 <!-- YOUTUBE:END -->
 
 
