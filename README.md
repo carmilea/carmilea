@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
+- [Why is C the symbol for the speed of light? &lpar;2004&rpar;](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
+- [New NASA satellite mapped the oceans like never before](https://www.zmescience.com/science/oceanography/new-nasa-satellite-mapped-the-oceans-like-never-before/)
 - [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
 - [My Favorite C++ Pattern: X Macros &lpar;2023&rpar;](https://danilafe.com/blog/chapel_x_macros/)
-- [Beej&#39;s Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
-- [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
-- [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
 <!-- BLOG-POST-LIST:END -->
 
 ---
