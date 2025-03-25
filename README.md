@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
+- [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
 - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
 - [Why is C the symbol for the speed of light? &lpar;2004&rpar;](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
-- [New NASA satellite mapped the oceans like never before](https://www.zmescience.com/science/oceanography/new-nasa-satellite-mapped-the-oceans-like-never-before/)
-- [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
-- [My Favorite C++ Pattern: X Macros &lpar;2023&rpar;](https://danilafe.com/blog/chapel_x_macros/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
