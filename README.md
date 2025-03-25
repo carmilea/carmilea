@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
-- [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
+- [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
 - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
