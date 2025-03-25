@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
+- [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)
+- [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 - [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
-- [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
-- [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
-- [Why is C the symbol for the speed of light? &lpar;2004&rpar;](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
