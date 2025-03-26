@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
-- [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
+- [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
+- [The Gang of Four is wrong and you don&#39;t understand delegation &lpar;2012&rpar;](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
+- [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
+- [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 - [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
-- [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
-- [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
