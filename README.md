@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CIA Director Reveals Signal Comes Installed on Agency Computers](https://theintercept.com/2025/03/25/signal-chat-encryption-hegseth-cia/)
+- [OpenSMTPD and Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
 - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
 - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
-- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
-- [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
