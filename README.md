@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
+- [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 - [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
+- [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
 - [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
-- [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
-- [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
