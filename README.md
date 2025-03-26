@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
+- [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
 - [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-- [What&#39;s Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
 - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
-- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
