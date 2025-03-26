@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 - [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
-- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
