@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Quit Google Search for AI–and I&#39;m Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)
-- [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 - [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
 - [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
+- [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
