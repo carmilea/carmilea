@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After 50 million miles, Waymos crash a lot less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
+- [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
 - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
-- [Stockpile 72 hours of supplies in case of disaster or attack, EU tells citizens](https://www.theguardian.com/world/2025/mar/26/stockpile-supplies-72-hours-disasters-attack-eu-tells-citizens)
 - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
+- [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
