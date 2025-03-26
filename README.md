@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
+- [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
+- [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 - [Firefox Is Finally &lpar;Re&rpar;Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
-- [Supreme Court takes up $8B phone and internet subsidy for rural areas](https://apnews.com/article/supreme-court-telecommunications-fee-internet-c51526ec5c78ed913064b1c4d3399ba2)
-- [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
-- [Servo vs. Ladybird](https://thelibre.news/servo-vs-ladybird/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
