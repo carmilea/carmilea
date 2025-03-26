@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
+- [Presenting SingleStore’s MCP Server](https://www.singlestore.com/blog/presenting-singlestore-mcp-server)
+- [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
+- [Collapse OS](http://collapseos.org/)
 - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
-- [The Gang of Four is wrong and you don&#39;t understand delegation &lpar;2012&rpar;](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
-- [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
-- [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
-- [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
