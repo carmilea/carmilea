@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE staffer,&#39;Big Balls&#39;, provided tech support to cybercrime ring, records show](https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/)
+- [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 - [Europe&#39;s Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
 - [Run DeepSeek-R1 Locally and Build RAG Applications](https://www.singlestore.com/blog/run-deepseek-r1-locally-and-build-rag-applications)
-- [Coordinating the Superbowl&#39;s visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
-- [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-- [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
+- [Anonymous Corpo Confessions](https://baserow.io/form/fhd_IgR1QDZzJX0tW7TRM__rs0Lv2-DRY3SLXkWUoE8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
