@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding product engineer](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer)
 - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 - [Presenting SingleStore’s MCP Server](https://www.singlestore.com/blog/presenting-singlestore-mcp-server)
 - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
 - [Collapse OS](http://collapseos.org/)
-- [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
