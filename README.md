@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Discover What’s Next with h2oGPTe | H2O Generative AI Starter Track - Part 7](https://www.youtube.com/watch?v=swH-70Cdp5A)
 - [Working with GeoSpatial Data in SingleStore](https://www.youtube.com/watch?v=4-MR5SbOne8)
 - [Leveraging Generative AI for Impressive ROI - A Case Study from AT&amp;T](https://www.youtube.com/watch?v=SmuErbr-euU)
 - [CBA Customer Engagement and Combating Fraud with H2O ai](https://www.youtube.com/watch?v=RSwmVOaaqbI)
 - [Search Tactics in SingleStore Part 4: Hybrid Search](https://www.youtube.com/watch?v=sH12BLF60Bo)
-- [Leverage h2oGPTe for Actionable Insights | H2O Generative AI Starter Track - Part 6](https://www.youtube.com/watch?v=ZQ02Qw2Zckg)
 <!-- YOUTUBE:END -->
 
 
