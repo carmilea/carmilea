@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
+- [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
+- [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
+- [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
+- [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
 - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
-- [Philosophy of Coroutines &lpar;2023&rpar;](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
-- [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
-- [Abundance Isn&#39;t Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
