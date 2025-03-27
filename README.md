@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+- [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
 - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
-- [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
-- [Cilium eBPF-Go on Windows](https://ebpf-go.dev/contributing/windows/)
 - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
 <!-- BLOG-POST-LIST:END -->
