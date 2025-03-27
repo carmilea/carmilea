@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)
+- [Abundance Isn&#39;t Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
+- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Automate Coding](https://replit.com/careers)
+- [Zoom bias: The social costs of having a &#39;tinny&#39; sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
 - [Launch HN: Continue &lpar;YC S23&rpar; – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
-- [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
 - [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
-- [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
 <!-- BLOG-POST-LIST:END -->
 
 ---
