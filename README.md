@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
-- [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+- [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
+- [Cilium eBPF-Go on Windows](https://ebpf-go.dev/contributing/windows/)
+- [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
-- [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
-- [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
