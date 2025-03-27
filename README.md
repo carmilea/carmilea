@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- [Why I&#39;m Boycotting AI](https://unherd.com/2025/03/why-im-boycotting-ai/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Senior Auth Engineer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
+- [They Might Be Giants Flood EPK Promo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
-- [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
-- [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
-- [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
