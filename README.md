@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Take this on call and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
+- [I genuinely don&#39;t understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
+- [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
 - [Revyl &lpar;YC F24&rpar; Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
-- [The Leader of the LeetCode Rebellion: An Interview with Roy Lee](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/)
-- [Show HN: Dish: A lightweight HTTP and TCP socket monitoring tool written in Go](https://github.com/thevxn/dish)
-- [How to Use Em Dashes &lpar;–&rpar;, En Dashes &lpar;–&rpar;, and Hyphens &lpar;-&rpar;](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
+- [We are building the next DocuSign](https://sgnly.com)
+- [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
