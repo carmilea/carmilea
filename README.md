@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I genuinely don&#39;t understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
+- [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
+- [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
+- [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
+- [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
-- [Revyl &lpar;YC F24&rpar; Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
-- [We are building the next DocuSign](https://sgnly.com)
-- [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
