@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netlify deploys hundreds of thousands of Next.js sites – here&#39;s what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
+- [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 - [A filmmaker and a crooked lawyer shattered Denmark&#39;s self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
 - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
-- [Craniometrix &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
-- [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
