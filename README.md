@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
+- [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
+- [Philosophy of Coroutines &lpar;2023&rpar;](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
+- [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
 - [Abundance Isn&#39;t Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
-- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Automate Coding](https://replit.com/careers)
-- [Zoom bias: The social costs of having a &#39;tinny&#39; sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
-- [Launch HN: Continue &lpar;YC S23&rpar; – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
-- [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
 <!-- BLOG-POST-LIST:END -->
 
 ---
