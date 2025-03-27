@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
-- [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)
-- [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
-- [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
-- [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
+- [Take this on call and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
+- [Revyl &lpar;YC F24&rpar; Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
+- [The Leader of the LeetCode Rebellion: An Interview with Roy Lee](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/)
+- [Show HN: Dish: A lightweight HTTP and TCP socket monitoring tool written in Go](https://github.com/thevxn/dish)
+- [How to Use Em Dashes &lpar;–&rpar;, En Dashes &lpar;–&rpar;, and Hyphens &lpar;-&rpar;](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
