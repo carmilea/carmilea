@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Continue &lpar;YC S23&rpar; – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
+- [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
 - [Netlify deploys hundreds of thousands of Next.js sites – here&#39;s what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
-- [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 - [A filmmaker and a crooked lawyer shattered Denmark&#39;s self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
-- [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
