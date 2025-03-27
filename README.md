@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
+- [A filmmaker and a crooked lawyer shattered Denmark&#39;s self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
+- [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 - [Craniometrix &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
 - [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
-- [Piranesi&#39;s Perspective Trick &lpar;2019&rpar;](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
-- [They Might Be Giants Flood EPK Promo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
-- [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
 <!-- BLOG-POST-LIST:END -->
 
 ---
