@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flight bookings from Canada to the US plummet over 70%](https://www.newsweek.com/canada-us-flight-bookings-fall-70-percent-2051327)
-- [US Securities and Exchange Commission beginning to bring on DOGE staff](https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/)
+- [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
+- [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
+- [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 - [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
 - [Finley &lpar;YC W21&rpar; Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
-- [FDIC says banks can engage in crypto activities without prior approval](https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
