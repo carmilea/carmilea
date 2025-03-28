@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers get spiking neural behavior out of a pair of transistors](https://arstechnica.com/science/2025/03/researchers-get-spiking-neural-behavior-out-of-a-pair-of-transistors/)
 - [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
 - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
+- [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
 - [Patience is a coping strategy, not a virtue](https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue)
-- [Software Eng Intern – Structured Labs &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
-- [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
