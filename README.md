@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Book &lpar;2021&rpar;](https://99percentinvisible.org/episode/the-real-book/)
+- [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 - [2,200-year-old pyramid filled with coins and weapons found near Dead Sea](https://www.livescience.com/archaeology/2-200-year-old-mysterious-pyramid-structure-filled-with-coins-and-weapons-found-near-dead-sea)
 - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
-- [The Pyrex Glass Controversy That Just Won&#39;t Die &lpar;2019&rpar;](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
 - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
-- [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
