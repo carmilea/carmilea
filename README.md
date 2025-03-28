@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
-- [A cretaceous fly trap? Remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
-- [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
-- [We hacked Gemini&#39;s Python sandbox and leaked its source code &lpar;at least some&rpar;](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
-- [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
+- [Finley &lpar;YC W21&rpar; Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
+- [Is This Sex Offender Map in Japan Legal?](https://unseen-japan.com/sex-offender-map-japan-legal/)
+- [There&#39;s a psychological burden of digital life even heavier than distraction](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
+- [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
+- [The Art of DJing: Avalon Emerson &lpar;2019&rpar;](https://it.ra.co/features/3392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
