@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2,200-year-old pyramid filled with coins and weapons found near Dead Sea](https://www.livescience.com/archaeology/2-200-year-old-mysterious-pyramid-structure-filled-with-coins-and-weapons-found-near-dead-sea)
+- [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
+- [The Pyrex Glass Controversy That Just Won&#39;t Die &lpar;2019&rpar;](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
 - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
-- [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
-- [Despite Ukraine War, Europe Imported Even More Russian Gas Last Year](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024)
-- [Japanese scientists create new plastic that dissolves in saltwater overnight](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/)
-- [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
+- [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
