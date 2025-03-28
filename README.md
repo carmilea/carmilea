@@ -61,8 +61,8 @@
 - [Software Eng Intern – Structured Labs &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
 - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
-- [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
 - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
+- [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
