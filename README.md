@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
-- [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
-- [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
-- [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
-- [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
+- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
+- [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025)
+- [LibreOffice downloads on the rise as users look to avoid subscription costs](https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html)
+- [A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
