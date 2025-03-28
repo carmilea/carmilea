@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
+- [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+- [Despite Ukraine War, Europe Imported Even More Russian Gas Last Year](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024)
+- [Japanese scientists create new plastic that dissolves in saltwater overnight](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/)
 - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
-- [The Biology of B-Movie Monsters &lpar;2003&rpar;](https://fathom.lib.uchicago.edu/2/21701757/)
-- [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
-- [Are Levi&#39;s from Amazon Different from Levi&#39;s from Levi&#39;s?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
-- [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
