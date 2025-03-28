@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 - [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
 - [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
 - [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025)
-- [LibreOffice downloads on the rise as users look to avoid subscription costs](https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html)
-- [A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
