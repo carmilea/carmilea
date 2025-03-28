@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
+- [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
+- [Patience is a coping strategy, not a virtue](https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue)
 - [Software Eng Intern – Structured Labs &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
 - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
-- [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
-- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
-- [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
