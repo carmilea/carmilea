@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Levi&#39;s from Amazon Different from Levi&#39;s from Levi&#39;s?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
 - [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
-- [Nobody should be a &quot;content creator&quot;](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [Let&#39;s Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
-- [Jevons Paradox: A Personal Perspective](https://fakepixels.substack.com/p/jevons-paradox-a-personal-perspective)
+- [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
