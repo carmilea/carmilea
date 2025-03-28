@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
+- [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
+- [A cretaceous fly trap? Remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
 - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
-- [We hacked Google&#39;s A.I Gemini and leaked its source code &lpar;at least some part&rpar;](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
-- [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
-- [SignalBotOne – Notification Webhooks for Signal](https://signalbot.one/)
+- [We hacked Gemini&#39;s Python sandbox and leaked its source code &lpar;at least some&rpar;](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
+- [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
