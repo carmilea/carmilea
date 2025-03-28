@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
+- [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
 - [We hacked Google&#39;s A.I Gemini and leaked its source code &lpar;at least some part&rpar;](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
-- [The Book &lpar;2021&rpar;](https://99percentinvisible.org/episode/the-real-book/)
-- [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
-- [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
+- [SignalBotOne – Notification Webhooks for Signal](https://signalbot.one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
