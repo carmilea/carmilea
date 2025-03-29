@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
+- [Plain – a web framework for building products with Python](https://plainframework.com/)
 - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-- [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
+- [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
 - [Madison Square Garden&#39;s surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
 - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 <!-- BLOG-POST-LIST:END -->
