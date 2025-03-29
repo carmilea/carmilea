@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When the physicists need burner phones, that&#39;s when you know America&#39;s changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
+- [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
 - [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
-- [Twitter &lpar;X&rpar; Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
-- [Why Apple&#39;s Severance Gets Edited over Remote Desktop Software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
-- [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
-- [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
+- [Why Apple&#39;s Severance gets edited over remote desktop software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
+- [AI generated Ghibli images go viral as OpenAI loosens its rules](https://www.washingtonpost.com/technology/2025/03/28/chatgpt-ghibli-ai-images-copyright/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
