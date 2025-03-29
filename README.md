@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Andrej Karpathy on the State of Web Development](https://twitter.com/karpathy/status/1905051558783418370)
 - [AI Accent Conversion for call centers](https://krisp.ai/accent-conversion/)
 - [Today Google bricked my Chromebook by force-installing a hidden extension](https://cloudisland.nz/@rmi/114219847307106213)
+- [PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP](https://github.com/regymm/pcie_7x)
 - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
-- [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
-- [Trump&#39;s attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)
 <!-- BLOG-POST-LIST:END -->
 
 ---
