@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Accent Conversion for call centers](https://krisp.ai/accent-conversion/)
+- [Today Google bricked my Chromebook by force-installing a hidden extension](https://cloudisland.nz/@rmi/114219847307106213)
+- [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 - [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
-- [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
-- [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
-- [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
-- [Plain – a web framework for building products with Python](https://plainframework.com/)
+- [Trump&#39;s attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)
 <!-- BLOG-POST-LIST:END -->
 
 ---
