@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
+- [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
+- [ASML&#39;s boss has a warning for Europe](https://www.economist.com/business/2025/03/25/asmls-boss-has-a-warning-for-europe)
 - [Why I&#39;m No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 - [Koto Programming Language](https://koto.dev/)
-- [Real Time Chess – A physical chess board without the concept of turns](https://github.com/misprit7/real-time-chess)
-- [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
-- [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
