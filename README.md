@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
+- [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
+- [NSA F9T53 Opsec Special Bulletin: Signal Vulnerability](https://www.scribd.com/document/843124910/NSA-full)
+- [Is AI the new research scientist? Not so, according to a human-led study](https://news.warrington.ufl.edu/faculty-and-research/ai-research-scientist/)
+- [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
 - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
-- [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
-- [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
-- [Finley &lpar;YC W21&rpar; Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
