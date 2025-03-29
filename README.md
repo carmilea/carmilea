@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
 - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-- [NSA F9T53 Opsec Special Bulletin: Signal Vulnerability](https://www.scribd.com/document/843124910/NSA-full)
-- [Is AI the new research scientist? Not so, according to a human-led study](https://news.warrington.ufl.edu/faculty-and-research/ai-research-scientist/)
 - [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
 - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
+- [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
