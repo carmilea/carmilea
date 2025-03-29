@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
-- [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
-- [ASML&#39;s boss has a warning for Europe](https://www.economist.com/business/2025/03/25/asmls-boss-has-a-warning-for-europe)
-- [Why I&#39;m No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
-- [Koto Programming Language](https://koto.dev/)
+- [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
+- [Twitter &lpar;X&rpar; Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
+- [Why Apple&#39;s Severance Gets Edited over Remote Desktop Software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
+- [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
+- [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
