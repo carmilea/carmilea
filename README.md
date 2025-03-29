@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrej Karpathy on the State of Web Development](https://twitter.com/karpathy/status/1905051558783418370)
-- [AI Accent Conversion for call centers](https://krisp.ai/accent-conversion/)
-- [Today Google bricked my Chromebook by force-installing a hidden extension](https://cloudisland.nz/@rmi/114219847307106213)
+- [Koto Programming Language](https://koto.dev/)
+- [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
+- [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 - [PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP](https://github.com/regymm/pcie_7x)
 - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 <!-- BLOG-POST-LIST:END -->
