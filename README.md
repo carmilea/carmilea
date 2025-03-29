@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
 - [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
 - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
 - [Plain – a web framework for building products with Python](https://plainframework.com/)
 - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
-- [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
