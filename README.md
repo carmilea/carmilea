@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When the physicists need burner phones, that&#39;s when you know America&#39;s changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
-- [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
-- [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
-- [Why Apple&#39;s Severance gets edited over remote desktop software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
-- [AI generated Ghibli images go viral as OpenAI loosens its rules](https://www.washingtonpost.com/technology/2025/03/28/chatgpt-ghibli-ai-images-copyright/)
+- [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
+- [Matrix Calculus &lpar;For Machine Learning and Beyond&rpar;](https://arxiv.org/abs/2501.14787)
+- [The Candid Naivety of Geeks](https://ploum.net/2025-03-28-geeks-naivety.html)
+- [Utah becomes first US state to ban fluoride in its water](https://www.bbc.com/news/articles/c4gmggp2y99o)
+- [I don&#39;t think I can trust Google as my search engine anymore](https://www.androidpolice.com/google-search-engine-lost-my-trust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
