@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 - [Koto Programming Language](https://koto.dev/)
-- [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
+- [Real Time Chess – A physical chess board without the concept of turns](https://github.com/misprit7/real-time-chess)
 - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 - [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
-- [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
