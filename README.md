@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Koto Programming Language](https://koto.dev/)
-- [The Real Story Behind Sam Altman’s Firing From OpenAI](https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d)
 - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
-- [Nick Cave&#39;s thoughts on a ChatGPT poem &lpar;2023&rpar;](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
-- [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
+- [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
+- [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
+- [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
