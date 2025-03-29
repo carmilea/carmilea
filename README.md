@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
+- [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
 - [Plain – a web framework for building products with Python](https://plainframework.com/)
+- [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
 - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-- [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
-- [Madison Square Garden&#39;s surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
-- [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
