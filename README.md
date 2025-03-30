@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s the hottest car company. You can&#39;t buy one in America](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html)
-- [Why a plane turned around when a passenger lost a phone midflight?](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
+- [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
 - [Tail Call Recursion in Java with ASM &lpar;2023&rpar;](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 - [Four Lectures on Standard ML &lpar;1989&rpar; [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
+- [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
