@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
+- [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
 - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
 - [Tail Call Recursion in Java with ASM &lpar;2023&rpar;](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
-- [Four Lectures on Standard ML &lpar;1989&rpar; [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
-- [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
