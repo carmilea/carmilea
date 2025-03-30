@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
-- [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
-- [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
-- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
-- [CVE-2025-31160 Atop 2.11 heap problems](https://openwall.com/lists/oss-security/2025/03/29/1)
+- [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
+- [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
+- [MS-DOS and Windows 3.11 still run train dashboards at German railway &lpar;Jan&#39;24&rpar;](https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system)
+- [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
+- [Msgpack23 – A modern, header-only C++ library for MessagePack &lpar;de&rpar;serialization](https://github.com/rwindegger/msgpack23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
