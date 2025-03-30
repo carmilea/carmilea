@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
+- [Electric power generation from Earth&#39;s rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-- [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
 - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 - [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
 <!-- BLOG-POST-LIST:END -->
