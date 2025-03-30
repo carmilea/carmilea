@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [MAME 0.276](https://www.mamedev.org/?p=549)
 - [Ask HN: What are you working on? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43527452)
-- [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)
-- [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
-- [GitHub CodeQL Actions Critical Supply Chain Vulnerability &lpar;CodeQLEAKED&rpar;](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+- [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+- [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
+- [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
