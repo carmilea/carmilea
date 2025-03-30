@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spice Data &lpar;YC S19&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
+- [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
+- [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
+- [Spice Data &lpar;YC S19&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 - [Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft](https://mastodon.social/@organicmaps/114233788700982882)
 - [The Child and the Shadow &lpar;1975&rpar; [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
-- [Blue95: a desktop for your childhood home&#39;s computer room](https://github.com/winblues/blue95)
-- [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
