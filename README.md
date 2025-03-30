@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
 - [MAME 0.276](https://www.mamedev.org/?p=549)
 - [Ask HN: What are you working on? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43527452)
 - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
-- [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
