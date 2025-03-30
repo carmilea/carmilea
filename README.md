@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 - [Four Lectures on Standard ML &lpar;1989&rpar; [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
 - [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
-- [Electric power generation from Earth&#39;s rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
 <!-- BLOG-POST-LIST:END -->
 
