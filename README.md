@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spice Data &lpar;YC S19&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
+- [Private Equity Is Coming for America&#39;s $12T in Retirement Savings](https://www.bloomberg.com/news/articles/2025-03-25/retirement-saving-private-equity-comes-for-america-s-401-k)
+- [The Child and the Shadow by Ursula Le Guin [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 - [Blue95: a desktop for your childhood home&#39;s computer room](https://github.com/winblues/blue95)
 - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
-- [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
-- [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
-- [Tail Call Recursion in Java with ASM &lpar;2023&rpar;](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
