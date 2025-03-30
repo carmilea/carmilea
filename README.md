@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
-- [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
-- [Spice Data &lpar;YC S19&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
-- [Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft](https://mastodon.social/@organicmaps/114233788700982882)
-- [The Child and the Shadow &lpar;1975&rpar; [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
+- [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
+- [GitHub CodeQL Actions Critical Supply Chain Vulnerability &lpar;CodeQLEAKED&rpar;](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+- [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
+- [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
+- [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
