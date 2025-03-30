@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Lectures on Standard ML &lpar;1989&rpar; [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
+- [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
 - [Electric power generation from Earth&#39;s rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-- [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
-- [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
