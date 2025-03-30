@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
+- [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
+- [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
 - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
-- [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
-- [MS-DOS and Windows 3.11 still run train dashboards at German railway &lpar;Jan&#39;24&rpar;](https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system)
 - [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
-- [Msgpack23 – A modern, header-only C++ library for MessagePack &lpar;de&rpar;serialization](https://github.com/rwindegger/msgpack23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
