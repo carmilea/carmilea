@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
-- [MAME 0.276](https://www.mamedev.org/?p=549)
-- [Ask HN: What are you working on? &lpar;March 2025&rpar;](https://news.ycombinator.com/item?id=43527452)
-- [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
-- [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
+- [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
+- [Installing air filters in classrooms has surprisingly large educational benefits](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
+- [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced)
+- [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
+- [Oka.wiki](https://oka.wiki/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
