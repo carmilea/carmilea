@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
-- [There&#39;s White Stuff Growing on Your Cheese That Isn&#39;t Mold &lpar;2018&rpar;](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
-- [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
-- [Amazon introduces Nova Chat, entering the arena with ChatGPT, Claude, Grok](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-nova-website-sdk)
-- [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
+- [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
+- [Palma 2](https://shop.boox.com/products/palma2)
+- [MLB: Yankees&#39; new &#39;&#39;Torpedo Bats&#39;&#39; legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
+- [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
+- [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
