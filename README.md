@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
+- [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
+- [Nvidia&#39;s latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
+- [Ask HN: Finding Remote Enterprise SW Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 - [The Egg &lpar;By Andy Weir&rpar;](https://www.galactanet.com/oneoff/theegg.html)
-- [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
-- [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
