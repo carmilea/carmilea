@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ToS;DR](https://tosdr.org/en)
+- [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
+- [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
 - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
 - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
-- [Wondercraft &lpar;YC S22&rpar; Is Hiring](https://news.ycombinator.com/item?id=43532009)
-- [Taming the UB Monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
-- [You&#39;re protecting your data wrong – Introducing the Protected Query Pattern](https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
