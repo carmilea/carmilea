@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
-- [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
 - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 - [Notes on the Pentium&#39;s Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
+- [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
 - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 <!-- BLOG-POST-LIST:END -->
 
