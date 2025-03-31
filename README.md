@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
-- [James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
-- [Nvidia GPU roadmap confirms it: Moore&#39;s Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
-- [ToS;DR](https://tosdr.org/en)
-- [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
+- [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
+- [Marine Le Pen banned from running in 2027 and given four-year sentence](https://www.theguardian.com/world/live/2025/mar/31/france-marine-le-pen-embezzlement-verdict-europe-news-live)
+- [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
+- [The Egg &lpar;By Andy Weir&rpar;](https://www.galactanet.com/oneoff/theegg.html)
+- [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
