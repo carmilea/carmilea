@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
-- [Nvidia&#39;s latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
-- [Ask HN: Finding Remote Enterprise SW Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
+- [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
+- [There&#39;s White Stuff Growing on Your Cheese That Isn&#39;t Mold &lpar;2018&rpar;](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
+- [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
+- [Amazon introduces Nova Chat, entering the arena with ChatGPT, Claude, Grok](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-nova-website-sdk)
 - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
-- [The Egg &lpar;By Andy Weir&rpar;](https://www.galactanet.com/oneoff/theegg.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
