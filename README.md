@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
+- [Go Optimization Guide](https://goperf.dev/)
 - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 - [Notes on the Pentium&#39;s Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
-- [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
-- [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
