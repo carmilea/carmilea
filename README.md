@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
-- [France fines Apple €150M for &quot;excessive&quot; pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
+- [Notes on the Pentium&#39;s Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
+- [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
+- [France fines Apple €150M for “excessive” pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
 - [Launch HN: Augento &lpar;YC W25&rpar; – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
-- [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
