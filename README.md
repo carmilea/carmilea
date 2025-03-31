@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Joker,&#39; &#39;Matrix&#39; producer Village Roadshow files for bankruptcy protection](https://www.latimes.com/entertainment-arts/business/story/2025-03-17/joker-matrix-studio-village-roadshow-files-for-chapter-11-bankruptcy)
 - [Optifye.ai &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
 - [Rare Merlin and King Arthur manuscript fragment discovered in book binding](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
 - [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
-- [Installing air filters in classrooms has surprisingly large educational benefits](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
-- [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced)
+- [Installing air filters in classrooms has surprisingly large educational benefits &lpar;2020&rpar;](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
