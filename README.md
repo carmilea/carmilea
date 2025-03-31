@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
+- [James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
+- [Nvidia GPU roadmap confirms it: Moore&#39;s Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
 - [ToS;DR](https://tosdr.org/en)
 - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
-- [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
-- [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
-- [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
