@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
+- [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
-- [United States Disappeared Tracker – Tableau Public](https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map)
 - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 - [Lapham&#39;s Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
-- [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
