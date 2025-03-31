@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
+- [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
+- [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 - [Notes on the Pentium&#39;s Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
 - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
-- [France fines Apple €150M for “excessive” pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
-- [Launch HN: Augento &lpar;YC W25&rpar; – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
-- [Distro &lpar;YC S24&rpar; Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
