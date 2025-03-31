@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get Started with h2oGPTe for Free | H2O Generative AI Starter Track - Part 9](https://www.youtube.com/watch?v=Frgmo8MzO1g)
 - [Use Generative AI on your Documents | H2O Generative AI Starter Track - Part 8](https://www.youtube.com/watch?v=GPwAuPmsZVo)
 - [Code Committers: Bharat Kathi - From Robotics to Growth Engineering](https://www.youtube.com/watch?v=6AF94I8SviM)
 - [Discover What’s Next with h2oGPTe | H2O Generative AI Starter Track - Part 7](https://www.youtube.com/watch?v=swH-70Cdp5A)
 - [Working with GeoSpatial Data in SingleStore](https://www.youtube.com/watch?v=4-MR5SbOne8)
-- [Leveraging Generative AI for Impressive ROI - A Case Study from AT&amp;T](https://www.youtube.com/watch?v=SmuErbr-euU)
 <!-- YOUTUBE:END -->
 
 
