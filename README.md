@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
+- [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
+- [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
 - [Go Optimization Guide](https://goperf.dev/)
 - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
-- [Notes on the Pentium&#39;s Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
