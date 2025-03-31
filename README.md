@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
+- [Wondercraft &lpar;YC S22&rpar; Is Hiring](https://news.ycombinator.com/item?id=43532009)
 - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
