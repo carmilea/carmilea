@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
+- [France fines Apple €150M for &quot;excessive&quot; pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
+- [Launch HN: Augento &lpar;YC W25&rpar; – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
-- [Warner Bros Completes Worldwide Sale of &#39;Coyote vs Acme&#39;](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
-- [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
-- [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
