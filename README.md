@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Distro &lpar;YC S24&rpar; Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
-- [Palma 2](https://shop.boox.com/products/palma2)
-- [MLB: Yankees&#39; new &#39;&#39;Torpedo Bats&#39;&#39; legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
+- [Warner Bros Completes Worldwide Sale of &#39;Coyote vs Acme&#39;](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
 - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
 - [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 <!-- BLOG-POST-LIST:END -->
