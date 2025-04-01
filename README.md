@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
+- [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
-- [Self-Hosting like it&#39;s 2025](https://kiranet.org/self-hosting-like-its-2025/)
-- [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
+- [CERN scientists find evidence of quantum entanglement in sheep](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
