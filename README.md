@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
-- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+- [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 - [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
-- [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
+- [Go Optimization Guide](https://goperf.dev/)
+- [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
