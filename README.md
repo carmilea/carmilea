@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photoroom &lpar;YC S20&rpar; Is Hiring Rust, API, and Front End Engineers &lpar;Europe, Remote&rpar;](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
+- [LLM providers on the cusp of an &#39;extinction&#39; phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
 - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
-- [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
+- [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
-- [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
-- [Go Optimization Guide](https://goperf.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
