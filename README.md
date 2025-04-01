@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+- [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 - [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
-- [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
 - [Go Optimization Guide](https://goperf.dev/)
 - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
-- [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
