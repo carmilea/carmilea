@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 - [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
 - [Go Optimization Guide](https://goperf.dev/)
-- [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
