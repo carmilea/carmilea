@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
-- [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
+- [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
+- [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
 - [Go Optimization Guide](https://goperf.dev/)
-- [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
-- [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
+- [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
+- [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
