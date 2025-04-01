@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
+- [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 - [Meru Health &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
 - [Camelgate NPM Outage &lpar;Cloudflare&rpar;](https://news.ycombinator.com/item?id=43548589)
 - [A man powers home for eight years using a thousand old laptop batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
-- [RubyUI &lpar;Former PhlexUI&rpar;: Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
-- [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
