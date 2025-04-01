@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
-- [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
-- [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
-- [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
-- [Xiaomi Car with Driver Assistance Crashes, Three Reported Dead](https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead)
+- [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
+- [Launch HN: ASim &lpar;YC S21&rpar; – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
+- [SingleStore Earns the Inaugural Trusted Seller Verification from TrustRadius](https://www.singlestore.com/blog/singlestore-earns-the-inaugural-trusted-seller-verification-from-trustradius)
+- [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
+- [Ask HN: Why hasn&#39;t AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 <!-- BLOG-POST-LIST:END -->
 
 ---
