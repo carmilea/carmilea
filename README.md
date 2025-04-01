@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
+- [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
+- [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
 - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 - [A look back: WordPerfect on DOS &lpar;2023&rpar;](https://technicallywewrite.com/2023/07/30/wordperfect)
-- [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
-- [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
