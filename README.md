@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+- [A look back: WordPerfect on DOS &lpar;2023&rpar;](https://technicallywewrite.com/2023/07/30/wordperfect)
+- [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
 - [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
-- [Dave Täht has died](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
-- [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
-- [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
