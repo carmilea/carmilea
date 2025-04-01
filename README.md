@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Man Powers Home for 8 Years Using 1k Old Laptop Batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
+- [Meru Health &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
+- [Camelgate NPM Outage &lpar;Cloudflare&rpar;](https://news.ycombinator.com/item?id=43548589)
+- [A man powers home for eight years using a thousand old laptop batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
+- [RubyUI &lpar;Former PhlexUI&rpar;: Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
-- [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
-- [Launch HN: ASim &lpar;YC S21&rpar; – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
-- [SingleStore Earns the Inaugural Trusted Seller Verification from TrustRadius](https://www.singlestore.com/blog/singlestore-earns-the-inaugural-trusted-seller-verification-from-trustradius)
 <!-- BLOG-POST-LIST:END -->
 
 ---
