@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
+- [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
 - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
-- [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [CERN scientists find evidence of quantum entanglement in sheep](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep)
+- [Xiaomi Car with Driver Assistance Crashes, Three Reported Dead](https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
