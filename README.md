@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Val Kilmer has passed away](https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html)
 - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 - [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 - [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
+- [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
