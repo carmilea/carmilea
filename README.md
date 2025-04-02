@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
+- [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
+- [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
 - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
-- [Zero Day in Microchip Sam Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
-- [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
-- [Amazon Submits Bid for TikTok with US Sale Deadline Nearing](https://www.bloomberg.com/news/articles/2025-04-02/amazon-submits-bid-for-tiktok-with-us-sale-deadline-approaching)
+- [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
+- [Real-Time Introspective Compression for Transformers](https://github.com/Dicklesworthstone/llm_introspective_compression_and_metacognition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
