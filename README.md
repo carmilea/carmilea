@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
 - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 - [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
-- [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
 <!-- BLOG-POST-LIST:END -->
 
