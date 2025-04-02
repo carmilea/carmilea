@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
+- [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
 - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 - [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
