@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
+- [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
+- [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 - [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
-- [Don&#39;t Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves &lpar;2015&rpar;](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
-- [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
-- [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
