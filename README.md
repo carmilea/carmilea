@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using fake deadlines without driving your engineers crazy](https://newsletter.manager.dev/p/using-fake-deadlines-without-driving)
+- [Nintendo unveils Switch 2 ahead of June 5 launch](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/)
+- [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
 - [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
-- [PowerToys Command Palette Utility](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview)
 - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
 - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 <!-- BLOG-POST-LIST:END -->
