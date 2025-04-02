@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After Crash FAA Change Requires All Aircraft at Reagan to Broadcast Positions](https://www.nytimes.com/2025/03/27/us/politics/reagan-crash-faa-rule-change-broadcast-positions.html)
+- [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 - [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
 - [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
-- [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
-- [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
