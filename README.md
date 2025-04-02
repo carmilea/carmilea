@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
+- [Don&#39;t Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves &lpar;2015&rpar;](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 - [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
-- [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
-- [The state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
