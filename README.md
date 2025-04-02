@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
-- [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
-- [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
-- [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
-- [Real-Time Introspective Compression for Transformers](https://github.com/Dicklesworthstone/llm_introspective_compression_and_metacognition)
+- [Pico.sh &lpar;The ultimate SSH powered services for developers&rpar;](https://pico.sh/)
+- [What, exactly, is an &#39;AI Agent&#39;? Here&#39;s a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
+- [It&#39;s Unreal Just How Awful &#39;Real ID&#39; Is &lpar;2020&rpar;](https://www.zocalopublicsquare.org/real-id-is-awful/)
+- [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
+- [Waltz&#39;s team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
