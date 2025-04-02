@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulse &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
-- [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)
-- [A Small Violin Part Highlights Bigger Problems for the Global Economy](https://www.nytimes.com/2025/04/02/business/trump-tariffs-canada-us.html)
-- [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
-- [Animals Made from 13 Circles &lpar;2016&rpar;](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
+- [I don&#39;t discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
+- [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
+- [Zero Day in Microchip Sam Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
+- [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
+- [Amazon Submits Bid for TikTok with US Sale Deadline Nearing](https://www.bloomberg.com/news/articles/2025-04-02/amazon-submits-bid-for-tiktok-with-us-sale-deadline-approaching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
