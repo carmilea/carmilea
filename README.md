@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Creating Document Collections | H2O Generative AI Starter Track - Part 11](https://www.youtube.com/watch?v=TJ5XY91CAEk)
 - [[WebSummit Qatar 2025] Fireside chat: Open vs. Closed: Who Wins the Race to Democratize Agentic AI?](https://www.youtube.com/watch?v=1tbjjeql6Rc)
 - [[WebSummit Qatar 2025] AI and automation panel: The next industrial revolution](https://www.youtube.com/watch?v=X2wMFuMagAw)
 - [Get Started with h2oGPTe for Free | H2O Generative AI Starter Track - Part 9](https://www.youtube.com/watch?v=Frgmo8MzO1g)
 - [Use Generative AI on your Documents | H2O Generative AI Starter Track - Part 8](https://www.youtube.com/watch?v=GPwAuPmsZVo)
-- [Code Committers: Bharat Kathi - From Robotics to Growth Engineering](https://www.youtube.com/watch?v=6AF94I8SviM)
 <!-- YOUTUBE:END -->
 
 
