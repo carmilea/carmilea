@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
+- [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
+- [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
 - [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
-- [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
-- [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
-- [A look back: WordPerfect on DOS &lpar;2023&rpar;](https://technicallywewrite.com/2023/07/30/wordperfect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
