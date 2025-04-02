@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
+- [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
+- [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
-- [Pico.sh &lpar;The ultimate SSH powered services for developers&rpar;](https://pico.sh/)
-- [Mozilla launching &quot;Thundermail&quot; email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
-- [What, exactly, is an &#39;AI Agent&#39;? Here&#39;s a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
-- [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
+- [Henry James&#39;s American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
