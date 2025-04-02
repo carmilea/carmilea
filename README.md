@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo unveils Switch 2 ahead of June 5 launch](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/)
+- [A Small Violin Part Highlights Bigger Problems for the Global Economy](https://www.nytimes.com/2025/04/02/business/trump-tariffs-canada-us.html)
+- [Animals Made from 13 Circles &lpar;2016&rpar;](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
+- [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
 - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
-- [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
 - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
-- [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
