@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
-- [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
+- [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
+- [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
+- [Are people bad at their jobs or are the jobs just bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
 - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
-- [Henry James&#39;s American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
