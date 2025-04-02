@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pulse &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
+- [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)
 - [A Small Violin Part Highlights Bigger Problems for the Global Economy](https://www.nytimes.com/2025/04/02/business/trump-tariffs-canada-us.html)
+- [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
 - [Animals Made from 13 Circles &lpar;2016&rpar;](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
-- [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
-- [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
-- [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
