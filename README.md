@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 - [Pico.sh &lpar;The ultimate SSH powered services for developers&rpar;](https://pico.sh/)
+- [Mozilla launching &quot;Thundermail&quot; email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 - [What, exactly, is an &#39;AI Agent&#39;? Here&#39;s a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
-- [It&#39;s Unreal Just How Awful &#39;Real ID&#39; Is &lpar;2020&rpar;](https://www.zocalopublicsquare.org/real-id-is-awful/)
 - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
-- [Waltz&#39;s team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
