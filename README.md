@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
 - [Onyx &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
+- [Reasoning models don&#39;t always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 - [A special build of curl that can impersonate Chrome and Firefox](https://github.com/lwthiker/curl-impersonate)
 - [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
-- [AnimeJs v4 Is Here](https://animejs.com/)
-- [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
