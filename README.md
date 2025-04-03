@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate 50 years of Microsoft with the company&#39;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+- [Was Houdini a Spy? &lpar;2021&rpar;](https://www.cia.gov/stories/story/was-houdini-a-spy/)
+- [The Mainframe Vocabulary Problem &lpar;and Why It Matters&rpar;](https://mainframesociety.com/news/2588640)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [AI Cheats: Why You Didn&#39;t Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
-- [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
-- [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
-- [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
+- [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
