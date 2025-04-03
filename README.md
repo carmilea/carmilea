@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Maintain a 17 Year Old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+- [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 - [Tech companies are telling immigrant employees on visas not to leave the U.S.](https://www.washingtonpost.com/technology/2025/03/31/immigration-h1b-fear-siliconvalley/)
 - [Search could be so much better. And I don&#39;t mean chatbots with web access](https://www.matterrank.ai/mission)
 - [The reality of working in tech: We&#39;re not hired to write code &lpar;2023&rpar;](https://idiallo.com/blog/code-for-hire)
