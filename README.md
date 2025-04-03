@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel, TSMC tentatively agree to form chipmaking joint venture](https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/)
+- [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
+- [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
 - [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
-- [2025 Recession Indicators Hit Fashion and Wall Street at Once](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/)
-- [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
-- [Onyx &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
+- [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
+- [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
