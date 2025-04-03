@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
+- [.NET library MassTransit going commercial with V9](https://masstransit.io/introduction/v9-announcement)
 - [DIY Synths Database](https://diy-synths.snnkv.com/)
 - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 - [Dijkstra On the foolishness of &quot;natural language programming&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- [XWine1 – Xbox One Translation Layer for Windows PCs](https://github.com/xwine1)
+- [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
