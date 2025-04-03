@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
-- [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
-- [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
-- [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
-- [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [AI Cheats: Why You Didn&#39;t Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
+- [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
+- [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
+- [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
