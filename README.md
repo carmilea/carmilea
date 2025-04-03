@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
-- [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
 - [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
 - [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
-- [A University President Makes a Case Against Cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
+- [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
+- [Type &lpar;YC W23&rpar; is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
