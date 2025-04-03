@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516)
+- [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
+- [Switzerland&#39;s vinyl turntable roundabout: Unique road art &lpar;2019&rpar;](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
 - [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
-- [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
-- [Are people bad at their jobs or are the jobs just bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
-- [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
