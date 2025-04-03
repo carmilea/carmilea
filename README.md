@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me)
+- [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
+- [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
-- [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
-- [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
-- [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
-- [Type &lpar;YC W23&rpar; is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
+- [Hackers stole billions in crypto to keep North Korea’s regime afloat](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
