@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Onyx &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
+- [A special build of curl that can impersonate Chrome and Firefox](https://github.com/lwthiker/curl-impersonate)
 - [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
+- [AnimeJs v4 Is Here](https://animejs.com/)
 - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
-- [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
-- [Show HN: The C3 programming language &lpar;C alternative language&rpar;](https://news.ycombinator.com/item?id=43569724)
-- [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
