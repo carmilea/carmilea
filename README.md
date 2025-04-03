@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
 - [DIY Synths Database](https://diy-synths.snnkv.com/)
-- [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
-- [Search could be so much better. And I don&#39;t mean chatbots with web access](https://www.matterrank.ai/mission)
-- [The reality of working in tech: We&#39;re not hired to write code &lpar;2023&rpar;](https://idiallo.com/blog/code-for-hire)
-- [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
+- [Dijkstra On the foolishness of &quot;natural language programming&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [XWine1 – Xbox One Translation Layer for Windows PCs](https://github.com/xwine1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
