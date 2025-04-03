@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me)
+- [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
+- [Show HN: The C3 programming language &lpar;C alternative language&rpar;](https://news.ycombinator.com/item?id=43569724)
 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
-- [Hackers stole billions in crypto to keep North Korea’s regime afloat](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
