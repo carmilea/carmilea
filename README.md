@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Type &lpar;YC W23&rpar; is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
-- [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
-- [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
-- [DIY Synths Database](https://diy-synths.snnkv.com/)
-- [Dijkstra On the foolishness of &quot;natural language programming&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
+- [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
+- [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
+- [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
+- [A University President Makes a Case Against Cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
