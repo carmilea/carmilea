@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 - [DIY Synths Database](https://diy-synths.snnkv.com/)
 - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 - [Dijkstra On the foolishness of &quot;natural language programming&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
-- [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
