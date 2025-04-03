@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Type &lpar;YC W23&rpar; is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
+- [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
 - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 - [DIY Synths Database](https://diy-synths.snnkv.com/)
-- [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 - [Dijkstra On the foolishness of &quot;natural language programming&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
