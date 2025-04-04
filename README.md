@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac Numbers now supports LAMBDA functions and MAP](https://support.apple.com/guide/functions/map-ffa7bf25643c/web)
+- [Trump&#39;s Trade War Escalates as China Retaliates with 34% Tariffs](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html)
 - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
 - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
 - [Gumroad is now open source](https://github.com/antiwork/gumroad)
-- [Hackers strike Australia&#39;s largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
-- [Doge staffer&#39;s YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
