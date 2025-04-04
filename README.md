@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NOAA Weather will delete websites using Amazon, Google cloud services Saturday](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts)
 - [Why does Britain feel so poor?](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor)
-- [Mac Numbers now supports LAMBDA functions and MAP](https://support.apple.com/guide/functions/map-ffa7bf25643c/web)
-- [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
 - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
+- [Gumroad is now open source](https://github.com/antiwork/gumroad)
+- [Hackers strike Australia&#39;s largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
+- [Show HN: Transputer emulator in JavaScript &lpar;fast enough to be useful&rpar;](https://nanochess.org/transputer_emulator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
