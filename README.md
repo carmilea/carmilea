@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Head of NSA and Cybercommand Is Ousted](https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html)
+- [Show HN: Transputer emulator in JavaScript &lpar;fast enough to be useful&rpar;](https://nanochess.org/transputer_emulator.html)
 - [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
 - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 - [Celebrate 50 years of Microsoft with the company&#39;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-- [Was Houdini a Spy? &lpar;2021&rpar;](https://www.cia.gov/stories/story/was-houdini-a-spy/)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
