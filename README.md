@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
+- [CINC Is Not Chef](https://cinc.sh/)
 - [Thunder Compute &lpar;YC S24&rpar; is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
 - [The Curse of Ayn Rand&#39;s Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
-- [Kerosene did not save the sperm whale &lpar;2024&rpar;](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
-- [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
-- [Gumroad’s source is available](https://github.com/antiwork/gumroad)
+- [Ask HN: As a Founder, is this business model compelling?](https://news.ycombinator.com/item?id=43584547)
 <!-- BLOG-POST-LIST:END -->
 
 ---
