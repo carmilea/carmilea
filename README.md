@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunder Compute &lpar;YC S24&rpar; is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
 - [The Curse of Ayn Rand&#39;s Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
 - [Kerosene did not save the sperm whale &lpar;2024&rpar;](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
-- [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
-- [Gumroad is now open source](https://github.com/antiwork/gumroad)
+- [Gumroad’s source is available](https://github.com/antiwork/gumroad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
