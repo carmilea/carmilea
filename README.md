@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A number of electric vehicle, battery factories are being canceled](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/)
+- [The Curse of Ayn Rand&#39;s Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
+- [Kerosene did not save the sperm whale &lpar;2024&rpar;](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
+- [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 - [Gumroad is now open source](https://github.com/antiwork/gumroad)
-- [Hackers strike Australia&#39;s largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
-- [Show HN: Transputer emulator in JavaScript &lpar;fast enough to be useful&rpar;](https://nanochess.org/transputer_emulator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
