@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
 - [Celebrate 50 years of Microsoft with the company&#39;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 - [Was Houdini a Spy? &lpar;2021&rpar;](https://www.cia.gov/stories/story/was-houdini-a-spy/)
-- [The Mainframe Vocabulary Problem &lpar;and Why It Matters&rpar;](https://mainframesociety.com/news/2588640)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 <!-- BLOG-POST-LIST:END -->
