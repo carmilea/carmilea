@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+- [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
+- [SpaceX&#39;s Fram2 returns from first-of-its-kind mission around Earth&#39;s poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
+- [Germany&#39;s &#39;Deutschlandticket&#39; helps environment – study](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647)
 - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
-- [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
-- [Gumroad Did Not Become Open Source Today](https://danb.me/blog/gumroad-is-not-open-source/)
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
-- [CINC Is Not Chef](https://cinc.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
