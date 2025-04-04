@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gumroad is now open source](https://github.com/antiwork/gumroad)
+- [Doge staffer&#39;s YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)
+- [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
 - [Show HN: Transputer emulator in JavaScript &lpar;fast enough to be useful&rpar;](https://nanochess.org/transputer_emulator.html)
 - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
-- [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
