@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
+- [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
+- [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
+- [Gumroad Did Not Become Open Source Today](https://danb.me/blog/gumroad-is-not-open-source/)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 - [CINC Is Not Chef](https://cinc.sh/)
-- [Thunder Compute &lpar;YC S24&rpar; is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
-- [The Curse of Ayn Rand&#39;s Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
-- [Ask HN: As a Founder, is this business model compelling?](https://news.ycombinator.com/item?id=43584547)
 <!-- BLOG-POST-LIST:END -->
 
 ---
