@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
+- [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
 - [Gumroad is now open source](https://github.com/antiwork/gumroad)
+- [Hackers strike Australia&#39;s largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
 - [Doge staffer&#39;s YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)
-- [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
-- [Show HN: Transputer emulator in JavaScript &lpar;fast enough to be useful&rpar;](https://nanochess.org/transputer_emulator.html)
-- [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
