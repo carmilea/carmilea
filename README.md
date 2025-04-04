@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: SwiftHive – A Swift Package Registry for Faster Builds](https://swifthive.l18.dev/)
 - [A Man Out to Prove How Dumb AI Still Is](https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/)
-- [Wall Street Blew It](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/)
-- [Images trapped in a feedback loop and analog fractals create each other](https://www.youtube.com/watch?v=D3eHKI0nvKA)
+- [Dow plunges 2,200 points, Nasdaq enters bear market](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html)
 - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
 - [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 <!-- BLOG-POST-LIST:END -->
