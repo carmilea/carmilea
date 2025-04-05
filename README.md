@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
 - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 - [Nebula Sans](https://nebulasans.com/)
 - [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
 - [Recreating Daft Punk&#39;s Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
-- [Show HN: OCR pipeline for ML training &lpar;tables, diagrams, math, multilingual&rpar;](https://github.com/ses4255/Versatile-OCR-Program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
