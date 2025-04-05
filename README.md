@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
+- [NASA&#39;s Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+- [What If We Made Advertising Illegal?](https://simone.org/advertising/)
+- [Dynamic Register Allocation on AMD&#39;s RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
-- [Loader&#39;s Number](https://googology.fandom.com/wiki/Loader%27s_number)
-- [Exeter&#39;s unassuming co-op worker leads double life as &#39;Lord of the Logos&#39;](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
-- [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
-- [Show HN: I built a word game. My mom thinks it&#39;s great. What do you think?](https://www.whatsit.today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
