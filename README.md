@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
+- [Loader&#39;s Number](https://googology.fandom.com/wiki/Loader%27s_number)
+- [Exeter&#39;s unassuming co-op worker leads double life as &#39;Lord of the Logos&#39;](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
-- [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
 - [Show HN: I built a word game. My mom thinks it&#39;s great. What do you think?](https://www.whatsit.today/)
-- [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
-- [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
