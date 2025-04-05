@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
+- [Interview Coder is an invisible AI for technical interviews](https://www.interviewcoder.co/)
+- [AdNauseam: Clicking ads so you don&#39;t have to](https://adnauseam.io/)
 - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
-- [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
 - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
-- [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
-- [Nebula Sans](https://nebulasans.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
