@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup QEMU Output to Serial Console and Automate Tests with Shell Scripts &lpar;2019&rpar;](https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
 - [Open Source Coalition Announces &#39;Model-Signing&#39; to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
-- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
-- [Show HN: iPhone 2005 weird &quot;Blob Keyboard&quot; simulator](https://news.ycombinator.com/item?id=43595442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
