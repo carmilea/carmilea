@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: OCR pipeline for ML training &lpar;tables, diagrams, math, multilingual&rpar;](https://github.com/ses4255/Versatile-OCR-Program)
+- [I don&#39;t like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
 - [Coqui TTS: Free Text-to-Speech](https://coquitts.com)
 - [Trump&#39;s Tariff Formula Makes No Economic Sense. It&#39;s Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)
 - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
-- [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
-- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
