@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
 - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
-- [The Last Solo Programmers](https://cacm.acm.org/blogcacm/the-last-solo-programmers/)
+- [Show HN: I built a word game. My mom thinks it&#39;s great. What do you think?](https://www.whatsit.today/)
 - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
 - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 <!-- BLOG-POST-LIST:END -->
