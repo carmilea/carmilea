@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
-- [A Man Out to Prove How Dumb AI Still Is](https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/)
-- [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
-- [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
-- [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
+- [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
+- [AT&amp;T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
+- [Trump&#39;s Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7)
+- [Annotated Unix Magic Poster](https://unixmagic.net/)
+- [The &#39;Judicial Black Hole&#39; of El Salvador&#39;s Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
