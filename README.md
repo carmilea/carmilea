@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
+- [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
+- [Llama4](https://www.llama.com/llama4/)
 - [NASA&#39;s Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+- [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
-- [Dynamic Register Allocation on AMD&#39;s RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
