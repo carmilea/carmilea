@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
+- [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
-- [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
+- [Open Source Coalition Announces &#39;Model-Signing&#39; to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 - [Show HN: iPhone 2005 weird &quot;Blob Keyboard&quot; simulator](https://news.ycombinator.com/item?id=43595442)
 <!-- BLOG-POST-LIST:END -->
