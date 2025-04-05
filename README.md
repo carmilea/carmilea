@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Hash160 Collision](https://lbc.cryptoguru.org/man/theory)
+- [OpenAI&#39;s Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
+- [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
+- [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
 - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
-- [NASA&#39;s Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
-- [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
-- [What If We Made Advertising Illegal?](https://simone.org/advertising/)
+- [Show HN: iPhone 2005 weird &quot;Blob Keyboard&quot; simulator](https://news.ycombinator.com/item?id=43595442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
