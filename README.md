@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
-- [Llama4](https://www.llama.com/llama4/)
+- [A Hash160 Collision](https://lbc.cryptoguru.org/man/theory)
+- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 - [NASA&#39;s Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
 - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
