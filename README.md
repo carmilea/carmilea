@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
+- [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
+- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
 - [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
 - [AT&amp;T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
-- [Trump&#39;s Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7)
-- [Annotated Unix Magic Poster](https://unixmagic.net/)
-- [The &#39;Judicial Black Hole&#39; of El Salvador&#39;s Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
