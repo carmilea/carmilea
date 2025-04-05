@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 - [Nebula Sans](https://nebulasans.com/)
+- [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
 - [Recreating Daft Punk&#39;s Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 - [Show HN: OCR pipeline for ML training &lpar;tables, diagrams, math, multilingual&rpar;](https://github.com/ses4255/Versatile-OCR-Program)
-- [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
-- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
