@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
 - [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
 - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 - [Nebula Sans](https://nebulasans.com/)
-- [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
