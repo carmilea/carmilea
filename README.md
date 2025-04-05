@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage](https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/)
+- [Earth&#39;s clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 - [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
-- [Interview Coder is an invisible AI for technical interviews](https://www.interviewcoder.co/)
-- [AdNauseam: Clicking ads so you don&#39;t have to](https://adnauseam.io/)
+- [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
-- [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
