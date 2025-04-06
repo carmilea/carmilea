@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK Police Arrest 30 People Per Day for Internet Comments](https://www.thetimes.com/uk/crime/article/police-make-30-arrests-a-day-for-offensive-online-messages-zbv886tqf)
-- [Why does JSON have commas?](https://simonsafar.com/2025/json_with_no_commas/)
+- [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
+- [My Browser WASM&#39;t Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
 - [Show HN: I Built ImgFiber-Better Image Optimizer. Free No Limits](https://www.imgfiber.com/)
-- [US revokes all South Sudan visas over failure to repatriate citizens](https://www.reuters.com/world/us-revokes-all-south-sudan-visas-over-failure-accept-repatriation-citizens-2025-04-05/)
+- [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
