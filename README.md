@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Domestic Prices Rise with Tarriffs?](https://marginalrevolution.com/marginalrevolution/2025/04/why-do-domestic-prices-rise-with-tarriffs.html)
-- [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
+- [Foundry &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+- [Peter Navarro Invented an Expert for His Books, Based on Himself&lpar;2019&rpar;](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
+- [Buffett: America&#39;s Growing Trade Deficit Is Selling the Nation Out from Under Us [pdf]](https://www.berkshirehathaway.com/letters/growing.pdf)
 - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
-- [We&#39;re back: How tuberculosis is set to surge globally once again](https://thebulletin.org/2025/03/were-back-how-tuberculosis-is-set-to-surge-globally-once-again/)
 - [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
 <!-- BLOG-POST-LIST:END -->
 
