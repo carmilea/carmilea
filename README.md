@@ -62,7 +62,7 @@
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 - [My Browser WASM&#39;t Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
-- [Get on the Bus: Data Busses Used in Macs, 1984 to 2000 – Low End Mac](https://lowendmac.com/2025/get-on-the-bus-data-busses-used-in-macs-1984-to-2000/)
+- [Show HN: I Built ImgFiber-Better Image Optimizer. Free No Limits](https://www.imgfiber.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
