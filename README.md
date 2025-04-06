@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does JSON have commas?](https://simonsafar.com/2025/json_with_no_commas/)
 - [UK bans fake reviews and sneaky fees](https://www.theguardian.com/money/2025/apr/06/uk-bans-22bn-sneaky-fees-and-fake-reviews-for-online-products)
+- [US revokes all South Sudan visas over failure to repatriate citizens](https://www.reuters.com/world/us-revokes-all-south-sudan-visas-over-failure-accept-repatriation-citizens-2025-04-05/)
 - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 - [The death of the middle-class restaurant](https://www.nytimes.com/2025/04/04/dining/middle-class-restaurant.html)
-- [TripoSG – Text to 3D Model](https://github.com/VAST-AI-Research/TripoSG)
-- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
