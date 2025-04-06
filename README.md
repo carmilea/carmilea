@@ -61,7 +61,7 @@
 - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 - [Apple&#39;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
-- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Rules for Negotiating a Job Offer &lpar;2016&rpar;](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 <!-- BLOG-POST-LIST:END -->
 
