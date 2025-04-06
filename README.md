@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Nurses who work on the same floor at hospital have brain tumors](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798)
-- [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
 - [Apple&#39;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+- [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
