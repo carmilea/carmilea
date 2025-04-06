@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Domestic Prices Rise with Tarriffs?](https://marginalrevolution.com/marginalrevolution/2025/04/why-do-domestic-prices-rise-with-tarriffs.html)
 - [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
 - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
 - [How the Atlantic&#39;s Jeffrey Goldberg Got Added to the White House Signal Chat](https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened)
-- [The Mensa Reading List for Grades 9-12](https://onepercentrule.substack.com/p/the-mensa-reading-list-for-grades)
-- [The &quot;S&quot; in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
+- [We&#39;re back: How tuberculosis is set to surge globally once again](https://thebulletin.org/2025/03/were-back-how-tuberculosis-is-set-to-surge-globally-once-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
