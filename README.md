@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SF Mayor Lurie to tech CEOs: &#39;How can we get you back?&#39;](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
+- [EU may &quot;make an example of X&quot; by issuing $1B fine](https://arstechnica.com/tech-policy/2025/04/eu-may-make-an-example-of-x-by-issuing-1-billion-fine-to-musks-social-network/)
+- [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 - [Foundry &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
-- [Peter Navarro Invented an Expert for His Books, Based on Himself&lpar;2019&rpar;](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
-- [Buffett: America&#39;s Growing Trade Deficit Is Selling the Nation Out from Under Us [pdf]](https://www.berkshirehathaway.com/letters/growing.pdf)
-- [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
-- [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
+- [Peter Navarro Invented an Expert for His Books, Based on Himself &lpar;2019&rpar;](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
