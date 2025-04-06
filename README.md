@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK bans fake reviews and sneaky fees](https://www.theguardian.com/money/2025/apr/06/uk-bans-22bn-sneaky-fees-and-fake-reviews-for-online-products)
 - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
-- [Apple&#39;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
-- [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
-- [Rules for Negotiating a Job Offer &lpar;2016&rpar;](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+- [The death of the middle-class restaurant](https://www.nytimes.com/2025/04/04/dining/middle-class-restaurant.html)
+- [TripoSG – Text to 3D Model](https://github.com/VAST-AI-Research/TripoSG)
+- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
