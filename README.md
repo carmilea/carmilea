@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
+- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
+- [Make C string literals const?](https://gustedt.wordpress.com/2025/04/06/make-c-string-literals-const/)
 - [&#39;Minecraft Movie&#39; Leaks Online: Full Unfinished Version Shared](https://variety.com/2025/film/news/minecraft-movie-leaks-online-unfinished-effects-1236360578/)
 - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
-- [The Treachery of Image Files &lpar;2020&rpar;](http://beyondloom.com/blog/images.html)
-- [Gumroad&#39;s Interestingly Timed &quot;Open-Source&quot; Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
-- [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
