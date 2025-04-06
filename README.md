@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Superbabies](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies)
+- [Remote Work&#39;s Long-Term Effects: Why Dell and Amazon Are Bringing Employees Back](https://timestripe.com/magazine/blog/remote-works-long-term-effects/)
+- [The &quot;S&quot; in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
-- [My Browser WASM&#39;t Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
-- [Show HN: I Built ImgFiber-Better Image Optimizer. Free No Limits](https://www.imgfiber.com/)
-- [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
