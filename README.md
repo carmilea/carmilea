@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Minecraft Movie&#39; Leaks Online: Full Unfinished Version Shared](https://variety.com/2025/film/news/minecraft-movie-leaks-online-unfinished-effects-1236360578/)
 - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
 - [The Treachery of Image Files &lpar;2020&rpar;](http://beyondloom.com/blog/images.html)
 - [Gumroad&#39;s Interestingly Timed &quot;Open-Source&quot; Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
-- [Jeff Geerling won&#39;t connect his dishwasher to your stupid cloud [video]](https://www.youtube.com/watch?v=5M_hmwBBPnc)
 - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 <!-- BLOG-POST-LIST:END -->
 
