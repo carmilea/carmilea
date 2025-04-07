@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fewer Foreign Passengers Are Flying to the US](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying)
+- [Inside One of America&#39;s Last Pencil Factories &lpar;2018&rpar;](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
+- [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
 - [Your Startup Doesn&#39;t Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
-- [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
-- [Glamorous Toolkit](https://gtoolkit.com//)
-- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
