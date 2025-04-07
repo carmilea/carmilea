@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foreign visits into the U.S. fell off a cliff in March](https://www.axios.com/2025/04/04/foreign-visits-american-airports-travel-warnings)
 - [Fewer Foreign Passengers Are Flying to the US](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying)
 - [Inside One of America&#39;s Last Pencil Factories &lpar;2018&rpar;](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
+- [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
-- [Your Startup Doesn&#39;t Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
-- [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
