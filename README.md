@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Understand Nullability](https://dmodel.ai/nullability-gentle/)
+- [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
+- [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
 - [Decoding the 90s: Cryptography in Early Software Development &lpar;2023&rpar;](https://www.botanica.software/post/decoding-the-90s)
-- [GitMCP: Transforms any GitHub project into an MCP endpoint](https://github.com/idosal/git-mcp)
 - [Watch Antimatter Fall: Scientists Capture Gravity&#39;s Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
-- [Inside One of America&#39;s Last Pencil Factories &lpar;2018&rpar;](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
+- [Europe&#39;s GDPR privacy law is headed for red tape bonfire within &#39;weeks&#39;](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
