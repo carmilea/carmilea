@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How new US tariffs are forcing Europe to rethink its entire tech stack](https://spark.temrel.com/p/the-great-unstacking)
-- [Privacy at the Border: A Technical Guide to Securing Your Data and Devices](https://consciousdigital.org/privacy-at-the-border-the-ultimate-technical-guide-to-securing-your-data-and-devices-at-boarder-crossings/)
+- [LLMs Understand Nullability](https://dmodel.ai/nullability-gentle/)
+- [Decoding the 90s: Cryptography in Early Software Development &lpar;2023&rpar;](https://www.botanica.software/post/decoding-the-90s)
+- [GitMCP: Transforms any GitHub project into an MCP endpoint](https://github.com/idosal/git-mcp)
+- [Watch Antimatter Fall: Scientists Capture Gravity&#39;s Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
 - [Inside One of America&#39;s Last Pencil Factories &lpar;2018&rpar;](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
-- [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
-- [Your Startup Doesn&#39;t Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
