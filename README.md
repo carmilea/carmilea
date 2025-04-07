@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack on AI in game programming](https://twitter.com/ID_AA_Carmack/status/1909311174845329874)
 - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] &lpar;2013&rpar;](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
-- [Show HN: Kahuna, the IndexedDB-Manager Webextension](https://github.com/hummingme/kahuna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
