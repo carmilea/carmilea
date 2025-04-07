@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Your Startup Doesn&#39;t Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
-- [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
-- [Why Lotus Domino? &lpar;2024&rpar;](http://www.moohar.com/blog/why_domino)
+- [Glamorous Toolkit](https://gtoolkit.com//)
+- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
