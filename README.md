@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+- [&quot;Final Usonian Home&quot; by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)
+- [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
 - [In React {Transitions} = F&lpar;state&rpar;](https://jordaneldredge.com/blog/transitions-f-of-state/)
 - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
-- [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
-- [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
+- [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
