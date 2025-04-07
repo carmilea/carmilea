@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Ban Billboards](https://iambateman.com/articles/billboards)
+- [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
 - [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
 - [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
 - [Glamorous Toolkit](https://gtoolkit.com//)
