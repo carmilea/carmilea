@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Carmack on AI in game programming](https://twitter.com/ID_AA_Carmack/status/1909311174845329874)
+- [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
+- [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
 - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
-- [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] &lpar;2013&rpar;](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
