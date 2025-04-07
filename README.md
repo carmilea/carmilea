@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 - [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
 - [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
-- [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
+- [Why Lotus Domino? &lpar;2024&rpar;](http://www.moohar.com/blog/why_domino)
 - [Glamorous Toolkit](https://gtoolkit.com//)
-- [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
