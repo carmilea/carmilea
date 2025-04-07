@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CDC&#39;s top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
-- [Bill to block OpenAI&#39;s for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
+- [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
-- [Circuit breaker triggered in Japan for stock futures trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
-- [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
+- [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
+- [Why Lotus Domino? &lpar;2024&rpar;](http://www.moohar.com/blog/why_domino)
+- [Glamorous Toolkit](https://gtoolkit.com//)
 <!-- BLOG-POST-LIST:END -->
 
 ---
