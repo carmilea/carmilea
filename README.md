@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)
+- [Serious issues in Llama 4 training. I Have Submitted My Resignation to GenAI&quot;](https://old.reddit.com/r/LocalLLaMA/comments/1jt8yug/serious_issues_in_llama_4_training_i_have/)
+- [Bill to block OpenAI&#39;s for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
-- [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
-- [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
-- [Why Lotus Domino? &lpar;2024&rpar;](http://www.moohar.com/blog/why_domino)
-- [Glamorous Toolkit](https://gtoolkit.com//)
+- [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
