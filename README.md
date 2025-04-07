@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. stock futures tumble indicating another plummet on Wall Street](https://www.reuters.com/markets/us/us-investors-braced-more-volatility-bumps-ahead-monday-trading-open-2025-04-06/)
-- [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
-- [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
-- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
-- [Make C string literals const?](https://gustedt.wordpress.com/2025/04/06/make-c-string-literals-const/)
+- [Let&#39;s Ban Billboards](https://iambateman.com/articles/billboards)
+- [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
+- [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
+- [Glamorous Toolkit](https://gtoolkit.com//)
+- [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
