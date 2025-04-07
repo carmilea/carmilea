@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
-- [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
-- [Decoding the 90s: Cryptography in Early Software Development &lpar;2023&rpar;](https://www.botanica.software/post/decoding-the-90s)
-- [Watch Antimatter Fall: Scientists Capture Gravity&#39;s Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
-- [Europe&#39;s GDPR privacy law is headed for red tape bonfire within &#39;weeks&#39;](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
+- [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
+- [Open Source Is Geopolitical Now](https://www.openpioneers.com/p/open-source-is-geopolitical-now)
+- [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
+- [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
+- [Global Health Threat: Antibiotic-Resistant &quot;Superbug&quot; Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
