@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC&#39;s top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
 - [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)
 - [Serious issues in Llama 4 training. I Have Submitted My Resignation to GenAI&quot;](https://old.reddit.com/r/LocalLLaMA/comments/1jt8yug/serious_issues_in_llama_4_training_i_have/)
 - [Bill to block OpenAI&#39;s for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
-- [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
