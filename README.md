@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+- [In React {Transitions} = F&lpar;state&rpar;](https://jordaneldredge.com/blog/transitions-f-of-state/)
 - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
-- [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
-- [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
+- [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
-- [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
