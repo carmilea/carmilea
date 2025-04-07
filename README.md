@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Agentic AI for Marketing – Build Your Personalized SEO App](https://www.youtube.com/watch?v=xtO7r6BbqAQ)
 - [Configuring Chats in h2oGPTe | H2O Generative AI Starter Track - Part 12](https://www.youtube.com/watch?v=zEwRBUofF3g)
 - [Start with Simple AI Interactions | H2O Generative AI Starter Track - Part 10](https://www.youtube.com/watch?v=JYH-IvR6wiA)
 - [Creating Document Collections | H2O Generative AI Starter Track - Part 11](https://www.youtube.com/watch?v=TJ5XY91CAEk)
 - [[WebSummit Qatar 2025] Fireside chat: Open vs. Closed: Who Wins the Race to Democratize Agentic AI?](https://www.youtube.com/watch?v=1tbjjeql6Rc)
-- [[WebSummit Qatar 2025] AI and automation panel: The next industrial revolution](https://www.youtube.com/watch?v=X2wMFuMagAw)
 <!-- YOUTUBE:END -->
 
 
