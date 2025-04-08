@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paradigm &lpar;YC W24&rpar; Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
+- [String Theorists Say Black Holes Are Multidimensional String &#39;Supermazes&#39;](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
+- [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 - [India&#39;s repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
-- [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
-- [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
-- [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
