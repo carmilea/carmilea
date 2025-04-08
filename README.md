@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 - [SingleStore Aura Container Service: A Serverless Platform Built for AI](https://www.singlestore.com/blog/singlestore-aura-container-service-serverless-platform-for-ai)
 - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
-- [Pakistan&#39;s 22 GW Solar Shock: How a Fragile State Went Full Clean Energy](https://cleantechnica.com/2025/04/04/pakistans-22-gw-solar-shock-how-a-fragile-state-went-full-clean-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
