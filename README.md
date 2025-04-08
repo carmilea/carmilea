@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Listening habits&amp;subjective effects of background music in young adults ± ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
+- [Lecture_diffusion_models.pdf](https://www.dropbox.com/scl/fi/gmwhx7jfi2nvm8pudn5it/lecture_diffusion_models.pdf?dl=0&e=2&noscript=1&rlkey=8w5rey4dubtnbdqitper0ab4l)
+- [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 - [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
-- [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
-- [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
-- [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
