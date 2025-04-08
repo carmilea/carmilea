@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: HNSW index for vector embeddings in approx 500 LOC](https://github.com/dicroce/hnsw)
-- [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
-- [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
-- [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
-- [SingleStore Aura Container Service: A Serverless Platform Built for AI](https://www.singlestore.com/blog/singlestore-aura-container-service-serverless-platform-for-ai)
+- [Show HN: A website/app to help manage your game library](https://gamenode.app)
+- [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
+- [Apache ECharts](https://echarts.apache.org/en/index.html)
+- [Show HN: Coroot – eBPF-based, open source observability with actionable insights](https://github.com/coroot/coroot)
+- [Sculptor: Catch and fix issues as you code](https://imbue.com/product/sculptor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
