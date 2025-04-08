@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
-- [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
-- [Paradigm &lpar;YC W24&rpar; Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
-- [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
-- [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
+- [SingleStore Aura Container Service: A Serverless Platform Built for AI](https://www.singlestore.com/blog/singlestore-aura-container-service-serverless-platform-for-ai)
+- [Doge using AI to snoop on U.S. federal workers, sources say](https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/)
+- [What if we taxed advertising?](https://matthewsinclair.com/blog/0177-what-if-we-taxed-advertising)
+- [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
+- [Brazil&#39;s government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
