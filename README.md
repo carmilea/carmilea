@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Precise Language of Good Management](https://staysaasy.com/management/2025/04/06/precise-language.html)
+- [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
+- [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
+- [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
 - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
-- [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
-- [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
