@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Listening habits and effects of background music in people with and without ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
 - [India&#39;s repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
+- [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
 - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 <!-- BLOG-POST-LIST:END -->
 
