@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
+- [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 - [Show HN: A website/app to help manage your game library](https://gamenode.app)
 - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 - [Apache ECharts](https://echarts.apache.org/en/index.html)
-- [Show HN: Coroot – eBPF-based, open source observability with actionable insights](https://github.com/coroot/coroot)
-- [Sculptor: Catch and fix issues as you code](https://imbue.com/product/sculptor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
