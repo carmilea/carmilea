@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Precise Language of Good Management](https://staysaasy.com/management/2025/04/06/precise-language.html)
 - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
-- [&quot;Final Usonian Home&quot; by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)
 - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
 - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
-- [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+- [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
