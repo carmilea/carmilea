@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
+- [American academic faces years in jail after charged with insulting Thai monarchy](https://www.cnn.com/2025/04/08/asia/thailand-lese-majeste-paul-chambers-intl-hnk/index.html)
 - [Paradigm &lpar;YC W24&rpar; Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
-- [String Theorists Say Black Holes Are Multidimensional String &#39;Supermazes&#39;](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
+- [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
 - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
-- [India&#39;s repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
-- [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
