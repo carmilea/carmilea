@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Modern Struggle Is Fighting Weaponized Addiction &lpar;2020&rpar;](https://nav.al/addiction)
 - [Listening habits&amp;subjective effects of background music in young adults ± ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
-- [Lecture_diffusion_models.pdf](https://www.dropbox.com/scl/fi/gmwhx7jfi2nvm8pudn5it/lecture_diffusion_models.pdf?dl=0&e=2&noscript=1&rlkey=8w5rey4dubtnbdqitper0ab4l)
+- [India&#39;s repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
-- [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
