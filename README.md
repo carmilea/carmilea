@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
 - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
-- [Solving a &quot;Layton Puzzle&quot; with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
+- [Solving a “Layton Puzzle” with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
 - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 <!-- BLOG-POST-LIST:END -->
