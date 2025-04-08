@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 - [SingleStore Aura Container Service: A Serverless Platform Built for AI](https://www.singlestore.com/blog/singlestore-aura-container-service-serverless-platform-for-ai)
 - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
-- [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
-- [Brazil&#39;s government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
+- [Pakistan&#39;s 22 GW Solar Shock: How a Fragile State Went Full Clean Energy](https://cleantechnica.com/2025/04/04/pakistans-22-gw-solar-shock-how-a-fragile-state-went-full-clean-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
