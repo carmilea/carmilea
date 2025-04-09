@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
-- [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
-- [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
-- [SpacetimeDB](https://spacetimedb.com/)
-- [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client &lpar;Dynobase Alternative&rpar;](https://dynomate.io/)
+- [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
+- [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
+- [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
+- [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
+- [AI coding mandates are driving developers to the brink](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
