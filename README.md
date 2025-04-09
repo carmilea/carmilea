@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client &lpar;Dynobase Alternative&rpar;](https://dynomate.io/)
 - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
-- [Determining IaC ownership – a tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach)
-- [Tesla Solar Sales Declined for 4 Qtrs. Then Tesla Stopped Publishing the Numbers](https://cleantechnica.com/2025/04/07/tesla-solar-sales-declined-for-4-straight-quarters-then-tesla-stopped-publishing-the-numbers/)
-- [Fake job seekers are flooding US companies that are hiring for remote positions](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html)
+- [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
+- [The Agent2Agent Protocol &lpar;A2A&rpar;](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
