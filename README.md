@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
+- [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
+- [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
 - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
-- [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
-- [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
-- [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
+- [The best programmers I know](https://endler.dev/2025/best-programmers/)
+- [NTATV: Bringing Windows NT &lpar;Windows XP, Windows 2003&rpar; to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
