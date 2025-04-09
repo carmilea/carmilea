@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 - [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
 - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
 - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
-- [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
