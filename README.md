@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
+- [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
+- [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
+- [SpacetimeDB](https://spacetimedb.com/)
 - [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client &lpar;Dynobase Alternative&rpar;](https://dynomate.io/)
-- [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
-- [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
-- [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
-- [The Agent2Agent Protocol &lpar;A2A&rpar;](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
