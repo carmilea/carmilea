@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
-- [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
-- [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
-- [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
-- [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
+- [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
+- [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
+- [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
+- [Trump reduces tariffs to 10% for 90 days on all countries but China](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html)
+- [DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
