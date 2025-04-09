@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
-- [Trump reduces tariffs to 10% for 90 days on all countries but China](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html)
+- [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
+- [Vit D supplementation to prevent acute resp infections: review and meta-analysis](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)
 - [DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 <!-- BLOG-POST-LIST:END -->
 
