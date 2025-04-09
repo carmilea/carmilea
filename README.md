@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 - [&#39;Sun-Like&#39; Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 - [Mississippi libraries ordered to delete research in response to state laws](https://mississippitoday.org/2025/04/08/mississippi-libraries-ordered-to-delete-academic-research-in-response-to-state-laws/)
-- [NTATV: Bringing Windows NT &lpar;Windows XP, Windows 2003&rpar; to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
