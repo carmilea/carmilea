@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Owner fills restaurant with fresh water to beat Kentucky flooding](https://www.cnn.com/2025/04/07/weather/video/louisville-restaurant-kentucky-flooding-digvid)
 - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
-- [Framework stops selling some laptops in the US in response to tariffs](https://liliputing.com/framework-stops-selling-some-laptops-in-the-us-in-response-to-tariffs/)
+- [Who isn&#39;t a big fan of &quot;impartial&quot; news? People who don&#39;t have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
 - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 - [Show HN: DrawDB – open-source online database diagram editor &lpar;a retro&rpar;](https://www.drawdb.app/)
+- [Work Simplification and the History of Government Efficiency and Management](https://www.governance.fyi/p/historical-government-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
