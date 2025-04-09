@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using h2oGPTe for Context-Aware Responses | H2O Generative AI Starter Track - Part 13](https://www.youtube.com/watch?v=rl0wKvKqL1g)
 - [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics](https://www.youtube.com/watch?v=vacOCuZOxbs)
 - [Agentic AI for Marketing – Build Your Personalized SEO App](https://www.youtube.com/watch?v=xtO7r6BbqAQ)
 - [Configuring Chats in h2oGPTe | H2O Generative AI Starter Track - Part 12](https://www.youtube.com/watch?v=zEwRBUofF3g)
 - [Start with Simple AI Interactions | H2O Generative AI Starter Track - Part 10](https://www.youtube.com/watch?v=JYH-IvR6wiA)
-- [Creating Document Collections | H2O Generative AI Starter Track - Part 11](https://www.youtube.com/watch?v=TJ5XY91CAEk)
 <!-- YOUTUBE:END -->
 
 
