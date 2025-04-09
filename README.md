@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run RISC-V Binaries on AMD Zen-Series CPUs via Microcode Modification](https://rvspoc.org/en/S2502/)
+- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
+- [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
+- [&quot;It&#39;s not that bad&quot; they told me – Coreboot](https://lilysthings.org/blog/coreboot/)
 - [Bye bye 3 way handshake](https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf)
-- [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
-- [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
-- [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
-- [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
