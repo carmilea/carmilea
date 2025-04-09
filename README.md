@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
-- [Who isn&#39;t a big fan of &quot;impartial&quot; news? People who don&#39;t have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
+- [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 - [Show HN: DrawDB – open-source online database diagram editor &lpar;a retro&rpar;](https://www.drawdb.app/)
 - [PostgreSQL Full-Text Search: Fast When Done Right &lpar;Debunking the Slow Myth&rpar;](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
