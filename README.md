@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
-- [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
-- [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
-- [Vit D supplementation to prevent acute resp infections: review and meta-analysis](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)
-- [DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
+- [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
+- [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
+- [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
+- [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
+- [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
