@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
+- [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
 - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
+- [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
-- [Show HN: DrawDB – open-source online database diagram editor &lpar;a retro&rpar;](https://www.drawdb.app/)
-- [PostgreSQL Full-Text Search: Fast When Done Right &lpar;Debunking the Slow Myth&rpar;](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
-- [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
