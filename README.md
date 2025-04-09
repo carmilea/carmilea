@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treasury&#39;s OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
+- [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
+- [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 - [&#39;Sun-Like&#39; Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
-- [The best programmers I know](https://endler.dev/2025/best-programmers/)
-- [NTATV: Bringing Windows NT &lpar;Windows XP, Windows 2003&rpar; to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
-- [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
