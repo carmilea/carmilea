@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Treasury&#39;s OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
-- [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
-- [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
-- [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
-- [&#39;Sun-Like&#39; Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
+- [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
+- [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
+- [Determining IaC ownership – a tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach)
+- [Tesla Solar Sales Declined for 4 Qtrs. Then Tesla Stopped Publishing the Numbers](https://cleantechnica.com/2025/04/07/tesla-solar-sales-declined-for-4-straight-quarters-then-tesla-stopped-publishing-the-numbers/)
+- [Fake job seekers are flooding US companies that are hiring for remote positions](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
