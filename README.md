@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
+- [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
 - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
 - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
 - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
-- [AI coding mandates are driving developers to the brink](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
