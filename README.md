@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The reasons SpaceX won nearly all recent military launch contracts](https://arstechnica.com/space/2025/04/a-key-spacex-competitor-says-he-has-not-been-impacted-by-musks-ties-to-trump/)
-- [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
-- [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
-- [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
-- [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
+- [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
+- [NIH freezes all research grants to Columbia University](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)
+- [Evidence suggesting Quasar Alpha is OpenAI&#39;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
+- [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
+- [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
