@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are .NET 4.x and JDK 8.x the &quot;zombie&quot; runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
+- [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
+- [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
+- [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
 - [Linux on Samsung Chromebook Plus &lpar;Kevin&rpar; with Rockchip RK3399 ARM SoC &lpar;2024&rpar;](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
 - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
-- [Hunt for Red October 1990 &lpar;2016&rpar;](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
-- [Telli &lpar;YC F24&rpar; is hiring founding engineers in Berlin, Germany &lpar;on-site&rpar;](http://hi.telli.com/eng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
