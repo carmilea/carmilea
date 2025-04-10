@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The reasons SpaceX won nearly all recent military launch contracts](https://arstechnica.com/space/2025/04/a-key-spacex-competitor-says-he-has-not-been-impacted-by-musks-ties-to-trump/)
+- [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
+- [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
+- [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
 - [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
-- [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
-- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
-- [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
-- [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
