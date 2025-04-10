@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
+- [Hunt for Red October 1990 &lpar;2016&rpar;](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 - [Telli &lpar;YC F24&rpar; is hiring founding engineers in Berlin, Germany &lpar;on-site&rpar;](http://hi.telli.com/eng)
 - [LLM Benchmark for &#39;Longform Creative Writing&#39;](https://eqbench.com/creative_writing_longform.html)
-- [France&#39;s new high-speed train has Americans asking: Why can&#39;t we have that?](https://grist.org/looking-forward/frances-new-high-speed-train-design-has-americans-asking-why-cant-we-have-that/)
 - [MusiCoT, a chain-of-thought &lpar;CoT&rpar; prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
+- [National Weather Service no longer translating products for non-English speakers](https://apnews.com/article/weather-spanish-translation-noaa-nws-trump-71c727dbe2e4956247c9d9152494f1dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
