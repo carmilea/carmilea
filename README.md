@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
-- [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
-- [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
-- [Linux on Samsung Chromebook Plus &lpar;Kevin&rpar; with Rockchip RK3399 ARM SoC &lpar;2024&rpar;](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
-- [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
+- [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)
+- [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
+- [Sleep is essential – researchers are trying to work out why](https://www.nature.com/articles/d41586-025-00964-w)
+- [Lawmakers are skeptical of Zuckerberg&#39;s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)
+- [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
