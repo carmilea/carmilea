@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So, I Wrote a Book: The Story Behind &quot;100 Go Mistakes and How to Avoid Them&quot;](https://www.thecoder.cafe/p/100-go-mistakes)
+- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
+- [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
+- [So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
 - [PEP 750 – Template Strings &lpar;t-strings&rpar; have been accepted](https://peps.python.org/pep-0750/)
 - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
-- [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
-- [Demystifying the &lpar;Shebang&rpar;: Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
