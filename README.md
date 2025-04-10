@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why do some links start out [dead]?](https://news.ycombinator.com/item?id=43647143)
+- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+- [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
+- [How a $2k &#39;Made in the USA&#39; Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 - [Demystifying the &lpar;Shebang&rpar;: Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 - [Suffering-Oriented Programming &lpar;2012&rpar;](http://nathanmarz.com/blog/suffering-oriented-programming.html)
-- [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
-- [Big Book of R](https://www.bigbookofr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
