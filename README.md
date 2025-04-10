@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Run RISC-V Binaries on AMD Zen-Series CPUs via Microcode Modification](https://rvspoc.org/en/S2502/)
+- [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
+- [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
 - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
-- [&quot;It&#39;s not that bad&quot; they told me – Coreboot](https://lilysthings.org/blog/coreboot/)
-- [Bye bye 3 way handshake](https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf)
+- [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
