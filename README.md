@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
-- [NIH freezes all research grants to Columbia University](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)
 - [Evidence suggesting Quasar Alpha is OpenAI&#39;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
