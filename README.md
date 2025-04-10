@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are .NET 4.x and JDK 8.x the &quot;zombie&quot; runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
+- [Linux on Samsung Chromebook Plus &lpar;Kevin&rpar; with Rockchip RK3399 ARM SoC &lpar;2024&rpar;](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
 - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 - [Hunt for Red October 1990 &lpar;2016&rpar;](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 - [Telli &lpar;YC F24&rpar; is hiring founding engineers in Berlin, Germany &lpar;on-site&rpar;](http://hi.telli.com/eng)
-- [LLM Benchmark for &#39;Longform Creative Writing&#39;](https://eqbench.com/creative_writing_longform.html)
-- [MusiCoT, a chain-of-thought &lpar;CoT&rpar; prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
