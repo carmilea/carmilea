@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
-- [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
-- [How a $2k &#39;Made in the USA&#39; Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
-- [Demystifying the &lpar;Shebang&rpar;: Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
-- [Suffering-Oriented Programming &lpar;2012&rpar;](http://nathanmarz.com/blog/suffering-oriented-programming.html)
+- [Attorney representing a student protester detained by federal immigration agents](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities)
+- [So, I Wrote a Book: The Story Behind &quot;100 Go Mistakes and How to Avoid Them&quot;](https://www.thecoder.cafe/p/100-go-mistakes)
+- [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
+- [PEP 750 – Template Strings &lpar;t-strings&rpar; have been accepted](https://peps.python.org/pep-0750/)
+- [What if your website had business hours? &lpar;2022&rpar;](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 <!-- BLOG-POST-LIST:END -->
 
 ---
