@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do some links start out [dead]?](https://news.ycombinator.com/item?id=43647143)
 - [Demystifying the &lpar;Shebang&rpar;: Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
+- [Suffering-Oriented Programming &lpar;2012&rpar;](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 - [Big Book of R](https://www.bigbookofr.com/)
-- [Garfield Minus Garfield](https://garfieldminusgarfield.net)
-- [Legion Health &lpar;YC S21&rpar; is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
