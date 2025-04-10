@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
-- [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
-- [Evidence suggesting Quasar Alpha is OpenAI&#39;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
-- [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
-- [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
+- [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
+- [Telli &lpar;YC F24&rpar; is hiring founding engineers in Berlin, Germany &lpar;on-site&rpar;](http://hi.telli.com/eng)
+- [LLM Benchmark for &#39;Longform Creative Writing&#39;](https://eqbench.com/creative_writing_longform.html)
+- [France&#39;s new high-speed train has Americans asking: Why can&#39;t we have that?](https://grist.org/looking-forward/frances-new-high-speed-train-design-has-americans-asking-why-cant-we-have-that/)
+- [MusiCoT, a chain-of-thought &lpar;CoT&rpar; prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
