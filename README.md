@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)
-- [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
-- [Sleep is essential – researchers are trying to work out why](https://www.nature.com/articles/d41586-025-00964-w)
-- [Lawmakers are skeptical of Zuckerberg&#39;s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)
-- [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
+- [Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity &lpar;1992&rpar;](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
+- [.localhost Domains](https://inclouds.space/localhost-domains)
+- [Arroyo &lpar;YC W23&rpar; has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
+- [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
+- [Busy Bar](https://busy.bar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
