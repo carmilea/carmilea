@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 - [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
+- [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
+- [Leaked Meta data reveals massive campaign to remove pro-Palestine posts](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
 - [Ask HN: Has anyone quit their startup &lpar;VC-backed&rpar; over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
-- [Erlang&#39;s not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
-- [Agency vs. Control vs. Reliability in Agent Design](https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/)
-- [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
