@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
-- [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
-- [Live Map of the London Underground](https://www.londonunderground.live/)
-- [MediSearch &lpar;YC S23&rpar; Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
-- [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
+- [What&#39;s Wrong with Apple?](https://www.nytimes.com/2025/04/11/technology/apple-issues-trump-tariffs.html)
+- [Roame &lpar;YC S23&rpar; Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
+- [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
+- [How to Make a Longbow](https://www.howtomakealongbow.co.uk)
+- [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
