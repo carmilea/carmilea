@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
-- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
-- [Crystal 1.16.0 Is Released](https://crystal-lang.org/2025/04/09/1.16.0-released/)
-- [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
-- [Black Mirror&#39;s pessimism porn won&#39;t lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
+- [The phony comforts of useful idiots](https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots)
+- [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
+- [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)
+- [Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC](https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/)
+- [Crystal 1.16.0](https://crystal-lang.org/2025/04/09/1.16.0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
