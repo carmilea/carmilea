@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MediSearch &lpar;YC S23&rpar; Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
 - [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
 - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 - [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)
-- [Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC](https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
