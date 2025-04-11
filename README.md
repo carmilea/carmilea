@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
+- [Ask HN: Has anyone quit their startup &lpar;VC-backed&rpar; over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
+- [Erlang&#39;s not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
+- [Agency vs. Control vs. Reliability in Agent Design](https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/)
 - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
-- [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-- [Windows 2000 Server named peak Microsoft. Readers say all downhill since Clippy](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/)
-- [Show HN: Building better base images](https://github.com/avkcode/container-tools)
-- [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
