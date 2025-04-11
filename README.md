@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Deletes Bluesky Posts After Furious Backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
+- [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
+- [Windows 2000 Server named peak Microsoft. Readers say all downhill since Clippy](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/)
 - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
-- [Roame &lpar;YC S23&rpar; Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
