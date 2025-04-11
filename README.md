@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mystery of ICE&#39;s Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
+- [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
+- [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 - [You Might Think of Shrimp as Bugs of the Sea: But Bugs Are Shrimp of the Land](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 - [Germany creates &#39;super–high-tech ministry&#39; for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
-- [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
-- [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
+- [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
