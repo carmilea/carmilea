@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
 - [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
-- [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
 - [Live Map of the London Underground](https://www.londonunderground.live/)
 - [MediSearch &lpar;YC S23&rpar; Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
+- [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
