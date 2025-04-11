@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
+- [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
 - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
-- [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
-- [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
