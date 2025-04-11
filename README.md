@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
+- [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 - [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
 - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
-- [Leaked Meta data reveals massive campaign to remove pro-Palestine posts](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
-- [Ask HN: Has anyone quit their startup &lpar;VC-backed&rpar; over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
 <!-- BLOG-POST-LIST:END -->
 
 ---
