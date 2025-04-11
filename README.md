@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eight or more drinks per week linked to brain lesions](https://www.aan.com/PressRoom/Home/PressRelease/5251)
+- [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
+- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
+- [Crystal 1.16.0 Is Released](https://crystal-lang.org/2025/04/09/1.16.0-released/)
 - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
 - [Black Mirror&#39;s pessimism porn won&#39;t lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
-- [What Your Sleep Tracker Gets Wrong About Sleep](https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep)
-- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
