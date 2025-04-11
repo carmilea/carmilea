@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eight or more drinks per week linked to brain lesions](https://www.aan.com/PressRoom/Home/PressRelease/5251)
+- [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
+- [Black Mirror&#39;s pessimism porn won&#39;t lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
+- [What Your Sleep Tracker Gets Wrong About Sleep](https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep)
 - [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
-- [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
-- [So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
-- [PEP 750 – Template Strings &lpar;t-strings&rpar; have been accepted](https://peps.python.org/pep-0750/)
-- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
