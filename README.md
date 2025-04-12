@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
+- [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
+- [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
 - [Artie &lpar;YC S23&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
-- [Paris said au revoir to cars. Air pollution maps reveal a dramatic change](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/)
-- [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
-- [Open source and self hostable/private file converter](https://vert.sh)
-- [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
+- [&#39;Paraparticles&#39; Would Be a Third Kingdom of Quantum Particle](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
