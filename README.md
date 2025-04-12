@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida&#39;s New Social Media Bill Explicitly Demands an Encryption Backdoor](https://www.eff.org/deeplinks/2025/04/floridas-new-social-media-bill-says-quiet-part-out-loud-and-demands-encryption)
+- [Dear Big Tech, Stop Shoving AI into Operating Systems](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/)
+- [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
+- [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/)
+- [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
-- [China Just Approved Flying Taxis – No Pilot Needed](https://engineerine.com/chinas-flying-taxis/)
-- [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
-- [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
