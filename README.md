@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida&#39;s New Social Media Bill Explicitly Demands an Encryption Backdoor](https://www.eff.org/deeplinks/2025/04/floridas-new-social-media-bill-says-quiet-part-out-loud-and-demands-encryption)
 - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
+- [China Just Approved Flying Taxis – No Pilot Needed](https://engineerine.com/chinas-flying-taxis/)
 - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 - [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
-- [Artie &lpar;YC S23&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
-- [&#39;Paraparticles&#39; Would Be a Third Kingdom of Quantum Particle](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
