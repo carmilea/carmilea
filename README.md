@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artie &lpar;YC S23&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
+- [Paris said au revoir to cars. Air pollution maps reveal a dramatic change](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/)
 - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
-- [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
-- [&quot;Slow Pay, Low Pay or No Pay&quot;: Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
 - [Open source and self hostable/private file converter](https://vert.sh)
-- [AI can&#39;t stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
+- [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
