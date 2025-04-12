@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awe – Modern compiler for Algol W](https://github.com/glynawe/awe)
+- [Dev Tools Honeytrap: Why We Can&#39;t Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
+- [Firecracker Entropy for VM Clones](https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md)
 - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
-- [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
-- [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
-- [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
-- [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
+- [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
