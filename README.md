@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of Apache Iceberg for geospatial data analysis](https://wherobots.com/blog/benefits-of-apache-iceberg-for-geospatial-data-analysis/)
+- [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
 - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
 - [&quot;Slow Pay, Low Pay or No Pay&quot;: Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
-- [AI Hallucinations Are Fueling a New Class of Supply Chain Attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
-- [Charts.css](https://chartscss.org/)
+- [Open source and self hostable/private file converter](https://vert.sh)
+- [AI can&#39;t stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
