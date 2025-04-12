@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source and self hostable/private file converter](https://vert.sh)
 - [AI can&#39;t stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
 - [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
-- [Why Your &#39;Harmonious&#39; Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
 - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
 - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 <!-- BLOG-POST-LIST:END -->
