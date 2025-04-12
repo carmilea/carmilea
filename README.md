@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
-- [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
-- [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
-- [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
-- [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
+- [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)
+- [Zod v4 Beta](https://v4.zod.dev/v4)
+- [Ask HN: How do you monetize personal code if it&#39;s not an &quot;app&quot;?](https://news.ycombinator.com/item?id=43667887)
+- [WTF Is Botmetr? The First Platform That Rewards You for Hunting Chatbots](https://www.botmetr.com/)
+- [The 5 levels of configuration languages](https://beza1e1.tuxen.de/config_levels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
