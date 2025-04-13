@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
+- [How to NOT build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 - [BPS is a GPS alternative that nobody&#39;s heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
-- [Hunger shifts attention towards less healthy food options, study finds](https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html)
 - [How to Structure a B2B Marketplace Venture](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
-- [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
