@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
-- [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
+- [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
+- [Regime Change in the West](https://www.lrb.co.uk/the-paper/v47/n06/perry-anderson/regime-change-in-the-west)
+- [Math 13 – An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 - [The self-castrated hatmaker who killed John Wilkes Booth &lpar;2015&rpar;](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
-- [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
