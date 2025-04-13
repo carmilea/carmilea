@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
 - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
+- [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
 - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
 - [How to not build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
-- [How to repair the parts that explode in Lenovo Yoga laptops](http://adammunich.com/how-to-repair-the-parts-that-explode-in-lenovo-yoga-laptops/)
-- [BPS is a GPS alternative that nobody&#39;s heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
