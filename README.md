@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
 - [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
-- [Facebook is just Craigslist now](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/)
+- [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy &lpar;2024&rpar; [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
+- [Osprey – Browser extension that protects you from malicious websites](https://github.com/Foulest/Osprey)
 - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
-- [Go channels are bad &lpar;2016&rpar;](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
-- [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
