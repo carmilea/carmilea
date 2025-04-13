@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don&#39;t Sell Space in Your Homelab &lpar;2023&rpar;](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
-- [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
+- [Few build Hypervisors. We&#39;re one of them](https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/)
 - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 - [Why Fennel?](https://fennel-lang.org/rationale)
+- [Using bad hardware: why I work in the terminal &lpar;2024&rpar;](https://colean.cc/journal/2024/08sep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
