@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reddit Bot Drove Me Insane](https://posthuman.blog/this-reddit-post-fried-my-brain/)
-- [DragonFlyBSD Lands &quot;Next-Gen&quot; Disk Encryption Code](https://www.phoronix.com/news/DragonFlyBSD-DM-Crypt-NG)
+- [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
+- [Facebook is just Craigslist now](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/)
 - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 - [Go channels are bad &lpar;2016&rpar;](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
