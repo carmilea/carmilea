@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)
-- [Using bad hardware: why I work in the terminal &lpar;2024&rpar;](https://colean.cc/journal/2024/08sep.html)
+- [Show HN: Gatehouse-TS – TypeScript port of Rust&#39;s authorization policy framework](https://github.com/9Morello/gatehouse-ts)
+- [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
+- [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
+- [Why Fennel?](https://fennel-lang.org/rationale)
 - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
-- [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
-- [Why Pascal Is Not My Favorite Programming Language &lpar;1981&rpar; [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
