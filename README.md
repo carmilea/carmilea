@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal basic income: German experiment bring surprising results](https://www.ctvnews.ca/lifestyle/article/a-german-experiment-gave-people-a-basic-monthly-income-the-effect-on-their-work-ethic-was-surprising/)
+- [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 - [My imaginary children aren&#39;t using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)
+- [Go channels are bad &lpar;2016&rpar;](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
 - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
-- [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
