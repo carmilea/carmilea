@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Few build Hypervisors. We&#39;re one of them](https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/)
-- [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
-- [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
-- [Why Fennel?](https://fennel-lang.org/rationale)
-- [Using bad hardware: why I work in the terminal &lpar;2024&rpar;](https://colean.cc/journal/2024/08sep.html)
+- [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+- [The self-castrated hatmaker who killed John Wilkes Booth &lpar;2015&rpar;](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
+- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+- [Show HN: Crystal, the most accurate U.S. gov&#39;t data search tool](https://askcrystal.info/)
+- [Don&#39;t sell space in your homelab &lpar;2023&rpar;](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
