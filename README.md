@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Gatehouse-TS – TypeScript port of Rust&#39;s authorization policy framework](https://github.com/9Morello/gatehouse-ts)
+- [Please Don&#39;t Sell Space in Your Homelab &lpar;2023&rpar;](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
 - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
 - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
+- [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 - [Why Fennel?](https://fennel-lang.org/rationale)
-- [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
