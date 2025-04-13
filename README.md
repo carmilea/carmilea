@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 - [The self-castrated hatmaker who killed John Wilkes Booth &lpar;2015&rpar;](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
-- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
-- [Show HN: Crystal, the most accurate U.S. gov&#39;t data search tool](https://askcrystal.info/)
-- [Don&#39;t sell space in your homelab &lpar;2023&rpar;](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
+- [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
+- [Implementing DeepSeek R1&#39;s GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
