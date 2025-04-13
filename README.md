@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
+- [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)
+- [Using bad hardware: why I work in the terminal &lpar;2024&rpar;](https://colean.cc/journal/2024/08sep.html)
+- [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
-- [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
-- [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
-- [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy &lpar;2024&rpar; [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
+- [Why Pascal Is Not My Favorite Programming Language &lpar;1981&rpar; [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
