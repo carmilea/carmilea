@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
+- [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
 - [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
 - [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
 - [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy &lpar;2024&rpar; [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
-- [Osprey – Browser extension that protects you from malicious websites](https://github.com/Foulest/Osprey)
-- [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
