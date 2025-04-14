@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 - [Tariffs, Saving, and Investment](https://www.grumpy-economist.com/p/tariffs-saving-and-investment)
 - [Albert Einstein&#39;s theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 - [Wiz&#39;s $32B GTM Playbook](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
-- [Show HN: Resurrecting Infocom&#39;s Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
