@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
+- [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
+- [Hacktical C: practical hacker&#39;s guide to the C programming language](https://github.com/codr7/hacktical-c)
 - [Zig&#39;s new LinkedList API &lpar;it&#39;s time to learn fieldParentPtr&rpar;](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
-- [Albert Einstein&#39;s theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
-- [Wiz&#39;s $32B GTM Playbook](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
-- [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
