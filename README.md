@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
+- [Calypso: LLMs as Dungeon Masters&#39; Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
 - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
+- [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
 - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
-- [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
-- [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
-- [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
