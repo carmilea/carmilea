@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel sells 51% stake in Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+- [Tomb Engine](https://tombengine.com/)
+- [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+- [Show HN: ClipCapsule – A Clipboard Manager for Linux &lpar;Built with Go and Wails&rpar;](https://github.com/Victor-Evogor/clipcapsule)
 - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
-- [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
-- [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
