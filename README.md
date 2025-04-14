@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Political beliefs affect patients&#39; trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
+- [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
 - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
 - [Hacktical C: practical hacker&#39;s guide to the C programming language](https://github.com/codr7/hacktical-c)
-- [Zig&#39;s new LinkedList API &lpar;it&#39;s time to learn fieldParentPtr&rpar;](https://www.openmymind.net/Zigs-New-LinkedList-API/)
-- [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
