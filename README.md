@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
-- [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
-- [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
-- [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
-- [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
+- [FEMA to end coverage for North Carolina recovery efforts](https://www.accuweather.com/en/weather-news/fema-ends-100-coverage-for-north-carolina-recovery-efforts/1765416)
+- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
+- [Simple Web Server](https://simplewebserver.org/)
+- [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
+- [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
