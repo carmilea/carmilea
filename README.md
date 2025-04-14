@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Political beliefs affect patients&#39; trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
-- [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
-- [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
-- [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
-- [Hacktical C: practical hacker&#39;s guide to the C programming language](https://github.com/codr7/hacktical-c)
+- [A 42,600-ton Chinese ship will drill 7 miles &lpar;ca. 11 km&rpar; under the ocean floor](https://farmingdale-observer.com/2025/04/12/weighing-42600-tons-this-new-chinese-monster-was-built-for-one-purpose-to-break-the-world-record-for-the-deepest-drill-at-7-miles/)
+- [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
+- [One of the country&#39;s leading Alzheimer&#39;s projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
+- [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
+- [EU issues US-bound staff with burner phones over spying fears](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
