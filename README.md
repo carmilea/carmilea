@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
+- [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
+- [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
+- [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
-- [Regime Change in the West](https://www.lrb.co.uk/the-paper/v47/n06/perry-anderson/regime-change-in-the-west)
-- [Math 13 – An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
-- [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
-- [The self-castrated hatmaker who killed John Wilkes Booth &lpar;2015&rpar;](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
