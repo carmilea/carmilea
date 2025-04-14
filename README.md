@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
+- [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
+- [Show HN: Resurrecting Infocom&#39;s Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
+- [Show HN: Nissan&#39;s Leaf app doesn&#39;t have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
 - [Calypso: LLMs as Dungeon Masters&#39; Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
 - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
-- [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
-- [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
