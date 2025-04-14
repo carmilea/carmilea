@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
+- [Albert Einstein&#39;s Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
+- [Wiz&#39;s $32B GTM Playbook: Unpacking the Formula &lpar;Part I&rpar;](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 - [Show HN: Resurrecting Infocom&#39;s Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 - [Show HN: Nissan&#39;s Leaf app doesn&#39;t have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
 - [Calypso: LLMs as Dungeon Masters&#39; Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
-- [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
