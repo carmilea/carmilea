@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A 42,600-ton Chinese ship will drill 7 miles &lpar;ca. 11 km&rpar; under the ocean floor](https://farmingdale-observer.com/2025/04/12/weighing-42600-tons-this-new-chinese-monster-was-built-for-one-purpose-to-break-the-world-record-for-the-deepest-drill-at-7-miles/)
-- [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
-- [One of the country&#39;s leading Alzheimer&#39;s projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
-- [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
-- [EU issues US-bound staff with burner phones over spying fears](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b)
+- [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+- [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
+- [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
+- [Canadian math prodigy allegedly stole US$65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
+- [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
