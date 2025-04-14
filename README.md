@@ -61,8 +61,8 @@
 - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
-- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a PM](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
-- [Simple Web Server](https://simplewebserver.org/)
+- [Harvard&#39;s response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
+- [Censors Ignore Unencrypted HTTP/2 Traffic &lpar;2024&rpar;](https://upb-syssec.github.io/blog/2024/http2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
