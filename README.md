@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
+- [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
 - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
+- [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
 - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
-- [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
-- [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
-- [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
