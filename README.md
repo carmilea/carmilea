@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FEMA to end coverage for North Carolina recovery efforts](https://www.accuweather.com/en/weather-news/fema-ends-100-coverage-for-north-carolina-recovery-efforts/1765416)
+- [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
+- [Harvard&#39;s response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
 - [KaiPod Learning &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
 - [Simple Web Server](https://simplewebserver.org/)
 - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
-- [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
