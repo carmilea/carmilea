@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
+- [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+- [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
 - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
-- [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
-- [Canadian math prodigy allegedly stole US$65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
-- [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
