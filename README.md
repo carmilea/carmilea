@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
+- [The Problem with &quot;Vibe Coding&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 - [Tomb Engine](https://tombengine.com/)
 - [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
-- [Show HN: ClipCapsule – A Clipboard Manager for Linux &lpar;Built with Go and Wails&rpar;](https://github.com/Victor-Evogor/clipcapsule)
-- [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
