@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Typewise &lpar;YC S22&rpar; Is Hiring an ML Engineer &lpar;Zurich, Switzerland&rpar;](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 - [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)
-- [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 - [Hacking a Smart Home Device &lpar;2024&rpar;](https://jmswrnr.com/blog/hacking-a-smart-home-device)
-- [The problem with &quot;vibe coding&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+- [Important open source projects should not use GitHub &lpar;2020&rpar;](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
