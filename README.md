@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
-- [Launch HN: Mrge.io &lpar;YC X25&rpar; – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
-- [CT scans could cause 5% of cancers, study finds; experts note uncertainty](https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/)
-- [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
-- [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
+- [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
+- [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
+- [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
+- [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
+- [You cannot have our user&#39;s data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
