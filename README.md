@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [METS, the Middle English Texts Series](https://metseditions.org)
+- [&#39;End of an era&#39;: The last RadioShack in Maryland is closing its doors](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
+- [Post-Silicon Validation of Static Lockstep Mode](https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html)
+- [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 - [Clolog](https://github.com/bobschrag/clolog)
-- [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
-- [Agentic AI: The Next Evolution in AI-Powered Decision-Making](https://www.singlestore.com/blog/agentic-ai-the-next-evolution-in-ai-powered-decision-making)
-- [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)
-- [Benn Jordan&#39;s AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
