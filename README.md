@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
-- [Notion Mail Is Out](https://www.notion.com/product/mail)
-- [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
-- [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
-- [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
+- [Clolog](https://github.com/bobschrag/clolog)
+- [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+- [Agentic AI: The Next Evolution in AI-Powered Decision-Making](https://www.singlestore.com/blog/agentic-ai-the-next-evolution-in-ai-powered-decision-making)
+- [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)
+- [Benn Jordan&#39;s AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
