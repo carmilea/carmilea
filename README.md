@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
-- [The Problem with &quot;Vibe Coding&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+- [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
+- [Cloud-free connection of ESP32-based air purifier to Home Assistant &lpar;2024&rpar;](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+- [The problem with &quot;vibe coding&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+- [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
-- [Tomb Engine](https://tombengine.com/)
-- [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
