@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 - [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
 - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 - [METS, the Middle English Texts Series](https://metseditions.org)
-- [Post-Silicon Validation of Static Lockstep Mode](https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
