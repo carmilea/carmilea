@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
+- [Show HN: Million Dollar Homepage Meets LinkedIn](https://10000resumes.com)
+- [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
 - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
 - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
 - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
-- [Typewise &lpar;YC S22&rpar; Is Hiring an ML Engineer &lpar;Zurich, Switzerland&rpar;](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
