@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Million Dollar Homepage Meets LinkedIn](https://10000resumes.com)
+- [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
+- [Launch HN: Mrge.io &lpar;YC X25&rpar; – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
+- [CT scans could cause 5% of cancers, study finds; experts note uncertainty](https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/)
 - [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
-- [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
-- [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
-- [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
+- [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
