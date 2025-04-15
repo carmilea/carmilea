@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 - [Tomb Engine](https://tombengine.com/)
 - [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
 - [Show HN: ClipCapsule – A Clipboard Manager for Linux &lpar;Built with Go and Wails&rpar;](https://github.com/Victor-Evogor/clipcapsule)
 - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
-- [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
