@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Typewise &lpar;YC S22&rpar; Is Hiring an ML Engineer &lpar;Zurich, Switzerland&rpar;](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
-- [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)
 - [Hacking a Smart Home Device &lpar;2024&rpar;](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 - [Important open source projects should not use GitHub &lpar;2020&rpar;](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
+- [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
