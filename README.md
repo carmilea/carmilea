@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
+- [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)
 - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
-- [Cloud-free connection of ESP32-based air purifier to Home Assistant &lpar;2024&rpar;](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+- [Hacking a Smart Home Device &lpar;2024&rpar;](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 - [The problem with &quot;vibe coding&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
-- [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
-- [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
