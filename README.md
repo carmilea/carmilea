@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Mastering GenAI with h2oGPTe | H2O Generative AI Starter Track - Final Recap](https://www.youtube.com/watch?v=3U7yHP_GX1A)
 - [Understanding System Prompts and User Inputs | H2O Generative AI Starter Track - Part 15](https://www.youtube.com/watch?v=0S4m032uLFU)
 - [Creating an API key in h2oGPTe | H2O Generative AI Starter Track - Part 14](https://www.youtube.com/watch?v=GTvFv28cOg0)
 - [Agentic AI for Marketing – Build Your Personalized SEO App | SingleStore Webinars](https://www.youtube.com/watch?v=ImZJtvVTpk0)
 - [Agentic AI for Marketing – Build Your Personalized SEO App](https://www.youtube.com/watch?v=xtO7r6BbqAQ)
-- [Using h2oGPTe for Context-Aware Responses | H2O Generative AI Starter Track - Part 13](https://www.youtube.com/watch?v=rl0wKvKqL1g)
 <!-- YOUTUBE:END -->
 
 
