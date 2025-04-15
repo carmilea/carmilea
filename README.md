@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
 - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 - [METS, the Middle English Texts Series](https://metseditions.org)
-- [&#39;End of an era&#39;: The last RadioShack in Maryland is closing its doors](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
-- [Post-Silicon Validation of Static Lockstep Mode](https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html)
+- [The last RadioShack in Maryland is closing](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
