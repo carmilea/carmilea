@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
+- [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
+- [Notion Mail Is Out](https://www.notion.com/product/mail)
+- [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
 - [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
 - [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
-- [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
-- [You cannot have our user&#39;s data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
