@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
+- [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
 - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 - [METS, the Middle English Texts Series](https://metseditions.org)
