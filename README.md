@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: K&lpar;r&rpar;ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
-- [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
-- [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
-- [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
-- [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
+- [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
+- [OpenAI o3 and o4-mini – OpenAI](https://openai.com/index/introducing-o3-and-o4-mini/)
+- [Www.hive.co &lpar;YC S14&rpar; Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
+- [How to Calculate an Average in MongoDB®](https://www.singlestore.com/blog/how-to-calculate-an-average-in-mongodb-)
+- [SingleStore BYOC on AWS: Unlocking Greater Control for Your Data Infrastructure](https://www.singlestore.com/blog/singlestore-byoc-on-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ---
