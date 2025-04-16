@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Former cybersecurity chief Chris Krebs leaves SentinelOne after executive order](https://www.cnbc.com/2025/04/16/former-cisa-chief-krebs-leaves-sentinelone-after-trump-exec-order.html)
+- [When College Might Not Be Worth It](https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/)
+- [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Man who built ISP instead of paying Comcast expands to hundreds of homes &lpar;2022&rpar;](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
-- [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
-- [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
