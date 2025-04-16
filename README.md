@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)
+- [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
+- [Launch HN: Jasmine &lpar;YC S22&rpar; – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
+- [Kermit: A typeface for kids – making reading easier](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
+- [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
-- [JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/)
-- [Streak &lpar;YC W22&rpar; is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
-- [A Postmortem of a Startup](https://buildwithtract.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
