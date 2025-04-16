@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+- [Man who built ISP instead of paying Comcast expands to hundreds of homes &lpar;2022&rpar;](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
-- [Aerial Minesweeping &lpar;2021&rpar;](https://www.historynet.com/aerial-minesweeping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
