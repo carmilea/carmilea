@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Postmortem of a Startup](https://buildwithtract.com/)
-- [Archeology of React &lpar;2016&rpar;](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
-- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
-- [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
-- [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
+- [Get Out of My Head](https://getoutofmyhead.dev/)
+- [Russian Breach of US Data Through Doge over Starlink &quot;Directly to Russia&quot;](https://www.narativ.org/p/whistle-blower-russian-breach-of)
+- [CVE Foundation Launched to Secure the Future of the CVE Program](https://www.thecvefoundation.org/home)
+- [Streak &lpar;YC W22&rpar; is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
+- [European Union Vulnerability Database &lpar;EUVD&rpar;](https://euvd.enisa.europa.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
