@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 - [Aerial Minesweeping &lpar;2021&rpar;](https://www.historynet.com/aerial-minesweeping/)
 - [Replacing CVE](https://gavinhoward.com/2025/04/replacing-cve)
-- [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
