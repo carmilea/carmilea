@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US abruptly turns off funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
+- [Flexport Is Hiring Software Engineers](https://flexport.com)
+- [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/)
 - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
-- [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
-- [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
-- [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
-- [METS, the Middle English Texts Series](https://metseditions.org)
+- [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
