@@ -62,7 +62,7 @@
 - [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
 - [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
-- [An interactive introduction to rotors from geometric algebra &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
+- [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
