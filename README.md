@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 - [Aerial Minesweeping &lpar;2021&rpar;](https://www.historynet.com/aerial-minesweeping/)
-- [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
-- [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
-- [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
+- [Replacing CVE](https://gavinhoward.com/2025/04/replacing-cve)
+- [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
