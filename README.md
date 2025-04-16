@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
+- [Aerial Minesweeping &lpar;2021&rpar;](https://www.historynet.com/aerial-minesweeping/)
 - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
-- [OpenAI o3 and o4-mini – OpenAI](https://openai.com/index/introducing-o3-and-o4-mini/)
-- [Www.hive.co &lpar;YC S14&rpar; Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
-- [How to Calculate an Average in MongoDB®](https://www.singlestore.com/blog/how-to-calculate-an-average-in-mongodb-)
-- [SingleStore BYOC on AWS: Unlocking Greater Control for Your Data Infrastructure](https://www.singlestore.com/blog/singlestore-byoc-on-aws)
+- [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
+- [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
