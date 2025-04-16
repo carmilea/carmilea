@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US abruptly turns off funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
-- [Flexport Is Hiring Software Engineers](https://flexport.com)
-- [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/)
+- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
+- [An interactive introduction to rotors from geometric algebra &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
 - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
-- [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
