@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
-- [Launch HN: Jasmine &lpar;YC S22&rpar; – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
-- [Kermit: A typeface for kids – making reading easier](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
-- [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
-- [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
+- [Tell HN: Warning Google trains on your data when using aistudio.google.com](https://news.ycombinator.com/item?id=43706530)
+- [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
+- [Darwin&#39;s Children Drew All over the &quot;On the Origin of Species&quot; Manuscript &lpar;2014&rpar;](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
+- [Bauplan – Git-for-data pipelines on object storage](https://docs.bauplanlabs.com/en/latest/)
+- [Science, the Endless Frontier &lpar;1945&rpar; [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
