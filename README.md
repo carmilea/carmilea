@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Postmortem of a Startup](https://buildwithtract.com/)
 - [Archeology of React &lpar;2016&rpar;](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
 - [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
 - [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
-- [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
