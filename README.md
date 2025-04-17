@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 - [Formance &lpar;YC S21&rpar; Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
-- [Astronomers claim strongest evidence of alien life yet](https://www.newscientist.com/article/2477008-astronomers-claim-strongest-evidence-of-alien-life-yet/)
 - [Manga Guide To Databases &lpar;2004&rpar; [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
 - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
