@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Federal Government Is Undermining Election Security](https://www.brennancenter.org/our-work/research-reports/how-federal-government-undermining-election-security)
-- [&#39;College Protester&#39; Isn&#39;t Real. It&#39;s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
-- [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
-- [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
-- [An Intro to DeepSeek&#39;s Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
+- [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
+- [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
+- [Stainless steel strengthened: Twisting creates submicron &#39;anti-crash wall&#39;](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
+- [This &#39;College Protester&#39; Isn&#39;t Real. It&#39;s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
+- [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
