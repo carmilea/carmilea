@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
+- [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
+- [Kennedy promises to find environmental causes of autism](https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583)
+- [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
 - [Zoom outage caused by accidental &#39;shutting down&#39; of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
 - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
-- [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
-- [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
