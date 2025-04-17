@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
+- [Top OpenAI Catastrophic Risk Official Steps Down Abruptly](https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic)
 - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
 - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
-- [Stainless steel strengthened: Twisting creates submicron &#39;anti-crash wall&#39;](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
-- [This &#39;College Protester&#39; Isn&#39;t Real. It&#39;s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
-- [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
