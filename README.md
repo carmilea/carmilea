@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: val – An arbitrary precision calculator language written in Rust](https://github.com/terror/val)
+- [Mux &lpar;YC W16&rpar; is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
+- [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
+- [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
 - [UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli](https://lpiccinelli-eth.github.io/pub/unik3d/)
 - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
-- [Show HN: HN Watercooler – listen to HN threads as an audio conversation](https://onetake-ai.github.io/hackernews-watercooler/)
-- [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
