@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PolyThink: A Multi-Agent AI System to Eliminate Hallucinations](https://news.ycombinator.com/item?id=43714433)
+- [Why Japan&#39;s &quot;Weakest Samurai Warlord&quot; Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
+- [Advanced Shell Scripting with Bash &lpar;2006&rpar; [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
+- [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
-- [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
-- [Formance &lpar;YC S21&rpar; Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
