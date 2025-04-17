@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Encryption Is Not a Crime](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/)
+- [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
+- [An Intro to DeepSeek&#39;s Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 - [Discord&#39;s face scanning age checks &#39;start of a bigger shift&#39;](https://www.bbc.com/news/articles/cjr75wypg0vo)
-- [I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Back End Engineer in Latam &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [mIRC: Internet Relay Chat Client](https://www.mirc.com/)
-- [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
