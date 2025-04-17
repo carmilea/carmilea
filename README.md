@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
-- [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
-- [Why Japan&#39;s &quot;Weakest Samurai Warlord&quot; Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
-- [Advanced Shell Scripting with Bash &lpar;2006&rpar; [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
-- [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
+- [Discord&#39;s face scanning age checks &#39;start of a bigger shift&#39;](https://www.bbc.com/news/articles/cjr75wypg0vo)
+- [I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Back End Engineer in Latam &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [mIRC: Internet Relay Chat Client](https://www.mirc.com/)
+- [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
