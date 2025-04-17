@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former cybersecurity chief Chris Krebs leaves SentinelOne after executive order](https://www.cnbc.com/2025/04/16/former-cisa-chief-krebs-leaves-sentinelone-after-trump-exec-order.html)
-- [When College Might Not Be Worth It](https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/)
-- [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
-- [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Warren Buffett holds enough cash to buy 476 companies in the S&amp;P 500](https://www.mitrade.com/insights/news/live-news/article-3-762059-20250416)
+- [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
+- [Zoom outage caused by accidental &#39;shutting down&#39; of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
+- [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
+- [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
