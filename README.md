@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Encryption Is Not a Crime](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/)
+- [How the Federal Government Is Undermining Election Security](https://www.brennancenter.org/our-work/research-reports/how-federal-government-undermining-election-security)
+- [&#39;College Protester&#39; Isn&#39;t Real. It&#39;s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
+- [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 - [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
 - [An Intro to DeepSeek&#39;s Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
-- [Discord&#39;s face scanning age checks &#39;start of a bigger shift&#39;](https://www.bbc.com/news/articles/cjr75wypg0vo)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Back End Engineer in Latam &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
