@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
+- [On Jane Jacobs &lpar;2017&rpar;](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
+- [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
-- [Top OpenAI Catastrophic Risk Official Steps Down Abruptly](https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic)
-- [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
-- [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
