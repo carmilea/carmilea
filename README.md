@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warren Buffett holds enough cash to buy 476 companies in the S&amp;P 500](https://www.mitrade.com/insights/news/live-news/article-3-762059-20250416)
 - [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
 - [Zoom outage caused by accidental &#39;shutting down&#39; of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
 - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
 - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
+- [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
