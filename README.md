@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
+- [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
 - [Why Japan&#39;s &quot;Weakest Samurai Warlord&quot; Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 - [Advanced Shell Scripting with Bash &lpar;2006&rpar; [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
 - [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
-- [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
-- [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
