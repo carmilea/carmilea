@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: val – An arbitrary precision calculator language written in Rust](https://github.com/terror/val)
+- [UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli](https://lpiccinelli-eth.github.io/pub/unik3d/)
+- [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
+- [Show HN: HN Watercooler – listen to HN threads as an audio conversation](https://onetake-ai.github.io/hackernews-watercooler/)
 - [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
-- [On Jane Jacobs &lpar;2017&rpar;](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
-- [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
