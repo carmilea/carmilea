@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics](https://www.youtube.com/watch?v=vacOCuZOxbs)
 - [Understanding AI Agents  | H2O.ai Agents - Part 2](https://www.youtube.com/watch?v=4CM3SD5zFqY)
 - [Exploring DeepSeek – The New Frontier in Open-Source AI Models](https://www.youtube.com/watch?v=4z_AZ32DuLw)
 - [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance](https://www.youtube.com/watch?v=BbOKmIoYjGg)
 - [Introduction to AI Agents | H2O.ai Agents - Part 1](https://www.youtube.com/watch?v=h9lI8WLFq14)
+- [Mastering GenAI with h2oGPTe | H2O Generative AI Starter Track - Final Recap](https://www.youtube.com/watch?v=3U7yHP_GX1A)
 <!-- YOUTUBE:END -->
 
 
