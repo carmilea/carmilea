@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A deadly E. coli outbreak hit 15 states, but the FDA chose not to publicize it](https://www.nbcnews.com/news/us-news/ecoli-bacteria-lettuce-outbreak-rcna200236)
+- [arXiv moving from Cornell servers to Google Cloud](https://info.arxiv.org/hiring/index.html)
+- [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 - [Waiting 100 years for a home isn&#39;t a housing crisis, it&#39;s a moral collapse](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse)
 - [Free high-performance cross-platform game engine](https://defold.com)
-- [Unikernel Linux &lpar;UKL&rpar; &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3552326.3587458)
-- [AMP and why emails are not &lpar;and should never be&rpar; interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
-- [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
