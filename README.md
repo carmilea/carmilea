@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A deep-cover KGB spy recruited his own son](https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals)
+- [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 - [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
-- [Intuit, Owner of TurboTax, Wins Battle Against America&#39;s Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
-- [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
 <!-- BLOG-POST-LIST:END -->
