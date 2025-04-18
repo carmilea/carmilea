@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Crypto Developer Activity Is Declining](https://stovetop.substack.com/p/why-crypto-developer-activity-is)
+- [Show HN: Attune – Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 - [A Math Lesson From Hitler’s Germany &lpar;2017&rpar;](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
-- [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
+- [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
 - [IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/)
 <!-- BLOG-POST-LIST:END -->
 
