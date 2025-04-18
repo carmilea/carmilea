@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
-- [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
-- [Mux &lpar;YC W16&rpar; is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
-- [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
-- [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
+- [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
+- [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
+- [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
+- [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
+- [CN Tower, Behind the Scenes &lpar;2014&rpar;](https://site.roadwolf.ca/categories/ue/cntower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
