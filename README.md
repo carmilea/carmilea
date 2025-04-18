@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A deep-cover KGB spy recruited his own son](https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals)
 - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
-- [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
+- [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
+- [CN Tower, Behind the Scenes &lpar;2014&rpar;](https://site.roadwolf.ca/categories/ue/cntower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
