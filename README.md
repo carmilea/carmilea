@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Exercise: What can&#39;t be solved with money? &lpar;2011&rpar;](https://longform.asmartbear.com/startup-money/)
+- [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
 - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
 - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
-- [Free high-performance cross-platform game engine](https://defold.com)
+- [Defold: cross-platform game engine](https://defold.com)
 - [Unikernel Linux &lpar;UKL&rpar; &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3552326.3587458)
 <!-- BLOG-POST-LIST:END -->
 
