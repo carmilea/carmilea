@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waiting 100 years for a home isn&#39;t a housing crisis, it&#39;s a moral collapse](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse)
+- [Free high-performance cross-platform game engine](https://defold.com)
+- [Unikernel Linux &lpar;UKL&rpar; &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3552326.3587458)
+- [AMP and why emails are not &lpar;and should never be&rpar; interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 - [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
-- [Viral ChatGPT trend is doing &#39;reverse location search&#39; from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
-- [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
-- [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
-- [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
