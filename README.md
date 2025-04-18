@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s next space-telescope is almost ready to launch but may be killed by cuts](https://www.scientificamerican.com/article/nasas-next-major-space-telescope-is-ready-to-launch-trump-wants-to-kill-it/)
+- [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 - [Show HN: &lpar;bits&rpar; of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 - [Ink and Switch Constraint System &lpar;2023&rpar;](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 - [Dot &lpar;YC S21&rpar; is hiring a sales engineer to automate analytics &lpar;fully remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
-- [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
-- [College Towns: Urbanism from a Past Era with Ryan Allen](https://www.governance.fyi/p/college-towns-urbanism-from-a-past)
 <!-- BLOG-POST-LIST:END -->
 
 ---
