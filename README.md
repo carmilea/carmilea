@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Crypto Developer Activity Is Declining](https://stovetop.substack.com/p/why-crypto-developer-activity-is)
 - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
-- [A Math Lesson From Hitler’s Germany](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
-- [Americans Are Obsessed with Protein and It&#39;s Driving Nutrition Experts Nuts](https://www.wsj.com/lifestyle/protein-food-industry-trend-nutrition-8a2cf27b)
+- [A Math Lesson From Hitler’s Germany &lpar;2017&rpar;](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
 - [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
-- [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
+- [IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
