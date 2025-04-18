@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s next space-telescope is almost ready to launch but may be killed by cuts](https://www.scientificamerican.com/article/nasas-next-major-space-telescope-is-ready-to-launch-trump-wants-to-kill-it/)
-- [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
-- [Show HN: &lpar;bits&rpar; of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
-- [Ink and Switch Constraint System &lpar;2023&rpar;](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
-- [Dot &lpar;YC S21&rpar; is hiring a sales engineer to automate analytics &lpar;fully remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
+- [UML diagram for the DDD example in Evans&#39; book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
+- [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
+- [Loglan&#39;82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
+- [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
+- [There&#39;s Life Inside Earth&#39;s Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
