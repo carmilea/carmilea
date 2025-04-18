@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+- [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&amp;FREE](https://starterpilot.com/)
 - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 - [Full Text Search of US Court records](https://www.judyrecords.com/)
 - [UML diagram for the DDD example in Evans&#39; book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
-- [Electric Propulsion&#39;s Dirty Secret: Why Lithium Can&#39;t Fly &lpar;Or Float&rpar; Profitably](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably)
-- [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
