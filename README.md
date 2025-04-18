@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Attune – Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
+- [Dot &lpar;YC S21&rpar; is hiring a sales engineer to automate analytics &lpar;fully remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
+- [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
+- [College Towns: Urbanism from a Past Era with Ryan Allen](https://www.governance.fyi/p/college-towns-urbanism-from-a-past)
+- [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
-- [A Math Lesson From Hitler’s Germany &lpar;2017&rpar;](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
-- [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
-- [IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
