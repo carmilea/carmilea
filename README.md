@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
+- [Intuit, Owner of TurboTax, Wins Battle Against America&#39;s Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 - [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
 - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
