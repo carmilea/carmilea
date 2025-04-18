@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
+- [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+- [A Math Lesson From Hitler’s Germany](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
+- [Americans Are Obsessed with Protein and It&#39;s Driving Nutrition Experts Nuts](https://www.wsj.com/lifestyle/protein-food-industry-trend-nutrition-8a2cf27b)
+- [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
 - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
-- [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
-- [Defold: cross-platform game engine](https://defold.com)
-- [Unikernel Linux &lpar;UKL&rpar; &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3552326.3587458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
