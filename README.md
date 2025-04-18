@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
+- [Viral ChatGPT trend is doing &#39;reverse location search&#39; from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
 - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
-- [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
-- [CN Tower, Behind the Scenes &lpar;2014&rpar;](https://site.roadwolf.ca/categories/ue/cntower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
