@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hextraction, a free and open source board game](https://www.playhextraction.com/)
+- [Full Text Search of US Court records](https://www.judyrecords.com/)
 - [UML diagram for the DDD example in Evans&#39; book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
 - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 - [Loglan&#39;82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
-- [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
-- [There&#39;s Life Inside Earth&#39;s Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
