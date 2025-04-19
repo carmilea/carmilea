@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
+- [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
+- [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
+- [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
-- [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
-- [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
-- [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
-- [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
