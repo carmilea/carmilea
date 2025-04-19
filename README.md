@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
-- [A star appears to have collapsed straight into a black hole without supernova](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/)
-- [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
-- [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
-- [The British sitcom that swept through the Balkans &lpar;2023&rpar;](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
+- [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
+- [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)
+- [Neurite](https://github.com/satellitecomponent/Neurite)
+- [Demo &quot;The Mind&quot; by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
+- [Achieveing lower latencies with S3 object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
