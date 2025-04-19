@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
+- [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
+- [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
 - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
-- [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
-- [Frankenstein&#39;s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
-- [Neurite](https://github.com/satellitecomponent/Neurite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
