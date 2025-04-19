@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
+- [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
-- [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
-- [Hypertext TV](https://hypertext.tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
