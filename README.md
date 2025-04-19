@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
+- [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
 - [The British sitcom that swept through the Balkans &lpar;2023&rpar;](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
-- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-- [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
