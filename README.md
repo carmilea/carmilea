@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Immediate red flags&#39;: questions raised over &#39;expert&#39; much quoted in UK press](https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
+- [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
 - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
 - [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
-- [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
