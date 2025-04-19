@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
 - [Hypertext TV](https://hypertext.tv/)
 - [OpenAI&#39;s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
 - [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
-- [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
