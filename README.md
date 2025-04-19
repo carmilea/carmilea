@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
 - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
