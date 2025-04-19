@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-- [Popular CT Scans Could Account for 5% of All Cancer Cases a Year](https://www.ucsf.edu/news/2025/04/429791/popular-ct-scans-could-account-5-all-cancer-cases-year)
-- [The Art of Assembly Language](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
+- [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
+- [Monsky&#39;s Theorem](https://mathmondays.com/monskys-theorem)
+- [The Art of Assembly Language &lpar;2010&rpar;](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
 <!-- BLOG-POST-LIST:END -->
