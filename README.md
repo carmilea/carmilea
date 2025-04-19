@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists claim to have found colour no one has seen before](https://www.theguardian.com/science/2025/apr/18/scientists-claim-to-have-found-colour-no-one-has-seen-before)
+- [Ask HN: why is my F500 employer okay with paying 5x to freelancers?](https://news.ycombinator.com/item?id=43735969)
+- [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
 - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
-- [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)
-- [Neurite](https://github.com/satellitecomponent/Neurite)
-- [Demo &quot;The Mind&quot; by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
-- [Achieveing lower latencies with S3 object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
+- [Frankenstein&#39;s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
