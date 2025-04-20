@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The bomber&#39;s words sound mainstream. Like he won &#39; Oklahoma City&#39;s tragedy](https://www.theguardian.com/us-news/2025/apr/19/timothy-mcveigh-oklahoma-bombing-far-right-1995)
+- [Can We Trust CVE?](https://opensourcesecurity.io/2025/04-can-we-trust-cve/)
 - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
-- [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
 - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
+- [Monsky&#39;s Theorem](https://mathmondays.com/monskys-theorem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
