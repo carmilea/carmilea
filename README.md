@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
+- [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
 - [Let&#39;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 - [The AI skeptic&#39;s guide to AI collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration)
 - [100 Years to Solve an Integral &lpar;2020&rpar;](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
