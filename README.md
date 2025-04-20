@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
 - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 - [Things Zig Comptime Won&#39;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 - [The skill of the future is not &#39;AI&#39;, but &#39;Focus&#39;](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
-- [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
