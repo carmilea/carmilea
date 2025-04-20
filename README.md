@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [99% Effective: First Hormone-Free Male Birth Control Pill Enters Human Trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
+- [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
+- [The Movie Mistake Mystery from &quot;Revenge of the Sith&quot;](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
+- [Signal Carnival](https://www.quiss.org/signal_carnival/)
 - [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
-- [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
-- [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
-- [Things Zig Comptime Won&#39;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
-- [The skill of the future is not &#39;AI&#39;, but &#39;Focus&#39;](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
