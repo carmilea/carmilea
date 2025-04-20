@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI skeptic&#39;s guide to AI collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration)
 - [100 Years to Solve an Integral &lpar;2020&rpar;](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
 - [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
 - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
-- [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
