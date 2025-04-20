@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft faces growing unrest over role in Israel&#39;s war on Gaza](https://www.theguardian.com/technology/2025/apr/18/microsoft-ai-israel-gaza-war)
-- [What&#39;s happening with Tesla&#39;s solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
-- [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
-- [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
-- [You Commit Three Felonies a Day &lpar;2013&rpar;](https://kottke.org/13/06/you-commit-three-felonies-a-day)
+- [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
+- [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
+- [Things Zig Comptime Won&#39;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
+- [The skill of the future is not &#39;AI&#39;, but &#39;Focus&#39;](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+- [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
