@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What should third world dev do in this economy?](https://news.ycombinator.com/item?id=43746782)
+- [Why the Ultrarich Are Unplugging from &quot;Smart Homes&quot;](https://www.hollywoodreporter.com/lifestyle/real-estate/tech-free-homes-luxury-trend-1236177909/)
 - [FurtherAI &lpar;YC W24&rpar; Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
-- [Find the Odd Disk](https://colors2.alessandroroussel.com/)
-- [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
-- [First hormone-free male birth control pill enters human trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
+- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+- [Better Error Handling](https://meowbark.dev/Better-error-handling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
