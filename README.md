@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
 - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
+- [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
 - [First hormone-free male birth control pill enters human trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
-- [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
-- [The Movie Mistake Mystery from &quot;Revenge of the Sith&quot;](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
