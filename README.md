@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
-- [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 - [Let&#39;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 - [100 Years to Solve an Integral &lpar;2020&rpar;](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Pretty State Machine Patterns in Rust &lpar;2016&rpar;](https://hoverbear.org/blog/rust-state-machine-pattern/)
+- [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
