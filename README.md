@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
 - [Python&#39;s new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 - [The Effect of Deactivating Facebook and Instagram on Users&#39; Emotional State](https://www.nber.org/papers/w33697)
-- [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
+- [I thought I bought a camera, but no DJI sold me a license to use it [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
 - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
-- [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
