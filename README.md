@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cekura &lpar;Formerly Vocera&rpar; &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
+- [Visiting – Epic](https://www.epic.com/visiting/)
+- [Thieves took their iPhones. Apple won&#39;t give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
 - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
-- [An update to our pricing](https://windsurf.com/blog/pricing-v2)
-- [Propositional Parlor Puzzle](https://buttondown.com/jaffray/archive/propositional-parlor-puzzle/)
-- [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
