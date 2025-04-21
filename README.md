@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
-- [Enlightenment desktop: Terminology 1.14.0 Release](https://www.enlightenment.org/news/2025-03-23-terminology-1.14.0)
+- [Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram](https://github.com/dimonomid/nerdlog)
 - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
-- [Android 16 lets the Linux Terminal use your phone&#39;s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
 - [Are ChatGPT and co harming human intelligence?](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence)
+- [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
