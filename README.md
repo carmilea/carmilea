@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Board Game Industry Is Burning – and It&#39;s Their Own Fault](https://www.highnoongame.com/post/the-boardgame-industry-is-burning)
+- [The Effect of Deactivating Facebook and Instagram on Users&#39; Emotional State](https://www.nber.org/papers/w33697)
+- [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
 - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 - [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
-- [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
-- [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
+- [How Thai authorities use online doxxing to suppress dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
