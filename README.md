@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs struggle to write performant code](https://www.codeflash.ai/post/llms-struggle-to-write-performant-code)
 - [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
+- [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
 - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
 - [Demystifying decorators: They don&#39;t need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
