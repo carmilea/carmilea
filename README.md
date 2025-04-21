@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex Isn&#39;t Hard &lpar;2023&rpar;](https://timkellogg.me/blog/2023/07/11/regex)
+- [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
+- [Enlightenment desktop: Terminology 1.14.0 Release](https://www.enlightenment.org/news/2025-03-23-terminology-1.14.0)
+- [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 - [Android 16 lets the Linux Terminal use your phone&#39;s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
-- [Official abuse of state security has always been bad, now it&#39;s horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
-- [How Tesla Is Replacing the Age-Old Can Bus](https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus)
-- [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
+- [Are ChatGPT and co harming human intelligence?](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
