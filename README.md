@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Regex Isn&#39;t Hard &lpar;2023&rpar;](https://timkellogg.me/blog/2023/07/11/regex)
+- [Android 16 lets the Linux Terminal use your phone&#39;s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
+- [Official abuse of state security has always been bad, now it&#39;s horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
+- [How Tesla Is Replacing the Age-Old Can Bus](https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus)
 - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
-- [Python&#39;s new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
-- [The Effect of Deactivating Facebook and Instagram on Users&#39; Emotional State](https://www.nber.org/papers/w33697)
-- [I thought I bought a camera, but no DJI sold me a license to use it [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
-- [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
