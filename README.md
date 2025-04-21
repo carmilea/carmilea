@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WikiTree: The Free Family Tree](https://www.wikitree.com/)
-- [SQL vs. NoSQL: Solved With SingleStore’s Blazing-Fast JSON Analytics](https://www.singlestore.com/blog/sql-vs-nosql-solved-with-singlestore-blazing-fast-json-analytics)
-- [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
-- [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
-- [Handwriting activates broader brain networks than typing](https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/)
+- [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
+- [Spark AI &lpar;YC W24&rpar; is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+- [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
+- [The campaign to subvert Africa&#39;s internet registry](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry)
+- [Coding Neon Kernels for the Cortex-A53](https://destevez.net/2025/02/coding-neon-kernels-for-the-cortex-a53/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
