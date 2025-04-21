@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Hidden Architecture](https://skiplabs.io/blog/event-hidden-arch)
-- [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
+- [WikiTree: The Free Family Tree](https://www.wikitree.com/)
 - [SQL vs. NoSQL: Solved With SingleStore’s Blazing-Fast JSON Analytics](https://www.singlestore.com/blog/sql-vs-nosql-solved-with-singlestore-blazing-fast-json-analytics)
 - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
 - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
+- [Handwriting activates broader brain networks than typing](https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
