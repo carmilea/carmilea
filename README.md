@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
-- [Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram](https://github.com/dimonomid/nerdlog)
-- [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
-- [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
-- [Reworking 30 lines of Linux code could cut power use by up to 30 percent](https://spectrum.ieee.org/data-center-energy-consumption)
+- [Event-Hidden Architecture](https://skiplabs.io/blog/event-hidden-arch)
+- [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
+- [SQL vs. NoSQL: Solved With SingleStore’s Blazing-Fast JSON Analytics](https://www.singlestore.com/blog/sql-vs-nosql-solved-with-singlestore-blazing-fast-json-analytics)
+- [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
+- [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 <!-- BLOG-POST-LIST:END -->
 
 ---
