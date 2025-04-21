@@ -47,9 +47,9 @@
 <!-- YOUTUBE:START -->
 - [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=jHFAG-HzFeI)
 - [How h2oGPTe Uses AI Agents for AutoML  | H2O.ai Agents - Part 3](https://www.youtube.com/watch?v=JiQlcx30oZc)
+- [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics](https://www.youtube.com/watch?v=vacOCuZOxbs)
 - [Understanding AI Agents  | H2O.ai Agents - Part 2](https://www.youtube.com/watch?v=4CM3SD5zFqY)
 - [Exploring DeepSeek – The New Frontier in Open-Source AI Models](https://www.youtube.com/watch?v=4z_AZ32DuLw)
-- [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance](https://www.youtube.com/watch?v=BbOKmIoYjGg)
 <!-- YOUTUBE:END -->
 
 
