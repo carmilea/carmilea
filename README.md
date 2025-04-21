@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
+- [The Future of Compute: Nvidia&#39;s Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
 - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
+- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 - [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
-- [Cekura &lpar;Formerly Vocera&rpar; &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
-- [Visiting – Epic](https://www.epic.com/visiting/)
-- [Thieves took their iPhones. Apple won&#39;t give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
