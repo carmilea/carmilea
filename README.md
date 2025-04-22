@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sapphire: Rust based package manager for macOS &lpar;homebrew replacement&rpar;](https://github.com/alexykn/sapphire)
-- [Ping, You&#39;ve Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
-- [The Truth about Atlantis &lpar;2019&rpar;](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
-- [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
-- [Parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
+- [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
+- [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
+- [A study of lightning fatalities inside buildings while using smartphones [pdf] &lpar;2024&rpar;](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
+- [Everyday life improvements since the 90s &lpar;2022&rpar;](https://gwern.net/improvement)
+- [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
