@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
+- [Launch HN: Infra.new &lpar;YC W23&rpar; – DevOps Copilot with Guardrails Built In](https://news.ycombinator.com/item?id=43763026)
+- [Introduction to Graph Transformers](https://kumo.ai/research/introduction-to-graph-transformers/)
 - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
-- [Abusing DuckDB-WASM by making SQL draw 3D graphics &lpar;Sort Of&rpar;](https://www.hey.earth/posts/duckdb-doom)
-- [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
-- [In restaurants, We need a new way to signal that we&#39;re ready to pay](https://sebs.website/blog/in-restaurants-we-need-a-new-way-to-signal-payment)
+- [I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI Realtime API](https://github.com/akdeb/ElatoAI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
