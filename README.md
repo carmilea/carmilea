@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Crypto Con: How Trump Is Looting America from the Oval Office](https://mitchthelawyer.substack.com/p/the-crypto-con-how-trump-is-looting)
 - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 - [Attacking My Landlord&#39;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
 - [&#39;World War Zoos&#39; Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
-- [Forecaster reacts: METR&#39;s bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
