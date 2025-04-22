@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
+- [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
 - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 - [Attacking My Landlord&#39;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
-- [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
-- [&#39;World War Zoos&#39; Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
