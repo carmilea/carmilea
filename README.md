@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recover &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance)
-- [Show HN: I built a Ruby gem that handles memoization with a ttl](https://github.com/mishalzaman/memo_ttl)
-- [Are polynomial features the root of all evil? &lpar;2024&rpar;](https://alexshtf.github.io/2024/01/21/Bernstein.html)
-- [I should have loved biology too](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too)
-- [Google will keep cookies and skip opt-out option in Chrome](https://privacysandbox.com/news/privacy-sandbox-next-steps/)
+- [Show HN: My Porn addiction quitting app got 600 downloads and $218 in a week](https://unlustapp.com/app)
+- [The Truth about Atlantis &lpar;2019&rpar;](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
+- [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
+- [I started a devblog about mixing SwiftUI and C++ to make a Twitch app](https://www.kulve.org/blog/tech_stack)
+- [Parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
