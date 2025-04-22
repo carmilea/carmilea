@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
-- [101 Basic Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
+- [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 - [The Future of Compute: Nvidia&#39;s Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
 - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
