@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Onyx &lpar;YC W24&rpar; Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
+- [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+- [Windows File Manager &lpar;WinFile&rpar; repository archived on March 1, 2025](https://github.com/microsoft/winfile)
+- [Classic Computer Replicas](https://obsolescence.dev/index.html)
 - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
-- [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
-- [A study of lightning fatalities inside buildings while using smartphones [pdf] &lpar;2024&rpar;](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
-- [Everyday life improvements since the 90s &lpar;2022&rpar;](https://gwern.net/improvement)
-- [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
