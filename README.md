@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Crypto Con: How Trump Is Looting America from the Oval Office](https://mitchthelawyer.substack.com/p/the-crypto-con-how-trump-is-looting)
+- [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 - [Attacking My Landlord&#39;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
