@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
-- [Launch HN: Infra.new &lpar;YC W23&rpar; – DevOps Copilot with Guardrails Built In](https://news.ycombinator.com/item?id=43763026)
-- [Introduction to Graph Transformers](https://kumo.ai/research/introduction-to-graph-transformers/)
-- [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
-- [I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI Realtime API](https://github.com/akdeb/ElatoAI)
+- [Show HN: Morphik – Open-source RAG that understands PDF images, runs locally](https://github.com/morphik-org/morphik-core)
+- [An Utterly Incomplete Look at Research from 1825](http://bcmullins.github.io/research-from-1825/)
+- [ClickHouse gets lazier &lpar;and faster&rpar;: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
+- [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
+- [Surprises in Logic &lpar;2016&rpar;](https://math.ucr.edu/home/baez/surprises.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
