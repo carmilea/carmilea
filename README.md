@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)
+- [Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance](https://arxiv.org/abs/2402.14531)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
-- [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
+- [Quantum-assured magnetic navigation with higher positioning accuracy than GPS](https://arxiv.org/abs/2504.08167)
 - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
-- [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
-- [Marijuana hospital visits linked to dementia diagnosis within 5 years – a study](https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
