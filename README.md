@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
+- [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
+- [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
 - [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
-- [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
-- [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
-- [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
-- [Attacking My Landlord&#39;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
+- [Marijuana hospital visits linked to dementia diagnosis within 5 years – a study](https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
