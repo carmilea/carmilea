@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oregon House passes bill to criminalize sharing AI-generated fake nude photos](https://oregoncapitalchronicle.com/2025/04/15/oregon-house-passes-bill-to-criminalize-sharing-ai-generated-fake-nude-photos/)
+- [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
+- [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
+- [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 - [Onyx &lpar;YC W24&rpar; Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
-- [Classic Computer Replicas](https://obsolescence.dev/index.html)
-- [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
