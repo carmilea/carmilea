@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
+- [&#39;World War Zoos&#39; Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
 - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
 - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
-- [The Future of Compute: Nvidia&#39;s Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
-- [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
 <!-- BLOG-POST-LIST:END -->
 
 ---
