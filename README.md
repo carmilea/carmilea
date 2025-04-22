@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)
-- [Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance](https://arxiv.org/abs/2402.14531)
+- [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
+- [Abusing DuckDB-WASM by making SQL draw 3D graphics &lpar;Sort Of&rpar;](https://www.hey.earth/posts/duckdb-doom)
+- [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
-- [Quantum-assured magnetic navigation with higher positioning accuracy than GPS](https://arxiv.org/abs/2504.08167)
-- [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
+- [In restaurants, We need a new way to signal that we&#39;re ready to pay](https://sebs.website/blog/in-restaurants-we-need-a-new-way-to-signal-payment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
