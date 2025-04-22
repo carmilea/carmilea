@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Morphik – Open-source RAG that understands PDF images, runs locally](https://github.com/morphik-org/morphik-core)
-- [An Utterly Incomplete Look at Research from 1825](http://bcmullins.github.io/research-from-1825/)
-- [ClickHouse gets lazier &lpar;and faster&rpar;: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
-- [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
-- [Surprises in Logic &lpar;2016&rpar;](https://math.ucr.edu/home/baez/surprises.html)
+- [Recover &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance)
+- [Show HN: I built a Ruby gem that handles memoization with a ttl](https://github.com/mishalzaman/memo_ttl)
+- [Are polynomial features the root of all evil? &lpar;2024&rpar;](https://alexshtf.github.io/2024/01/21/Bernstein.html)
+- [I should have loved biology too](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too)
+- [Google will keep cookies and skip opt-out option in Chrome](https://privacysandbox.com/news/privacy-sandbox-next-steps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
