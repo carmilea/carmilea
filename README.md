@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: My Porn addiction quitting app got 600 downloads and $218 in a week](https://unlustapp.com/app)
+- [Sapphire: Rust based package manager for macOS &lpar;homebrew replacement&rpar;](https://github.com/alexykn/sapphire)
+- [Ping, You&#39;ve Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
 - [The Truth about Atlantis &lpar;2019&rpar;](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
 - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
-- [I started a devblog about mixing SwiftUI and C++ to make a Twitch app](https://www.kulve.org/blog/tech_stack)
 - [Parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
 <!-- BLOG-POST-LIST:END -->
 
