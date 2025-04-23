@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tarpit ideas – what are tarpit ideas and how to avoid them &lpar;2023&rpar; [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
-- [I won&#39;t be vibe coding anymore: a noob&#39;s perspective](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/)
-- [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
-- [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
-- [Launch HN: Cua &lpar;YC X25&rpar; – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
+- [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
+- [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
+- [The Really Big One &lpar;2015&rpar;](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
+- [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
+- [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
