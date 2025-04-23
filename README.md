@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 - [Mozilla blocks UAE for internet security guardian after hacking reports &lpar;2019&rpar;](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
 - [Collatz&#39;s Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 - [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
-- [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
