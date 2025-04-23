@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Bright Circle&#39; and &#39;Margaret Fuller&#39;: The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
+- [Sail-Trim Simulator](https://simulator.atterwind.info/)
 - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 - [The Really Big One &lpar;2015&rpar;](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
-- [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
-- [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
