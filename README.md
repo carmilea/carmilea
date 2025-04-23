@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
+- [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)
+- [America&#39;s cyber defenses are being dismantled from the inside](https://www.theregister.com/2025/04/23/trump_us_security/)
 - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
-- [A Pixel Is Not a Little Square &lpar;1995&rpar; [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
-- [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
-- [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
-- [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+- [OpenAI wants to buy Chrome and make it an &quot;AI-first&quot; experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
