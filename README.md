@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-- [Digital Ghost Towns: When Big Companies Acquire, Shut Down, and Sit on Domains](https://www.snagged.com/post/digital-ghost-towns-when-big-companies-acquire-shut-down-and-sit-on-premium-domains)
-- [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
-- [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
-- [Collatz&#39;s Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
+- [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
+- [Launch HN: Cua &lpar;YC X25&rpar; – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
+- [The Danglepoise](https://www.sallery.co.uk/danglepoise)
+- [Introducing Notebook Version History: Your Safety Net for Experimentation](https://www.singlestore.com/blog/introducing-notebook-version-history)
+- [Automated Antenna Design with Evolutionary Algorithms [pdf] &lpar;2006&rpar;](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
