@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
+- [Tarpit ideas – what are tarpit ideas and how to avoid them &lpar;2023&rpar; [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
+- [I won&#39;t be vibe coding anymore: a noob&#39;s perspective](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/)
+- [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
+- [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 - [Launch HN: Cua &lpar;YC X25&rpar; – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
-- [The Danglepoise](https://www.sallery.co.uk/danglepoise)
-- [Introducing Notebook Version History: Your Safety Net for Experimentation](https://www.singlestore.com/blog/introducing-notebook-version-history)
-- [Automated Antenna Design with Evolutionary Algorithms [pdf] &lpar;2006&rpar;](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
