@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
-- [Doge Worker&#39;s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+- [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
 - [Lucene University](https://github.com/msfroh/lucene-university)
 - [You wouldn&#39;t steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
-- [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
