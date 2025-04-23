@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Bright Circle&#39; and &#39;Margaret Fuller&#39;: The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
-- [Sail-Trim Simulator](https://simulator.atterwind.info/)
-- [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
-- [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
-- [The Really Big One &lpar;2015&rpar;](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
+- [You Wouldn&#39;t Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+- [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
+- [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
+- [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
+- [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
