@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
-- [The Rise and Fall and Rise Again of Lionel Trains &lpar;1997&rpar;](http://spikesys.com/Modelrr/lionel.html)
+- [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)
 - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
