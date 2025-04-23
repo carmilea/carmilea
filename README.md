@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Wouldn&#39;t Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+- [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+- [Doge Worker&#39;s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+- [Lucene University](https://github.com/msfroh/lucene-university)
+- [You wouldn&#39;t steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
-- [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
-- [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
-- [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
