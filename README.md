@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study of birds shows citizen science can be trusted](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can)
+- [The Problem with Modern Engineering Isn&#39;t Speed. It&#39;s Chaos](https://earthly.dev/blog/lunar-launch/)
+- [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
 - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
-- [CSS Hell](https://csshell.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
