@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with Modern Engineering Isn&#39;t Speed. It&#39;s Chaos](https://earthly.dev/blog/lunar-launch/)
+- [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
+- [The Rise and Fall and Rise Again of Lionel Trains &lpar;1997&rpar;](http://spikesys.com/Modelrr/lionel.html)
 - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
-- [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
