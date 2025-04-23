@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
 - [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)
 - [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
-- [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
