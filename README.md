@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
+- [Mozilla blocks UAE for internet security guardian after hacking reports &lpar;2019&rpar;](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
+- [Collatz&#39;s Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
+- [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
 - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
-- [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)
-- [America&#39;s cyber defenses are being dismantled from the inside](https://www.theregister.com/2025/04/23/trump_us_security/)
-- [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
-- [OpenAI wants to buy Chrome and make it an &quot;AI-first&quot; experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
