@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study of birds shows citizen science can be trusted](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can)
 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
 - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
-- [Onyx &lpar;YC W24&rpar; Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
-- [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+- [CSS Hell](https://csshell.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
