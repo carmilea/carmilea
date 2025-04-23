@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+- [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
+- [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
 - [Where did the false &quot;equal transit-time&quot; explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
 - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
-- [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
-- [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
-- [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
