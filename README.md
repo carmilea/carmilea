@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlin DeepTech Landscape](https://startup-map.berlin/lists/53190)
+- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
+- [Digital Ghost Towns: When Big Companies Acquire, Shut Down, and Sit on Domains](https://www.snagged.com/post/digital-ghost-towns-when-big-companies-acquire-shut-down-and-sit-on-premium-domains)
 - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 - [Collatz&#39;s Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
-- [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
