@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+- [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)
+- [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
 - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
-- [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
-- [Where did the false &quot;equal transit-time&quot; explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
-- [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
