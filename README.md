@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Fundamental Flaws of SIMD ISAs &lpar;2023&rpar;](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 - [I wrote to the address in the GPLv2 license notice &lpar;2022&rpar;](https://code.mendhak.com/gpl-v2-address-letter/)
 - [Tenjin &lpar;YC S14&rpar; Is Hiring a Senior Ad Attribution Engineer &lpar;Ruby, Go&rpar;](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
-- [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
-- [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
+- [Show HN: I made my own TRMNL e-ink device](https://www.stavros.io/posts/making-a-trmnl-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
