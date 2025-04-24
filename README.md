@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html)
+- [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
-- [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
-- [io_uring based rootkit can bypass syscall-focused Linux security tools](https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security)
+- [Acquisitions, consolidation, and innovation in AI](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
-- [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
