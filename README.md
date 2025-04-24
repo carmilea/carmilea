@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
-- [Shortest walking tour to 81,998 bars in Korea – 178 days on foot &lpar;TSP solved&rpar;](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
+- [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
 - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
-- [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 <!-- BLOG-POST-LIST:END -->
 
 ---
