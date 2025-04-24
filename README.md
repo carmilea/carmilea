@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
-- [&quot;Careless People&quot; the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
-- [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon &quot;In the Roadmap&quot;](https://www.phoronix.com/news/AMD-GIM-Open-Source)
-- [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
-- [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)
+- [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
+- [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
+- [Vim Language, Motions, and Modes Explained &lpar;2023&rpar;](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
+- [Mark Zuckerberg Says Social Media Is Over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 <!-- BLOG-POST-LIST:END -->
 
 ---
