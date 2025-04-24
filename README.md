@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
-- [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
-- [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
-- [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
-- [Acquisitions, consolidation, and innovation in AI](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
+- [National Airspace System Status](https://nasstatus.faa.gov/)
+- [Why I Blog and How I Automate it &lpar;2023&rpar;](https://www.ryanwwest.com/why-blog/)
+- [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
+- [Everyone Says They&#39;ll Pay More for &quot;Made in the USA&quot; So We Ran an A/B Test](https://afina.com/blogs/news/made-in-usa)
+- [Agent Mesh for Enterprise Agents](https://www.solo.io/blog/agent-mesh-for-enterprise-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
