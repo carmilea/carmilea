@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
+- [Shortest walking tour to 81,998 bars in Korea – 178 days on foot &lpar;TSP solved&rpar;](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+- [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
 - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
-- [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
-- [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
-- [Lucene University](https://github.com/msfroh/lucene-university)
-- [You wouldn&#39;t steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
