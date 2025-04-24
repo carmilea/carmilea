@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Automating Investment Analysis with h2oGPTe  | H2O.ai Agents - Part 5](https://www.youtube.com/watch?v=Vecywg7MIQo)
 - [From JSON to Vectors – Building AI Search with SingleStore Kai](https://www.youtube.com/watch?v=5l_6c9gZ7x8)
 - [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance](https://www.youtube.com/watch?v=BbOKmIoYjGg)
 - [Breaking AI Benchmark Records - h2oGPTe  | H2O.ai Agents - Part 4](https://www.youtube.com/watch?v=LmBIx3NLBXs)
-- [SingleStore: Powering the Future of Cybersecurity at Armis, Nucleus Security, and Lumana](https://www.youtube.com/watch?v=k0JiPNIiB2I)
-- [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=jHFAG-HzFeI)
+- [SingleStore Delivers AI-powered Cybersecurity at Armis, Nucleus Security and Lumana](https://www.youtube.com/watch?v=k0JiPNIiB2I)
 <!-- YOUTUBE:END -->
 
 
