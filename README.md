@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 - [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
+- [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
+- [News Is Blocked on Meta&#39;s Feeds in Canada. Here&#39;s What Fills the Void](https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html)
 - [Bild AI &lpar;YC W25&rpar; is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
-- [Why 21 cm is our Universe&#39;s &quot;magic length&quot;](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
-- [Show HN: Zev – Remember &lpar;or discover&rpar; terminal commands](https://github.com/dtnewman/zev)
-- [Ask HN: My CEO wants to go hard on AI. What do I do?](https://news.ycombinator.com/item?id=43784656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
