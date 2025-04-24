@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
-- [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
-- [A Tour Inside the IBM Z17](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f)
-- [Using SingleStore Flow: Make Data Migration a Breeze](https://www.singlestore.com/blog/using-singlestore-flow)
-- [Three Fundamental Flaws of SIMD ISAs &lpar;2023&rpar;](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
+- [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
+- [Bild AI &lpar;YC W25&rpar; is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
+- [Why 21 cm is our Universe&#39;s &quot;magic length&quot;](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
+- [Show HN: Zev – Remember &lpar;or discover&rpar; terminal commands](https://github.com/dtnewman/zev)
+- [Ask HN: My CEO wants to go hard on AI. What do I do?](https://news.ycombinator.com/item?id=43784656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
