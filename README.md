@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 - [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
-- [I wrote to the address in the GPLv2 license notice](https://code.mendhak.com/gpl-v2-address-letter/)
+- [I wrote to the address in the GPLv2 license notice &lpar;2022&rpar;](https://code.mendhak.com/gpl-v2-address-letter/)
 - [Tenjin &lpar;YC S14&rpar; Is Hiring a Senior Ad Attribution Engineer &lpar;Ruby, Go&rpar;](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
 - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
-- [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
