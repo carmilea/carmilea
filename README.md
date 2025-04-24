@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)
+- [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
+- [I wrote to the address in the GPLv2 license notice](https://code.mendhak.com/gpl-v2-address-letter/)
+- [Tenjin &lpar;YC S14&rpar; Is Hiring a Senior Ad Attribution Engineer &lpar;Ruby, Go&rpar;](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
 - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
-- [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
-- [Vim Language, Motions, and Modes Explained &lpar;2023&rpar;](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
-- [Mark Zuckerberg Says Social Media Is Over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
+- [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
