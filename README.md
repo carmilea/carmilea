@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
+- [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
+- [A Tour Inside the IBM Z17](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f)
+- [Using SingleStore Flow: Make Data Migration a Breeze](https://www.singlestore.com/blog/using-singlestore-flow)
 - [Three Fundamental Flaws of SIMD ISAs &lpar;2023&rpar;](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
-- [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
-- [I wrote to the address in the GPLv2 license notice &lpar;2022&rpar;](https://code.mendhak.com/gpl-v2-address-letter/)
-- [Tenjin &lpar;YC S14&rpar; Is Hiring a Senior Ad Attribution Engineer &lpar;Ruby, Go&rpar;](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
-- [Show HN: I made my own TRMNL e-ink device](https://www.stavros.io/posts/making-a-trmnl-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
