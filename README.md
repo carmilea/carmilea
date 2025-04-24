@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance](https://www.youtube.com/watch?v=BbOKmIoYjGg)
 - [Breaking AI Benchmark Records - h2oGPTe  | H2O.ai Agents - Part 4](https://www.youtube.com/watch?v=LmBIx3NLBXs)
 - [Storyboard: Powering the Future of Cybersecurity](https://www.youtube.com/watch?v=k0JiPNIiB2I)
 - [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=jHFAG-HzFeI)
 - [How h2oGPTe Uses AI Agents for AutoML  | H2O.ai Agents - Part 3](https://www.youtube.com/watch?v=JiQlcx30oZc)
-- [MongoDB CDC Integration: Streaming Data for Real-Time AI &amp; Analytics](https://www.youtube.com/watch?v=vacOCuZOxbs)
 <!-- YOUTUBE:END -->
 
 
