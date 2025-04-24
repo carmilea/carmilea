@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
+- [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
+- [io_uring based rootkit can bypass syscall-focused Linux security tools](https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security)
+- [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
 - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
-- [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
-- [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
-- [News Is Blocked on Meta&#39;s Feeds in Canada. Here&#39;s What Fills the Void](https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html)
-- [Bild AI &lpar;YC W25&rpar; is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
