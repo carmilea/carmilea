@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
+- [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
+- [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)
 - [National Airspace System Status](https://nasstatus.faa.gov/)
 - [Why I Blog and How I Automate it &lpar;2023&rpar;](https://www.ryanwwest.com/why-blog/)
-- [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
-- [Everyone Says They&#39;ll Pay More for &quot;Made in the USA&quot; So We Ran an A/B Test](https://afina.com/blogs/news/made-in-usa)
-- [Agent Mesh for Enterprise Agents](https://www.solo.io/blog/agent-mesh-for-enterprise-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
