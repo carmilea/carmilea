@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Bertrand Russell&#39;s Principia Mathematica in Lean](https://github.com/ndrwnaguib/principia)
-- [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
+- [Tales of the Yucca Man &lpar;2018&rpar;](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
+- [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
+- [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
+- [Curry: A functional logic programming language](https://curry-lang.org/)
 - [Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g)
-- [70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
-- [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
