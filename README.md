@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
+- [Google Maps Doesn&#39;t Know How Street Addresses Work](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
+- [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-- [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)
 - [National Airspace System Status](https://nasstatus.faa.gov/)
-- [Why I Blog and How I Automate it &lpar;2023&rpar;](https://www.ryanwwest.com/why-blog/)
+- [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
