@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gym Class &lpar;YC W22&rpar; Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
+- [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 - [Tales of the Yucca Man &lpar;2018&rpar;](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
 - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
-- [Curry: A functional logic programming language](https://curry-lang.org/)
-- [Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
