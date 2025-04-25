@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
 - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
+- [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 - [Century-old genetics mystery of Mendel&#39;s peas solved](https://www.nature.com/articles/d41586-025-01269-8)
-- [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
-- [Writing &quot;/etc/hosts&quot; breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
