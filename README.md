@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 - [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
 - [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
 - [Street address errors in Google Maps](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
-- [Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
