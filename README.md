@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
+- [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
-- [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
+- [Prepper Disk](https://www.prepperdisk.com/)
 - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
-- [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
-- [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
