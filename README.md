@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
-- [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
+- [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
-- [Prepper Disk](https://www.prepperdisk.com/)
+- [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+- [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
