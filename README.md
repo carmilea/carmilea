@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+- [A $20k electric truck with manual windows and no screens? Meet Slate Auto](https://arstechnica.com/cars/2025/04/amazon-backed-startup-wants-to-sell-a-bare-bones-ev-truck-for-20000/)
 - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 - [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
-- [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
-- [Street address errors in Google Maps](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
