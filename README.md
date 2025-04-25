@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhD Timeline](https://xkcd.com/3081/)
+- [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
+- [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
 - [Gym Class &lpar;YC W22&rpar; Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
-- [Tales of the Yucca Man &lpar;2018&rpar;](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
-- [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
-- [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
