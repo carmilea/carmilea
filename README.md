@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PhD Timeline](https://xkcd.com/3081/)
+- [Wikipedia&#39;s nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
+- [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
 - [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
 - [Gym Class &lpar;YC W22&rpar; Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
-- [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
