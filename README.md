@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California overtakes Japan to become the world&#39;s fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
+- [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
-- [A $20k electric truck with manual windows and no screens? Meet Slate Auto](https://arstechnica.com/cars/2025/04/amazon-backed-startup-wants-to-sell-a-bare-bones-ev-truck-for-20000/)
+- [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)
 - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
-- [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
-- [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
