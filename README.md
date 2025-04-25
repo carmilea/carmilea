@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Bertrand Russell&#39;s Principia Mathematica in Lean](https://github.com/ndrwnaguib/principia)
+- [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
+- [Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g)
 - [70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
-- [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
-- [Foundry &lpar;YC F24&rpar; Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)
-- [Dolphins Communicate with &#39;Fountains of Pee&#39;](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
-- [A Scaled Down Look at Spending, Revenue, and What&#39;s Being Cut](https://www.debtinperspective.com/)
+- [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
