@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
 - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 - [Foundry &lpar;YC F24&rpar; Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)
-- [Exercise before bed is linked with disrupted sleep](https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html)
-- [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
-- [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
+- [Dolphins Communicate with &#39;Fountains of Pee&#39;](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
+- [A Scaled Down Look at Spending, Revenue, and What&#39;s Being Cut](https://www.debtinperspective.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
