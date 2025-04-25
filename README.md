@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
-- [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
-- [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
-- [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
-- [Century-old genetics mystery of Mendel&#39;s peas solved](https://www.nature.com/articles/d41586-025-01269-8)
+- [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
+- [Foundry &lpar;YC F24&rpar; Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)
+- [Exercise before bed is linked with disrupted sleep](https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html)
+- [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
+- [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
