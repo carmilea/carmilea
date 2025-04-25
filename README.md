@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+- [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
+- [Century-old genetics mystery of Mendel&#39;s peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 - [Writing &quot;/etc/hosts&quot; breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
-- [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
-- [Writing a Linux Debugger &lpar;2017&rpar;](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
-- [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
