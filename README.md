@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Proposal to Tax Social Media Gathers Momentum](https://www.newsweek.com/california-tax-social-media-legislation-2064045)
+- [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
+- [Writing &quot;/etc/hosts&quot; breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
+- [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+- [Writing a Linux Debugger &lpar;2017&rpar;](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
-- [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
-- [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
-- [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
