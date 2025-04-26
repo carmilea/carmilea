@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Cassette Revival Is Thriving in Argentina&#39;s Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)
+- [The True Size Of](https://thetruesize.com/)
 - [Stuffed-Na&lpar;a&rpar;N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 - [Thank you for holding my duck &lpar;2021&rpar;](https://naml.us/post/thank-you-for-holding-my-duck/)
 - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
