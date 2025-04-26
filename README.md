@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 - [Stuffed-Na&lpar;a&rpar;N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 - [Thank you for holding my duck &lpar;2021&rpar;](https://naml.us/post/thank-you-for-holding-my-duck/)
 - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
 - [Watching o3 guess a photo&#39;s location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-- [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
