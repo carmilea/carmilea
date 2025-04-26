@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
+- [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
+- [Watching o3 guess a photo&#39;s location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
+- [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 - [Freshpaint &lpar;YC S19&rpar; is hiring back end and front end engineers &lpar;Remote, US only&rpar;](https://news.ycombinator.com/item?id=43802839)
-- [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
-- [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
-- [First and 2nd gen Nest Thermostats will lose support in Oct 2025](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/)
-- [Mike Lindell&#39;s lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
