@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The lost secrets of Palm webOS &lpar;2014&rpar;](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
+- [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
 - [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
 - [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
-- [Hundreds more NSF grants terminated after agency director resigns](https://www.nature.com/articles/d41586-025-01312-8)
+- [Dad and the Egg Controller &lpar;2018&rpar;](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
