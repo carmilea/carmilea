@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
+- [Mike Lindell&#39;s lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 - [MobileBoost &lpar;YC S21&rpar; Is Hiring a Founding Back End/Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
 - [Apparently Bluesky has one centralized service, the &quot;relay&quot;](https://mastodon.online/@mastodonmigration/114399534536933573)
-- [Cloth](https://www.cloudofoz.com/verlet-test/)
-- [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
