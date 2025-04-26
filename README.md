@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 - [MobileBoost &lpar;YC S21&rpar; Is Hiring a Founding Back End/Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
 - [Apparently Bluesky has one centralized service, the &quot;relay&quot;](https://mastodon.online/@mastodonmigration/114399534536933573)
-- [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 - [Cloth](https://www.cloudofoz.com/verlet-test/)
 - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
 <!-- BLOG-POST-LIST:END -->
