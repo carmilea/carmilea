@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freshpaint &lpar;YC S19&rpar; is hiring back end and front end engineers &lpar;Remote, US only&rpar;](https://news.ycombinator.com/item?id=43802839)
+- [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
+- [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
+- [First and 2nd gen Nest Thermostats will lose support in Oct 2025](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/)
 - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
-- [Mike Lindell&#39;s lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
-- [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
-- [MobileBoost &lpar;YC S21&rpar; Is Hiring a Founding Back End/Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
-- [Apparently Bluesky has one centralized service, the &quot;relay&quot;](https://mastodon.online/@mastodonmigration/114399534536933573)
 <!-- BLOG-POST-LIST:END -->
 
 ---
