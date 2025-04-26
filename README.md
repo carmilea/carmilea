@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia&#39;s nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
-- [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
-- [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
-- [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
-- [Gym Class &lpar;YC W22&rpar; Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
+- [Berkeley Humanoid Lite – open-source robot](https://lite.berkeley-humanoid.org/)
+- [I wrote a book called &quot;Crap Towns&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
+- [Your phone isn&#39;t secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
+- [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
+- [Parallel ./configure](https://tavianator.com/2025/configure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
