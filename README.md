@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Cassette Revival Is Thriving in Argentina&#39;s Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)
+- [Stuffed-Na&lpar;a&rpar;N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
+- [Thank you for holding my duck &lpar;2021&rpar;](https://naml.us/post/thank-you-for-holding-my-duck/)
 - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
-- [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
 - [Watching o3 guess a photo&#39;s location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-- [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
-- [Freshpaint &lpar;YC S19&rpar; is hiring back end and front end engineers &lpar;Remote, US only&rpar;](https://news.ycombinator.com/item?id=43802839)
 <!-- BLOG-POST-LIST:END -->
 
 ---
