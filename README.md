@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barlow&#39;s Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
-- [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
-- [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
-- [Stuffed-Na&lpar;a&rpar;N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
-- [Thank you for holding my duck &lpar;2021&rpar;](https://naml.us/post/thank-you-for-holding-my-duck/)
+- [California&#39;s $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
+- [The record-breaking tunnel being built from Denmark to Germany](https://www.bbc.com/news/articles/cy70y2x3xj6o)
+- [Bill Gates&#39;s Personal Easter Eggs in 8 Bit BASIC &lpar;2008&rpar;](https://www.pagetable.com/?p=43)
+- [Economists don&#39;t know what&#39;s going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
+- [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
