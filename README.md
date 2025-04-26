@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
+- [Colossal Cave Adventure &lpar;1976&rpar;](https://github.com/wh0am1-dev/adventure)
 - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
-- [Berkeley Humanoid Lite – open-source robot](https://lite.berkeley-humanoid.org/)
+- [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
 - [I wrote a book called &quot;Crap Towns&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
-- [Your phone isn&#39;t secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
-- [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
