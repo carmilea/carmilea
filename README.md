@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloth](https://www.cloudofoz.com/verlet-test/)
+- [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
 - [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
 - [Colossal Cave Adventure &lpar;1976&rpar;](https://github.com/wh0am1-dev/adventure)
-- [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
 - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
-- [I wrote a book called &quot;Crap Towns&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
