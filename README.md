@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California&#39;s $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
-- [The record-breaking tunnel being built from Denmark to Germany](https://www.bbc.com/news/articles/cy70y2x3xj6o)
-- [Bill Gates&#39;s Personal Easter Eggs in 8 Bit BASIC &lpar;2008&rpar;](https://www.pagetable.com/?p=43)
-- [Economists don&#39;t know what&#39;s going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
-- [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
+- [The lost secrets of Palm webOS &lpar;2014&rpar;](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
+- [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
+- [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
+- [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
+- [Hundreds more NSF grants terminated after agency director resigns](https://www.nature.com/articles/d41586-025-01312-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
