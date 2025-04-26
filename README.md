@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person, SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
 - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
-- [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
+- [Unauthorized experiment on r/changemyview involving AI-generated comments](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 - [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
-- [Dad and the Egg Controller &lpar;2018&rpar;](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
