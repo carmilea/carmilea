@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s &#39;Digital Companions&#39; Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
-- [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
-- [&#39;Tech entrepreneur took our money but failed to deliver our startup dreams&#39;](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
-- [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
-- [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
+- [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics &lpar;2018&rpar;](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
+- [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
+- [Top Patenting Powerhouses of 2024](https://spectrum.ieee.org/patent-power-2025)
+- [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
+- [Windows &quot;inetpub&quot; security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
