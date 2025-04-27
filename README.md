@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Sedans Disappeared](https://twitter.com/pitdesi/status/1916120249176358950)
 - [&#39;Tech entrepreneur took our money but failed to deliver our startup dreams&#39;](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
 - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
 - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
-- [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
 <!-- BLOG-POST-LIST:END -->
 
 ---
