@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Learn to code&quot; Failed [PolyMatter] [video]](https://www.youtube.com/watch?v=bThPluSzlDU)
+- [Here&#39;s how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
+- [Ask HN: What are you working on? &lpar;April 2025&rpar;](https://news.ycombinator.com/item?id=43815523)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
+- [Computer Architects Can&#39;t Find the Average](https://dgsq.net/2025-04-27-averages/)
 - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
-- [Thoughts Upon Slavery &lpar;1774&rpar;](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
-- [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
-- [AI Coding assistants provide little value because a programmer&#39;s job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
