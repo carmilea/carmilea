@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)
+- [What Porn Did to American Culture](https://www.theatlantic.com/newsletters/archive/2025/04/what-porn-did-to-american-culture/682610/)
 - [We&#39;re building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
-- [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world)
-- [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
-- [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
+- [Former Disney employee who hacked Disney World menus sentenced to 3 years](https://databreaches.net/2025/04/24/former-disney-employeedwho-hacked-disney-world-restaurant-menus-in-revenge-sentenced-to-3-years-in-federal-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
