@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of Programming](https://cacm.acm.org/opinion/the-end-of-programming/)
 - [Gold Is So Popular It&#39;s Making People Nervous](https://www.bloomberg.com/news/newsletters/2025-04-26/gold-is-so-popular-it-s-making-people-nervous-merryn-talks-money)
 - [Hundreds of smartphone apps are monitoring users through their microphones](https://www.the-independent.com/tech/smartphone-apps-listening-privacy-alphonso-shazam-advertising-pool-3d-honey-quest-a8139451.html)
 - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
-- [CONL: &quot;Markdown&quot; for your config files](https://cirw.in/blog/conl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
