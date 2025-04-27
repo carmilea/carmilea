@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person, SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
-- [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-- [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
-- [Unauthorized experiment on r/changemyview involving AI-generated comments](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
-- [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
+- [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)
+- [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
+- [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
+- [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958)
+- [I Tried Windows Gaming on a Mac and It&#39;s Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
