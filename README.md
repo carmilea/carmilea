@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
+- [MIT Committee Report on the Changing Nature of Information &lpar;1983&rpar; [pdf]](https://archive.org/details/1983-03-09-27-27_202504)
+- [Internet in a Box](https://internet-in-a-box.org/)
 - [Show HN: Daily Jailbreak – Prompt Engineer&#39;s Wordle](https://www.vaultbreak.ai/daily-jailbreak)
-- [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
 - [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
-- [What&#39;s the Deal with Autism Rates?](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
