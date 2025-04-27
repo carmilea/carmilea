@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
+- [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
+- [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world)
 - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
-- [Irishman&#39;s universal evolution theory challenges accepted cosmology](https://www.irishtimes.com/science/space/2025/04/24/beyond-the-big-bang-irishmans-universal-evolution-theory-challenges-accepted-cosmology/)
-- [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
-- [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
-- [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics &lpar;2018&rpar;](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
+- [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
