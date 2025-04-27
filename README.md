@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
+- [America&#39;s nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
+- [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics &lpar;2018&rpar;](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
 - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
-- [Top Patenting Powerhouses of 2024](https://spectrum.ieee.org/patent-power-2025)
-- [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
-- [Windows &quot;inetpub&quot; security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
