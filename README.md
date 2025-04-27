@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)
+- [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
+- [Brett Terpstra Is Open to Work](https://brettterpstra.com/2025/04/26/brett-terpstra-is-open-to-work/)
+- [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
-- [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
-- [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958)
-- [I Tried Windows Gaming on a Mac and It&#39;s Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)
+- [IcôNES](https://icones.js.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
