@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC founder points out that jobs exist outside of working for police state](https://bird.makeup/users/paulg/statuses/1913338841068404903)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 - [Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed](https://github.com/zumerlab/snapdom)
+- [NASA&#39;s Lucy Spacecraft Completes Asteroid Donaldjohanson Flyby](https://science.nasa.gov/blogs/lucy/2025/04/20/nasas-lucy-spacecraft-completes-asteroid-donaldjohanson-flyby/)
 - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 - [Did 5G Kill the IMSI Catcher?](https://zetier.com/5g-imsi-catcher/)
 <!-- BLOG-POST-LIST:END -->
