@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
 - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
-- [MIT Committee Report on the Changing Nature of Information &lpar;1983&rpar; [pdf]](https://archive.org/details/1983-03-09-27-27_202504)
 - [Internet in a Box](https://internet-in-a-box.org/)
+- [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 - [Show HN: Daily Jailbreak – Prompt Engineer&#39;s Wordle](https://www.vaultbreak.ai/daily-jailbreak)
-- [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
