@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+- [Irishman&#39;s universal evolution theory challenges accepted cosmology](https://www.irishtimes.com/science/space/2025/04/24/beyond-the-big-bang-irishmans-universal-evolution-theory-challenges-accepted-cosmology/)
 - [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
-- [America&#39;s nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
 - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics &lpar;2018&rpar;](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
-- [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
