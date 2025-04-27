@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
-- [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
-- [Internet in a Box](https://internet-in-a-box.org/)
-- [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
-- [Show HN: Daily Jailbreak – Prompt Engineer&#39;s Wordle](https://www.vaultbreak.ai/daily-jailbreak)
+- [Why &quot;Learn to code&quot; Failed [PolyMatter] [video]](https://www.youtube.com/watch?v=bThPluSzlDU)
+- [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
+- [Thoughts Upon Slavery &lpar;1774&rpar;](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
+- [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
+- [AI Coding assistants provide little value because a programmer&#39;s job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
