@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+- [&#39;Tech entrepreneur took our money but failed to deliver our startup dreams&#39;](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
+- [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
+- [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
+- [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
 - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
-- [Tipping: How Gratuity Replaced Fair Wages in U.S. Restaurants](https://www.7shifts.com/blog/history-of-tipping-restaurants/)
-- [CSS Zen Garden](https://csszengarden.com/)
-- [Deepfake porn is destroying real lives in South Korea](https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
