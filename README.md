@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
-- [Naur&#39;s &quot;Programming as Theory Building&quot; and LLMs replacing human programmers](https://ratfactor.com/cards/naur-vs-llms)
-- [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
-- [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
-- [To &#39;Reclaim Future-Making&#39;, Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+- [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
+- [Enhancing Productivity: How We made Command + K Search More Than 5x Faster](https://www.singlestore.com/blog/enhancing-productivity-how-we-made-command-k-search-more-than-5x-faster)
+- [Optery &lpar;YC W22&rpar; – Engineering Team Lead and Engineers with Node.js &lpar;U.S., Latam&rpar;](https://jobs.ashbyhq.com/optery)
+- [I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+- [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
