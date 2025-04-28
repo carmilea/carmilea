@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Lisp &lpar;1993&rpar;](https://www.paulgraham.com/onlisptext.html)
+- [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+- [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
+- [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
 - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
 - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
-- [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
-- [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
