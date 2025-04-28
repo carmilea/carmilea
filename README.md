@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek-R2](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025)
+- [Generating Mazes with Inductive Graphs &lpar;2017&rpar;](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
+- [Is Outbound Going to Die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
+- [The Side Hustle From Hell](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring VP of Engineering in Mountain View &lpar;On-Site&rpar;](https://careers.activeloop.ai/)
 - [Reality Check](https://www.wheresyoured.at/reality-check/)
-- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
-- [The Books of Earthsea by Ursula K. Le Guin](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
