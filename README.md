@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
+- [Ask HN: CS degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
 - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
-- [National Archives Releases Unidentified Anomalous Phenomena &lpar;UAP&rpar; Records](https://www.archives.gov/press/press-releases/2025/nr25-07)
 - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
-- [In Memoriam: SF and Fine Artist David Schleinkofer](https://downthetubes.net/in-memoriam-sf-and-fine-artist-david-schleinkofer/)
 - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 <!-- BLOG-POST-LIST:END -->
 
