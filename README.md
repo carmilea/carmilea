@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PhD Timeline](https://xkcd.com/3081/)
 - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
-- [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
+- [Naur&#39;s &quot;Programming as Theory Building&quot; and LLMs replacing human programmers](https://ratfactor.com/cards/naur-vs-llms)
 - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
 - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
+- [To &#39;Reclaim Future-Making&#39;, Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
