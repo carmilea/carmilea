@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [H2O.ai Managed Cloud Overview | Build &amp; Scale AI Across Your Enterprise](https://www.youtube.com/watch?v=RIc5GHO5OBw)
 - [Building a National AI Skills Framework with h2oGPTe  | H2O.ai Agents - Part 6](https://www.youtube.com/watch?v=6zHRlCpwIDA)
 - [Exploring DeepSeek – The New Frontier in Open-Source AI Models](https://www.youtube.com/watch?v=4z_AZ32DuLw)
 - [Automating Investment Analysis with h2oGPTe  | H2O.ai Agents - Part 5](https://www.youtube.com/watch?v=Vecywg7MIQo)
 - [From JSON to Vectors – Building AI Search with SingleStore Kai](https://www.youtube.com/watch?v=5l_6c9gZ7x8)
-- [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance](https://www.youtube.com/watch?v=BbOKmIoYjGg)
 <!-- YOUTUBE:END -->
 
 
