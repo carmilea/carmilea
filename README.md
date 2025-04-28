@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
-- [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
-- [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
-- [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
-- [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)
+- [DeepSeek-R2](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring VP of Engineering in Mountain View &lpar;On-Site&rpar;](https://careers.activeloop.ai/)
+- [Reality Check](https://www.wheresyoured.at/reality-check/)
+- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+- [The Books of Earthsea by Ursula K. Le Guin](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
