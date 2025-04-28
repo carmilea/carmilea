@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
+- [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
+- [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
+- [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
 - [Generating Mazes with Inductive Graphs &lpar;2017&rpar;](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
-- [Is Outbound Going to Die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
-- [The Side Hustle From Hell](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring VP of Engineering in Mountain View &lpar;On-Site&rpar;](https://careers.activeloop.ai/)
-- [Reality Check](https://www.wheresyoured.at/reality-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
