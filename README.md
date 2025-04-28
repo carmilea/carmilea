@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
 - [Enhancing Productivity: How We made Command + K Search More Than 5x Faster](https://www.singlestore.com/blog/enhancing-productivity-how-we-made-command-k-search-more-than-5x-faster)
 - [Optery &lpar;YC W22&rpar; – Engineering Team Lead and Engineers with Node.js &lpar;U.S., Latam&rpar;](https://jobs.ashbyhq.com/optery)
 - [I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
 - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
+- [Deep dive into how DOS games do copy protection by making themselves unwinnable](https://mrwint.github.io/winter/writeup/writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
