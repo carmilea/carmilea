@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
-- [Ask HN: What are you working on? &lpar;April 2025&rpar;](https://news.ycombinator.com/item?id=43815523)
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
-- [Computer Architects Can&#39;t Find the Average](https://dgsq.net/2025-04-27-averages/)
-- [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
+- [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
+- [National Archives Releases Unidentified Anomalous Phenomena &lpar;UAP&rpar; Records](https://www.archives.gov/press/press-releases/2025/nr25-07)
+- [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
+- [In Memoriam: SF and Fine Artist David Schleinkofer](https://downthetubes.net/in-memoriam-sf-and-fine-artist-david-schleinkofer/)
+- [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
