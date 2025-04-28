@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
-- [Ask HN: CS degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
-- [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
-- [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
-- [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
+- [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
+- [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
+- [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
+- [To &#39;Reclaim Future-Making&#39;, Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+- [Presentation Slides with Markdown](https://sli.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
