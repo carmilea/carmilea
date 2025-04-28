@@ -61,8 +61,8 @@
 - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
 - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
 - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
+- [Ask HN: CS degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
 - [To &#39;Reclaim Future-Making&#39;, Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
-- [Presentation Slides with Markdown](https://sli.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
