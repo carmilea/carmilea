@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
+- [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
+- [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
+- [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
+- [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
-- [It&#39;s Not the Incentives – It&#39;s You](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
-- [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
-- [Generating Mazes with Inductive Graphs &lpar;2017&rpar;](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
