@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
-- [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
+- [It&#39;s Not the Incentives – It&#39;s You](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
 - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
 - [Generating Mazes with Inductive Graphs &lpar;2017&rpar;](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 <!-- BLOG-POST-LIST:END -->
