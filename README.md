@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
-- [Enhancing Productivity: How We made Command + K Search More Than 5x Faster](https://www.singlestore.com/blog/enhancing-productivity-how-we-made-command-k-search-more-than-5x-faster)
-- [Optery &lpar;YC W22&rpar; – Engineering Team Lead and Engineers with Node.js &lpar;U.S., Latam&rpar;](https://jobs.ashbyhq.com/optery)
-- [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
-- [Uncovering the mechanics of The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup.html)
+- [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
+- [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
+- [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
+- [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
+- [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
