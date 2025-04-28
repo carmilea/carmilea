@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
-- [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
-- [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
-- [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
-- [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
+- [On Lisp &lpar;1993&rpar;](https://www.paulgraham.com/onlisptext.html)
+- [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
+- [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
+- [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
+- [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
