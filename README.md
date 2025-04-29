@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
+- [I made my AI think harder by making it argue with itself. It works stupidly well](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
+- [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
 - [Hestus, Inc. &lpar;YC S24&rpar; Is Hiring an ML Engineer to Revolutionize CAD](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer)
-- [O3 Beats a Master-Level GeoGuessr Player–Even with Fake EXIF Data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
-- [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
-- [Meta AI App built with Llama 4](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
+- [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
 <!-- BLOG-POST-LIST:END -->
 
 ---
