@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
-- [How the April 28, 2025 power outage in Portugal/Spain impacted Internet traffic](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
 - [Spain is about to face the challenge of a &quot;black start&quot;](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 - [The Homebrew Channel repository is archived &lpar;Apr 28, 2025&rpar;](https://github.com/fail0verflow/hbc)
+- [Dear &quot;Security Researchers&quot;](https://ftp.bit.nl/pub/debian/)
+- [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
 - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 <!-- BLOG-POST-LIST:END -->
 
