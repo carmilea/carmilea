@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk is wrong about GDP](https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/)
+- [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
+- [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
+- [One-sixth of the planet&#39;s cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
-- [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
 - [What Is &quot;Induced Atmospheric Vibration&quot;?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
-- [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
