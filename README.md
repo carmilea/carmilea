@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Advancing Medical Research with h2oGPTe  | H2O.ai Agents - Part 7](https://www.youtube.com/watch?v=vMc04rPuc_4)
 - [Exploring DeepSeek – The New Frontier in Open-Source AI Models | SingleStore Webinars](https://www.youtube.com/watch?v=4G59yIhS-wo)
 - [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance | SingleStore Webinars](https://www.youtube.com/watch?v=WFDLTShKBjc)
 - [H2O.ai Managed Cloud Overview | Build &amp; Scale AI Across Your Enterprise](https://www.youtube.com/watch?v=RIc5GHO5OBw)
 - [Building a National AI Skills Framework with h2oGPTe  | H2O.ai Agents - Part 6](https://www.youtube.com/watch?v=6zHRlCpwIDA)
-- [Exploring DeepSeek – The New Frontier in Open-Source AI Models](https://www.youtube.com/watch?v=4z_AZ32DuLw)
 <!-- YOUTUBE:END -->
 
 
