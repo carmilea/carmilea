@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
 - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
 - [Spain is about to face the challenge of a &quot;black start&quot;](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 - [The Homebrew Channel repository is archived &lpar;Apr 28, 2025&rpar;](https://github.com/fail0verflow/hbc)
-- [Dear &quot;Security Researchers&quot;](https://ftp.bit.nl/pub/debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
