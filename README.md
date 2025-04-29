@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The latest executive order creates a police state](https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent-citizens/)
+- [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
+- [A single line of code cost $8000](https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000)
+- [Drinking champagne could reduce risk of sudden cardiac arrest, study suggests](https://www.theguardian.com/society/2025/apr/29/drink-champagne-reduce-risk-sudden-cardiac-arrest-study-suggests)
 - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
-- [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
-- [Greek Particles &lpar;1990&rpar;](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
-- [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
-- [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
