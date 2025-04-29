@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
-- [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
-- [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
-- [Spain is about to face the challenge of a &quot;black start&quot;](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
-- [The Homebrew Channel repository is archived &lpar;Apr 28, 2025&rpar;](https://github.com/fail0verflow/hbc)
+- [What Is &quot;Induced Atmospheric Vibration&quot;?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
+- [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
+- [After 53 Years, a Failed Soviet Venus Spacecraft Is Crashing Back to Earth](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234)
+- [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
+- [Heart disease deaths worldwide linked to chemical widely used in plastics](https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
