@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
+- [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
+- [What Happens When There Are No Deals? – Paul Krugman](https://paulkrugman.substack.com/p/terror-and-embarrassment)
+- [Take Control of Time: Cron Scheduling Comes to SingleStore Notebooks](https://www.singlestore.com/blog/cron-scheduling-singlestore-notebooks)
 - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 - [One-sixth of the planet&#39;s cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
-- [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
-- [What Is &quot;Induced Atmospheric Vibration&quot;?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
