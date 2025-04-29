@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
 - [Greek Particles &lpar;1990&rpar;](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
 - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
-- [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)
 - [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 <!-- BLOG-POST-LIST:END -->
 
