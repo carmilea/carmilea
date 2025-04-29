@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hestus, Inc. &lpar;YC S24&rpar; Is Hiring an ML Engineer to Revolutionize CAD](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer)
+- [O3 Beats a Master-Level GeoGuessr Player–Even with Fake EXIF Data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
 - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
-- [What Happens When There Are No Deals? – Paul Krugman](https://paulkrugman.substack.com/p/terror-and-embarrassment)
-- [Take Control of Time: Cron Scheduling Comes to SingleStore Notebooks](https://www.singlestore.com/blog/cron-scheduling-singlestore-notebooks)
-- [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
-- [One-sixth of the planet&#39;s cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
+- [Meta AI App built with Llama 4](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
