@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The latest executive order creates a police state](https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent-citizens/)
+- [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
+- [How the April 28, 2025 power outage in Portugal/Spain impacted Internet traffic](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
+- [Spain is about to face the challenge of a &quot;black start&quot;](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
+- [The Homebrew Channel repository is archived &lpar;Apr 28, 2025&rpar;](https://github.com/fail0verflow/hbc)
 - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
-- [A single line of code cost $8000](https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000)
-- [Drinking champagne could reduce risk of sudden cardiac arrest, study suggests](https://www.theguardian.com/society/2025/apr/29/drink-champagne-reduce-risk-sudden-cardiac-arrest-study-suggests)
-- [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
