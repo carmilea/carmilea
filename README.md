@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
+- [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
+- [Uber raises in-office requirement to 3 days, claws back remote workers](https://www.cnbc.com/2025/04/28/uber-raises-in-office-requirement-to-3-days-claws-back-remote-workers.html)
 - [What Is &quot;Induced Atmospheric Vibration&quot;?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 - [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
-- [After 53 Years, a Failed Soviet Venus Spacecraft Is Crashing Back to Earth](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234)
-- [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
-- [Heart disease deaths worldwide linked to chemical widely used in plastics](https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
