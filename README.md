@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk is wrong about GDP](https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/)
 - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
 - [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
-- [Uber raises in-office requirement to 3 days, claws back remote workers](https://www.cnbc.com/2025/04/28/uber-raises-in-office-requirement-to-3-days-claws-back-remote-workers.html)
 - [What Is &quot;Induced Atmospheric Vibration&quot;?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 - [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
 <!-- BLOG-POST-LIST:END -->
