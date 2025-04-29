@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
+- [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
 - [Spain is about to face the challenge of a &quot;black start&quot;](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 - [The Homebrew Channel repository is archived &lpar;Apr 28, 2025&rpar;](https://github.com/fail0verflow/hbc)
 - [Dear &quot;Security Researchers&quot;](https://ftp.bit.nl/pub/debian/)
-- [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
-- [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
