@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Columbia student Mohsen Mahdawi is free after judge orders his release](https://www.nbcnews.com/news/us-news/judge-orders-columbia-student-mohsen-mahdawi-released-rcna203675)
 - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
+- [The Mira Pro Color is Boox&#39;s first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
 - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 - [Archil &lpar;YC F24&rpar; Is Hiring a Distributed Systems Engineer &lpar;In-Person, SF&rpar;](https://news.ycombinator.com/item?id=43848007)
-- [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
