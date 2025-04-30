@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sycophancy in GPT-4o: What happened and what we&#39;re doing about it](https://openai.com/index/sycophancy-in-gpt-4o/)
+- [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
+- [What It Takes to Defend a Cybersecurity Company from Today&#39;s Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 - [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
 - [Path Isn&#39;t Real on Linux](https://blog.danielh.cc/blog/path)
 - [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
-- [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
