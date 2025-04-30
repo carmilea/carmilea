@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not a Zombie](https://notazombie.net/landing)
+- [Sycophancy in GPT-4o: What happened and what we&#39;re doing about it](https://openai.com/index/sycophancy-in-gpt-4o/)
 - [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
 - [Path Isn&#39;t Real on Linux](https://blog.danielh.cc/blog/path)
 - [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
