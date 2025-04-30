@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)
+- [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
+- [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
 - [JetBrains defends removal of negative reviews for unpopular AI Assistant](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/)
-- [Doge Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
-- [NYC home prices rise 10% in early 2025](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/)
-- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
-- [Linux Kernel Exploitation: CVE-2025-21756](https://hoefler.dev/articles/vsock.html)
+- [Zhaoxin&#39;s KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
