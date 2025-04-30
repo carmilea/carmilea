@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains defends removal of negative reviews for unpopular AI Assistant](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/)
+- [Doge Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
+- [NYC home prices rise 10% in early 2025](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/)
 - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
-- [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
-- [The Mira Pro Color is Boox&#39;s first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
-- [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
-- [Archil &lpar;YC F24&rpar; Is Hiring a Distributed Systems Engineer &lpar;In-Person, SF&rpar;](https://news.ycombinator.com/item?id=43848007)
+- [Linux Kernel Exploitation: CVE-2025-21756](https://hoefler.dev/articles/vsock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
