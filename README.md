@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 - [What It Takes to Defend a Cybersecurity Company from Today&#39;s Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 - [You Wouldn&#39;t Download a Hacker News](https://www.jasonthorsness.com/25)
-- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
