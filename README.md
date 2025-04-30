@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Groups move for disclosure of Chemours&#39; sealed PFAS documents](https://www.thenewlede.org/2025/04/groups-move-for-disclosure-of-chemours-sealed-pfas-documents/)
+- [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
+- [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
+- [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
 - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
-- [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
-- [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
-- [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
+- [OCaml&#39;s Wings for Machine Learning](https://github.com/raven-ml/raven)
 <!-- BLOG-POST-LIST:END -->
 
 ---
