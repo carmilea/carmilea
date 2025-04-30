@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archil &lpar;YC F24&rpar; Is Hiring a Distributed Systems Engineer &lpar;In-Person, SF&rpar;](https://news.ycombinator.com/item?id=43848007)
 - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 - [Young people aren&#39;t as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
-- [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
-- [Joining Sun Microsystems – 40 years ago &lpar;2022&rpar;](https://akapugs.blog/2022/05/03/674/)
-- [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)
+- [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
+- [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 <!-- BLOG-POST-LIST:END -->
 
 ---
