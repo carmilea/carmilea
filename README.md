@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Columbia student Mohsen Mahdawi is free after judge orders his release](https://www.nbcnews.com/news/us-news/judge-orders-columbia-student-mohsen-mahdawi-released-rcna203675)
+- [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
+- [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 - [Archil &lpar;YC F24&rpar; Is Hiring a Distributed Systems Engineer &lpar;In-Person, SF&rpar;](https://news.ycombinator.com/item?id=43848007)
 - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
-- [Young people aren&#39;t as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
-- [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
-- [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 <!-- BLOG-POST-LIST:END -->
 
 ---
