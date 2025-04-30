@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Espressif&#39;s ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
+- [The Group Chat from Hell Has Been Exposed](https://www.thenation.com/article/society/marc-andreessen-semafor-group-chat-signal/)
 - [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)
 - [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 - [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
-- [JetBrains defends removal of negative reviews for unpopular AI Assistant](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/)
-- [Zhaoxin&#39;s KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
