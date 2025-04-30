@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html)
+- [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
+- [Xiaomi unveils open-source AI reasoning model MiMo](https://github.com/XiaomiMiMo/MiMo)
+- [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
+- [I Created Perfect Wiki and Reached $250K in Annual Revenue Without Investors](https://habr.com/en/articles/905812/)
 - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
-- [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
-- [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
-- [What It Takes to Defend a Cybersecurity Company from Today&#39;s Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
