@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
+- [Young people aren&#39;t as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
+- [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 - [Joining Sun Microsystems – 40 years ago &lpar;2022&rpar;](https://akapugs.blog/2022/05/03/674/)
-- [Study finds that budget cuts to public R&amp;D would significantly hurt the economy](https://impa.american.edu/costs-of-cutting-scientific-research/)
-- [&quot;AI-first&quot; is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
-- [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
-- [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
+- [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
