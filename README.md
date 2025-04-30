@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
+- [Joining Sun Microsystems – 40 years ago &lpar;2022&rpar;](https://akapugs.blog/2022/05/03/674/)
+- [Study finds that budget cuts to public R&amp;D would significantly hurt the economy](https://impa.american.edu/costs-of-cutting-scientific-research/)
+- [&quot;AI-first&quot; is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
 - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
 - [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
-- [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
-- [OCaml&#39;s Wings for Machine Learning](https://github.com/raven-ml/raven)
 <!-- BLOG-POST-LIST:END -->
 
 ---
