@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Groups move for disclosure of Chemours&#39; sealed PFAS documents](https://www.thenewlede.org/2025/04/groups-move-for-disclosure-of-chemours-sealed-pfas-documents/)
 - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
-- [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
 - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
-- [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)
 - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
+- [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
