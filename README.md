@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Mechanical Computer Kit &lpar;Roons&rpar;](https://whomtech.com/show-hn/)
+- [Redis is open source again](https://antirez.com/news/151)
+- [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
 - [The term &quot;vegetative electron microscopy&quot; keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
 - [Starting July 1, Academic Publishers Can&#39;t Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
-- [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
-- [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
-- [Two publishers and three authors fail to understand what &quot;vibe coding&quot; means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
