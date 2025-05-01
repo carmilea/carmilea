@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
+- [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
+- [Git Changesets](https://github.com/changesets/changesets)
+- [Millihertz 5 Mechanical Computer](https://www.srimech.com/MHZ5.html)
 - [Waypoint Transit &lpar;YC W25&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
-- [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
-- [Fivetran to acquire Census](https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces)
-- [A senior Apple exec could be jailed in Epic case; it&#39;s time to end this disaster](https://9to5mac.com/2025/05/01/a-senior-apple-exec-could-be-jailed-in-epic-case-its-time-to-end-this-disaster/)
-- [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
