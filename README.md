@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Espressif&#39;s ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
-- [The Group Chat from Hell Has Been Exposed](https://www.thenation.com/article/society/marc-andreessen-semafor-group-chat-signal/)
-- [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)
-- [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
-- [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
+- [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
+- [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)
+- [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
+- [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
 <!-- BLOG-POST-LIST:END -->
 
 ---
