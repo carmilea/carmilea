@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft gets twitchy over talk of Europe&#39;s tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
+- [The Secret Services&#39; involvement in the making of The Line of Fire &lpar;1993&rpar; [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
 - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 - [A competing theory to &#39;dark energy&#39; suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
 - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
