@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 - [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
-- [Git Changesets](https://github.com/changesets/changesets)
 - [Millihertz 5 Mechanical Computer](https://www.srimech.com/MHZ5.html)
 - [Waypoint Transit &lpar;YC W25&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
+- [Arizona laptop farmer pleads guilty for funneling $17M to Kim Jong Un](https://www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
