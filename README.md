@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;re in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
+- [International Workers&#39; Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
+- [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
 - [The Brief Origins of May Day](https://archive.iww.org/history/library/misc/origins_of_mayday/)
 - [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
-- [Trust Me, I&#39;m Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
-- [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
-- [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
