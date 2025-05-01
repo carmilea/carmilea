@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Churn Prediction with h2oGPTe : A Hands-On Demo  | H2O.ai Agents - Part 8](https://www.youtube.com/watch?v=WCvBtXg5zIA)
 - [H2O AI and ML Services Learning Path | Teaser](https://www.youtube.com/watch?v=Uy5rQT2-JN4)
 - [Building Real-Time Data Pipelines Using Estuary and SingleStore](https://www.youtube.com/watch?v=TBR4-6Tz1pc)
 - [Advancing Medical Research with h2oGPTe  | H2O.ai Agents - Part 7](https://www.youtube.com/watch?v=vMc04rPuc_4)
 - [Exploring DeepSeek – The New Frontier in Open-Source AI Models | SingleStore Webinars](https://www.youtube.com/watch?v=4G59yIhS-wo)
-- [Building Trust in AI &amp; Analytics: Real-Time Data Meets Governance | SingleStore Webinars](https://www.youtube.com/watch?v=WFDLTShKBjc)
 <!-- YOUTUBE:END -->
 
 
