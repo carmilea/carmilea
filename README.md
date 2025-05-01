@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxide&#39;s compensation model: how&#39;s it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
+- [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
+- [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
+- [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
-- [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
-- [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
