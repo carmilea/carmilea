@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
+- [Deno&#39;s Decline](https://dbushell.com/2025/04/28/denos-decline/)
+- [Google Wallet launches new age and identity verification features &lpar;ZK proofs&rpar;](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
 - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-- [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
-- [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
-- [Multiboard 3D Printed Storage System](https://www.multiboard.io)
-- [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
+- [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
