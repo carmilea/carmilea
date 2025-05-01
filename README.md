@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxide&#39;s compensation model: how&#39;s it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
+- [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
+- [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
+- [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
 - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
-- [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
-- [Millihertz 5 Mechanical Computer](https://www.srimech.com/MHZ5.html)
-- [Waypoint Transit &lpar;YC W25&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
-- [Arizona laptop farmer pleads guilty for funneling $17M to Kim Jong Un](https://www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
