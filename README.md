@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft gets twitchy over talk of Europe&#39;s tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
-- [The Secret Services&#39; involvement in the making of The Line of Fire &lpar;1993&rpar; [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
-- [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
-- [A competing theory to &#39;dark energy&#39; suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
-- [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
+- [The Brief Origins of May Day](https://archive.iww.org/history/library/misc/origins_of_mayday/)
+- [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
+- [Trust Me, I&#39;m Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
+- [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
+- [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
