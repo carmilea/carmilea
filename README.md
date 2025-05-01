@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
+- [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 - [A competing theory to &#39;dark energy&#39; suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
