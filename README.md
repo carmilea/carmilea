@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Mechanical Computer Kit &lpar;Roons&rpar;](https://whomtech.com/show-hn/)
-- [Redis is open source again](https://antirez.com/news/151)
-- [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
-- [The term &quot;vegetative electron microscopy&quot; keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
-- [Starting July 1, Academic Publishers Can&#39;t Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
+- [Waypoint Transit &lpar;YC W25&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
+- [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
+- [Fivetran to acquire Census](https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces)
+- [A senior Apple exec could be jailed in Epic case; it&#39;s time to end this disaster](https://9to5mac.com/2025/05/01/a-senior-apple-exec-could-be-jailed-in-epic-case-its-time-to-end-this-disaster/)
+- [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
