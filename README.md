@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phi Silica: Microsoft hardware plan for local AI](https://blogs.windows.com/windowsexperience/2024/12/06/phi-silica-small-but-mighty-on-device-slm/)
-- [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
-- [Milwaukee police considering trading mugshots for facial recognition tech](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
 - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
+- [A competing theory to &#39;dark energy&#39; suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
+- [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
+- [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
