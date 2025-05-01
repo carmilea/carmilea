@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFK Jr. rejects cornerstone of health science: Germ theory](https://arstechnica.com/health/2025/04/rfk-jr-s-anti-vaccine-stance-is-rooted-in-a-disbelief-in-germ-theory/)
-- [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
-- [Maybe Zelenskiy Should Be Writing the Art of the Deal](https://www.bloomberg.com/opinion/articles/2025-05-01/maybe-zelenskiy-should-be-writing-the-art-of-the-deal)
-- [NASA&#39;s Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
-- [If you&#39;re in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
+- [The term &quot;vegetative electron microscopy&quot; keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
+- [Starting July 1, Academic Publishers Can&#39;t Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
+- [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
+- [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
+- [Two publishers and three authors fail to understand what &quot;vibe coding&quot; means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
