@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s Reality Labs Has Now Lost over $60B Since 2020](https://meta.slashdot.org/story/25/05/01/206224/metas-reality-labs-has-now-lost-over-60-billion-since-2020)
-- [De minimis: US small parcels loophole closes pushing up Shein, Temu prices](https://www.bbc.com/news/articles/cwy79j2n7d4o)
+- [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
+- [Taxes and fees not included: T-Mobile&#39;s latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
+- [Crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
+- [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
-- [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
-- [The Totalitarian Buddhist Who Beat SIM City &lpar;2010&rpar;](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
