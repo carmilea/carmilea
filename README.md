@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toma &lpar;YC W24&rpar; Is Hiring Engs #3-4 &lpar;AI for Automotive&rpar;](https://www.ycombinator.com/companies/toma/jobs)
+- [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
+- [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
+- [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
 - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
-- [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
-- [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
-- [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
-- [Lessons from Harlem](https://theamericanscholar.org/lessons-from-harlem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
