@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
 - [VR Design Unpacked: The Secret to Beat Saber&#39;s Fun Isn&#39;t What You Think](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
 - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 - [Images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 - [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
-- [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
