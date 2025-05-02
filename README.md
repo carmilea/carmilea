@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I&#39;ve Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+- [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
 - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
 - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
-- [Quebec refuses to reinvest in Lion Electric](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
-- [Third party cookies must be removed](https://w3ctag.github.io/web-without-3p-cookies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
