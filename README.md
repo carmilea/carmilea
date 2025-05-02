@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a synthesizer based on 3D physics and launched the product](https://anukari.com)
+- [Rams is a documentary portrait of Dieter Rams &lpar;2018&rpar;](https://www.hustwit.com/rams)
+- [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
+- [The History of Album Art](https://matthewstrom.com/writing/album-art/)
 - [Toma &lpar;YC W24&rpar; Is Hiring Engs #3-4 &lpar;AI for Automotive&rpar;](https://www.ycombinator.com/companies/toma/jobs)
-- [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
-- [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
-- [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
-- [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
