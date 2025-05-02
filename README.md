@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clair Obscur may have the highest Metacritic user score of all time](https://www.metacritic.com/game/clair-obscur-expedition-33/user-reviews/)
+- [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
+- [Suno v4.5](https://suno.com/explore/)
 - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
-- [Taxes and fees not included: T-Mobile&#39;s latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
-- [Crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
-- [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
-- [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
+- [Converting a Git repo from tabs to spaces &lpar;2016&rpar;](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
