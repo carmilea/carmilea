@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
+- [Don&#39;t watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 - [Quebec refuses to reinvest in Lion Electric &lpar;busses&rpar;; US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
-- [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
-- [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
