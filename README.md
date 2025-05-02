@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I&#39;ve Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+- [The Totalitarian Buddhist Who Beat SIM City &lpar;2010&rpar;](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
+- [Irish privacy watchdog hits TikTok with Є530M fine over data transfers to China](https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2)
+- [The Miscalculations of Covid School Closures](https://www.newyorker.com/books/under-review/the-miscalculations-of-covid-small-school-closures)
 - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
 - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
-- [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
-- [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
