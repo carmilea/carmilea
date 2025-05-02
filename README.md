@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anti-Capitalist Case for Standards](https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/)
+- [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
+- [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
+- [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
 - [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
-- [Deno&#39;s Decline](https://dbushell.com/2025/04/28/denos-decline/)
-- [Google Wallet launches new age and identity verification features &lpar;ZK proofs&rpar;](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
-- [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-- [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
