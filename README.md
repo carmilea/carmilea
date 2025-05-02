@@ -61,8 +61,8 @@
 - [Zoho halts $700M semiconductor plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 - [Don&#39;t watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
+- [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 - [Quebec refuses to reinvest in Lion Electric](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
-- [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
