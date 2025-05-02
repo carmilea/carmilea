@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a synthesizer based on 3D physics and launched the product](https://anukari.com)
+- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
+- [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
+- [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 - [Rams is a documentary portrait of Dieter Rams &lpar;2018&rpar;](https://www.hustwit.com/rams)
 - [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
-- [The History of Album Art](https://matthewstrom.com/writing/album-art/)
-- [Toma &lpar;YC W24&rpar; Is Hiring Engs #3-4 &lpar;AI for Automotive&rpar;](https://www.ycombinator.com/companies/toma/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
