@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grand Theft Auto VI gets pushed back to May 26, 2026](https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/)
+- [Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF](https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html)
 - [Clair Obscur may have the highest Metacritic user score of all time](https://www.metacritic.com/game/clair-obscur-expedition-33/user-reviews/)
+- [Google is hurting new apps that have less users than competitors](https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en)
 - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
-- [Suno v4.5](https://suno.com/explore/)
-- [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
-- [Converting a Git repo from tabs to spaces &lpar;2016&rpar;](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
