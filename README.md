@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
+- [Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
 - [Stellar Sleep &lpar;YC S23&rpar; is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 - [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
 - [Bethesda Thinks Fan Remaster of Oblivion Is &#39;Very Special&#39; and Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)
-- [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
-- [Run LLMs on Apple Neural Engine &lpar;ANE&rpar;](https://github.com/Anemll/Anemll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
