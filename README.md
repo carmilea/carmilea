@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadly Screwworm Parasite&#39;s Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
 - [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
-- [Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
-- [Stellar Sleep &lpar;YC S23&rpar; is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
-- [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
-- [Bethesda Thinks Fan Remaster of Oblivion Is &#39;Very Special&#39; and Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)
+- [Show HN: Free, 100% in browser PDF editor](https://breezepdf.com)
+- [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
+- [Burning Mao](https://granta.com/burning-mao/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
