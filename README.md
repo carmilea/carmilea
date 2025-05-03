@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [We know a little more about Amazon&#39;s super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
-- [The number of new apartments is at a 50-year high, but states expect a slowdown](https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/)
 - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
+- [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
