@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spain-Portugal blackouts: what happened](https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666)
-- [Deadly Screwworm Parasite&#39;s Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
-- [We Fell Out of Love with Next.js and Back in Love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
-- [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
-- [Show HN: Free, 100% in browser PDF editor](https://breezepdf.com)
+- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
+- [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
+- [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
+- [Ask HN: Anyone else roll eyes at startups that went from &quot;X&quot; to &quot;AI-powered X&quot;?](https://news.ycombinator.com/item?id=43881396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
