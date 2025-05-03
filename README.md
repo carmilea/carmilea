@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 - [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
-- [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
+- [You sent the message, but did you write it?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
-- [Ask HN: Anyone else roll eyes at startups that went from &quot;X&quot; to &quot;AI-powered X&quot;?](https://news.ycombinator.com/item?id=43881396)
+- [Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
