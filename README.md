@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Computational Limit of Life May Be Billion Times Higher Than Assumed](https://www.popularmechanics.com/science/a64612958/computation-limit-biology/)
-- [Time saved by AI offset by new work created, study suggests](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/)
-- [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
-- [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
-- [We know a little more about Amazon&#39;s super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
+- [A memory of the nineteen nineties &lpar;1997&rpar;](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
+- [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
+- [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
+- [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
+- [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
 <!-- BLOG-POST-LIST:END -->
 
 ---
