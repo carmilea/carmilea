@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain-Portugal blackouts: what happened](https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666)
 - [Deadly Screwworm Parasite&#39;s Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
+- [We Fell Out of Love with Next.js and Back in Love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 - [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
 - [Show HN: Free, 100% in browser PDF editor](https://breezepdf.com)
-- [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
-- [Burning Mao](https://granta.com/burning-mao/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
