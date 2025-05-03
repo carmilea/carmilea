@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
+- [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 - [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+- [When Flat Rate Movers Won&#39;t Answer Your Calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
 - [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
-- [You sent the message, but did you write it?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
-- [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
-- [Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
