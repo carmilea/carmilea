@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Algebra of Patterns &lpar;Extended Version&rpar;](https://arxiv.org/abs/2504.18920)
 - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
 - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
 - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
-- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
