@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
+- [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 - [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
 - [VR Design Unpacked: The secret to Beat Saber&#39;s fun](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
 - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
-- [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
-- [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
