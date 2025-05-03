@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
+- [Stellar Sleep &lpar;YC S23&rpar; is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+- [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
+- [Bethesda Thinks Fan Remaster of Oblivion Is &#39;Very Special&#39; and Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)
 - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 - [Run LLMs on Apple Neural Engine &lpar;ANE&rpar;](https://github.com/Anemll/Anemll)
-- [A memory of the nineteen nineties &lpar;1997&rpar;](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
-- [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
