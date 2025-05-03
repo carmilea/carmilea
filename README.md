@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
+- [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
+- [Run LLMs on Apple Neural Engine &lpar;ANE&rpar;](https://github.com/Anemll/Anemll)
 - [A memory of the nineteen nineties &lpar;1997&rpar;](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
 - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
-- [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
-- [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
-- [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
 <!-- BLOG-POST-LIST:END -->
 
 ---
