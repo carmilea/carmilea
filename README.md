@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Program Reading &lpar;1975&rpar; [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
+- [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
+- [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
-- [Dummy&#39;s Guide to Modern LLM Sampling](https://rentry.co/samplers)
-- [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
-- [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
-- [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
+- [Minimal Linux Bootloader](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
