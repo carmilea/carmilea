@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brian Eno&#39;s Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
 - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 - [Programmers Guide to the AMIBIOS &lpar;1993&rpar; [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
 - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 - [Pascal for Small Machines](http://pascal.hansotten.com/)
-- [A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
