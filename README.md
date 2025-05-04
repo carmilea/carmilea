@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
+- [Programmers Guide to the AMIBIOS &lpar;1993&rpar; [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
+- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 - [Pascal for Small Machines](http://pascal.hansotten.com/)
-- [Vygotsky&#39;s Zone of Proximal Development](https://www.simplypsychology.org/zone-of-proximal-development.html)
-- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
-- [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
-- [Why I Am Not Going to Buy a Computer &lpar;1987&rpar; [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+- [A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
