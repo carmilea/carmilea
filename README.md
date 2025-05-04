@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The latest AI scaling graph – and why it hardly makes sense](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
+- [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 - [Brian Eno&#39;s Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
 - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 - [Programmers Guide to the AMIBIOS &lpar;1993&rpar; [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
