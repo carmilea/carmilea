@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-driven robot installs nearly 10k solar modules in Australia](https://renewablesnow.com/news/ai-driven-robot-installs-nearly-10-000-solar-modules-in-australia-1274232/)
+- [&#39;Bizarro World&#39;](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
+- [Lilith and Modula-2](https://astrobe.com/Modula2/)
 - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
-- [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
-- [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
-- [Brian Eno&#39;s Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
-- [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
+- [Switch to a tiling-window-manager TODAY](https://github.com/uint23/sxwm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
