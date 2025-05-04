@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
-- [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
-- [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
-- [Critical Program Reading &lpar;1975&rpar; [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
-- [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
+- [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)
+- [I&#39;d rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+- [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
+- [&#39;Dangerous nonsense&#39;: AI-authored books about ADHD for sale on Amazon](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon)
+- [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
