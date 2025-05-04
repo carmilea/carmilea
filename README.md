@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
-- [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
-- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
-- [When Flat Rate Movers Won&#39;t Answer Your Calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
-- [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
+- [Pascal for Small Machines](http://pascal.hansotten.com/)
+- [Vygotsky&#39;s Zone of Proximal Development](https://www.simplypsychology.org/zone-of-proximal-development.html)
+- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
+- [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
+- [Why I Am Not Going to Buy a Computer &lpar;1987&rpar; [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
