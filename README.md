@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)
+- [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 - [Programmers Guide to the AMIBIOS &lpar;1993&rpar; [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
-- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
-- [Pascal for Small Machines](http://pascal.hansotten.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
