@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
+- [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
+- [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
 - [Critical Program Reading &lpar;1975&rpar; [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
-- [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
-- [Minimal Linux Bootloader](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
