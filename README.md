@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)
+- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
+- [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
 - [I&#39;d rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
-- [&#39;Dangerous nonsense&#39;: AI-authored books about ADHD for sale on Amazon](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon)
 - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
 <!-- BLOG-POST-LIST:END -->
 
