@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
+- [Dummy&#39;s Guide to Modern LLM Sampling](https://rentry.co/samplers)
 - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
 - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
-- [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
-- [&#39;Bizarro World&#39;](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
