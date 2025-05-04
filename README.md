@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+- [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 - [KaiPod Learning &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
+- [Ask HN: Hackathons feel fake now – anyone else noticing this?](https://news.ycombinator.com/item?id=43889502)
 - [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
-- [I&#39;d rather read the prompt](https://claytonwramsey.com/blog/prompt/)
-- [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
-- [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
