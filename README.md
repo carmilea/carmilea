@@ -62,7 +62,7 @@
 - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 - [KaiPod Learning &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
 - [Ask HN: Hackathons feel fake now – anyone else noticing this?](https://news.ycombinator.com/item?id=43889502)
-- [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
+- [I&#39;d rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
