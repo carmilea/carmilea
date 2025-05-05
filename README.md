@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
-- [The Creative Power of Constraints](https://arun.is/blog/creative-power-constraints/)
+- [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
 - [As an experienced LLM user, I don&#39;t use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 - [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
