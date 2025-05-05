@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
+- [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
+- [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
 - [Apple Shortcuts is falling into &quot;the automation gap&quot;](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 - [Modern Latex](https://github.com/mrkline/modern-latex)
 - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
-- [Driving Compilers &lpar;2023&rpar;](https://fabiensanglard.net/dc/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
