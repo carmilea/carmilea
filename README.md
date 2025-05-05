@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
+- [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
+- [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
 - [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
-- [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
-- [Geometrically understanding calculus of inverse functions &lpar;2023&rpar;](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
-- [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
