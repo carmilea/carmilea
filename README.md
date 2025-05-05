@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacing Kubernetes with Systemd](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
+- [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
 - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 - [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
-- [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
-- [As an experienced LLM user, I don&#39;t use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
