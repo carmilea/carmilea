@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing Kubernetes with Systemd](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+- [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
+- [Dreariness Index &lpar;2015&rpar;](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
+- [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
-- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
-- [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
