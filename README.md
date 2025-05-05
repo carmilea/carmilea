@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Shortcuts is falling into &quot;the automation gap&quot;](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 - [Modern Latex](https://github.com/mrkline/modern-latex)
 - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 - [Driving Compilers &lpar;2023&rpar;](https://fabiensanglard.net/dc/index.php)
 - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
-- [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
