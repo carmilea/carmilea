@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
+- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 - [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
 - [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
 - [As an experienced LLM user, I don&#39;t use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
-- [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
-- [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
