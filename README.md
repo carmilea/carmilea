@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
-- [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
-- [Apple Shortcuts is falling into &quot;the automation gap&quot;](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
-- [Modern Latex](https://github.com/mrkline/modern-latex)
-- [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
+- [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
+- [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
+- [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
+- [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
+- [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
