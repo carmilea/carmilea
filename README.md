@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Latex](https://github.com/mrkline/modern-latex)
 - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 - [Driving Compilers &lpar;2023&rpar;](https://fabiensanglard.net/dc/index.php)
 - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
-- [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
-- [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
+- [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
