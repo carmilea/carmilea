@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
 - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
 - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
-- [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
