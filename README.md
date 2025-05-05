@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
+- [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
 - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
 - [Geometrically understanding calculus of inverse functions &lpar;2023&rpar;](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
 - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
-- [Maker of AI &#39;vibe coding&#39; app Cursor hits $9B valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2)
-- [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
