@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air traffic controllers couldn&#39;t see or talk to planes in Newark failure](https://www.cnbc.com/2025/05/05/air-traffic-controllers-newark-airport-delays.html)
-- [Why it is &lpar;nearly&rpar; impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
+- [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
 - [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
-- [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
+- [Databricks in talks to acquire startup Neon for about $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
+- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
