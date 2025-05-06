@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Supercapacitors Come to AI&#39;s Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
-- [Brush &lpar;Bo&lpar;u&rpar;rn&lpar;e&rpar; RUsty SHell&rpar; a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
-- [Show HN: Feedsmith — Fast parser &amp; generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
-- [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
-- [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
+- [Continue &lpar;YC S23&rpar; Is Hiring Software Engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
+- [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
+- [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
+- [Scientists discover new way to convert corn waste to low-cost sugar for biofuel](https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
