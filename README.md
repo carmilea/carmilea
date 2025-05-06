@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;Sneakers&quot; film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
-- [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
-- [Can you smuggle data in an ID card photo?](https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/)
-- [Open WebUI changed license from BSD-3 to Open WebUI license with CLA](https://docs.openwebui.com/license/)
+- [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
+- [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 - [Critical CSS](https://critical-css-extractor.kigo.studio/)
+- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 <!-- BLOG-POST-LIST:END -->
 
 ---
