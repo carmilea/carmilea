@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open WebUI BSD-3-based license adds a fair-use branding protection clause](https://docs.openwebui.com/license/)
+- [Open WebUI changed license from BSD-3 to Open WebUI license with CLA](https://docs.openwebui.com/license/)
 - [Critical CSS](https://critical-css-extractor.kigo.studio/)
 - [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
