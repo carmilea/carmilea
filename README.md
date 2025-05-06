@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
+- [Show HN: Clippy, 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
+- [Accents in Latent Spaces: How AI Hears Accent Strength in English](https://accent-strength.boldvoice.com/)
 - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 - [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
-- [Oregon State University&#39;s Open Source Lab Is Running on Fumes](https://www.theregister.com/2025/05/02/osl_short_of_money/)
-- [OpenAI reaches agreement to buy Windsurf for around $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
-- [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
