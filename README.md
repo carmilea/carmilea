@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
-- [The Turkish İ Problem and Why You Should Care &lpar;2012&rpar;](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
-- [Sneakers &lpar;1992&rpar; – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
-- [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
-- [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
+- [OpenAI agrees to buy Windsurf for about $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
+- [Propositions as Types &lpar;2014&rpar; [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+- [Getting things “done” in large tech companies](https://www.seangoedecke.com/getting-things-done/)
+- [Design and evaluation of a parrot-to-parrot video-calling system &lpar;2023&rpar;](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
+- [Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads](https://github.com/hash-anu/AnuDB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
