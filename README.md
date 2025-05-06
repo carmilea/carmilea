@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Supercapacitors Come to AI&#39;s Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 - [Brush &lpar;Bo&lpar;u&rpar;rn&lpar;e&rpar; RUsty SHell&rpar; a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 - [Show HN: Feedsmith — Fast parser &amp; generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
 - [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
-- [Matt Godbolt sold me on Rust &lpar;by showing me C++&rpar;](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
-- [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
+- [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
