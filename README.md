@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
-- [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 - [The Turkish İ Problem and Why You Should Care &lpar;2012&rpar;](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
-- [Sneakers &lpar;1992&rpar; – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+- [Sneakers &lpar;1992&rpar; – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
 - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
+- [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
