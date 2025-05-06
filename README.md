@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Sneakers&quot; film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+- [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
+- [Can you smuggle data in an ID card photo?](https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/)
 - [Open WebUI changed license from BSD-3 to Open WebUI license with CLA](https://docs.openwebui.com/license/)
 - [Critical CSS](https://critical-css-extractor.kigo.studio/)
-- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-- [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
-- [Show HN: I built a 7-day calendar app – no months or years, just the next 7 days](https://weeklong.life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
