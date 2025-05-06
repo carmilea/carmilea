@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Fast parser and generator for RSS, Atom, OPML and popular namespaces](https://github.com/macieklamberski/feedsmith)
+- [Matt Godbolt sold me on Rust &lpar;by showing me C++&rpar;](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
+- [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
+- [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 - [Launch HN: Exa &lpar;YC S21&rpar; – The web as a database](https://news.ycombinator.com/item?id=43906841)
-- [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
-- [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
-- [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
-- [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
