@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Sneakers&quot; film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+- [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
+- [Sneakers &lpar;1992&rpar; – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
-- [Critical CSS](https://critical-css-extractor.kigo.studio/)
-- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- [An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast](https://anukari.com/blog/devlog/an-appeal-to-apple)
 <!-- BLOG-POST-LIST:END -->
 
 ---
