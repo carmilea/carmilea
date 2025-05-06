@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI agrees to buy Windsurf for about $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
+- [OpenAI reaches agreement to buy Windsurf for around $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
+- [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 - [Propositions as Types &lpar;2014&rpar; [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+- [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 - [Getting things “done” in large tech companies](https://www.seangoedecke.com/getting-things-done/)
-- [Design and evaluation of a parrot-to-parrot video-calling system &lpar;2023&rpar;](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
-- [Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads](https://github.com/hash-anu/AnuDB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
