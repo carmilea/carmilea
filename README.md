@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building Real-Time AI Apps on Streaming Data with Kafka](https://www.youtube.com/watch?v=aB_4nmI8tkk)
 - [Optimizing Power Plants with h2oGPTe : A Hands-on Demo  | H2O.ai Agents - Part 9](https://www.youtube.com/watch?v=uCnatQJz0lo)
 - [From JSON to Vectors – Building AI Search with SingleStore Kai](https://www.youtube.com/watch?v=5l_6c9gZ7x8)
 - [Churn Prediction with h2oGPTe : A Hands-On Demo  | H2O.ai Agents - Part 8](https://www.youtube.com/watch?v=WCvBtXg5zIA)
 - [H2O AI and ML Services Learning Path | Teaser](https://www.youtube.com/watch?v=Uy5rQT2-JN4)
-- [Building Real-Time Data Pipelines Using Estuary and SingleStore](https://www.youtube.com/watch?v=TBR4-6Tz1pc)
 <!-- YOUTUBE:END -->
 
 
