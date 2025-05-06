@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Exa &lpar;YC S21&rpar; – The web as a database](https://news.ycombinator.com/item?id=43906841)
+- [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
+- [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 - [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
-- [Show HN: Clippy, 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
-- [Accents in Latent Spaces: How AI Hears Accent Strength in English](https://accent-strength.boldvoice.com/)
-- [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
-- [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
+- [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
