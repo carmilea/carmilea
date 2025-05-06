@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Has Most of My Email Because It Has All of Yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- [Open WebUI BSD-3-based license adds a fair-use branding protection clause](https://docs.openwebui.com/license/)
+- [Critical CSS](https://critical-css-extractor.kigo.studio/)
+- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
-- [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
-- [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
-- [Databricks in talks to acquire startup Neon for about $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
+- [Show HN: I built a 7-day calendar app – no months or years, just the next 7 days](https://weeklong.life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
