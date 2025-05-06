@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
+- [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
+- [Oregon State University&#39;s Open Source Lab Is Running on Fumes](https://www.theregister.com/2025/05/02/osl_short_of_money/)
 - [OpenAI reaches agreement to buy Windsurf for around $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
-- [Propositions as Types &lpar;2014&rpar; [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
-- [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
-- [Getting things “done” in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
