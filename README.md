@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Has Most of My Email Because It Has All of Yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
 - [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 - [Databricks in talks to acquire startup Neon for about $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
-- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
