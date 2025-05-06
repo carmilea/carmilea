@@ -61,7 +61,7 @@
 - [Launch HN: Exa &lpar;YC S21&rpar; – The web as a database](https://news.ycombinator.com/item?id=43906841)
 - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
-- [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
+- [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 <!-- BLOG-POST-LIST:END -->
 
