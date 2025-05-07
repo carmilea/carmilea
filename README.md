@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
-- [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 - [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
 - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 - [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
+- [Show HN: Whippy Term - GUI terminal for embedded development &lpar;Linux and Windows&rpar;](https://whippyterm.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
