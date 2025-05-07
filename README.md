@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Getting Older Isn&#39;t What You Think](https://www.katycowan.co.uk/blog/getting-old)
+- [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
+- [Ghost students are creating an &#39;agonizing&#39; problem for Calif. colleges](https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php)
 - [Telling Lies: Bowie and Online Music Distribution in 1996](https://cybercultural.com/p/online-music-distribution-1996/)
-- [OpenSearch 3.0 Released](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/)
-- [Show HN: eInk optimized manga with Kindle Comic Converter &lpar;+Kobo/ReMarkable&rpar;](https://github.com/ciromattia/kcc)
-- [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
-- [The ACID Dilemma: Why ClickHouse Falls Short and SingleStore Delivers](https://www.singlestore.com/blog/the-acid-dilemma-clickhouse-falls-short-singlestore-delivers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
