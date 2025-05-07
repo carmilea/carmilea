@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
 - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
-- [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
 - [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
 - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
+- [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
