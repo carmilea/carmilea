@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg&#39;s Grand Vision: Most of Your Friends Will Be AI](https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7)
-- [Unity&#39;s Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
+- [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
+- [Everyone Is Cheating Their Way Through College](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)
+- [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
-- [Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard)
-- [Migrating a JavaScript Project from Prettier and ESLint to BiomeJS](https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
