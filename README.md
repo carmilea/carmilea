@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)
+- [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+- [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 - [&#39;I paid for the whole GPU, I am going to use the whole GPU&#39;](https://modal.com/blog/gpu-utilization-guide)
-- [GovEagle &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
-- [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
-- [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
