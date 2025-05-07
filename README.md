@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mississippi Can&#39;t Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
+- [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
 - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
