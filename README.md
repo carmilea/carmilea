@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
-- [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
-- [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-- [Samsung is paying $350M for audio brands B&amp;W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
+- [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
+- [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
+- [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
+- [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
