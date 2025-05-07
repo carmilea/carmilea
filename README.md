@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
+- [&#39;I paid for the whole GPU, I am going to use the whole GPU&#39;](https://modal.com/blog/gpu-utilization-guide)
 - [GovEagle &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
 - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 - [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
-- [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
-- [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
