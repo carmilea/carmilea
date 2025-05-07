@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
-- [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
-- [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
-- [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
-- [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+- [Telling Lies: Bowie and Online Music Distribution in 1996](https://cybercultural.com/p/online-music-distribution-1996/)
+- [OpenSearch 3.0 Released](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/)
+- [Show HN: eInk optimized manga with Kindle Comic Converter &lpar;+Kobo/ReMarkable&rpar;](https://github.com/ciromattia/kcc)
+- [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
+- [The ACID Dilemma: Why ClickHouse Falls Short and SingleStore Delivers](https://www.singlestore.com/blog/the-acid-dilemma-clickhouse-falls-short-singlestore-delivers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
