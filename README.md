@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tabular &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
-- [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
-- [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
-- [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
-- [Show HN: Whippy Term - GUI terminal for embedded development &lpar;Linux and Windows&rpar;](https://whippyterm.com)
+- [Zuckerberg&#39;s Grand Vision: Most of Your Friends Will Be AI](https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7)
+- [Unity&#39;s Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+- [Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard)
+- [Migrating a JavaScript Project from Prettier and ESLint to BiomeJS](https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
