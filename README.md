@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GovEagle &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
 - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 - [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
 - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
-- [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
