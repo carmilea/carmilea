@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Whippy Term - GUI terminal for embedded development &lpar;Linux and Windows&rpar;](https://whippyterm.com)
-- [Sutton and Barto Book Implementation](https://github.com/ivanbelenky/RL)
-- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
-- [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
+- [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
+- [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
+- [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
+- [The DEA is now abandoning body cameras](https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump)
+- [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
