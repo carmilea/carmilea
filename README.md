@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
-- [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
-- [Everyone Is Cheating Their Way Through College](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)
+- [Mississippi Can&#39;t Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
+- [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
 - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 <!-- BLOG-POST-LIST:END -->
 
