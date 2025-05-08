@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Dare You Transmit at 1.4 GHz!](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
+- [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
 - [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
 - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-- [I can&#39;t understand Apple&#39;s Critical Alert policy](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
+- [I can’t understand Apple’s Critical Alert policy &lpar;2023&rpar;](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
