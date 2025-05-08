@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From: Steve Jobs. &quot;Great idea, thank you.&quot;](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 - [Static as a Server](https://overreacted.io/static-as-a-server/)
 - [Brokk: AI for Large Codebases](https://brokk.ai)
-- [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)
 - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 - [Ciro &lpar;YC S22&rpar; is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
 <!-- BLOG-POST-LIST:END -->
