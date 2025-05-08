@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My stackoverflow question was closed so here&#39;s a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
-- [What Money Can&#39;t Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)
+- [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)
+- [Yes, the Apple II MouseCard IRQ Is Synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
 - [Artifact &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
-- [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)
 - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
+- [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
