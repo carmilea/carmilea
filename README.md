@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
 - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
 - [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)
 - [We have reached the &quot;severed fingers and abductions&quot; stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
 - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
-- [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
 <!-- BLOG-POST-LIST:END -->
 
 ---
