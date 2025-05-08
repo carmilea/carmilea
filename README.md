@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Examining problematic speech and behavior in World of Warcraft &lpar;2022&rpar;](https://tcjournal.org/vol8/jackson/)
+- [Radiation-tolerant ML framework for space](https://github.com/r0nlt/Space-Radiation-Tolerant)
 - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
 - [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
 - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
