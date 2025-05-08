@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
-- [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
-- [Trump&#39;s NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
-- [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
-- [QueryHub](https://www.queryhub.ai/blog/introducing-queryhub)
+- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
+- [Ciro &lpar;YC S22&rpar; is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
+- [Show HN: Using eBPF to see through encryption without a proxy](https://github.com/qpoint-io/qtap)
+- [More people are getting their tattoos removed](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed)
+- [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 <!-- BLOG-POST-LIST:END -->
 
 ---
