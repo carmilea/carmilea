@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
+- [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
+- [Trump&#39;s NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
 - [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
-- [Why the rich paid less tax in the 1970s – despite 98% tax rates](https://taxpolicy.org.uk/2025/05/08/tax-rich-1970s-loopholes/)
-- [Ask HN: What are good high information density UIs &lpar;screenshots, apps, sites&rpar;](https://news.ycombinator.com/item?id=43925732)
-- [Yes, the Apple II MouseCard IRQ Is Synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
-- [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
+- [QueryHub](https://www.queryhub.ai/blog/introducing-queryhub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
