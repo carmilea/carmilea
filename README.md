@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
-- [Implementing State Machines in PostgreSQL &lpar;2017&rpar;](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
-- [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
-- [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
-- [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
+- [Radiation Tolerant Software Framework for Space Applications](https://github.com/r0nlt/Space-Radiation-Tolerant)
+- [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
+- [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+- [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
+- [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
