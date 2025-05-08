@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing State Machines in PostgreSQL &lpar;2017&rpar;](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
 - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
-- [Show HN: Extension for full-text browser history search](https://rearview-ai.vercel.app/)
 - [The Rise and Fall of the Visual Telegraph &lpar;2017&rpar;](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
 - [From: Steve Jobs. &quot;Great idea, thank you.&quot;](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 <!-- BLOG-POST-LIST:END -->
