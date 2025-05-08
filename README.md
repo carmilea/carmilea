@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
+- [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)
+- [We have reached the &quot;severed fingers and abductions&quot; stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
+- [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
 - [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
-- [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
-- [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
-- [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
-- [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
