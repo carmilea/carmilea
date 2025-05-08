@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My stackoverflow question was closed so here&#39;s a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
+- [What Money Can&#39;t Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)
+- [Artifact &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
+- [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)
 - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
-- [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
-- [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
-- [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-- [I can’t understand Apple’s Critical Alert policy &lpar;2023&rpar;](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
