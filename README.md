@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using AI for Hypothesis Testing | Optimize Customer Churn with h2oGPTe](https://www.youtube.com/watch?v=lQIcwTHnnus)
 - [How to Choose the Best AI Model for Business Success | Reduce Customer Churn by 20%](https://www.youtube.com/watch?v=VJ7FtiK6kU4)
 - [Final Thoughts: Key Caveats &amp; Best Practices for AI Agents | H2O.ai Agents - Part 10](https://www.youtube.com/watch?v=KPrp_tM1ZQo)
 - [Building Real-Time AI Apps on Streaming Data with Kafka](https://www.youtube.com/watch?v=aB_4nmI8tkk)
 - [Optimizing Power Plants with h2oGPTe : A Hands-on Demo  | H2O.ai Agents - Part 9](https://www.youtube.com/watch?v=uCnatQJz0lo)
-- [From JSON to Vectors – Building AI Search with SingleStore Kai](https://www.youtube.com/watch?v=5l_6c9gZ7x8)
 <!-- YOUTUBE:END -->
 
 
