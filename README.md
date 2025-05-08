@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)
+- [Examining problematic speech and behavior in World of Warcraft &lpar;2022&rpar;](https://tcjournal.org/vol8/jackson/)
+- [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
+- [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
+- [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
-- [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
-- [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
-- [&#39;I paid for the whole GPU, I am going to use the whole GPU&#39;](https://modal.com/blog/gpu-utilization-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
