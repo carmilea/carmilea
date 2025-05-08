@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 - [Implementing State Machines in PostgreSQL &lpar;2017&rpar;](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
 - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
-- [The Rise and Fall of the Visual Telegraph &lpar;2017&rpar;](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
-- [From: Steve Jobs. &quot;Great idea, thank you.&quot;](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
+- [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
 <!-- BLOG-POST-LIST:END -->
 
 ---
