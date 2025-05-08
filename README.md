@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
 - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
 - [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
 - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
-- [June Huh dropped out to become a poet, now he’s won a Fields Medal &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
