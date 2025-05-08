@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Static as a Server](https://overreacted.io/static-as-a-server/)
+- [Brokk: AI for Large Codebases](https://brokk.ai)
+- [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)
 - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 - [Ciro &lpar;YC S22&rpar; is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
-- [Show HN: Using eBPF to see through encryption without a proxy](https://github.com/qpoint-io/qtap)
-- [More people are getting their tattoos removed](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed)
-- [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 <!-- BLOG-POST-LIST:END -->
 
 ---
