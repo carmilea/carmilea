@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)
+- [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
+- [Why the rich paid less tax in the 1970s – despite 98% tax rates](https://taxpolicy.org.uk/2025/05/08/tax-rich-1970s-loopholes/)
+- [Ask HN: What are good high information density UIs &lpar;screenshots, apps, sites&rpar;](https://news.ycombinator.com/item?id=43925732)
 - [Yes, the Apple II MouseCard IRQ Is Synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
-- [Artifact &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
-- [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
-- [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
+- [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
