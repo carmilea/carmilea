@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)
+- [Why 536 was &#39;the worst year to be alive&#39; &lpar;2018&rpar;](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- [Inventing the Adventure Game &lpar;1984&rpar;](http://www.warrenrobinett.com/inventing_adventure/)
 - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
+- [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 - [In the Network of the Conclav: How we &quot;guessed&quot; the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers &lpar;Remote US/CA&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
-- [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
 <!-- BLOG-POST-LIST:END -->
 
 ---
