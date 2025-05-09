@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 - [Doge software engineer&#39;s computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
 - [Losing my Meta account because of release delays](https://madelinemiller.dev/blog/dark-side-account-bans/)
 - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual &lpar;1980&rpar;](https://www.pagetable.com/?p=1798)
 - [Verification, the Key to AI &lpar;2001&rpar;](http://incompleteideas.net/IncIdeas/KeytoAI.html)
-- [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
