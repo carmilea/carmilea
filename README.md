@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is planning smart glasses with and without AR](https://www.theverge.com/news/663600/apple-smart-glasses-chips-ar-chip)
+- [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
+- [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
+- [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
 - [Data manipulations alleged in study that paved way for Microsoft&#39;s quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 - [Amazon&#39;s Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
-- [How async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
-- [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
