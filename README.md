@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
+- [In the Network of the Conclav: How we &quot;guessed&quot; the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 - [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers &lpar;Remote US/CA&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 - [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
 - [Launch HN: Nao Labs &lpar;YC X25&rpar; – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
-- [Show HN: Oliphaunt – A native Mastodon client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
-- [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
