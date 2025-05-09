@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
-- [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
-- [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
-- [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
-- [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
+- [Show HN: Oliphaunt – A Native Mastodon Client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
+- [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
+- [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
+- [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
+- [Former Supreme Court Justice David Souter Dies at 85](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
