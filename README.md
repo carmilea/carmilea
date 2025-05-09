@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gender characteristics of service robots can influence customer decisions](https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer)
-- [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
-- [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+- [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
+- [A Formal Analysis of Apple&#39;s iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
+- [Commercial Solutions for Classified CSfC for NSA to deliver secure cybersecurity](https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/)
+- [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
 - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
-- [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
