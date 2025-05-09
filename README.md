@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radiation Tolerant Software Framework for Space Applications](https://github.com/r0nlt/Space-Radiation-Tolerant)
+- [Gender characteristics of service robots can influence customer decisions](https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer)
 - [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
 - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
 - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
