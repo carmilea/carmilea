@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Oliphaunt – A Native Mastodon Client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers &lpar;Remote US/CA&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
+- [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
+- [Launch HN: Nao Labs &lpar;YC X25&rpar; – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
+- [Show HN: Oliphaunt – A native Mastodon client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
 - [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
-- [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
-- [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
-- [Former Supreme Court Justice David Souter Dies at 85](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
