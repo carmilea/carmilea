@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual &lpar;1980&rpar;](https://www.pagetable.com/?p=1798)
+- [Verification, the Key to AI &lpar;2001&rpar;](http://incompleteideas.net/IncIdeas/KeytoAI.html)
 - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 - [eBPF Mystery: When is IPv4 not IPv4? When it&#39;s pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 - [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
-- [Hill or High Water](https://royalsociety.org/blog/2025/05/hill-or-high-water/)
-- [For better or for worse, the overload &lpar;2024&rpar;](https://consteval.ca/2024/07/25/overload/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
