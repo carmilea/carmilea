@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
+- [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
 - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
-- [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
-- [Hollow Core Fiber &lpar;HCF&rpar;](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
