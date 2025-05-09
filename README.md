@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
+- [What&#39;s New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
+- [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
+- [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP &quot;pizza box&quot; AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
 - [Why 536 was &#39;the worst year to be alive&#39; &lpar;2018&rpar;](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
-- [Inventing the Adventure Game &lpar;1984&rpar;](http://www.warrenrobinett.com/inventing_adventure/)
-- [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
-- [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
-- [In the Network of the Conclav: How we &quot;guessed&quot; the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
