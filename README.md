@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
+- [Even Tesla&#39;s Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
 - [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 - [Unique Games Conjecture](https://en.wikipedia.org/wiki/Unique_games_conjecture)
 - [Reverse engineering the 386 processor&#39;s prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
-- [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
-- [&#39;We Currently Have No Container Ships,&#39; Seattle Port Says](https://www.newsweek.com/seattle-port-says-no-container-ships-tariffs-2069464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
