@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NOT a 3 year old chimney sweep &lpar;2022&rpar;](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
+- [After 16 years, we&#39;re renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)
+- [Ash &lpar;Almquist Shell&rpar; Variants](https://www.in-ulm.de/~mascheck/various/ash/)
+- [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
+- [Not a three-year-old chimney sweep &lpar;2022&rpar;](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
-- [Europe launches program to lure scientists away from the US](https://es.wired.com/articulos/europa-lanza-iniciativa-para-atraer-talento-cientifico-tras-recortes-en-ee-uu)
-- [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
-- [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
