@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+- [Reverse engineering the 386 processor&#39;s prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
+- [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
+- [&#39;We Currently Have No Container Ships,&#39; Seattle Port Says](https://www.newsweek.com/seattle-port-says-no-container-ships-tariffs-2069464)
 - [&#39;It cannot provide nuance&#39;: UK experts warn AI therapy chatbots are not safe](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use)
-- [Ancient humans used sunscreen to survive a deadly magnetic pole shift](https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/)
-- [Farewell to Lee Gold&#39;s Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
-- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
-- [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
