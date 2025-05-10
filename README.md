@@ -62,7 +62,7 @@
 - [Show HN: LoopMix128 – Fast C PRNG &lpar;.46ns&rpar;, 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
 - [Why the Apple II Didn&#39;t Support Lowercase Letters &lpar;2020&rpar;](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
 - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
-- [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
+- [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
