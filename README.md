@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Henry James&#39;s family tried to keep him in the closet &lpar;2016&rpar;](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
+- [The Cult of Doing Business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
+- [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)
+- [Radxa Orion O6 brings Arm to the midrange PC &lpar;with caveats&rpar;](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 - [LTXVideo 13B AI video generation](https://ltxv.video/)
-- [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)
-- [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
-- [The Deathbed Fallacy](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
-- [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
