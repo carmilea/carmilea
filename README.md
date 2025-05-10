@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NOT a 3 year old chimney sweep &lpar;2022&rpar;](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
+- [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 - [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
 - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
-- [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 - [Charles Bukowski, William Burroughs, and the Computer &lpar;2009&rpar;](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
-- [Brandon&#39;s Semiconductor Simulator](https://brandonli.net/semisim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
