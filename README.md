@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Charles Baudelaire&#39;s Flowers of Evil](https://fleursdumal.org)
-- [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
-- [What&#39;s New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
-- [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
-- [Why 536 was &#39;the worst year to be alive&#39; &lpar;2018&rpar;](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- [Charles Bukowski, William Burroughs, and the Computer &lpar;2009&rpar;](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
+- [Brandon&#39;s Semiconductor Simulator](https://brandonli.net/semisim/)
+- [WebGL Water &lpar;2010&rpar;](https://madebyevan.com/webgl-water/)
+- [PlainBudget – Minimalist Plain Text Budgeting](https://plainbudget.com/)
+- [Fleurs du Mal](https://fleursdumal.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
