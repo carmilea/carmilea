@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s a national egg crisis, and one company is making a lot of money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+- [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 - [React Three Ecosystem](https://www.react-three.org/)
 - [The cult of doing business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 - [Radxa Orion O6 brings Arm to the midrange PC &lpar;with caveats&rpar;](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
