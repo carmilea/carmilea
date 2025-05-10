@@ -62,7 +62,7 @@
 - [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
 - [After 16 years, we&#39;re renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)
 - [Ash &lpar;Almquist Shell&rpar; Variants](https://www.in-ulm.de/~mascheck/various/ash/)
-- [Why should I care? Or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
+- [Not a three-year-old chimney sweep &lpar;2022&rpar;](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
