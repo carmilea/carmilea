@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
-- [React Three Ecosystem](https://www.react-three.org/)
-- [The cult of doing business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
-- [Radxa Orion O6 brings Arm to the midrange PC &lpar;with caveats&rpar;](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
-- [LTXVideo 13B AI video generation](https://ltxv.video/)
+- [&#39;It cannot provide nuance&#39;: UK experts warn AI therapy chatbots are not safe](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use)
+- [Ancient humans used sunscreen to survive a deadly magnetic pole shift](https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/)
+- [Farewell to Lee Gold&#39;s Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
+- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
+- [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
