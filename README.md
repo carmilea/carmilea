@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Henry James&#39;s family tried to keep him in the closet &lpar;2016&rpar;](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
-- [The Cult of Doing Business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
-- [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)
+- [There&#39;s a national egg crisis, and one company is making a lot of money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+- [React Three Ecosystem](https://www.react-three.org/)
+- [The cult of doing business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 - [Radxa Orion O6 brings Arm to the midrange PC &lpar;with caveats&rpar;](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 - [LTXVideo 13B AI video generation](https://ltxv.video/)
 <!-- BLOG-POST-LIST:END -->
