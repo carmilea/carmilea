@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+- [Unique Games Conjecture](https://en.wikipedia.org/wiki/Unique_games_conjecture)
 - [Reverse engineering the 386 processor&#39;s prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 - [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
 - [&#39;We Currently Have No Container Ships,&#39; Seattle Port Says](https://www.newsweek.com/seattle-port-says-no-container-ships-tariffs-2069464)
-- [&#39;It cannot provide nuance&#39;: UK experts warn AI therapy chatbots are not safe](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
