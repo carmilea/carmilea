@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LTXVideo 13B AI video generation](https://ltxv.video/)
+- [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)
+- [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
+- [The Deathbed Fallacy](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
 - [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
-- [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
-- [After 16 years, we&#39;re renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)
-- [Ash &lpar;Almquist Shell&rpar; Variants](https://www.in-ulm.de/~mascheck/various/ash/)
-- [Not a three-year-old chimney sweep &lpar;2022&rpar;](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
