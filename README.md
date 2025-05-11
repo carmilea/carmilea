@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 - [Roame &lpar;YC S23&rpar; Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
-- [Ask HN: What will tech employment look like in 10 years?](https://news.ycombinator.com/item?id=43953092)
 - [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
 - [The Epochalypse Project](https://epochalypse-project.org/)
+- [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
