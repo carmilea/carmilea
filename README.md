@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synder &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
 - [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 - [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)
 - [Gonzalo Guerrero](https://en.wikipedia.org/wiki/Gonzalo_Guerrero)
 - [JEP 515: Ahead-of-Time Method Profiling](https://openjdk.org/jeps/515)
-- [In 2025, venture capital can&#39;t pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
