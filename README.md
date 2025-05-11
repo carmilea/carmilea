@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
-- [The AI jobs crisis is here, now](https://www.bloodinthemachine.com/p/the-ai-jobs-crisis-is-here-now)
+- [Leaving Google](https://www.airs.com/blog/archives/670)
 - [Dotless Domains](https://lab.avl.la/dotless/)
-- [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/)
 - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
+- [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
+- [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
