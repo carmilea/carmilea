@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In 2025, venture capital can&#39;t pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
+- [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
+- [Backdoor found in popular ecommerce components](https://sansec.io/research/license-backdoor)
 - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
-- [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
-- [Roame &lpar;YC S23&rpar; Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
-- [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
+- [What the hell are rare earth elements?](https://media.hubspot.com/what-the-hell-are-rare-earth-elements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
