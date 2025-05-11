@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Im 16 y/o working on my first statup](https://www.notiv.app/)
+- [What is it like to be a thermostat? &lpar;1996&rpar;](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
+- [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
+- [One-Click RCE in Asus&#39;s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
-- [Dotless Domains](https://lab.avl.la/dotless/)
-- [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
