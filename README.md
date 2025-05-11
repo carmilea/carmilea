@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 - [What is it like to be a thermostat? &lpar;1996&rpar;](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
+- [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 - [One-Click RCE in Asus&#39;s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-- [Fan Service](https://flak.tedunangst.com/post/fan-service)
-- [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
