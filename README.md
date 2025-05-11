@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
-- [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
-- [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)
+- [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)
+- [The surgeon who used F1 pitstop techniques to save lives of babies](https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk)
+- [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 - [2024 sea level &#39;report cards&#39; map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
 - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
 <!-- BLOG-POST-LIST:END -->
