@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Car Companies Are in a Billion-Dollar Software War, and Everyone&#39;s Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
-- [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
-- [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
-- [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
-- [Synder &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
+- [2024 sea level &#39;report cards&#39; map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
+- [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
+- [Rust Devs Think We&#39;re Hopeless; Let&#39;s Prove Them Wrong &lpar;With C++ Memory Leaks&rpar;](https://www.babaei.net/blog/rust-devs-think-we-are-hopeless-lets-prove-them-wrong-with-cpp-memory-leaks/)
+- [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
+- [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
