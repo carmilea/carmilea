@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jony Ive&#39;s next product is driven by the &#39;unintended consequences&#39; of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
+- [The Epochalypse Project](https://epochalypse-project.org/)
+- [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
 - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
-- [What is it like to be a thermostat? &lpar;1996&rpar;](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
-- [One-Click RCE in Asus&#39;s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-- [Fan Service](https://flak.tedunangst.com/post/fan-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
