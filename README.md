@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/)
+- [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
+- [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
+- [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
 - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
-- [Show HN: LoopMix128 – Fast C PRNG &lpar;.46ns&rpar;, 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
-- [Why the Apple II Didn&#39;t Support Lowercase Letters &lpar;2020&rpar;](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
-- [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
-- [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
