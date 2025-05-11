@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
+- [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
+- [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)
 - [2024 sea level &#39;report cards&#39; map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
 - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
-- [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
-- [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
-- [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
