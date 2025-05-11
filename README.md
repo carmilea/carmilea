@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Car Companies Are in a Billion-Dollar Software War, and Everyone&#39;s Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
+- [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
+- [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
+- [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 - [Synder &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
-- [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
-- [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)
-- [Gonzalo Guerrero](https://en.wikipedia.org/wiki/Gonzalo_Guerrero)
-- [JEP 515: Ahead-of-Time Method Profiling](https://openjdk.org/jeps/515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
