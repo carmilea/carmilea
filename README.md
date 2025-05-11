@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jony Ive&#39;s next product is driven by the &#39;unintended consequences&#39; of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
+- [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
+- [Roame &lpar;YC S23&rpar; Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
+- [Ask HN: What will tech employment look like in 10 years?](https://news.ycombinator.com/item?id=43953092)
+- [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
 - [The Epochalypse Project](https://epochalypse-project.org/)
-- [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
-- [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
-- [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
