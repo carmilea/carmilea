@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why National Labs are investing &lpar;heavily&rpar; in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-- [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)
+- [Can You Really Trust That Permission Pop-Up on macOS? &lpar;CVE-2025-31250&rpar;](https://wts.dev/posts/tcc-who/)
+- [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
 - [HealthBench](https://openai.com/index/healthbench/)
-- [Legion Health &lpar;YC S21&rpar; Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
-- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
