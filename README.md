@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul McCartney, Elton John and other creatives demand AI comes clean on scraping](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/)
+- [A crypto founder faked his death. We found him alive at his dad&#39;s house](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/)
 - [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
 - [University of Texas-Led Team Solves a Big Problem for Fusion Energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 - [Spade Hardware Description Language](https://spade-lang.org/)
-- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
-- [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
