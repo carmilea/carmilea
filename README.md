@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: ParaQuery &lpar;YC X25&rpar; – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
+- [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 - [OpenEoX to Standardize End-of-Life &lpar;EOL&rpar; and End-of-Support &lpar;EOS&rpar; Information](https://openeox.org/)
-- [Tailscale 4via6 – Connect Edge Deployments at Scale](https://tailscale.com/blog/4via6-connectivity-to-edge-devices)
-- [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
-- [Gig Companies Violate Workers Rights](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights)
+- [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
