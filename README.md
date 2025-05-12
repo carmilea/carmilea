@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
 - [Why National Labs are investing &lpar;heavily&rpar; in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
-- [Build Your Own Siri. Locally. On-Device. No Cloud](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
+- [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-- [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
+- [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
