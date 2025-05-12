@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Code Committers: Bharat Kathi - From Robotics to Growth Engineering](https://www.youtube.com/watch?v=8pam4slOIkY)
 - [Meet H2O Driverless AI](https://www.youtube.com/watch?v=h1e9Ypaetmc)
 - [Managing Projects and Feature Sets in Feature Store | Optimizing Data Access for AI](https://www.youtube.com/watch?v=JSlRt_BvU0Y)
 - [AI Financial Advisor: Real-Time Portfolio Insights &amp; Recommendations](https://www.youtube.com/watch?v=Az5yt-C2IwE)
 - [Demo: Building Agentic AI Applications for Fintech](https://www.youtube.com/watch?v=faTwpN0yuwY)
-- [Using AI for Hypothesis Testing | Optimize Customer Churn with h2oGPTe](https://www.youtube.com/watch?v=lQIcwTHnnus)
 <!-- YOUTUBE:END -->
 
 
