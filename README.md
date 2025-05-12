@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
 - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
 - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
 - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
-- [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
