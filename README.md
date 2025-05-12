@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
+- [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)
 - [HealthBench](https://openai.com/index/healthbench/)
-- [U.S. Nuclear Emergency Support aircraft touched down in Pakistan](https://thecommunemag.com/egyptian-plane-with-boron-us-plane-checking-radioactivity-did-india-really-hit-pakistans-nuclear-centres/)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
-- [I hacked a dating app &lpar;and how not to treat a security researcher&rpar;](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
 <!-- BLOG-POST-LIST:END -->
 
 ---
