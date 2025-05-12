@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legion Health &lpar;YC S21&rpar; Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
+- [I hacked a dating app &lpar;and how not to treat a security researcher&rpar;](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
+- [Ex-UK Special Forces break silence on &#39;war crimes&#39; by colleagues](https://www.bbc.com/news/articles/cj3j5gxgz0do)
+- [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 - [Launch HN: ParaQuery &lpar;YC X25&rpar; – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
-- [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
-- [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
-- [OpenEoX to Standardize End-of-Life &lpar;EOL&rpar; and End-of-Support &lpar;EOS&rpar; Information](https://openeox.org/)
-- [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
