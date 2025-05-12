@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
-- [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
-- [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
-- [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
-- [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
+- [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
+- [University of Texas-Led Team Solves a Big Problem for Fusion Energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
+- [Spade Hardware Description Language](https://spade-lang.org/)
+- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+- [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
