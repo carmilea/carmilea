@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Fucking Use HTML](https://justfuckingusehtml.com)
+- [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
 - [Paul McCartney, Elton John and other creatives demand AI comes clean on scraping](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/)
-- [A crypto founder faked his death. We found him alive at his dad&#39;s house](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/)
-- [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
-- [University of Texas-Led Team Solves a Big Problem for Fusion Energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
-- [Spade Hardware Description Language](https://spade-lang.org/)
+- [Gig Companies Violate Workers Rights](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights)
+- [The FTC puts off enforcing its &#39;click-to-cancel&#39; rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
