@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)
+- [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
+- [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
 - [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873)
 - [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
 - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
-- [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
 <!-- BLOG-POST-LIST:END -->
 
 ---
