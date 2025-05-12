@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Fucking Use HTML](https://justfuckingusehtml.com)
+- [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
+- [OpenEoX to Standardize End-of-Life &lpar;EOL&rpar; and End-of-Support &lpar;EOS&rpar; Information](https://openeox.org/)
+- [Tailscale 4via6 – Connect Edge Deployments at Scale](https://tailscale.com/blog/4via6-connectivity-to-edge-devices)
 - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
-- [Paul McCartney, Elton John and other creatives demand AI comes clean on scraping](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/)
 - [Gig Companies Violate Workers Rights](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights)
-- [The FTC puts off enforcing its &#39;click-to-cancel&#39; rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
