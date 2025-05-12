@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HealthBench](https://openai.com/index/healthbench/)
+- [U.S. Nuclear Emergency Support aircraft touched down in Pakistan](https://thecommunemag.com/egyptian-plane-with-boron-us-plane-checking-radioactivity-did-india-really-hit-pakistans-nuclear-centres/)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
 - [I hacked a dating app &lpar;and how not to treat a security researcher&rpar;](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
-- [Ex-UK Special Forces break silence on &#39;war crimes&#39; by colleagues](https://www.bbc.com/news/articles/cj3j5gxgz0do)
-- [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
-- [Launch HN: ParaQuery &lpar;YC X25&rpar; – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
 <!-- BLOG-POST-LIST:END -->
 
 ---
