@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
+- [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
+- [Ask HN: Is Slack Down?](https://news.ycombinator.com/item?id=43968044)
+- [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
 - [Why National Labs are investing &lpar;heavily&rpar; in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 - [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
-- [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-- [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
