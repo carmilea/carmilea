@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
+- [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 - [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
-- [Ask HN: Is Slack Down?](https://news.ycombinator.com/item?id=43968044)
 - [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
-- [Why National Labs are investing &lpar;heavily&rpar; in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
-- [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
+- [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
 <!-- BLOG-POST-LIST:END -->
 
 ---
