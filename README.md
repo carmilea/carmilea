@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
 - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 - [Anti-Personnel Computing &lpar;2023&rpar;](https://erratique.ch/writings/anti-personnel-computing)
 - [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
-- [Persuasion methods for engineering managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
