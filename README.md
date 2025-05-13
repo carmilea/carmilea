@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
 - [Starcloud](https://www.ycombinator.com/companies/starcloud)
-- [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
-- [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
-- [Don&#39;t unwrap options: There are better ways &lpar;2024&rpar;](https://corrode.dev/blog/rust-option-handling-best-practices/)
-- [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
+- [Using Obscure Graph Theory to Solve Programming Languages Problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
+- [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
+- [Android and Wear OS are getting a redesign](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
