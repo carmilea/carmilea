@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conspiracy Theorists Can Be Deprogrammed](https://nautil.us/conspiracy-theorists-can-be-deprogrammed-1210134/)
+- [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
+- [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
-- [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
-- [Anti-Personnel Computing &lpar;2023&rpar;](https://erratique.ch/writings/anti-personnel-computing)
-- [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
