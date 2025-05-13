@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Conspiracy Theorists Can Be Deprogrammed](https://nautil.us/conspiracy-theorists-can-be-deprogrammed-1210134/)
+- [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
+- [Launch HN: Miyagi &lpar;YC W25&rpar; turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
+- [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
+- [One Hundred and One Rules of Effective Living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
 - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
-- [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
-- [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
-- [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 <!-- BLOG-POST-LIST:END -->
 
 ---
