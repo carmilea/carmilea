@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
+- [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
+- [Anti-Personnel Computing &lpar;2023&rpar;](https://erratique.ch/writings/anti-personnel-computing)
+- [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
 - [Persuasion methods for engineering managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
-- [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
-- [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
-- [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
-- [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
