@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
+- [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
 - [OpenAI&#39;s Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
-- [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
-- [Optimizing Search: How SingleStore Delivers Hybrid SQL and Specialized Search in One System](https://www.singlestore.com/blog/optimizing-search-how-singlestore-delivers-hybrid-sql-and-specialized-search-in-one-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
