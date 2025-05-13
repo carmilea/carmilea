@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flattening Rust&#39;s Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+- [Type-Constrained Code Generation with Language Models](https://arxiv.org/abs/2504.09246)
+- [How &lpar;memory&rpar; safe is Zig? &lpar;2021&rpar;](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
+- [Y Combinator says Google is a monopolist, no comment about its OpenAI ties](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/)
 - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
-- [Starcloud](https://www.ycombinator.com/companies/starcloud)
-- [Using Obscure Graph Theory to Solve Programming Languages Problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
-- [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
-- [Android and Wear OS are getting a redesign](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
