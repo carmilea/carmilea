@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
+- [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 - [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
 - [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
-- [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
+- [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
