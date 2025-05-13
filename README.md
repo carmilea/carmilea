@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas Senate passes bill requiring solar plants to provide power at night](https://thehill.com/policy/equilibrium-sustainability/5292792-texas-senate-bill-power-cost/)
+- [Persuasion methods for engineering managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
 - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
 - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
