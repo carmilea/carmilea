@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
-- [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
-- [OpenAI&#39;s Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
+- [Don&#39;t Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
+- [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
+- [Show HN: Helixdb – Open-source vector-graph database for AI applications &lpar;Rust&rpar;](https://github.com/HelixDB/helix-db/)
+- [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
-- [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 <!-- BLOG-POST-LIST:END -->
 
 ---
