@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
+- [It&#39;s 2025–Why Are Banks Still Getting Authentication So Wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
 - [Don&#39;t Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
+- [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
-- [Show HN: Helixdb – Open-source vector-graph database for AI applications &lpar;Rust&rpar;](https://github.com/HelixDB/helix-db/)
-- [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
-- [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
