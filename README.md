@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
+- [Understanding Java&#39;s Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
+- [Bosses weren&#39;t being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
 - [Why I&#39;m Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
-- [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
-- [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
-- [Launch HN: Miyagi &lpar;YC W25&rpar; turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
-- [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
+- [Optimizing Search: How SingleStore Delivers Hybrid SQL and Specialized Search in One System](https://www.singlestore.com/blog/optimizing-search-how-singlestore-delivers-hybrid-sql-and-specialized-search-in-one-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
