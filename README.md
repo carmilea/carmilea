@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
+- [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
+- [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
-- [Understanding Java&#39;s Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
-- [Bosses weren&#39;t being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
-- [Why I&#39;m Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 - [Optimizing Search: How SingleStore Delivers Hybrid SQL and Specialized Search in One System](https://www.singlestore.com/blog/optimizing-search-how-singlestore-delivers-hybrid-sql-and-specialized-search-in-one-system)
 <!-- BLOG-POST-LIST:END -->
 
