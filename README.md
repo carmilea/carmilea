@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Senate passes bill requiring solar plants to provide power at night](https://thehill.com/policy/equilibrium-sustainability/5292792-texas-senate-bill-power-cost/)
+- [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
 - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
-- [Why the 737 MAX has been such a headache for Boeing](https://www.jalopnik.com/1853477/boeing-737-max-incidents-aircraft-problems/)
 - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
-- [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
