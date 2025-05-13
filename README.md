@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
+- [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 - [Anti-Personnel Computing &lpar;2023&rpar;](https://erratique.ch/writings/anti-personnel-computing)
