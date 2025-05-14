@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raycast &lpar;YC W20&rpar; Is Hiring AI Engineer &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs/ai-engineer)
-- [Don&#39;t use Wise. They can lock your account at any time. We&#39;re down $60k](https://hey.paris/posts/wise/)
+- [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
+- [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
