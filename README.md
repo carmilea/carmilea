@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Semantic Calculator &lpar;King-Man+woman=?&rpar;](https://calc.datova.ai)
+- [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
+- [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 - [David Hilbert&#39;s radio address &lpar;2014&rpar;](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
 - [Various Things in MetaPost &lpar;2019&rpar;](https://habr.com/en/articles/454376/)
-- [The Pigeon Whistle: A Defining Sound of Old Beijing &lpar;2019&rpar;](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
-- [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
-- [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
