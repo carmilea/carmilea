@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek’s ‘tech madman’ founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
+- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
+- [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
+- [DeepSeek’s founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
 - [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
-- [Your fingers wrinkle the same way every time you&#39;re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
-- [Flattening Rust&#39;s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
-- [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
+- [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
