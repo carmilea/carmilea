@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artie &lpar;YC S23&rpar; Is Hiring a Senior Product Marketing Manager &lpar;SF&rpar;](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager)
 - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
+- [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
 - [Launch HN: Jazzberry &lpar;YC X25&rpar; – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
-- [The Server That Wasn&#39;t Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
-- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
-- [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
+- [A server that wasn&#39;t meant to exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
