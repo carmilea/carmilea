@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
+- [SMS 2FA is not just insecure, it&#39;s also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
+- [The U.S. Nuclear Base Hidden Under Greenland&#39;s Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
+- [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
 - [E-COM: The $40M USPS project to send email on paper](https://buttondown.com/blog/the-e-com-story)
-- [Show HN: acmsg &lpar;automated commit message generator&rpar;](https://github.com/quinneden/acmsg)
-- [UK&#39;s Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
