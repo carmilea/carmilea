@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [E-COM: The time the USPS spent $40M subsidizing junk &lpar;e&rpar;mail](https://buttondown.com/blog/the-e-com-story)
+- [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
+- [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
+- [E-COM: The $40M USPS project to send email on paper](https://buttondown.com/blog/the-e-com-story)
 - [Show HN: acmsg &lpar;automated commit message generator&rpar;](https://github.com/quinneden/acmsg)
 - [UK&#39;s Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
-- [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
-- [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
