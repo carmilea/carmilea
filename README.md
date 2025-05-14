@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring AI Engineer &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs/ai-engineer)
+- [Don&#39;t use Wise. They can lock your account at any time. We&#39;re down $60k](https://hey.paris/posts/wise/)
 - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
-- [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
-- [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
