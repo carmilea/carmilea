@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
-- [SMS 2FA is not just insecure, it&#39;s also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
-- [The U.S. Nuclear Base Hidden Under Greenland&#39;s Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
-- [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
-- [The A.I. Radiologist Will Not Be with You Soon](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html)
+- [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
+- [Launch HN: Jazzberry &lpar;YC X25&rpar; – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
+- [The Server That Wasn&#39;t Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
+- [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
