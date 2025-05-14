@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Semantic Calculator &lpar;King-Man+woman=?&rpar;](https://calc.datova.ai)
+- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
+- [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
 - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-- [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
+- [Perverse incentives of vibe coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 - [David Hilbert&#39;s radio address &lpar;2014&rpar;](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
-- [Various Things in MetaPost &lpar;2019&rpar;](https://habr.com/en/articles/454376/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
