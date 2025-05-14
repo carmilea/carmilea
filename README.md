@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)
+- [UK&#39;s Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
+- [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
+- [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
-- [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
-- [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
-- [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
-- [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
