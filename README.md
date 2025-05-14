@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
+- [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
 - [DeepSeek’s founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
 - [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
