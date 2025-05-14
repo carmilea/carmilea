@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
+- [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 - [Artie &lpar;YC S23&rpar; Is Hiring a Senior Product Marketing Manager &lpar;SF&rpar;](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager)
 - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
-- [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
 - [Launch HN: Jazzberry &lpar;YC X25&rpar; – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
-- [A server that wasn&#39;t meant to exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
