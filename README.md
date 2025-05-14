@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flattening Rust&#39;s Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
-- [Type-Constrained Code Generation with Language Models](https://arxiv.org/abs/2504.09246)
-- [How &lpar;memory&rpar; safe is Zig? &lpar;2021&rpar;](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
-- [Y Combinator says Google is a monopolist, no comment about its OpenAI ties](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/)
-- [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
+- [DeepSeek’s ‘tech madman’ founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
+- [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
+- [Your fingers wrinkle the same way every time you&#39;re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+- [Flattening Rust&#39;s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+- [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
