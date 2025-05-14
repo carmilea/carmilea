@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
+- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 - [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 - [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
 - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-- [Perverse incentives of vibe coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
-- [Various Things in MetaPost &lpar;2019&rpar;](https://habr.com/en/articles/454376/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
