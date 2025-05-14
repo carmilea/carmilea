@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)
+- [E-COM: The time the USPS spent $40M subsidizing junk &lpar;e&rpar;mail](https://buttondown.com/blog/the-e-com-story)
+- [Show HN: acmsg &lpar;automated commit message generator&rpar;](https://github.com/quinneden/acmsg)
 - [UK&#39;s Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
 - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
-- [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
