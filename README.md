@@ -61,8 +61,8 @@
 - [Human](https://quarter--mile.com/Human)
 - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
 - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
-- [Show HN: YapCards &lpar;iOS&rpar; – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
 - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
+- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
