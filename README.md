@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;invisible crew&#39; who have 35 seconds to prevent a Eurovision blunder](https://www.bbc.com/news/articles/c1e679vn6yqo)
-- [Tiptap &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
+- [They Paid $3,500 for Apple&#39;s Vision Pro. A Year Later, It Still Hurts](https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
+- [Netflix will show generative AI ads midway through streams in 2026](https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)
 - [Human](https://quarter--mile.com/Human)
-- [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
-- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
