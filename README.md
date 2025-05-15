@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They Paid $3,500 for Apple&#39;s Vision Pro. A Year Later, It Still Hurts](https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341)
+- [CarPlay Ultra, the next generation of CarPlay, begins rolling out today](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
-- [Netflix will show generative AI ads midway through streams in 2026](https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)
-- [Human](https://quarter--mile.com/Human)
+- [Show HN: Kudos.wiki – Discover the best movies on Wikipedia](https://kudos.wiki)
+- [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
