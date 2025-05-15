@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- [Initialization in C++ is bonkers &lpar;2017&rpar;](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
-- [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
 - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
-- [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
