@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CarPlay Ultra, the next generation of CarPlay, begins rolling out today](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
-- [Show HN: Kudos.wiki – Discover the best movies on Wikipedia](https://kudos.wiki)
-- [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
+- [How we made billing backendless](https://useautumn.com/blog/backendless)
+- [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
+- [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
+- [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
+- [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
