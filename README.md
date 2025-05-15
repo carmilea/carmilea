@@ -61,8 +61,8 @@
 - [Tiptap &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
 - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
 - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
+- [Bitwarden registration flow failed – so I wrote a stand-up comedy set instead](https://github.com/MenstaDay/bitwarden-registration-theatre)
 - [Human](https://quarter--mile.com/Human)
-- [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
