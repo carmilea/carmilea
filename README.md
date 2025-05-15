@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetii &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
-- [Onfim&#39;s world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
-- [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
-- [Launch HN: Tinfoil &lpar;YC X25&rpar;: Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
-- [I Don&#39;t Like NumPy](https://dynomight.net/numpy/)
+- [Dr. Dobb&#39;s Journal Interviews Jef Raskin &lpar;1986&rpar;](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
+- [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
+- [Harvard Law Paid $27 for a Copy of Magna Carta. It&#39;s an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
+- [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
+- [Baby Is Healed with First Personalized Gene-Editing Treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
