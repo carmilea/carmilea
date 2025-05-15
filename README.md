@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Human](https://quarter--mile.com/Human)
-- [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
+- [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
-- [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
+- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
