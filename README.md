@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
-- [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
+- [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+- [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
+- [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
 - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
-- [Dr. Dobb&#39;s Journal Interviews Jef Raskin &lpar;1986&rpar;](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
