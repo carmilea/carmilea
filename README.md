@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California sent residents&#39; personal health data to LinkedIn](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin)
 - [How we made billing backendless](https://useautumn.com/blog/backendless)
 - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
-- [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
