@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human](https://quarter--mile.com/Human)
+- [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
+- [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
 - [Show HN: YapCards &lpar;iOS&rpar; – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
-- [Copaganda: How Police and the Media Manipulate Our News](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news)
-- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
-- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
-- [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
+- [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
