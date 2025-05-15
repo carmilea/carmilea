@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetii &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
+- [Onfim&#39;s world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
+- [Researchers establish fundamental limit on how light bosonic dark matter can be](https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html)
 - [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
 - [Launch HN: Tinfoil &lpar;YC X25&rpar;: Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
-- [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
-- [An Update on Fresh](https://deno.com/blog/an-update-on-fresh)
-- [Wavelet Trees: An Introduction &lpar;2011&rpar;](https://www.alexbowe.com/wavelet-trees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
