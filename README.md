@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
+- [Show HN: YapCards &lpar;iOS&rpar; – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
+- [Copaganda: How Police and the Media Manipulate Our News](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news)
 - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 - [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 - [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
-- [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
