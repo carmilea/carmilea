@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiptap &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
+- [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
+- [EA Pushes Full Return to Office, Effectively Ends Remote Hiring](https://www.ign.com/articles/ea-pushes-full-return-to-office-effectively-ends-remote-hiring)
 - [Human](https://quarter--mile.com/Human)
 - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
-- [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
-- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
-- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
