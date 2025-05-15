@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California sent residents&#39; personal health data to LinkedIn](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin)
-- [How we made billing backendless](https://useautumn.com/blog/backendless)
-- [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
-- [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
-- [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
+- [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
+- [Launch HN: Tinfoil &lpar;YC X25&rpar;: Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
+- [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
+- [An Update on Fresh](https://deno.com/blog/an-update-on-fresh)
+- [Wavelet Trees: An Introduction &lpar;2011&rpar;](https://www.alexbowe.com/wavelet-trees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
