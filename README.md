@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+- [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
+- [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+- [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 - [Dr. Dobb&#39;s Journal Interviews Jef Raskin &lpar;1986&rpar;](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
-- [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
-- [Harvard Law Paid $27 for a Copy of Magna Carta. It&#39;s an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
-- [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
-- [Baby Is Healed with First Personalized Gene-Editing Treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
