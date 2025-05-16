@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sci-Hub Sci-Net](https://sci-hub.se/sci-net)
-- [A $130M company faked trials instead of running our free OSS](https://virtualize.sh/blog/ground-control-to-major-trial/)
+- [The Mortality Impacts of Usaid Cuts](https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts)
+- [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
 - [Dalus &lpar;YC W25&rpar; is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
 - [Grok&#39;s white genocide fixation caused by &#39;unauthorized modification&#39;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
-- [Prompts for our Grok chat assistant and grok bot on X](https://github.com/xai-org/grok-prompts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
