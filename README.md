@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundry &lpar;YC F24&rpar; Is Hiring – Founding Engineer &lpar;ML × SWE&rpar;](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe)
+- [Show HN: Workflow Use – Deterministic, self-healing browser automation &lpar;RPA 2.0&rpar;](https://github.com/browser-use/workflow-use)
 - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
 - [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
 - [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
-- [I&#39;m Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
-- [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
