@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
-- [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
-- [BuyMeACoffee silently dropped support for many countries &lpar;2024&rpar;](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
-- [The Awful German Language &lpar;1880&rpar;](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- [After months of coding with LLMs, I&#39;m going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
+- [Apple Blocks Fortnite&#39;s Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
+- [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
+- [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
+- [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
