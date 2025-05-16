@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
+- [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
+- [New &#39;Superdiffusion&#39; Proof Probes the Mysterious Math of Turbulence](https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/)
 - [Foundry &lpar;YC F24&rpar; Is Hiring – Founding Engineer &lpar;ML × SWE&rpar;](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe)
 - [Show HN: Workflow Use – Deterministic, self-healing browser automation &lpar;RPA 2.0&rpar;](https://github.com/browser-use/workflow-use)
-- [X X^t can be faster](https://arxiv.org/abs/2505.09814)
-- [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
-- [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
