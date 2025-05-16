@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moody&#39;s strips US of top-notch triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
+- [Moody’s strips U.S. of triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
 - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
-- [Getting AI to write good SQL: Text-to-SQL techniques explained](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
+- [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
-- [ClojureScript forks Google Closure Library to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
+- [ClojureScript 1.12.42](https://clojurescript.org/news/2025-05-16-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
