@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub Sci-Net](https://sci-hub.se/sci-net)
-- [The Mortality Impacts of Usaid Cuts](https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts)
+- [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
+- [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
+- [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
+- [Sci-Net](https://sci-hub.se/sci-net)
 - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
-- [Dalus &lpar;YC W25&rpar; is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
-- [Grok&#39;s white genocide fixation caused by &#39;unauthorized modification&#39;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
