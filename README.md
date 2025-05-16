@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+- [Ollama&#39;s new engine for multimodal models](https://ollama.com/blog/multimodal-models)
+- [I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
 - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-- [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
-- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
-- [Initialization in C++ is bonkers &lpar;2017&rpar;](https://blog.tartanllama.xyz/initialization-is-bonkers/)
-- [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+- [Sitting for a long time shrinks your brain even if you exercise](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
