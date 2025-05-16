@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Awful German Language](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- [The Awful German Language &lpar;1880&rpar;](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- [&quot;Goodwill&quot;, key member of the SoCal Python Community has passed away](https://socalpython.org/in-memoriam-michael/)
 - [Meta Battles an &#39;Epidemic of Scams&#39; as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
 - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 - [Ollama&#39;s new engine for multimodal models](https://ollama.com/blog/multimodal-models)
-- [I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
