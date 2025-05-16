@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
 - [The Awful German Language &lpar;1880&rpar;](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 - [&quot;Goodwill&quot;, key member of the SoCal Python Community has passed away](https://socalpython.org/in-memoriam-michael/)
 - [Meta Battles an &#39;Epidemic of Scams&#39; as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
 - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
-- [Ollama&#39;s new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
