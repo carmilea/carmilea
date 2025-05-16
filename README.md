@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After months of coding with LLMs, I&#39;m going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
-- [Apple Blocks Fortnite&#39;s Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
-- [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
-- [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-- [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
+- [Sci-Hub Sci-Net](https://sci-hub.se/sci-net)
+- [A $130M company faked trials instead of running our free OSS](https://virtualize.sh/blog/ground-control-to-major-trial/)
+- [Dalus &lpar;YC W25&rpar; is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
+- [Grok&#39;s white genocide fixation caused by &#39;unauthorized modification&#39;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
+- [Prompts for our Grok chat assistant and grok bot on X](https://github.com/xai-org/grok-prompts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
