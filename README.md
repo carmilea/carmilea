@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re misunderstanding DDD in Angular &lpar;and Front end&rpar;](https://www.angularspace.com/youre-misunderstanding-ddd-in-angular-and-frontend/)
 - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
 - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
 - [The Awful German Language &lpar;1880&rpar;](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
