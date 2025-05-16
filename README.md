@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X X^t can be faster](https://arxiv.org/abs/2505.09814)
+- [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
+- [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
 - [I&#39;m Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
 - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
-- [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
-- [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
-- [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
