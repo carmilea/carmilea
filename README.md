@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
+- [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 - [Initialization in C++ is bonkers &lpar;2017&rpar;](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
-- [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
-- [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
