@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: KVSplit – Run 2-3× longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
-- [Thoughts on Thinking](https://dcurt.is/thinking)
+- [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
+- [ClojureScript forks Google Closure to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
+- [Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
+- [Thoughts on thinking](https://dcurt.is/thinking)
 - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
-- [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
-- [New &#39;Superdiffusion&#39; Proof Probes the Mysterious Math of Turbulence](https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
