@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
+- [We fall for fake health information – and how it spreads faster than facts](https://theconversation.com/why-we-fall-for-fake-health-information-and-how-it-spreads-faster-than-facts-250718)
+- [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
 - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
-- [Dead Stars Don&#39;t Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
-- [The longest train journey is epic – but nobody&#39;s ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
-- [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
-- [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
+- [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
