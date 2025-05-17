@@ -61,8 +61,8 @@
 - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
-- [Postman for MCP](https://usetexture.com/##)
 - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
+- [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
