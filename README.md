@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moody’s strips U.S. of triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
+- [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
+- [WebGL Gray-Scott Explorer &lpar;2012&rpar;](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
+- [The Collapse of GPT](https://cacm.acm.org/news/the-collapse-of-gpt/)
+- [They Were Identical &#39;Twinnies&#39; Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
 - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
-- [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
-- [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
-- [ClojureScript 1.12.42](https://clojurescript.org/news/2025-05-16-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
