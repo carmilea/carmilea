@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
-- [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
+- [AI’s persuasion capabilities exceed those of humans – study](https://arxiv.org/abs/2505.09662)
+- [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
+- [Wacom drawing tablets track the name of every application you open &lpar;2020&rpar;](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
 - [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)
 - [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
-- [Xata: Postgres at scale, with copy-on-write branching and anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
