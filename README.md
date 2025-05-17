@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
-- [MinorMiner: We turn your kid&#39;s maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
+- [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
 - [Open Problems in Computational geometry](https://topp.openproblem.net/)
+- [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Transformer neural net learns to run Conway&#39;s Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
-- [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
+- [You do not need NixOS on the desktop](https://aruarian.dance/blog/you-do-not-need-nixos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
