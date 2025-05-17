@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
+- [MinorMiner: We turn your kid&#39;s maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
+- [Open Problems in Computational geometry](https://topp.openproblem.net/)
 - [Transformer neural net learns to run Conway&#39;s Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
 - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
-- [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
-- [JavaScript&#39;s New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
-- [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
