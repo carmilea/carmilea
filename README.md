@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 - [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
-- [We fall for fake health information – and how it spreads faster than facts](https://theconversation.com/why-we-fall-for-fake-health-information-and-how-it-spreads-faster-than-facts-250718)
-- [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
-- [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
-- [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
+- [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)
+- [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
+- [Xata: Postgres at scale, with copy-on-write branching and anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
