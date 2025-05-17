@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Energy Drinks Linked to Rise in Colorectal &amp; Blood Cancer](https://thenightly.com.au/society/health/doctors-issue-urgent-warning-over-cancer-causing-energy-drink-ingredient-taurine-c-18699404)
+- [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
+- [&quot;We would be less confidential than Google&quot; Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
-- [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
 - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
