@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Postman for MCP](https://usetexture.com/##)
+- [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
+- [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
+- [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
 - [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
-- [WebGL Gray-Scott Explorer &lpar;2012&rpar;](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
-- [The Collapse of GPT](https://cacm.acm.org/news/the-collapse-of-gpt/)
-- [They Were Identical &#39;Twinnies&#39; Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
-- [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
