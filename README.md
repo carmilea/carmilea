@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Critical Look at &quot;A Critical Look at MCP.&quot;](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
-- [Identifying almost any x86 CPU &lpar;2004&rpar;](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
+- [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
-- [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
 - [JavaScript&#39;s New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
+- [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
