@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critical Look at &quot;A Critical Look at MCP.&quot;](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
+- [Transformer neural net learns to run Conway&#39;s Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
 - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 - [JavaScript&#39;s New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
