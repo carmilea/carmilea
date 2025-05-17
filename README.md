@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Stars Don&#39;t Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
+- [The longest train journey is epic – but nobody&#39;s ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
+- [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
+- [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 - [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
-- [&quot;We would be less confidential than Google&quot; Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
-- [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
-- [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
-- [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
