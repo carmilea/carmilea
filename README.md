@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Critical Look at &quot;A Critical Look at MCP.&quot;](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
+- [Identifying almost any x86 CPU &lpar;2004&rpar;](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
+- [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
+- [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
 - [JavaScript&#39;s New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
-- [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
-- [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
-- [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
-- [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
