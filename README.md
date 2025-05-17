@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
+- [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 - [Postman for MCP](https://usetexture.com/##)
 - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
-- [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
-- [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
