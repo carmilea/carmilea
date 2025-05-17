@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s persuasion capabilities exceed those of humans – study](https://arxiv.org/abs/2505.09662)
+- [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
+- [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
+- [LLMs are more persuasive than incentivized human persuaders](https://arxiv.org/abs/2505.09662)
 - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 - [Wacom drawing tablets track the name of every application you open &lpar;2020&rpar;](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
-- [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)
-- [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
 <!-- BLOG-POST-LIST:END -->
 
 ---
