@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
+- [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 - [Show HN: Vaev – A browser engine built from scratch &lpar;It renders google.com&rpar;](https://github.com/skift-org/vaev)
+- [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
 - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
-- [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
-- [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
-- [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
