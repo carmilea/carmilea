@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
 - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
+- [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 - [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
 - [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
-- [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
