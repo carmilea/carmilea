@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Sun Enterprise 10000 was born &lpar;2007&rpar;](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
+- [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
+- [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
-- [Craft Basic &lpar;Windows 95 and up&rpar;](https://www.lucidapogee.com/?page=craftbasic)
-- [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
-- [Pglocks.org](https://pglocks.org/)
-- [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
+- [The Conquest of Hell Gate [pdf]](https://www.nan.usace.army.mil/portals/37/docs/history/hellgate.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
