@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google fixes high severity Chrome flaw with public exploit](https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/)
-- [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+- [Show HN: Vaev – A browser engine built from scratch &lpar;It renders google.com&rpar;](https://github.com/skift-org/vaev)
 - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
+- [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
