@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
+- [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
 - [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 - [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
 - [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
-- [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
