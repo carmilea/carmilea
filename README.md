@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+- [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
+- [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
-- [Pluto Flyover from New Horizons](https://apod.nasa.gov/apod/ap250518.html)
-- [What do wealthy people buy, that ordinary people know nothing about? &lpar;2015&rpar;](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/)
-- [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
-- [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
+- [Show HN: Buckaroo – The data table UI for Notebooks](https://github.com/paddymul/buckaroo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
