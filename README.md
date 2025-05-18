@@ -61,8 +61,8 @@
 - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 - [How the Sun Enterprise 10000 was born &lpar;2007&rpar;](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 - [Working with Git Patches in Apple Mail &lpar;2023&rpar;](https://btxx.org/posts/mail/)
-- [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
 - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
+- [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
