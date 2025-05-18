@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beta.weather.gov](https://beta.weather.gov/)
-- [Tornado warnings delayed because of DOGE cuts](https://www.mesoscalenews.com/p/tornado-warnings-delayed-because)
-- [GM Is Pushing Hard to Tank California&#39;s EV Mandate](https://www.wsj.com/business/autos/california-ev-mandate-auto-industry-64708033)
+- [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
+- [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
+- [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
+- [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
-- [Fortran for C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
