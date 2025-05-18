@@ -61,8 +61,8 @@
 - [Hyper Typing](https://pscanf.com/s/341/)
 - [Show HN: Python Simulator of David Deutsch’s &quot;Constructor Theory of Time&quot;](https://github.com/gvelesandro/constructor-theory-simulator)
 - [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
+- [AI Won&#39;t Kill Junior Devs – But Your Hiring Strategy Might](https://addyo.substack.com/p/ai-wont-kill-junior-devs-but-your)
 - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
-- [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
