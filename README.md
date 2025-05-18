@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Severed Fingers and &#39;Wrench Attacks&#39; Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
+- [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)
+- [KDE is finally getting a native virtual machine manager called &quot;Karton&quot;](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
+- [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 - [Hyper Typing](https://pscanf.com/s/341/)
-- [Show HN: Python Simulator of David Deutsch’s &quot;Constructor Theory of Time&quot;](https://github.com/gvelesandro/constructor-theory-simulator)
-- [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
-- [AI Won&#39;t Kill Junior Devs – But Your Hiring Strategy Might](https://addyo.substack.com/p/ai-wont-kill-junior-devs-but-your)
-- [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
 <!-- BLOG-POST-LIST:END -->
 
 ---
