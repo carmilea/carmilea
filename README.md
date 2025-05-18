@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyper Typing](https://pscanf.com/s/341/)
+- [Show HN: Python Simulator of David Deutsch’s &quot;Constructor Theory of Time&quot;](https://github.com/gvelesandro/constructor-theory-simulator)
+- [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
 - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
 - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
-- [Show HN: Vaev – A browser engine built from scratch &lpar;It renders google.com&rpar;](https://github.com/skift-org/vaev)
-- [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
-- [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
