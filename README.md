@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
+- [Every programming language has its &#39;killer&#39; domain](https://huijzer.xyz/posts/67)
+- [Show HN: Chat with 19 years of HN](https://app.camelai.com/log-in?next=/hn/)
 - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 - [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 - [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
-- [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
