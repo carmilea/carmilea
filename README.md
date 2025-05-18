@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
-- [How the Sun Enterprise 10000 was born &lpar;2007&rpar;](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
-- [Working with Git Patches in Apple Mail &lpar;2023&rpar;](https://btxx.org/posts/mail/)
-- [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
-- [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
+- [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
+- [Pluto Flyover from New Horizons](https://apod.nasa.gov/apod/ap250518.html)
+- [What do wealthy people buy, that ordinary people know nothing about? &lpar;2015&rpar;](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/)
+- [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
+- [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 <!-- BLOG-POST-LIST:END -->
 
 ---
