@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
+- [Craft Basic &lpar;Windows 95 and up&rpar;](https://www.lucidapogee.com/?page=craftbasic)
 - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 - [Pglocks.org](https://pglocks.org/)
 - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
-- [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
-- [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
