@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Uncovering Data Insights with H2O AutoInsights | AI-Powered Data Analysis](https://www.youtube.com/watch?v=8rNWpZavia8)
 - [Powering the future of martech](https://www.youtube.com/watch?v=-5_EvNhZESw)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=xh2QLwxdpPk)
-- [Data Profiling and Augmentation for AutoML | Improving AI Model Accuracy](https://www.youtube.com/watch?v=53a_1EO3j1c)
-- [Understanding Data Lineage in H2O | Tracking Data for AI Models](https://www.youtube.com/watch?v=UN8FPVB3vVA)
+- [Code Committers: Bharat Kathi - From Robotics to Growth Engineering](https://www.youtube.com/watch?v=8pam4slOIkY)
+- [AI Financial Advisor: Real-Time Portfolio Insights &amp; Recommendations](https://www.youtube.com/watch?v=Az5yt-C2IwE)
+- [Demo: Building Agentic AI Applications for Fintech](https://www.youtube.com/watch?v=faTwpN0yuwY)
 <!-- YOUTUBE:END -->
 
 
