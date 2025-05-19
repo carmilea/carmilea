@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Severed Fingers and &#39;Wrench Attacks&#39; Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
-- [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)
+- [There Are People Who Can See and Others Who Cannot Even Look](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
+- [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
 - [KDE is finally getting a native virtual machine manager called &quot;Karton&quot;](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 - [Hyper Typing](https://pscanf.com/s/341/)
