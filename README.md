@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering Enterprise AI With SingleStore](https://www.singlestore.com/blog/powering-enterprise-ai-with-singlestore)
-- [Launch HN: Better Auth &lpar;YC X25&rpar; – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
-- [Ukraine can move beyond its Soviet architectural legacy](https://www.counteroffensive.news/p/how-ukraine-can-move-beyond-its-soviet)
-- [Taiwan to Ramp Up Gas Imports After Shuttering Last Nuclear Plant](https://e360.yale.edu/digest/taiwan-nuclear-power-gas-imports)
-- [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
+- [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
+- [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
+- [Discover is now part of Capital One](https://www.discover.com/faqs/merger/)
+- [The Performance You Need for Enterprise AI](https://www.singlestore.com/blog/the-performance-you-need-for-enterprise-ai)
+- [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
