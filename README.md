@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attack of the Sadistic Zombies – Paul Krugman](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies)
 - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 - [&#39;Significant amount&#39; of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
 - [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
 - [How scrolling becomes a religious act](https://etymology.substack.com/p/youre-literally-worshipping-your)
-- [Is Winter Coming? &lpar;2024&rpar;](https://www.datagubbe.se/winter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
