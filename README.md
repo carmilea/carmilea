@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glasskube &lpar;YC S24&rpar; is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
+- [Why are &lpar;male&rpar; surgeons still addressed as Mr? &lpar;2000&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
 - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
-- [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
-- [Discover is now part of Capital One](https://www.discover.com/faqs/merger/)
-- [The Performance You Need for Enterprise AI](https://www.singlestore.com/blog/the-performance-you-need-for-enterprise-ai)
-- [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
+- [xAI&#39;s Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
+- [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
