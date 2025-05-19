@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code in the Cloud &lpar;better than CodeX&rpar;](https://cloudcoding.ai/)
+- [Huawei launches first laptops using home-grown HarmonyOS](https://www.reuters.com/world/china/huawei-launches-first-laptops-using-home-grown-harmony-operating-system-2025-05-19/)
+- [Terminal-Bench: a benchmark for AI agents in terminal environments](https://www.tbench.ai/)
 - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 - [Jules: An Asynchronous Coding Agent](https://jules.google/)
-- [FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs](https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/)
-- [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
-- [The forbidden railway: Vienna-Pyongyang &lpar;2008&rpar;](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
