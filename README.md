@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The forbidden railway: Vienna-Pyongyang &lpar;2008&rpar;](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
 - [Microsoft&#39;s ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
-- [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
 - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
-- [Glasskube &lpar;YC S24&rpar; is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
+- [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
