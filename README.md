@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
+- [Don&#39;t Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 - [Show HN: Every side project I&#39;ve built since 2009](https://naeemnur.com/side-projects/)
 - [Emulator Debugging: Area 5150&#39;s Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 - [Seagate claims spinning disks beat SSDs on carbon footprint](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
-- [What does the end of mathematics look like?](https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html)
-- [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
