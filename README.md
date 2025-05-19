@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
+- [Microsoft&#39;s ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
+- [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
+- [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
 - [Glasskube &lpar;YC S24&rpar; is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
-- [Why are &lpar;male&rpar; surgeons still addressed as Mr? &lpar;2000&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
-- [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
-- [xAI&#39;s Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
-- [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
