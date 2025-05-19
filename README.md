@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There Are People Who Can See and Others Who Cannot Even Look](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
+- [&quot;There are people who can see and others who cannot even look&quot;](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 - [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
-- [KDE is finally getting a native virtual machine manager called &quot;Karton&quot;](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
-- [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
+- [KDE is finally getting a native virtual machine manager called “Karton”](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
+- [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 - [Hyper Typing](https://pscanf.com/s/341/)
 <!-- BLOG-POST-LIST:END -->
 
