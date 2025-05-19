@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
-- [Don&#39;t Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
-- [Show HN: Every side project I&#39;ve built since 2009](https://naeemnur.com/side-projects/)
-- [Emulator Debugging: Area 5150&#39;s Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
-- [Seagate claims spinning disks beat SSDs on carbon footprint](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
+- [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
+- [&#39;Significant amount&#39; of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
+- [The White House, LLC](https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html)
+- [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
+- [How scrolling becomes a religious act](https://etymology.substack.com/p/youre-literally-worshipping-your)
 <!-- BLOG-POST-LIST:END -->
 
 ---
