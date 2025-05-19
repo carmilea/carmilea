@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The lack of a good command line way to sort IPv6 addresses](https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses)
 - [America&#39;s College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
 - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
 - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
 - [Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.](https://www.remoteswe.fyi)
-- [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
