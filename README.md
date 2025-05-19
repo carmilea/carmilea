@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;There are people who can see and others who cannot even look&quot;](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
-- [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
-- [KDE is finally getting a native virtual machine manager called “Karton”](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
-- [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
-- [Hyper Typing](https://pscanf.com/s/341/)
+- [America&#39;s College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
+- [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
+- [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
+- [Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.](https://www.remoteswe.fyi)
+- [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
