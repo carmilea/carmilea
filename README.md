@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code in the Cloud &lpar;better than CodeX&rpar;](https://cloudcoding.ai/)
-- [Huawei launches first laptops using home-grown HarmonyOS](https://www.reuters.com/world/china/huawei-launches-first-laptops-using-home-grown-harmony-operating-system-2025-05-19/)
-- [Terminal-Bench: a benchmark for AI agents in terminal environments](https://www.tbench.ai/)
-- [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
-- [Jules: An Asynchronous Coding Agent](https://jules.google/)
+- [A shower thought turned into a beautiful Collatz visualization](https://abstractnonsense.com/collatz/)
+- [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
+- [is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
+- [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
+- [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
