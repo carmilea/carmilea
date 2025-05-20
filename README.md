@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I got fooled by AI-for-science hype–here&#39;s what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
 - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
-- [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
