@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
+- [Announcing an Easy Data Loading Experience Through UI in SingleStore Helios®](https://www.singlestore.com/blog/easy-data-loading-experience-through-ui-in-singlestore-helios-)
+- [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
+- [Show HN: Astra – a new js2exe compiler](https://github.com/astracompiler/cli)
 - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
-- [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
-- [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
-- [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
-- [Firewalls and BIOS&#39;s and Coreboot &lpar;2020&rpar;](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
