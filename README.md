@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [27000 Dragons and 10&#39;000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
-- [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
-- [Launch HN: Opusense &lpar;YC X25&rpar; – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
-- [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
+- [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
+- [The Dawn of Nvidia&#39;s Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineering Managers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+- [Show HN:  Olelo Foil - NACA Airfoil Sim](https://foil.olelohonua.com/)
+- [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
