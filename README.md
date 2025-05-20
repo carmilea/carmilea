@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A shower thought turned into a beautiful Collatz visualization](https://abstractnonsense.com/collatz/)
-- [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
-- [is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
-- [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
-- [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
+- [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
+- [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
+- [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
+- [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
+- [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
