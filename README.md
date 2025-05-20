@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Mariner – Browser-Based AI Agent](https://deepmind.google/models/project-mariner/)
+- [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
+- [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
+- [Our Journey Through Linux/Unix Landscapes](https://blog.kalvad.com/our-journey-through-linux-unix-landscapes/)
 - [Photos in a Similar Style Aren&#39;t Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
 - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
-- [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
-- [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
