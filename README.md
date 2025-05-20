@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Causal AI and Uplift Modeling with H2O | Analyzing Treatment vs. Control Groups](https://www.youtube.com/watch?v=uwdEvyFHyjk)
 - [Uncovering Data Insights with H2O AutoInsights | AI-Powered Data Analysis](https://www.youtube.com/watch?v=8rNWpZavia8)
 - [Powering the future of martech](https://www.youtube.com/watch?v=-5_EvNhZESw)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=xh2QLwxdpPk)
 - [Data Profiling and Augmentation for AutoML | Improving AI Model Accuracy](https://www.youtube.com/watch?v=53a_1EO3j1c)
-- [Understanding Data Lineage in H2O | Tracking Data for AI Models](https://www.youtube.com/watch?v=UN8FPVB3vVA)
 <!-- YOUTUBE:END -->
 
 
