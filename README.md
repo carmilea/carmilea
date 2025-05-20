@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
+- [AI&#39;s energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
+- [Show HN: Metal – stealth browser for enterprise automations](https://metalsecurity.io)
 - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 - [The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
-- [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
-- [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
-- [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
