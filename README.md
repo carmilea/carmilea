@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Benchmark: MySQL vs. PostgreSQL vs. SingleStore Performance in Docker &lpar;100M+ Records&rpar;](https://www.singlestore.com/blog/database-benchmark-mysql-vs-postgresql-vs-singlestore-performance-in-docker-100m-records-)
+- [Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
+- [5 Signs Your PostgreSQL Database Is Hitting Its Performance Limits &lpar;and How SingleStore Can Help&rpar;](https://www.singlestore.com/blog/5-signs-your-postgresql-database-is-hitting-its-performance-limits-and-how-singlestore-can-help-)
 - [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
 - [The Dawn of Nvidia&#39;s Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineering Managers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-- [Show HN:  Olelo Foil - NACA Airfoil Sim](https://foil.olelohonua.com/)
-- [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
