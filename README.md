@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
+- [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
+- [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
+- [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
 - [Database Benchmark: MySQL vs. PostgreSQL vs. SingleStore Performance in Docker &lpar;100M+ Records&rpar;](https://www.singlestore.com/blog/database-benchmark-mysql-vs-postgresql-vs-singlestore-performance-in-docker-100m-records-)
-- [Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
-- [5 Signs Your PostgreSQL Database Is Hitting Its Performance Limits &lpar;and How SingleStore Can Help&rpar;](https://www.singlestore.com/blog/5-signs-your-postgresql-database-is-hitting-its-performance-limits-and-how-singlestore-can-help-)
-- [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
-- [The Dawn of Nvidia&#39;s Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
