@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Text to 3D simulation on a map [does history pretty well]](https://mused.com/map/)
+- [Poll: How often do you bathe?](https://news.ycombinator.com/item?id=44041139)
+- [Firewalls and BIOS&#39;s and Coreboot &lpar;2020&rpar;](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
+- [Show HN: Text to 3D simulation on a map &lpar;does history pretty well&rpar;](https://mused.com/map/)
+- [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 - [Reports of Deno&#39;s Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
-- [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
-- [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
-- [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
