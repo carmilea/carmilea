@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: How often do you bathe?](https://news.ycombinator.com/item?id=44041139)
+- [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
+- [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
+- [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
+- [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
 - [Firewalls and BIOS&#39;s and Coreboot &lpar;2020&rpar;](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
-- [Show HN: Text to 3D simulation on a map &lpar;does history pretty well&rpar;](https://mused.com/map/)
-- [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
-- [Reports of Deno&#39;s Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
