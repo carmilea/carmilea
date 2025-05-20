@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
+- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
-- [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
-- [Database Benchmark: MySQL vs. PostgreSQL vs. SingleStore Performance in Docker &lpar;100M+ Records&rpar;](https://www.singlestore.com/blog/database-benchmark-mysql-vs-postgresql-vs-singlestore-performance-in-docker-100m-records-)
+- [Red Programming Language](https://www.red-lang.org/p/about.html)
+- [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
