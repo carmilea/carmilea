@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Center for AI Safety&#39;s new spokesperson suggests „burning down labs&quot;](https://twitter.com/drtechlash/status/1924639190958199115)
+- [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
+- [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
+- [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
 - [Making Video Games &lpar;Without an Engine&rpar; in 2025](https://noelberry.ca/posts/making_games_in_2025/)
-- [I got fooled by AI-for-science hype–here&#39;s what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
-- [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
-- [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
-- [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
