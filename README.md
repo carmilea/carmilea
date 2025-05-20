@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Breathtaking How Fast AI Is Screwing Up the Education System](https://gizmodo.com/its-breathtaking-how-fast-ai-is-screwing-up-the-education-system-2000603100)
+- [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
+- [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
-- [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
 - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
 - [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
 <!-- BLOG-POST-LIST:END -->
