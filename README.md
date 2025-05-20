@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Text to 3D simulation on a map [does history pretty well]](https://mused.com/map/)
+- [Reports of Deno&#39;s Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
+- [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
 - [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
-- [AI&#39;s energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
-- [Show HN: Metal – stealth browser for enterprise automations](https://metalsecurity.io)
 - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
-- [The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
