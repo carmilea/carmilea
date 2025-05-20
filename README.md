@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [27000 Dragons and 10&#39;000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
+- [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
+- [Launch HN: Opusense &lpar;YC X25&rpar; – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
 - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
-- [Announcing an Easy Data Loading Experience Through UI in SingleStore Helios®](https://www.singlestore.com/blog/easy-data-loading-experience-through-ui-in-singlestore-helios-)
-- [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
-- [Show HN: Astra – a new js2exe compiler](https://github.com/astracompiler/cli)
-- [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
