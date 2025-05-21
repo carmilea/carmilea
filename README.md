@@ -61,8 +61,8 @@
 - [Overview of the Ada Computer Language Competition &lpar;1979&rpar;](https://iment.com/maida/computer/redref/)
 - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
+- [The Future of Junior Software Engineering Roles](https://adventuresincoding.substack.com/p/the-future-of-junior-software-engineering)
 - [Disabling kernel functions in your process &lpar;2009&rpar;](https://chadaustin.me/2009/03/disabling-functions/)
-- [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
 <!-- BLOG-POST-LIST:END -->
 
 ---
