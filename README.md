@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Overview of the Ada Computer Language Competition &lpar;1979&rpar;](https://iment.com/maida/computer/redref/)
 - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
-- [The Future of Junior Software Engineering Roles](https://adventuresincoding.substack.com/p/the-future-of-junior-software-engineering)
-- [Disabling kernel functions in your process &lpar;2009&rpar;](https://chadaustin.me/2009/03/disabling-functions/)
 - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
+- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+- [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
