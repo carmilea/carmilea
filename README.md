@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase says its data breach affects at least 69,000 customers](https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/)
+- [Why walking is the most underrated form of exercise &lpar;2017&rpar;](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
+- [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
+- [5 Boring Things That Have a Bigger Impact Than AI Assistants on Dev Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/)
 - [Overlap &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
-- [Why Property Testing Finds Bugs Unit Testing Does Not &lpar;2021&rpar;](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
-- [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
-- [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
-- [Overview of the Ada Computer Language Competition &lpar;1979&rpar;](https://iment.com/maida/computer/redref/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
