@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;ZLinq&quot;, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+- [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
+- [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)
+- [The Value Isn&#39;t in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
+- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
 - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
-- [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
-- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
-- [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
