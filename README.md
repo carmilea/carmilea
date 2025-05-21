@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Should Let a Lottery Decide Our Government &lpar;2019&rpar;](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/)
-- [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
-- [Overlap &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
-- [Why Property Testing Finds Bugs Unit Testing Does Not &lpar;2021&rpar;](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
-- [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
+- [Elephants evolved to beat cancer, and how we could too](https://newatlas.com/biology/elephants-beat-evolution-cancer-p53-gene-petos-paradox/)
+- [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
+- [Discord Unveiled: A Comprehensive Dataset of Public Communication &lpar;2015-2024&rpar;](https://arxiv.org/abs/2502.00627)
+- [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
+- [Build a Local AI Agent with Python, Ollama, LangChain and SingleStore](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
