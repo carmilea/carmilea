@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
+- [Disabling kernel functions in your process &lpar;2009&rpar;](https://chadaustin.me/2009/03/disabling-functions/)
 - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
-- [Show HN: apply.coop - Matching people with jobs that fit their values &amp; passions](https://apply.coop)
-- [The Value Isn&#39;t in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
-- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+- [The value isn&#39;t in the code &lpar;2022&rpar;](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
