@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The curious tale of Bhutan&#39;s playable record postage stamps &lpar;2015&rpar;](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
+- [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
+- [New dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
 - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
-- [Gilded Fish: Illustrations of Histoire naturelle des dorades de la Chine c.1780](https://publicdomainreview.org/collection/chinese-fishes/)
-- [Building &lpar;Open Source&rpar; Custom Dashboards Is Harder Than You Think](https://langfuse.com/blog/2025-05-21-customizable-dashboards)
-- [Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul](https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul)
-- [LLM function calls don&#39;t scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
+- [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
