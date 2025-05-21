@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I&#39;ve built online video editor](https://clipjs.vercel.app/)
+- [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
+- [Ratatoi is a C libary that wraps stdlib&#39;s strtol &lpar;as atoi does&rpar;, but it&#39;s evil.](https://github.com/rept0id/ratatoi)
 - [The curious tale of Bhutan&#39;s playable record postage stamps &lpar;2015&rpar;](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
 - [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
-- [New dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
-- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
-- [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
