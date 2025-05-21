@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elephants evolved to beat cancer, and how we could too](https://newatlas.com/biology/elephants-beat-evolution-cancer-p53-gene-petos-paradox/)
+- [Mitochondria Are More Than Powerhouses–They&#39;re the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
+- [Launch HN: SIM Studio &lpar;YC X25&rpar; – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
+- [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
+- [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
 - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
-- [Discord Unveiled: A Comprehensive Dataset of Public Communication &lpar;2015-2024&rpar;](https://arxiv.org/abs/2502.00627)
-- [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
-- [Build a Local AI Agent with Python, Ollama, LangChain and SingleStore](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
