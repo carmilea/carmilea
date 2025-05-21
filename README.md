@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
+- [The Machine Stops &lpar;1909&rpar;](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
 - [Sorcerer &lpar;YC S24&rpar; Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
 - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
-- [It’s So Over, We’re So Back: Doomer Techno-Optimism &lpar;2024&rpar;](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
-- [Show HN: I&#39;ve built online video editor](https://clipjs.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
