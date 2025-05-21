@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorcerer &lpar;YC S24&rpar; Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
+- [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
+- [It’s So Over, We’re So Back: Doomer Techno-Optimism &lpar;2024&rpar;](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
 - [Show HN: I&#39;ve built online video editor](https://clipjs.vercel.app/)
-- [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
-- [Ratatoi is a C libary that wraps stdlib&#39;s strtol &lpar;as atoi does&rpar;, but it&#39;s evil.](https://github.com/rept0id/ratatoi)
-- [The curious tale of Bhutan&#39;s playable record postage stamps &lpar;2015&rpar;](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
-- [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
+- [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
