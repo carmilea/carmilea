@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnus Carlsen forced into a draw by more than 143000 people playing against him](https://apnews.com/article/chess-magnus-carlsen-match-world-freestyle-grandmaster-963a977765fa02d05a14d701666dfcd7)
+- [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
 - [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
-- [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)
+- [Show HN: apply.coop - Matching people with jobs that fit their values &amp; passions](https://apply.coop)
 - [The Value Isn&#39;t in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
-- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
-- [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
