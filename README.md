@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
+- [Some Life Lessons from VAX/VMS &lpar;2013&rpar;](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
+- [Ancient law requires a bale of straw to hang from Charing Cross rail bridge](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/)
 - [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
 - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
-- [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
-- [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
-- [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
