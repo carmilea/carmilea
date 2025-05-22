@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
+- [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 - [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
+- [Sorry, grads: Entry-level tech jobs are getting wiped out](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/)
 - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
-- [Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction](https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/)
-- [Show HN: Curved Space Shader in Three.js &lpar;via 4D sphere projection&rpar;](https://github.com/bntre/CurvedSpaceShader)
-- [Strengths and limitations of diffusion language models – sean goedecke](https://www.seangoedecke.com/limitations-of-text-diffusion-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
