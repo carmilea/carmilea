@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
 - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 - [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
 - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
-- [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
