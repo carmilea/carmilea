@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
-- [The Machine Stops &lpar;1909&rpar;](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
-- [Sorcerer &lpar;YC S24&rpar; Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
-- [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
-- [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
+- [Building software on top of large language models](https://simonwillison.net/2025/May/15/building-on-llms/)
+- [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
+- [Expose on Failed Kentucky Startup AppHarvest](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
+- [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
+- [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
