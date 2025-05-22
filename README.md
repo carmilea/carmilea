@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-- [How AppHarvest’s indoor farming scheme imploded &lpar;2023&rpar;](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
 - [Dijkstra on Ada](https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/)
 <!-- BLOG-POST-LIST:END -->
 
