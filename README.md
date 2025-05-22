@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
+- [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
 - [Does Earth have two high-tide bulges on opposite sides? &lpar;2014&rpar;](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 - [Kangaroo: A flash cache optimized for tiny objects &lpar;2021&rpar;](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 - [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
-- [How to cheat at settlers by loading the dice &lpar;2017&rpar;](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
-- [Loading Pydantic models from JSON without running out of memory](https://pythonspeed.com/articles/pydantic-json-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
