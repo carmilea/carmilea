@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
+- [Claude 4](https://www.anthropic.com/news/claude-4)
+- [Mozilla to shutdown Pocket on July 8, 2025](https://support.mozilla.org/en-US/kb/future-of-pocket)
+- [Ice Theft in Antarctica](https://nautil.us/ice-theft-in-antarctica-1210083/)
 - [That fractal that&#39;s been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
-- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
-- [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)
-- [Launch HN: WorkDone &lpar;YC X25&rpar; – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
-- [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
