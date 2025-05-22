@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building software on top of large language models](https://simonwillison.net/2025/May/15/building-on-llms/)
+- [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-- [Expose on Failed Kentucky Startup AppHarvest](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
-- [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
+- [How AppHarvest’s indoor farming scheme imploded &lpar;2023&rpar;](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
+- [Show HN: Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
 - [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
 <!-- BLOG-POST-LIST:END -->
 
