@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
 - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
 - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
-- [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
 - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 <!-- BLOG-POST-LIST:END -->
 
