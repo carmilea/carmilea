@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
+- [Trade Secrecy in Willy Wonka&#39;s Chocolate Factory &lpar;2009&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
+- [The Annotated Kolmogorov-Arnold Network &lpar;Kan&rpar;](https://alexzhang13.github.io/blog/2024/annotated-kan/)
+- [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 - [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
 - [Does Earth have two high-tide bulges on opposite sides? &lpar;2014&rpar;](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
-- [Kangaroo: A flash cache optimized for tiny objects &lpar;2021&rpar;](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
-- [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
