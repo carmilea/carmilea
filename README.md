@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
+- [Show HN: Infinite Hagakure](https://hagakure.space)
+- [Why I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 - [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
-- [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
-- [Sorry, grads: Entry-level tech jobs are getting wiped out](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/)
-- [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
