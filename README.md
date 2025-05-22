@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That fractal that&#39;s been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
+- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
+- [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)
+- [Launch HN: WorkDone &lpar;YC X25&rpar; – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
 - [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
-- [Show HN: Infinite Hagakure](https://hagakure.space)
-- [Why I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
-- [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
-- [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
