@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
 - [Trade Secrecy in Willy Wonka&#39;s Chocolate Factory &lpar;2009&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
 - [The Annotated Kolmogorov-Arnold Network &lpar;Kan&rpar;](https://alexzhang13.github.io/blog/2024/annotated-kan/)
 - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 - [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
-- [Does Earth have two high-tide bulges on opposite sides? &lpar;2014&rpar;](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
