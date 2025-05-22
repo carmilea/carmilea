@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loading Pydantic models from JSON without running out of memory](https://pythonspeed.com/articles/pydantic-json-memory/)
+- [The &quot;AI 2027&quot; Scenario: How realistic is it?](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic)
 - [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
 - [Claude 4](https://www.anthropic.com/news/claude-4)
-- [Mozilla to shutdown Pocket on July 8, 2025](https://support.mozilla.org/en-US/kb/future-of-pocket)
-- [Ice Theft in Antarctica](https://nautil.us/ice-theft-in-antarctica-1210083/)
-- [That fractal that&#39;s been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
+- [Mozilla to shut down Pocket on July 8](https://support.mozilla.org/en-US/kb/future-of-pocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
