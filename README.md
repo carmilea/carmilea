@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New #1 open-source AI Agent on SWE-bench Verified](https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/)
+- [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
+- [Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction](https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/)
+- [Show HN: Curved Space Shader in Three.js &lpar;via 4D sphere projection&rpar;](https://github.com/bntre/CurvedSpaceShader)
+- [Strengths and limitations of diffusion language models – sean goedecke](https://www.seangoedecke.com/limitations-of-text-diffusion-models/)
 - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
-- [Some Life Lessons from VAX/VMS &lpar;2013&rpar;](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
-- [Ancient law requires a bale of straw to hang from Charing Cross rail bridge](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/)
-- [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
