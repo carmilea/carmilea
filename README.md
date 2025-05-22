@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building Real-Time Data Pipelines Using Estuary and SingleStore](https://www.youtube.com/watch?v=TBR4-6Tz1pc)
 - [​​[TheCube Interview] Jennifer Berquist, AT&amp;T &amp; Sri Ambati, H2O.ai | Dell Technologies World 2025](https://www.youtube.com/watch?v=qZzNllIBYC0)
 - [Causal AI and Uplift Modeling with H2O | Analyzing Treatment vs. Control Groups](https://www.youtube.com/watch?v=uwdEvyFHyjk)
 - [Uncovering Data Insights with H2O AutoInsights | AI-Powered Data Analysis](https://www.youtube.com/watch?v=8rNWpZavia8)
 - [Powering the future of martech](https://www.youtube.com/watch?v=-5_EvNhZESw)
-- [Kafka Unleashed: Powering Real-Time AI with Streaming Data](https://www.youtube.com/watch?v=xh2QLwxdpPk)
 <!-- YOUTUBE:END -->
 
 
