@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Twice: A clone of Once](https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak)
-- [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
+- [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
+- [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+- [Management = Bullshit &lpar;LLM Edition&rpar;](http://funcall.blogspot.com/2025/05/management-bullshit.html)
 - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
-- [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
