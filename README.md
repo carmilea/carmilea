@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [John Carmack at Upper Bound 2025 &lpar;slides and notes&rpar;](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
-- [Like Lovable but can make apps with gen-AI powered back ends](https://getcreatr.com/)
 - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
 - [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
+- [The Future of Flatpak](https://lwn.net/Articles/1020571/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
