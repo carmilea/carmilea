@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CivitAI Policy Update: Removal of Real-Person Likeness Content](https://civitai.com/articles/15022/policy-update-removal-of-real-person-likeness-content)
 - [Like Lovable but can make apps with gen-AI powered back ends](https://getcreatr.com/)
 - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
 - [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
-- [Management = Bullshit &lpar;LLM Edition&rpar;](http://funcall.blogspot.com/2025/05/management-bullshit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
