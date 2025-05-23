@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amdash – Human only punctuation mark](https://www.theamdash.com)
 - [Understanding Concurrency Control: How SingleStore Handles More Concurrent Users Than Traditional Databases](https://www.singlestore.com/blog/understanding-concurrency-control-how-singlestore-handles-more-concurrent-users-than-traditional-databases)
-- [Remembering Alasdair MacIntyre &lpar;1929-2025&rpar;](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+- [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+- [How to make o4-mini report you to the FBI](https://gist.github.com/t3dotgg/55cd42f7dcecf72509b3538d3b81d4da)
 - [Writing A Job Runner &lpar;In Elixir&rpar; &lpar;Again&rpar; &lpar;10 years later&rpar;](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
-- [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
-- [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
