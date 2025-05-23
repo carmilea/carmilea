@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
+- [The Transwedge Product](https://terathon.com/blog/transwedge-product.html)
 - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
-- [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
-- [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
