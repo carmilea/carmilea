@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Carmack at Upper Bound 2025 &lpar;slides and notes&rpar;](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
+- [America is in danger of experiencing an academic brain drain](https://www.economist.com/science-and-technology/2025/05/21/america-is-in-danger-of-experiencing-an-academic-brain-drain)
+- [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
+- [John Carmack talk at Upper Bound 2025 – slides and notes](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
-- [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
-- [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
 <!-- BLOG-POST-LIST:END -->
 
