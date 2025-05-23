@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amdash – Human only punctuation mark](https://www.theamdash.com)
+- [Caesar&#39;s Last Breath](https://charliesabino.com/caesars-last-breath/)
+- [How I ended up flying for Yemen&#39;s national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
+- [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 - [Understanding Concurrency Control: How SingleStore Handles More Concurrent Users Than Traditional Databases](https://www.singlestore.com/blog/understanding-concurrency-control-how-singlestore-handles-more-concurrent-users-than-traditional-databases)
 - [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
-- [How to make o4-mini report you to the FBI](https://gist.github.com/t3dotgg/55cd42f7dcecf72509b3538d3b81d4da)
-- [Writing A Job Runner &lpar;In Elixir&rpar; &lpar;Again&rpar; &lpar;10 years later&rpar;](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
