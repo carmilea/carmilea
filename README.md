@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Caesar&#39;s Last Breath](https://charliesabino.com/caesars-last-breath/)
-- [How I ended up flying for Yemen&#39;s national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
-- [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
-- [Understanding Concurrency Control: How SingleStore Handles More Concurrent Users Than Traditional Databases](https://www.singlestore.com/blog/understanding-concurrency-control-how-singlestore-handles-more-concurrent-users-than-traditional-databases)
-- [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+- [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
+- [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
+- [Slime &lpar;2021&rpar;](https://granta.com/slime/)
+- [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
+- [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
