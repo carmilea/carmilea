@@ -62,7 +62,7 @@
 - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
 - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
-- [The Transwedge Product](https://terathon.com/blog/transwedge-product.html)
+- [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
