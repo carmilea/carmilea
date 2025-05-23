@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
+- [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
+- [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
-- [Types of optical systems in a lens designer&#39;s toolbox &lpar;2020&rpar;](https://www.pencilofrays.com/lens-design-forms/)
-- [Attention Wasn&#39;t All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
-- [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
