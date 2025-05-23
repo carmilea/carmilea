@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
+- [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
 - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
 - [The Transwedge Product](https://terathon.com/blog/transwedge-product.html)
-- [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
-- [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
