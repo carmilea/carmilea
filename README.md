@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
-- [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
-- [You Don&#39;t Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
-- [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
-- [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
+- [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
+- [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
+- [Types of optical systems in a lens designer&#39;s toolbox &lpar;2020&rpar;](https://www.pencilofrays.com/lens-design-forms/)
+- [Attention Wasn&#39;t All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
+- [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
