@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
+- [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
+- [You Don&#39;t Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
+- [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
 - [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
-- [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
-- [Slime &lpar;2021&rpar;](https://granta.com/slime/)
-- [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
-- [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
