@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve takes another step toward making SteamOS a true Windows competitor](https://arstechnica.com/gaming/2025/05/valve-adds-steamos-compatible-game-label-as-it-prepares-to-expand-beyond-steam-deck/)
 - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
-- [Show HN: HNRelevant – Add a &quot;related&quot; section to Hacker News](https://github.com/imdj/HNRelevant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
