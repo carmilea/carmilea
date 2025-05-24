@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+- [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
+- [Show HN: HNRelevant – Add a &quot;related&quot; section to Hacker News](https://github.com/imdj/HNRelevant)
 - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
-- [The Way of Code: The Timeless Art of Vibe Coding](https://www.thewayofcode.com/)
 - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
-- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
-- [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
