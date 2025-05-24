@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Is Time to Stop Teaching Frequentism to Non-Statisticians &lpar;2024&rpar;](https://arxiv.org/abs/1201.2590)
+- [Live facial recognition cameras may become &#39;commonplace&#39; as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
 - [Trellis &lpar;YC W24&rpar; Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
-- [AI can&#39;t even fix a simple bug – but sure, let&#39;s fire engineers](https://nmn.gl/blog/ai-scam)
-- [Will the AI backlash spill into the streets?](https://gabrielweinberg.com/p/will-the-ai-backlash-spill-into-the)
 - [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
 - [Good Writing](https://paulgraham.com/goodwriting.html)
 <!-- BLOG-POST-LIST:END -->
