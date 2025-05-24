@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It Is Time to Stop Teaching Frequentism to Non-Statisticians &lpar;2024&rpar;](https://arxiv.org/abs/1201.2590)
-- [Live facial recognition cameras may become &#39;commonplace&#39; as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
-- [Trellis &lpar;YC W24&rpar; Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
-- [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
-- [Good Writing](https://paulgraham.com/goodwriting.html)
+- [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
+- [Tachy0n: The Last 0day Jailbreak](https://blog.siguza.net/tachy0n/)
+- [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
+- [Please Fund More Science &lpar;2020&rpar;](https://blog.samaltman.com/please-fund-more-science)
+- [Lone coder cracks 50-year puzzle to find Boggle&#39;s top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
