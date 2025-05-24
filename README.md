@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
+- [Good Writing](https://paulgraham.com/goodwriting.html)
+- [You&#39;re a little company, now act like one](https://longform.asmartbear.com/little-company/)
+- [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
 - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
-- [Show HN: SuperUtilsPlus – A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
-- [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
-- [Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa)
-- [Hong Kong&#39;s Famous Bamboo Scaffolding Hangs on &lpar;For Now&rpar;](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
