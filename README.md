@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)
 - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
 - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
 - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+- [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
