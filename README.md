@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
 - [Show HN: HNRelevant – Add a &quot;related&quot; section to Hacker News](https://github.com/imdj/HNRelevant)
-- [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
