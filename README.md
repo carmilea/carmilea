@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
+- [AI can&#39;t even fix a simple bug – but sure, let&#39;s fire engineers](https://nmn.gl/blog/ai-scam)
+- [Will the AI backlash spill into the streets?](https://gabrielweinberg.com/p/will-the-ai-backlash-spill-into-the)
 - [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
 - [Good Writing](https://paulgraham.com/goodwriting.html)
-- [You&#39;re a little company, now act like one](https://longform.asmartbear.com/little-company/)
-- [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
-- [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
