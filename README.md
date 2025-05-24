@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
+- [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
+- [Show HN: 1 min workouts for people who sit all day](https://shortreps.com)
 - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
-- [Tachy0n: The Last 0day Jailbreak](https://blog.siguza.net/tachy0n/)
-- [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
-- [Please Fund More Science &lpar;2020&rpar;](https://blog.samaltman.com/please-fund-more-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
