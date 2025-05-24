@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
+- [The Way of Code: The Timeless Art of Vibe Coding](https://www.thewayofcode.com/)
+- [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
 - [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
-- [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
-- [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
-- [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
