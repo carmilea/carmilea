@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
 - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
 - [Failure Mechanisms in Democratic Regimes – An Army&#39;s Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
-- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
