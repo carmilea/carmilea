@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
-- [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [The Newark airport crisis](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
+- [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
