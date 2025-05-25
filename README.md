@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We broke down that weird 9-minute Sam Altman and Jony Ive video](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/)
+- [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 - [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
-- [The Newark airport crisis](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
-- [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
