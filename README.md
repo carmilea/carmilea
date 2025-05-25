@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating physical attacks targeting cryptocurrency users &lpar;2024&rpar; [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
+- [From Philosophy to Power: The Misuse of René Girard by Peter Thiel, J.D. Vance](https://salmagundi.skidmore.edu/articles/1176-from-philosophy-to-power)
+- [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
+- [Show HN: Photoshop Clone Built in React](https://github.com/chase-manning/react-photo-studio)
 - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
-- [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
-- [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
-- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
-- [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
