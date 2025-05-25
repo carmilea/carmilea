@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
+- [Chomsky on What ChatGPT Is Good For](https://chomsky.info/20230503-2/)
+- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [The Newark airport crisis is about to become everyone&#39;s problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
 - [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
-- [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
-- [Can a Corporation Be Pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
-- [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
-- [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
