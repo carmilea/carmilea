@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There was a time when the US government built homes for working-class Americans](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512)
+- [Fast, Simple and Open Firebase Alternative: TrailBase](https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0)
+- [Programming on 34 Keys &lpar;2022&rpar;](https://oppi.li/posts/programming_on_34_keys/)
 - [Investigating physical attacks targeting cryptocurrency users &lpar;2024&rpar; [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
-- [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
-- [Is TfL losing the battle against heat on the Victoria line?](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line)
-- [Show HN: Photoshop Clone Built in React](https://github.com/chase-manning/react-photo-studio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
