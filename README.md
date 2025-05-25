@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
-- [Alan Yentob Has Died](https://en.wikipedia.org/wiki/Alan_Yentob)
-- [Show HN: Wall Go – browser remake of a Devil&#39;s Plan 2 mini-game](https://schaoss.github.io/wall-go/)
-- [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
-- [&#39;Strange metals&#39; point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
+- [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
+- [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
+- [Can a Corporation Be Pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
+- [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
+- [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
