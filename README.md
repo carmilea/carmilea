@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency injection frameworks add confusion](http://rednafi.com/go/di_frameworks_bleh/)
 - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
 - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 - [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
+- [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
