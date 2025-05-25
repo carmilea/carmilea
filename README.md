@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CAPTCHAs are over &lpar;in ticketing&rpar;](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
-- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
-- [&#39;Crypto king&#39; turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)
-- [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
-- [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
+- [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
+- [Python in LibreOffice &lpar;LibrePythonista Extension&rpar;](https://extensions.libreoffice.org/en/extensions/show/99231)
+- [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
+- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
+- [Failure Mechanisms in Democratic Regimes – An Army&#39;s Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
