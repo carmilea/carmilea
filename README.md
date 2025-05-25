@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CAPTCHAs are over &lpar;in ticketing&rpar;](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
+- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
+- [&#39;Crypto king&#39; turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)
+- [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
 - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
-- [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
-- [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
-- [Show HN: 1 min workouts for people who sit all day](https://shortreps.com)
-- [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
