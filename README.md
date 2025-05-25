@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There was a time when the US government built homes for working-class Americans](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512)
+- [&quot;The American Dream 2025&quot; Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
+- [Show HN: Wall Go – browser remake of a Devil&#39;s Plan 2 mini-game](https://schaoss.github.io/wall-go/)
+- [&#39;Strange metals&#39; point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
+- [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 - [Fast, Simple and Open Firebase Alternative: TrailBase](https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0)
-- [Programming on 34 Keys &lpar;2022&rpar;](https://oppi.li/posts/programming_on_34_keys/)
-- [Investigating physical attacks targeting cryptocurrency users &lpar;2024&rpar; [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
-- [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
