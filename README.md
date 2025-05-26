@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The cost of AI is being paid in deserts far from Silicon Valley](https://restofworld.org/2025/ai-resource-extraction-chile-indigenous-communities/)
-- [Nick Clegg says asking artists for use permission would &#39;kill&#39; AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
-- [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)
+- [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; &quot;I Pray No One Dies&quot;](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
+- [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
+- [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 - [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 <!-- BLOG-POST-LIST:END -->
