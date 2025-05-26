@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Nomi &lpar;YC X25&rpar; – Cursor for Sales](https://news.ycombinator.com/item?id=44098706)
-- [I think it&#39;s time to give Nix a chance](https://maych.in/blog/its-time-to-give-nix-a-chance/)
-- [Reflections on Neuralese](https://www.greaterwrong.com/posts/qehggwKRMEyWqvjZG/reflections-on-neuralese)
-- [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; &quot;I Pray No One Dies&quot;](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
-- [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
+- [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
+- [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
+- [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
+- [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)
+- [Launch HN: Nomi &lpar;YC X25&rpar; – Copilot for Sales](https://news.ycombinator.com/item?id=44098706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
