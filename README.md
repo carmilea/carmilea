@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop](https://podman-desktop.io/)
+- [The cost of AI is being paid in deserts far from Silicon Valley](https://restofworld.org/2025/ai-resource-extraction-chile-indigenous-communities/)
+- [Nick Clegg says asking artists for use permission would &#39;kill&#39; AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
+- [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)
+- [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
-- [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
-- [Venta AI &lpar;YC S23&rpar; Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
-- [Lieferando.de has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
