@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Britain&#39;s police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
-- [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
+- [The Difference Between Downloading and Streaming](https://danq.me/2025/05/26/downloading-vs-streaming/)
+- [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
-- [TSMC Bets on Unorthodox Optical Tech](https://spectrum.ieee.org/microled-optical-chiplet)
+- [TSMC bets on unorthodox optical tech](https://spectrum.ieee.org/microled-optical-chiplet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
