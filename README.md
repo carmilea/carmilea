@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)
-- [The Difference Between Downloading and Streaming](https://danq.me/2025/05/26/downloading-vs-streaming/)
-- [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the)
-- [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
-- [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
+- [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
+- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
+- [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
+- [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
+- [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
