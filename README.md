@@ -61,8 +61,8 @@
 - [Venta AI &lpar;YC S23&rpar; Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
 - [The Hard Truth About Soft Plastic](https://www.everydayplastic.org/softplastic)
 - [Lieferando.de &lpar;Takeaway&rpar; has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)
-- [Bagel: The Open-Source Unified Multimodal Model](https://bagel-ai.org/)
-- [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
+- [Ask HN: Anyone struggling to get value out of coding LLMs?](https://news.ycombinator.com/item?id=44095189)
+- [GitHub issues is almost the best notebook in the world](https://simonwillison.net/2025/May/26/notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
