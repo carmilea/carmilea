@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
+- [Claude Code does our releases now](https://www.aluxian.com/claude-code-does-our-releases-now/)
+- [jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 - [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
-- [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 - [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
-- [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
-- [Chomsky on what ChatGPT is good for &lpar;2023&rpar;](https://chomsky.info/20230503-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
