@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
+- [TSMC Bets on Unorthodox Optical Tech](https://spectrum.ieee.org/microled-optical-chiplet)
 - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
+- [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
 - [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
-- [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
-- [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)
-- [Launch HN: Nomi &lpar;YC X25&rpar; – Copilot for Sales](https://news.ycombinator.com/item?id=44098706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
