@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop](https://podman-desktop.io/)
+- [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
 - [Venta AI &lpar;YC S23&rpar; Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
 - [Lieferando.de has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)
-- [Ask HN: Anyone struggling to get value out of coding LLMs?](https://news.ycombinator.com/item?id=44095189)
-- [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
