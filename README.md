@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagel: The Open-Source Unified Multimodal Model](https://bagel-ai.org/)
 - [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
 - [Claude Code does our releases now](https://www.aluxian.com/claude-code-does-our-releases-now/)
 - [jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 - [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
-- [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
 <!-- BLOG-POST-LIST:END -->
 
 ---
