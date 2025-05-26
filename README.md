@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain&#39;s police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
+- [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
+- [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
 - [TSMC Bets on Unorthodox Optical Tech](https://spectrum.ieee.org/microled-optical-chiplet)
-- [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
-- [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
-- [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
