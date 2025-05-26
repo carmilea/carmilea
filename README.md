@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We broke down that weird 9-minute Sam Altman and Jony Ive video](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/)
+- [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
 - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 - [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
-- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [Chomsky on what ChatGPT is good for &lpar;2023&rpar;](https://chomsky.info/20230503-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
