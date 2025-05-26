@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
+- [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
+- [Power Failure](https://www.gwintrob.com/power-failure-review/)
 - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
-- [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
-- [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
-- [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
