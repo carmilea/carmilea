@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
+- [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
 - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 - [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
