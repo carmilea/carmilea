@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Nomi &lpar;YC X25&rpar; – Cursor for Sales](https://news.ycombinator.com/item?id=44098706)
+- [I think it&#39;s time to give Nix a chance](https://maych.in/blog/its-time-to-give-nix-a-chance/)
+- [Reflections on Neuralese](https://www.greaterwrong.com/posts/qehggwKRMEyWqvjZG/reflections-on-neuralese)
 - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; &quot;I Pray No One Dies&quot;](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
-- [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
-- [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
-- [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
-- [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
+- [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
