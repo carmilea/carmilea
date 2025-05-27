@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 - [Show HN: Lazy Tetris](https://lazytetris.com/)
 - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
 - [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
-- [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
