@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Noisy, ugly, planet-destroying temple&#39;: Australian locals on Tesla factory](https://www.news.com.au/national/south-australia/noisy-ugly-planetdestroying-temple-adelaide-locals-revolt-over-tesla-plan/news-story/87a1a6f5092cdde39c40fe26a231f830)
+- [Show HN: Lazy Tetris](https://lazytetris.com/)
 - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
-- [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
+- [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
 - [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
 <!-- BLOG-POST-LIST:END -->
