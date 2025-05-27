@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Salvaged $6k of Luxury Items Discarded by Duke Students](https://indyweek.com/culture/duke-students-dumpster-diving/)
+- [US pauses new student visa interviews as it mulls expanding social media vetting](https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501)
+- [Roundtable &lpar;YC S23&rpar; Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
+- [Signal to Windows Recall: Drop Dead](https://www.computerworld.com/article/3994265/signal-to-windows-recall-drop-dead.html)
 - [Launch HN: Relace &lpar;YC W23&rpar; – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
 - [Square Theory](https://aaronson.org/blog/square-theory)
-- [Pyrefly vs. Ty: Comparing Python&#39;s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
-- [Show HN: Malai – securely share local TCP services &lpar;database/SSH&rpar; with others](https://malai.sh/hello-tcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
