@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
+- [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
+- [Canon Law Ninja](https://canonlaw.ninja/)
 - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
 - [The Myth of Developer Obsolescence](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
-- [Diligent &lpar;YC S23&rpar; Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
-- [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
-- [Show HN: Lazy Tetris](https://lazytetris.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
