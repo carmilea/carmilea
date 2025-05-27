@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Salvaged $6k of Luxury Items Discarded by Duke Students](https://indyweek.com/culture/duke-students-dumpster-diving/)
 - [Launch HN: Relace &lpar;YC W23&rpar; – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
 - [Square Theory](https://aaronson.org/blog/square-theory)
 - [Pyrefly vs. Ty: Comparing Python&#39;s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 - [Show HN: Malai – securely share local TCP services &lpar;database/SSH&rpar; with others](https://malai.sh/hello-tcp/)
-- [Mistral Agents API](https://mistral.ai/news/agents-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
