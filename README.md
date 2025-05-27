@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Noisy, ugly, planet-destroying temple&#39;: Australian locals on Tesla factory](https://www.news.com.au/national/south-australia/noisy-ugly-planetdestroying-temple-adelaide-locals-revolt-over-tesla-plan/news-story/87a1a6f5092cdde39c40fe26a231f830)
+- [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
 - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
 - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
 - [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
-- [Forester, a tool for scientific and mathematical hypertexts](https://www.forester-notes.org/index/index.xml)
-- [15 years after servers shut down, FromSoft&#39;s mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
