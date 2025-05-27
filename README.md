@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Relace &lpar;YC W23&rpar; – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
+- [Square Theory](https://aaronson.org/blog/square-theory)
+- [Pyrefly vs. Ty: Comparing Python&#39;s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 - [Show HN: Malai – securely share local TCP services &lpar;database/SSH&rpar; with others](https://malai.sh/hello-tcp/)
 - [Mistral Agents API](https://mistral.ai/news/agents-api)
-- [Why Cline Doesn&#39;t Index Your Codebase &lpar;and Why That&#39;s a Good Thing&rpar;](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
-- [DuckLake is an integrated data lake and catalog format](https://ducklake.select/)
-- [Outcome-Based Reinforcement Learning to Predict the Future](https://arxiv.org/abs/2505.17989)
 <!-- BLOG-POST-LIST:END -->
 
 ---
