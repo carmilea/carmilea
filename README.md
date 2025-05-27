@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diligent &lpar;YC S23&rpar; Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 - [Show HN: Lazy Tetris](https://lazytetris.com/)
 - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
-- [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
-- [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
+- [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
