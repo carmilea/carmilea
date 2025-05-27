@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
 - [Diligent &lpar;YC S23&rpar; Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 - [Show HN: Lazy Tetris](https://lazytetris.com/)
 - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
+- [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 <!-- BLOG-POST-LIST:END -->
 
 ---
