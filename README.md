@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
+- [Why the Original Macintosh Had a Screen Resolution of 512×324](https://512pixels.net/2025/05/original-macintosh-resolution/)
+- [Show HN: Maestro – A Framework to Orchestrate and Ground Competing AI Models](https://news.ycombinator.com/item?id=44109664)
 - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
 - [Roundtable &lpar;YC S23&rpar; Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
-- [Launch HN: Relace &lpar;YC W23&rpar; – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
-- [Square Theory](https://aaronson.org/blog/square-theory)
-- [Show HN: Free mammogram analysis tool combining deep learning and vision LLM](http://mammo.neuralrad.com:5300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
