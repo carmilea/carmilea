@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
-- [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
+- [The UI Future Is Colourful and Dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
+- [15 years after servers shut down, FromSoft&#39;s mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
+- [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 - [Power Failure](https://www.gwintrob.com/power-failure-review/)
-- [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
 <!-- BLOG-POST-LIST:END -->
 
