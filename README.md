@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckLake is an integrated data lake and catalog format](https://ducklake.select/)
 - [The Art of Fugue – Contrapunctus I &lpar;2021&rpar;](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
 - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
 - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
 - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
-- [Canon Law Ninja](https://canonlaw.ninja/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
