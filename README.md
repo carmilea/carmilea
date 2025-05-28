@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Tired of all the AI, what other cool tech is out there?](https://news.ycombinator.com/item?id=44118130)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
+- [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+- [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
 - [Launch HN: MindFort &lpar;YC X25&rpar; – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
-- [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
-- [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
-- [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
-- [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
