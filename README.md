@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
-- [Show HN: Connecting People Through AI-Powered Video Sentiment Matching](https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161)
-- [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
-- [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
+- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
+- [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
+- [Look ma, no bubbles designing a low-latency megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
