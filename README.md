@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
+- [What does &quot;Undecidable&quot; mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
+- [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
 - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
 - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
-- [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
-- [Japan Post launches &#39;digital address&#39; system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
