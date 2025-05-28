@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
-- [Another way electric cars clean the air: study says brake dust reduced by 83%](https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/)
-- [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
+- [Vibe coding for teams, thoughts to date](https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html)
+- [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/)
 - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 - [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
+- [An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
