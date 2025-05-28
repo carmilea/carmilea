@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
+- [CheerpJ 4.1: Java in the browser, now supporting Java 17 &lpar;preview&rpar;](https://labs.leaningtech.com/blog/cheerpj-4.1)
+- [Ask HN: Stopping YC backed business from advertizing fake jobs at my company](https://news.ycombinator.com/item?id=44113672)
 - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
-- [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
-- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
-- [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
