@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
+- [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
+- [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
 - [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
-- [Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
-- [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
-- [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit &lpar;TPU&rpar;](https://github.com/UCSBarchlab/OpenTPU)
-- [Mustard Watches &lpar;1990&rpar;](https://girard.perso.math.cnrs.fr/mustard/article.html)
+- [Look ma, no bubbles designing a low-latency megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
