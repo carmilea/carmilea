@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: MindFort &lpar;YC X25&rpar; – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
+- [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
+- [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
+- [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
 - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
-- [Show HN: Wetlands – a lightweight Python library for managing Conda environments](https://arthursw.github.io/wetlands/0.2.0/)
-- [Mullvad Leta](https://leta.mullvad.net)
-- [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
-- [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
