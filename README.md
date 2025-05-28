@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
-- [CheerpJ 4.1: Java in the browser, now supporting Java 17 &lpar;preview&rpar;](https://labs.leaningtech.com/blog/cheerpj-4.1)
-- [Ask HN: Stopping YC backed business from advertizing fake jobs at my company](https://news.ycombinator.com/item?id=44113672)
+- [The &#39;Man-Eater&#39; Screwworm Is Coming](https://www.theatlantic.com/science/archive/2025/05/screwworms-outbreak-united-states/682925/)
+- [The Colorado River is running low. The picture looks even worse underground](https://www.washingtonpost.com/climate-environment/2025/05/27/american-west-drought-water-colorado-river/)
+- [Why Good Ideas Die Quietly and Bad Ideas Go Viral](https://www.newyorker.com/books/under-review/why-good-ideas-die-quietly-and-bad-ideas-go-viral)
 - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 <!-- BLOG-POST-LIST:END -->
