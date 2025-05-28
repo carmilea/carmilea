@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long live American Science and Surplus &lpar;which needs your help&rpar;](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+- [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)
 - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
-- [What does &quot;Undecidable&quot; mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
-- [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
-- [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
-- [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
+- [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
+- [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
