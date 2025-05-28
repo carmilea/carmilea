@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Man-Eater&#39; Screwworm Is Coming](https://www.theatlantic.com/science/archive/2025/05/screwworms-outbreak-united-states/682925/)
-- [The Colorado River is running low. The picture looks even worse underground](https://www.washingtonpost.com/climate-environment/2025/05/27/american-west-drought-water-colorado-river/)
+- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
+- [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
+- [Monks Behaving Badly: Explaining Buddhist Violence in Asia](https://direct.mit.edu/isec/article/49/4/119/130813/Monks-Behaving-Badly-Explaining-Buddhist-Violence)
 - [Why Good Ideas Die Quietly and Bad Ideas Go Viral](https://www.newyorker.com/books/under-review/why-good-ideas-die-quietly-and-bad-ideas-go-viral)
-- [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
-- [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
+- [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
