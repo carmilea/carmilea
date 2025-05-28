@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Tired of all the AI, what other cool tech is out there?](https://news.ycombinator.com/item?id=44118130)
+- [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
+- [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)
+- [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
-- [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
-- [Launch HN: MindFort &lpar;YC X25&rpar; – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
