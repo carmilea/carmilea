@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
+- [An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge)
 - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
 - [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
-- [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
-- [Look ma, no bubbles designing a low-latency megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
