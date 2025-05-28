@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
 - [Long live American Science and Surplus &lpar;which needs your help&rpar;](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
-- [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)
 - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
 - [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
 - [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
