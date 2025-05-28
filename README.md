@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
-- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
-- [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
-- [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
-- [Microsoft is starting to open Windows Update up to any third-party app](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
+- [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
+- [Show HN: Wetlands – a lightweight Python library for managing Conda environments](https://arthursw.github.io/wetlands/0.2.0/)
+- [Mullvad Leta](https://leta.mullvad.net)
+- [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
+- [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
