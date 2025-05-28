@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
+- [Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
+- [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
+- [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit &lpar;TPU&rpar;](https://github.com/UCSBarchlab/OpenTPU)
 - [Mustard Watches &lpar;1990&rpar;](https://girard.perso.math.cnrs.fr/mustard/article.html)
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
-- [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
-- [Why the Original Macintosh Had a Screen Resolution of 512×324](https://512pixels.net/2025/05/original-macintosh-resolution/)
-- [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
