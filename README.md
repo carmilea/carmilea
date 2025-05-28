@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
-- [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)
 - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+- [Japan Post launches &#39;digital address&#39; system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
