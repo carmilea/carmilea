@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
-- [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
-- [Long live American Science and Surplus &lpar;which needs your help&rpar;](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+- [US Trade Court finds Trump tariffs illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+- [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
+- [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
-- [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
