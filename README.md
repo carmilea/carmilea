@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;TypeScript&rpar; in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 - [Human coders are still better than LLMs](https://antirez.com/news/153)
+- [Show HN: Open-source, visual-first Cursor for Designers](https://beta.onlook.com/)
 - [Civil War in 3D: Stereographs from the New-York Historical Society &lpar;2015&rpar;](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
-- [Putting Rigid Bodies to Rest](https://twitter.com/keenanisalive/status/1925225500659658999)
-- [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
