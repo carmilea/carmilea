@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The MAHA Report Cites Studies That Don&#39;t Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)
+- [I taught my 3-year-old to read like a 9-year-old](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)
+- [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
+- [What programmers should know about how CPUs work [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
-- [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
-- [A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
-- [Nobel Laureate Daron Acemoglu: Don&#39;t Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
-- [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
