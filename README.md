@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
-- [The Headlines Are Evil, and They&#39;re Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
+- [SingleStore vs. ClickHouse: A Real-World Performance Analysis for Modern Analytics](https://www.singlestore.com/blog/singlestore-vs-clickhouse-a-real-world-performance-analysis-for-modern-analytics)
+- [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
+- [Untrusted chatbot AI between you &amp; the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
 - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-- [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
