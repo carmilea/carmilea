@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nobel Laureate Daron Acemoglu: Don&#39;t Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
+- [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
-- [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
-- [HTAP is Dead](https://www.mooncake.dev/blog/htap-is-dead)
-- [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+- [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
+- [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
