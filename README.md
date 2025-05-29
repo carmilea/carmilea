@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Civil War in 3D: Stereographs from the New-York Historical Society &lpar;2015&rpar;](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
+- [Relive the 90s: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
+- [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
 - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
 - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
-- [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
-- [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
-- [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
