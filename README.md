@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
+- [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
+- [A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
 - [Nobel Laureate Daron Acemoglu: Don&#39;t Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
 - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
-- [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
-- [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
-- [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
