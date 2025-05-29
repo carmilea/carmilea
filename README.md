@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Headlines Are Evil, and They&#39;re Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
+- [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;TypeScript&rpar; in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 - [Human coders are still better than LLMs](https://antirez.com/news/153)
-- [Show HN: Open-source, visual-first Cursor for Designers](https://beta.onlook.com/)
-- [Civil War in 3D: Stereographs from the New-York Historical Society &lpar;2015&rpar;](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
 <!-- BLOG-POST-LIST:END -->
 
 ---
