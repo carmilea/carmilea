@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
+- [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
+- [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
 - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
 - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
-- [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
-- [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
-- [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
