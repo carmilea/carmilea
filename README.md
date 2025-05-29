@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
 - [The Headlines Are Evil, and They&#39;re Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
 - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;TypeScript&rpar; in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
-- [Human coders are still better than LLMs](https://antirez.com/news/153)
+- [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
