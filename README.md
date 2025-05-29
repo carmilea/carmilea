@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel Laureate Daron Acemoglu: Don&#39;t Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
+- [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
-- [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
-- [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
 - [HTAP is Dead](https://www.mooncake.dev/blog/htap-is-dead)
 - [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 <!-- BLOG-POST-LIST:END -->
