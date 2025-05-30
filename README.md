@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany eyes 10% digital tax on global tech groups](https://www.ft.com/content/39d4678d-a7e1-4fce-b8d8-eb799cfed3e6)
+- [Modern C++ – RAII](https://green7ea.github.io/modern/modern.html)
+- [Radio Astronomy Software Defined Radio &lpar;Rasdr&rpar;](https://radio-astronomy.org/rasdr)
+- [Tokenization for language modeling: BPE vs. Unigram Language Modeling &lpar;2020&rpar;](https://ndingwall.github.io/blog/tokenization)
 - [RFK Jr&#39;s &#39;Maha&#39; report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
-- [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
-- [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
-- [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
-- [Show HN: MCP Server SDK in Bash &lpar;~250 lines, zero runtime&rpar;](https://github.com/muthuishere/mcp-server-bash-sdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
