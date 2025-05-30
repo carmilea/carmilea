@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;white-collar bloodbath&#39; is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
+- [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
+- [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 - [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
 - [Behavioral responses of domestic cats to human odor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016)
-- [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
