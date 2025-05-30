@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Woman Dies from Mad Cow-Like Brain Disease That Lay Dormant for 50 Years](https://gizmodo.com/u-s-woman-dies-from-mad-cow-like-brain-disease-that-lay-dormant-for-50-years-2000603359)
+- [The radix 2^51 trick](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
-- [U.S. Sanctions Cloud Provider &#39;Funnull&#39; as Top Source of &#39;Pig Butchering&#39; Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
+- [U.S. sanctions cloud provider &#39;Funnull&#39; as top source of &#39;pig butchering&#39; scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
 - [What is Humphrey&#39;s Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
-- [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
-- [I&#39;m starting a social club to solve the male loneliness epidemic](https://wave3.social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
