@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
+- [Show HN: I&#39;m starting a social club to solve the male loneliness epidemic](https://wave3.social)
+- [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
 - [SingleStore vs. ClickHouse: A Real-World Performance Analysis for Modern Analytics](https://www.singlestore.com/blog/singlestore-vs-clickhouse-a-real-world-performance-analysis-for-modern-analytics)
-- [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
 - [Untrusted chatbot AI between you &amp; the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
-- [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
-- [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
