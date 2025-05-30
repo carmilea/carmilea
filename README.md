@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
+- [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
 - [Germany eyes 10% digital tax on global tech groups](https://www.ft.com/content/39d4678d-a7e1-4fce-b8d8-eb799cfed3e6)
 - [Modern C++ – RAII](https://green7ea.github.io/modern/modern.html)
 - [Radio Astronomy Software Defined Radio &lpar;Rasdr&rpar;](https://radio-astronomy.org/rasdr)
-- [Tokenization for language modeling: BPE vs. Unigram Language Modeling &lpar;2020&rpar;](https://ndingwall.github.io/blog/tokenization)
-- [RFK Jr&#39;s &#39;Maha&#39; report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
