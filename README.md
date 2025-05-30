@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gmail app will now create AI summaries whether you want them or not](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
-- [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
-- [Mercury&#39;s High Risk, High Rewards Strategy Runs into Regulatory Reality](https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy)
-- [Irritation Is Inspiration](https://www.jeetmehta.com/posts/irritation)
-- [Colour and Shape: Using Computer Vision to Explore the Science Museum &lpar;2020&rpar;](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
+- [StackAI &lpar;YC W23&rpar; Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+- [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
+- [Controversial &#39;lost&#39; Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
+- [The Gmail app will now create AI summaries](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
+- [Surprisingly Fast AI-Generated Kernels We Didn&#39;t Mean to Publish &lpar;Yet&rpar;](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
