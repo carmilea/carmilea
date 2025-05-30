@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ugly Gerry](https://en.wikipedia.org/wiki/Ugly_Gerry)
-- [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
-- [AI is not our future – Procreate](https://procreate.com/ai)
+- [Behavioral responses of domestic cats to human odor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016)
+- [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
+- [Ask HN: What is the best LLM for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
 - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
-- [I let Claude Code write an entire book](https://github.com/JayDoubleu/agentic-book)
+- [Radio Astronomy Software Defined Radio &lpar;Rasdr&rpar;](https://radio-astronomy.org/rasdr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
