@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [From JSON to Vectors – Building AI Search with SingleStore Kai | SingleStore Webinars](https://www.youtube.com/watch?v=hTgCnfKHjW4)
 - [Multi-Modal LLM Fine-Tuning of Unstructured Data](https://www.youtube.com/watch?v=BMZJYO1At90)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=hd25_sOKyjU)
 - [Building Real-Time Data Pipelines Using Estuary and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=LdXEzS0dYgs)
 - [Optimizing AI Models with Predictive &amp; Generative AI | Model Validation &amp; Evaluation](https://www.youtube.com/watch?v=lp0SNSmy3aw)
-- [Harnessing Predictive &amp; Generative AI with h2oGPTe | Automating Model Training &amp; Deployment](https://www.youtube.com/watch?v=sm5HG_IbDmw)
 <!-- YOUTUBE:END -->
 
 
