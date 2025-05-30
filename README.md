@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House releases health report written by LLM, with hallucinated citations](https://www.nytimes.com/2025/05/29/well/maha-report-citations.html)
+- [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
+- [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
+- [Limits to Growth was right about collapse](https://thenextwavefutures.wordpress.com/2025/05/20/limits-to-growth-was-right-about-overshoot-and-collapse-new-data/)
+- [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
 - [Show HN: MCP Server SDK in Bash &lpar;~250 lines, zero runtime&rpar;](https://github.com/muthuishere/mcp-server-bash-sdk)
-- [Show HN: templUI – The UI Kit for templ &lpar;CLI-based, like shadcn/UI&rpar;](https://templui.io/)
-- [Show HN: Donut Browser, a Browser Orchestrator](https://donutbrowser.com/)
-- [U.S. Woman Dies from Mad Cow-Like Brain Disease That Lay Dormant for 50 Years](https://gizmodo.com/u-s-woman-dies-from-mad-cow-like-brain-disease-that-lay-dormant-for-50-years-2000603359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
