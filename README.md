@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
+- [U.S. Sanctions Cloud Provider &#39;Funnull&#39; as Top Source of &#39;Pig Butchering&#39; Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
+- [What is Humphrey&#39;s Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
 - [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
-- [Show HN: I&#39;m starting a social club to solve the male loneliness epidemic](https://wave3.social)
-- [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
-- [SingleStore vs. ClickHouse: A Real-World Performance Analysis for Modern Analytics](https://www.singlestore.com/blog/singlestore-vs-clickhouse-a-real-world-performance-analysis-for-modern-analytics)
-- [Untrusted chatbot AI between you &amp; the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
+- [I&#39;m starting a social club to solve the male loneliness epidemic](https://wave3.social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
