@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House releases health report written by LLM, with hallucinated citations](https://www.nytimes.com/2025/05/29/well/maha-report-citations.html)
+- [Show HN: MCP Server SDK in Bash &lpar;~250 lines, zero runtime&rpar;](https://github.com/muthuishere/mcp-server-bash-sdk)
+- [Show HN: templUI – The UI Kit for templ &lpar;CLI-based, like shadcn/UI&rpar;](https://templui.io/)
+- [Show HN: Donut Browser, a Browser Orchestrator](https://donutbrowser.com/)
 - [U.S. Woman Dies from Mad Cow-Like Brain Disease That Lay Dormant for 50 Years](https://gizmodo.com/u-s-woman-dies-from-mad-cow-like-brain-disease-that-lay-dormant-for-50-years-2000603359)
-- [The radix 2^51 trick](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
-- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
-- [U.S. sanctions cloud provider &#39;Funnull&#39; as top source of &#39;pig butchering&#39; scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
-- [What is Humphrey&#39;s Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
