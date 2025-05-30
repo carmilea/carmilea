@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
 - [Strategy for Competing with the Soviets in the Military [pdf]](https://americawar.wordpress.com/wp-content/uploads/2012/12/marshallonsoviet.pdf)
 - [StackAI &lpar;YC W23&rpar; Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
 - [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
-- [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-- [TinyAPL part 1: Introduction and Arrays](https://blog.rubenverg.com/tinyapl_1_arrays)
+- [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
