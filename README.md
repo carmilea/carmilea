@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+- [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 - [Beating Google&#39;s kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 - [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
 - [De Bruijn notation, and why it&#39;s useful](https://blueberrywren.dev/blog/debruijn-explanation/)
-- [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
-- [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
