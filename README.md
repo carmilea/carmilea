@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Multi-Modal LLM Fine-Tuning of Unstructured Data](https://www.youtube.com/watch?v=BMZJYO1At90)
+- [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=hd25_sOKyjU)
+- [Building Real-Time Data Pipelines Using Estuary and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=LdXEzS0dYgs)
 - [Optimizing AI Models with Predictive &amp; Generative AI | Model Validation &amp; Evaluation](https://www.youtube.com/watch?v=lp0SNSmy3aw)
 - [Harnessing Predictive &amp; Generative AI with h2oGPTe | Automating Model Training &amp; Deployment](https://www.youtube.com/watch?v=sm5HG_IbDmw)
-- [Ensuring Fairness in AI with Disparate Impact Analysis | Bias Detection in Machine Learning](https://www.youtube.com/watch?v=LPxyzKocS5Y)
-- [Building Real-Time Data Pipelines Using Estuary and SingleStore](https://www.youtube.com/watch?v=TBR4-6Tz1pc)
-- [​​[TheCube Interview] Jennifer Berquist, AT&amp;T &amp; Sri Ambati, H2O.ai | Dell Technologies World 2025](https://www.youtube.com/watch?v=qZzNllIBYC0)
 <!-- YOUTUBE:END -->
 
 
