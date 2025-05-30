@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy for Competing with the Soviets in the Military [pdf]](https://americawar.wordpress.com/wp-content/uploads/2012/12/marshallonsoviet.pdf)
 - [StackAI &lpar;YC W23&rpar; Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+- [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
 - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-- [Controversial &#39;lost&#39; Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
-- [The Gmail app will now create AI summaries](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
-- [Surprisingly Fast AI-Generated Kernels We Didn&#39;t Mean to Publish &lpar;Yet&rpar;](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+- [TinyAPL part 1: Introduction and Arrays](https://blog.rubenverg.com/tinyapl_1_arrays)
 <!-- BLOG-POST-LIST:END -->
 
 ---
