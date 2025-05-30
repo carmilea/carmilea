@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
-- [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
-- [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
-- [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
-- [Behavioral responses of domestic cats to human odor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016)
+- [Beating Google&#39;s kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
+- [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
+- [De Bruijn notation, and why it&#39;s useful](https://blueberrywren.dev/blog/debruijn-explanation/)
+- [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
+- [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
