@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
 - [Weave &lpar;YC W25&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
+- [Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work](https://capjs.js.org/)
 - [Beating Google&#39;s kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
-- [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
-- [De Bruijn notation, and why it&#39;s useful](https://blueberrywren.dev/blog/debruijn-explanation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
