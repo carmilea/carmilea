@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Wind theft&#39;: The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
+- [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
+- [Show HN: I built an AI agent that turns ROS 2&#39;s turtlesim into a digital artist](https://github.com/Yutarop/turtlesim_agent)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
-- [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
