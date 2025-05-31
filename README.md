@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Wind theft&#39;: The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
-- [AccessOwl &lpar;YC S22&rpar; is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
