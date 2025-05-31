@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
+- [Sguaba: Hard-to-misuse rigid body transforms for engineers](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d)
+- [CCD Co-Inventor George E. Smith Dies at 95](https://www.universitycube.net/news/ccd-co-inventor-george-e-smith-passes-away-95-05-31-2025--74189653-c0e2-489c-86c7-71d852a5200b)
+- [We still can&#39;t stop plagiarism in undergraduate computer science &lpar;2018&rpar;](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/)
 - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
-- [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
-- [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
-- [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
-- [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font&lpar;s&rpar;](https://fontofweb.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
