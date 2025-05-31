@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AccessOwl &lpar;YC S22&rpar; is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
 - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
 - [Cerebras achieves 2,500T/s on Llama 4 Maverick &lpar;400B&rpar;](https://www.cerebras.ai/press-release/maverick)
 - [Learn touch typing – it&#39;s worth it](https://www.typequicker.com/blog/learn-touch-typing)
-- [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
