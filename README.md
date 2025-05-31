@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
 - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
-- [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
 - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font&lpar;s&rpar;](https://fontofweb.com)
 <!-- BLOG-POST-LIST:END -->
 
