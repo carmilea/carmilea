@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
-- [Show HN: I built an AI agent that turns ROS 2&#39;s turtlesim into a digital artist](https://github.com/Yutarop/turtlesim_agent)
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
-- [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
+- [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
+- [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
+- [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
+- [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font&lpar;s&rpar;](https://fontofweb.com)
+- [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
