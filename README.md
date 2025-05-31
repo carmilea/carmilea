@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
+- [Doge cuts to USAid blamed for 300k deaths – most of them children](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp)
 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 - [AccessOwl &lpar;YC S22&rpar; is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
