@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
 - [JFK files expose family secrets: Their relatives were CIA assets](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/)
 - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
 - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
-- [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
