@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination](https://microsoft.github.io/renderformer/)
+- [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 - [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
 - [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
+- [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
 - [Progressive JSON](https://overreacted.io/progressive-json/)
-- [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 <!-- BLOG-POST-LIST:END -->
 
 ---
