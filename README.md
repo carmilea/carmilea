@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cinematography of &quot;Andor&quot;](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+- [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
+- [An optimizing compiler doesn&#39;t help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 - [Browser extension &lpar;Firefox, Chrome, Opera, Edge&rpar; to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
-- [I like to install NixOS &lpar;declaratively&rpar;](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
-- [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
-- [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
