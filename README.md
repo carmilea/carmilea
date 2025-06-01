@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)
-- [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
-- [Plutonium Powered Pacemaker &lpar;From 1974&rpar;](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html)
-- [Oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
-- [Sguaba: Hard-to-misuse rigid body transforms for engineers](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d)
+- [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
+- [Progressive JSON](https://overreacted.io/progressive-json/)
+- [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
+- [The NFS 4 Freezer Spacer In Science Fiction Sets](https://kolektiva.social/@beka_valentine/114600567753999701)
+- [New Adaptive Optics Shows Details of Our Star&#39;s Atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
