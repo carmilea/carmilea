@@ -62,7 +62,7 @@
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 - [An optimizing compiler doesn&#39;t help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 - [Browser extension &lpar;Firefox, Chrome, Opera, Edge&rpar; to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
-- [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
+- [Google AI Edge – on-device cross-platform AI deployment](https://ai.google.dev/edge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
