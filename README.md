@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Browser extension &lpar;Firefox, Chrome, Opera, Edge&rpar; to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 - [I like to install NixOS &lpar;declaratively&rpar;](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
 - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
-- [Reviving Astoria – Windows&#39;s Lost Android](https://trungnt2910.com/astoria-windows-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
