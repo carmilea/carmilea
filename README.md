@@ -62,7 +62,7 @@
 - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
 - [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 - [I like Svelte more than React &lpar;it&#39;s store management&rpar;](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
-- [Cinematography of &quot;Andor&quot;](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+- [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
