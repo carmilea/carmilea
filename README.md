@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
+- [Reviving Astoria – Windows&#39;s Lost Android](https://trungnt2910.com/astoria-windows-android/)
+- [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
 - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 - [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
-- [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
-- [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
-- [Progressive JSON](https://overreacted.io/progressive-json/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
