@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
+- [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
+- [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
+- [I like Svelte more than React &lpar;it&#39;s store management&rpar;](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
 - [Cinematography of &quot;Andor&quot;](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
-- [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
-- [An optimizing compiler doesn&#39;t help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
-- [Browser extension &lpar;Firefox, Chrome, Opera, Edge&rpar; to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
-- [Google AI Edge – on-device cross-platform AI deployment](https://ai.google.dev/edge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
