@@ -61,8 +61,8 @@
 - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
 - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
+- [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 - [Is &quot;The Phoenician Scheme&quot; Wes Anderson&#39;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
-- [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
