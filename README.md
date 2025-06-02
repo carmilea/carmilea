@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Consistency in Databases: Beyond the Basics](https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481)
+- [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
+- [Computer science has one of the highest unemployment rates](https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514)
+- [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
+- [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
 - [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
-- [If you are useful, it doesn&#39;t mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
-- [Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience](https://news.ycombinator.com/item?id=44156467)
-- [Show HN: Yet another tmux cheat sheet](https://tmuxai.dev/tmux-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
