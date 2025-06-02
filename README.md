@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vanta – a toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
-- [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
-- [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
-- [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
-- [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
+- [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
+- [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
+- [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
+- [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+- [Ask HN: Who is hiring? &lpar;June 2025&rpar;](https://news.ycombinator.com/item?id=44159528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
