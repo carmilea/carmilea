@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
+- [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
 - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
 - [Is &quot;The Phoenician Scheme&quot; Wes Anderson&#39;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
-- [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
-- [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
