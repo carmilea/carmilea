@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
 - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 - [Disaster awaits if we don&#39;t secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
+- [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
 - [Piramidal &lpar;YC W24&rpar; Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
-- [The Unreliability of LLMs and What Lies Ahead](https://verissimo.substack.com/p/verissimo-monthly-may-2025)
-- [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
