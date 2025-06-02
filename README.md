@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
+- [Is &quot;The Phoenician Scheme&quot; Wes Anderson&#39;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 - [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
 - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
-- [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
-- [The Princeton INTERCAL Compiler&#39;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
