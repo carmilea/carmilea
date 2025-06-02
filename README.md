@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
-- [Is &quot;The Phoenician Scheme&quot; Wes Anderson&#39;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
-- [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
-- [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
-- [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
+- [Understanding Consistency in Databases: Beyond the Basics](https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481)
+- [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
+- [If you are useful, it doesn&#39;t mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
+- [Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience](https://news.ycombinator.com/item?id=44156467)
+- [Show HN: Yet another tmux cheat sheet](https://tmuxai.dev/tmux-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
