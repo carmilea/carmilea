@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 25 Years, Linux Format Magazine Is No More](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes)
 - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
-- [Ask HN: What do you spend your money on?](https://news.ycombinator.com/item?id=44158251)
 - [Google DMARC Policy Changes?](https://news.ycombinator.com/item?id=44158209)
 - [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
 - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
