@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disaster awaits if we don&#39;t secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
 - [Piramidal &lpar;YC W24&rpar; Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
-- [Taurine Revisited](https://www.science.org/content/blog-post/taurine-revisited)
 - [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
 - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
-- [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
+- [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
