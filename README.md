@@ -62,7 +62,7 @@
 - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)
 - [LibriVox](https://librivox.org/)
 - [“Bugs are 100x more expensive to fix in production” study might not exist &lpar;2021&rpar;](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
-- [OpenAI can stop pretending](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/)
+- [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
