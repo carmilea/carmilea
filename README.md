@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
+- [Snowflake to Buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
+- [Show HN: I build one absurd web project every month](https://absurd.website)
 - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
-- [Disaster awaits if we don&#39;t secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
 - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
-- [Piramidal &lpar;YC W24&rpar; Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
