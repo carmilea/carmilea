@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After 25 Years, Linux Format Magazine Is No More](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes)
+- [Show HN: Vanta – a toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+- [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
+- [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
+- [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
 - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
-- [Google DMARC Policy Changes?](https://news.ycombinator.com/item?id=44158209)
-- [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
-- [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
