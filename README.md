@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
+- [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
+- [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
+- [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
 - [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 - [The Princeton INTERCAL Compiler&#39;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
-- [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
-- [Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.](https://github.com/oliverkwebb/moonphase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
