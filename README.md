@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
-- [Computer science has one of the highest unemployment rates](https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514)
-- [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
-- [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
-- [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
+- [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
+- [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
+- [Show HN: Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)
+- [Our production Ruby on Rails stack](https://attendlist.com/blog/production-rails-stack)
+- [TradeExpert, a trading framework that employs a mix of experts](https://arxiv.org/abs/2411.00782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
