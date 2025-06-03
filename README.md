@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
+- [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
+- [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
+- [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
 - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
-- [Don&#39;t just check errors, handle them gracefully &lpar;2016&rpar;](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
-- [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
-- [Did &quot;Big Oil&quot; Sell Us on a Recycling Scam?](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/)
-- [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
