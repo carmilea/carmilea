@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demodesk &lpar;YC W19&rpar; Is Hiring Rails Engineers](https://demodesk.com/careers)
+- [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill)
 - [The Metamorphosis of Prime Intellect &lpar;1994&rpar;](https://localroger.com/prime-intellect/mopiall.html)
 - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 - [IT workers struggling in New Zealand&#39;s tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
-- [Largest punk archive to find new home at MTSU&#39;s Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
-- [Teaching Program Verification in Dafny at Amazon &lpar;2023&rpar;](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
