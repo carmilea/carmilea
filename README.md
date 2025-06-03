@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayDiffusion – AI Voice Inpainting Technology](https://playdiffusion.com)
+- [Mario Kart designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
+- [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
+- [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)
 - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-- [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
-- [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
-- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
-- [Ukraine&#39;s autonomous killer drones defeat electronic warfare](https://spectrum.ieee.org/ukraine-killer-drones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
