@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Morph &lpar;YC S23&rpar; Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
+- [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
+- [&lpar;On | No&rpar; Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
+- [The initial version of the /etc./magic file used by the file&lpar;1&rpar; command](https://retrocomputing.stackexchange.com/questions/31722/where-can-i-find-the-initial-version-of-the-etc-magic-file-used-by-the-file1)
 - [The Small World of English](https://www.inotherwords.app/linguabase/)
-- [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
-- [Show HN: PinSend – Share text between devices using a PIN&lpar;P2P, no login&rpar;](https://pinsend.app)
-- [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-- [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
