@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/?hl=en)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Back End and AI Search Engineers&lpar;Onsite, MV&rpar;](https://careers.activeloop.ai/)
+- [Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI](https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai)
+- [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
 - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
-- [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
-- [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
-- [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
-- [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
