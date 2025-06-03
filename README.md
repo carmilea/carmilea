@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+- [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/?hl=en)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Back End and AI Search Engineers&lpar;Onsite, MV&rpar;](https://careers.activeloop.ai/)
 - [Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI](https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai)
-- [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
-- [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
