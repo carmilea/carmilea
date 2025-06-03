@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
-- [There should be no Computer Art &lpar;1971&rpar;](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
-- [EU Commission refuses to disclose authors behind its mass surveillance proposal](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
-- [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
-- [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
+- [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
+- [Meta and Yandex are de-anonymizing Android users&#39; web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
+- [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
+- [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
+- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
