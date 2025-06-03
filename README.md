@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
+- [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
 - [Meta and Yandex are de-anonymizing Android users&#39; web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
 - [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
-- [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
-- [Spark AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
