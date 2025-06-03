@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PlayDiffusion – AI Voice Inpainting Technology](https://playdiffusion.com)
-- [Mario Kart designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
+- [The Small World of English](https://www.inotherwords.app/linguabase/)
 - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
-- [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)
+- [Show HN: PinSend – Share text between devices using a PIN&lpar;P2P, no login&rpar;](https://pinsend.app)
 - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
+- [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
