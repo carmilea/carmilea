@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?](https://news.ycombinator.com/item?id=44167922)
+- [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
+- [Stop Over-Thinking AI Subscriptions – Peter Steinberger](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring Rails Engineers](https://demodesk.com/careers)
-- [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill)
-- [The Metamorphosis of Prime Intellect &lpar;1994&rpar;](https://localroger.com/prime-intellect/mopiall.html)
-- [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 <!-- BLOG-POST-LIST:END -->
 
 ---
