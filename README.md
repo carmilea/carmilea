@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Teaching Program Verification in Dafny at Amazon &lpar;2023&rpar;](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
-- [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
+- [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 - [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 - [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
