@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shape of the Essay Field](https://paulgraham.com/field.html)
+- [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
+- [There should be no Computer Art &lpar;1971&rpar;](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
 - [EU Commission refuses to disclose authors behind its mass surveillance proposal](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
-- [Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?](https://news.ycombinator.com/item?id=44167922)
+- [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
-- [Stop Over-Thinking AI Subscriptions – Peter Steinberger](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
