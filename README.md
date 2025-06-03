@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI makes the humanities more important, but also a lot weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
+- [IT workers struggling in New Zealand&#39;s tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
+- [Naked billboard that shocked the establishment – blazed a trail in the art world](https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world)
 - [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 - [Largest punk archive to find new home at MTSU&#39;s Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
-- [Teaching Program Verification in Dafny at Amazon &lpar;2023&rpar;](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
-- [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
-- [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
