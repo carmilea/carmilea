@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
+- [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 - [Morph &lpar;YC S23&rpar; Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 - [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
 - [&lpar;On | No&rpar; Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
-- [The initial version of the /etc./magic file used by the file&lpar;1&rpar; command](https://retrocomputing.stackexchange.com/questions/31722/where-can-i-find-the-initial-version-of-the-etc-magic-file-used-by-the-file1)
-- [The Small World of English](https://www.inotherwords.app/linguabase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
