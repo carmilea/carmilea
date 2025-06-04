@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
+- [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
+- [Amelia Earhart&#39;s Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
+- [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
+- [Show HN: App.build, an open-source AI agent that builds full-stack apps](https://www.app.build/)
 - [Redesigned Swift.org is now live](https://swift.org/)
-- [Curtis Yarvin&#39;s Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
-- [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth &amp; PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
-- [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
