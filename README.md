@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)
+- [FFmpeg Merges WebRTC Support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
+- [AGI Is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/)
 - [215 Department Store Catalogs 1908-2019](https://archive.org/details/departmentstorecatalogs)
 - [The Right to Repair Is Law in Washington State](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state)
-- [From Steam to Silicon: Patterns of Technological Revolutions](https://ianreppel.org/from-steam-to-silicon/)
-- [&quot;AI Will Replace All the Jobs &quot; Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
-- [Designing better file organization around tags, not hierarchies &lpar;2017&rpar;](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
