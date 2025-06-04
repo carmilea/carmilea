@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing *BSD in 2025 part 3 – A critical look at NetBSD&#39;s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
+- [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 - [Binary Wordle](https://wordle.chengeric.com/)
-- [&#39;Spiderweb&#39; drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
 - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
-- [Why is PS3 emulation so fast: RPCS3 optimizations explained [video]](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
