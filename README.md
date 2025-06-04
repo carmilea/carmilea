@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/)
+- [Binary Wordle](https://wordle.chengeric.com/)
 - [&#39;Spiderweb&#39; drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
 - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
 - [Why is PS3 emulation so fast: RPCS3 optimizations explained [video]](https://www.youtube.com/watch?v=19ae5Mq2lJE)
-- [Ask HN: Has anybody built search on top of Anna&#39;s Archive?](https://news.ycombinator.com/item?id=44176514)
-- [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
