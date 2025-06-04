@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
+- [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
+- [Tellico – Collection management software](https://tellico-project.org/)
 - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
-- [Cockatoos have learned to operate drinking fountains in Australia](https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia)
-- [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
-- [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
-- [Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes](https://news.ycombinator.com/item?id=44177964)
+- [Why I Wrote the Beam Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
