@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building Robust RAG Systems with LangChain &amp; LlamaIndex](https://www.youtube.com/watch?v=T04AA_hhOsw)
 - [Optimizing AI Model Experiments with Driverless AI | Parallel Experiment Tracking](https://www.youtube.com/watch?v=U0KhDRn6t0I)
 - [Enhancing Machine Learning with H2O Feature Store | Efficient Feature Management](https://www.youtube.com/watch?v=V8nSCe1N4_g)
 - [From JSON to Vectors – Building AI Search with SingleStore Kai | SingleStore Webinars](https://www.youtube.com/watch?v=hTgCnfKHjW4)
 - [Multi-Modal LLM Fine-Tuning of Unstructured Data](https://www.youtube.com/watch?v=BMZJYO1At90)
-- [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=hd25_sOKyjU)
 <!-- YOUTUBE:END -->
 
 
