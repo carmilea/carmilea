@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
+- [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
 - [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
-- [X&#39;s new &quot;encrypted&quot; XChat feature doesn&#39;t seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 - [Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes](https://news.ycombinator.com/item?id=44177964)
 - [Depot &lpar;YC W23&rpar; is hiring an enterprise support engineer &lpar;UK/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
+- [Decentralization Hidden in the Dark Ages](http://bionicmosquito.blogspot.com/2013/02/decentralization-hidden-in-dark-ages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
