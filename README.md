@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing *BSD in 2025 part 3 – A critical look at NetBSD&#39;s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
+- [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 - [Binary Wordle](https://wordle.chengeric.com/)
