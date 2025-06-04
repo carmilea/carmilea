@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curtis Yarvin&#39;s Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
+- [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
 - [A proposal to restrict sites from accessing a users&#39; local network](https://github.com/explainers-by-googlers/local-network-access)
-- [The iPhone 15 Pro&#39;s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
-- [Mistral Code](https://mistral.ai/products/mistral-code)
-- [Giant planet discovered orbiting tiny star](https://www.ucl.ac.uk/news/2025/jun/giant-planet-discovered-orbiting-tiny-star)
-- [Ship Carrying EVs Abandoned in Pacific After Catching Fire](https://www.bloomberg.com/news/articles/2025-06-04/ship-carrying-evs-abandoned-in-pacific-after-catching-fire)
+- [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
+- [Connecticut legislature overhauls towing laws to reduce &#39;predatory towing&#39;](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
