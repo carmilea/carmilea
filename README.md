@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X&#39;s new &quot;encrypted&quot; XChat feature doesn&#39;t seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 - [Depot &lpar;YC W23&rpar; is hiring an enterprise support engineer &lpar;UK/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
 - [Meta buys a nuclear power plant &lpar;more or less&rpar;](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
+- [Machine Code Isn&#39;t Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
-- [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
-- [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
