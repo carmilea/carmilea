@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
+- [Redesigned Swift.org is now live](https://swift.org/)
 - [Curtis Yarvin&#39;s Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
+- [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth &amp; PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
 - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
-- [A proposal to restrict sites from accessing a users&#39; local network](https://github.com/explainers-by-googlers/local-network-access)
-- [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
-- [Connecticut legislature overhauls towing laws to reduce &#39;predatory towing&#39;](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
