@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)
-- [FFmpeg Merges WebRTC Support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
-- [AGI Is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/)
-- [215 Department Store Catalogs 1908-2019](https://archive.org/details/departmentstorecatalogs)
-- [The Right to Repair Is Law in Washington State](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state)
+- [Tesla shows no sign of improvement in May sales data](https://arstechnica.com/cars/2025/06/tesla-shows-no-sign-of-improvement-in-may-sales-data/)
+- [We Are No Longer a Serious Country – Paul Krugman](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country)
+- [VC money is fueling a global boom in worker surveillance tech](https://restofworld.org/2025/employee-surveillance-software-vc-funding/)
+- [The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced](https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/)
+- [Teenage Engineering lets you pick what you want to pay for an OP-1 Field](https://teenage.engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
