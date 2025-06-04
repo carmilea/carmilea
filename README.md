@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Should We Think About the Renaissance?](https://www.chronicle.com/article/how-should-we-think-about-the-renaissance)
-- [Globally Based – all-in-one platform for travel management](https://globallybased.com)
+- [215 Department Store Catalogs 1908-2019](https://archive.org/details/departmentstorecatalogs)
+- [The Right to Repair Is Law in Washington State](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state)
+- [From Steam to Silicon: Patterns of Technological Revolutions](https://ianreppel.org/from-steam-to-silicon/)
+- [&quot;AI Will Replace All the Jobs &quot; Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
 - [Designing better file organization around tags, not hierarchies &lpar;2017&rpar;](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
-- [Cord didn&#39;t win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
-- [The Sky&#39;s the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
