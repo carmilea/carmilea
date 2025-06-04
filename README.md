@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
+- [Cockatoos have learned to operate drinking fountains in Australia](https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia)
 - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
 - [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
 - [Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes](https://news.ycombinator.com/item?id=44177964)
-- [Depot &lpar;YC W23&rpar; is hiring an enterprise support engineer &lpar;UK/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
-- [Decentralization Hidden in the Dark Ages](http://bionicmosquito.blogspot.com/2013/02/decentralization-hidden-in-dark-ages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
