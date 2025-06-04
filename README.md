@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
+- [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
 - [X&#39;s new &quot;encrypted&quot; XChat feature doesn&#39;t seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
+- [Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes](https://news.ycombinator.com/item?id=44177964)
 - [Depot &lpar;YC W23&rpar; is hiring an enterprise support engineer &lpar;UK/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
-- [Meta buys a nuclear power plant &lpar;more or less&rpar;](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
-- [Machine Code Isn&#39;t Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
-- [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
