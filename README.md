@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patched &lpar;YC S24&rpar; Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
-- [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
-- [Brain aging shows nonlinear transitions, suggesting a midlife &quot;critical window&quot;](https://www.pnas.org/doi/10.1073/pnas.2416433122)
-- [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
-- [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
+- [&#39;Spiderweb&#39; drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
+- [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
+- [Why is PS3 emulation so fast: RPCS3 optimizations explained [video]](https://www.youtube.com/watch?v=19ae5Mq2lJE)
+- [Ask HN: Has anybody built search on top of Anna&#39;s Archive?](https://news.ycombinator.com/item?id=44176514)
+- [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
