@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Introduction to Data Labeling | H2O Label Genie Starter Track - Part 1](https://www.youtube.com/watch?v=WYLFHAYLW6k)
 - [Building Robust RAG Systems with LangChain &amp; LlamaIndex](https://www.youtube.com/watch?v=T04AA_hhOsw)
 - [Optimizing AI Model Experiments with Driverless AI | Parallel Experiment Tracking](https://www.youtube.com/watch?v=U0KhDRn6t0I)
 - [Enhancing Machine Learning with H2O Feature Store | Efficient Feature Management](https://www.youtube.com/watch?v=V8nSCe1N4_g)
 - [From JSON to Vectors – Building AI Search with SingleStore Kai | SingleStore Webinars](https://www.youtube.com/watch?v=hTgCnfKHjW4)
-- [Multi-Modal LLM Fine-Tuning of Unstructured Data](https://www.youtube.com/watch?v=BMZJYO1At90)
 <!-- YOUTUBE:END -->
 
 
