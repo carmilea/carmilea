@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Should We Think About the Renaissance?](https://www.chronicle.com/article/how-should-we-think-about-the-renaissance)
+- [Globally Based – all-in-one platform for travel management](https://globallybased.com)
 - [Designing better file organization around tags, not hierarchies &lpar;2017&rpar;](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 - [Cord didn&#39;t win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
 - [The Sky&#39;s the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
-- [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
-- [Tellico – Collection management software](https://tellico-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
