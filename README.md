@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla shows no sign of improvement in May sales data](https://arstechnica.com/cars/2025/06/tesla-shows-no-sign-of-improvement-in-may-sales-data/)
-- [We Are No Longer a Serious Country – Paul Krugman](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country)
-- [VC money is fueling a global boom in worker surveillance tech](https://restofworld.org/2025/employee-surveillance-software-vc-funding/)
-- [The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced](https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/)
-- [Teenage Engineering lets you pick what you want to pay for an OP-1 Field](https://teenage.engineering/)
+- [A proposal to restrict sites from accessing a users&#39; local network](https://github.com/explainers-by-googlers/local-network-access)
+- [The iPhone 15 Pro&#39;s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
+- [Mistral Code](https://mistral.ai/products/mistral-code)
+- [Giant planet discovered orbiting tiny star](https://www.ucl.ac.uk/news/2025/jun/giant-planet-discovered-orbiting-tiny-star)
+- [Ship Carrying EVs Abandoned in Pacific After Catching Fire](https://www.bloomberg.com/news/articles/2025-06-04/ship-carrying-evs-abandoned-in-pacific-after-catching-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
