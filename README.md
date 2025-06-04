@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PromptArmor &lpar;YC W24&rpar; Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
+- [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
+- [Flight Simulator Gave Birth to 3D Video-Game Graphics](https://spectrum.ieee.org/microsoft-flight-simulator)
 - [Arthur C. Clarke Predicted the Rise of AI &lpar;1978&rpar;](https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html)
-- [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)
-- [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
-- [VectorSmuggle: Covertly Exfiltrate Data in Embeddings](https://github.com/jaschadub/VectorSmuggle)
-- [Amelia Earhart&#39;s Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
+- [Comparing Claude System Prompts Reveal Anthropic&#39;s Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
