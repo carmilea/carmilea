@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
-- [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
-- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
-- [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring Senior Back End and AI Search Engineers&lpar;Onsite, MV&rpar;](https://careers.activeloop.ai/)
+- [Patched &lpar;YC S24&rpar; Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
+- [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
+- [Brain aging shows nonlinear transitions, suggesting a midlife &quot;critical window&quot;](https://www.pnas.org/doi/10.1073/pnas.2416433122)
+- [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
+- [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
