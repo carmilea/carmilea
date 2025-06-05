@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eleven v3 &lpar;Alpha&rpar;](https://elevenlabs.io/v3)
-- [Neuromorphic Computing: The Future of AI](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
+- [!Camera](https://notbor.ing/product/camera)
+- [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
+- [Eleven v3](https://elevenlabs.io/v3)
+- [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
 - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
-- [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
-- [Millions in west don&#39;t know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
