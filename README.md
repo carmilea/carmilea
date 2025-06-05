@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [!Camera](https://notbor.ing/product/camera)
+- [Converge &lpar;YC S23&rpar; Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
 - [Eleven v3](https://elevenlabs.io/v3)
 - [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
