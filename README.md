@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
+- [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
 - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
-- [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
-- [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
