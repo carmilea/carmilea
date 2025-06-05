@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
-- [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
+- [AtoB &lpar;YC S20&rpar; – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
+- [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
+- [American Science and Surplus is fighting for its life. Why Should You Care?](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/)
 - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
-- [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
 <!-- BLOG-POST-LIST:END -->
 
