@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+- [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 - [AtoB &lpar;YC S20&rpar; – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
 - [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
-- [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
-- [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
-- [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+- [Experimenting with no-build Web Applications • AndreGarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
