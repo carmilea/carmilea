@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How big tech monopolies made the internet worse](https://www.cascadepbs.org/news/2025/06/how-big-tech-monopolies-made-internet-worse)
+- [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
+- [Couple has eaten at the same restaurant six nights a week for 15 years &lpar;2019&rpar;](https://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article226933934.html)
 - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
 - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
-- [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
