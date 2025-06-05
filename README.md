@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineer Fixes and Re-Installs Old Payphones, Provides Free Calls to the Public](https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public)
 - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-- [Couple has eaten at the same restaurant six nights a week for 15 years &lpar;2019&rpar;](https://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article226933934.html)
+- [NoteGen is a cross-platform Markdown note-taking application](https://github.com/codexu/note-gen)
 - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
 - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
-- [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
