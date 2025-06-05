@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the PURL Specification &lpar;Package URL&rpar;](https://fossa.com/blog/understanding-purl-specification-package-url/)
-- [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
-- [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
-- [Are we the sexbots? Tech vs. consent](https://joelmorris.substack.com/p/are-we-the-sexbots-tech-vs-consent)
-- [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+- [Chrome achieves highest score ever on Speedometer 3, saving users millions of](https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html)
+- [CircuitHub &lpar;YC W12&rpar; Hiring Full-Stack Robotics Engineers – The Grid](https://www.workatastartup.com/jobs/76919)
+- [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
+- [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
+- [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
