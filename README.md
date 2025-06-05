@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PromptArmor &lpar;YC W24&rpar; Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
-- [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
-- [Flight Simulator Gave Birth to 3D Video-Game Graphics](https://spectrum.ieee.org/microsoft-flight-simulator)
-- [Arthur C. Clarke Predicted the Rise of AI &lpar;1978&rpar;](https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html)
-- [Comparing Claude System Prompts Reveal Anthropic&#39;s Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
+- [How big tech monopolies made the internet worse](https://www.cascadepbs.org/news/2025/06/how-big-tech-monopolies-made-internet-worse)
+- [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
+- [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
+- [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
+- [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
