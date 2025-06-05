@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
+- [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
 - [APL Interpreter – An implementation of APL, written in Haskell &lpar;2024&rpar;](https://scharenbroch.dev/projects/apl-interpreter/)
-- [Myanmar&#39;s chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
 - [Converge &lpar;YC S23&rpar; Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
-- [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
