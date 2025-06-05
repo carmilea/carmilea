@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome achieves highest score ever on Speedometer 3, saving users millions of](https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html)
-- [CircuitHub &lpar;YC W12&rpar; Hiring Full-Stack Robotics Engineers – The Grid](https://www.workatastartup.com/jobs/76919)
-- [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
-- [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
-- [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
+- [Eleven v3 &lpar;Alpha&rpar;](https://elevenlabs.io/v3)
+- [Neuromorphic Computing: The Future of AI](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
+- [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
+- [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
+- [Millions in west don&#39;t know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
