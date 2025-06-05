@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Engineer Fixes and Re-Installs Old Payphones, Provides Free Calls to the Public](https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public)
+- [Want to Model a Land Value Tax Shift in Your City?](https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift)
+- [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination)
 - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-- [NoteGen is a cross-platform Markdown note-taking application](https://github.com/codexu/note-gen)
-- [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
-- [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
+- [Is This the End or the Beginning?](https://lichess.org/@/MeTooSlow/blog/is-this-the-end-or-the-beginning/9aJj08zM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
