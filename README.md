@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the PURL Specification &lpar;Package URL&rpar;](https://fossa.com/blog/understanding-purl-specification-package-url/)
+- [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
+- [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
+- [Are we the sexbots? Tech vs. consent](https://joelmorris.substack.com/p/are-we-the-sexbots-tech-vs-consent)
 - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-- [Twitter&#39;s new encrypted DMs aren&#39;t better than the old ones](https://mjg59.dreamwidth.org/71646.html)
-- [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
-- [AtoB &lpar;YC S20&rpar; – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
-- [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
