@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
-- [Open Source Distilling](https://opensourcedistilling.com/)
-- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
-- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
-- [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+- [A maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
+- [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
+- [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
+- [Homeless but self taught full stack developer](https://news.ycombinator.com/item?id=44198076)
+- [How Much Energy Does It Take To Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
