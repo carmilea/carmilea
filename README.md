@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
-- [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
-- [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
-- [APL Interpreter – An implementation of APL, written in Haskell &lpar;2024&rpar;](https://scharenbroch.dev/projects/apl-interpreter/)
-- [Converge &lpar;YC S23&rpar; Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
+- [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
+- [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+- [I do not remember my life and it&#39;s fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
+- [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 <!-- BLOG-POST-LIST:END -->
 
 ---
