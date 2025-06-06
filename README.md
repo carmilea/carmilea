@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exa &lpar;YC S21&rpar; Is Hiring a Founding Physical Design Engineer to Build Chips for AI](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer-physical-design-vlsi-rtl)
+- [Great Question &lpar;YC W21&rpar; Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
+- [Series C and Scale &lpar;Cursor&rpar;](https://www.cursor.com/en/blog/series-c)
 - [Breakthrough in search for HIV cure leaves researchers &#39;overwhelmed&#39;](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
 - [See how a dollar would have grown over the past 94 years [pdf]](https://www.newyorklifeinvestments.com/assets/documents/education/investing-essentials-growthofadollar.pdf)
 - [Ask HN: Any good tools for viewing congressional bills?](https://news.ycombinator.com/item?id=44202110)
-- [Decreasing Gitlab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
