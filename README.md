@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
+- [Open Source Distilling](https://opensourcedistilling.com/)
 - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
-- [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
+- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
 - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
-- [I do not remember my life and it&#39;s fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
-- [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 <!-- BLOG-POST-LIST:END -->
 
 ---
