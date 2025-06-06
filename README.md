@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
+- [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 - [Onyx &lpar;YC W24&rpar; – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
-- [DNS traffic spiked as Musk–Trump clash boosted Truth Social &lpar;+268%&rpar; and X &lpar;+20%&rpar;](https://twitter.com/CloudflareRadar/status/1931023755083456867)
-- [Online sports betting: As you do well, they cut you off](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
-- [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
-- [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+- [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
+- [Supreme Court Gives Doge Access to Social Security Data](https://www.bloomberg.com/news/articles/2025-06-06/supreme-court-gives-doge-access-to-social-security-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
