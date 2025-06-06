@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
 - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
-- [How Much Energy Does It Take To Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 - [Open Source Distilling](https://opensourcedistilling.com/)
+- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
+- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
