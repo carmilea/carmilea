@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
+- [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
+- [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+- [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
-- [Great Question &lpar;YC W21&rpar; Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
-- [Series C and Scale &lpar;Cursor&rpar;](https://www.cursor.com/en/blog/series-c)
-- [Breakthrough in search for HIV cure leaves researchers &#39;overwhelmed&#39;](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
-- [See how a dollar would have grown over the past 94 years [pdf]](https://www.newyorklifeinvestments.com/assets/documents/education/investing-essentials-growthofadollar.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
