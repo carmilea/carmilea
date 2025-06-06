@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
+- [Top researchers leave Intel to build startup with &#39;the biggest, baddest CPU&#39;](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 - [A masochist&#39;s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
+- [Curate Your Shell History](https://esham.io/2025/05/shell-history)
 - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
-- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
-- [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
