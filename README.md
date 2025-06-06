@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
+- [Onyx &lpar;YC W24&rpar; – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
+- [DNS traffic spiked as Musk–Trump clash boosted Truth Social &lpar;+268%&rpar; and X &lpar;+20%&rpar;](https://twitter.com/CloudflareRadar/status/1931023755083456867)
+- [Online sports betting: As you do well, they cut you off](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
 - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
-- [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
-- [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
