@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teenage Engineering lets you pick the price for their OP-1f](https://teenage.engineering/)
+- [A masochist&#39;s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
+- [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
+- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-- [Doge Developed Error-Prone AI Tool to &quot;Munch&quot; Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
-- [Editing astrophotography](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
-- [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
