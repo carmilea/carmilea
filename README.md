@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
+- [The X.Org Server just got forked &lpar;announcing XLibre&rpar;](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)
+- [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
+- [Aether: A CMS That Gets Out of Your Way](https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/)
 - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
-- [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
-- [Open Source Distilling](https://opensourcedistilling.com/)
-- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
-- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
