@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty Years of TiddlyWiki &lpar;2024&rpar;](https://tiddlywiki.com/#History%20of%20TiddlyWiki:HelloThere%20%5B%5BQuick%20Start%5D%5D%20%5B%5BFind%20Out%20More%5D%5D%20%5B%5BHistory%20of%20TiddlyWiki%5D%5D%20%5B%5BTiddlyWiki%20on%20the%20Web%5D%5D%20%5B%5BTestimonials%20and%20Reviews%5D%5D%20GettingStarted%20Community)
 - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
-- [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 - [Open Source Distilling](https://opensourcedistilling.com/)
 - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
