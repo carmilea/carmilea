@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Being fat is a trap](https://federicopereiro.com/fat-trap/)
+- [Teenage Engineering lets you pick the price for their OP-1f](https://teenage.engineering/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-- [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
+- [Doge Developed Error-Prone AI Tool to &quot;Munch&quot; Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
+- [Editing astrophotography](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
 - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
-- [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
