@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
 - [Open Source Distilling](https://opensourcedistilling.com/)
 - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
 - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+- [I do not remember my life and it&#39;s fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
