@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
-- [The X.Org Server just got forked &lpar;announcing XLibre&rpar;](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)
-- [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
-- [Aether: A CMS That Gets Out of Your Way](https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/)
-- [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
+- [Being fat is a trap](https://federicopereiro.com/fat-trap/)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+- [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
+- [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
+- [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
