@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
-- [Top researchers leave Intel to build startup with &#39;the biggest, baddest CPU&#39;](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
-- [A masochist&#39;s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
-- [Curate Your Shell History](https://esham.io/2025/05/shell-history)
-- [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
+- [Silicon Valley aghast at the Musk-Trump divorce](https://www.ft.com/content/df15f13d-310f-47a5-89ed-330a6a379068)
+- [Ask HN: Any good tools for viewing congressional bills?](https://news.ycombinator.com/item?id=44202110)
+- [Decreasing Gitlab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
+- [4-7-8 Breathing](https://www.breathbelly.com/exercises/4-7-8-breathing)
+- [Meta: Shut Down Your Invasive AI Discover Feed. Now](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
