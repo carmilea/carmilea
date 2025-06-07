@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
-- [Asimov and the Disease of Boredom &lpar;1964&rpar;](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
-- [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
-- [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
-- [If it works, it&#39;s not AI: a commercial look at AI startups &lpar;1999&rpar;](https://dspace.mit.edu/handle/1721.1/80558)
+- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
+- [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
+- [Why Pandas feels clunky when coming from R &lpar;2024&rpar;](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
+- [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
+- [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 <!-- BLOG-POST-LIST:END -->
 
 ---
