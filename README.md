@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ziina &lpar;YC W21&rpar; the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
+- [I built a knowledge system that gives AI perfect codebase memory](https://github.com/Muvon/octocode)
 - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
-- [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
 - [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
 - [NASA delays next flight of Boeing&#39;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
-- [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
