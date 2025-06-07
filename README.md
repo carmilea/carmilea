@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Move Your Site Away from Weebly &lpar;YC W07&rpar;](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
-- [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)
-- [What &quot;Working&quot; Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
+- [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
+- [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
+- [What “working” means in the era of AI apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 - [I Read All of Cloudflare&#39;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
-- [Medieval Africans Had a Unique Process for Purifying Gold with Glass &lpar;2019&rpar;](https://www.atlasobscura.com/articles/medieval-african-gold)
+- [Medieval Africans had a unique process for purifying gold with glass &lpar;2019&rpar;](https://www.atlasobscura.com/articles/medieval-african-gold)
 <!-- BLOG-POST-LIST:END -->
 
 ---
