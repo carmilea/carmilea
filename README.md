@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are front end dev demand so high if front end development is easier? &lpar;2012&rpar;](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
+- [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
 - [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 - [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
 - [What “working” means in the era of AI apps](https://a16z.com/revenue-benchmarks-ai-apps/)
-- [I Read All of Cloudflare&#39;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
-- [Medieval Africans had a unique process for purifying gold with glass &lpar;2019&rpar;](https://www.atlasobscura.com/articles/medieval-african-gold)
 <!-- BLOG-POST-LIST:END -->
 
 ---
