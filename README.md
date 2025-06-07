@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Wirecutter&#39;s Water-Quality Expert. I Don&#39;t Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
+- [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
 - [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 - [My experiment living in a tent in Hong Kong&#39;s jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 - [Washington Post&#39;s Privacy Tip: Stop Using Chrome, Delete Meta Apps &lpar;and Yandex&rpar;](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
