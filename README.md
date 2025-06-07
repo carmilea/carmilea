@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
-- [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-- [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
-- [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
-- [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
+- [Simulating Time with Square-Root Space](https://arxiv.org/abs/2502.17779)
+- [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
+- [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
+- [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
+- [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
