@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it)
+- [Gander &lpar;YC F24&rpar; Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
+- [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
+- [Why We&#39;re Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
 - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
-- [Ziina &lpar;YC W21&rpar; the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
-- [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
-- [NASA delays next flight of Boeing&#39;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
-- [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
