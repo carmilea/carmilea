@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [If it works, it&#39;s not AI: a commercial look at AI startups &lpar;1999&rpar;](https://dspace.mit.edu/handle/1721.1/80558)
-- [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
 - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
-- [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it)
 - [Gander &lpar;YC F24&rpar; Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
+- [Why We&#39;re Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
+- [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
