@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
+- [Windows 10 spies on your use of System Settings &lpar;2021&rpar;](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
 - [Ziina &lpar;YC W21&rpar; the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
-- [I built a knowledge system that gives AI perfect codebase memory](https://github.com/Muvon/octocode)
 - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 - [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
-- [NASA delays next flight of Boeing&#39;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 <!-- BLOG-POST-LIST:END -->
 
 ---
