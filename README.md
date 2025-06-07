@@ -62,7 +62,7 @@
 - [Gander &lpar;YC F24&rpar; Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
 - [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
 - [Why We&#39;re Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
-- [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
+- [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
