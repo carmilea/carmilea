@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulating Time with Square-Root Space](https://arxiv.org/abs/2502.17779)
 - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
-- [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
+- [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
 - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
+- [Joining Apple Computer](https://www.folklore.org/Joining_Apple_Computer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
