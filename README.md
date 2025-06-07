@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Wirecutter&#39;s Water-Quality Expert. I Don&#39;t Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
-- [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
+- [My experiment living in a tent in Hong Kong&#39;s jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
+- [Washington Post&#39;s Privacy Tip: Stop Using Chrome, Delete Meta Apps &lpar;and Yandex&rpar;](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 - [Why Pandas feels clunky when coming from R &lpar;2024&rpar;](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
-- [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
-- [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 <!-- BLOG-POST-LIST:END -->
 
 ---
