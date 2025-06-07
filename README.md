@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
-- [Hollywood Is Already Using AI &lpar;and Hiding It&rpar;](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
+- [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
+- [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
-- [Who Needs a Belt 3D Printer When You Have a Treadmill?](https://www.hackster.io/news/who-needs-a-belt-3d-printer-when-you-have-a-treadmill-7bbad6a164b8)
 - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
+- [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
