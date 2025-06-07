@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
+- [Hollywood Is Already Using AI &lpar;and Hiding It&rpar;](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
+- [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
+- [Who Needs a Belt 3D Printer When You Have a Treadmill?](https://www.hackster.io/news/who-needs-a-belt-3d-printer-when-you-have-a-treadmill-7bbad6a164b8)
 - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
-- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
-- [My experiment living in a tent in Hong Kong&#39;s jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
-- [Washington Post&#39;s Privacy Tip: Stop Using Chrome, Delete Meta Apps &lpar;and Yandex&rpar;](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
-- [Why Pandas feels clunky when coming from R &lpar;2024&rpar;](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
