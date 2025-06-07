@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why are front end dev demand so high if front end development is easier? &lpar;2012&rpar;](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
-- [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
-- [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
+- [NASA delays next flight of Boeing&#39;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
+- [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
+- [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 - [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
-- [What “working” means in the era of AI apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
