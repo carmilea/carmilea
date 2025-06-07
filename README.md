@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are front end dev demand so high if front end development is easier? &lpar;2012&rpar;](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
+- [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
+- [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
+- [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
 - [NASA delays next flight of Boeing&#39;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
-- [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
-- [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
