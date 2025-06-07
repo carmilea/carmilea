@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
+- [Asimov and the Disease of Boredom &lpar;1964&rpar;](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
+- [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
+- [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 - [If it works, it&#39;s not AI: a commercial look at AI startups &lpar;1999&rpar;](https://dspace.mit.edu/handle/1721.1/80558)
-- [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
-- [Gander &lpar;YC F24&rpar; Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
-- [Why We&#39;re Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
-- [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
