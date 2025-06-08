@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 - [Should I Use a Carousel? &lpar;2013&rpar;](https://shouldiuseacarousel.com/)
 - [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
+- [Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
 - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
-- [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
-- [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
