@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&lt;Blink&gt; and &lt;Marquee&gt; &lpar;2020&rpar;](https://danq.me/2020/11/11/blink-and-marquee/)
+- [Ask HN: Does anyone know of a general news site akin to Hacker News?](https://news.ycombinator.com/item?id=44214410)
 - [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 - [Should I Use a Carousel? &lpar;2013&rpar;](https://shouldiuseacarousel.com/)
 - [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
-- [Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
-- [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
