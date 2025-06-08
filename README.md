@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
+- [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
+- [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
+- [Reverse engineering Claude Code &lpar;April 2025&rpar;](https://kirshatrov.com/posts/claude-code-internals)
 - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
-- [&lt;Blink&gt; and &lt;Marquee&gt; &lpar;2020&rpar;](https://danq.me/2020/11/11/blink-and-marquee/)
-- [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)
-- [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
-- [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
