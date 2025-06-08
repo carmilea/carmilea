@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at Cloudflare&#39;s AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
+- [Why not use DNS over HTTPS &lpar;DoH&rpar;?](https://www.bsdhowto.ch/doh.html)
+- [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
+- [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
-- [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
-- [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
-- [Reverse engineering Claude Code &lpar;April 2025&rpar;](https://kirshatrov.com/posts/claude-code-internals)
-- [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
