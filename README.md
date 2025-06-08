@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Android can&#39;t use CDC Ethernet &lpar;2023&rpar;](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+- [What Happens When People Don&#39;t Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
 - [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
-- [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
-- [The race to find GPS alternatives](https://www.technologyreview.com/2025/06/06/1117978/inside-the-race-to-find-gps-alternatives/)
+- [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
 - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
-- [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
