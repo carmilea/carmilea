@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
+- [An innovative superfamily of fonts for code](https://monaspace.githubnext.com/)
 - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
-- [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
+- [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
 - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
-- [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
-- [Joining Apple Computer](https://www.folklore.org/Joining_Apple_Computer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
