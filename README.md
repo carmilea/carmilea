@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
+- [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
+- [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
+- [The race to find GPS alternatives](https://www.technologyreview.com/2025/06/06/1117978/inside-the-race-to-find-gps-alternatives/)
 - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
-- [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
-- [Launching the BeOS on Hitachi Flora Prius Systems &lpar;1999&rpar;](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
