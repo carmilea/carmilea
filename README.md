@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 - [A look at Cloudflare&#39;s AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
 - [Why not use DNS over HTTPS &lpar;DoH&rpar;?](https://www.bsdhowto.ch/doh.html)
-- [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
