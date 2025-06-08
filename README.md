@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rents fall in most U.S. metros since 2023, demand struggles to match supply](https://seekingalpha.com/news/4455878-rents-fall-in-most-us-metros-since-2023-as-demand-struggles-to-keep-up-with-supply)
 - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
 - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
+- [Launching the BeOS on Hitachi Flora Prius Systems &lpar;1999&rpar;](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
