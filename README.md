@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 - [&lt;Blink&gt; and &lt;Marquee&gt; &lpar;2020&rpar;](https://danq.me/2020/11/11/blink-and-marquee/)
-- [Ask HN: Does anyone know of a general news site akin to Hacker News?](https://news.ycombinator.com/item?id=44214410)
 - [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)
 - [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
-- [Should I Use a Carousel? &lpar;2013&rpar;](https://shouldiuseacarousel.com/)
+- [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
