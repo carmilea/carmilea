@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
-- [I got a remote job for a EU company, I&#39;d find it hard to go back to a US-based](https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6)
+- [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 - [A look at Cloudflare&#39;s AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
 - [Why not use DNS over HTTPS &lpar;DoH&rpar;?](https://www.bsdhowto.ch/doh.html)
 - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
