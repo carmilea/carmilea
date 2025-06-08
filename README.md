@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Android can&#39;t use CDC Ethernet &lpar;2023&rpar;](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+- [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 - [What Happens When People Don&#39;t Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
 - [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
 - [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
-- [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
