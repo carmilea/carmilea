@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 - [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
+- [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
 - [Riding high in Germany on the world&#39;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 - [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
-- [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
-- [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
