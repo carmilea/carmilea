@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
 - [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
-- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
-- [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
+- [One Man Armies](https://quarter--mile.com/One-Man-Armies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
