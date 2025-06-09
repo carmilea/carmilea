@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
-- [Defiant loyalists paid dearly for choosing wrong side in the American Revolution](https://www.smithsonianmag.com/history/meet-the-defiant-loyalists-who-paid-dearly-for-choosing-the-wrong-side-in-the-american-revolution-180986716/)
-- [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
-- [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
-- [Finding Shawn Mendes &lpar;2019&rpar;](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+- [Maypole Dance of Braid Like Groups](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
+- [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
+- [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
+- [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
+- [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
