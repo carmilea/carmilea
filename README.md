@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maypole Dance of Braid Like Groups](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
-- [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
-- [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
-- [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
-- [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
+- [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
+- [Launch HN: Chonkie &lpar;YC X25&rpar; – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
+- [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
+- [Algovivo an energy-based formulation for soft-bodied virtual creatures](https://juniorrojas.com/algovivo/)
+- [Anthropic&#39;s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
