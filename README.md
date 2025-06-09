@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
 - [A bit more on Twitter/X&#39;s new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
 - [Apple Announces Foundation Models and Containerization frameworks, etc.](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
-- [Frederick Forsyth has died](https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
