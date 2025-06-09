@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Deploying AI Models with H2O MLOps | Scalable &amp; Flexible Deployment Strategies](https://www.youtube.com/watch?v=eym2k_fR0VM)
 - [[Panel Recording] Turning AI Strategy into Results for Financial Institutions](https://www.youtube.com/watch?v=8bknYjUkLf4)
 - [Interpreting AI Models in Driverless AI | Fairness, Sensitivity &amp; Model Transparency](https://www.youtube.com/watch?v=oXgbPu2qNVQ)
 - [Managing AI Model Experiments in Driverless AI | Collaboration &amp; MLOps Integration](https://www.youtube.com/watch?v=Bvm5FOnyDD8)
 - [Introduction to Data Labeling | H2O Label Genie Starter Track - Part 1](https://www.youtube.com/watch?v=WYLFHAYLW6k)
-- [Building Robust RAG Systems with LangChain &amp; LlamaIndex](https://www.youtube.com/watch?v=T04AA_hhOsw)
 <!-- YOUTUBE:END -->
 
 
