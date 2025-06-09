@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU OS for the Public Sector](https://eu-os.eu/)
-- [We came to be ruled by Death Eaters &lpar;2014&rpar;](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
-- [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
+- [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
+- [Ex-FCC Chair Ajit Pai is now a wireless lobbyist](https://arstechnica.com/tech-policy/2025/06/ex-fcc-chair-ajit-pai-is-now-a-wireless-lobbyist-and-enemy-of-cable-companies/)
 - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
-- [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+- [Finding Shawn Mendes &lpar;2019&rpar;](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+- [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
