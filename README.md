@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Help restore the tax deduction for software dev in the US &lpar;Section 174&rpar;](https://news.ycombinator.com/item?id=44226145)
-- [Trusting your own judgement on &#39;AI&#39; is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
-- [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
-- [Launch HN: Chonkie &lpar;YC X25&rpar; – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
-- [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
+- [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
+- [Apple Announces Foundation Models Framework for Developers to Leverage AI](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
+- [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
+- [Frederick Forsyth has died](https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86)
+- [Apple introduces a universal design across platforms](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
