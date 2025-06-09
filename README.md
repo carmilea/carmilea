@@ -62,7 +62,7 @@
 - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
 - [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
-- [One Man Armies](https://quarter--mile.com/One-Man-Armies)
+- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
