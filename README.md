@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU OS for the Public Sector](https://eu-os.eu/)
+- [We came to be ruled by Death Eaters &lpar;2014&rpar;](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
+- [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
+- [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
 - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
-- [The Illusion of “The Illusion of Thinking”](https://www.seangoedecke.com/illusion-of-thinking/)
-- [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
-- [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
-- [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
 <!-- BLOG-POST-LIST:END -->
 
 ---
