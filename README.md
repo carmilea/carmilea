@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s infatuation with boy geniuses and &#39;Great Men&#39; is ruining us](https://www.theguardian.com/us-news/ng-interactive/2025/jun/08/boy-geniuses-great-men-trump)
+- [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
+- [Riding high in Germany on the world&#39;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
+- [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
+- [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
 - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
-- [Why Android can&#39;t use CDC Ethernet &lpar;2023&rpar;](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
-- [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
-- [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
