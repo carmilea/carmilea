@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
+- [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)
+- [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
-- [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
-- [A bit more on Twitter/X&#39;s new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
-- [Lightweight Diagramming for Lightweight Formal Methods](https://blog.brownplt.org/2025/06/09/copeanddrag.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
