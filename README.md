@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+- [The Illusion of “The Illusion of Thinking”](https://www.seangoedecke.com/illusion-of-thinking/)
 - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
-- [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
-- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
