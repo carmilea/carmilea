@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-- [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)
+- [Google battling &#39;fox infestation&#39; on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
 - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
-- [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
+- [Container: Apple&#39;s Linux-Container Runtime](https://github.com/apple/container)
 <!-- BLOG-POST-LIST:END -->
 
 ---
