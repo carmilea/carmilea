@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Help restore the tax deduction for software dev in the US &lpar;Section 174&rpar;](https://news.ycombinator.com/item?id=44226145)
+- [Trusting your own judgement on &#39;AI&#39; is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
 - [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
 - [Launch HN: Chonkie &lpar;YC X25&rpar; – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
 - [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
-- [Algovivo an energy-based formulation for soft-bodied virtual creatures](https://juniorrojas.com/algovivo/)
-- [Anthropic&#39;s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
