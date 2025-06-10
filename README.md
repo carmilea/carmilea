@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: BitBoard &lpar;YC X25&rpar; – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
+- [Intentional math errors in David Foster Wallace&#39;s work &lpar;2009&rpar;](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
+- [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
 - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 - [Plato got virtually everything wrong &lpar;2018&rpar;](https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong)
-- [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
-- [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
-- [Drone shows: Will they overtake firework displays?](https://www.bbc.co.uk/news/articles/c79ewz7qej4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
