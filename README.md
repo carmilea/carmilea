@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 - [News Sites Are Getting Crushed by Google&#39;s New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 - [Show HN: A &quot;Course&quot; as an MCP Server](https://mastra.ai/course)
-- [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
-- [Another Crack in the Chain of Trust: Uncovering &lpar;Yet Another&rpar; Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
+- [Web-scraping AI bots cause disruption for scientific databases and journals](https://www.nature.com/articles/d41586-025-01661-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
