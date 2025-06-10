@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon says deploying Marines and National Guard to LA will cost $134M](https://apnews.com/live/immigration-protests-los-angeles-6-10-2025)
+- [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
+- [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
 - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
 - [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
-- [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
-- [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
-- [Launch HN: BitBoard &lpar;YC X25&rpar; – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
