@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
-- [News Sites Are Getting Crushed by Google&#39;s New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
+- [Chatbots are replacing Google&#39;s search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 - [Show HN: A &quot;Course&quot; as an MCP Server](https://mastra.ai/course)
-- [Web-scraping AI bots cause disruption for scientific databases and journals](https://www.nature.com/articles/d41586-025-01661-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
