@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [News Sites Are Getting Crushed by Google&#39;s New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
+- [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+- [Show HN: A &quot;Course&quot; as an MCP Server](https://mastra.ai/course)
 - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 - [Another Crack in the Chain of Trust: Uncovering &lpar;Yet Another&rpar; Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
-- [Launch HN: Vassar Robotics &lpar;YC X25&rpar; – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-- [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
-- [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
