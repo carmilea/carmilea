@@ -61,8 +61,8 @@
 - [Smart People Don&#39;t Chase Goals; They Create Limits](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
 - [Micrographia &lpar;1665&rpar; [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
+- [Apple has announced its final version of macOS for Intel](https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/)
 - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
-- [Implementing DOES&gt; in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
