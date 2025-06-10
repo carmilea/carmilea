@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon says deploying Marines and National Guard to LA will cost $134M](https://apnews.com/live/immigration-protests-los-angeles-6-10-2025)
+- [Launch HN: Vassar Robotics &lpar;YC X25&rpar; – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+- [Android 16 Is Here](https://blog.google/products/android/android-16/)
 - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
 - [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
 - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
-- [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
