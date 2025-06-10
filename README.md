@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
 - [Onlook &lpar;YC W25&rpar; Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
 - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 - [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
-- [Micrographia &lpar;1665&rpar; [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
