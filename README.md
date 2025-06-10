@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
 - [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
 - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
+- [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 - [Launch HN: BitBoard &lpar;YC X25&rpar; – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
-- [Dubious Math in Infinite Jest &lpar;2009&rpar;](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
-- [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
