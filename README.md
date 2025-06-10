@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
+- [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 - [Launch HN: BitBoard &lpar;YC X25&rpar; – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
-- [Intentional math errors in David Foster Wallace&#39;s work &lpar;2009&rpar;](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
+- [Dubious Math in Infinite Jest &lpar;2009&rpar;](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
-- [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
-- [Plato got virtually everything wrong &lpar;2018&rpar;](https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
