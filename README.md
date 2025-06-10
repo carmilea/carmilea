@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
+- [Another Crack in the Chain of Trust: Uncovering &lpar;Yet Another&rpar; Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
 - [Launch HN: Vassar Robotics &lpar;YC X25&rpar; – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-- [Android 16 Is Here](https://blog.google/products/android/android-16/)
-- [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
-- [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
-- [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
+- [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
+- [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
