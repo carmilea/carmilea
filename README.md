@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing DOES&gt; in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+- [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
+- [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-- [Google battling &#39;fox infestation&#39; on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
-- [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
-- [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
-- [Container: Apple&#39;s Linux-Container Runtime](https://github.com/apple/container)
+- [The Xerox Alto, Smalltalk, and Rewriting a Running GUI &lpar;2017&rpar;](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
