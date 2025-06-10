@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart People Don&#39;t Chase Goals; They Create Limits](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
+- [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
+- [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
+- [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
 - [Micrographia &lpar;1665&rpar; [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
-- [Apple has announced its final version of macOS for Intel](https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/)
-- [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
