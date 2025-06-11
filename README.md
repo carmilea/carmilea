@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
+- [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)
+- [OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots](https://openplanetdata.com)
 - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
-- [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
 - [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
-- [Firefox OS&#39;s story from a Mozilla insider not working on the project &lpar;2024&rpar;](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
-- [Show HN: DIY virtual HDMI monitor using &quot;AR&quot; glasses](https://github.com/mgschwan/viture_virtual_display)
 <!-- BLOG-POST-LIST:END -->
 
 ---
