@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
+- [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 - [Chatbots are replacing Google&#39;s search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
-- [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
-- [Show HN: A &quot;Course&quot; as an MCP Server](https://mastra.ai/course)
 <!-- BLOG-POST-LIST:END -->
 
 ---
