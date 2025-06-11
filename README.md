@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox OS&#39;s story from a Mozilla insider not working on the project &lpar;2024&rpar;](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
+- [Show HN: DIY virtual HDMI monitor using &quot;AR&quot; glasses](https://github.com/mgschwan/viture_virtual_display)
 - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
-- [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 - [Left-Pad &lpar;2024&rpar;](https://azerkoculu.com/posts/left-pad)
 - [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
-- [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
