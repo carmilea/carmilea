@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drawing on Tradition: Elena Izcue&#39;s Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
 - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
 - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
-- [Mapbox Geospatial MCP Server](https://github.com/mapbox/mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
