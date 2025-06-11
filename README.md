@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
+- [Institutional Books: A 242B token dataset from Harvard Library&#39;s collections](https://arxiv.org/abs/2506.08300)
 - [Shaped &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
-- [Open source TTS by Resemble &lpar;claiming they are sota&rpar;](https://github.com/resemble-ai/chatterbox)
+- [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
-- [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
-- [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
