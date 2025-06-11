@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
 - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 - [Left-Pad &lpar;2024&rpar;](https://azerkoculu.com/posts/left-pad)
+- [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
 - [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-- [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
-- [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
