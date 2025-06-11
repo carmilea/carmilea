@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
-- [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)
-- [OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots](https://openplanetdata.com)
-- [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
-- [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
+- [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
+- [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
+- [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
+- [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
+- [Mapbox Geospatial MCP Server](https://github.com/mapbox/mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
