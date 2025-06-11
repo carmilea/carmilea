@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drawing on Tradition: Elena Izcue&#39;s Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
-- [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
-- [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
-- [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
-- [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
+- [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
+- [The Beach Boys&#39; Brian Wilson Dies at 82](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
+- [Markdown Ninja: markdown-first CMS for bloggers, minimalists and startups.](https://github.com/bloom42/markdown-ninja)
+- [Dolly Parton&#39;s Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
+- [Medical Aid in Dying, My Health, and So On](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
