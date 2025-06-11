@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
-- [The Beach Boys&#39; Brian Wilson Dies at 82](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
+- [Brian Wilson has died](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
 - [Markdown Ninja: markdown-first CMS for bloggers, minimalists and startups.](https://github.com/bloom42/markdown-ninja)
 - [Dolly Parton&#39;s Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
-- [Medical Aid in Dying, My Health, and So On](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)
+- [Medical aid in dying, my health, and so on](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
