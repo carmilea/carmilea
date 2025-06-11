@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Left-Pad &lpar;2024&rpar;](https://azerkoculu.com/posts/left-pad)
 - [Why Koreans ask what year you were born](https://bryanhogan.com/blog/korean-age)
 - [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
-- [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 <!-- BLOG-POST-LIST:END -->
 
 ---
