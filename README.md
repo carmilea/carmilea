@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
+- [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
+- [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
 - [Firefox OS&#39;s story from a Mozilla insider not working on the project &lpar;2024&rpar;](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 - [Show HN: DIY virtual HDMI monitor using &quot;AR&quot; glasses](https://github.com/mgschwan/viture_virtual_display)
-- [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
-- [Left-Pad &lpar;2024&rpar;](https://azerkoculu.com/posts/left-pad)
-- [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
