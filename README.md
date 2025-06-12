@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with AI Welfare](https://substack.com/home/post/p-165615548)
+- [VisionOS 26 keeps pushing Apple&#39;s newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)
+- [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
+- [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
 - [GauntletAI &lpar;YC S17&rpar;: All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
-- [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
-- [Brazil&#39;s Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)
-- [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
-- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
