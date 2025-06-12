@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The curse of Toumaï: an ancient skull and a bitter feud over humanity&#39;s origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
 - [Roundtable &lpar;YC S23&rpar; Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 - [Frequent reauth doesn&#39;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
 - [Emulating an iPhone in QEMU &lpar;Part 2&rpar;](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)
-- [Cloudflare was down](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
