@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS4EU, an EU-based DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
+- [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
 - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
-- [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
-- [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
