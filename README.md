@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [GauntletAI &lpar;YC S17&rpar;: All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
 - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
-- [My Mac contacted 63 different Apple owned domains in an hour, while not is use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
+- [Brazil&#39;s Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)
 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 <!-- BLOG-POST-LIST:END -->
