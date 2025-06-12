@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roundtable &lpar;YC S23&rpar; Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
+- [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 - [Frequent reauth doesn&#39;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
-- [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
-- [GCP Outage](https://status.cloud.google.com/)
-- [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
-- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
+- [Emulating an iPhone in QEMU &lpar;Part 2&rpar;](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)
+- [Cloudflare was down](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
