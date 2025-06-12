@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)
-- [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
-- [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
+- [GauntletAI &lpar;YC S17&rpar;: All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
+- [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
+- [My Mac contacted 63 different Apple owned domains in an hour, while not is use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
-- [Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report](https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615)
+- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
