@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with AI Welfare](https://substack.com/home/post/p-165615548)
+- [Waymo rides cost more than Uber or Lyft – and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 - [VisionOS 26 keeps pushing Apple&#39;s newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)
 - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
 - [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
