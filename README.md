@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
+- [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 - [In case of emergency, break glass](https://morrick.me/archives/10048)
-- [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
-- [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
