@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The first big AI disaster is yet to happen](https://www.seangoedecke.com/the-first-big-ai-disaster/)
-- [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
-- [Institutional Books: A 242B token dataset from Harvard Library&#39;s collections](https://arxiv.org/abs/2506.08300)
-- [Shaped &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
-- [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
+- [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
+- [How Microsoft Office Moved from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
+- [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
+- [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
+- [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
