@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
+- [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
 - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
-- [How Microsoft Office Moved from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
 - [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
-- [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
