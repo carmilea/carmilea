@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
+- [Google Pixels are no longer the AOSP reference device](https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/)
+- [Y Combinator startup Sorcerer raises $3.9M to launch more weather balloons](https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons)
 - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 - [US-backed Israeli company&#39;s spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
-- [You can now legally walk with drinks on SF&#39;s Valencia St](https://missionlocal.org/2025/06/valencia-drinking-san-francisco/)
-- [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
-- [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
