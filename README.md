@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SchemeFlow &lpar;YC S24&rpar; Is Hiring a Founding Engineer &lpar;London&rpar; to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
+- [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
 - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
-- [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
-- [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
-- [In case of emergency, break glass](https://morrick.me/archives/10048)
+- [Navy backs right to repair after $13B carrier goes half-fed](https://www.theregister.com/2025/06/11/us_navy_repair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
