@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
+- [Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report](https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615)
+- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 - [SchemeFlow &lpar;YC S24&rpar; Is Hiring a Founding Engineer &lpar;London&rpar; to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
 - [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
-- [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
-- [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
-- [Navy backs right to repair after $13B carrier goes half-fed](https://www.theregister.com/2025/06/11/us_navy_repair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
