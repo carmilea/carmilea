@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
+- [Firebase Global Outage](https://status.firebase.google.com/)
+- [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 - [Spaceballs 2 Will See Rick Moranis Return as Dark Helmet](https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer)
 - [NPM: Issues with package install, package publish, and login](https://status.npmjs.org/incidents/dn5mcp85737y)
-- [GCP Outage](https://status.cloud.google.com/)
-- [NASA Is Worth Saving](https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/)
-- [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
