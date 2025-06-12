@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)
+- [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
+- [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 - [Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report](https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615)
-- [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
-- [SchemeFlow &lpar;YC S24&rpar; Is Hiring a Founding Engineer &lpar;London&rpar; to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
-- [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
