@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Convinced HP&#39;s Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
+- [Using computers more freely and safely &lpar;2023&rpar;](https://akkartik.name/freewheeling/)
 - [When random people give money to random other people &lpar;2017&rpar;](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
 - [The Hat, the Spectre and SAT Solvers &lpar;2024&rpar;](https://www.nhatcher.com/post/on-hats-and-sats/)
 - [Luxe Game Engine](https://luxeengine.com/)
-- [“Fast and Furious”: SingleStore Earns Top Rated Status From TrustRadius in Five Categories](https://www.singlestore.com/blog/singlestore-earns-top-rated-status-from-trustradius)
-- [100 years of Zermelo&#39;s axiom of choice: What was the problem with it? &lpar;2006&rpar;](https://research.mietek.io/mi.MartinLof2006.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
