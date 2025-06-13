@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
-- [Show HN: qrkey - Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
-- [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
-- [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
-- [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
+- [The Hat, the Spectre and SAT Solvers &lpar;2024&rpar;](https://www.nhatcher.com/post/on-hats-and-sats/)
+- [Luxe Game Engine](https://luxeengine.com/)
+- [“Fast and Furious”: SingleStore Earns Top Rated Status From TrustRadius in Five Categories](https://www.singlestore.com/blog/singlestore-earns-top-rated-status-from-trustradius)
+- [100 years of Zermelo&#39;s axiom of choice: What was the problem with it? &lpar;2006&rpar;](https://research.mietek.io/mi.MartinLof2006.html)
+- [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
