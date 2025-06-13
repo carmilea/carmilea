@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
-- [Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model](https://www.parseable.com/blog/zero-shot-forecasting)
+- [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
 - [Rendering Crispy Text on the GPU](https://osor.io/text)
 - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 <!-- BLOG-POST-LIST:END -->
