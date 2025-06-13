@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Convinced HP&#39;s Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
+- [Simulink &lpar;Matlab&rpar; Copilot](https://github.com/Kaamuli/Bloxi)
+- [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
+- [I convinced HP&#39;s board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 - [Using computers more freely and safely &lpar;2023&rpar;](https://akkartik.name/freewheeling/)
 - [When random people give money to random other people &lpar;2017&rpar;](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
-- [The Hat, the Spectre and SAT Solvers &lpar;2024&rpar;](https://www.nhatcher.com/post/on-hats-and-sats/)
-- [Luxe Game Engine](https://luxeengine.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
