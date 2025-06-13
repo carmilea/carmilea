@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Hat, the Spectre and SAT Solvers &lpar;2024&rpar;](https://www.nhatcher.com/post/on-hats-and-sats/)
 - [Luxe Game Engine](https://luxeengine.com/)
+- [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)
 - [“Fast and Furious”: SingleStore Earns Top Rated Status From TrustRadius in Five Categories](https://www.singlestore.com/blog/singlestore-earns-top-rated-status-from-trustradius)
 - [100 years of Zermelo&#39;s axiom of choice: What was the problem with it? &lpar;2006&rpar;](https://research.mietek.io/mi.MartinLof2006.html)
-- [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
