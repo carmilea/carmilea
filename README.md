@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mumps &lpar;Programming Language&rpar;](https://en.wikipedia.org/wiki/MUMPS)
+- [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
 - [Apple&#39;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
 - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 - [Simulink &lpar;Matlab&rpar; Copilot](https://github.com/Kaamuli/Bloxi)
-- [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
-- [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
