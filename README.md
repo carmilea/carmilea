@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
+- [Show HN: qrkey - Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
+- [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
+- [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
-- [Kyber &lpar;YC W23&rpar; Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
-- [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
-- [The European public DNS that makes your Internet safer](https://www.dns0.eu)
-- [If the moon were only 1 pixel: A tediously accurate solar system model &lpar;2014&rpar;](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
