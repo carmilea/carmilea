@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mumps &lpar;Programming Language&rpar;](https://en.wikipedia.org/wiki/MUMPS)
-- [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
+- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+- [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
+- [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 - [Apple&#39;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
 - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
-- [Simulink &lpar;Matlab&rpar; Copilot](https://github.com/Kaamuli/Bloxi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
