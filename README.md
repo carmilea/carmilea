@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
+- [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 - [Simulink &lpar;Matlab&rpar; Copilot](https://github.com/Kaamuli/Bloxi)
-- [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
-- [I convinced HP&#39;s board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
-- [Using computers more freely and safely &lpar;2023&rpar;](https://akkartik.name/freewheeling/)
-- [When random people give money to random other people &lpar;2017&rpar;](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
+- [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
+- [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
