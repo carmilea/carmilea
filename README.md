@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 - [Kyber &lpar;YC W23&rpar; Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
 - [The European public DNS that makes your Internet safer](https://www.dns0.eu)
 - [If the moon were only 1 pixel: A tediously accurate solar system model &lpar;2014&rpar;](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
