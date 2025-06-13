@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Monitoring AI Model Performance &amp; Drift in Driverless AI | Real-Time Insights &amp; Automation](https://www.youtube.com/watch?v=9PxDelgBPIc)
 - [Managing the Full AI Model Lifecycle with H2O | Automation, Retraining &amp; Deployment](https://www.youtube.com/watch?v=eimV5AN7ZSg)
 - [Building Robust RAG Systems with LangChain &amp; LlamaIndex](https://www.youtube.com/watch?v=T04AA_hhOsw)
 - [Deploying AI Models with H2O MLOps | Scalable &amp; Flexible Deployment Strategies](https://www.youtube.com/watch?v=eym2k_fR0VM)
 - [[Panel Recording] Turning AI Strategy into Results for Financial Institutions](https://www.youtube.com/watch?v=8bknYjUkLf4)
-- [Interpreting AI Models in Driverless AI | Fairness, Sensitivity &amp; Model Transparency](https://www.youtube.com/watch?v=oXgbPu2qNVQ)
 <!-- YOUTUBE:END -->
 
 
