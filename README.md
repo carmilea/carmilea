@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If the moon were only 1 pixel: A tediously accurate solar system model](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
+- [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
+- [The European public DNS that makes your Internet safer](https://www.dns0.eu)
+- [If the moon were only 1 pixel: A tediously accurate solar system model &lpar;2014&rpar;](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
-- [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
-- [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
-- [Rendering Crispy Text on the GPU](https://osor.io/text)
 <!-- BLOG-POST-LIST:END -->
 
 ---
