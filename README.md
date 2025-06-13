@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+- [The Emperor&#39;s New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
+- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years &lpar;2022&rpar;](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 - [Apple&#39;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
-- [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 <!-- BLOG-POST-LIST:END -->
 
 ---
