@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Builder.ai did not &quot;fake AI with 700 engineers&quot;](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/)
 - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
 - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
 - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
+- [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
