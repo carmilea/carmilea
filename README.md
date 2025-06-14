@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you teach your kids about AI?](https://news.ycombinator.com/item?id=44276552)
+- [What Is Open Source?](https://werd.io/what-is-open-source/)
+- [Inside the Apollo &quot;8-Ball&quot; FDAI &lpar;Flight Director / Attitude Indicator&rpar;](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 - [Solidroad &lpar;YC W25&rpar; Is Hiring](https://solidroad.com/careers)
-- [Model Once, Represent Everywhere: UDA &lpar;Unified Data Architecture&rpar; at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
