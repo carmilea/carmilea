@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Exploring the Amiga&quot; blog series &lpar;2018&rpar;](https://www.thedigitalcatonline.com/categories/amiga/)
+- [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 - [Solidroad &lpar;YC W25&rpar; Is Hiring](https://solidroad.com/careers)
 - [Model Once, Represent Everywhere: UDA &lpar;Unified Data Architecture&rpar; at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
 - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
-- [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
-- [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 <!-- BLOG-POST-LIST:END -->
 
 ---
