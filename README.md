@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drones will realize the promise of suicide terrorism](https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise)
+- [Self-driving company Waymo&#39;s market share in San Francisco exceeds Lyft&#39;s](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 - [Inside the Apollo &quot;8-Ball&quot; FDAI &lpar;Flight Director / Attitude Indicator&rpar;](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
-- [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
-- [Solidroad &lpar;YC W25&rpar; Is Hiring](https://solidroad.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
