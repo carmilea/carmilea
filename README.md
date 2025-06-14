@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Study of the Winston Red: The Smithsonian&#39;s New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
-- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years &lpar;2022&rpar;](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
-- [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
-- [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
-- [Apple&#39;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
+- [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
+- [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
+- [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
+- [The Tech Job Meltdown](https://www.professoraxelrod.com/p/the-tech-job-meltdown)
+- [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
