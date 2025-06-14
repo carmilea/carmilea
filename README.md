@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven replies to the viral Apple reasoning paper – and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
 - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
-- [Waymo&#39;s market share in San Francisco exceeds Lyft&#39;s](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 - [Inside the Apollo &quot;8-Ball&quot; FDAI &lpar;Flight Director / Attitude Indicator&rpar;](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
