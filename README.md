@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Open Source?](https://werd.io/what-is-open-source/)
+- [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 - [Inside the Apollo &quot;8-Ball&quot; FDAI &lpar;Flight Director / Attitude Indicator&rpar;](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
