@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
-- [For All That Is Good About Humankind, Ban Smartphones](https://jacobin.com/2025/06/ban-smartphones-tech-society/)
 - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
-- [Building a WordPress MCP Server for Claude: Automating Blog Posts with AI](https://val.demar.in/2025/06/building-a-wordpress-mcp-server-for-claude-automating-blog-posts-with-ai/)
+- [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 - [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
+- [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
