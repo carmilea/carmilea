@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solidroad &lpar;YC W25&rpar; Is Hiring](https://solidroad.com/careers)
+- [Model Once, Represent Everywhere: UDA &lpar;Unified Data Architecture&rpar; at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
 - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
-- [How to Write the Worst Possible Python Code &lpar;Humor&rpar;](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
-- [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
-- [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
+- [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 <!-- BLOG-POST-LIST:END -->
 
 ---
