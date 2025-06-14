@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
 - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
-- [What is systems programming, really? &lpar;2018&rpar;](https://willcrichton.net/notes/systems-programming/)
 - [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
 - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
+- [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
