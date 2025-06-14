@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
-- [Self-driving company Waymo&#39;s market share in San Francisco exceeds Lyft&#39;s](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
+- [Waymo&#39;s market share in San Francisco exceeds Lyft&#39;s](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 - [Inside the Apollo &quot;8-Ball&quot; FDAI &lpar;Flight Director / Attitude Indicator&rpar;](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
