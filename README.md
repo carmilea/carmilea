@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 - [&quot;Exploring the Amiga&quot; blog series &lpar;2018&rpar;](https://www.thedigitalcatonline.com/categories/amiga/)
 - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 - [Solidroad &lpar;YC W25&rpar; Is Hiring](https://solidroad.com/careers)
 - [Model Once, Represent Everywhere: UDA &lpar;Unified Data Architecture&rpar; at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
-- [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
