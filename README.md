@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Emperor&#39;s New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
+- [A Study of the Winston Red: The Smithsonian&#39;s New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
 - [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years &lpar;2022&rpar;](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
