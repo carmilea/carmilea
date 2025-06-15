@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why it&#39;s nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
-- [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
+- [David Attenborough at 99: &#39;I will not see how the story ends&#39;](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
+- [It’s nearly impossible to buy an original Bob Ross painting &lpar;2021&rpar;](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
+- [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
-- [Show HN: Pipo360 – Generate production-ready back end APIs in 60 seconds with AI](https://pipo360.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
