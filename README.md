@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grandson of John Tylor, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
+- [Show HN: Tikt.com – Remove the &quot;OK&quot; from TikTok URL&#39;s to Download as MP3 or MP4](https://tikt.com/)
+- [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
-- [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
-- [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
-- [Datalog in miniKanren](https://deosjr.github.io/dynamicland/datalog.html)
-- [Red Hat Linux in 1998 &lpar;2009&rpar;](https://linuxgazette.net/165/laycock.html)
+- [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
