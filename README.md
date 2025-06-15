@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
+- [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
 - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
-- [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
-- [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
-- [FAA pick has claimed &#39;commercial&#39; pilot license he doesn&#39;t have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
-- [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
+- [Datalog in miniKanren](https://deosjr.github.io/dynamicland/datalog.html)
+- [Red Hat Linux in 1998 &lpar;2009&rpar;](https://linuxgazette.net/165/laycock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
