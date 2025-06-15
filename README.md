@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large language models often know when they are being evaluated](https://arxiv.org/abs/2505.23836)
+- [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+- [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
 - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
-- [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
