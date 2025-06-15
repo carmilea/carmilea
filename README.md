@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+- [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
 - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
-- [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
 <!-- BLOG-POST-LIST:END -->
