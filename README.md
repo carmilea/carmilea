@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why sperm is still so mysterious](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
+- [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
+- [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
+- [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)
 - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
-- [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
-- [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
-- [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
-- [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
