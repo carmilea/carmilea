@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
+- [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
+- [An origin trial for a new HTML &lt;permission&gt; element](https://developer.chrome.com/blog/permission-element-origin-trial)
+- [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
+- [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
 - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
-- [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
-- [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
-- [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
