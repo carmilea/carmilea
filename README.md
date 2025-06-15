@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo&#39;s features](https://github.com/AI314159/Seastar)
-- [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
-- [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
-- [Show HN: Tikt.com – Remove the &quot;OK&quot; from TikTok URL&#39;s to Download as MP3 or MP4](https://tikt.com/)
-- [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
+- [Why it&#39;s nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
+- [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
+- [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
+- [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
+- [Show HN: Pipo360 – Generate production-ready back end APIs in 60 seconds with AI](https://pipo360.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
