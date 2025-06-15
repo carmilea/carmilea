@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
+- [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
+- [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
+- [FAA pick has claimed &#39;commercial&#39; pilot license he doesn&#39;t have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
 - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
-- [That &#39;unsubscribe&#39; button may be a scam](https://www.popsci.com/technology/email-unsubscribe-scam/)
-- [The Keyset](https://dougengelbart.org/content/view/273/)
-- [Canyon.mid](https://canyonmid.com/)
-- [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
