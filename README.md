@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grandson of John Tyler, 10th President of the US, Died Last Month at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
+- [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo&#39;s features](https://github.com/AI314159/Seastar)
+- [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
+- [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 - [Show HN: Tikt.com – Remove the &quot;OK&quot; from TikTok URL&#39;s to Download as MP3 or MP4](https://tikt.com/)
 - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
-- [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
-- [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
