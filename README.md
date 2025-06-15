@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
+- [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 - [An origin trial for a new HTML &lt;permission&gt; element](https://developer.chrome.com/blog/permission-element-origin-trial)
 - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
-- [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
-- [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
