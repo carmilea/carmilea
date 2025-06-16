@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 - [Sincerity Wins the War](https://www.wheresyoured.at/sic/)
 - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
 - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
-- [Income Inequality Depresses Support for Higher Minimum Wages [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001772.pdf)
-- [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+- [Object personification in autism: This paper will be sad if you don&#39;t read &lpar;2018&rpar;](https://pubmed.ncbi.nlm.nih.gov/30101594/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
