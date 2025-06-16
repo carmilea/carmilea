@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hewlett-Packard Archive](https://hparchive.com)
+- [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 - [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
 - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 - [Let&#39;s Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
-- [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
-- [David Attenborough at 99: &#39;I will not see how the story ends&#39;](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
