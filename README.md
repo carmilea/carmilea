@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
+- [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
+- [Object personification in autism: This paper will be sad if you don&#39;t read &lpar;2018&rpar;](https://pubmed.ncbi.nlm.nih.gov/30101594/)
 - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
-- [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
-- [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
-- [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
-- [Salesforce study finds LLM agents flunk CRM and confidentiality tests](https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/)
+- [Goodbye Dark, Inc. – Welcome Darklang, Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
