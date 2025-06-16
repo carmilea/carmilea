@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
+- [Infracost &lpar;YC W21&rpar; is hiring software engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.io/join-the-team)
 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
-- [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
+- [Nanonets-OCR-s – OCR model that transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
 - [The Hewlett-Packard Archive](https://hparchive.com)
-- [Why Claude&#39;s Comment Paper Is a Poor Rebuttal](https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/)
+- [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
