@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
+- [Nanonets-OCR-s – OCR model transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
+- [Nesdev.org](https://www.nesdev.org/)
 - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
 - [The Hewlett-Packard Archive](https://hparchive.com)
 - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
-- [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
