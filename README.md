@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
+- [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
 - [Transparent peer review to be extended to all of Nature&#39;s research papers](https://www.nature.com/articles/d41586-025-01880-9)
 - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
 - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
-- [The Members of the Dull Men&#39;s Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
-- [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
