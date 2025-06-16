@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
 - [The Hewlett-Packard Archive](https://hparchive.com)
 - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
-- [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
+- [Reinventing circuit breakers with supercritical CO2](https://spectrum.ieee.org/sf6-gas-replacement)
 - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
-- [Let&#39;s Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
 <!-- BLOG-POST-LIST:END -->
 
 ---
