@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [League of Professional System Administrators Board to Dissolve Organization](https://lopsa.org/blog/13510205)
+- [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
+- [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
+- [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
 - [David Attenborough at 99: &#39;I will not see how the story ends&#39;](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
-- [It’s nearly impossible to buy an original Bob Ross painting &lpar;2021&rpar;](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
-- [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
-- [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
-- [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
