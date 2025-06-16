@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
+- [Blaze &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
+- [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
+- [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
+- [Retrobootstrapping Rust for some reason](https://graydon2.dreamwidth.org/317484.html)
 - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
-- [Transparent peer review to be extended to all of Nature&#39;s research papers](https://www.nature.com/articles/d41586-025-01880-9)
-- [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
-- [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
