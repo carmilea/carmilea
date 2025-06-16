@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 - [Nanonets-OCR-s – OCR model transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
-- [Nesdev.org](https://www.nesdev.org/)
+- [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
 - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
 - [The Hewlett-Packard Archive](https://hparchive.com)
-- [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
