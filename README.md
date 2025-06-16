@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transparent peer review to be extended to all of Nature&#39;s research papers](https://www.nature.com/articles/d41586-025-01880-9)
+- [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
+- [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
+- [The Members of the Dull Men&#39;s Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
 - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
-- [Sincerity Wins the War](https://www.wheresyoured.at/sic/)
-- [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
-- [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
-- [Object personification in autism: This paper will be sad if you don&#39;t read &lpar;2018&rpar;](https://pubmed.ncbi.nlm.nih.gov/30101594/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
