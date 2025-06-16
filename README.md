@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+- [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
+- [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
+- [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
 - [Salesforce study finds LLM agents flunk CRM and confidentiality tests](https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/)
-- [Working on databases from prison](https://turso.tech/blog/working-on-databases-from-prison)
-- [Infracost &lpar;YC W21&rpar; is hiring software engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.io/join-the-team)
-- [Show HN: Socket-call – Call socket.io events like normal JavaScript functions](https://github.com/bperel/socket-call)
-- [How the BIC Cristal ballpoint pen became ubiquitous](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
