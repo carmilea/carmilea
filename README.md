@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on databases from prison: How I got here pt. 2](https://turso.tech/blog/working-on-databases-from-prison)
 - [Infracost &lpar;YC W21&rpar; is hiring software engineers &lpar;GMT+2 to GMT-6&rpar;](https://infracost.io/join-the-team)
+- [Show HN: Socket-call – Call socket.io events like normal JavaScript functions](https://github.com/bperel/socket-call)
 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 - [Nanonets-OCR-s – OCR model that transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
-- [The Hewlett-Packard Archive](https://hparchive.com)
-- [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
