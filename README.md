@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 - [Blaze &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
 - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
 - [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
-- [Retrobootstrapping Rust for some reason](https://graydon2.dreamwidth.org/317484.html)
-- [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
+- [Denmark tests unmanned robotic sailboat fleet](https://apnews.com/article/denmark-robot-sailboats-baltic-sea-bfa31c98cf7c93320115c0ad0e6908c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
