@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
-- [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
-- [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
 - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
+- [The Hewlett-Packard Archive](https://hparchive.com)
+- [Why Claude&#39;s Comment Paper Is a Poor Rebuttal](https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
