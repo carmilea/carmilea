@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+- [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
+- [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
 - [The Hewlett-Packard Archive](https://hparchive.com)
+- [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
-- [Reinventing circuit breakers with supercritical CO2](https://spectrum.ieee.org/sf6-gas-replacement)
-- [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
