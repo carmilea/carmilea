@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Western Oil: the US/UK-Backed Iranian Coup D&#39;état of 1953](https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat)
+- [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
-- [Why JPEGs Still Rule the Web After 30 Years](https://spectrum.ieee.org/jpeg-image-format-history)
-- [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
-- [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
-- [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
+- [Why JPEGs Still Rule the Web After 30 Years &lpar;2024&rpar;](https://spectrum.ieee.org/jpeg-image-format-history)
+- [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
