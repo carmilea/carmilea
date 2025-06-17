@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
+- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
+- [AI will shrink Amazon&#39;s workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
+- [Bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
 - [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
-- [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
-- [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
-- [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
-- [OpenAI weighs &quot;nuclear option&quot; of antitrust complaint against Microsoft](https://arstechnica.com/ai/2025/06/openai-weighs-nuclear-option-of-antitrust-complaint-against-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
