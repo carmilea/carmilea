@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
 - [William Langewiesche, the &#39;Steve McQueen of Journalism,&#39; Dies at 70](https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html)
-- [Finland warms up the world&#39;s largest sand battery, the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/)
 - [The Humble Programmer &lpar;1972&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
 - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
