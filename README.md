@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bots are overwhelming websites with their hunger for AI data](https://www.theregister.com/2025/06/17/bot_overwhelming_websites_report/)
 - [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 - [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
-- [AI will shrink Amazon&#39;s workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
-- [Bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
-- [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
+- [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
+- [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
