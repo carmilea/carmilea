@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
-- [Google aims to reinvent email with Wave &lpar;2009&rpar;](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
-- [AI threatens to raid the water reserves of Europe&#39;s driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
-- [&quot;Microsoft Locked My Account – I Lost 30 Years of Photos and Work&quot;](https://old.reddit.com/r/pcmasterrace/comments/1ldef4p/microsoft_locked_my_account_i_lost_30_years_of/)
-- [Threat in Your Medicine Cabinet: The FDA&#39;s Gamble on America&#39;s Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
+- [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
+- [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
+- [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
+- [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+- [BMW ConnectedDrive lets me control my returned rental car &lpar;Sixt&rpar;](https://news.ycombinator.com/item?id=44296237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
