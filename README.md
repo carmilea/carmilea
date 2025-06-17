@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Hello](https://nohello.net/en/)
 - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
 - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
-- [Fun with Telnet](https://brandonrozek.com/blog/fun-with-telnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
