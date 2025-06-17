@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
-- [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
-- [The Humble Programmer &lpar;1972&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
-- [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
+- [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+- [Fun with Telnet](https://brandonrozek.com/blog/fun-with-telnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
