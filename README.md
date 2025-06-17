@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
+- [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
+- [Why JPEGs Still Rule the Web After 30 Years](https://spectrum.ieee.org/jpeg-image-format-history)
+- [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
+- [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
 - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
-- [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
-- [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
-- [BMW ConnectedDrive lets me control my returned rental car &lpar;Sixt&rpar;](https://news.ycombinator.com/item?id=44296237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
