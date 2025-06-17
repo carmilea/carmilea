@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Hello](https://nohello.net/en/)
-- [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
-- [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
-- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
-- [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+- [Is documentation like pineapple on pizza?](https://techleadtoolkit.substack.com/p/is-documentation-like-pineapple-on)
+- [Linux kernel WireGuard can go &#39;fast&#39; on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
+- [Hack the Planet: 90s Hacker Culture vs. Today&#39;s AI Devs](https://gizvault.com/archives/hack-the-planet)
+- [Just How Many More Successful UBI Trials Do We Need?](https://medium.com/the-no%C3%B6sphere/just-how-many-more-successful-ubi-trials-do-we-need-64ed124c7001)
+- [AI threatens to raid the water reserves of Europe&#39;s driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
