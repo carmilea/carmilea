@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bots are overwhelming websites with their hunger for AI data](https://www.theregister.com/2025/06/17/bot_overwhelming_websites_report/)
+- [How to use Prometheus to efficiently detect anomalies at scale](https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/)
+- [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)
 - [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 - [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
 - [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
-- [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
