@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Western Oil: the US/UK-Backed Iranian Coup D&#39;état of 1953](https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat)
+- [Celebrated pianist and writer Alfred Brendel dies aged 94](https://www.theguardian.com/music/2025/jun/17/celebrated-pianist-and-writer-alfred-brendel-dies-aged-94)
+- [Miscalculation by Spanish power grid operator REE contributed to blackout](https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/)
+- [We&#39;re expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
+- [Windows 10 EOL](https://solhsa.com/oldernews2025.html#WINDOWS-10-EOL)
 - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
-- [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
-- [Why JPEGs Still Rule the Web After 30 Years &lpar;2024&rpar;](https://spectrum.ieee.org/jpeg-image-format-history)
-- [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
