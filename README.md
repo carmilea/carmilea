@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrated pianist and writer Alfred Brendel dies aged 94](https://www.theguardian.com/music/2025/jun/17/celebrated-pianist-and-writer-alfred-brendel-dies-aged-94)
-- [Miscalculation by Spanish power grid operator REE contributed to blackout](https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/)
-- [We&#39;re expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
-- [Windows 10 EOL](https://solhsa.com/oldernews2025.html#WINDOWS-10-EOL)
-- [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
+- [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
+- [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
+- [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
+- [AMD&#39;s CDNA 4 Architecture Announcement – By Chester Lam](https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement)
+- [Guidelines on how to be a scientific sleuth released](https://osf.io/2kdez/wiki/home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
