@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Deal with a Bad Manager?](https://news.ycombinator.com/item?id=44294776)
+- [Finland warms up the world&#39;s largest sand battery, the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/)
+- [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
 - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
 - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
 - [Battle to eradicate invasive pythons in Florida achieves milestone](https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html)
-- [DRM Can Watch You Too: Privacy Effects of Browsers&#39; Widevine EME &lpar;2023&rpar;](https://hal.science/hal-04179324v1/document)
 <!-- BLOG-POST-LIST:END -->
 
 ---
