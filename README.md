@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
-- [Blaze &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
-- [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
-- [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
-- [Denmark tests unmanned robotic sailboat fleet](https://apnews.com/article/denmark-robot-sailboats-baltic-sea-bfa31c98cf7c93320115c0ad0e6908c5)
+- [Ask HN: How to Deal with a Bad Manager?](https://news.ycombinator.com/item?id=44294776)
+- [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
+- [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+- [Battle to eradicate invasive pythons in Florida achieves milestone](https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html)
+- [DRM Can Watch You Too: Privacy Effects of Browsers&#39; Widevine EME &lpar;2023&rpar;](https://hal.science/hal-04179324v1/document)
 <!-- BLOG-POST-LIST:END -->
 
 ---
