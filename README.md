@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is documentation like pineapple on pizza?](https://techleadtoolkit.substack.com/p/is-documentation-like-pineapple-on)
-- [Linux kernel WireGuard can go &#39;fast&#39; on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
-- [Hack the Planet: 90s Hacker Culture vs. Today&#39;s AI Devs](https://gizvault.com/archives/hack-the-planet)
-- [Just How Many More Successful UBI Trials Do We Need?](https://medium.com/the-no%C3%B6sphere/just-how-many-more-successful-ubi-trials-do-we-need-64ed124c7001)
+- [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
+- [Google aims to reinvent email with Wave &lpar;2009&rpar;](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
 - [AI threatens to raid the water reserves of Europe&#39;s driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
+- [&quot;Microsoft Locked My Account – I Lost 30 Years of Photos and Work&quot;](https://old.reddit.com/r/pcmasterrace/comments/1ldef4p/microsoft_locked_my_account_i_lost_30_years_of/)
+- [Threat in Your Medicine Cabinet: The FDA&#39;s Gamble on America&#39;s Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
