@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
+- [Astronomers Just Solved the Mystery of the Universe&#39;s Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
 - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
+- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 - [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
-- [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
-- [AMD&#39;s CDNA 4 Architecture Announcement – By Chester Lam](https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement)
-- [Guidelines on how to be a scientific sleuth released](https://osf.io/2kdez/wiki/home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
