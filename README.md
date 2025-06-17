@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
-- [Astronomers Just Solved the Mystery of the Universe&#39;s Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
-- [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
-- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
-- [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
+- [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
+- [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
+- [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
+- [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
+- [OpenAI weighs &quot;nuclear option&quot; of antitrust complaint against Microsoft](https://arstechnica.com/ai/2025/06/openai-weighs-nuclear-option-of-antitrust-complaint-against-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
