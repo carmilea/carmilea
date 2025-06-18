@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
+- [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
-- [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)
-- [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
-- [Framework Laptop 12: I&#39;m excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
-- [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
+- [Revisiting Minsky&#39;s Society of Mind in 2025](https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind)
+- [Building agents using streaming SQL queries](https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
