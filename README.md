@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
+- [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
+- [Which company would you prefer to join?](https://www.companymatches.com/)
 - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
-- [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
-- [OpenSERDES – Open Hardware Serializer/Deserializer &lpar;SerDes&rpar; in Verilog](https://github.com/SparcLab/OpenSERDES)
-- [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
-- [Dinesh&#39;s Mid-Summer Death Valley Walk &lpar;1998&rpar;](https://dineshdesai.info/dv/photos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
