@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PWM flicker: Invisible light that&#39;s harming our health?](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
+- [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
+- [Game Hacking – Valve Anti-Cheat &lpar;VAC&rpar;](https://codeneverdies.github.io/posts/gh-2/)
 - [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
-- [Andrej Karpathy&#39;s YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
 - [The unreasonable effectiveness of fuzzing for porting programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
-- [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
-- [My iPhone 8 Refuses to Die: Now It&#39;s a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
