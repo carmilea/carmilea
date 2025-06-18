@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Won&#39;t Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
+- [Jiga &lpar;YC W21&rpar; Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
+- [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
 - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
-- [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
-- [Benchmark: snapDOM vs html2canvas](https://zumerlab.github.io/snapdom/)
-- [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
-- [Scrappy - make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
+- [Van Gogh, AMD&#39;s Steam Deck APU &lpar;2023&rpar;](https://chipsandcheese.com/p/van-gogh-amds-steam-deck-apu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
