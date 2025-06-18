@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
-- [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
-- [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
-- [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
+- [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
+- [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)
+- [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
+- [Framework Laptop 12: I&#39;m excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
+- [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
