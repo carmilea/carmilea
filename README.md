@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
+- [Show HN: Rulebook AI – rules and memory manager for AI coding IDEs](https://github.com/botingw/rulebook-ai)
 - [Dinesh&#39;s Mid-Summer Death Valley Walk &lpar;1998&rpar;](https://dineshdesai.info/dv/photos.html)
 - [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 - [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
-- [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
-- [What Google Translate Can Tell Us About Vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
