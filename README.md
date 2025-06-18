@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [OpenSERDES – Open Hardware Serializer/Deserializer &lpar;SerDes&rpar; in Verilog](https://github.com/SparcLab/OpenSERDES)
 - [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
-- [Show HN: Rulebook AI – rules and memory manager for AI coding IDEs](https://github.com/botingw/rulebook-ai)
 - [Dinesh&#39;s Mid-Summer Death Valley Walk &lpar;1998&rpar;](https://dineshdesai.info/dv/photos.html)
 - [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
+- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
