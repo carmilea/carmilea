@@ -62,7 +62,7 @@
 - [Game Hacking – Valve Anti-Cheat &lpar;VAC&rpar;](https://codeneverdies.github.io/posts/gh-2/)
 - [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
 - [Andrej Karpathy&#39;s YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
-- [Show HN: Delve, an open source &lpar;AGPL&rpar; enterprise-grade data analytics platform](https://github.com/iLoveTux/delve)
+- [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
