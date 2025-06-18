@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
+- [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
-- [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown&lpar;LLM-ready&rpar;](https://news.ycombinator.com/from?site=github.com/ysm-dev)
 - [Benchmark: snapDOM vs html2canvas](https://zumerlab.github.io/snapdom/)
 - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
+- [Scrappy - make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
