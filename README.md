@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
-- [In Praise of &quot;Normal&quot; Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+- [In praise of &quot;normal&quot; engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 - [Why do we need DNSSEC?](https://howdnssec.works/why-do-we-need-dnssec/)
