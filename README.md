@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flowspace &lpar;YC S17&rpar; Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
+- [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
 - [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
+- [Google is using YouTube videos to train its AI video generator](https://www.cnbc.com/2025/06/19/google-youtube-ai-training-veo-3.html)
 - [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
-- [Posit floating point numbers: thin triangles and other tricks &lpar;2019&rpar;](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
-- [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
-- [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
