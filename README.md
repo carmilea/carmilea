@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Estrogen: A Trip Report](https://smoothbrains.net/posts/2025-06-15-estrogen.html)
-- [Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
+- [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
+- [In praise of “normal” engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
-- [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
