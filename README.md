@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
+- [Guess I&#39;m a Rationalist Now](https://scottaaronson.blog/?p=8908)
 - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 - [Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 - [From LLM to AI Agent: What&#39;s the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
-- [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
-- [Elliptic Curves as Art](https://elliptic-curves.art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
