@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [LLM Integration for Text Labeling | H2O Label Genie Starter Track - Part 10](https://www.youtube.com/watch?v=mW7oRioY814)
+- [Zero-Shot Labeling and Segmentation | H2O Label Genie Starter Track - Part 9](https://www.youtube.com/watch?v=HGncp-HCO9w)
+- [Exploring and Clustering Datasets | H2O Label Genie Starter Track - Part 8](https://www.youtube.com/watch?v=zQ_EX44oz1E)
 - [SingleStore Upsert: SingleStore Flow in Helios® Easy Data Transfer and CDC](https://www.youtube.com/watch?v=q1Zrmp691sQ)
 - [Self-Identifying &amp; Fixing AI Model Issues | Automated Error Handling in Driverless AI](https://www.youtube.com/watch?v=yxHHL5_L--w)
-- [Monitoring AI Model Performance &amp; Drift in Driverless AI | Real-Time Insights &amp; Automation](https://www.youtube.com/watch?v=9PxDelgBPIc)
-- [Managing the Full AI Model Lifecycle with H2O | Automation, Retraining &amp; Deployment](https://www.youtube.com/watch?v=eimV5AN7ZSg)
-- [Building Robust RAG Systems with LangChain &amp; LlamaIndex](https://www.youtube.com/watch?v=T04AA_hhOsw)
 <!-- YOUTUBE:END -->
 
 
