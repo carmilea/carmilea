@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
-- [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
-- [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
-- [PWM flicker: Invisible light that&#39;s harming our health?](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
-- [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
+- [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+- [It&#39;s true, &quot;we&quot; don&#39;t care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
+- [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
+- [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
+- [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
