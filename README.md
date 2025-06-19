@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
+- [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
 - [Posit floating point numbers: thin triangles and other tricks &lpar;2019&rpar;](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
 - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
-- [Microsoft wants you to buy a new computer. Make your current one secure again?](https://endof10.org/)
-- [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
