@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Posit floating point numbers: thin triangles and other tricks &lpar;2019&rpar;](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
+- [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
 - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
-- [Guess I&#39;m a Rationalist Now](https://scottaaronson.blog/?p=8908)
-- [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
-- [Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
-- [From LLM to AI Agent: What&#39;s the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
+- [Microsoft wants you to buy a new computer. Make your current one secure again?](https://endof10.org/)
+- [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
