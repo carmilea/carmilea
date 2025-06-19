@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
+- [TI to invest $60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
 - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
-- [It&#39;s true, &quot;we&quot; don&#39;t care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
+- [It&#39;s true, “we” don&#39;t care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
 - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
-- [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
-- [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
