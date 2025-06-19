@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guess I&#39;m a Rationalist Now](https://scottaaronson.blog/?p=8908)
-- [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)
+- [SpaceX&#39;s Starship explodes again while still on the ground](https://www.theregister.com/2025/06/19/spacexs_starship_explodes_again/)
+- [Brain activity much lower when using AI chatbots, MIT boffins find](https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/)
+- [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)
 - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
-- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
-- [From LLM to AI Agent: What&#39;s the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
+- [Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
