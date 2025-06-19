@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flowspace &lpar;YC S17&rpar; Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
-- [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
-- [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
-- [Google is using YouTube videos to train its AI video generator](https://www.cnbc.com/2025/06/19/google-youtube-ai-training-veo-3.html)
-- [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
+- [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
+- [In Praise of &quot;Normal&quot; Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+- [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
+- [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
+- [Why do we need DNSSEC?](https://howdnssec.works/why-do-we-need-dnssec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
