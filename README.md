@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twake – open-source Google Workspace alternative](https://twake.app)
+- [How to Design Programs 2nd Ed &lpar;2024&rpar;](https://htdp.org)
+- [Visualizing environmental costs of war in Hayao Miyazaki&#39;s Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
-- [Minimal auto-differentiation engine in Rust &lpar;for educational purposes&rpar;](https://github.com/e3ntity/nanograd)
-- [NASA Scientists Find Ties Between Earth&#39;s Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
-- [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
-- [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
+- [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
