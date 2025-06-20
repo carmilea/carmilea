@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
 - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
 - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
 - [Open source can&#39;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
-- [Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
