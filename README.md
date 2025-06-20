@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
-- [EU Eyes Ditching Microsoft Azure for France&#39;s OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
+- [It&#39;s True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
+- [Jürgen Schmidhuber：the Father of Generative AI Without Turing Award](http://www.jazzyear.com/article_info.html?id=1352)
 - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
-- [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
-- [New dating for White Sands footprints confirms controversial theory](https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
