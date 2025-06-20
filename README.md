@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grelling–Nelson Paradox](https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox)
+- [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)
+- [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
 - [How to Design Programs 2nd Ed &lpar;2024&rpar;](https://htdp.org)
-- [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
