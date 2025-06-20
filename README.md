@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast Rust Builds &lpar;2021&rpar;](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
+- [Our crisis is not loneliness but human beings becoming invisible](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+- [Wayland Is Growing Up. and Now We Don&#39;t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
-- [I will do anything to end homelessness except build more homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
 - [Learn Makefiles](https://makefiletutorial.com/)
-- [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
-- [Qfex &lpar;YC X25&rpar; – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
