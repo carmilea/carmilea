@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AbsenceBench: Language models can&#39;t tell what&#39;s missing](https://arxiv.org/abs/2506.11440)
+- [AMD&#39;s Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
 - [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
 - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
-- [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
-- [Harper – an open-source alternative to Grammarly](https://writewithharper.com)
-- [Smartphones: Parts of Our Minds? Or Parasites?](https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070)
+- [BYD begins testing solid-state EV batteries in the Seal](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
