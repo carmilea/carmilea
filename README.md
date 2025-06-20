@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)
+- [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
+- [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
+- [Billions of login credentials have been leaked online](https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed)
 - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
-- [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
-- [How to Design Programs 2nd Ed &lpar;2024&rpar;](https://htdp.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
