@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qfex &lpar;YC X25&rpar; – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 - [Cannabis scientists are trying to find a predictable, reliable product &lpar;2020&rpar;](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
 - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
-- [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
