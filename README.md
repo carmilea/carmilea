@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
-- [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
-- [Billions of login credentials have been leaked online](https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed)
-- [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
-- [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
+- [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
+- [EU Eyes Ditching Microsoft Azure for France&#39;s OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
+- [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
+- [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
+- [New dating for White Sands footprints confirms controversial theory](https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
