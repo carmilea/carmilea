@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
+- [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
+- [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
 - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
-- [It&#39;s True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
-- [Jürgen Schmidhuber：the Father of Generative AI Without Turing Award](http://www.jazzyear.com/article_info.html?id=1352)
-- [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
+- [Harper – an open-source alternative to Grammarly](https://writewithharper.com)
+- [Smartphones: Parts of Our Minds? Or Parasites?](https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
