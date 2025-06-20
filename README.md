@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
+- [Minimal auto-differentiation engine in Rust &lpar;for educational purposes&rpar;](https://github.com/e3ntity/nanograd)
 - [NASA Scientists Find Ties Between Earth&#39;s Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
 - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
-- [BBC threatens AI firm with legal action over unauthorised content use](https://www.bbc.co.uk/news/articles/cy7ndgylzzmo)
-- [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
