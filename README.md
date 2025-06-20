@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis scientists are trying to find a predictable, reliable product &lpar;2020&rpar;](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
-- [Missing Matter in Universe Found](https://www.caltech.edu/about/news/missing-matter-in-universe-found)
 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
+- [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
-- [Open source can&#39;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
