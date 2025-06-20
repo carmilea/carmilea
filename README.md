@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA Scientists Find Ties Between Earth&#39;s Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
+- [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
-- [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
-- [Wayland Is Growing Up. and Now We Don&#39;t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
-- [My A11y Journey](https://mjg59.dreamwidth.org/72379.html)
+- [BBC threatens AI firm with legal action over unauthorised content use](https://www.bbc.co.uk/news/articles/cy7ndgylzzmo)
+- [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
