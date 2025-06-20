@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
+- [Missing Matter in Universe Found](https://www.caltech.edu/about/news/missing-matter-in-universe-found)
 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
-- [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
 - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
 - [Open source can&#39;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
-- [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
