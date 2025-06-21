@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
 - [Behind the scenes: Redpanda Cloud&#39;s response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
 - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 - [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
-- [Show HN: MMOndrian](https://mmondrian.com/)
-- [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
