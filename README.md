@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)
+- [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
+- [Tiny Undervalued Hardware Companions &lpar;2024&rpar;](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
+- [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
+- [Learn You Galois Fields for Great Good &lpar;00&rpar;](https://xorvoid.com/galois_fields_for_great_good_00.html)
 - [AbsenceBench: Language models can&#39;t tell what&#39;s missing](https://arxiv.org/abs/2506.11440)
-- [AMD&#39;s Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
-- [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
-- [BYD begins testing solid-state EV batteries in the Seal](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
