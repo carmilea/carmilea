@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sega mistakenly reveals sales numbers popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
+- [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
-- [Signal – An Ethical Replacement for WhatsApp](https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/)
-- [The Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)
 - [Augmented Vertex Block Descent &lpar;AVBD&rpar;](https://graphics.cs.utah.edu/research/projects/avbd/)
+- [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
+- [Tiny Undervalued Hardware Companions &lpar;2024&rpar;](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
