@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple typewriter ban memo](http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html)
-- [Researchers using the same data and hypothesis arrive at different conclusions](https://www.pnas.org/doi/10.1073/pnas.2203150119)
+- [Researchers using the same data and hypothesis arrive at different conclusions &lpar;2022&rpar;](https://www.pnas.org/doi/10.1073/pnas.2203150119)
 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
+- [Show HN: To-Userscript: Chrome Extension to Userscript Converter](https://github.com/Explosion-Scratch/to-userscript)
+- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 - [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
-- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
