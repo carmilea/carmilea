@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)
 - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
-- [Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible](https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc)
 - [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
+- [A new blood type discovered in France: &quot;Gwada negative&quot;, a global exception](https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/)
+- [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
