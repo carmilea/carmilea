@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Ushering in the &#39;Tiny Team&#39; Era in Silicon Valley](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
+- [Hyprland Premium](https://account.hypr.land/pricing)
+- [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
 - [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
-- [Behind the scenes: Redpanda Cloud&#39;s response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
-- [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
-- [Show HN: MMOndrian](https://mmondrian.com/)
+- [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
