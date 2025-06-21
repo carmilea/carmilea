@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Behind the scenes: Redpanda Cloud&#39;s response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
-- [Astronomers locate universe&#39;s &#39;missing&#39; matter in the largest cosmic structures](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
 - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 - [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
+- [Show HN: MMOndrian](https://mmondrian.com/)
 - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 <!-- BLOG-POST-LIST:END -->
 
