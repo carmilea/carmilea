@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
+- [Signal – An Ethical Replacement for WhatsApp](https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/)
+- [The Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)
+- [Augmented Vertex Block Descent &lpar;AVBD&rpar;](https://graphics.cs.utah.edu/research/projects/avbd/)
 - [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
-- [Tiny Undervalued Hardware Companions &lpar;2024&rpar;](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
-- [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
-- [Learn You Galois Fields for Great Good &lpar;00&rpar;](https://xorvoid.com/galois_fields_for_great_good_00.html)
-- [AbsenceBench: Language models can&#39;t tell what&#39;s missing](https://arxiv.org/abs/2506.11440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
