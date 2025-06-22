@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
+- [Show HN: I made beautiful screenshot generator, that&#39;s free forever](https://moocup.jaydip.me/)
 - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 - [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
-- [TPU &lpar;Tensor Processing Unit&rpar; Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 <!-- BLOG-POST-LIST:END -->
 
