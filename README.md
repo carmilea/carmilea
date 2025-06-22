@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AGI is Mathematically Impossible 2: When Entropy Returns](https://philarchive.org/archive/SCHAIM-14)
+- [Show HN: A Tool to Summarize Kenya&#39;s Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
+- [Discover C++26&#39;s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 - [Show HN: Report idling vehicles in NYC &lpar;and get a cut of the fines&rpar; with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
-- [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
-- [Harry Brearley, the creator of stainless steel &lpar;2016&rpar;](https://nautil.us/the-father-of-modern-metal-235939/)
-- [Show HN: I&#39;m a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 <!-- BLOG-POST-LIST:END -->
 
 ---
