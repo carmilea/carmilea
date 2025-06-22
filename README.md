@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)
+- [Harry Brearley, the creator of stainless steel &lpar;2016&rpar;](https://nautil.us/the-father-of-modern-metal-235939/)
+- [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 - [Git Notes: Git&#39;s coolest, most unloved­ feature &lpar;2022&rpar;](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 - [Avoiding the Global Lobotomy](https://www.jdemeta.net/p/avoiding-the-global-lobotomy)
 - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
-- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
