@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
-- [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
-- [Show HN: I made beautiful screenshot generator, that&#39;s free forever](https://moocup.jaydip.me/)
-- [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
+- [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)
+- [Git Notes: Git&#39;s coolest, most unloved­ feature &lpar;2022&rpar;](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [Avoiding the Global Lobotomy](https://www.jdemeta.net/p/avoiding-the-global-lobotomy)
 - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
+- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
