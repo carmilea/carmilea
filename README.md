@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 - [Harry Brearley, the creator of stainless steel &lpar;2016&rpar;](https://nautil.us/the-father-of-modern-metal-235939/)
-- [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 - [Show HN: I&#39;m a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 - [Git Notes: Git&#39;s coolest, most unloved­ feature &lpar;2022&rpar;](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
