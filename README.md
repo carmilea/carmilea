@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
+- [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)
+- [Let&#39;s Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
 - [Show HN: A Tool to Summarize Kenya&#39;s Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
-- [Discover C++26&#39;s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 - [Show HN: Report idling vehicles in NYC &lpar;and get a cut of the fines&rpar; with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
-- [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
-- [Harry Brearley, the creator of stainless steel &lpar;2016&rpar;](https://nautil.us/the-father-of-modern-metal-235939/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
