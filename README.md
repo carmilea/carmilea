@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers using the same data and hypothesis arrive at different conclusions &lpar;2022&rpar;](https://www.pnas.org/doi/10.1073/pnas.2203150119)
+- [Don&#39;t Read This If You Have a Security Clearance &lpar;2023&rpar;](https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/)
+- [Trump says US has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
+- [See Jane 128 by Arktronics run &lpar;ft. Magic Desk, 3-Plus-1 and the Thomson MO5&rpar;](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
+- [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-- [Show HN: To-Userscript: Chrome Extension to Userscript Converter](https://github.com/Explosion-Scratch/to-userscript)
-- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
-- [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
