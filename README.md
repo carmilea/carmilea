@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
-- [Don&#39;t Read This If You Have a Security Clearance &lpar;2023&rpar;](https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/)
 - [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-- [Show HN: To-Userscript: Chrome Extension to Userscript Converter](https://github.com/Explosion-Scratch/to-userscript)
+- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
