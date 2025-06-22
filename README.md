@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
 - [TPU &lpar;Tensor Processing Unit&rpar; Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 - [U.S. bombs Iranian nuclear sites](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
