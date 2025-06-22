@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
 - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
-- [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
+- [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
 - [TPU &lpar;Tensor Processing Unit&rpar; Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 <!-- BLOG-POST-LIST:END -->
