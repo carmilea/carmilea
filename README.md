@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GOP tax bill would sell off USPS&#39;s brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
+- [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
+- [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+- [Why do all browsers&#39; user agents start with &quot;Mozilla/&quot;? &lpar;2008&rpar;](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
 - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
-- [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)
-- [Let&#39;s Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
-- [Show HN: A Tool to Summarize Kenya&#39;s Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
-- [Show HN: Report idling vehicles in NYC &lpar;and get a cut of the fines&rpar; with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 <!-- BLOG-POST-LIST:END -->
 
 ---
