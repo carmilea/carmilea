@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GOP tax bill would sell off USPS&#39;s brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
-- [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
+- [The Void IDE, Open-Source Alternative to Cursor, Released in Beta](https://www.infoq.com/news/2025/06/void-ide-beta-release/)
+- [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
 - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+- [FreeBSD Kernel Modules Pkg&lpar;8&rpar; Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
 - [Why do all browsers&#39; user agents start with &quot;Mozilla/&quot;? &lpar;2008&rpar;](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
-- [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
