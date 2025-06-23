@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Founding engineers wanted. hard problems. long hours. wealth and honor on success](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
-- [Children in England growing up &#39;sedentary, scrolling and alone&#39;, say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
-- [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
-- [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
-- [FreeBSD Kernel Modules Pkg&lpar;8&rpar; Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
+- [Optifye.ai &lpar;YC W25&rpar; – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
+- [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
+- [10 out of 12 people cured in Type 1 Diabetes Study](https://www.nejm.org/doi/full/10.1056/NEJMoa2506549)
+- [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
+- [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
