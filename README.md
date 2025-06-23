@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
 - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
 - [Introducing SingleStore Cloud Functions: Serverless Data APIs in Aura Container Service](https://www.singlestore.com/blog/introducing-singlestore-cloud-functions)
 - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
-- [A deep critique of AI 2027&#39;s bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
