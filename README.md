@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Nova Just Appeared in the Night Sky – You Can See It with the Naked Eye](https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708)
 - [LeetCode for System Design](https://leetsys.dev)
+- [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
 - [The X Window System didn&#39;t immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
-- [If you&#39;re building a JavaScript library and need logging, you would love LogTape](https://hackers.pub/@hongminhee/2025/logtape-for-libraries)
 - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
-- [Tensor Manipulation Unit &lpar;TMU&rpar;: Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
