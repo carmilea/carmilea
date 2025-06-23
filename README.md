@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
-- [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
+- [Introducing SingleStore Cloud Functions: Serverless Data APIs in Aura Container Service](https://www.singlestore.com/blog/introducing-singlestore-cloud-functions)
 - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 - [A deep critique of AI 2027&#39;s bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
