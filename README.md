@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
+- [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
+- [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 - [2B people don&#39;t have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
-- [Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O](https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/)
-- [New York to Build One of First U.S. Nuclear-Power Plants in Generation](https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33)
 - [How to store Go pointers from assembly](https://mazzo.li/posts/go-asm-pointers.html)
-- [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
