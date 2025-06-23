@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our sister died because of our mum&#39;s cancer conspiracy theories, say brothers](https://www.bbc.com/news/articles/crenzwyvpn1o)
+- [New York to Build One of First U.S. Nuclear-Power Plants in Generation](https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33)
 - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 - [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)
 - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
