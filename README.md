@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
+- [A deep critique of AI 2027&#39;s bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
+- [Judge denies creating &quot;mass surveillance program&quot; harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 - [NASA&#39;s Voyager Found a 30k-50k Kelvin &quot;Wall&quot; at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
-- [Launch HN: Reducto Studio &lpar;YC W24&rpar; – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
-- [WhatsApp banned on House staffers&#39; devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
-- [I Use My Terminal](https://jyn.dev/how-i-use-my-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
