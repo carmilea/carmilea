@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Reducto Studio &lpar;YC W24&rpar; – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
+- [WhatsApp banned on House staffers&#39; devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
 - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
-- [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
-- [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
-- [2B people don&#39;t have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
-- [How to store Go pointers from assembly](https://mazzo.li/posts/go-asm-pointers.html)
+- [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
+- [Making TRAMP go Brrrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 <!-- BLOG-POST-LIST:END -->
 
 ---
