@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 - [A deep critique of AI 2027&#39;s bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
-- [Judge denies creating &quot;mass surveillance program&quot; harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
-- [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
-- [NASA&#39;s Voyager Found a 30k-50k Kelvin &quot;Wall&quot; at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
+- [Ford Will Keep Battery Factory Even If Republicans Ax Tax Break](https://www.nytimes.com/2025/06/23/business/ford-battery-factory-electric-vehicles.html)
+- [2025 Iberia Blackout Report](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
