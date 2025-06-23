@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Officials Concede They Don&#39;t Know the Fate of Iran&#39;s Uranium Stockpile](https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html)
+- [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
+- [NASA&#39;s Voyager Found a 30k-50k Kelvin &quot;Wall&quot; at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
 - [Launch HN: Reducto Studio &lpar;YC W24&rpar; – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
-- [WhatsApp banned on House staffers&#39; devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
-- [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
-- [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
-- [Making TRAMP go Brrrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
+- [Fairphone 6 is switching to a new design that&#39;s even more sustainable](https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
