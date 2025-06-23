@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 - [OpenAI and Jony Ive&#39;s &quot;io&quot; brand has disappeared](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
 - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
-- [Show HN: Windowfied](https://news.ycombinator.com/item?id=44352831)
 - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
 <!-- BLOG-POST-LIST:END -->
 
