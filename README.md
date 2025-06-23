@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla launches robotaxi rides in Austin](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
+- [If you&#39;re building a JavaScript library and need logging, you would love LogTape](https://hackers.pub/@hongminhee/2025/logtape-for-libraries)
 - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
 - [Tensor Manipulation Unit &lpar;TMU&rpar;: Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
 - [Optifye.ai &lpar;YC W25&rpar; – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
-- [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
-- [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
