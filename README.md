@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
+- [Tensor Manipulation Unit &lpar;TMU&rpar;: Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
 - [Optifye.ai &lpar;YC W25&rpar; – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
 - [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
-- [10 out of 12 people cured in Type 1 Diabetes Study](https://www.nejm.org/doi/full/10.1056/NEJMoa2506549)
 - [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
-- [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
