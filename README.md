@@ -61,8 +61,8 @@
 - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 - [Atuin – Magical Shell History](https://atuin.sh)
 - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
-- [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
 - [The NO FAKES act has changed, and it&#39;s worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
+- [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
