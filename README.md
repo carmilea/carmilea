@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atuin – Magical Shell History](https://atuin.sh)
 - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
-- [The NO FAKES Act Has Changed – and It&#39;s So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
+- [The NO FAKES act has changed, and it&#39;s worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
 - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
-- [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
