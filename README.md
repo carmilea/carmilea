@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
-- [Atuin – Magical Shell History](https://atuin.sh)
-- [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
-- [The NO FAKES act has changed, and it&#39;s worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
-- [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
+- [Microsoft&#39;s big lie: Your computer is fine, and you don&#39;t need to buy a new one](https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/)
+- [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
+- [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
+- [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
+- [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
