@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
+- [Expand.ai &lpar;YC S24&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
+- [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
+- [Judge sides with Anthropic over training AI on books without authors&#39; permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
 - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
-- [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
-- [The United States has lower life expectancy than most similarly wealthy nations](https://www.nature.com/articles/d41586-025-01969-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
