@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 - [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
 - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
-- [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
 - [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
 <!-- BLOG-POST-LIST:END -->
 
