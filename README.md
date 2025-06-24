@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
-- [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
-- [Introducing SingleStore Cloud Functions: Serverless Data APIs in Aura Container Service](https://www.singlestore.com/blog/introducing-singlestore-cloud-functions)
-- [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
-- [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
+- [Tesla Robotaxi drops rider in the middle of the intersection and just sits there](https://twitter.com/ValueAnalyst1/status/1937241884570566991)
+- [Marijuana is associated with higher risk of heart attack and stroke](https://www.nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html)
+- [Marble Blast](https://marbleblast.vaniverse.io/)
+- [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
+- [U.S. Chemical Safety Board Could be Eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
