@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s big lie: Your computer is fine, and you don&#39;t need to buy a new one](https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/)
+- [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+- [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
 - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
 - [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
 - [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
-- [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
