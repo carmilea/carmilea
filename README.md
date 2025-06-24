@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard hired researcher to uncover slavery ties, fires him for finding slaves](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
+- [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
+- [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
+- [The NO FAKES Act Has Changed – and It&#39;s So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
 - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
-- [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
 - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
-- [Marble Blast](https://marbleblast.vaniverse.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
