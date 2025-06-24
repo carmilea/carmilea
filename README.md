@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
-- [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
-- [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
-- [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
-- [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
+- [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
+- [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
+- [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
+- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
+- [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
