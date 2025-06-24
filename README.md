@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man &#39;refused entry into US&#39; as border control catch him with bald JD Vance meme](https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059)
+- [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
+- [Introducing Aura App API Keys: Secure Access Management for Your Interactive Aura Apps](https://www.singlestore.com/blog/introducing-aura-app-api-keys)
 - [Expand.ai &lpar;YC S24&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
-- [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
-- [Judge sides with Anthropic over training AI on books without authors&#39; permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
-- [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
-- [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
+- [Nvidia&#39;s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM](https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
