@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Robotaxi drops rider in the middle of the intersection and just sits there](https://twitter.com/ValueAnalyst1/status/1937241884570566991)
-- [Marijuana is associated with higher risk of heart attack and stroke](https://www.nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html)
+- [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
+- [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
+- [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
 - [Marble Blast](https://marbleblast.vaniverse.io/)
 - [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
-- [U.S. Chemical Safety Board Could be Eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
