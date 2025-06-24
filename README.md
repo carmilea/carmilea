@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
+- [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
+- [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
 - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
-- [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
-- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
-- [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
+- [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
+- [The United States has lower life expectancy than most similarly wealthy nations](https://www.nature.com/articles/d41586-025-01969-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
