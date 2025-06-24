@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
 - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
-- [Biocide overdose blunder suspected in A321 dual-engine incident &lpar;2020&rpar;](https://www.flightglobal.com/safety/biocide-overdose-blunder-suspected-in-a321-dual-engine-incident/138004.article)
 - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
+- [The economics behind &quot;Basic Economy&quot; – A masterclass in price discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
 - [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
-- [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
