@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
+- [The Economics Behind &quot;Basic Economy&quot; – A Masterclass in Price Discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
+- [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
+- [Early US Intel assessment suggests strikes on Iran did not destroy nuclear sites](https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites)
 - [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
-- [Bridging Cinematic Principles and Generative AI for Automated Film Generation](https://arxiv.org/abs/2506.18899)
-- [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
-- [My &quot;Are you presuming most people are stupid?&quot; test](https://andymasley.substack.com/p/my-are-you-presuming-most-people)
-- [Man &#39;refused entry into US&#39; as border control catch him with bald JD Vance meme](https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
