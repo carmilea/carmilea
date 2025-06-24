@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft confirms Windows 11 automatic deletions of System Restore points](https://www.forbes.com/sites/davidphelan/2025/06/23/microsoft-confirms-windows-11-automatic-deletions-take-action-now-to-protect-yourself/)
+- [Harvard hired researcher to uncover slavery ties, fires him for finding slaves](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
 - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 - [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
 - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
