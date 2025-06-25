@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fairphone &lpar;Gen. 6&rpar;](https://shop.fairphone.com/the-fairphone-gen-6)
+- [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
 - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
 - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
-- [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
-- [PicoEMP – A low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
