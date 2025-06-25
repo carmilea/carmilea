@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli/)
 - [How renewables are saving Texans billions](https://www.theclimatebrink.com/p/how-renewables-are-saving-texans)
-- [PNG Is Back](https://www.programmax.net/articles/png-is-back/)
+- [PNG is back](https://www.programmax.net/articles/png-is-back/)
 - [PicoEMP: low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
+- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
 - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
 <!-- BLOG-POST-LIST:END -->
 
