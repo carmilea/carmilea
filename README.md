@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-- [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
-- [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
-- [Yarn &lpar;YC W24&rpar; is hiring engineers in NYC](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer)
+- [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
+- [NSF getting kicked out of headquarters by HUD](https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia)
+- [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
+- [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
+- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
