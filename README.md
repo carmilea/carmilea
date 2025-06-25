@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
-- [Kid gamers to adult gamblers? Investigation of childhood gaming and YA gambling](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2488867)
-- [Third places and neighborhood enterpenuership: Evidence from Starbucks cafes](https://thetreeoflife.cc/demo)
 - [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
 - [Yarn &lpar;YC W24&rpar; is hiring engineers in NYC](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
