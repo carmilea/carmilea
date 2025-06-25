@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
+- [Interstellar Flight: Perspectives and Patience](https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/)
+- [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
-- [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)
-- [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
-- [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
