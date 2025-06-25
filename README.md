@@ -61,7 +61,7 @@
 - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 - [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
-- [Negative Two-Thousand Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
+- [-2000 Lines of code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 - [The Offline Club](https://www.theoffline-club.com)
 <!-- BLOG-POST-LIST:END -->
 
