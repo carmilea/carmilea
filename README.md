@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 - [AI more likely to create &#39;yes-men on servers&#39; than any scientific breakthroughs](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)
 - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
 - [Ask HN: What useful AI tools do you use every day?](https://news.ycombinator.com/item?id=44373724)
-- [How renewables are saving Texans billions](https://www.theclimatebrink.com/p/how-renewables-are-saving-texans)
 - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 <!-- BLOG-POST-LIST:END -->
 
