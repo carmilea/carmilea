@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI more likely to create &#39;yes-men on servers&#39; than any scientific breakthroughs](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)
+- [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
+- [Ask HN: What useful AI tools do you use every day?](https://news.ycombinator.com/item?id=44373724)
 - [How renewables are saving Texans billions](https://www.theclimatebrink.com/p/how-renewables-are-saving-texans)
 - [PNG is back](https://www.programmax.net/articles/png-is-back/)
-- [PicoEMP: low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
-- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
-- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
