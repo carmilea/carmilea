@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
 - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 - [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
-- [-2000 Lines of code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
-- [The Offline Club](https://www.theoffline-club.com)
+- [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
