@@ -61,8 +61,8 @@
 - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
 - [DeepSpeech Is Discontinued](https://github.com/mozilla/DeepSpeech)
 - [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
-- [Microsoft opens a free tier for Windows 10 extended updates](https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/)
 - [What Problems to Solve – By Richard Feynman](http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
