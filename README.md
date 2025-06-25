@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
-- [Hacking TLD EPP registry servers &lpar;2023&rpar;](https://hackcompute.com/hacking-epp-servers/)
-- [Managing Time When Time Doesn&#39;t Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
+- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
+- [Managing time when time doesn&#39;t exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+- [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
 - [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
-- [Mid-sized cities outperform major metros at turning economic growth into patents](https://www.governance.fyi/p/booms-not-busts-drives-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
