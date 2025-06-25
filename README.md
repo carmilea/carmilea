@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
-- [DeepSpeech Is Discontinued](https://github.com/mozilla/DeepSpeech)
-- [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
-- [What Problems to Solve – By Richard Feynman](http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
+- [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+- [Negative Two-Thousand Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
+- [NYC&#39;s Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
+- [The Offline Club](https://www.theoffline-club.com)
+- [A Classical RAM Design That Mimics Quantum Collapse and Entanglement&quot;](https://www.qsymbolic.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
