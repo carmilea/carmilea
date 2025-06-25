@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
-- [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
-- [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
-- [The economics behind &quot;Basic Economy&quot; – A masterclass in price discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
-- [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
+- [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
+- [Hacking TLD EPP registry servers &lpar;2023&rpar;](https://hackcompute.com/hacking-epp-servers/)
+- [Managing Time When Time Doesn&#39;t Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+- [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
+- [Mid-sized cities outperform major metros at turning economic growth into patents](https://www.governance.fyi/p/booms-not-busts-drives-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
