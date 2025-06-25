@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bunker Busters probably failed to penetrate Iranian concrete](https://www.popularmechanics.com/military/weapons/a65172594/ultra-strong-concrete-stops-bunker-busting-bombs/)
-- [The Fairphone &lpar;Gen. 6&rpar;](https://shop.fairphone.com/the-fairphone-gen-6)
-- [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
-- [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
-- [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
+- [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
+- [Kid gamers to adult gamblers? Investigation of childhood gaming and YA gambling](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2488867)
+- [Third places and neighborhood enterpenuership: Evidence from Starbucks cafes](https://thetreeoflife.cc/demo)
+- [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
+- [Yarn &lpar;YC W24&rpar; is hiring engineers in NYC](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
