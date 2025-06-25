@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How renewables are saving Texans billions](https://www.theclimatebrink.com/p/how-renewables-are-saving-texans)
+- [PicoEMP: low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
 - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
 - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
 - [Managing time when time doesn&#39;t exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
-- [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
-- [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
