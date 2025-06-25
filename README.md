@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
+- [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
+- [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
 - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
 - [NSF getting kicked out of headquarters by HUD](https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia)
-- [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
-- [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
-- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
