@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As AI kills search traffic, Google launches Offerwall to boost publisher revenue](https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/)
 - [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
 - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
-- [Access BMC UART on Supermicro X11SSH](https://github.com/zarhus/zarhusbmc/discussions/3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
