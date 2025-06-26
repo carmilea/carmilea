@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
+- [Launch HN: Issen &lpar;YC F24&rpar; – personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+- [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
-- [I fought in Ukraine and here&#39;s why FPV drones kind of suck](https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/)
 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
 <!-- BLOG-POST-LIST:END -->
 
