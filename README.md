@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
+- [AccessOwl &lpar;YC S22&rpar; is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
 - [Games That Weren&#39;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 - [Puerto Rico&#39;s Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
