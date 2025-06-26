@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
-- [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
-- [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
-- [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
-- [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- [Puerto Rico&#39;s Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
+- [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+- [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
+- [IBM&#39;s Dmitry Krotov wants to crack the &#39;physics&#39; of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
+- [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
