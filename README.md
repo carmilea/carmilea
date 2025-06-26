@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Matrix v1.15 Release](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
-- [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
-- [AI Is Dehumanization Technology](https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html)
-- [Memory Safety Is Merely Table Stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
-- [&quot;Why is the Rust compiler so slow?&quot;](https://sharnoff.io/blog/why-rust-compiler-slow)
+- [A.I. Is Homogenizing Our Thoughts](https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts)
+- [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
+- [Robots that learn](https://openai.com/index/robots-that-learn/)
+- [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
+- [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
