@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+- [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
+- [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
+- [I fought in Ukraine and here&#39;s why FPV drones kind of suck](https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/)
 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
-- [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
-- [Snow - Classic Macintosh emulator](https://snowemu.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
