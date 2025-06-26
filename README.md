@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Puerto Rico&#39;s Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
-- [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+- [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
-- [IBM&#39;s Dmitry Krotov wants to crack the &#39;physics&#39; of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
 - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
+- [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
