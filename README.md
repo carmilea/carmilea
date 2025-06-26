@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A.I. Is Homogenizing Our Thoughts](https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts)
+- [Senators reintroduce App Store bill to rein in &#39;gatekeeper power&#39;](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
 - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 - [Robots that learn](https://openai.com/index/robots-that-learn/)
 - [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
