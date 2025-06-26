@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring DevRel Engineers &lpar;Remote&rpar;&lpar;US&rpar;](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
-- [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
-- [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
-- [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
-- [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
+- [Matrix v1.15 Release](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
+- [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
+- [AI Is Dehumanization Technology](https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html)
+- [Memory Safety Is Merely Table Stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+- [&quot;Why is the Rust compiler so slow?&quot;](https://sharnoff.io/blog/why-rust-compiler-slow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
