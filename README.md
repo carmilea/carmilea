@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Issen &lpar;YC F24&rpar; – personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
-- [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
-- [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
-- [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
-- [Apptainer: Application Containers for Linux](https://apptainer.org/)
+- [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
+- [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
+- [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
+- [Launch HN: Issen &lpar;YC F24&rpar; – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
+- [I built an ADHD app with interactive coping tools, noise mixer and self-test](https://www.adhdhelp.app/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
