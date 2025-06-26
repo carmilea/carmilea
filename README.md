@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
+- [Games That Weren&#39;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 - [Puerto Rico&#39;s Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
-- [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
-- [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
