@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Fought in Ukraine and Here&#39;s Why FPV Drones Kind of Suck](https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/)
 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
 - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
+- [A brand new 68k Mac emulator dropped last night](https://oldbytes.space/@smallsco/114747196289375530)
 - [AccessOwl &lpar;YC S22&rpar; is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
-- [LLM code generation may lead to an erosion of trust](https://jaysthoughts.com/aithoughts1)
-- [Games That Weren&#39;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
