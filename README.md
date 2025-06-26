@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
 - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
-- [Launch HN: Issen &lpar;YC F24&rpar; – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
-- [I built an ADHD app with interactive coping tools, noise mixer and self-test](https://www.adhdhelp.app/en)
+- [Access BMC UART on Supermicro X11SSH](https://github.com/zarhus/zarhusbmc/discussions/3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
