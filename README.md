@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+- [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
 - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
 - [Snow - Classic Macintosh emulator](https://snowemu.com/)
-- [AccessOwl &lpar;YC S22&rpar; is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
-- [LLM code generation may lead to an erosion of trust](https://jaysthoughts.com/aithoughts1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
