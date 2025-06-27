@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some thoughts on my first YC Demo Day](https://billchambers.me/articles/yc-demo-day-spring-25/)
+- [Ask HN: Is anyone else just done with the industry?](https://news.ycombinator.com/item?id=44393304)
+- [A lumberjack created more than 200 sculptures in Wisconsin&#39;s Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
+- [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
 - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
-- [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
-- [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
-- [Memory safety is table stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
-- [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
