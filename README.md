@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New EU rules on digital accessibility to come into force](https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/)
+- [UK to buy F-35As that can&#39;t be refueled from RAF tankers](https://www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/)
 - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
-- [Show HN: Sick of emailing yourself stuff? me too](https://github.com/sirbread/sink)
-- [XSLT](https://github.com/pacocoursey/xslt)
+- [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
+- [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
 - [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
