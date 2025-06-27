@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
-- [Timeline of US Class I Railroads Since 1977](https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present))
-- [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
-- [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
-- [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
+- [Life Expectancy in Europe Compared to the US](https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/)
+- [You Don&#39;t Own the Word &quot;Freedom&quot;](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
+- [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+- [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
+- [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
