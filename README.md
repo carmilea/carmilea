@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Supreme Court limits federal judges&#39; power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 - [Project Vend: Can Claude run a small shop? &lpar;And why does that matter?&rpar;](https://www.anthropic.com/research/project-vend-1)
 - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
-- [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
