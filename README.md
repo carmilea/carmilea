@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New EU rules on digital accessibility to come into force](https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/)
+- [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
+- [Show HN: Sick of emailing yourself stuff? me too](https://github.com/sirbread/sink)
 - [XSLT](https://github.com/pacocoursey/xslt)
 - [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
-- [Biomolecular shifts occur in our 40s and 60s &lpar;2024&rpar;](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
-- [Judge rejects Meta&#39;s claim that torrenting is “irrelevant” in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
-- [A lumberjack created more than 200 sculptures in Wisconsin&#39;s Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
