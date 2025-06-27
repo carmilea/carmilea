@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Biomolecular shifts occur in our 40s and 60s](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
 - [Some thoughts on my first YC Demo Day](https://billchambers.me/articles/yc-demo-day-spring-25/)
+- [Judge rejects Meta&#39;s claim that torrenting is &quot;irrelevant&quot; in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
 - [A lumberjack created more than 200 sculptures in Wisconsin&#39;s Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
 - [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
-- [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
