@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senators reintroduce App Store bill to rein in &#39;gatekeeper power&#39;](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
 - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
-- [Robots that learn](https://openai.com/index/robots-that-learn/)
-- [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
+- [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
 - [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
+- [Memory safety is table stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+- [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
