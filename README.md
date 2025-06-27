@@ -61,8 +61,8 @@
 - [Show HN: I&#39;m an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
-- [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
 - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+- [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
