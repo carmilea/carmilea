@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
-- [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
+- [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
+- [Creating a pan-European legal entity, the right way](https://klinger.io/posts/eu-inc)
 - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 - [Apple Will Transition from the CTF to the CTC for EU Businesses](https://developer.apple.com/news/?id=awedznci)
