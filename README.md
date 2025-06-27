@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Life Expectancy in Europe Compared to the US](https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/)
-- [You Don&#39;t Own the Word &quot;Freedom&quot;](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
+- [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
+- [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
 - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
-- [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
+- [Apple Will Transition from the CTF to the CTC for EU Businesses](https://developer.apple.com/news/?id=awedznci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
