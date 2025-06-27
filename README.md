@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
+- [Project Vend: Can Claude run a small shop? &lpar;And why does that matter?&rpar;](https://www.anthropic.com/research/project-vend-1)
 - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
-- [Qwen VLo: From &quot;Understanding&quot; the World to &quot;Depicting&quot; It](https://qwenlm.github.io/blog/qwen-vlo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
