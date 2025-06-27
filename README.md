@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
+- [The Journey of Bypassing Ubuntu&#39;s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
 - [Spark AI &lpar;YC W24&rpar; is hiring a full-stack engineer in SF &lpar;founding team&rpar;](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 - [Learn OCaml – Exercises](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
-- [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
-- [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
