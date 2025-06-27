@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 - [Qwen VLo: From &quot;Understanding&quot; the World to &quot;Depicting&quot; It](https://qwenlm.github.io/blog/qwen-vlo/)
-- [The Monster Inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3)
 - [Show HN: I&#39;m an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 <!-- BLOG-POST-LIST:END -->
