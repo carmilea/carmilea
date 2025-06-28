@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
+- [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
+- [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
 - [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
 - [The Journey of Bypassing Ubuntu&#39;s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
-- [Spark AI &lpar;YC W24&rpar; is hiring a full-stack engineer in SF &lpar;founding team&rpar;](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
-- [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
-- [Learn OCaml – Exercises](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
