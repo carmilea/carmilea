@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft tried dogfooding Copilot with .NET, but got only hallucinations](https://news.ycombinator.com/item?id=44408325)
+- [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
-- [AI fakes duel over impeachment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
+- [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
 - [2025 ARRL Field Day](https://www.arrl.org/field-day)
-- [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
-- [Life of an inference request &lpar;vLLM V1&rpar;: How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
