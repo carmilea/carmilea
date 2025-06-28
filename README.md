@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Coming Storm: How Mediterranean Water Collapse Could Reshape Britain](https://fromtheprism.com/mediterranean-water-crisis-britain.html)
+- [MCP: An &lpar;Accidentally&rpar; Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 - [Facebook is asking to use Meta AI on photos in your camera roll you haven&#39;t yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
-- [Antitrust defies politics&#39; law of gravity](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)
+- [ZeQLplus: Terminal SQLite Database Browser](https://github.com/ZetloStudio/ZeQLplus)
 - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
-- [Lago &lpar;Open-Source Usage Based Billing&rpar; is hiring for ten roles](https://www.ycombinator.com/companies/lago/jobs)
-- [Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind](https://nautil.us/finding-peter-putnam-1218035/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
