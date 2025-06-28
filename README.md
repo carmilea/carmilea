@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill](https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083)
+- [BusyBeaver&lpar;6&rpar; Is Quite Large](https://scottaaronson.blog/?p=8972)
+- [Jane Street&#39;s sneaky retention tactic](https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic)
+- [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
-- [Ask HN: What are you actually using LLMs for in production?](https://news.ycombinator.com/item?id=44405067)
-- [MCP: An &lpar;Accidentally&rpar; Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
-- [Facebook is asking to use Meta AI on photos in your camera roll you haven&#39;t yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
-- [ZeQLplus: Terminal SQLite Database Browser](https://github.com/ZetloStudio/ZeQLplus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
