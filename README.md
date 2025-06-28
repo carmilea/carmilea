@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane Forecasters Lose Crucial Satellite Data, with Serious Implications](https://www.scientificamerican.com/article/weather-forecasters-lose-crucial-hurricane-detection-microwave-satellite/)
 - [Dubai Reality Check: An Indian VC&#39;s Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
 - [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
-- [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
