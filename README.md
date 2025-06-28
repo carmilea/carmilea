@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft tried dogfooding Copilot with .NET, but got only hallucinations](https://news.ycombinator.com/item?id=44408325)
-- [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
+- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+- [Exploring Trichromacy through Maxwell&#39;s Color Experiment &lpar;2023&rpar;](https://maxwell.kohterai.com/)
 - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 - [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
 - [2025 ARRL Field Day](https://www.arrl.org/field-day)
