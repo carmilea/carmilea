@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
+- [AI fakes duel over impeachment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
 - [2025 ARRL Field Day](https://www.arrl.org/field-day)
-- [Use Plain Text Email](https://useplaintext.email/)
-- [US Justice Department settles antitrust case for HPE&#39;s $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
-- [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)
-- [Boeing uses potatoes to test wi-fi &lpar;2012&rpar;](https://www.bbc.com/news/technology-20813441)
+- [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
+- [Life of an inference request &lpar;vLLM V1&rpar;: How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
