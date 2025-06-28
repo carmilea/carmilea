@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DR Congo and Rawanda signs a peace deal](https://www.bbc.com/news/articles/c1e0ggw7d43o)
-- [Dubai Reality Check: An Indian VC&#39;s Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
+- [We need to talk about Saudi Arabia](https://www.architectsjournal.co.uk/news/opinion/we-need-to-talk-about-saudi-arabia)
+- [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
+- [Programming as Theory Building: Why Senior Developers Are More Valuable](https://cekrem.github.io/posts/programming-as-theory-building-naur/)
 - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
-- [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
