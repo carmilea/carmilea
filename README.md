@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Justice Department settles antitrust case for HPE&#39;s $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
+- [Boeing uses potatoes to test wi-fi](https://www.bbc.com/news/technology-20813441)
+- [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
+- [Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility](https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility)
 - [Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill](https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083)
-- [BusyBeaver&lpar;6&rpar; Is Quite Large](https://scottaaronson.blog/?p=8972)
-- [Jane Street&#39;s sneaky retention tactic](https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic)
-- [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
-- [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
