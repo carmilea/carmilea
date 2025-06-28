@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We need to talk about Saudi Arabia](https://www.architectsjournal.co.uk/news/opinion/we-need-to-talk-about-saudi-arabia)
+- [History of Cycling Maps](https://cyclemaps.blogspot.com/)
+- [Missing Heritability: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/missing-heritability-much-more-than)
 - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
-- [Programming as Theory Building: Why Senior Developers Are More Valuable](https://cekrem.github.io/posts/programming-as-theory-building-naur/)
-- [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
+- [An Introduction to Tribalism for the Modern World That Has Forgotten It](https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
