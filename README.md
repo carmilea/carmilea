@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
+- [Did lead poisoning create a generation of serial killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
 - [Using the internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 - [More on Apple&#39;s Trust-Eroding &#39;F1 the Movie&#39; Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 - [The Unsustainability of Moore&#39;s Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
-- [G7 agrees to exempt U.S. multinationals from global minimum tax](https://www.thehindu.com/news/international/g7-agrees-to-exempt-us-multinationals-from-global-minimum-tax/article69749671.ece)
-- [Magnetic Tape Storage Technology: usage, history, and future outlook](https://dl.acm.org/doi/10.1145/3708997)
 <!-- BLOG-POST-LIST:END -->
 
 ---
