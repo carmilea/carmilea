@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+- [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
+- [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
 - [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
-- [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1/)
-- [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
-- [More on Apple&#39;s Trust-Eroding &#39;F1 the Movie&#39; Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
