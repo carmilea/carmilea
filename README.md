@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
+- [Bitcoin&#39;s Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
+- [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)
 - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors &lpar;2014&rpar;](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
-- [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
-- [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
-- [Ask HN: What Are You Working On? &lpar;June 2025&rpar;](https://news.ycombinator.com/item?id=44416093)
+- [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
+- [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
