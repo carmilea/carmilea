@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
+- [The AI Backlash Keeps Growing Stronger](https://www.wired.com/story/generative-ai-backlash/)
+- [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
-- [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
-- [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
-- [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
