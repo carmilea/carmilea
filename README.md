@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: &lpar;dictionary|thesaurus&rpar;.reference.com is now a spam site](https://news.ycombinator.com/item?id=44415289)
+- [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 - [Tools I love: mise&lpar;-en-place&rpar;](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 - [Loss of key US satellite data could send hurricane forecasting back &#39;decades&#39;](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
-- [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
-- [America&#39;s Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
-- [Europe&#39;s First Exascale Supercomputer Powers Up](https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe)
+- [Show HN: Sharpe Ratio Calculation Tool](https://www.fundratios.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
