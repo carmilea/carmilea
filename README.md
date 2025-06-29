@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agents get office tasks wrong around 70% of time, and many aren&#39;t AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
-- [On the capacity, performance, and reliability of microSD cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
+- [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
 - [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
-- [Murderland: Crime and Bloodlust in the Time of Serial Killers](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
-- [Using the internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+- [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1/)
+- [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+- [More on Apple&#39;s Trust-Eroding &#39;F1 the Movie&#39; Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
