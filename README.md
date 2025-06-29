@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
+- [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 - [Tools I love: mise&lpar;-en-place&rpar;](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 - [Loss of key US satellite data could send hurricane forecasting back &#39;decades&#39;](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
-- [Show HN: Sharpe Ratio Calculation Tool](https://www.fundratios.com/)
-- [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
