@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
+- [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors &lpar;2014&rpar;](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 - [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
 - [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
-- [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
-- [Tools I love: mise&lpar;-en-place&rpar;](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
-- [Loss of key US satellite data could send hurricane forecasting back &#39;decades&#39;](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
+- [Ask HN: What Are You Working On? &lpar;June 2025&rpar;](https://news.ycombinator.com/item?id=44416093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
