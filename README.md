@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
+- [Against AI: An Open Letter from Writers to Publishers](https://lithub.com/against-ai-an-open-letter-from-writers-to-publishers/)
 - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
 - [Generative AI&#39;s crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 - [Blackwell: Nvidia&#39;s GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
