@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-- [Exploring Trichromacy through Maxwell&#39;s Color Experiment &lpar;2023&rpar;](https://maxwell.kohterai.com/)
-- [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
-- [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
-- [2025 ARRL Field Day](https://www.arrl.org/field-day)
+- [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
+- [Generative AI&#39;s crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
+- [Satellites keep breaking up in space. Insurance won&#39;t cover them](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
+- [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
+- [US Defense Department will stop providing satellite weather data](https://text.npr.org/nx-s1-5446120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
