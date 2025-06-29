@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
-- [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
-- [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
-- [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
-- [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
+- [Tools I love: mise&lpar;-en-place&rpar;](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
+- [Loss of key US satellite data could send hurricane forecasting back &#39;decades&#39;](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
+- [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
+- [America&#39;s Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
+- [Europe&#39;s First Exascale Supercomputer Powers Up](https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
