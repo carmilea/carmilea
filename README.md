@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+- [AI slop security reports submitted to curl](https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd)
 - [Google Gemini is about to control your messages and calls, even if you say no](https://www.laptopmag.com/ai/gemini-phone-access-update)
 - [More on Apple&#39;s Trust-Eroding &#39;F1 the Movie&#39; Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 - [The Unsustainability of Moore&#39;s Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
-- [It&#39;s Known as &#39;The List&#39;–and It&#39;s a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
-- [Brave creates new TLD on the blockchain](https://brave.com/blog/brave-tld/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
