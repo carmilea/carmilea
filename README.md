@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Known as &#39;The List&#39;–and It&#39;s a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
 - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
 - [Generative AI&#39;s crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 - [Blackwell: Nvidia&#39;s GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
 - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
-- [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
