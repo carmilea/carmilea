@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is Anti-Human &lpar;and assorted qualifications&rpar;](https://njump.me/naddr1qqxnzde58yerxv3exycrsdpjqgsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsrqsqqqa28nmz2vk)
+- [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
+- [Brazil&#39;s Supreme Court clears way to hold social media liable for user content](https://apnews.com/article/brazil-supreme-court-social-media-ruling-324b9d79caa9f9e063da8a4993e382e1)
 - [The New Skill in AI Is Not Prompting, It&#39;s Context Engineering](https://www.philschmid.de/context-engineering)
-- [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
-- [The Original LZEXE &lpar;A.K.A. Kosinski&rpar; Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
-- [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
