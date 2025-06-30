@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin&#39;s Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
-- [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)
-- [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors &lpar;2014&rpar;](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
-- [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
-- [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
+- [She Got a Permit for Her Chickens. Now the City Is Fining Her $80k](https://reason.com/2025/06/28/she-got-a-permit-for-her-chickens-now-the-city-is-fining-her-80000/)
+- [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
+- [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
+- [Commodore acquired for a &#39;low seven figure&#39; price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
+- [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
