@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [She Got a Permit for Her Chickens. Now the City Is Fining Her $80k](https://reason.com/2025/06/28/she-got-a-permit-for-her-chickens-now-the-city-is-fining-her-80000/)
+- [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
+- [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
+- [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
+- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
-- [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
-- [Commodore acquired for a &#39;low seven figure&#39; price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
-- [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
