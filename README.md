@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
-- [Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge](https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/)
-- [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
+- [Show HN: TokenDagger – A tokenizer faster than OpenAI&#39;s Tiktoken](https://github.com/M4THYOU/TokenDagger)
+- [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
+- [Positive link between cannabis use and &#39;Major Adverse Cardiovascular Events&#39;](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
 - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
-- [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
+- [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
