@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
+- [Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal](https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt)
 - [The JTAG in your Qualcomm/Snapdragon device&#39;s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
-- [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
+- [Datadog&#39;s $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
 - [Ask HN: What&#39;s the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
-- [They don&#39;t make &#39;em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
-- [Proton joins suit against Apple for predatory practices](https://proton.me/blog/apple-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
