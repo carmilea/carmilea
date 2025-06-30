@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
+- [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 - [The Analytics Crossroads: Why Smart Vertica Decisions Lead to Smarter Migrations](https://www.singlestore.com/blog/why-smart-vertica-decisions-lead-to-smarter-migrations)
 - [Show HN: TokenDagger – A tokenizer faster than OpenAI&#39;s Tiktoken](https://github.com/M4THYOU/TokenDagger)
-- [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
-- [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
-- [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
+- [Reverse Engineering Vercel&#39;s BotID](https://www.nullpt.rs/reversing-botid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
