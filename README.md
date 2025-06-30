@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
+- [Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge](https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/)
+- [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
+- [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
-- [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
-- [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
-- [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
-- [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
