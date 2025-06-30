@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
+- [NativeJIT: A C++ expression –&gt; x64 JIT](https://github.com/BitFunnel/NativeJIT)
+- [Continuous Glucose Monitoring](https://www.imperialviolet.org/2025/06/29/cgm.html)
 - [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
 - [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
 - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-- [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
 <!-- BLOG-POST-LIST:END -->
 
 ---
