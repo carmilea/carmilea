@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
+- [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
+- [Make Fun of Them](https://www.wheresyoured.at/make-fun-of-them/)
 - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
-- [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
-- [The Analytics Crossroads: Why Smart Vertica Decisions Lead to Smarter Migrations](https://www.singlestore.com/blog/why-smart-vertica-decisions-lead-to-smarter-migrations)
-- [Show HN: TokenDagger – A tokenizer faster than OpenAI&#39;s Tiktoken](https://github.com/M4THYOU/TokenDagger)
-- [Reverse Engineering Vercel&#39;s BotID](https://www.nullpt.rs/reversing-botid)
+- [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
