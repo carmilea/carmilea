@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Analytics Crossroads: Why Smart Vertica Decisions Lead to Smarter Migrations](https://www.singlestore.com/blog/why-smart-vertica-decisions-lead-to-smarter-migrations)
 - [Show HN: TokenDagger – A tokenizer faster than OpenAI&#39;s Tiktoken](https://github.com/M4THYOU/TokenDagger)
+- [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
+- [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
 - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
-- [Positive link between cannabis use and &#39;Major Adverse Cardiovascular Events&#39;](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
-- [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
-- [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
