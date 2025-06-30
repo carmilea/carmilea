@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The JTAG in your Qualcomm/Snapdragon device&#39;s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
+- [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
 - [Ask HN: What&#39;s the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 - [They don&#39;t make &#39;em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
-- [Operation Gold Rush, largest health care fraud bust in U.S. history](https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/)
-- [Therapy dogs: stop crafting loopholes to fair, reasonable laws](https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/)
-- [14.ai &lpar;YC W24&rpar; hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
+- [Proton joins suit against Apple for predatory practices](https://proton.me/blog/apple-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
