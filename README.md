@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [14.ai &lpar;YC W24&rpar; hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
 - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
-- [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
-- [Make Fun of Them](https://www.wheresyoured.at/make-fun-of-them/)
+- [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/)
+- [Auth for B2B SaaS: it&#39;s not like auth for consumer software](https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth)
 - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
-- [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
