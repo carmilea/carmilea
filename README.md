@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
+- [They don&#39;t make &#39;em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
+- [Operation Gold Rush, largest health care fraud bust in U.S. history](https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/)
+- [Therapy dogs: stop crafting loopholes to fair, reasonable laws](https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/)
 - [14.ai &lpar;YC W24&rpar; hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
-- [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
-- [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/)
-- [Auth for B2B SaaS: it&#39;s not like auth for consumer software](https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth)
-- [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
