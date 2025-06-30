@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
 - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 - [NativeJIT: A C++ expression –&gt; x64 JIT](https://github.com/BitFunnel/NativeJIT)
-- [Continuous Glucose Monitoring](https://www.imperialviolet.org/2025/06/29/cgm.html)
-- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
+- [LLM&#39;s Illusion of Alignment](https://www.systemicmisalignment.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
