@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Skill in AI Is Not Prompting, It&#39;s Context Engineering](https://www.philschmid.de/context-engineering)
+- [The Original LZEXE &lpar;A.K.A. Kosinski&rpar; Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
+- [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
 - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
-- [Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal](https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt)
-- [The JTAG in your Qualcomm/Snapdragon device&#39;s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
-- [Datadog&#39;s $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
-- [Ask HN: What&#39;s the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
+- [Show HN: We&#39;re two coffee nerds who built an AI app to track beans and recipes](https://beanbook.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
