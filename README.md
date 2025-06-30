@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 - [The New Skill in AI Is Not Prompting, It&#39;s Context Engineering](https://www.philschmid.de/context-engineering)
+- [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
 - [The Original LZEXE &lpar;A.K.A. Kosinski&rpar; Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
-- [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
-- [Show HN: We&#39;re two coffee nerds who built an AI app to track beans and recipes](https://beanbook.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
