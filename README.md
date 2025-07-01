@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek App Faces Ban in Germany for Illegal Transfer of User Data](https://www.searchenginejournal.com/deepseek-app-faces-ban-in-germany-for-illegal-transfer-of-user-data/550172/)
+- [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
+- [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
 - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
-- [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
-- [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
-- [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
-- [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
+- [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
