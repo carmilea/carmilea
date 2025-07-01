@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
+- [Effectiveness of trees in reducing temperature &amp; outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 - [The Roman Roads Research Association](https://www.romanroads.org/)
 - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
-- [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
-- [1KB JavaScript Demoscene Challenge Just Launched](https://news.ycombinator.com/item?id=44436838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
