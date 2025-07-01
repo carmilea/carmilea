@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Noloco &lpar;YC S21&rpar; Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
-- [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
+- [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 - [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
 - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
