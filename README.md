@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aging-Related Inflammation Is Not Universal Across Human Populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
-- [&#39;Unprecedented&#39; alerts in France as blistering heat grips Europe](https://www.bbc.com/news/articles/c5y7781e915o)
+- [Noloco &lpar;YC S21&rpar; Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
+- [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
+- [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
 - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
-- [Virtue garnish: A mental hack to short-circuit bad habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
