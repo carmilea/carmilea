@@ -61,8 +61,8 @@
 - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
 - [Effectiveness of trees in reducing temperature &amp; outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 - [The Roman Roads Research Association](https://www.romanroads.org/)
+- [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
 - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
-- [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
