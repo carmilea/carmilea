@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek App Faces Ban in Germany for Illegal Transfer of User Data](https://www.searchenginejournal.com/deepseek-app-faces-ban-in-germany-for-illegal-transfer-of-user-data/550172/)
+- [Aging-Related Inflammation Is Not Universal Across Human Populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
+- [&#39;Unprecedented&#39; alerts in France as blistering heat grips Europe](https://www.bbc.com/news/articles/c5y7781e915o)
+- [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
 - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
-- [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
-- [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
-- [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
+- [Virtue garnish: A mental hack to short-circuit bad habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
