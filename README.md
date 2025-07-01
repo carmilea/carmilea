@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fed says this is a cube of $1M. They&#39;re off by half a million](https://calvin.sh/blog/fed-lie/)
+- [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
+- [Ask HN: Who is hiring? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44434576)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44434575)
 - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
-- [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
-- [Experience converting a mathematical software package to C++20 modules [PDF]](https://arxiv.org/abs/2506.21654)
-- [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
-- [Waste into Construction Materials: Geopolymers from Recycled Sources](https://www.mdpi.com/2313-4321/10/3/118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
