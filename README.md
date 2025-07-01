@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hoyle State &lpar;2021&rpar;](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
+- [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/)
+- [Sliding Window Technique Visualizer](https://sliding-window-visualizer-bryanneumann.replit.app/)
+- [Amazon Is on the Cusp of Using More Robots Than Humans in Its Warehouses](https://www.wsj.com/tech/amazon-warehouse-robots-automation-942b814f)
 - [Cua &lpar;YC X25&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
-- [The Fed says this is a cube of $1M. They&#39;re off by half a million](https://calvin.sh/blog/fed-lie/)
-- [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
-- [Ask HN: Who is hiring? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44434576)
-- [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
