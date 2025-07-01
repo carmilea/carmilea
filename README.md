@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waste into Construction Materials: Geopolymers from Recycled Sources](https://www.mdpi.com/2313-4321/10/3/118)
+- [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 - [Cloudflare to introduce pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
-- [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
-- [Noloco &lpar;YC S21&rpar; Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
