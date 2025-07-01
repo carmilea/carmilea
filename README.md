@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Roman Roads Research Association](https://www.romanroads.org/)
+- [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
+- [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
 - [1KB JavaScript Demoscene Challenge Just Launched](https://news.ycombinator.com/item?id=44436838)
-- [Sam Altman Slams Meta&#39;s AI Talent Poaching: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
-- [The Hoyle State &lpar;2021&rpar;](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
-- [Show HN: Arch-Router – 1.5B model for LLM routing by preferences, not benchmarks](https://news.ycombinator.com/item?id=44436031)
 <!-- BLOG-POST-LIST:END -->
 
 ---
