@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
+- [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)
 - [Hack IKKO &quot;AI powered&quot; earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
-- [The first American &#39;scientific refugees&#39; arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)
-- [Tesla reports 14% decline in deliveries, marking second year-over-year drop](https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html)
-- [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
-- [Recurse Center &lpar;YC S10&rpar; Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
+- [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
+- [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
