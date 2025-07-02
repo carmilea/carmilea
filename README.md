@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
+- [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
 - [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
 - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
-- [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
