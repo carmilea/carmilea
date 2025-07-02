@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 - [Stop Killing Games](https://www.stopkillinggames.com/)
-- [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
 - [Sony&#39;s Mark Cerny Has Worked on &quot;Big Chunks of RDNA 5&quot; with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 - [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
-- [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
