@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Working too much? EU law says you&#39;re entitled to more rest.:&rpar;](https://nureti.com/blog/things-you-did-not-know-eu-time-directive/)
-- [When we die do we still have any of the original cells from our birth?](https://www.quora.com/When-we-die-do-we-still-have-any-of-the-original-cells-from-our-birth)
+- [Hydrogen sulphide gas restricts SARS-CoV-2 replication in host cells](https://iisc.ac.in/hydrogen-sulphide-gas-restricts-sars-cov-2-replication-in-host-cells/)
+- [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
+- [When we die do we still have any of the original cells from our birth? &lpar;2020&rpar;](https://www.quora.com/When-we-die-do-we-still-have-any-of-the-original-cells-from-our-birth)
 - [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
 - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
-- [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
