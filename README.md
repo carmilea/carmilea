@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
+- [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
+- [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
+- [America&#39;s Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
 - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
-- [Effectiveness of trees in reducing temperature &amp; outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
-- [The Roman Roads Research Association](https://www.romanroads.org/)
-- [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
-- [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
