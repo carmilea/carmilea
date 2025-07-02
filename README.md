@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Killing Games](https://www.stopkillinggames.com/)
+- [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
+- [Sony&#39;s Mark Cerny Has Worked on &quot;Big Chunks of RDNA 5&quot; with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 - [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
 - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
-- [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
-- [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
-- [Double Is Winding Down](https://double.finance/blog/wind_down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
