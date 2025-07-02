@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
-- [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
-- [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
-- [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
-- [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
+- [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
+- [They tried Made in the USA – it was too expensive for their customers](https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/)
+- [How large are large language models? &lpar;2025&rpar;](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
+- [Jack Welch, the Man Who Broke Capitalism &lpar;2022&rpar;](https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/)
+- [Spain and Brazil push global action to tax the super-rich and curb inequality](https://news.un.org/en/story/2025/07/1165146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
