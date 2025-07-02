@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recurse Center &lpar;YC S10&rpar; Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
+- [Don&#39;t use &quot;click here&quot; as link text – W3C &lpar;2010&rpar;](https://www.w3.org/QA/Tips/noClickHere)
+- [Math.Pow&lpar;-1, 2&rpar; == -1 in Windows 11 Insider build](https://github.com/dotnet/runtime/issues/117233)
 - [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
-- [They tried Made in the USA – it was too expensive for their customers](https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/)
 - [How large are large language models? &lpar;2025&rpar;](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
-- [Jack Welch, the Man Who Broke Capitalism &lpar;2022&rpar;](https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/)
-- [Spain and Brazil push global action to tax the super-rich and curb inequality](https://news.un.org/en/story/2025/07/1165146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
