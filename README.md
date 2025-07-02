@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [SingleStore Upsert: SingleStore Aura Demo &amp; AI Innovations with Bharath Swamy](https://www.youtube.com/watch?v=d0VtSD81ZyY)
-- [SingleStore Upsert: SingleStore + Apache Iceberg &amp; Confluent TableFlow](https://www.youtube.com/watch?v=k8JLclppTTI)
-- [SingleStore Upsert: Elevate Developer Experience – New Tools &amp; Automation for Modern Workflows](https://www.youtube.com/watch?v=8POroi7jQwQ)
-- [SingleStore Upsert: Performance at Scale – New Features for Ultimate Scalability](https://www.youtube.com/watch?v=4M6BFUf-b2g)
-- [SingleStore Upsert: What&#39;s New in Helios and Unified Data with Dave Eyler](https://www.youtube.com/watch?v=2FiLfTGNsBI)
+- [LLM Integration for Text Labeling | H2O Label Genie Starter Track - Part 10](https://www.youtube.com/watch?v=mW7oRioY814)
+- [Zero-Shot Labeling and Segmentation | H2O Label Genie Starter Track - Part 9](https://www.youtube.com/watch?v=HGncp-HCO9w)
+- [Exploring and Clustering Datasets | H2O Label Genie Starter Track - Part 8](https://www.youtube.com/watch?v=zQ_EX44oz1E)
+- [Self-Identifying &amp; Fixing AI Model Issues | Automated Error Handling in Driverless AI](https://www.youtube.com/watch?v=yxHHL5_L--w)
+- [Monitoring AI Model Performance &amp; Drift in Driverless AI | Real-Time Insights &amp; Automation](https://www.youtube.com/watch?v=9PxDelgBPIc)
 <!-- YOUTUBE:END -->
 
 
