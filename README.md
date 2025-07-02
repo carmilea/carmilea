@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 - [Recurse Center &lpar;YC S10&rpar; Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
-- [Don&#39;t use &quot;click here&quot; as link text – W3C &lpar;2010&rpar;](https://www.w3.org/QA/Tips/noClickHere)
+- [Don’t use “click here” as link text &lpar;2001&rpar;](https://www.w3.org/QA/Tips/noClickHere)
 - [Math.Pow&lpar;-1, 2&rpar; == -1 in Windows 11 Insider build](https://github.com/dotnet/runtime/issues/117233)
 - [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
-- [How large are large language models? &lpar;2025&rpar;](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
