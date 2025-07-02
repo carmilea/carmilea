@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
-- [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)
-- [Hack IKKO &quot;AI powered&quot; earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
-- [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
-- [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
+- [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
+- [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
+- [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
+- [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
+- [Double Is Winding Down](https://double.finance/blog/wind_down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
