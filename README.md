@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
 - [Tesla&#39;s energy storage business gets sucked into the company&#39;s downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
 - [Law360 mandates reporters use AI &quot;bias&quot; detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
 - [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
-- [MindsDB &lpar;YC W20&rpar; is hiring an AI solutions engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
