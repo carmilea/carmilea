@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
+- [Law360 mandates reporters use AI &quot;bias&quot; detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
 - [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
-- [Stop Killing Games](https://www.stopkillinggames.com/)
-- [Sony&#39;s Mark Cerny Has Worked on &quot;Big Chunks of RDNA 5&quot; with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
-- [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
+- [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
+- [MindsDB &lpar;YC W20&rpar; is hiring an AI solutions engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
