@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hack IKKO &quot;AI powered&quot; earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
+- [The first American &#39;scientific refugees&#39; arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)
+- [Tesla reports 14% decline in deliveries, marking second year-over-year drop](https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html)
 - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 - [Recurse Center &lpar;YC S10&rpar; Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
-- [Don’t use “click here” as link text &lpar;2001&rpar;](https://www.w3.org/QA/Tips/noClickHere)
-- [Math.Pow&lpar;-1, 2&rpar; == -1 in Windows 11 Insider build](https://github.com/dotnet/runtime/issues/117233)
-- [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
