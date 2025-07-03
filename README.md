@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
-- [A simple opensource social media researcher powered by exa ai api and youtube v](https://github.com/KasPeR0990/yurei-app)
 - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
+- [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
