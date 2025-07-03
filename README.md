@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [SingleStore Upsert: SingleStore Aura Demo &amp; AI Innovations with Bharath Swamy](https://www.youtube.com/watch?v=d0VtSD81ZyY)
-- [SingleStore Upsert: SingleStore + Apache Iceberg &amp; Confluent TableFlow](https://www.youtube.com/watch?v=k8JLclppTTI)
+- [SingleStore + Iceberg Seamless Integrations](https://www.youtube.com/watch?v=k8JLclppTTI)
 - [SingleStore Upsert: Elevate Developer Experience – New Tools &amp; Automation for Modern Workflows](https://www.youtube.com/watch?v=8POroi7jQwQ)
 - [SingleStore Upsert: Performance at Scale – New Features for Ultimate Scalability](https://www.youtube.com/watch?v=4M6BFUf-b2g)
-- [SingleStore Upsert: What&#39;s New in Helios and Unified Data with Dave Eyler](https://www.youtube.com/watch?v=2FiLfTGNsBI)
+- [SingleConnect: The easiest way to move data from almost any source to SingleStore](https://www.youtube.com/watch?v=2FiLfTGNsBI)
 <!-- YOUTUBE:END -->
 
 
