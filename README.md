@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)
+- [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 - [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
 - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 - [The uncertain future of coding careers and why I&#39;m still hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
-- [Trans-Taiga Road &lpar;2004&rpar;](https://www.jamesbayroad.com/ttr/index.html)
-- [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
