@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 - [Locality of Behaviour &lpar;2020&rpar;](https://htmx.org/essays/locality-of-behaviour/)
-- [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
-- [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
-- [Kyber &lpar;YC W23&rpar; Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
-- [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
+- [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
+- [Doom Didn&#39;t Kill the Amiga &lpar;2024&rpar;](https://www.datagubbe.se/afb/)
+- [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
