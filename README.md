@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Locality of Behaviour &lpar;2020&rpar;](https://htmx.org/essays/locality-of-behaviour/)
 - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
 - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 - [Kyber &lpar;YC W23&rpar; Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
-- [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
 - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
 <!-- BLOG-POST-LIST:END -->
 
