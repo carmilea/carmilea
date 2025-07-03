@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Uncertain Future of Coding Careers and Why I&#39;m Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
+- [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
 - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
+- [gmailtail: tail -f Your Gmail](https://github.com/c4pt0r/gmailtail)
 - [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
-- [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/)
-- [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
-- [Vitamin C Boosts Epidermal Growth via DNA Demethylation](https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
