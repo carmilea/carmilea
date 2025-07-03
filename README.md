@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- [A simple opensource social media researcher powered by exa ai api and youtube v](https://github.com/KasPeR0990/yurei-app)
+- [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
+- [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
-- [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
-- [The End of Moore&#39;s Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)
-- [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
-- [Launch HN: K-Scale Labs &lpar;YC W24&rpar; – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
