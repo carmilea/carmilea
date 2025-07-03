@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Uncertain Future of Coding Careers and Why I&#39;m Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
-- [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
+- [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
+- [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
+- [The uncertain future of coding careers and why I&#39;m still hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
+- [Trans-Taiga Road &lpar;2004&rpar;](https://www.jamesbayroad.com/ttr/index.html)
 - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
-- [Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON](https://github.com/c4pt0r/gmailtail)
-- [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
