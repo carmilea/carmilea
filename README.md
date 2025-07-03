@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I scanned all of GitHub&#39;s &quot;oops commits&quot; for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
-- [We reimagined Transformer architectures inspired by nature&#39;s hidden structures](https://ieeexplore.ieee.org/document/10754699)
 - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
+- [The uncertain future of coding careers and why I&#39;m still hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
