@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+- [The End of Moore&#39;s Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)
 - [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
 - [Launch HN: K-Scale Labs &lpar;YC W24&rpar; – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 - [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
-- [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
-- [SingleStore Helios® Wins Gold at the 2025 Globee® Awards for Technology](https://www.singlestore.com/blog/singlestore-helios-wins-gold-2025-globee-awards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
