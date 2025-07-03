@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Encoding Jake Gyllenhaal into one million checkboxes &lpar;2024&rpar;](https://ednamode.xyz/blogs/2.html)
+- [Poor Man&#39;s Back End-as-a-Service &lpar;BaaS&rpar;, Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
+- [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
+- [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
 - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
-- [Locality of Behaviour &lpar;2020&rpar;](https://htmx.org/essays/locality-of-behaviour/)
-- [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
-- [Doom Didn&#39;t Kill the Amiga &lpar;2024&rpar;](https://www.datagubbe.se/afb/)
-- [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
