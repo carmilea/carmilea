@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
+- [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 - [Kyber &lpar;YC W23&rpar; Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
+- [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
 - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
-- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
-- [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
-- [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
