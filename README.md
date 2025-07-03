@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Encoding Jake Gyllenhaal into one million checkboxes &lpar;2024&rpar;](https://ednamode.xyz/blogs/2.html)
-- [Poor Man&#39;s Back End-as-a-Service &lpar;BaaS&rpar;, Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
-- [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
-- [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
-- [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
+- [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
+- [Launch HN: K-Scale Labs &lpar;YC W24&rpar; – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
+- [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
+- [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
+- [SingleStore Helios® Wins Gold at the 2025 Globee® Awards for Technology](https://www.singlestore.com/blog/singlestore-helios-wins-gold-2025-globee-awards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
