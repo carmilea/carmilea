@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I scanned all of GitHub&#39;s &quot;oops commits&quot; for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+- [Kyber &lpar;YC W23&rpar; Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
+- [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
-- [The uncertain future of coding careers and why I&#39;m still hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
-- [Trans-Taiga Road &lpar;2004&rpar;](https://www.jamesbayroad.com/ttr/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
