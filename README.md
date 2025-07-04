@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
+- [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
 - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
 - [Show HN: AirBending – hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
-- [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
-- [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
 - [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
