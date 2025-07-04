@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 - [Serving 200M requests per day with a CGI-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
-- [Why I Left My Tech Job to Work on Chronic Pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
-- [Show HN: I AI coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
-- [Is there a no-AI audience?](https://thatshubham.com/blog/ai)
+- [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
+- [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 - [Is an Intel N100 or N150 a better value than a Raspberry Pi?](https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
