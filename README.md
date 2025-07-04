@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-- [DRM Panic QR code generator](https://rust-for-linux.com/drm-panic-qr-code-generator)
-- [As a Labrador swam by me out to sea his owner said I hope he doesn&#39;t meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
-- [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
-- [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
+- [Enhanced Radar &lpar;YC W25&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=44463773)
+- [Show HN: BunkerWeb – the open-source and cloud-native WAF](https://docs.bunkerweb.io/latest/)
+- [Show HN: Fast Thermodynamic Calculations in Python](https://dlr-institute-of-future-fuels.github.io/gaspype/)
+- [A Rust-TypeScript integration](https://github.com/beeeeep54/rust-typescript)
+- [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
