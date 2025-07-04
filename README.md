@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
+- [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
+- [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 - [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
-- [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
 - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
-- [Show HN: AirBending – hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
-- [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
