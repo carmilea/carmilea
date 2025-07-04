@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My open source project was relicensed by a YC company [license updated]](https://twitter.com/soham_btw/status/1940952786491027886)
+- [Electronic Arts Leadership Are Out of Their Goddamned Minds](https://aftermath.site/ea-dice-battlefield-battle-royale-free-to-play-f2p)
 - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
 - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 - [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
