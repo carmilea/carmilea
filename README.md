@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini NASes marry NVMe to Intel&#39;s efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
+- [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
 - [We&#39;re Not Innovating, We&#39;re Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
-- [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 - [Kepler.gl](https://kepler.gl/)
-- [Serving 200M requests per day with a CGI-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
