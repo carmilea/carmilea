@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Radar &lpar;YC W25&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=44463773)
-- [Show HN: BunkerWeb – the open-source and cloud-native WAF](https://docs.bunkerweb.io/latest/)
-- [Show HN: Fast Thermodynamic Calculations in Python](https://dlr-institute-of-future-fuels.github.io/gaspype/)
-- [A Rust-TypeScript integration](https://github.com/beeeeep54/rust-typescript)
-- [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
+- [Serving 200M requests per day with a CGI-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
+- [Why I Left My Tech Job to Work on Chronic Pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
+- [Show HN: I AI coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
+- [Is there a no-AI audience?](https://thatshubham.com/blog/ai)
+- [Is an Intel N100 or N150 a better value than a Raspberry Pi?](https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
