@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring a Head of Ops to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [EverQuest](https://www.filfre.net/2025/07/everquest/)
 - [Mini NASes marry NVMe to Intel&#39;s efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
-- [We&#39;re Not Innovating, We&#39;re Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
-- [Kepler.gl](https://kepler.gl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
