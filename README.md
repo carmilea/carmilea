@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpCodes &lpar;YC S17&rpar; is hiring a Head of Ops to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [EverQuest](https://www.filfre.net/2025/07/everquest/)
-- [Mini NASes marry NVMe to Intel&#39;s efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
-- [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
-- [We&#39;re Not Innovating, We&#39;re Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
+- [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
+- [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
+- [ChatGPT creates phisher&#39;s paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
+- [LLMs caused drastic vocabulary shift in biomedical publications](https://www.science.org/doi/10.1126/sciadv.adt3813)
+- [How to Incapacitate Google Tag Manager and Why You Should &lpar;2022&rpar;](https://backlit.neocities.org/incapacitate-google-tag-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
