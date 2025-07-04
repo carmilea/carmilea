@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes is a symptom, not a solution](https://andreafortuna.org/2025/06/20/unpopular-opinion-kubernetes-is-a-symptom-not-a-solution)
+- [My open source project was relicensed by a YC company [license updated]](https://twitter.com/soham_btw/status/1940952786491027886)
 - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
 - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 - [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
