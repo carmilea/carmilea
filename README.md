@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man goes viral after working for four startups at the same time](https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890)
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- [DRM Panic QR code generator](https://rust-for-linux.com/drm-panic-qr-code-generator)
 - [As a Labrador swam by me out to sea his owner said I hope he doesn&#39;t meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
 - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
 - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
-- [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
