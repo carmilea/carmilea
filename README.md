@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
-- [White House claims expansive power to nullify TikTok ban and other laws](https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html)
+- [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 - [LooksMapping](https://looksmapping.com/)
-- [Electronic Arts Leadership Are Out of Their Goddamned Minds](https://aftermath.site/ea-dice-battlefield-battle-royale-free-to-play-f2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
