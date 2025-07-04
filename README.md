@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
+- [What is going on in Unix with errno&#39;s limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
 - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
-- [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
-- [LooksMapping](https://looksmapping.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
