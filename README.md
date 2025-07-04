@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley can&#39;t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
+- [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
+- [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
-- [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
-- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
-- [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
+- [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
