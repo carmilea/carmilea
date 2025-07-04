@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Man goes viral after working for four startups at the same time](https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890)
-- [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)
 - [As a Labrador swam by me out to sea his owner said I hope he doesn&#39;t meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
-- [When Your Exit Strategy Dream Is My Customer Nightmare](https://my-notes.dragas.net/2025/07/04/your-exit-strategy-dream-is-my-customer-nightmare/)
 - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
+- [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
+- [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
