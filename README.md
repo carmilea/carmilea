@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
+- [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
+- [WinUAE 6 Amiga Emulator](https://www.winuae.net/)
 - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 - [The Prime Reasons to Avoid Amazon](https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
 - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
-- [Cod Have Been Shrinking for Decades, Scientists Say They&#39;ve Solved Mystery](https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
