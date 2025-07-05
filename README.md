@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Before releasing a new AI model Sam Altman would be put into a Server room](https://twitter.com/the_yanco/status/1941388896387875282)
+- [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
+- [Musk and co should ask AI what defines intelligence. They may learn something](https://observer.co.uk/news/columnists/article/musk-and-co-should-ask-an-ai-what-defines-intelligence-they-may-learn-something)
+- [Europe&#39;s first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 - [What &#39;Project Hail Mary&#39; teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
-- [What I learned building an AI coding agent for a year](https://jamesgrugett.com/p/what-i-learned-building-an-ai-coding)
-- [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
-- [Go, PET, Let Hen - Curious adventures in &lpar;Commodore&rpar; BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
+- [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
