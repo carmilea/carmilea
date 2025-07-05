@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large language models are improving exponentially?](https://spectrum.ieee.org/large-language-model-performance)
-- [The AI industry is facing a handful of urgent problems](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
+- [Before releasing a new AI model Sam Altman would be put into a Server room](https://twitter.com/the_yanco/status/1941388896387875282)
+- [What &#39;Project Hail Mary&#39; teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
+- [What I learned building an AI coding agent for a year](https://jamesgrugett.com/p/what-i-learned-building-an-ai-coding)
+- [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 - [Go, PET, Let Hen - Curious adventures in &lpar;Commodore&rpar; BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
-- [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
-- [Gecode is an open source C++ toolkit for developing constraint-based systems](https://www.gecode.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
