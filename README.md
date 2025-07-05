@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new, faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
 - [Telli &lpar;YC F24&rpar; Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
-- [The terrifying truth about why Tesla&#39;s cars keep crashing](https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing)
-- [Clarifying Our Pricing](https://cursor.com/en/blog/june-2025-pricing)
+- [The messy reality of SIMD &lpar;vector&rpar; functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
+- [Clarifying our pricing](https://cursor.com/en/blog/june-2025-pricing)
 - [Amiga Linux &lpar;1993&rpar;](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)
-- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
