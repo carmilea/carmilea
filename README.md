@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Holding Cellphone while driving is illegal, California court rules](https://www.latimes.com/california/story/2025-06-05/holding-your-cell-to-navigate-while-driving-is-illegal-court-says)
+- [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
+- [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 - [The Prime Reasons to Avoid Amazon](https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
 - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
 - [Cod Have Been Shrinking for Decades, Scientists Say They&#39;ve Solved Mystery](https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/)
-- [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
