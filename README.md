@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OBBB signed: reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
+- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
+- [OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
 - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
-- [Show HN: Tinykv – minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
-- [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
-- [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
+- [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
+- [Nvidia is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
