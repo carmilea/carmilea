@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
+- [Large language models are improving exponentially?](https://spectrum.ieee.org/large-language-model-performance)
+- [The AI industry is facing a handful of urgent problems](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 - [Go, PET, Let Hen - Curious adventures in &lpar;Commodore&rpar; BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
 - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 - [Gecode is an open source C++ toolkit for developing constraint-based systems](https://www.gecode.org/)
-- [Telli &lpar;YC F24&rpar; Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
