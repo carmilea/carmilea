@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new law in Sweden makes it illegal to buy custom adult content](https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s)
+- [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
 - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
-- [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
 - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
-- [Heart attacks aren&#39;t as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
