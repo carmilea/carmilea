@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
+- [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)
+- [Heart attacks aren&#39;t as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
+- [&#39;Positive review only&#39;: Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
-- [Musk and co should ask AI what defines intelligence. They may learn something](https://observer.co.uk/news/columnists/article/musk-and-co-should-ask-an-ai-what-defines-intelligence-they-may-learn-something)
-- [Europe&#39;s first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
-- [What &#39;Project Hail Mary&#39; teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
-- [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
