@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
+- [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
+- [Go, PET, Let Hen - Curious adventures in &lpar;Commodore&rpar; BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
 - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
-- [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)
+- [Gecode is an open source C++ toolkit for developing constraint-based systems](https://www.gecode.org/)
 - [Telli &lpar;YC F24&rpar; Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
-- [The messy reality of SIMD &lpar;vector&rpar; functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
