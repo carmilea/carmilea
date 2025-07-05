@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
+- [Why AO3 Was Down](https://www.reddit.com/r/AO3/s/67nQid89MW)
 - [OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
 - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 - [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
-- [Nvidia is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
