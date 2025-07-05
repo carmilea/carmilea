@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The only time HN is this interested in Bitcoin is when there&#39;s a bubble &lpar;2017&rpar;](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
+- [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
+- [Making My Own Hacktoberfest T-Shirts](https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/)
+- [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)
 - [A new, faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
-- [Telli &lpar;YC F24&rpar; Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
-- [You will own nothing and be happy &lpar;Stop Killing Games&rpar;](https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0)
-- [The messy reality of SIMD &lpar;vector&rpar; functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
-- [Clarifying our pricing](https://cursor.com/en/blog/june-2025-pricing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
