@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley can&#39;t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
-- [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
+- [OBBB signed: reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
+- [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
+- [Show HN: Tinykv – minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
 - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
-- [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
