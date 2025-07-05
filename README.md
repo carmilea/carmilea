@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
-- [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)
+- [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
+- [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 - [Heart attacks aren&#39;t as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
 - [&#39;Positive review only&#39;: Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
-- [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
