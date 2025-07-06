@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MI5’s falsehoods in the case of neo-Nazi spy who abused women](https://www.bbc.com/news/articles/c3w4nwdwywno)
-- [New study offers clues about what makes someone cool](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html)
+- [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
+- [Ask HN: If AGI were invented tomorrow which countries would fare better?](https://news.ycombinator.com/item?id=44479210)
 - [Overthinking GIS &lpar;2024&rpar;](https://scottsexton.co/post/overthinking_gis/)
-- [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
+- [The force-feeding of AI features on an unwilling public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 - [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 <!-- BLOG-POST-LIST:END -->
 
