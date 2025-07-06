@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel&#39;s Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
+- [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
+- [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
 - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 - [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
-- [Why English doesn&#39;t use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
-- [I don&#39;t think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
-- [Backlog.md – CLI that auto-generates task files &lpar;took my Claude success to 95 %&rpar;](https://github.com/MrLesk/Backlog.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
