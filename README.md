@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Canadian&#39;s AI hoax duped the media and propelled a &#39;band&#39; to success](https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874)
+- [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
+- [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
 - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
-- [WinUAE 6 Amiga Emulator](https://www.winuae.net/)
-- [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
-- [The Prime Reasons to Avoid Amazon](https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
-- [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
+- [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
