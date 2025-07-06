@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functions Are Vectors &lpar;2023&rpar;](https://thenumb.at/Functions-are-Vectors/)
+- [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
+- [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
 - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 - [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
-- [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
-- [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
-- [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
