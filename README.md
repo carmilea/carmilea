@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
+- [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
+- [Why English doesn&#39;t use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 - [I don&#39;t think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
 - [Backlog.md – CLI that auto-generates task files &lpar;took my Claude success to 95 %&rpar;](https://github.com/MrLesk/Backlog.md)
-- [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
-- [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
-- [Luigi Lineri, the Man Who Collects and Categorizes Stones &lpar;2024&rpar;](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
