@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
+- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
+- [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
 - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
-- [Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support](https://github.com/seuros/breaker_machines)
-- [Overthinking GIS &lpar;2024&rpar;](https://scottsexton.co/post/overthinking_gis/)
-- [The force-feeding of AI features on an unwilling public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
