@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MI5 piled falsehood on falsehood in court in the case of an abusive spy who](https://www.bbc.com/news/articles/c3w4nwdwywno)
-- [Overthinking GIS](https://scottsexton.co/post/overthinking_gis/)
-- [Triffin Dilemma: How the US Genius Act Could Trigger a &#39;Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)
+- [MI5’s falsehoods in the case of neo-Nazi spy who abused women](https://www.bbc.com/news/articles/c3w4nwdwywno)
+- [New study offers clues about what makes someone cool](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html)
+- [Overthinking GIS &lpar;2024&rpar;](https://scottsexton.co/post/overthinking_gis/)
 - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
-- [Are We the Baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
+- [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
