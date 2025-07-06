@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
+- [Injection Rejection &lpar;2006&rpar;](https://thedailywtf.com/articles/Injection_Rejection)
+- [Volunteer finds Holy Grail of abolitionist-era Baptist documents](https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/)
 - [A Canadian&#39;s AI hoax duped the media and propelled a &#39;band&#39; to success](https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874)
-- [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
-- [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
-- [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
-- [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
+- [Ask HN: Advice for Starting a Hacker Space?](https://news.ycombinator.com/item?id=44476822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
