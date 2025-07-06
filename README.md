@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Luigi Lineri, the Man Who Collects and Categorizes Stones &lpar;2024&rpar;](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
-- [Micro Common Lisp](https://t3x.org/mcl/index.html)
+- [Show HN: I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
+- [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 - [Show HN: I wrote a &quot;web OS&quot; based on the Apple Lisa&#39;s UI, with 1-bit graphics](https://alpha.lisagui.com/)
 - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
-- [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
+- [Show HN: Simple wrapper for Chrome&#39;s built-in local LLM &lpar;Gemini Nano&rpar;](https://github.com/kstonekuan/simple-chromium-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
