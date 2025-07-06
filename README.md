@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collatz&#39;s Ant and Σ&lpar;n&rpar;](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
 - [Metriport &lpar;YC S22&rpar; is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
 - [Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
 - [Functions Are Vectors &lpar;2023&rpar;](https://thenumb.at/Functions-are-Vectors/)
 - [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
-- [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
