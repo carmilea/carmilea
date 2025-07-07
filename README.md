@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
-- [The Era of Full Stack Chip Designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
+- [I Ported SAP to a 1976 CPU. It Wasn&#39;t That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
+- [The era of full stack chip designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
