@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel&#39;s Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
-- [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
-- [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
-- [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
-- [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
+- [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
+- [There&#39;s a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
+- [Swedish Campground: &quot;There are too many Apples on the screen!&quot;](https://www.folklore.org/Swedish_Campground.html)
+- [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
+- [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
