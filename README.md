@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
+- [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 - [Deno 2.4](https://deno.com/blog/v2.4)
 - [Poland&#39;s clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
-- [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
-- [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
