@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
-- [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
 - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
