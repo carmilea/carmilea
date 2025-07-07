@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
+- [The Era of Full Stack Chip Designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-- [There&#39;s a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
