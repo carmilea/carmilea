@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
+- [America has two labor markets now](https://www.axios.com/2025/07/06/unemployment-job-market-education-health-care)
+- [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)
+- [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-- [There&#39;s a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
-- [Swedish Campground: &quot;There are too many Apples on the screen!&quot;](https://www.folklore.org/Swedish_Campground.html)
-- [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
-- [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
