@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ported SAP to a 1976 CPU. It Wasn&#39;t That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
-- [The era of full stack chip designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
+- [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
+- [Deno 2.4](https://deno.com/blog/v2.4)
+- [Poland&#39;s clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
 - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
-- [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 <!-- BLOG-POST-LIST:END -->
 
