@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
-- [Deno 2.4](https://deno.com/blog/v2.4)
+- [New quantum paradox clarifies where our views of reality go wrong &lpar;2018&rpar;](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
+- [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+- [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
-- [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 <!-- BLOG-POST-LIST:END -->
 
