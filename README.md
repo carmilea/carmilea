@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
 - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
 - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
-- [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
