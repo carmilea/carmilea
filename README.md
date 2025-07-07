@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
+- [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
+- [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
+- [Launch HN: Morph &lpar;YC S23&rpar; – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
-- [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
-- [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
-- [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
-- [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
