@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 - [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
+- [Southern Ocean Circulation Reversed](https://iefworld.org/SMOCreversal2025)
+- [High Performance Image Sensor Processing Using FPGA [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 - [America has two labor markets now](https://www.axios.com/2025/07/06/unemployment-job-market-education-health-care)
-- [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)
-- [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
-- [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
