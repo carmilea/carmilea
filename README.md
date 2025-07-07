@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
+- [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
+- [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
+- [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
 - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
-- [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
-- [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
-- [Launch HN: Morph &lpar;YC S23&rpar; – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
-- [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
