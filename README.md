@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
-- [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
+- [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
+- [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
+- [Show HN: I built a tool to solve window management](https://aboveaverageuser.com/smartswitcher)
 - [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
 - [Show HN: OffChess – Offline chess puzzles app](https://offchess.com)
-- [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
