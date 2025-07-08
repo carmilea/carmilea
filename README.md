@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
 - [ChatGPT testing a mysterious new feature called &#39;study together&#39;](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
