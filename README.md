@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a tool to solve window management once and for all](https://aboveaverageuser.com/smartswitcher)
+- [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
+- [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
 - [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
 - [Show HN: OffChess – Offline chess puzzles app](https://offchess.com)
-- [WebAssembly: Yes, but for What?](https://queue.acm.org/detail.cfm?id=3746171)
 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 <!-- BLOG-POST-LIST:END -->
 
