@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)
-- [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
-- [Google can now read your WhatsApp messages](https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/)
-- [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
-- [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
+- [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
+- [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
+- [CVE-2025-48384: Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+- [Supabase MCP leaks your entire SQL Database, a lethal trifecta attack](https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/)
+- [Radium – The Music Editor](http://users.notam02.no/~kjetism/radium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
