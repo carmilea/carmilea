@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Real-Time Finance with Singlestore](https://www.youtube.com/watch?v=G5XMRliiyFo)
 - [Building Modern Apps with Drizzle ORM and SingleStore](https://www.youtube.com/watch?v=aj4w024yjmw)
 - [Practical RAG Implementation with Efficient LLMs](https://www.youtube.com/watch?v=mK6-5fSObD0)
 - [SingleStore Upsert: SingleStore Aura Demo &amp; AI Innovations with Bharath Swamy](https://www.youtube.com/watch?v=d0VtSD81ZyY)
 - [SingleStore + Iceberg Seamless Integrations](https://www.youtube.com/watch?v=k8JLclppTTI)
-- [SingleStore Upsert: Elevate Developer Experience – New Tools &amp; Automation for Modern Workflows](https://www.youtube.com/watch?v=8POroi7jQwQ)
 <!-- YOUTUBE:END -->
 
 
