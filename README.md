@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attimet &lpar;YC F24&rpar; – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
+- [Tell HN: I Lost Joy of Programming](https://news.ycombinator.com/item?id=44499063)
 - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
-- [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
