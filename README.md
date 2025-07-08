@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+- [BBC staff: we&#39;re forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
-- [Show HN: Ossia score – A sequencer for audio-visual artists](https://github.com/ossia/score)
 <!-- BLOG-POST-LIST:END -->
 
 ---
