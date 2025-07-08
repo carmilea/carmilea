@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+- [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
+- [ChatGPT testing a mysterious new feature called &#39;study together&#39;](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
-- [Running a Certificate Transparency log](https://words.filippo.io/run-sunlight/)
 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 <!-- BLOG-POST-LIST:END -->
 
