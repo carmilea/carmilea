@@ -62,7 +62,7 @@
 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
 - [Florida is letting companies make it harder for highly paid workers to swap jobs](https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7)
 - [Migrating to SingleStore Without Rewriting a Line of Code](https://www.singlestore.com/blog/migrating-to-singlestore-without-rewriting-a-line-of-code)
-- [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
+- [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
