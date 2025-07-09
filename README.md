@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OLMo 2 - a family of fully-open language models](https://allenai.org/olmo)
+- [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
+- [US court strikes down &#39;click-to-cancel&#39; rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
+- [Libpostal: C library for parsing/normalizing street addresses around the world](https://github.com/openvenues/libpostal)
 - [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
-- [Bulgaria to join Euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
-- [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
-- [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
+- [Bulgaria to join euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
