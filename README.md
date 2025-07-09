@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
+- [Evolution Mail Users Easily Trackable](https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable)
+- [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
+- [The Architecture Behind Lovable and Bolt](https://www.beam.cloud/blog/agentic-apps)
 - [X Chief Says She Is Leaving the Social Media Platform](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
-- [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
-- [Migrating to SingleStore Without Rewriting a Line of Code](https://www.singlestore.com/blog/migrating-to-singlestore-without-rewriting-a-line-of-code)
-- [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
-- [Nvidia Becomes First Company to Reach $4T Market Cap](https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
