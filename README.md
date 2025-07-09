@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
-- [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
-- [Bug Stories](https://500mile.email/)
-- [SUSE launches new European digital sovereignty service to meet surging demand](https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/)
-- [Show HN: I rewrote an outdated React Native map clustering library](https://github.com/suwi-lanji/rn-maps-clustering)
+- [From AI to Agents to Agencies](https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the)
+- [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
+- [ESIM Security](https://security-explorations.com/esim-security.html)
+- [The MCP hype is a distraction. AI Agents should just build their own tools](https://www.rtrvr.ai/blog/on-the-fly-toolgen)
+- [Show HN: Dev atrophy test – Can you still code without AI?](https://news.ycombinator.com/item?id=44507369)
 <!-- BLOG-POST-LIST:END -->
 
 ---
