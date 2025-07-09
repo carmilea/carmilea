@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
-- [Comparing the Climate and Productivity Impacts of a Shrinking Population](https://www.nber.org/papers/w33932)
-- [Where can I see Hokusai&#39;s Great Wave today?](https://greatwavetoday.com/)
-- [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
-- [iPod Linux – Linux for Your iPod](http://www.ipodlinux.org/)
+- [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
+- [PHP 8.5 alpha 1 is available for download](https://www.php.net/archive/2025.php)
+- [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
+- [Bug Stories](https://500mile.email/)
+- [Grow a Garden Calculator](https://growagardencalculators.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
