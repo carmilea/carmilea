@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some cool or underrated tech companies based in Canada?](https://news.ycombinator.com/item?id=44503952)
-- [Show HN: OpenAPI mocks that don&#39;t suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)
-- [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
-- [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
-- [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
+- [OLMo 2 - a family of fully-open language models](https://allenai.org/olmo)
+- [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
+- [Bulgaria to join Euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
+- [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
+- [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
