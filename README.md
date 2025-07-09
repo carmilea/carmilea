@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
 - [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
-- [Perplexity Comet](https://comet.perplexity.ai/?a=b)
 - [Google fails to dismiss wiretapping claims on SJ, settles with app users](https://news.ycombinator.com/item?id=44513750)
 - [Desktop Publishing Tools That Didn&#39;t Make It &lpar;2022&rpar;](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 <!-- BLOG-POST-LIST:END -->
