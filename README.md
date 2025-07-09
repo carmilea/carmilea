@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
+- [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
 - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
-- [Desktop Publishing Tools That Didn&#39;t Make It](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
-- [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
-- [Evolution Mail Users Easily Trackable](https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable)
-- [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
+- [Google fails to dismiss wiretapping claims on SJ, settles with app users](https://news.ycombinator.com/item?id=44513750)
+- [Desktop Publishing Tools That Didn&#39;t Make It &lpar;2022&rpar;](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
