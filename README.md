@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
+- [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
+- [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
-- [Show HN: MCP server for searching and downloading documents from Anna&#39;s Archive](https://github.com/iosifache/annas-mcp)
-- [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
-- [The Death of Partying in the USA and Why It Matters](https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
