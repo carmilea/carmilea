@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [X Chief Says She Is Leaving the Social Media Platform](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
-- [Florida is letting companies make it harder for highly paid workers to swap jobs](https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7)
 - [Migrating to SingleStore Without Rewriting a Line of Code](https://www.singlestore.com/blog/migrating-to-singlestore-without-rewriting-a-line-of-code)
 - [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
+- [Nvidia Becomes First Company to Reach $4T Market Cap](https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
