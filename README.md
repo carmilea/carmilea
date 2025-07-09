@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4.6B Years On, the Sun Is Having a Moment](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
+- [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
+- [Million Times Million](https://susam.net/million-times-million.html)
 - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
 - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
-- [ESIM Security](https://security-explorations.com/esim-security.html)
-- [Show HN: Dev atrophy test – Can you still code without AI?](https://news.ycombinator.com/item?id=44507369)
-- [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
