@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
+- [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
+- [Show HN: MCP server for searching and downloading documents from Anna&#39;s Archive](https://github.com/iosifache/annas-mcp)
 - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
-- [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
-- [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
-- [Google fails to dismiss wiretapping claims on SJ, settles with app users](https://news.ycombinator.com/item?id=44513750)
-- [Desktop Publishing Tools That Didn&#39;t Make It &lpar;2022&rpar;](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
+- [The Death of Partying in the USA and Why It Matters](https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
