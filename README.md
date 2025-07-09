@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity Comet](https://comet.perplexity.ai/?a=b)
+- [Desktop Publishing Tools That Didn&#39;t Make It](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
 - [Evolution Mail Users Easily Trackable](https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable)
 - [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
-- [The Architecture Behind Lovable and Bolt](https://www.beam.cloud/blog/agentic-apps)
-- [X Chief Says She Is Leaving the Social Media Platform](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
