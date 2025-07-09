@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
 - [Comparing the Climate and Productivity Impacts of a Shrinking Population](https://www.nber.org/papers/w33932)
-- [Phrase origin: Why do we &quot;call&quot; functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
 - [Where can I see Hokusai&#39;s Great Wave today?](https://greatwavetoday.com/)
 - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
+- [iPod Linux – Linux for Your iPod](http://www.ipodlinux.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
