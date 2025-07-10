@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
 - [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
+- [A lightweight Cloudflare Dynamic DNS shell script](https://github.com/fernvenue/cloudflare-ddns)
 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
-- [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
-- [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
