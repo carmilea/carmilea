@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
+- [Could a Paper Plane Thrown from the ISS Survive the Flight?](https://www.sciencealert.com/could-a-paper-plane-thrown-from-the-international-space-station-survive-the-flight)
 - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
 - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
