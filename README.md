@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
 - [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
-- [A lightweight Cloudflare Dynamic DNS shell script](https://github.com/fernvenue/cloudflare-ddns)
 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
+- [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 <!-- BLOG-POST-LIST:END -->
 
