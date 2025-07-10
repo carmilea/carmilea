@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
-- [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
-- [EU rules ask tech giants to publicly track how, when AI models go off the rails](https://arstechnica.com/tech-policy/2025/07/everything-tech-giants-will-hate-about-the-eus-new-ai-rules/)
-- [George Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
-- [US utilities plot big rise in electricity rates as data centre demand booms](https://www.ft.com/content/c5f20c78-7931-492f-9153-675f3046e245)
+- [Why, Why, Why, Eliza?](https://www.learningfromexamples.com/p/why-why-why-eliza)
+- [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
+- [U.S. will review social media for foreign student visa applications](https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media)
+- [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
+- [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
