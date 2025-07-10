@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 - [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)
-- [Underwater turbine spinning for 6 years off Scotland&#39;s coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
-- [Flix – A powerful effect-oriented programming language](https://flix.dev/)
-- [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
-- [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+- [How to Build a RAG Knowledge Base in Python for Customer Support](https://www.singlestore.com/blog/how-to-build-a-rag-knowledge-base-in-python-for-customer-support)
+- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
