@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Executed Chinese prisoners likely used in UK exhibition &lpar;2021&rpar;](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)
+- [Underwater turbine spinning for 6 years off Scotland&#39;s coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
+- [Flix – A powerful effect-oriented programming language](https://flix.dev/)
 - [Could a Paper Plane Thrown from the ISS Survive the Flight?](https://www.sciencealert.com/could-a-paper-plane-thrown-from-the-international-space-station-survive-the-flight)
 - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
-- [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
-- [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
-- [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
