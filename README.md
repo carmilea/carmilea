@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
-- [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)
-- [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
-- [How to Build a RAG Knowledge Base in Python for Customer Support](https://www.singlestore.com/blog/how-to-build-a-rag-knowledge-base-in-python-for-customer-support)
-- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
+- [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
+- [EU rules ask tech giants to publicly track how, when AI models go off the rails](https://arstechnica.com/tech-policy/2025/07/everything-tech-giants-will-hate-about-the-eus-new-ai-rules/)
+- [George Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
+- [US utilities plot big rise in electricity rates as data centre demand booms](https://www.ft.com/content/c5f20c78-7931-492f-9153-675f3046e245)
+- [Retail cyber attacks: NCA arrest four for attacks on M&amp;S, Co-op and Harrods](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
