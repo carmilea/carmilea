@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
-- [The FBI Is Using Polygraphs to Test Officials&#39; Loyalty](https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html)
 - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
 - [Optical and Acoustic Super-Radiance via a Microtubule &lpar;2024&rpar;](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
 - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
+- [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
