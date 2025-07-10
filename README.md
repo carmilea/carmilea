@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
+- [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 - [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
 - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
-- [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
-- [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
