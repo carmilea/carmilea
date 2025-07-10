@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [At last, a use case for AI agents with sky-high ROI: Stealing crypto](https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/)
-- [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)
-- [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
+- [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
+- [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
+- [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 <!-- BLOG-POST-LIST:END -->
