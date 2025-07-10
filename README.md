@@ -61,8 +61,8 @@
 - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
-- [Matt Trout has died](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
+- [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
