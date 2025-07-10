@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
+- [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
 - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
 - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
-- [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
