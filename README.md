@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;Ripples They Cause in the World&quot;](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
+- [I made a parody of enterprise AI chatbots](https://github.com/muratcanozdemir/chatgpt-parody)
 - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
 - [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
-- [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
