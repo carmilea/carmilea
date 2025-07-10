@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
-- [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 - [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
+- [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
