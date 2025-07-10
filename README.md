@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why, Why, Why, Eliza?](https://www.learningfromexamples.com/p/why-why-why-eliza)
 - [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
-- [U.S. will review social media for foreign student visa applications](https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media)
 - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
-- [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)
+- [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
+- [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
+- [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 <!-- BLOG-POST-LIST:END -->
 
 ---
