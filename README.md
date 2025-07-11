@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FP8 is ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://twitter.com/cis_female/status/1943069934332055912)
 - [At Amazon&#39;s Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-- [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
-- [LLM Inference Handbook](https://bentoml.com/llm/)
+- [The day someone created 184 billion Bitcoin &lpar;2020&rpar;](https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
