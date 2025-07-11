@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
-- [Slack&#39;s 57MB 404 page](https://a.slack.com/archives/b/c)
+- [At Amazon&#39;s Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 - [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
+- [LLM Inference Handbook](https://bentoml.com/llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
