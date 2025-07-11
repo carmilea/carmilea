@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Time to Let Go of &#39;African American&#39;](https://archive.li/jkk4S)
+- [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
+- [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
+- [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
 - [&#39;Click-to-cancel&#39; rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
-- [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
-- [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
-- [Using Sound Waves to Put Out Fire: Story of Two George Mason University Students](https://wowparrot.com/using-sound-waves-to-put-out-fire/)
-- [Bill Atkinson&#39;s Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
