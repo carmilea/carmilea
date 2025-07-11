@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
-- [I&#39;m Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
-- [Upgrading an M4 Pro Mac mini&#39;s storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
-- [Some arguments against a land value tax &lpar;2024&rpar;](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
-- [Overtourism in Japan, and how it hurts small businesses](https://craigmod.com/ridgeline/210/)
+- [Pa. House passes &#39;click-to-cancel&#39; subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
+- [In a First, Solar Was Europe&#39;s Biggest Source of Power Last Month](https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025)
+- [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
+- [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
+- [Turmeric is the culprit in a global lead poisoning mystery](https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
