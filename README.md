@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
+- [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+- [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
+- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
 - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
-- [Optical and Acoustic Super-Radiance via a Microtubule &lpar;2024&rpar;](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
 - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
-- [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
