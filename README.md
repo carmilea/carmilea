@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s fastest-growing suburbs are about to get expensive](https://www.vox.com/future-perfect/417892/suburbs-sunbelt-housing-affordability-yimby)
-- [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
-- [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- [SEO Is Dead. Long Live Geo](https://substack.gauravvohra.com/p/search-is-dead-long-live-llms-winning-in-the-era-of-llms-ai-overviews-and-geo)
+- [Australia is introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
+- [LLM Inference Handbook](https://bentoml.com/llm/)
 - [Grok: Searching X for &quot;From:Elonmusk &lpar;Israel or Palestine or Hamas or Gaza&rpar;&quot;](https://simonwillison.net/2025/Jul/11/grok-musk/)
 - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 <!-- BLOG-POST-LIST:END -->
