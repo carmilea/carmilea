@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Time to Let Go of &#39;African American&#39;](https://archive.li/jkk4S)
+- [Some arguments against a land value tax](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
 - [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
 - [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
 - [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
