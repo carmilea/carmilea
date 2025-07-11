@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 - [A software conference that advocates for quality](https://bettersoftwareconference.com/)
-- [OpenAI&#39;s Windsurf deal is off, and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
+- [&#39;123456&#39; password exposed chats for 64M McDonald&#39;s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
+- [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search and Python Back End Engineers&lpar;Onsite,MV&rpar;](https://careers.activeloop.ai/)
-- [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
-- [I&#39;m more proud of these 128 kilobytes than anything I&#39;ve built since](https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
