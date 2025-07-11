@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
+- [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 - [Pa. House passes &#39;click-to-cancel&#39; subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
 - [In a First, Solar Was Europe&#39;s Biggest Source of Power Last Month](https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025)
 - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
