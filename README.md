@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some arguments against a land value tax](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
-- [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
-- [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
-- [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
-- [&#39;Click-to-cancel&#39; rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
+- [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
+- [I&#39;m Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
+- [Upgrading an M4 Pro Mac mini&#39;s storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
+- [Some arguments against a land value tax &lpar;2024&rpar;](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
+- [Overtourism in Japan, and how it hurts small businesses](https://craigmod.com/ridgeline/210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
