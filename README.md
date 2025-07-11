@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
+- [America&#39;s fastest-growing suburbs are about to get expensive](https://www.vox.com/future-perfect/417892/suburbs-sunbelt-housing-affordability-yimby)
+- [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
 - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- [Grok: Searching X for &quot;From:Elonmusk &lpar;Israel or Palestine or Hamas or Gaza&rpar;&quot;](https://simonwillison.net/2025/Jul/11/grok-musk/)
 - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
-- [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
