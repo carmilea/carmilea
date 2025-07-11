@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search and Python Back End Engineers&lpar;Onsite,MV&rpar;](https://careers.activeloop.ai/)
+- [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
 - [I&#39;m more proud of these 128 kilobytes than anything I&#39;ve built since](https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18)
-- [Belkin shows tech firms getting too comfortable with bricking customers&#39; stuff](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/)
 - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
-- [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
