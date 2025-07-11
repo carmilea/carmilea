@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+- [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
+- [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
-- [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
-- [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
