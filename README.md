@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Fertility So Low in High Income Countries? &lpar;NBER&rpar;](https://www.nber.org/papers/w33989)
+- [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
+- [Slack&#39;s 57MB 404 page](https://a.slack.com/archives/b/c)
 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-- [LLM Inference Handbook](https://bentoml.com/llm/)
-- [Grok: Searching X for &quot;From:Elonmusk &lpar;Israel or Palestine or Hamas or Gaza&rpar;&quot;](https://simonwillison.net/2025/Jul/11/grok-musk/)
+- [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
