@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FP8 is ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://twitter.com/cis_female/status/1943069934332055912)
-- [At Amazon&#39;s Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
-- [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
-- [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-- [The day someone created 184 billion Bitcoin &lpar;2020&rpar;](https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator)
+- [&#39;Click-to-cancel&#39; rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
+- [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
+- [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
+- [Using Sound Waves to Put Out Fire: Story of Two George Mason University Students](https://wowparrot.com/using-sound-waves-to-put-out-fire/)
+- [Bill Atkinson&#39;s Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
