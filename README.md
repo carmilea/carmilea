@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Starter packs&#39; have played a central role in Bluesky&#39;s rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
+- [I Messed Up My Google PM Vibe Coding Interview](https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/)
+- [Bypassing Google&#39;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
 - [Supreme Court&#39;s Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
-- [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
-- [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
-- [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
 <!-- BLOG-POST-LIST:END -->
 
 ---
