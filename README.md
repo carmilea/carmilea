@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 - [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
 - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
-- [Tell HN: uBlock Origin on Chrome is finally gone](https://news.ycombinator.com/item?id=44538517)
 - [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
 - [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
 <!-- BLOG-POST-LIST:END -->
