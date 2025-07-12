@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nodegram](https://nodegram.org/)
 - [&#39;Starter packs&#39; have played a central role in Bluesky&#39;s rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
 - [Bypassing Google&#39;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
 - [Supreme Court&#39;s ruling practically wipes out free speech for sex writing online](https://ellsberg.substack.com/p/free-speech)
+- [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
