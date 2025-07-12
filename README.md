@@ -61,8 +61,8 @@
 - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
 - [The fish kick may be the fastest subsurface swim stroke yet &lpar;2015&rpar;](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
+- [Working through &#39;Writing A C Compiler&#39;](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 - [Sieve &lpar;YC X25&rpar; is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
-- [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
