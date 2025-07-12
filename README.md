@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave](https://brave.com/blog/brave-shields-manifest-v3/)
+- [Grok 4 Heavy Protects it&#39;s System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
+- [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
 - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
-- [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
-- [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
-- [No limit to ChatGPT searches &#39;remarkable&#39; given environmental impact](https://www.independent.co.uk/climate-change/news/tim-peake-chatgpt-ceo-british-chichester-b2787894.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
