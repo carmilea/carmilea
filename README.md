@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is This New Swim Stroke the Fastest Yet?](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 - [Sieve &lpar;YC X25&rpar; is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
 - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 - [New Date&lpar;&quot;wtf&quot;&rpar; – How well do you know JavaScript&#39;s Date class?](https://jsdate.wtf)
-- [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
