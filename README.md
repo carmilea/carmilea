@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman delays open weights model release](https://twitter.com/sama/status/1943837550369812814)
+- [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
 - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
+- [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
 - [A software conference that advocates for quality](https://bettersoftwareconference.com/)
-- [&#39;123456&#39; password exposed chats for 64M McDonald&#39;s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
-- [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search and Python Back End Engineers&lpar;Onsite,MV&rpar;](https://careers.activeloop.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
