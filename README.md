@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave](https://brave.com/blog/brave-shields-manifest-v3/)
-- [Grok 4 Heavy Protects it&#39;s System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
+- [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
+- [Supreme Court&#39;s Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
 - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
 - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
