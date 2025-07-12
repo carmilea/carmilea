@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI to release web browser in challenge to Google Chrome](https://www.cnbc.com/2025/07/09/openai-to-release-web-browser-in-challenge-to-google-chrome.html)
 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
+- [New Date&lpar;&quot;WTF&quot;&rpar; – How well do you know JavaScript&#39;s Date class?](https://jsdate.wtf)
 - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 - [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
-- [Psilocybin shows promise as anti-aging therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
-- [What is Incus?](https://linuxcontainers.org/incus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
