@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman delays open weights model release](https://twitter.com/sama/status/1943837550369812814)
+- [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
+- [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
+- [Tell HN: uBlock Origin on Chrome is finally gone](https://news.ycombinator.com/item?id=44538517)
+- [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
 - [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
-- [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
-- [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
-- [A software conference that advocates for quality](https://bettersoftwareconference.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
