@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
-- [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
-- [The fish kick may be the fastest subsurface swim stroke yet &lpar;2015&rpar;](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
-- [Working through &#39;Writing A C Compiler&#39;](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
-- [Sieve &lpar;YC X25&rpar; is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
+- [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
+- [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
+- [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
+- [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
+- [No limit to ChatGPT searches &#39;remarkable&#39; given environmental impact](https://www.independent.co.uk/climate-change/news/tim-peake-chatgpt-ceo-british-chichester-b2787894.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
