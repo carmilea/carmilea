@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revival: There appears to be media consensus: &quot;Bluesky is dead.&quot;](https://netwars.pelicancrossing.net/2025/06/27/revival/)
-- [OpenAI to release web browser in challenge to Google Chrome](https://www.cnbc.com/2025/07/09/openai-to-release-web-browser-in-challenge-to-google-chrome.html)
+- [Sieve &lpar;YC X25&rpar; is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
 - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 - [New Date&lpar;&quot;wtf&quot;&rpar; – How well do you know JavaScript&#39;s Date class?](https://jsdate.wtf)
+- [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
