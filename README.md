@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nodegram](https://nodegram.org/)
 - [&#39;Starter packs&#39; have played a central role in Bluesky&#39;s rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
-- [I Messed Up My Google PM Vibe Coding Interview](https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/)
 - [Bypassing Google&#39;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
-- [Supreme Court&#39;s Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
+- [Supreme Court&#39;s ruling practically wipes out free speech for sex writing online](https://ellsberg.substack.com/p/free-speech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
