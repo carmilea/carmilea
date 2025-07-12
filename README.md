@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Psilocybin Shows Promise as Anti-Aging Therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
-- [America&#39;s largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
+- [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
+- [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
+- [Psilocybin shows promise as anti-aging therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
+- [What is Incus?](https://linuxcontainers.org/incus/)
 - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
-- [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
-- [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
