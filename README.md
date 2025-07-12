@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
+- [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
 - [The fish kick may be the fastest subsurface swim stroke yet &lpar;2015&rpar;](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 - [Sieve &lpar;YC X25&rpar; is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
 - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
-- [Commodore 64 Ultimate](https://www.commodore.net)
-- [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
