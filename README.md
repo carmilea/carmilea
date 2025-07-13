@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Starter packs&#39; have played a central role in Bluesky&#39;s rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
-- [Bypassing Google&#39;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
-- [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
-- [Supreme Court&#39;s ruling practically wipes out free speech for sex writing online](https://ellsberg.substack.com/p/free-speech)
-- [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
+- [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
+- [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
+- [Startup just hit a big milestone for green steel production](https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/)
+- [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
+- [Zig&#39;s New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
