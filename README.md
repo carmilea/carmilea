@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
+- [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
+- [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab)
 - [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
 - [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
-- [Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB](https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition)
-- [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
-- [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
