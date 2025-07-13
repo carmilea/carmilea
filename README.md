@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AGI Is Mathematically Impossible &lpar;3&rpar;: Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
+- [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
