@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear Explosion for Carbon Sequestration](https://arxiv.org/abs/2501.06623)
-- [New Windows 11 build adds self-healing &quot;quick machine recovery&quot; feature](https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/)
+- [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 - [Edward Burtynsky&#39;s monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
 - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 - [Zig&#39;s New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+- [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
