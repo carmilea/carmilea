@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
+- [Infisical &lpar;YC W23&rpar; Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
+- [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
-- [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
