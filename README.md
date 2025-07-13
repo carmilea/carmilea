@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AGI Is Mathematically Impossible &lpar;3&rpar;: Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
+- [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 - [Hill Space: Neural nets that do perfect arithmetic &lpar;to 10⁻¹⁶ precision&rpar;](https://hillspace.justindujardin.com/)
-- [Edward Burtynsky&#39;s monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
-- [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
