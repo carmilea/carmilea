@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)
+- [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 - [Infisical &lpar;YC W23&rpar; Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
-- [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
-- [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
-- [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
+- [A Technical Look at Iran&#39;s Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
