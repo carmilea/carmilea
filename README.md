@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 - [Gaming cancer: How citizen science games could help cure disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
-- [Let me pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
