@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You have a fake North Korean IT worker problem](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
+- [Show HN: I built an LLM chat app because we shouldn&#39;t need 10 AI subscriptions](https://prismharmony.com/chat)
 - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
+- [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
-- [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
-- [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
-- [Hill Space: Neural nets that do perfect arithmetic &lpar;to 10⁻¹⁶ precision&rpar;](https://hillspace.justindujardin.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
