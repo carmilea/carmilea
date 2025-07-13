@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [You have a fake North Korean IT worker problem](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
-- [Show HN: I built an LLM chat app because we shouldn&#39;t need 10 AI subscriptions](https://prismharmony.com/chat)
+- [Mysterious pre-Islamic script from Oman finally deciphered](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
