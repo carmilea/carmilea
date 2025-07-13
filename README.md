@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
 - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
-- [Startup just hit a big milestone for green steel production](https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/)
 - [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
 - [Zig&#39;s New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+- [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
