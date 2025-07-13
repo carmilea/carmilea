@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
+- [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 - [Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB](https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition)
-- [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
 - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
-- [Amazon CEO says AI agents will soon reduce company&#39;s corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
 - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 <!-- BLOG-POST-LIST:END -->
 
