@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
+- [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 - [Apple&#39;s MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-- [PHP License Update](https://wiki.php.net/rfc/php_license_update)
+- [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
+- [Dog Walk: Blender Studio&#39;s official game project](https://blenderstudio.itch.io/dogwalk)
 - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
-- [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
