@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
+- [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
 - [The Scourge of Arial &lpar;2001&rpar;](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
+- [Black hole merger challenges our understanding of black hole formation](https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197)
 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
-- [Let&#39;s Learn x86-64 Assembly &lpar;2020&rpar;](https://gpfault.net/posts/asm-tut-0.txt.html)
-- [Big Data was used to see if TCM was scientific &lpar;2023&rpar;](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
-- [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
