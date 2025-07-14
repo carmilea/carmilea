@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
+- [Unlocking the Potential of Vector Search for AI and Machine Learning Workflows with SingleStore](https://www.singlestore.com/blog/unlocking-the-potential-of-vector-search-for-ai-and-machine-learning-workflows-with-singlestore)
+- [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
 - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
-- [Bitcoin passes $120k milestone as US Congress readies for &#39;crypto week&#39;](https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982)
 - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
-- [Apple&#39;s Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
-- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
