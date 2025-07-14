@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
 - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
+- [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
 - [Unlocking the Potential of Vector Search for AI and Machine Learning Workflows with SingleStore](https://www.singlestore.com/blog/unlocking-the-potential-of-vector-search-for-ai-and-machine-learning-workflows-with-singlestore)
-- [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
-- [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
-- [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
+- [Interview with Google&#39;s Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
