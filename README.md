@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
+- [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+- [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
 - [Cidco MailStation as a Z80 Development Platform &lpar;2019&rpar;](https://jcs.org/2019/05/03/mailstation)
 - [Cognition &lpar;Devin AI&rpar; to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 - [Meticulous &lpar;YC S21&rpar; is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
-- [Embedding user-defined indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
