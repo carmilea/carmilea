@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
 - [Unlocking the Potential of Vector Search for AI and Machine Learning Workflows with SingleStore](https://www.singlestore.com/blog/unlocking-the-potential-of-vector-search-for-ai-and-machine-learning-workflows-with-singlestore)
 - [Interview with Google&#39;s Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat)
 - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
 - [Apple&#39;s Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
-- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
