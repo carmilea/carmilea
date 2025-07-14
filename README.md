@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
-- [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
-- [Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability](https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/)
-- [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
-- [AWS launches Kiro, its Cursor clone](https://kiro.dev/blog/introducing-kiro/)
+- [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
+- [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids &lpar;2020&rpar;](https://mymodernmet.com/totoro-sculpture-bus-stop/)
+- [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
+- [Oakland cops gave ICE license plate data; SFPD also illegally shared with feds](https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/)
+- [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
