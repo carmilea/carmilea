@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4 Heavy &lpar;$300/mo&rpar; returns its surname and no other text: &quot;Hitler&quot;](https://twitter.com/goodside/status/1944266466875826617)
-- [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
-- [NeuralOS: An operating system powered by neural networks](https://neural-os.com/)
-- [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
-- [Cidco MailStation as a Z80 Development Platform &lpar;2019&rpar;](https://jcs.org/2019/05/03/mailstation)
+- [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
+- [Apple&#39;s MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
+- [PHP License Update](https://wiki.php.net/rfc/php_license_update)
+- [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
+- [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
