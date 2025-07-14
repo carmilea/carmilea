@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
 - [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
 - [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
 - [Black hole merger challenges our understanding of black hole formation](https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197)
-- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
