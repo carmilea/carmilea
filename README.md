@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
+- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
-- [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
 - [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
-- [The Scourge of Arial &lpar;2001&rpar;](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
