@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
+- [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
+- [Cognition &lpar;Devin AI&rpar; to Acquire Windsurf](https://cognition.ai/blog/windsurf)
+- [Meticulous &lpar;YC S21&rpar; is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
 - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
-- [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids &lpar;2020&rpar;](https://mymodernmet.com/totoro-sculpture-bus-stop/)
-- [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
-- [Oakland cops gave ICE license plate data; SFPD also illegally shared with feds](https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/)
+- [Japanese grandparents create life-size Totoro with bus stop for grandkids &lpar;2020&rpar;](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
