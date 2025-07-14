@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
-- [Unlocking the Potential of Vector Search for AI and Machine Learning Workflows with SingleStore](https://www.singlestore.com/blog/unlocking-the-potential-of-vector-search-for-ai-and-machine-learning-workflows-with-singlestore)
-- [Interview with Google&#39;s Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat)
-- [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
-- [Apple&#39;s Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
+- [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
+- [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
+- [Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability](https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/)
+- [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
+- [AWS launches Kiro, its Cursor clone](https://kiro.dev/blog/introducing-kiro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
