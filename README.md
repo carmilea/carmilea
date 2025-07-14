@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Learn x86-64 Assembly Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
-- [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
+- [The Scourge of Arial &lpar;2001&rpar;](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
+- [Let&#39;s Learn x86-64 Assembly &lpar;2020&rpar;](https://gpfault.net/posts/asm-tut-0.txt.html)
+- [Big Data was used to see if TCM was scientific &lpar;2023&rpar;](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
 - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
-- [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab)
-- [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
