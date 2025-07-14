@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
-- [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
+- [Grok 4 Heavy &lpar;$300/mo&rpar; returns its surname and no other text: &quot;Hitler&quot;](https://twitter.com/goodside/status/1944266466875826617)
+- [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+- [NeuralOS: An operating system powered by neural networks](https://neural-os.com/)
+- [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 - [Cidco MailStation as a Z80 Development Platform &lpar;2019&rpar;](https://jcs.org/2019/05/03/mailstation)
-- [Cognition &lpar;Devin AI&rpar; to Acquire Windsurf](https://cognition.ai/blog/windsurf)
-- [Meticulous &lpar;YC S21&rpar; is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
