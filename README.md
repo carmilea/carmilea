@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
 - [Apple&#39;s Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
 - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
-- [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
