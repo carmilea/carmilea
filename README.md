@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 - [Martin &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 - [Show HN: CallFS – S3-style object store in one Go binary &lpar;MIT&rpar;](https://github.com/ebogdum/callfs)
 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-- [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
