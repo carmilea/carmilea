@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where&#39;s Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
+- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 - [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
 - [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
 - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
-- [Helix Editor 25.07](https://helix-editor.com/news/release-25-07-highlights/)
-- [Underwriting Superintelligence](https://underwriting-superintelligence.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
