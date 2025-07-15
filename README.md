@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doge Denizen Marko Elez Leaked API Key for XAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/)
+- [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
+- [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
+- [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
 - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
-- [Apple&#39;s MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-- [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
-- [Dog Walk: Blender Studio&#39;s official game project](https://blenderstudio.itch.io/dogwalk)
-- [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
