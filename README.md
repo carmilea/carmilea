@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 3 out of 4 Oracle Java users say they&#39;ve been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
-- [CoinTracker &lpar;YC W18&rpar; is hiring to solve crypto taxes and accounting &lpar;remote&rpar;](https://news.ycombinator.com/item?id=44573320)
-- [Reflections on OpenAI](https://calv.info/openai-reflections)
-- [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
-- [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
+- [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
+- [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)
+- [Designing for the Eye: Optical Corrections in Architecture and Typography](https://www.nubero.ch/blog/015/)
+- [Open-source framework for real-time AI voice](https://github.com/videosdk-live/agents)
+- [KDE&#39;s official Android TV alternative is back from the dead](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
