@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly 3 out of 4 Oracle Java users say they&#39;ve been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
+- [CoinTracker &lpar;YC W18&rpar; is hiring to solve crypto taxes and accounting &lpar;remote&rpar;](https://news.ycombinator.com/item?id=44573320)
+- [Reflections on OpenAI](https://calv.info/openai-reflections)
 - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
-- [The IRS Is Building a System to Share Taxpayers&#39; Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
 - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
-- [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
-- [Ask HN: What&#39;s Your Useful Local LLM Stack?](https://news.ycombinator.com/item?id=44572043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
