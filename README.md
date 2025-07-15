@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 - [Martin &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-- [Doge Denizen Marko Elez Leaked API Key for XAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
