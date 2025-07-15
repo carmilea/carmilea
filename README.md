@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
+- [The Moving Assembly Line Turns 100 &lpar;2013&rpar;](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
