@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
-- [Meta announces new data centers, gobble up millions of gallons of water per day](https://www.engadget.com/ai/meta-announces-huge-new-data-centers-but-they-could-gobble-up-millions-of-gallons-of-water-per-day-174000478.html)
-- [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
-- [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)
-- [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)
+- [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
+- [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
+- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
+- [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
+- [Underwriting Superintelligence](https://underwriting-superintelligence.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
