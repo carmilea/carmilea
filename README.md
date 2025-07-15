@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
+- [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 - [Martin &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
