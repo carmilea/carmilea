@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Martin &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
-- [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
 - [Show HN: CallFS – S3-style object store in one Go binary &lpar;MIT&rpar;](https://github.com/ebogdum/callfs)
 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
+- [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
