@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
-- [The Moving Assembly Line Turns 100 &lpar;2013&rpar;](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
-- [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
-- [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
+- [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
+- [The IRS Is Building a System to Share Taxpayers&#39; Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
+- [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
+- [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
+- [Ask HN: What&#39;s Your Useful Local LLM Stack?](https://news.ycombinator.com/item?id=44572043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
