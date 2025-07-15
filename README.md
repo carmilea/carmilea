@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
+- [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- [Code highlighting extension for Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
-- [Belgian CVD is deeply broken](https://devae.re/posts/belgian-cvd-is-deeply-broken/)
 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 <!-- BLOG-POST-LIST:END -->
