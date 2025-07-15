@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
 - [The Moving Assembly Line Turns 100 &lpar;2013&rpar;](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
-- [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
-- [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
