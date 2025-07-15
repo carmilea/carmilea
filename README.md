@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei&#39;s star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)
+- [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
 - [Where&#39;s Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
 - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 - [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
-- [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
-- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
