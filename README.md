@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Martin &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
+- [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
+- [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
+- [Show HN: CallFS – S3-style object store in one Go binary &lpar;MIT&rpar;](https://github.com/ebogdum/callfs)
 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-- [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
-- [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
-- [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
-- [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
