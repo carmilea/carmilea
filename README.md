@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [These states are America&#39;s worst for quality of life in 2025](https://www.cnbc.com/2025/07/14/americas-worst-places-quality-of-life-top-states-for-business.html)
+- [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
+- [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
+- [Lead GrapheneOS developer was forcibly conscripted into a war](https://grapheneos.social/@GrapheneOS/114825492698412916)
 - [Congress moves to reject bulk of White House&#39;s proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
-- [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
-- [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
-- [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
-- [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
