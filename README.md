@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
-- [I&#39;m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
 - [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
+- [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
