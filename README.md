@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress moves to reject bulk of White House&#39;s proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
+- [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
 - [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
 - [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
 - [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
-- [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
-- [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
 <!-- BLOG-POST-LIST:END -->
 
 ---
