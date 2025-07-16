@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei&#39;s star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)
+- [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
+- [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
+- [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
+- [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
 - [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
-- [Where&#39;s Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
-- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
-- [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
