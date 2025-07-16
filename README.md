@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
+- [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
 - [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
 - [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
 - [Lead GrapheneOS developer was forcibly conscripted into a war](https://grapheneos.social/@GrapheneOS/114825492698412916)
-- [Congress moves to reject bulk of White House&#39;s proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
-- [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
