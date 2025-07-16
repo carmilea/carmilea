@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
+- [KDB-X: KX releases FREE Commercial KDB license](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
 - [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 - [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
 - [Mill: A better build tool for Java, Scala, and Kotlin](https://mill-build.org/mill/index.html)
-- [&#39;Gentle Parenting&#39; My Smartphone Addiction](https://www.newyorker.com/culture/infinite-scroll/gentle-parenting-my-smartphone-addiction)
-- [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
