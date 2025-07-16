@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [MCP Meetup: Building AI Agents with the Missing Protocol Layer](https://www.youtube.com/watch?v=avoBqIsoD1k)
 - [Multi-Modal LLM Fine-Tuning of Unstructured Data with Dataloop &amp; SingleStore](https://www.youtube.com/watch?v=MQ65YYuXUHs)
 - [Practical RAG Implementation with Efficient LLMs](https://www.youtube.com/watch?v=mK6-5fSObD0)
 - [Real-Time Finance with Singlestore](https://www.youtube.com/watch?v=G5XMRliiyFo)
 - [Building Modern Apps with Drizzle ORM and SingleStore](https://www.youtube.com/watch?v=aj4w024yjmw)
-- [SingleStore Upsert: SingleStore Aura Demo &amp; AI Innovations with Bharath Swamy](https://www.youtube.com/watch?v=d0VtSD81ZyY)
 <!-- YOUTUBE:END -->
 
 
