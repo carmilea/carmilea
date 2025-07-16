@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
+- [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
+- [&#39;Gentle Parenting&#39; My Smartphone Addiction](https://www.newyorker.com/culture/infinite-scroll/gentle-parenting-my-smartphone-addiction)
+- [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 - [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
 - [Show HN: Improving RAG with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
-- [Denver&#39;s Deepest Dinosaur](https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur)
-- [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
