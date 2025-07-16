@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
+- [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
 - [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
-- [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
-- [Lead GrapheneOS developer was forcibly conscripted into a war](https://grapheneos.social/@GrapheneOS/114825492698412916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
