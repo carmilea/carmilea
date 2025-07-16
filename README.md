@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A &#39;Choose Your Own Adventure&#39; Written in Emacs Org Mode](https://tendollaradventure.com/sample/)
+- [Show HN: A &#39;Choose Your Own Adventure&#39; written in Emacs Org Mode](https://tendollaradventure.com/sample/)
+- [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
 - [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
-- [A Recap on May/June Stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
-- [Young graduates are facing an employment crisis](https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8)
-- [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
+- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
+- [A recap on May/June stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
