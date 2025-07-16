@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Recap on May/June Stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
+- [Young Graduates Are Facing an Employment Crisis](https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8)
+- [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 - [US Importers Sued for &#39;Greenwashing&#39; Mexican Avocados](https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/)
 - [Intel&#39;s retreat is unlike anything it&#39;s done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
-- [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
-- [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
-- [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
