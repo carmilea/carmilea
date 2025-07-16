@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
+- [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
+- [Show HN: Improving RAG with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
+- [Denver&#39;s Deepest Dinosaur](https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur)
 - [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
-- [Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation](https://dataramen.xyz/)
-- [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
-- [AWS open-sourced Postgres active-active replication extension](https://github.com/aws/pgactive)
-- [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
