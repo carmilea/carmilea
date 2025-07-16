@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
+- [Mill: A better build tool for Java, Scala, and Kotlin](https://mill-build.org/mill/index.html)
 - [&#39;Gentle Parenting&#39; My Smartphone Addiction](https://www.newyorker.com/culture/infinite-scroll/gentle-parenting-my-smartphone-addiction)
 - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
-- [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
-- [Show HN: Improving RAG with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
 <!-- BLOG-POST-LIST:END -->
 
 ---
