@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
+- [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+- [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
+- [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
+- [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
 - [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
-- [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
-- [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
-- [First Come First Served: The Impact of File Position on Code Review](https://arxiv.org/abs/2208.04259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
