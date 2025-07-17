@@ -62,7 +62,7 @@
 - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
 - [Original Xbox Hacks: The A20 CPU Gate &lpar;2021&rpar;](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
-- [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
