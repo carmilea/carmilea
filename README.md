@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+- [Don&#39;t Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
+- [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
-- [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
+- [ICE&#39;s Supercharged Facial Recognition App of 200M Images](https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/)
 - [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
-- [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
