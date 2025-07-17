@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
 - [Don&#39;t Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
 - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
-- [ICE&#39;s Supercharged Facial Recognition App of 200M Images](https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/)
-- [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
+- [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
