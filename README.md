@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
+- [Ask HN: Is the Ask HN algorithm broken?](https://news.ycombinator.com/item?id=44596329)
+- [NYC&#39;s office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
-- [AI tools slowed down experienced devs by 19%, study finds](https://leaddev.com/velocity/ai-doesnt-make-devs-as-productive-as-they-think-study-finds)
 - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
 - [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
 <!-- BLOG-POST-LIST:END -->
