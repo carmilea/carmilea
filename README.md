@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
+- [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
+- [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
 - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
-- [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
-- [NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms](https://nina.chat/)
-- [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
-- [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
+- [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
