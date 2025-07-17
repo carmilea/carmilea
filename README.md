@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
-- [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
+- [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
+- [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
 - [The rise of AI as a threat to the S&amp;P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
 - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 - [My bank keeps on undermining anti-phishing education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
