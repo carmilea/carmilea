@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
+- [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
 - [The rise of AI as a threat to the S&amp;P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
 - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 - [My bank keeps on undermining anti-phishing education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
-- [Rejoy Health &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
-- [Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government](https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
