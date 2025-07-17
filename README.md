@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
+- [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
+- [Original Xbox Hacks: The A20 CPU Gate &lpar;2021&rpar;](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
 - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
 - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
-- [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
-- [Mistakes Microsoft made in the Xbox security system &lpar;2005&rpar;](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
+- [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
