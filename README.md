@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is the Ask HN algorithm broken?](https://news.ycombinator.com/item?id=44596329)
+- [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
+- [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
 - [NYC&#39;s office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
 - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
-- [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
