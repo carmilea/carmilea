@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
-- [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
-- [NYC&#39;s office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
-- [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
-- [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
+- [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
+- [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
+- [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
+- [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
+- [First Come First Served: The Impact of File Position on Code Review](https://arxiv.org/abs/2208.04259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
