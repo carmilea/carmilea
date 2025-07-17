@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
-- [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
-- [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
-- [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
-- [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
+- [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
+- [My Bank Keeps on Undermining Anti-Phishing Education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
+- [Rejoy Health &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
+- [N8n vs. node-red, which to use for AI workloads](https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971)
+- [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
