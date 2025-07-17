@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Onlycats](https://onlycats.gg/)
+- [&quot;Reading Rainbow&quot; Was Created to Combat Summer Reading Slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
+- [17 Mistakes Microsoft Made in the Xbox Security System](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
 - [Show HN: A &#39;Choose Your Own Adventure&#39; written in Emacs Org Mode](https://tendollaradventure.com/sample/)
-- [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
-- [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
-- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
-- [A recap on May/June stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
