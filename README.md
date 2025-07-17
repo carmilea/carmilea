@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
 - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
 - [Original Xbox Hacks: The A20 CPU Gate &lpar;2021&rpar;](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
-- [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
