@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Onlycats](https://onlycats.gg/)
-- [&quot;Reading Rainbow&quot; Was Created to Combat Summer Reading Slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
+- [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
-- [17 Mistakes Microsoft Made in the Xbox Security System](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
-- [Show HN: A &#39;Choose Your Own Adventure&#39; written in Emacs Org Mode](https://tendollaradventure.com/sample/)
+- [Mistakes Microsoft made in the Xbox security system](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
 <!-- BLOG-POST-LIST:END -->
 
 ---
