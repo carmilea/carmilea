@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Practical RAG Implementation with Efficient LLMs like DeepSeek](https://www.youtube.com/watch?v=e30NHfDJUcQ)
 - [Building Agentic RAG Applications](https://www.youtube.com/watch?v=tMvgHBKedUI)
 - [MCP Meetup: Building AI Agents with the Missing Protocol Layer](https://www.youtube.com/watch?v=avoBqIsoD1k)
 - [Multi-Modal LLM Fine-Tuning of Unstructured Data with Dataloop &amp; SingleStore](https://www.youtube.com/watch?v=MQ65YYuXUHs)
 - [Practical RAG Implementation with Efficient LLMs](https://www.youtube.com/watch?v=mK6-5fSObD0)
-- [Real-Time Finance with Singlestore](https://www.youtube.com/watch?v=G5XMRliiyFo)
 <!-- YOUTUBE:END -->
 
 
