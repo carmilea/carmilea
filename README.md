@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
-- [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
-- [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
-- [What’s on offer at a luxury Bay Area longevity clinic](https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php)
+- [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
+- [Dear valued user, You have reached the error page for the error page](https://imgur.com/a/2H7HVcU)
+- [In the long run, GPL code becomes irrelevant &lpar;2015&rpar;](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
+- [AirPods succeed by not selling you a new pair](https://victorwynne.com/airpods-succeed/)
+- [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
