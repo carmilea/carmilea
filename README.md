@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
+- [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
+- [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
 - [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
-- [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
-- [Asynchrony Is Not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
-- [DHS: Filming Cops, ICE Officers Is a &#39;Violent Tactic&#39;](https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/)
-- [Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
+- [Trying to send a sticker in Steam Chat burned through a month of mobile data](https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
