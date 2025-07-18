@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)
+- [Mango Health &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
+- [How I keep up with AI progress &lpar;and why you must too&rpar;](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
+- [Third patient dies from acute liver failure caused by a Sarepta gene therapy](https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy)
 - [Section 174 is reversed! Mostly, that is.](https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed)
-- [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
-- [Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
-- [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
-- [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
