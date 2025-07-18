@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 - [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Research Engineer &lpar;London, UK&rpar;](https://www.arva.ai/careers/ai-research-engineer)
-- [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
+- [Data on How America Sold Out Its Computer Science Graduates](https://ifspp.substack.com/p/data-on-how-america-sold-out-its)
 - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
-- [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
