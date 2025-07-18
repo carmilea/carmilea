@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silence Is a Commons by Ivan Illich &lpar;1983&rpar;](http://www.davidtinapple.com/illich/1983_silence_commons.html)
 - [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
 - [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
+- [Wii U SDBoot1 Exploit “paid the beak”](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
 - [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
-- [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
-- [Trying to send a sticker in Steam Chat burned through a month of mobile data](https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
