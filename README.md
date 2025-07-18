@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
+- [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
+- [Gmail&#39;s backup codes are useless to access account](https://news.ycombinator.com/item?id=44606671)
+- [H-1B program grew 81 percent from 2011 to 2022](https://twitter.com/USTechWorkers/status/1945999773825196492)
 - [Dear valued user, You have reached the error page for the error page](https://imgur.com/a/2H7HVcU)
-- [In the long run, GPL code becomes irrelevant &lpar;2015&rpar;](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
-- [AirPods succeed by not selling you a new pair](https://victorwynne.com/airpods-succeed/)
 - [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
 <!-- BLOG-POST-LIST:END -->
 
