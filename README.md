@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$19,000 a year for a longer life? Inside a luxury Bay Area longevity clinic](https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php)
 - [ACA health insurance will cost the average person 75% more next year](https://www.npr.org/sections/shots-health-news/2025/07/18/nx-s1-5471281/aca-health-insurance-premiums-obamacare-bbb-kff)
+- [NYPD Bypassed Facial Recognition Ban to ID Pro-Palestinian Student Protester](https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/)
 - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
 - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
-- [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
-- [Resolve &lpar;YC W15&rpar; Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
