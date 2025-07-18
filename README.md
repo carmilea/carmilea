@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
+- [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
+- [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
 - [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 - [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
 - [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
-- [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
