@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
+- [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
 - [Silence Is a Commons by Ivan Illich &lpar;1983&rpar;](http://www.davidtinapple.com/illich/1983_silence_commons.html)
-- [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
-- [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
 - [Wii U SDBoot1 Exploit “paid the beak”](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
 - [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
 <!-- BLOG-POST-LIST:END -->
