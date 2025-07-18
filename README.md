@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Section 174 is reversed! Mostly, that is.](https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed)
+- [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
+- [Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
+- [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
 - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
-- [Gmail&#39;s backup codes are useless to access account](https://news.ycombinator.com/item?id=44606671)
-- [H-1B program grew 81 percent from 2011 to 2022](https://twitter.com/USTechWorkers/status/1945999773825196492)
-- [Dear valued user, You have reached the error page for the error page](https://imgur.com/a/2H7HVcU)
-- [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
