@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
-- [Don&#39;t Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
-- [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
-- [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
-- [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
+- [Out Run: Amiga Edition – Launch Trailer](https://www.youtube.com/watch?v=WZzTp3vSC0g)
+- [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
+- [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
+- [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
+- [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
