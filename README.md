@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Research Engineer &lpar;London, UK&rpar;](https://www.arva.ai/careers/ai-research-engineer)
 - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
-- [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)
 - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 <!-- BLOG-POST-LIST:END -->
