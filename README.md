@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)
-- [Mango Health &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
-- [How I keep up with AI progress &lpar;and why you must too&rpar;](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
-- [Third patient dies from acute liver failure caused by a Sarepta gene therapy](https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy)
-- [Section 174 is reversed! Mostly, that is.](https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed)
+- [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
+- [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
+- [Asynchrony Is Not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
+- [DHS: Filming Cops, ICE Officers Is a &#39;Violent Tactic&#39;](https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/)
+- [Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
