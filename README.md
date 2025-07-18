@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolve &lpar;YC W15&rpar; Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
+- [The Most Powerful Server Embiggens a Bit with Power11](https://www.nextplatform.com/2025/07/16/the-worlds-most-powerful-server-embiggens-a-bit-with-power11/)
 - [Psilocybin produces substantial sustained decreases in depression and anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/)
 - [Servo Web Engine Further Tuning Performance](https://www.phoronix.com/news/Servo-June-2025-Highlights)
-- [Crypto&#39;s Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)
-- [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
-- [Arva AI &lpar;YC S24&rpar; Is Hiring an AI Research Engineer &lpar;London, UK&rpar;](https://www.arva.ai/careers/ai-research-engineer)
+- [CP/M Creator Gary Kildall&#39;s Memoirs Released as Free Download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
 <!-- BLOG-POST-LIST:END -->
 
 ---
