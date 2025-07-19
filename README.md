@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigon: Exploiting coprocessors for fun and for profit &lpar;part 2&rpar;](https://alfiecg.uk/2025/07/16/Trigon.html)
 - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
 - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 - [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)
 - [&#39;Universal cancer vaccine&#39; trains the immune system to kill any tumor](https://newatlas.com/cancer/universal-cancer-vaccine/)
-- [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
