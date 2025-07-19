@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
+- [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
+- [We do not break userspace &lpar;2012&rpar;](https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/)
 - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
 - [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
-- [Intel Announces It&#39;s Shutting Down Clear Linux](https://www.phoronix.com/news/Intel-Ends-Clear-Linux)
-- [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
-- [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
