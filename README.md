@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clawback of $1.1B for PBS and NPR puts rural stations at risk](https://theconversation.com/clawback-of-1-1b-for-pbs-and-npr-puts-rural-stations-at-risk-and-threatens-a-vital-source-of-journalism-255826)
 - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 - [The Curious Case of the Unix workstation layout](https://thejpster.org.uk/blog/blog-2025-07-19/)
-- [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
-- [Nobody knows how to build with AI yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
+- [Show HN: Am-I-vibing, detect agentic coding environments](https://github.com/ascorbic/am-i-vibing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
