@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
-- [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
+- [Known Bad Email Clients](https://www.emailprivacytester.com/badClients)
+- [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
+- [Nobody knows how to build with AI yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
 - [Piramidal &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 - [Fstrings.wtf](https://fstrings.wtf/)
-- [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
