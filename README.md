@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
+- [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 - [Piramidal &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 - [Fstrings.wtf](https://fstrings.wtf/)
 - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
-- [Felix Baumgartner, who jumped from stratosphere, dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
-- [An exponential improvement for Ramsey lower bounds](https://arxiv.org/abs/2507.12926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
