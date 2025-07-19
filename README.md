@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
-- [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
-- [Silence Is a Commons by Ivan Illich &lpar;1983&rpar;](http://www.davidtinapple.com/illich/1983_silence_commons.html)
-- [Wii U SDBoot1 Exploit “paid the beak”](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
-- [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
+- [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
+- [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
+- [Intel Announces It&#39;s Shutting Down Clear Linux](https://www.phoronix.com/news/Intel-Ends-Clear-Linux)
+- [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
+- [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
