@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
-- [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
-- [It&#39;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
-- [Known Bad Email Clients](https://www.emailprivacytester.com/badClients)
+- [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
+- [The Curious Case of the Unix workstation layout](https://thejpster.org.uk/blog/blog-2025-07-19/)
 - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
+- [Nobody knows how to build with AI yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
