@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
 - [Trigon: Exploiting coprocessors for fun and for profit &lpar;part 2&rpar;](https://alfiecg.uk/2025/07/16/Trigon.html)
+- [AMD&#39;s new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)
 - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
 - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
-- [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)
-- [&#39;Universal cancer vaccine&#39; trains the immune system to kill any tumor](https://newatlas.com/cancer/universal-cancer-vaccine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
