@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI claims Gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+- [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
 - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
+- [Every part on a bicycle is safety critical](https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/)
 - [Microsoft Office is using an artificially complex XML schema as a lock-in tool](https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/)
-- [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
