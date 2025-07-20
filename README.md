@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xmlui](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
-- [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
-- [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
-- [Digital vassals? French Government &#39;exposes citizens&#39; data to US&#39;](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
-- [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
+- [Group Behind Steam Censorship Policies Have Powerful Allies](https://web.archive.org/web/20250719204151/https://www.vice.com/en/article/group-behind-steam-censorship-policies-have-powerful-allies-and-targeted-popular-games-with-outlandish-claims/)
+- [AICodingHorrors – The price of AI-assisted coding](https://aicodinghorrors.com/)
+- [US signals intention to rethink job H-1B lottery](https://www.theregister.com/2025/07/20/h_1b_job_lottery/)
+- [The old Caveman Chemistry website &lpar;1996-2000&rpar;](https://cavemanchemistry.com/oldcave/)
+- [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
