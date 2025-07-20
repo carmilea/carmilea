@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is DeepSeek a New Voice Among LLMs in Public Opinion Simulation?](https://arxiv.org/abs/2506.21587)
+- [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
+- [Leaders are using appeals to nostalgia, nationalism to attack higher education](https://theconversation.com/leaders-in-india-hungary-and-the-us-are-using-appeals-to-nostalgia-and-nationalism-to-attack-higher-education-258975)
 - [Payment processors&#39; bar on Japanese adult content endangers democracy &lpar;2024&rpar;](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
 - [Mysterious Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
-- [Amazon&#39;s Emissions Climbed 6% in 2024 on Data Center Buildout](https://www.datacenterknowledge.com/sustainability/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout)
-- [QuakeNotch, Quake Terminal on your MacBook&#39;s notch](https://quakenotch.com)
-- [Rising Graduate Joblessness Is Mainly Affecting Men](https://www.edwardconard.com/macro-roundup/the-unemployment-rate-for-recent-male-college-graduates-22-27-has-risen-from-5-to-7-recent-male-graduates-are-now-unemployed-at-the-same-rate-as-their-non-graduate-counterparts/?view=detail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
