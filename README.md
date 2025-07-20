@@ -62,7 +62,7 @@
 - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
 - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
 - [New York’s bill banning One-Person Train Operation](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
-- [Intel to boost gross margins – new products must deliver 50% gross profit](https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light)
+- [I Used Arch, BTW: macOS, Day 1](https://yberreby.com/posts/i-used-arch-btw-macos-day-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
