@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
+- [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+- [Roman Roads Research Association &lpar;UK&rpar;](https://www.romanroads.org/index.html)
 - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
-- [Show HN: MCP server for Blender that builds 3D scenes via natural language](https://blender-mcp-psi.vercel.app/)
-- [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
-- [Borg – Deduplicating archiver with compression and encryption](https://www.borgbackup.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
