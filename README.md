@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Ignored IMO Request, Announced Math Results Before Closing Ceremony](https://twitter.com/mihonarium/status/1946880931723194389)
+- [Peep Show – The Most Realistic Portrayal of Evil Ever Made &lpar;2020&rpar;](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
-- [EU commissioner shocked by dangers of some goods sold by Shein and Temu](https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu)
 - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
-- [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 <!-- BLOG-POST-LIST:END -->
 
 ---
