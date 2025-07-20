@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
 - [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
-- [A Tour of Microsoft&#39;s Mac Lab](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
-- [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
-- [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
-- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+- [Coding with LLMs in the summer of 2025 &lpar;an update&rpar;](https://antirez.com/news/154)
+- [A Tour of Microsoft&#39;s Mac Lab &lpar;2006&rpar;](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
+- [I&#39;m betting against AI agents, despite building them](https://utkarshkanwat.com/writing/betting-against-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
