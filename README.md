@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xmlui](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 - [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
 - [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
-- [Coding with LLMs in the summer of 2025 &lpar;an update&rpar;](https://antirez.com/news/154)
-- [A Tour of Microsoft&#39;s Mac Lab &lpar;2006&rpar;](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
-- [I&#39;m betting against AI agents, despite building them](https://utkarshkanwat.com/writing/betting-against-agents/)
+- [Digital vassals? French Government &#39;exposes citizens&#39; data to US&#39;](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
+- [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
