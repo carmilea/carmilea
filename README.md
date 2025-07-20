@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)
+- [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
 - [EU commissioner shocked by dangers of some goods sold by Shein and Temu](https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu)
 - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
