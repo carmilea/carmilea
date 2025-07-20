@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
-- [Why I&#39;m Betting Against AI Agents in 2025 &lpar;Despite Building Them&rpar;](https://utkarshkanwat.com/writing/betting-against-agents/)
+- [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
+- [A Tour of Microsoft&#39;s Mac Lab](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
+- [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
 - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
-- [Roman Roads Research Association &lpar;UK&rpar;](https://www.romanroads.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
