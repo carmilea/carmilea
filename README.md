@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Won the Battle for TV Viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
+- [Bill Banning One-Person Train Operation Would Lock NY Transit in the Past](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
+- [Data and Democracy: Charting Assault on American Democracy and a Path Forward](https://data4democracy.substack.com/p/on-data-and-democracy-mid-year-roundup)
+- [Intel to boost gross margins – new products must deliver 50% gross profit](https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light)
+- [I Used Arch, BTW: macOS, Day 1](https://yberreby.com/posts/i-used-arch-btw-macos-day-1/)
 - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
-- [Trigon: Exploiting coprocessors for fun and for profit &lpar;part 2&rpar;](https://alfiecg.uk/2025/07/16/Trigon.html)
-- [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
-- [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
