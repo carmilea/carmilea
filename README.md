@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+- [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
+- [Show HN: MCP server for Blender that builds 3D scenes via natural language](https://blender-mcp-psi.vercel.app/)
 - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
 - [Borg – Deduplicating archiver with compression and encryption](https://www.borgbackup.org/)
-- [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
-- [New York’s bill banning One-Person Train Operation](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
-- [The AGI Final Frontier: The CLJ-AGI Benchmark](https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
