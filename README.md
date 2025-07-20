@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Staying Cool Without Refrigerants: Samsung Is Pioneering Peltier Cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
+- [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)
+- [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
+- [EU commissioner shocked by dangers of some goods sold by Shein and Temu](https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu)
+- [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
 - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
-- [Payment processors&#39; bar on Japanese adult content endangers democracy &lpar;2024&rpar;](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
-- [New Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
-- [Stdio&lpar;3&rpar; change: FILE is now opaque &lpar;OpenBSD&rpar;](https://undeadly.org/cgi?action=article;sid=20250717103345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
