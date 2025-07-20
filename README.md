@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
+- [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
+- [Why I&#39;m Betting Against AI Agents in 2025 &lpar;Despite Building Them&rpar;](https://utkarshkanwat.com/writing/betting-against-agents/)
 - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 - [Roman Roads Research Association &lpar;UK&rpar;](https://www.romanroads.org/index.html)
-- [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
