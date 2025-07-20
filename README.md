@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
 - [Bill Banning One-Person Train Operation Would Lock NY Transit in the Past](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
-- [Data and Democracy: Charting Assault on American Democracy and a Path Forward](https://data4democracy.substack.com/p/on-data-and-democracy-mid-year-roundup)
 - [Intel to boost gross margins – new products must deliver 50% gross profit](https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light)
-- [I Used Arch, BTW: macOS, Day 1](https://yberreby.com/posts/i-used-arch-btw-macos-day-1/)
 - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
+- [Trigon: Exploiting coprocessors for fun and for profit &lpar;part 2&rpar;](https://alfiecg.uk/2025/07/16/Trigon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
