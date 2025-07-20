@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is DeepSeek a New Voice Among LLMs in Public Opinion Simulation?](https://arxiv.org/abs/2506.21587)
+- [Staying Cool Without Refrigerants: Samsung Is Pioneering Peltier Cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
 - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
-- [Leaders are using appeals to nostalgia, nationalism to attack higher education](https://theconversation.com/leaders-in-india-hungary-and-the-us-are-using-appeals-to-nostalgia-and-nationalism-to-attack-higher-education-258975)
 - [Payment processors&#39; bar on Japanese adult content endangers democracy &lpar;2024&rpar;](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
-- [Mysterious Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
+- [New Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
+- [Stdio&lpar;3&rpar; change: FILE is now opaque &lpar;OpenBSD&rpar;](https://undeadly.org/cgi?action=article;sid=20250717103345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
