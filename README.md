@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speeding Up My ZSH Shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
+- [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 - [The old Caveman Chemistry website &lpar;1996-2000&rpar;](https://cavemanchemistry.com/oldcave/)
 - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
-- [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
-- [Digital vassals? French Government &#39;exposes citizens&#39; data to US&#39;](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
