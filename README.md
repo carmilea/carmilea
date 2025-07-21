@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sexual Offender or Not?](https://facecrime.io/)
+- [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
+- [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)
 - [Spice Data &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
-- [In a major reversal, the world bank is backing mega dams &lpar;2024&rpar;](https://e360.yale.edu/features/world-bank-hydro-dams)
-- [Yoni Appelbaum on the real villians behind our housing and mobility problems](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
 - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
-- [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
