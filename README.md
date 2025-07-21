@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Ignored IMO Request, Announced Math Results Before Closing Ceremony](https://twitter.com/mihonarium/status/1946880931723194389)
-- [Peep Show – The Most Realistic Portrayal of Evil Ever Made &lpar;2020&rpar;](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
-- [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
-- [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
-- [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
+- [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
+- [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
+- [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
+- [Computational Complexity of Neural Networks](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
+- [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
