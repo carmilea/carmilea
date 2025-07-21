@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
-- [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
-- [Computational Complexity of Neural Networks](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
+- [Claude Jailbroken to Mint Unlimited Stripe Coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
+- [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
 - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
+- [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
