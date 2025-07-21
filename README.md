@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
-- [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
-- [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
-- [The Rise of the AI Database: Powering Real-Time AI Applications](https://www.singlestore.com/blog/the-rise-of-the-ai-database-powering-real-time-ai-applications)
-- [Germany&#39;s Fairytale Castles Added to UNESCO&#39;s World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
+- [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
+- [I know genomes. Don&#39;t delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
+- [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
+- [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
+- [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
