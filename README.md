@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
-- [I know genomes. Don&#39;t delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
+- [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
+- [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
 - [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
-- [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
+- [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
