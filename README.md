@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
+- [The €43B EU CHIPS Act gets green light. – TechHQ](https://techhq.com/news/the-e43-billion-eu-chips-act-gets-green-light-from-european-nations-whats-next/)
 - [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
 - [I&#39;ve launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
-- [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
-- [NIH limits scientists to six applications per year](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
+- [What happens when housing prices go down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
