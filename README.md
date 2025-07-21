@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accountant Simulator 2025](https://accounting.penrose.com/)
-- [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
-- [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
-- [Solar+storage is so much farther along than you think](https://www.volts.wtf/p/solarstorage-is-so-much-farther-along)
-- [Outdoor activity is better for cognition than indoor activity in young people](https://www.sciencedirect.com/science/article/pii/S0031938425000897)
+- [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
+- [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
+- [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
+- [The Rise of the AI Database: Powering Real-Time AI Applications](https://www.singlestore.com/blog/the-rise-of-the-ai-database-powering-real-time-ai-applications)
+- [Germany&#39;s Fairytale Castles Added to UNESCO&#39;s World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
