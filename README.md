@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
+- [Why Some Satellites Use NetBSD?](https://machaddr.substack.com/p/why-some-satellites-use-netbsd)
 - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
-- [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
