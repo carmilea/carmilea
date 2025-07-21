@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
+- [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
