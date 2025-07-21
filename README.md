@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
+- [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
+- [I&#39;ve launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
+- [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 - [Extend &lpar;YC W23&rpar; is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
-- [XSLT: A Precision Tool for the Future of Structured Transformation](https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/)
-- [How to handle people dismissing io_uring as insecure? &lpar;2024&rpar;](https://github.com/axboe/liburing/discussions/1047)
-- [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
+- [NIH limits scientists to six applications per year](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
