@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
-- [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
+- [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
+- [XSLT: A Precision Tool for the Future of Structured Transformation](https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/)
+- [How to handle people dismissing io_uring as insecure? &lpar;2024&rpar;](https://github.com/axboe/liburing/discussions/1047)
 - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
-- [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
