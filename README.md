@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
-- [The €43B EU CHIPS Act gets green light. – TechHQ](https://techhq.com/news/the-e43-billion-eu-chips-act-gets-green-light-from-european-nations-whats-next/)
-- [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
-- [I&#39;ve launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
-- [What happens when housing prices go down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
+- [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
+- [Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field](https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight)
+- [Occasionally USPS sends me pictures of other people&#39;s mail](https://the418.substack.com/p/a-bug-in-the-mail)
+- [Using MacBook&#39;s trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
+- [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
