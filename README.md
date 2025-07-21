@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- [Claude Jailbroken to Mint Unlimited Stripe Coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
 - [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
 - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
 - [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
