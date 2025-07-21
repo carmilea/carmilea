@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Efficiency in iOS: Reducing footprint and beyond](https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing)
-- [SecretSpec: Declarative Secrets Management](https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/)
-- [Australian anti-porn group claims responsibility for Steams new censorship rules](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)
-- [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
-- [Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field](https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight)
+- [Accountant Simulator 2025](https://accounting.penrose.com/)
+- [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
+- [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
+- [Solar+storage is so much farther along than you think](https://www.volts.wtf/p/solarstorage-is-so-much-farther-along)
+- [Outdoor activity is better for cognition than indoor activity in young people](https://www.sciencedirect.com/science/article/pii/S0031938425000897)
 <!-- BLOG-POST-LIST:END -->
 
 ---
