@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
 - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-- [Qwen3-Coder: Agentic Coding in the World](https://qwenlm.github.io/blog/qwen3-coder/)
+- [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
 - [Firebender &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
-- [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
