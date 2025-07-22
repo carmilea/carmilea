@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
+- [Qwen3-Coder: Agentic Coding in the World](https://qwenlm.github.io/blog/qwen3-coder/)
 - [Firebender &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
-- [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
-- [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
 <!-- BLOG-POST-LIST:END -->
 
 ---
