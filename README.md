@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit&#39;s CEO apologizes after its AI agent wiped a company&#39;s code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
 - [The Hater&#39;s Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
 - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
-- [&#39;Shameful&#39; CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
 - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring a software engineers &lpar;EU remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 <!-- BLOG-POST-LIST:END -->
