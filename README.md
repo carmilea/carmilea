@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Sabbath&#39;s Ozzy Osbourne dies aged 76](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
-- [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
-- [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
-- [Better Auth &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
-- [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
+- [Americans Are Paying for Tariffs, Not Foreign Companies](https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs)
+- [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
+- [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
+- [Ozzy Osbourne has died](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
+- [Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
