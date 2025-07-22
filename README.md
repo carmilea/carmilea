@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hater&#39;s Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
+- [How to Firefox](https://kau.sh/blog/how-to-firefox/)
 - [&#39;Shameful&#39; CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
 - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring a software engineers &lpar;EU remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
-- [Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic](https://github.com/openai/whisper/discussions/2608)
-- [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
