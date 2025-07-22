@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sexual Offender or Not?](https://facecrime.io/)
-- [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
-- [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)
-- [Spice Data &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
-- [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
+- [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
+- [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
+- [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
+- [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
+- [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
