@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Shameful&#39; CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
 - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring a software engineers &lpar;EU remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 - [Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic](https://github.com/openai/whisper/discussions/2608)
 - [We have made the decision to not continue paying for BBB accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
-- [AI could have written this: Birth of a classist slur in knowledge work [pdf]](https://advait.org/files/sarkar_2025_ai_shaming.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
