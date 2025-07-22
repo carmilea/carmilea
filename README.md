@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
-- [Yt-transcriber – Give a YouTube URL and get a transcription](https://github.com/pmarreck/yt-transcriber)
-- [So you think you&#39;ve awoken ChatGPT](https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt)
-- [Replit&#39;s CEO apologizes after its AI agent wiped a company&#39;s code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
-- [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
+- [1KB JavaScript Numbers Station](https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/)
+- [Reverse Proxy Deep Dive: Why HTTP Parsing at the Edge Is Harder Than It Looks](https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html)
+- [Go Allocation Probe](https://www.scattered-thoughts.net/writing/go-allocation-probe/)
+- [Killing the Mauna Loa observatory over irrefutable evidence of increasing CO2](https://www.theregister.com/2025/07/22/trump_shoots_climate_messenger/)
+- [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
