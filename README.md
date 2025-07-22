@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Sabbath&#39;s Ozzy Osbourne dies aged 76](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
+- [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
+- [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
 - [Better Auth &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
 - [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
-- [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)
-- [Gemini North Discovers Long-Predicted Stellar Companion of Betelgeuse](https://noirlab.edu/public/news/noirlab2523/)
-- [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
