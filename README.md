@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Workers of Snopes.com won voluntary recognition of their union, the Snopes Guild](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
+- [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
 - [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
-- [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
 - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
 - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
-- [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
