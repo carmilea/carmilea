@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebender &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
 - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 - [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
-- [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
