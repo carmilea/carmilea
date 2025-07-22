@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Are Paying for Tariffs, Not Foreign Companies](https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs)
+- [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
+- [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
+- [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
+- [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
 - [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
-- [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
-- [Ozzy Osbourne has died](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
-- [Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
