@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1KB JavaScript Numbers Station](https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/)
-- [Reverse Proxy Deep Dive: Why HTTP Parsing at the Edge Is Harder Than It Looks](https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html)
-- [Go Allocation Probe](https://www.scattered-thoughts.net/writing/go-allocation-probe/)
-- [Killing the Mauna Loa observatory over irrefutable evidence of increasing CO2](https://www.theregister.com/2025/07/22/trump_shoots_climate_messenger/)
-- [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
+- [Launch HN: Promi &lpar;YC S24&rpar; – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
+- [Tailwind Is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
+- [Bypassing Watermark Implementations](https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b)
+- [Blip: Peer-to-Peer Massive File Sharing by Former Dropbox Engineers](https://blip.net/)
+- [Why Facts Don&#39;t Change Minds–Structure Does &lpar;A Systems Analysis of Belief&rpar;](https://vasily.cc/blog/facts-dont-change-minds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
