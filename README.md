@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Workers of Snopes.com won voluntary recognition of their union, the Snopes Guild](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
-- [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
+- [Workers at Snopes.com win voluntary recognition](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
+- [Reengineered carbon-to-acetylene process with negative carbon emission &lpar;2023&rpar;](https://pubs.rsc.org/en/content/articlehtml/2023/gc/d3gc01775c)
+- [We have made the decision to not continue paying for BBB accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
+- [AI could have written this: Birth of a classist slur in knowledge work [pdf]](https://advait.org/files/sarkar_2025_ai_shaming.pdf)
 - [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
-- [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
-- [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
