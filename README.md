@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Promi &lpar;YC S24&rpar; – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
-- [Tailwind Is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
-- [Bypassing Watermark Implementations](https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b)
-- [Blip: Peer-to-Peer Massive File Sharing by Former Dropbox Engineers](https://blip.net/)
-- [Why Facts Don&#39;t Change Minds–Structure Does &lpar;A Systems Analysis of Belief&rpar;](https://vasily.cc/blog/facts-dont-change-minds/)
+- [Better Auth &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
+- [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
+- [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)
+- [Gemini North Discovers Long-Predicted Stellar Companion of Betelgeuse](https://noirlab.edu/public/news/noirlab2523/)
+- [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
