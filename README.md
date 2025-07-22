@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kapa.ai &lpar;YC S23&rpar; is hiring a software engineers &lpar;EU remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 - [Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic](https://github.com/openai/whisper/discussions/2608)
 - [Workers at Snopes.com win voluntary recognition](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
 - [We have made the decision to not continue paying for BBB accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
 - [AI could have written this: Birth of a classist slur in knowledge work [pdf]](https://advait.org/files/sarkar_2025_ai_shaming.pdf)
-- [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
