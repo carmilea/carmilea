@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
+- [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
 - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
 - [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
-- [What to Expect from Debian/Trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
-- [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
