@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Has Brazil Invented the Future of Money?](https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of)
+- [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
+- [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 - [Depot &lpar;YC W23&rpar; Is Hiring a Technical Content Writer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
 - [Rescuing two PDP-11s from a former British Telecom underground shelter &lpar;2023&rpar;](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
 - [Extending Emacs with Fennel &lpar;2024&rpar;](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
-- [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
