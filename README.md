@@ -61,8 +61,8 @@
 - [Rescuing two PDP-11s from a former British Telecom underground shelter &lpar;2023&rpar;](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
 - [Extending Emacs with Fennel &lpar;2024&rpar;](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
 - [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
-- [Ask HN: What software subscriptions are worth paying for?](https://news.ycombinator.com/item?id=44655866)
-- [The benefits of trunk-based development](https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html)
+- [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
+- [Show HN: WTFfmpeg – Natural Language to FFmpeg Translator](https://github.com/scottvr/wtffmpeg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
