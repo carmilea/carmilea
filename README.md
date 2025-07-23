@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
+- [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
+- [Why you can&#39;t color calibrate deep space photos](https://maurycyz.com/misc/cc/)
+- [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
 - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
-- [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-- [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
-- [Firebender &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
-- [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
