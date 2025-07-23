@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/)
 - [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
 - [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
-- [Why you can&#39;t color calibrate deep space photos](https://maurycyz.com/misc/cc/)
 - [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
 - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
 <!-- BLOG-POST-LIST:END -->
