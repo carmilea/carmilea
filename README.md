@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Optery &lpar;YC W22&rpar; Is Hiring in Engineering, Legal, Sales, Marketing &lpar;U.S., Latam&rpar;](https://www.optery.com/careers/)
-- [Show HN: The missing link of a bookstore&#39;s tech stack](https://bookhead.net/)
-- [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
-- [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
-- [Reverse engineering the GHA cache to improve performance &lpar;2024&rpar;](https://depot.dev/blog/github-actions-cache)
+- [Boost HTML5 Game Performance with WebAssembly](https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/)
+- [AI.gov](https://www.ai.gov/)
+- [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
+- [Hyperpb: 10x faster dynamic Protobuf parsing that&#39;s faster than generated code](https://buf.build/blog/hyperpb)
+- [The Promised LAN](https://tpl.house/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
