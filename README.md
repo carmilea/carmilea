@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
+- [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
+- [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
+- [What to Expect from Debian/Trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
 - [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
-- [The Surprising gRPC Client Bottleneck in Low-Latency Networks](https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02)
-- [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
-- [Cops say criminals use a Google Pixel with GrapheneOS – I say that&#39;s freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
-- [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
