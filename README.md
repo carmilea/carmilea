@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
+- [The Surprising gRPC Client Bottleneck in Low-Latency Networks](https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02)
 - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
 - [Cops say criminals use a Google Pixel with GrapheneOS – I say that&#39;s freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
 - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
-- [SDR42E1 modulates Vitamin D absorption and cancer pathogenesis](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full)
-- [20 years of Linux on the Desktop &lpar;part 4&rpar;](https://ploum.net/2025-07-23-linux_desktop4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
