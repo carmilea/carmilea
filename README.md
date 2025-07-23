@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optery &lpar;YC W22&rpar; Is Hiring in Engineering, Legal, Sales, Marketing &lpar;U.S., Latam&rpar;](https://www.optery.com/careers/)
+- [Show HN: The missing link of a bookstore&#39;s tech stack](https://bookhead.net/)
 - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
-- [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
-- [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
-- [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
+- [Reverse engineering the GHA cache to improve performance &lpar;2024&rpar;](https://depot.dev/blog/github-actions-cache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
