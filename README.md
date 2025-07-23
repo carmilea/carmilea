@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
-- [Apple&#39;s Liquid Glass: When Aesthetics Beat Function](https://www.maxvanijsselmuiden.nl/liquid-glass)
-- [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
-- [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
+- [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
+- [Cops say criminals use a Google Pixel with GrapheneOS – I say that&#39;s freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
+- [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
+- [SDR42E1 modulates Vitamin D absorption and cancer pathogenesis](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full)
+- [20 years of Linux on the Desktop &lpar;part 4&rpar;](https://ploum.net/2025-07-23-linux_desktop4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
