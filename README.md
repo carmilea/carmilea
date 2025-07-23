@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+- [ICE block founder&#39;s wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)
+- [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
+- [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
-- [Employee – CEO pay gap historically wide](https://www.cnn.com/2025/07/23/business/afl-cio-executive-paywatch-report)
-- [Accelerating JSON Array Queries with Multi-Value Hash Indexes in SingleStore](https://www.singlestore.com/blog/accelerating-json-array-queries-with-multi-value-hash-indexes)
-- [UdeM researchers confirm a fifth potentially habitable planet around L 98-59](https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/)
-- [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
 <!-- BLOG-POST-LIST:END -->
 
 ---
