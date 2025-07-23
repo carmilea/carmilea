@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Supercharge Data Lakes: SingleStore Iceberg + Tableflow](https://www.youtube.com/shorts/seycmfc06Xw)
 - [Launch of SingleStore Aura: Power Your AI Apps in Real Time](https://www.youtube.com/shorts/CdN6f1QDwEU)
 - [Move Data in Real Time with SingleStore Flow &amp; Helios](https://www.youtube.com/shorts/Dw7kHQ1eRQw)
 - [Discover SingleStore Upsert’s Breakthroughs!](https://www.youtube.com/shorts/V57Gq1V2Of0)
 - [Welcome to SingleStore Upsert: The Fastest Unified Data Platform](https://www.youtube.com/shorts/mAdRUIeSozY)
-- [Practical RAG Implementation with Efficient LLMs like DeepSeek](https://www.youtube.com/watch?v=e30NHfDJUcQ)
 <!-- YOUTUBE:END -->
 
 
