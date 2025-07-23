@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
+- [Apple&#39;s Liquid Glass: When Aesthetics Beat Function](https://www.maxvanijsselmuiden.nl/liquid-glass)
+- [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
 - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
-- [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Technical Content Writer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
-- [Rescuing two PDP-11s from a former British Telecom underground shelter &lpar;2023&rpar;](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
-- [Extending Emacs with Fennel &lpar;2024&rpar;](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
