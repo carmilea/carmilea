@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Trunk-Based Development](https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html)
-- [Show HN: WTFfmpeg](https://github.com/scottvr/wtffmpeg)
-- [Countries across the world see food price shocks from climate extremes](https://www.bsc.es/news/bsc-news/countries-across-the-world-see-food-price-shocks-climate-extremes-research-involving-bsc-shows)
-- [Mathematics for Computer Science &lpar;2024&rpar;](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
-- [AI coding agents are removing programming language barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
+- [Rescuing two PDP-11s from a former British Telecom underground shelter &lpar;2023&rpar;](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
+- [Extending Emacs with Fennel &lpar;2024&rpar;](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
+- [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
+- [Ask HN: What software subscriptions are worth paying for?](https://news.ycombinator.com/item?id=44655866)
+- [The benefits of trunk-based development](https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
