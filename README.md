@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/)
-- [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
-- [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
-- [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
-- [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
+- [The Benefits of Trunk-Based Development](https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html)
+- [Show HN: WTFfmpeg](https://github.com/scottvr/wtffmpeg)
+- [Countries across the world see food price shocks from climate extremes](https://www.bsc.es/news/bsc-news/countries-across-the-world-see-food-price-shocks-climate-extremes-research-involving-bsc-shows)
+- [Mathematics for Computer Science &lpar;2024&rpar;](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
+- [AI coding agents are removing programming language barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
