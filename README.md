@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
 - [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
 - [Accelerating JSON Array Queries with Multi-Value Hash Indexes in SingleStore](https://www.singlestore.com/blog/accelerating-json-array-queries-with-multi-value-hash-indexes)
+- [Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
