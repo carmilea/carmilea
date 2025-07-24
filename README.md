@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
+- [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
+- [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
+- [The Real AI Risk? Your Database.](https://www.singlestore.com/blog/the-real-ai-risk-your-database)
 - [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
-- [You can&#39;t outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
-- [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
-- [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
-- [Web fingerprinting is worse than I thought &lpar;2023&rpar;](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
