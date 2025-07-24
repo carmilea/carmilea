@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)
-- [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
-- [You can now train a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-- [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
-- [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
+- [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
+- [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
+- [Games: No sex, please. we&#39;re credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)
+- [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
+- [Hacker slips malicious &#39;wiping&#39; command into Amazon&#39;s Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
