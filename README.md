@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
-- [Shattering the Rotation Illusion: The Attacker View &amp; AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
-- [Apache HTTP Server: &#39;RewriteCond expr&#39; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
-- [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
-- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+- [Gixel comes out of stealth with a new type of AR optical engine](https://skarredghost.com/2025/07/24/gixel-ar-optics/)
+- [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
+- [Why Real-Time Segmentation Is Your Secret to eCommerce Personalization](https://www.singlestore.com/blog/why-real-time-segmentation-is-your-secret-to-ecommerce-personalization)
+- [What does connecting with someone mean?](https://talk.bradwoods.io/blog/connect/)
+- [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
