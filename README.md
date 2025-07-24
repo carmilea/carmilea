@@ -61,8 +61,8 @@
 - [CVE-2025-54090: Apache HTTP Server: &#39;RewriteCond expr&#39; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 - [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-- [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
 - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+- [Vintage Macintosh Programming Book Library &lpar;2017&rpar;](https://vintageapple.org/macprogramming/index_year.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
