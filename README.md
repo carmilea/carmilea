@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
 - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 - [Major Quantum Computing Advance Made Obsolete by Teenager &lpar;2018&rpar;](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
 - [Two narratives about AI](https://calnewport.com/no-one-knows-anything-about-ai/)
-- [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
