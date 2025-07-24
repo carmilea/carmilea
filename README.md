@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret Life of Fsync &lpar;2023&rpar;](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+- [Visa and Mastercard: The global payment duopoly &lpar;2024&rpar;](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
+- [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
+- [Building MCP servers for ChatGPT and API integrations](https://platform.openai.com/docs/mcp)
 - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
-- [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
-- [Games: No sex, please. we&#39;re credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)
-- [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
-- [Hacker slips malicious &#39;wiping&#39; command into Amazon&#39;s Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
