@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gixel comes out of stealth with a new type of AR optical engine](https://skarredghost.com/2025/07/24/gixel-ar-optics/)
+- [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
+- [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
+- [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
+- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 - [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
-- [Why Real-Time Segmentation Is Your Secret to eCommerce Personalization](https://www.singlestore.com/blog/why-real-time-segmentation-is-your-secret-to-ecommerce-personalization)
-- [What does connecting with someone mean?](https://talk.bradwoods.io/blog/connect/)
-- [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
