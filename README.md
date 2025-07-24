@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
-- [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
-- [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
-- [The Real AI Risk? Your Database.](https://www.singlestore.com/blog/the-real-ai-risk-your-database)
-- [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
+- [No One Knows Anything About AI](https://calnewport.com/no-one-knows-anything-about-ai/)
+- [Hulk Hogan Has Died](https://www.tmz.com/2025/07/24/hulk-hogan-dead/)
+- [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
+- [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+- [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
 <!-- BLOG-POST-LIST:END -->
 
 ---
