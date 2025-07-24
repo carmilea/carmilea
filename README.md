@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Fsync &lpar;2023&rpar;](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+- [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
+- [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
 - [Visa and Mastercard: The global payment duopoly &lpar;2024&rpar;](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
 - [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
-- [Building MCP servers for ChatGPT and API integrations](https://platform.openai.com/docs/mcp)
-- [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
+- [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
