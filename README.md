@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No One Knows Anything About AI](https://calnewport.com/no-one-knows-anything-about-ai/)
-- [Hulk Hogan Has Died](https://www.tmz.com/2025/07/24/hulk-hogan-dead/)
+- [The great AI delusion is falling apart](https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/)
+- [Major Quantum Computing Advance Made Obsolete by Teenager](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
+- [Two narratives about AI](https://calnewport.com/no-one-knows-anything-about-ai/)
 - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
-- [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
 <!-- BLOG-POST-LIST:END -->
 
 ---
