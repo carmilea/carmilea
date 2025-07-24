@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Small Web July](https://smallcypress.bearblog.dev/a-small-web-july/)
+- [BGP Tools](https://bgp.tools/)
+- [Vintage Macintosh Programming Book Library &lpar;2017&rpar;](https://vintageapple.org/macprogramming/index_year.html)
+- [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
 - [I made Tinder but it&#39;s only pictures of my wife and I can only swipe right](https://trytender.app/)
-- [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
-- [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
-- [Accelerating JSON Array Queries with Multi-Value Hash Indexes in SingleStore](https://www.singlestore.com/blog/accelerating-json-array-queries-with-multi-value-hash-indexes)
-- [Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
