@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
 - [Shattering the Rotation Illusion: The Attacker View &amp; AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
 - [Apache HTTP Server: &#39;RewriteCond expr&#39; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
-- [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
 - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 <!-- BLOG-POST-LIST:END -->
 
