@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
+- [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)
+- [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
+- [You can now train a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
+- [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
 - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
-- [Major Quantum Computing Advance Made Obsolete by Teenager &lpar;2018&rpar;](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
-- [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
-- [Two narratives about AI](https://calnewport.com/no-one-knows-anything-about-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
