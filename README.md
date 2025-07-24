@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
+- [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
+- [You can&#39;t outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
 - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
 - [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
-- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
-- [Thunder Compute &lpar;YC S24&rpar; Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
+- [Web fingerprinting is worse than I thought &lpar;2023&rpar;](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
