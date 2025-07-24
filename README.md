@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
 - [Shattering the Rotation Illusion: The Attacker View &amp; AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
-- [CVE-2025-54090: Apache HTTP Server: &#39;RewriteCond expr&#39; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
+- [Apache HTTP Server: &#39;RewriteCond expr&#39; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 - [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
 <!-- BLOG-POST-LIST:END -->
