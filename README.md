@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Small Web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-- [BGP Tools](https://bgp.tools/)
+- [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
+- [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
+- [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
+- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 - [Vintage Macintosh Programming Book Library &lpar;2017&rpar;](https://vintageapple.org/macprogramming/index_year.html)
-- [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
-- [I made Tinder but it&#39;s only pictures of my wife and I can only swipe right](https://trytender.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
