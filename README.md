@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507)
-- [Games Look Bad: HDR and Tone Mapping](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
-- [Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
-- [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
-- [Against the censorship of adult content by payment processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
+- [Who has the fastest F1 website &lpar;2021&rpar;](https://jakearchibald.com/2021/f1-perf-part-3/)
+- [Asif Aziz: The billionaire and the tax evading gift shops](https://www.londoncentric.media/p/asf-aziz-london-candy-shops-gift-shop-unpaid-tax)
+- [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
+- [The Future Is Not Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
+- [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
