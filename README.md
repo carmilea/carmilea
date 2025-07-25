@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Level Up: New Developer Tools in SingleStore](https://www.youtube.com/shorts/wBoR5VywH3c)
 - [Building Modern Apps with Drizzle ORM and SingleStore](https://www.youtube.com/watch?v=FZVaQxjssM4)
 - [Real](https://www.youtube.com/watch?v=aHpQGQUr3Zw)
 - [zz-LI live streaming test](https://www.youtube.com/watch?v=i0drXD6gu9s)
 - [LI Live streaming test](https://www.youtube.com/watch?v=Ord1vzgmFPw)
-- [LI Live streaming test](https://www.youtube.com/watch?v=61_gtgTpbXs)
 <!-- YOUTUBE:END -->
 
 
