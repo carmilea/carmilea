@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+- [Alto turns your Apple Notes into a website](https://alto.so/)
 - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
-- [Visa and Mastercard: The global payment duopoly &lpar;2024&rpar;](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
-- [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
-- [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
+- [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
