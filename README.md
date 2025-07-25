@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to stop running political ads on Facebook and Instagram in the EU](https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/)
+- [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
+- [It&#39;s DE9, Not DB9](https://news.sparkfun.com/14298)
 - [Who has the fastest F1 website &lpar;2021&rpar;](https://jakearchibald.com/2021/f1-perf-part-3/)
-- [Asif Aziz: The billionaire and the tax evading gift shops](https://www.londoncentric.media/p/asf-aziz-london-candy-shops-gift-shop-unpaid-tax)
 - [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
-- [The Future Is Not Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
-- [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
