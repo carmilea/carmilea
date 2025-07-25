@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
+- [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
+- [nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
-- [Google&#39;s shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
-- [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
-- [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
