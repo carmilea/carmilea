@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Against the censorship of adult content by payment processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
+- [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
-- [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+- [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 - [Alto turns Apple Notes into a website](https://alto.so/)
 - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 <!-- BLOG-POST-LIST:END -->
