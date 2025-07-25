@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta to stop running political ads on Facebook and Instagram in the EU](https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/)
+- [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
+- [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
+- [Google&#39;s shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
+- [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
 - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
-- [It&#39;s DE9, Not DB9](https://news.sparkfun.com/14298)
-- [Who has the fastest F1 website &lpar;2021&rpar;](https://jakearchibald.com/2021/f1-perf-part-3/)
-- [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
