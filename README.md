@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
 - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 - [Alto turns Apple Notes into a website](https://alto.so/)
-- [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
