@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
-- [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
-- [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
-- [Internet Archive Is Now a Federal Depository Library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)
-- [Tea App Users&#39; Faces and IDs Reportedly Posted to 4chan in Security Breach](https://www.cnet.com/tech/services-and-software/tea-app-users-faces-and-ids-reportedly-posted-to-4chan-in-security-breach/)
+- [Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- [Monotonic and Wall Clock Time in the Go Time Package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
+- [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
+- [Never write your own Date Parsing Library](https://www.zachleat.com/web/adventures-in-date-parsing/)
+- [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
