@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
-- [Monotonic and Wall Clock Time in the Go Time Package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
+- [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- [Monotonic and wall clock time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
+- [The Tabs vs. Spaces war is over, and spaces have emerged victorious](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
 - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
-- [Never write your own Date Parsing Library](https://www.zachleat.com/web/adventures-in-date-parsing/)
-- [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
+- [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
