@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
+- [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
+- [Google in 1999: Search Engines Escape the Portal Matrix](https://cybercultural.com/p/google-1999/)
 - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
-- [Monotonic and wall clock time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
-- [The Tabs vs. Spaces war is over, and spaces have emerged victorious](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
 - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
-- [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
