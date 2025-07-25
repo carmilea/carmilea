@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
-- [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
-- [nullable but not null](https://efe.me/posts/nullable-but-not-null/)
-- [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
-- [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
+- [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
+- [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
+- [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
+- [Internet Archive Is Now a Federal Depository Library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)
+- [Tea App Users&#39; Faces and IDs Reportedly Posted to 4chan in Security Breach](https://www.cnet.com/tech/services-and-software/tea-app-users-faces-and-ids-reportedly-posted-to-4chan-in-security-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
