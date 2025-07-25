@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [LI live streaming test](https://www.youtube.com/watch?v=0l0A9_u5p-0)
 - [Building Modern Apps with Drizzle ORM and SingleStore](https://www.youtube.com/watch?v=FZVaQxjssM4)
 - [Real](https://www.youtube.com/watch?v=aHpQGQUr3Zw)
 - [zz-LI live streaming test](https://www.youtube.com/watch?v=i0drXD6gu9s)
 - [LI Live streaming test](https://www.youtube.com/watch?v=Ord1vzgmFPw)
+- [LI Live streaming test](https://www.youtube.com/watch?v=61_gtgTpbXs)
 <!-- YOUTUBE:END -->
 
 
