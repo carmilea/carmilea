@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Documents detail U.S. soldiers shot by their own Sig Sauer guns &lpar;2024&rpar;](https://www.nhpr.org/nh-news/2024-06-25/documents-detail-u-s-soldiers-shot-by-their-own-sig-sauer-guns-military-says-no-reason-for-concern)
+- [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
+- [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
 - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
-- [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
-- [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 <!-- BLOG-POST-LIST:END -->
 
 ---
