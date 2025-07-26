@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am a SOTA 0-shot classifier of your slop](https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/)
+- [Earth Has Tilted 31.5 Inches. That Shouldn&#39;t Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
+- [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
+- [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
-- [The UK’s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
 - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
-- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
