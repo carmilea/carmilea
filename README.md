@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK&#39;s New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
+- [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
+- [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 - [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-- [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
-- [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
+- [Why I do programming](https://esafev.com/notes/why-i-do-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
