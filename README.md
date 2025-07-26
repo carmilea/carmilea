@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
+- [Paul Dirac and the religion of mathematical beauty &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
-- [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
-- [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
