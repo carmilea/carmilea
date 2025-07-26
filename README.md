@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI couldn&#39;t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+- [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 - [It&#39;s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
-- [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
-- [Google in 1999: Search engines escape the portal matrix](https://cybercultural.com/p/google-1999/)
-- [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
