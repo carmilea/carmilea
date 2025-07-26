@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France to recognise Palestinian state in September](https://www.bbc.com/news/articles/ckg5g4p3245o)
+- [Test Results for AMD Zen 5 by Agner Fog](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
+- [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
+- [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
+- [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 - [Earth Has Tilted 31.5 Inches. That Shouldn&#39;t Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
-- [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
-- [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
-- [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
