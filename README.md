@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [France to recognise Palestinian state in September](https://www.bbc.com/news/articles/ckg5g4p3245o)
 - [Earth Has Tilted 31.5 Inches. That Shouldn&#39;t Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
-- [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
 - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 <!-- BLOG-POST-LIST:END -->
