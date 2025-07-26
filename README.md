@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK&#39;s New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
 - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
-- [Show HN: Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
 - [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
