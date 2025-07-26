@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Earth Has Tilted 31.5 Inches. That Shouldn&#39;t Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
+- [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
+- [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
 - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
-- [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
-- [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
