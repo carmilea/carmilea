@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I am a SOTA 0-shot classifier of your slop](https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/)
-- [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 - [The UK’s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
 - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
+- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
