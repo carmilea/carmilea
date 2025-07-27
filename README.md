@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chemical Process Produces Critical Battery Metals with No Waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
+- [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
+- [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
+- [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
 - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
-- [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
-- [Personal aviation is about to get interesting &lpar;2023&rpar;](https://www.elidourado.com/p/personal-aviation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
