@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
+- [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
+- [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
+- [Personal aviation is about to get interesting &lpar;2023&rpar;](https://www.elidourado.com/p/personal-aviation)
+- [Torqued Accelerator Using Radiation from the Sun &lpar;Tars&rpar; for Interstellar Payload](https://arxiv.org/abs/2507.17615)
 - [Paul Dirac and the religion of mathematical beauty &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
-- [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
-- [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
-- [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
