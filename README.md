@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
+- [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 - [Dumb Pipe](https://www.dumbpipe.dev/)
 - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
 - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
-- [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
-- [When we get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
