@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+- [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
+- [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
+- [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
-- [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
-- [The future is not self-hosted, but self-sovereign](https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign)
-- [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
-- [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
