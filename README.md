@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As Women Take over a Male-Dominated Field, the Pay Drops](https://www.nytimes.com/2016/03/20/upshot/as-women-take-over-a-male-dominated-field-the-pay-drops.html)
+- [Making Postgres 42,000x slower because I am unemployed](https://byteofdev.com/posts/making-postgres-slow/)
 - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
 - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 - [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)
-- [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
-- [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
