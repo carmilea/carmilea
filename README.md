@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
-- [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
-- [Dumb Pipe](https://www.dumbpipe.dev/)
-- [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
-- [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
+- [Disabling telemetry in ByteDance&#39;s VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
+- [Allianz Life says &#39;majority&#39; of customers&#39; personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
+- [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
+- [Ask HN: What Are You Working On? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44702833)
+- [Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
