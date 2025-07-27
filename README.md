@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos doesn&#39;t believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
+- [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
-- [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+- [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
-- [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
+- [When we get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
