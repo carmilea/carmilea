@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chemical Process Produces Critical Battery Metals with No Waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
+- [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
 - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
 - [Personal aviation is about to get interesting &lpar;2023&rpar;](https://www.elidourado.com/p/personal-aviation)
-- [Torqued Accelerator Using Radiation from the Sun &lpar;Tars&rpar; for Interstellar Payload](https://arxiv.org/abs/2507.17615)
-- [Paul Dirac and the religion of mathematical beauty &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
