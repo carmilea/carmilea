@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dumb Pipe](https://www.dumbpipe.dev/)
 - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
-- [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 - [When we get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
