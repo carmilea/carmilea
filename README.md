@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disabling telemetry in ByteDance&#39;s VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
-- [Allianz Life says &#39;majority&#39; of customers&#39; personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
-- [Show HN: Windows 7 GUI for the web](https://khang-nd.github.io/7.css/)
-- [Ask HN: What are you working on? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44702833)
-- [Tom Lehrer has died](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
+- [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
+- [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
+- [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)
+- [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
+- [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
