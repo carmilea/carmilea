@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 - [Disabling telemetry in ByteDance&#39;s VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
 - [Allianz Life says &#39;majority&#39; of customers&#39; personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
 - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
-- [Ask HN: What Are You Working On? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44702833)
-- [Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
+- [Ask HN: What are you working on? &lpar;July 2025&rpar;](https://news.ycombinator.com/item?id=44702833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
