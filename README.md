@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
 - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
-- [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)
-- [More Women Than Expected Are Genetically Men](https://novonordiskfonden.dk/en/news/more-women-than-expected-are-genetically-men/)
 - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 - [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
+- [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
