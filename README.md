@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Tivoization&quot; and Your Right to Install Under Copyleft and The GNU GPL](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
+- [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
+- [“Tivoization” and your right to install under Copyleft and GPL &lpar;2021&rpar;](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
-- [Claude Code Router](https://github.com/musistudio/claude-code-router)
 <!-- BLOG-POST-LIST:END -->
 
 ---
