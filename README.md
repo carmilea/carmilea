@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Different Clocks](https://ianto-cannon.github.io/clock.html)
-- [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
+- [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
+- [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
+- [Is SoftBank still backing OpenAI?](https://www.wheresyoured.at/softbank-openai/)
 - [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
-- [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
-- [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
