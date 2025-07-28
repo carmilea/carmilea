@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI. &quot;Slop Generators, are unsuitable for use [ ]&quot;](https://asahilinux.org/docs/project/policies/slop/)
 - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
-- [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
