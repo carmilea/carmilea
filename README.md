@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
+- [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
+- [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
+- [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
+- [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents)
 - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
-- [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
-- [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
-- [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
