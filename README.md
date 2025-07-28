@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian isn&#39;t waiting for 2038 to blow up, switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
-- [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
+- [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
+- [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
+- [What would an efficient and trustworthy meeting culture look like?](https://abitmighty.com/posts/the-ultimate-meeting-culture)
 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
-- [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
-- [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
+- [SIMD within a register: How I doubled hash table lookup performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
