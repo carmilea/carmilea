@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
-- [Tao on &quot;blue team&quot; vs. &quot;red team&quot; LLMs](https://mathstodon.xyz/@tao/114915604830689046)
-- [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
-- [The 1970s psychology experiment behind &#39;Star Wars&#39; special effects &lpar;2023&rpar;](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
-- [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
+- [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
+- [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)
+- [More Women Than Expected Are Genetically Men](https://novonordiskfonden.dk/en/news/more-women-than-expected-are-genetically-men/)
+- [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
+- [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
