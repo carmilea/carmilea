@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
+- [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
-- [Google failed to warn 10M of Turkey earthquake](https://www.bbc.com/news/articles/c77v2kx304go)
-- [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks &lpar;2019&rpar;](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
+- [Claude Code Router](https://github.com/musistudio/claude-code-router)
 - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
-- [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
