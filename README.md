@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
+- [The 1970s psychology experiment behind &#39;Star Wars&#39; special effects &lpar;2023&rpar;](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
 - [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
-- [What would an efficient and trustworthy meeting culture look like?](https://abitmighty.com/posts/the-ultimate-meeting-culture)
-- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
