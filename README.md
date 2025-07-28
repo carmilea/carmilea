@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI. &quot;Slop Generators, are unsuitable for use [ ]&quot;](https://asahilinux.org/docs/project/policies/slop/)
+- [Debian isn&#39;t waiting for 2038 to blow up, switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
 - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
