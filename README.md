@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
-- [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
-- [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
-- [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
-- [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
+- [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
+- [Google failed to warn 10M of Turkey earthquake](https://www.bbc.com/news/articles/c77v2kx304go)
+- [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks &lpar;2019&rpar;](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
+- [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
+- [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
