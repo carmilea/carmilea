@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
+- [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
+- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
-- [“Tivoization” and your right to install under Copyleft and GPL &lpar;2021&rpar;](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
-- [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
-- [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
