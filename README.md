@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
+- [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
+- [Tao on &quot;blue team&quot; vs. &quot;red team&quot; LLMs](https://mathstodon.xyz/@tao/114915604830689046)
+- [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
 - [The 1970s psychology experiment behind &#39;Star Wars&#39; special effects &lpar;2023&rpar;](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
-- [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
-- [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
