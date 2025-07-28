@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tea app leak worsens with second database exposing user chats](https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/)
+- [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
 - [Show HN: Use Their ID – Use Your Local UK MP&#39;s ID for the Online Safety Act](https://use-their-id.com/)
 - [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 - [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
-- [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
-- [Why not Matrix &lpar;2023&rpar;](https://telegra.ph/why-not-matrix-08-07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
