@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
+- [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+- [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
+- [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 - [Different Clocks](https://ianto-cannon.github.io/clock.html)
-- [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
-- [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
-- [Is SoftBank still backing OpenAI?](https://www.wheresyoured.at/softbank-openai/)
-- [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
 <!-- BLOG-POST-LIST:END -->
 
 ---
