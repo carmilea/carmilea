@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Went to a Drag Show—Now the State of Florida Wants Your Name](https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name)
 - [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
-- [An engineer&#39;s perspective: Why everything feels broken and what can we do](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
+- [The Leverage Arbitrage: Why Everything Feels Broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 - [Fintech dystopia](https://fintechdystopia.com/)
 - [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
+- [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
