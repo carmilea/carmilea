@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Webflow Down for &gt;31 Hours](https://status.webflow.com)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
+- [Microsoft bans LibreOffice developer&#39;s account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
+- [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 - [Supervised Fine Tuning on Curated Data is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
-- [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
-- [Maru OS – Your phone is your PC](https://maruos.com/)
-- [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
-- [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
