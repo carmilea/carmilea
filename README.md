@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
+- [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
+- [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
+- [Maru OS – Your phone is your PC](https://maruos.com/)
 - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
-- [The Secret Stanford Program No One&#39;s Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
-- [A month using XMPP &lpar;using Snikket&rpar; for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
