@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
-- [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
-- [Modernising the Amiga at Forty](https://benjamin.computer/posts/2025-07-28-amiga40.html)
-- [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
-- [Fintech dystopia](https://fintechdystopia.com/)
+- [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
+- [Sendblue &lpar;YC S23&rpar; is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
+- [Data Intelligence Is the Missing Piece in Your AI Strategy](https://www.singlestore.com/blog/data-intelligence-is-the-missing-piece-in-your-ai-strategy)
+- [Anthropic Faces Potentially &quot;Business-Ending&quot; Copyright Lawsuit](https://www.obsolete.pub/p/anthropic-faces-potentially-business)
+- [Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
