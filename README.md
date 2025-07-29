@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
-- [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
-- [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
-- [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
-- [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
+- [Launch HN: Hyprnote &lpar;YC S25&rpar; – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
+- [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
+- [Microsoft Introduces &#39;Copilot Mode&#39; in Edge](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/)
+- [The hit film about overworked nurses that&#39;s causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
+- [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
