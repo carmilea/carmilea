@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
+- [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
+- [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
+- [The Secret Stanford Program No One&#39;s Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 - [A month using XMPP &lpar;using Snikket&rpar; for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
-- [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
-- [Linux 6.16 brings faster file systems, improved confidential memory, &amp; more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
-- [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
-- [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
