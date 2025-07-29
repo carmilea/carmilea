@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Webflow Down for &gt;31 Hours](https://status.webflow.com)
+- [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
+- [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 - [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
-- [Microsoft bans LibreOffice developer&#39;s account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
 - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
-- [Supervised Fine Tuning on Curated Data is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
+- [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
