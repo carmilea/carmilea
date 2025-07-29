@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FinTech Dystopia](https://fintechdystopia.com/)
-- [AI Is Wrecking a Fragile Job Market for College Graduates](https://www.wsj.com/lifestyle/careers/ai-entry-level-jobs-graduates-b224d624)
-- [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
+- [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)
+- [NSF plans abrupt end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+- [Fintech dystopia](https://fintechdystopia.com/)
 - [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
-- [Show HN: Use Their ID – Use Your Local UK MP&#39;s ID for the Online Safety Act](https://use-their-id.com/)
+- [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
