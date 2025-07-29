@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
+- [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
 - [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
-- [The Leverage Arbitrage: Why Everything Feels Broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
-- [Fintech dystopia](https://fintechdystopia.com/)
-- [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
+- [Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act](https://use-their-id.com/)
 - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 <!-- BLOG-POST-LIST:END -->
 
