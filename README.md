@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone Cameras Are Good](https://candid9.com/phone-camera/)
-- [My 2.5 year old laptop can write Space Invaders in JavaScript now &lpar;GLM-4.5 Air&rpar;](https://simonwillison.net/2025/Jul/29/space-invaders/)
-- [RP2350 A4, RP2354, and a New Hacking Challenge](https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/)
-- [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
-- [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
+- [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
+- [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
+- [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
+- [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
+- [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
