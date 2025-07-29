@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tea app leak worsens with second database exposing user chats](https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/)
-- [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
+- [FinTech Dystopia](https://fintechdystopia.com/)
+- [AI Is Wrecking a Fragile Job Market for College Graduates](https://www.wsj.com/lifestyle/careers/ai-entry-level-jobs-graduates-b224d624)
+- [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
+- [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
 - [Show HN: Use Their ID – Use Your Local UK MP&#39;s ID for the Online Safety Act](https://use-their-id.com/)
-- [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
-- [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
