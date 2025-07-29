@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The starvation of Gaza is shameful. Crippling sanctions on Israel are needed](https://www.theguardian.com/world/2025/jul/29/the-starvation-of-gaza-is-shameful-crippling-sanctions-on-israel-are-needed)
-- [Study Mode](https://openai.com/index/chatgpt-study-mode/)
-- [Learning Basic Electronics by Building FireFlies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)
-- [Pax Markets &lpar;YC W25&rpar; is hiring a founding principal hardware &lpar;RTL&rpar; engineer](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer)
-- [Launch HN: Hyprnote &lpar;YC S25&rpar; – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
+- [A month using XMPP &lpar;using Snikket&rpar; for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
+- [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
+- [Linux 6.16 brings faster file systems, improved confidential memory, &amp; more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
+- [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
+- [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
