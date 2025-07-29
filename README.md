@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
-- [Sendblue &lpar;YC S23&rpar; is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
-- [Data Intelligence Is the Missing Piece in Your AI Strategy](https://www.singlestore.com/blog/data-intelligence-is-the-missing-piece-in-your-ai-strategy)
-- [Anthropic Faces Potentially &quot;Business-Ending&quot; Copyright Lawsuit](https://www.obsolete.pub/p/anthropic-faces-potentially-business)
-- [Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
+- [iPhone Cameras Are Good](https://candid9.com/phone-camera/)
+- [My 2.5 year old laptop can write Space Invaders in JavaScript now &lpar;GLM-4.5 Air&rpar;](https://simonwillison.net/2025/Jul/29/space-invaders/)
+- [RP2350 A4, RP2354, and a New Hacking Challenge](https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/)
+- [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
+- [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
