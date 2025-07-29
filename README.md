@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
 - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
 - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
-- [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
-- [Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act](https://use-their-id.com/)
-- [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
+- [The leverage arbitrage: Why everything feels broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
+- [Fintech dystopia](https://fintechdystopia.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
