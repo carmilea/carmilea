@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The starvation of Gaza is shameful. Crippling sanctions on Israel are needed](https://www.theguardian.com/world/2025/jul/29/the-starvation-of-gaza-is-shameful-crippling-sanctions-on-israel-are-needed)
+- [Study Mode](https://openai.com/index/chatgpt-study-mode/)
+- [Learning Basic Electronics by Building FireFlies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)
+- [Pax Markets &lpar;YC W25&rpar; is hiring a founding principal hardware &lpar;RTL&rpar; engineer](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer)
 - [Launch HN: Hyprnote &lpar;YC S25&rpar; – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
-- [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
-- [Microsoft Introduces &#39;Copilot Mode&#39; in Edge](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/)
-- [The hit film about overworked nurses that&#39;s causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
-- [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
