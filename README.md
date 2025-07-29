@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
 - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
+- [Modernising the Amiga at Forty](https://benjamin.computer/posts/2025-07-28-amiga40.html)
 - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
-- [The leverage arbitrage: Why everything feels broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 - [Fintech dystopia](https://fintechdystopia.com/)
+- [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
