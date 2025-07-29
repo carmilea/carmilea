@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supervised Fine Tuning on Curated Data is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
 - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
-- [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
 - [Maru OS – Your phone is your PC](https://maruos.com/)
+- [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
-- [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
