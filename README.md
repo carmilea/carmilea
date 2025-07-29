@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)
-- [NSF plans abrupt end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+- [You Went to a Drag Show—Now the State of Florida Wants Your Name](https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name)
+- [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+- [An engineer&#39;s perspective: Why everything feels broken and what can we do](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 - [Fintech dystopia](https://fintechdystopia.com/)
-- [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
 - [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
 <!-- BLOG-POST-LIST:END -->
 
