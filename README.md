@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
+- [Actions reflect your priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
 - [The Preserving Machine by Philip K. Dick &lpar;1953&rpar;](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
-- [Scammers unleash flood of online gaming sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
-- [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
 - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
-- [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
+- [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
