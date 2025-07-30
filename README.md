@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
-- [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
-- [State Capacity and Eight Parking Spaces](https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/)
-- [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
-- [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
+- [Cedana &lpar;YC S23&rpar; Is Hiring a Systems Engineer](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration)
+- [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
+- [Moneybadger and Peach Payments partner to enable Bitcoin payments](https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/)
+- [Qwen3 30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507)
+- [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
