@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice](https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/)
 - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
 - [Early universe&#39;s &#39;little red dots&#39; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
-- [The Preserving Machine by Philip K. Dick &lpar;1953&rpar;](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
