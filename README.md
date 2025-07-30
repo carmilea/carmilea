@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
+- [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
+- [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
+- [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 - [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
-- [Every Champion Needs a Rival](https://tombrady.com/posts/every-champion-needs-a-rival)
-- [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
-- [The Hype is the Product](https://rys.io/en/180.html)
-- [Fast](https://www.catherinejue.com/fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
