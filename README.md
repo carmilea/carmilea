@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artie &lpar;YC S23&rpar; Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
-- [What&#39;s Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
-- [&#39;70 MPH e-bikes&#39; prompt one US state to change its laws](https://electrek.co/2025/07/29/70-mph-e-bikes-prompt-one-us-state-to-change-its-laws/)
-- [Crush: Glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
-- [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)
+- [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
+- [Every Champion Needs a Rival](https://tombrady.com/posts/every-champion-needs-a-rival)
+- [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
+- [The Hype is the Product](https://rys.io/en/180.html)
+- [Fast](https://www.catherinejue.com/fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
