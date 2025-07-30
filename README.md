@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
+- [Early universe&#39;s &#39;little red dots&#39; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
+- [Vibe code is legacy code](https://blog.val.town/vibe-code)
 - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
-- [Actions reflect your priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
 - [The Preserving Machine by Philip K. Dick &lpar;1953&rpar;](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
-- [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
-- [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
