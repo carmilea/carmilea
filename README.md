@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The FBI&#39;s Leaders &#39;Have No Idea What They&#39;re Doing&#39;](https://www.theatlantic.com/ideas/archive/2025/07/trump-fbi-michael-feinberg/683685/)
-- [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0)
 - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
+- [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
