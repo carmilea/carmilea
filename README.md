@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
 - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
 - [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
