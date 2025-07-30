@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Metaflow?](https://docs.metaflow.org/introduction/why-metaflow)
+- [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+- [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
 - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
-- [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
-- [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
-- [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
+- [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
