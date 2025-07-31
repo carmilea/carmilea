@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting your own Static Site Generator using Phoenix &lpar;2023&rpar;](https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/)
+- [Hawaiian petroglyphs reemerge on Oahu&#39;s shores after years of being hidden](https://archaeologymag.com/2025/07/hawaiian-petroglyphs-reemerge-on-oahu/)
+- [&quot;No Tax on Tips&quot; Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
-- [The Anti-Abundance Critique on Housing Is Dead Wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
-- [A Hitchhiker&#39;s Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
-- [Kaleidos – A portable nuclear microreactor that replaces diesel generators](https://radiantnuclear.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
