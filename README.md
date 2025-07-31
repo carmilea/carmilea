@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
-- [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
-- [U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard](https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/)
-- [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)
-- [Carbon Language: An experimental successor to C++](https://docs.carbon-lang.dev/)
+- [Launch HN: Gecko Security &lpar;YC F24&rpar; – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
+- [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
+- [How Not to Study a Disease &lpar;2023&rpar;](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
+- [QUIC for the Kernel](https://lwn.net/Articles/1029851/)
+- [The Future of Programming &lpar;2013&rpar;](https://worrydream.com/dbx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
