@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
-- [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
 - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 - [I know when you&#39;re vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
+- [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
 <!-- BLOG-POST-LIST:END -->
 
 ---
