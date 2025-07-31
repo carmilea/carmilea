@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slow](https://michaelnotebook.com/slow/index.html)
+- [Astronomical Telescope &quot;Hadley&quot; – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 - [Secure boot certificate rollover is real but probably won&#39;t hurt you](https://mjg59.dreamwidth.org/72892.html)
-- [How to Scan Force Pushed Commits for Secrets](https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets)
-- [Show HN: Astro dev blog template with 60 interactive colorschemes](https://multiterm.stelclementine.com)
-- [AI Is a Floor Raiser, Not a Ceiling Raiser](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html)
+- [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
