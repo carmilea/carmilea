@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaizen &lpar;YC X25&rpar; is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
-- [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
-- [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html)
-- [Launch HN: Gecko Security &lpar;YC F24&rpar; – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
-- [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
+- [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
+- [Secure boot certificate rollover is real but probably won&#39;t hurt you](https://mjg59.dreamwidth.org/72892.html)
+- [How to Scan Force Pushed Commits for Secrets](https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets)
+- [Show HN: Astro dev blog template with 60 interactive colorschemes](https://multiterm.stelclementine.com)
+- [AI Is a Floor Raiser, Not a Ceiling Raiser](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
