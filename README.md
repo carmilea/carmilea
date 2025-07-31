@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaizen &lpar;YC X25&rpar; is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
+- [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
+- [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html)
 - [Launch HN: Gecko Security &lpar;YC F24&rpar; – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
 - [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
-- [How Not to Study a Disease &lpar;2023&rpar;](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
-- [QUIC for the Kernel](https://lwn.net/Articles/1029851/)
-- [The Future of Programming &lpar;2013&rpar;](https://worrydream.com/dbx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
