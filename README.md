@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+- [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
+- [I Know When You&#39;re Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-- [Sei &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
-- [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
-- [Pentagon Pizza Index](https://www.pizzint.watch/)
-- [Ollama&#39;s new app](https://ollama.com/blog/new-app)
+- [You know what: Microsoft became miserably incompetent in IT](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
