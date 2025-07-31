@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaleidos – A portable nuclear microreactor that replaces diesel generators](https://radiantnuclear.com/)
+- [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
 - [Slow](https://michaelnotebook.com/slow/index.html)
 - [Astronomical Telescope &quot;Hadley&quot; – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
-- [Secure boot certificate rollover is real but probably won&#39;t hurt you](https://mjg59.dreamwidth.org/72892.html)
-- [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
