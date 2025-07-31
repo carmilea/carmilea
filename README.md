@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
-- [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
-- [Severe turbulence forces Delta A330 to make emergency landing, 25 injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
-- [SingleStore Recognized in the Gartner® Hype Cycle™ for Data Management, 2025 for Operational Intelligence Category](https://www.singlestore.com/blog/singlestore-recognized-in-the-gartner-hype-cycle-2025)
-- [GenosDB &lpar;GDB&rpar; – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
+- [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
+- [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
+- [U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard](https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/)
+- [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)
+- [Carbon Language: An experimental successor to C++](https://docs.carbon-lang.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
