@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+- [So You&#39;re a Manager Now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
+- [How Scientific Empires End](https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/)
+- [Benchmarks in CI: Escaping the Cloud Chaos](https://codspeed.io/blog/benchmarks-in-ci-without-noise)
 - [Altima NSX – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/altima-nsx)
-- [Infracost &lpar;YC W21&rpar; hiring first PM to shift $600B cloud spend to proactive](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
-- [PSA: Many countries that said NO to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
-- [Introduction to Computer Music an Electronic Textbook](https://cmtext.com/)
-- [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
 <!-- BLOG-POST-LIST:END -->
 
 ---
