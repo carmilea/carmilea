@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
-- [So You&#39;re a Manager Now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
-- [How Scientific Empires End](https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/)
-- [Benchmarks in CI: Escaping the Cloud Chaos](https://codspeed.io/blog/benchmarks-in-ci-without-noise)
-- [Altima NSX – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/altima-nsx)
+- [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
+- [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
+- [Severe turbulence forces Delta A330 to make emergency landing, 25 injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+- [SingleStore Recognized in the Gartner® Hype Cycle™ for Data Management, 2025 for Operational Intelligence Category](https://www.singlestore.com/blog/singlestore-recognized-in-the-gartner-hype-cycle-2025)
+- [GenosDB &lpar;GDB&rpar; – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
