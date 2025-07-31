@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice](https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/)
-- [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
-- [Early universe&#39;s &#39;little red dots&#39; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
-- [Vibe code is legacy code](https://blog.val.town/vibe-code)
-- [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
+- [Classic CDE &lpar;Common Desktop Environment&rpar; Coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+- [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
+- [Sei &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
+- [Pentagon Pizza Index](https://www.pizzint.watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
