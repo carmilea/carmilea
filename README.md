@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecto’s GPTGuard Uses SingleStore Vectors to Overcome RAG Limitations and Deliver Secure, Accurate Document Retrieval](https://www.singlestore.com/blog/protectos-gptguard-uses-singlestore-vectors-to-overcome-rag-limitations-and-deliver-secure-accurate-document-retrieval)
+- [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
 - [Stop Waiting for the Future: Real-Time Data in One Platform Is Already Here](https://www.singlestore.com/blog/stop-waiting-for-the-future-real-time-data-in-one-platform-is-already-here)
 - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
 - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
-- [I know when you&#39;re vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
-- [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
