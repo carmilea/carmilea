@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Classic CDE &lpar;Common Desktop Environment&rpar; Coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-- [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
+- [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
 - [Sei &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
 - [Pentagon Pizza Index](https://www.pizzint.watch/)
+- [Ollama&#39;s new app](https://ollama.com/blog/new-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
