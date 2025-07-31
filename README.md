@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Hitchhiker&#39;s Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
+- [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 - [Kaleidos – A portable nuclear microreactor that replaces diesel generators](https://radiantnuclear.com/)
-- [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
 - [Slow](https://michaelnotebook.com/slow/index.html)
-- [Astronomical Telescope &quot;Hadley&quot; – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
-- [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
+- [Astronomical Telescope “Hadley” – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
