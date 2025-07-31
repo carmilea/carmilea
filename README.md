@@ -61,7 +61,7 @@
 - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
 - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
 - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
-- [I Know When You&#39;re Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+- [I know when you&#39;re vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
 <!-- BLOG-POST-LIST:END -->
 
