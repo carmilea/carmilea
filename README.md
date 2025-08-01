@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fair Access to Banking](https://usips.org/blog/2025/07/fair-access-to-banking/)
-- [Golden Literal Testing in UTest](https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html)
-- [Crafting your own Static Site Generator using Phoenix &lpar;2023&rpar;](https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/)
+- [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
+- [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
+- [Age verification doesn&#39;t need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
 - [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 <!-- BLOG-POST-LIST:END -->
