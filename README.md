@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyrum&#39;s Law](https://www.hyrumslaw.com)
-- [Long Term Support](https://www.sqlite.org/lts.html)
-- [IRS head says free Direct File tax service is &#39;gone&#39;](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
-- [OpenAI raises $8.3B at $300B valuation](https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html)
-- [GPT-5 is already &lpar;ostensibly&rpar; available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
+- [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
+- [Rollercoaster Tycoon &lpar;Or, MicroProse&#39;s Last Hurrah&rpar;](https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/)
+- [OpenAI Leaks 120B Open Model on Hugging Face](https://twitter.com/main_horse/status/1951201925778776530)
+- [Rate, Price Drops Won&#39;t Substantially Improve Affordability](https://www.zillow.com/research/rate-drops-35389/)
+- [FBI seized $40k from Linda Martin without charging her with a crime](https://reason.com/2025/07/28/the-fbi-took-her-40000-without-explaining-why-she-fought-back-and-lost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
