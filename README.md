@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
-- [Every satellite orbiting earth and who owns them &lpar;2023&rpar;](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
-- [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
-- [“No tax on tips” is an industry plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
-- [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
+- [The Untold Impact of Cancellation](https://pretty.direct/impact)
+- [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
+- [Belgium Bans Internet Archive&#39;s &#39;Open Library&#39; in Site Blocking Order](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
+- [Terence Tao&#39;s NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
+- [Gemini 2.5 Deep Think](https://twitter.com/GoogleDeepMind/status/1951239132950204439)
 <!-- BLOG-POST-LIST:END -->
 
 ---
