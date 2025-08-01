@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
-- [Rollercoaster Tycoon &lpar;Or, MicroProse&#39;s Last Hurrah&rpar;](https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/)
-- [OpenAI Leaks 120B Open Model on Hugging Face](https://twitter.com/main_horse/status/1951201925778776530)
-- [Rate, Price Drops Won&#39;t Substantially Improve Affordability](https://www.zillow.com/research/rate-drops-35389/)
-- [FBI seized $40k from Linda Martin without charging her with a crime](https://reason.com/2025/07/28/the-fbi-took-her-40000-without-explaining-why-she-fought-back-and-lost/)
+- [Coverage Cat &lpar;YC S22&rpar; Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
+- [Corporation for Public Broadcasting Ceasing Operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
+- [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
+- [Design patterns you should unlearn in Python](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1/)
+- [Supporting the BEAM community with free CI/CD security audits](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
