@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Palantir gets $10B contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/)
+- [Vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html)
+- [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 - [Every satellite orbiting earth and who owns them &lpar;2023&rpar;](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
 - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
-- [“No tax on tips” is an industry plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
