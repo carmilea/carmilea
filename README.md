@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clarifying recent headlines on gaming content](https://www.mastercard.com/us/en/news-and-trends/press/2025/august/clarifying-recent-headlines-on-gaming-content.html)
+- [Unemployment rising in remote-friendly occupations &lpar;2024&rpar;](https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/)
+- [Tesla must pay $329M in damages in fatal Autopilot case, jury says](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 - [Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
 - [Coverage Cat &lpar;YC S22&rpar; Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
-- [I couldn&#39;t submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
-- [Corporation for Public Broadcasting Ceasing Operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
-- [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
