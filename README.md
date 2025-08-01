@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=YULfL2LJJAY)
 - [Building Agentic RAG Applications](https://www.youtube.com/watch?v=tMvgHBKedUI)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=kTbMJAEgoC0)
 - [Level Up: New Developer Tools in SingleStore](https://www.youtube.com/shorts/wBoR5VywH3c)
 - [Building Modern Apps with Drizzle ORM and SingleStore](https://www.youtube.com/watch?v=FZVaQxjssM4)
-- [Real](https://www.youtube.com/watch?v=aHpQGQUr3Zw)
 <!-- YOUTUBE:END -->
 
 
