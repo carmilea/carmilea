@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
 - [Coverage Cat &lpar;YC S22&rpar; Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
+- [I couldn&#39;t submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 - [Corporation for Public Broadcasting Ceasing Operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
-- [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
-- [Design patterns you should unlearn in Python](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1/)
-- [Supporting the BEAM community with free CI/CD security audits](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
+- [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
