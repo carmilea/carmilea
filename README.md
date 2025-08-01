@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
+- [Every satellite orbiting earth and who owns them &lpar;2023&rpar;](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
 - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
 - [Age verification doesn&#39;t need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
