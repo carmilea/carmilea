@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers map where solar energy delivers the biggest climate payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
-- [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
-- [When Flatpak&#39;s Sandbox Cracks](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
-- [Deep Agents](https://blog.langchain.com/deep-agents/)
-- [Atlassian terminates 150 staff](https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai)
+- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
+- [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
+- [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
+- [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+- [JSON is not a YAML subset &lpar;2022&rpar;](https://john-millikin.com/json-is-not-a-yaml-subset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
