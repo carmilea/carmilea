@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Safety Act: What went wrong?](https://therectangle.substack.com/p/online-safety-act-what-went-wrong)
+- [GPT-5 is already &lpar;ostensibly&rpar; available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
 - [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
 - [Launch HN: Societies.io &lpar;YC W25&rpar; – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
 - [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
-- [How did Facebook intercept competitor&#39;s encrypted mobile app traffic? &lpar;2014&rpar;](https://haxrob.net/onavo-facebook-ssl-mitm-technical-analysis/)
-- [Belgium bans Internet Archive&#39;s ‘Open Library’](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
