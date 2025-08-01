@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Untold Impact of Cancellation](https://pretty.direct/impact)
+- [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
+- [Launch HN: Societies.io &lpar;YC W25&rpar; – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
 - [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
-- [Belgium Bans Internet Archive&#39;s &#39;Open Library&#39; in Site Blocking Order](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
-- [Terence Tao&#39;s NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
-- [Gemini 2.5 Deep Think](https://twitter.com/GoogleDeepMind/status/1951239132950204439)
+- [How did Facebook intercept competitor&#39;s encrypted mobile app traffic? &lpar;2014&rpar;](https://haxrob.net/onavo-facebook-ssl-mitm-technical-analysis/)
+- [Belgium bans Internet Archive&#39;s ‘Open Library’](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
