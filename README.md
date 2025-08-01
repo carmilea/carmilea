@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online Safety Act: What went wrong?](https://therectangle.substack.com/p/online-safety-act-what-went-wrong)
+- [Hyrum&#39;s Law](https://www.hyrumslaw.com)
+- [Long Term Support](https://www.sqlite.org/lts.html)
+- [IRS head says free Direct File tax service is &#39;gone&#39;](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
+- [OpenAI raises $8.3B at $300B valuation](https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html)
 - [GPT-5 is already &lpar;ostensibly&rpar; available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
-- [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
-- [Launch HN: Societies.io &lpar;YC W25&rpar; – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
-- [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
