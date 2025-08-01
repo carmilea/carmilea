@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fair Access to Banking](https://usips.org/blog/2025/07/fair-access-to-banking/)
+- [Golden Literal Testing in UTest](https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html)
 - [Crafting your own Static Site Generator using Phoenix &lpar;2023&rpar;](https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/)
-- [Hawaiian petroglyphs reemerge on Oahu&#39;s shores after years of being hidden](https://archaeologymag.com/2025/07/hawaiian-petroglyphs-reemerge-on-oahu/)
-- [&quot;No Tax on Tips&quot; Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
-- [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
+- [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 <!-- BLOG-POST-LIST:END -->
 
