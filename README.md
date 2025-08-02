@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
+- [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
+- [The /o in Ruby regex stands for &quot;oh the humanity &quot;](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 - [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 - [The Rubik&#39;s Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
-- [The case for having roommates &lpar;even when you can afford to live alone&rpar;](https://supernuclear.substack.com/p/the-case-for-having-roommates-even)
-- [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
-- [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
