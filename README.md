@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+- [The unreasonable likelihood of being: origin of life, terraforming, and AI](https://arxiv.org/abs/2507.18545)
 - [Telo MT1](https://www.telotrucks.com/)
-- [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
-- [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
-- [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
+- [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
