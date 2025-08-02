@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
+- [Microsoft is open sourcing Windows 11&#39;s UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
+- [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
+- [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
-- [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
-- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
