@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
+- [Peak Energy just shipped the US&#39;s first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
+- [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
+- [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 - [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
-- [Contrarian climate assessment from U.S. government draws pushback](https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback)
-- [Meta violated privacy law, jury says in menstrual data fight](https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/)
-- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
-- [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
