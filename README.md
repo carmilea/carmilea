@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+- [Telo MT1](https://www.telotrucks.com/)
+- [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
+- [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
-- [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
-- [The /o in Ruby regex stands for &quot;oh the humanity &quot;](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
-- [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
-- [The Rubik&#39;s Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
