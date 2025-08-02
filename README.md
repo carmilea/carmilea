@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
-- [The unreasonable likelihood of being: origin of life, terraforming, and AI](https://arxiv.org/abs/2507.18545)
+- [Linear Types for Programmers &lpar;2023&rpar;](https://twey.io/for-programmers/linear-types/)
 - [Telo MT1](https://www.telotrucks.com/)
 - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 <!-- BLOG-POST-LIST:END -->
