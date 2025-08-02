@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 - [Peak Energy just shipped the US&#39;s first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
-- [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
 - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 - [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
+- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
