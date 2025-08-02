@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission)
-- [A.I. Researchers Are Negotiating $250 Million Pay Packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
 - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
-- [We may not like what we become if A.I. solves Loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
-- [North Korea sent me abroad to be a secret IT worker. My wages funded the regime](https://www.bbc.com/news/articles/c15wk77zxngo)
+- [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
+- [North Korea sent me abroad to be a secret IT worker](https://www.bbc.com/news/articles/c15wk77zxngo)
+- [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
