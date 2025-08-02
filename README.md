@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
-- [Peak Energy just shipped the US&#39;s first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
 - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 - [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
 - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
