@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
+- [Contrarian climate assessment from U.S. government draws pushback](https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback)
+- [Meta violated privacy law, jury says in menstrual data fight](https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/)
 - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
 - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
-- [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
-- [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
-- [JSON is not a YAML subset &lpar;2022&rpar;](https://john-millikin.com/json-is-not-a-yaml-subset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
