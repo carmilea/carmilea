@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
+- [Modeling open-world cognition as on-demand synthesis of probabilistic models](https://arxiv.org/abs/2507.12547)
+- [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 - [Linear Types for Programmers &lpar;2023&rpar;](https://twey.io/for-programmers/linear-types/)
 - [Telo MT1](https://www.telotrucks.com/)
-- [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
