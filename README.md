@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
+- [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 - [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 - [Linear Types for Programmers &lpar;2023&rpar;](https://twey.io/for-programmers/linear-types/)
 - [Telo MT1](https://www.telotrucks.com/)
