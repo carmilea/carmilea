@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
 - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 - [Microsoft is open sourcing Windows 11&#39;s UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
-- [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
-- [Terence Tao on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
+- [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 <!-- BLOG-POST-LIST:END -->
 
