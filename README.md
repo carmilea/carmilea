@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
+- [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 - [Modeling open-world cognition as on-demand synthesis of probabilistic models](https://arxiv.org/abs/2507.12547)
-- [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
-- [Linear Types for Programmers &lpar;2023&rpar;](https://twey.io/for-programmers/linear-types/)
 - [Telo MT1](https://www.telotrucks.com/)
 <!-- BLOG-POST-LIST:END -->
 
