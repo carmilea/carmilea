@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I use Claude Code to implement new features in an existing complex codebase](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
+- [28th International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
+- [Seed7 – The Extensible Programming Language](https://seed7.net)
+- [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 - [Parsing without ASTs and Optimizing with Sea of Nodes  [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
-- [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
-- [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
-- [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
-- [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
