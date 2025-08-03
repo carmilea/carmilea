@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Good Design Document](https://grantslatton.com/how-to-design-document)
+- [Tell HN: I&#39;m tired of formulaic, &quot;LLM house style&quot; show HN submissions](https://news.ycombinator.com/item?id=44780249)
+- [Writing a good design document](https://grantslatton.com/how-to-design-document)
 - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
-- [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-- [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
+- [Show HN: Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
