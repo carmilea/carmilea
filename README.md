@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: I&#39;m tired of formulaic, &quot;LLM house style&quot; show HN submissions](https://news.ycombinator.com/item?id=44780249)
-- [Writing a good design document](https://grantslatton.com/how-to-design-document)
-- [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
-- [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
-- [Show HN: Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/)
+- [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
+- [A study of lights at night suggests dictators lie about economic growth &lpar;2022&rpar;](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+- [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
+- [&#39;A black hole&#39;: New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
+- [&quot;If you can rack it, you can run UniFi OS&quot; Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
