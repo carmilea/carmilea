@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you&#39;re going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls)
+- [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 - [How to Make Almost Anything Course at MIT &lpar;TA Perspective&rpar;](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
 - [If you&#39;re remote, ramble](https://stephango.com/ramblings)
-- [Self-employed, self-exhausted](https://theisolationjournals.substack.com/p/self-employed-self-exhausted)
+- [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
