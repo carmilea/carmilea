@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
+- [Ex-Barclays VP who completed a PhD in prison: &quot;All my former colleagues ignore&quot;](https://www.efinancialcareers.com/news/carlo-palombo)
 - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 - [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 - [UN Report Finds UN Reports Are Not Widely Read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
-- [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
-- [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
