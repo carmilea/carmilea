@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 - [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- [UN Report Finds UN Reports Are Not Widely Read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
 - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
 - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
-- [How To Make &lpar;almost&rpar; Anything &lpar;2019&rpar;](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
-- [If you&#39;re remote, ramble](https://stephango.com/ramblings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
