@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
+- [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
 - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 - [How To Make &lpar;almost&rpar; Anything &lpar;2019&rpar;](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 - [If you&#39;re remote, ramble](https://stephango.com/ramblings)
-- [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
