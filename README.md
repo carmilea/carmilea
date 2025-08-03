@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
-- [How to Make Almost Anything Course at MIT &lpar;TA Perspective&rpar;](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
+- [$83B Wasted: Showing Up at the Airport 3 Hours Before Your Flight](https://viewfromthewing.com/83-billion-wasted-showing-up-at-the-airport-3-hours-before-your-flight-is-a-system-failure-no-ones-trying-to-fix/)
+- [Falcon-H1: A Family of Hybrid-Head Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448)
+- [How To Make &lpar;almost&rpar; Anything &lpar;2019&rpar;](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
-- [If you&#39;re remote, ramble](https://stephango.com/ramblings)
-- [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
