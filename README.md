@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Employed, Self-Exhausted](https://theisolationjournals.substack.com/p/self-employed-self-exhausted)
 - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 - [Seed7 – The Extensible Programming Language](https://seed7.net)
-- [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
-- [Parsing without ASTs and Optimizing with Sea of Nodes  [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
+- [The Algebra Gatekeepers](https://www.educationprogress.org/p/the-algebra-gatekeepers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
