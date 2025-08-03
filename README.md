@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
-- [Ex-Barclays VP who completed a PhD in prison: &quot;All my former colleagues ignore&quot;](https://www.efinancialcareers.com/news/carlo-palombo)
-- [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
-- [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
-- [UN Report Finds UN Reports Are Not Widely Read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
+- [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
+- [The Dollar Is Dead](https://mathmeetsmoney.substack.com/p/the-dollar-is-dead)
+- [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
+- [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
+- [The US Relies on 51 Forty-five-year-old ships to Transport its Military Overseas [video]](https://www.youtube.com/watch?v=tDHsfDCWWcE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
