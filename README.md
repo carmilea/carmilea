@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)
+- [If You&#39;re Remote, Ramble](https://stephango.com/ramblings)
 - [Self-Employed, Self-Exhausted](https://theisolationjournals.substack.com/p/self-employed-self-exhausted)
 - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
-- [Seed7 – The Extensible Programming Language](https://seed7.net)
-- [The Algebra Gatekeepers](https://www.educationprogress.org/p/the-algebra-gatekeepers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
