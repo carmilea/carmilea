@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
-- [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
-- [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
-- [GHz spiking neuromorphic photonic chip with in-situ training](https://arxiv.org/abs/2506.14272)
-- [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
+- [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
+- [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
+- [Read your code](https://etsd.tech/posts/rtfc/)
+- [Scientists shine a laser through a human head](https://spectrum.ieee.org/optical-brain-imaging)
+- [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
