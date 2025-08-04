@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
-- [Mozilla Firefox&#39;s extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
-- [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
-- [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
-- [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
+- [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
+- [Microsoft tops $4T in valuation: Great news for MSFT, not so great for workers](https://www.computerworld.com/article/4032921/microsoft-tops-4t-in-valuation-great-news-for-the-company-not-so-great-for-its-workers.html)
+- [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
+- [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
+- [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
