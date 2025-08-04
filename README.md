@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Candidates say they&#39;d rather risk staying unemployed than talk to another robot](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 - [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
 - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
 - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
 - [Why doctors hate their computers &lpar;2018&rpar;](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-- [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
