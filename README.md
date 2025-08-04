@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Examples: How Developers Are Building Smarter Systems](https://www.singlestore.com/blog/agentic-ai-examples-how-developers-are-building-smarter-systems)
-- [ThinkBook Plus Gen 6 – Lenovo’s rollable laptop](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
-- [Lightning on Earth is sparked by a powerful chain reaction from outer space](https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show)
-- [Mastercard deflects blame for NSFW games being taken down](https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/)
-- [HTMX is hard, so let&#39;s get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
+- [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
+- [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
+- [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
+- [GHz spiking neuromorphic photonic chip with in-situ training](https://arxiv.org/abs/2506.14272)
+- [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
