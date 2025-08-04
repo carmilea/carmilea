@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
 - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 - [NASA&#39;s Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
-- [Circadian justice](https://eprints.lse.ac.uk/112431/)
-- [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
-- [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
+- [Circadian justice &lpar;2022&rpar;](https://eprints.lse.ac.uk/112431/)
+- [I asked four former friends why we stopped speaking &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
