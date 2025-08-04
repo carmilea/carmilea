@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It FOSS?](https://isitreallyfoss.com/)
+- [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
 - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
 - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 - [NASA&#39;s Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
-- [Circadian justice &lpar;2022&rpar;](https://eprints.lse.ac.uk/112431/)
-- [I asked four former friends why we stopped speaking &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
