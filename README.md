@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Asked Four Former Friends Why We Stopped Speaking-Here&#39;s What I Learned &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
+- [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
-- [Microsoft tops $4T in valuation: Great news for MSFT, not so great for workers](https://www.computerworld.com/article/4032921/microsoft-tops-4t-in-valuation-great-news-for-the-company-not-so-great-for-its-workers.html)
 - [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
-- [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
-- [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
+- [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
