@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
+- [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
+- [NASA&#39;s Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
 - [Circadian justice](https://eprints.lse.ac.uk/112431/)
-- [Offline.kids – Screen-free activities for kids](https://offline.kids/)
-- [I asked four former friends why we stopped speaking &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
-- [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
+- [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
+- [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
