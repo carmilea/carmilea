@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
+- [Mozilla Firefox&#39;s extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
+- [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
-- [Read your code](https://etsd.tech/posts/rtfc/)
-- [Scientists shine a laser through a human head](https://spectrum.ieee.org/optical-brain-imaging)
-- [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
