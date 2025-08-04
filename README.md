@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Four Former Friends Why We Stopped Speaking-Here&#39;s What I Learned &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
+- [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
+- [Circadian justice](https://eprints.lse.ac.uk/112431/)
+- [Offline.kids – Screen-free activities for kids](https://offline.kids/)
+- [I asked four former friends why we stopped speaking &lpar;2023&rpar;](https://www.vogue.com/article/reconnecting-with-ex-friends)
 - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
-- [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
-- [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
-- [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
