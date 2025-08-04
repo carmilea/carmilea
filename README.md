@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
-- [A study of lights at night suggests dictators lie about economic growth &lpar;2022&rpar;](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
-- [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
-- [&#39;A black hole&#39;: New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
-- [&quot;If you can rack it, you can run UniFi OS&quot; Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
+- [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
+- [Why doctors hate their computers &lpar;2018&rpar;](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+- [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
+- [Learnable Programming &lpar;2012&rpar;](https://worrydream.com/LearnableProgramming/)
+- [Names are not type safety &lpar;2020&rpar;](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
