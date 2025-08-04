@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Candidates say they&#39;d rather risk staying unemployed than talk to another robot](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
-- [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
-- [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
-- [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
-- [Why doctors hate their computers &lpar;2018&rpar;](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+- [ThinkBook Plus Gen 6 – Lenovo’s rollable laptop](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
+- [Lightning on Earth is sparked by a powerful chain reaction from outer space](https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show)
+- [Mastercard deflects blame for NSFW games being taken down](https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/)
+- [HTMX is hard, so let&#39;s get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
+- [Job-seekers are dodging AI interviewers](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
