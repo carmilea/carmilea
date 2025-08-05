@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Monitor your security cameras with locally processed AI](https://frigate.video/)
-- [PHP 8.5 Adds Pipe Operator: What it means](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
+- [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
 - [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
 - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
 - [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
