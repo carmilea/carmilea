@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
-- [Is It FOSS?](https://isitreallyfoss.com/)
-- [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
+- [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
+- [Show HN: I&#39;ve been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
+- [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
+- [Projects evaluated to see if they&#39;re as free and open source as advertised](https://isitreallyfoss.com/)
 - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
-- [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
