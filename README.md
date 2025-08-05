@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 - [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
-- [Where to find ideas – by Rob Snyder](https://howtogrow.substack.com/p/where-to-find-ideas)
+- [Where to find ideas](https://howtogrow.substack.com/p/where-to-find-ideas)
 - [Apache ECharts 6 New Features](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
 - [Welcome to the IPv4 Games](https://ipv4.games/)
+- [Monitor your security cameras with locally processed AI](https://frigate.video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
