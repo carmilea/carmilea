@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Open Models](https://openai.com/open-models/)
+- [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
+- [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
 - [OpenAI Harmony](https://github.com/openai/harmony)
-- [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
-- [SAML Shield: Drop-in protection that works for any stack](https://samlshield.com/)
-- [FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable](https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/)
-- [GitHub is having an ongoing incident with loading pull requests](https://www.githubstatus.com/incidents/6swp0zf7lk8h)
+- [Why is GitHub UI getting slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
