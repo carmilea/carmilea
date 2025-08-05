@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Contrarian Friend&#39; Is Real, and They&#39;re Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
-- [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
+- [Ollama Turbo](https://ollama.com/turbo)
+- [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
+- [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
 - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
 - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
-- [Small Changes That Made Our Daily Stand-Ups More Useful](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
