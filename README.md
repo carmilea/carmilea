@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Open Models](https://openai.com/open-models/)
-- [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
-- [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
-- [OpenAI Harmony](https://github.com/openai/harmony)
-- [Why is GitHub UI getting slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
+- [The &#39;Contrarian Friend&#39; Is Real, and They&#39;re Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
+- [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
+- [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
+- [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
+- [Small Changes That Made Our Daily Stand-Ups More Useful](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
