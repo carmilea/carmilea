@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/)
-- [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
-- [Build Your Own Lisp](https://www.buildyourownlisp.com/)
-- [Scientific fraud has become an &#39;industry,&#39; alarming analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
-- [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
+- [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+- [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+- [Show HN: I built a text-based birthday reminder app](https://birthdays.app)
+- [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
+- [AI Stands for Artificial Inanity](https://lambdaland.org/posts/2025-08-04_artifical_inanity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
