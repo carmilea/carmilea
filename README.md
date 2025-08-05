@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Database Reveals 1.5M Pages of Once-Secret Police Use of Force Records](https://journalism.berkeley.edu/police-records-access/)
-- [The AI bubble is so big it&#39;s propping up the US economy &lpar;for now&rpar;](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
-- [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
-- [Ollama Turbo](https://ollama.com/turbo)
-- [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
+- [Kyber &lpar;YC W23&rpar; is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
+- [What&#39;s wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
+- [Germany&#39;s identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
+- [A new database on police use of force and misconduct in California](https://journalism.berkeley.edu/police-records-access/)
+- [Base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
