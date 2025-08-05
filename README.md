@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
 - [Where to find ideas – by Rob Snyder](https://howtogrow.substack.com/p/where-to-find-ideas)
 - [Welcome to the IPv4 Games](https://ipv4.games/)
 - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
-- [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
