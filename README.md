@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
+- [HHS Winds Down mRNA Vaccine Development Under BARDA](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
+- [OpenAI&#39;s new open weight &lpar;Apache 2&rpar; models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 - [Kyber &lpar;YC W23&rpar; is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
-- [What&#39;s wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
-- [Germany&#39;s identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
-- [A new database on police use of force and misconduct in California](https://journalism.berkeley.edu/police-records-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
