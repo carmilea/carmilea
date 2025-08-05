@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
-- [Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
-- [No Comment](https://prog21.dadgum.com/57.html)
-- [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
-- [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+- [OpenAI Harmony](https://github.com/openai/harmony)
+- [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
+- [SAML Shield: Drop-in protection that works for any stack](https://samlshield.com/)
+- [FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable](https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/)
+- [GitHub is having an ongoing incident with loading pull requests](https://www.githubstatus.com/incidents/6swp0zf7lk8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
