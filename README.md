@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitor your security cameras with locally processed AI](https://frigate.video/)
+- [PHP 8.5 Adds Pipe Operator: What it means](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
+- [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
 - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
 - [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
-- [Show HN: I&#39;ve been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
-- [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
-- [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
