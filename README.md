@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
+- [Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
+- [No Comment](https://prog21.dadgum.com/57.html)
 - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
-- [Show HN: I built a text-based birthday reminder app](https://birthdays.app)
-- [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
-- [AI Stands for Artificial Inanity](https://lambdaland.org/posts/2025-08-04_artifical_inanity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
