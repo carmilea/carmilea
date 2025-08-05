@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Database Reveals 1.5M Pages of Once-Secret Police Use of Force Records](https://journalism.berkeley.edu/police-records-access/)
+- [The AI bubble is so big it&#39;s propping up the US economy &lpar;for now&rpar;](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
+- [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 - [Ollama Turbo](https://ollama.com/turbo)
-- [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
-- [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
 - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
-- [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
