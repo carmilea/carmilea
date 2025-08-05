@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
-- [Where to find ideas](https://howtogrow.substack.com/p/where-to-find-ideas)
-- [Apache ECharts 6 New Features](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
-- [Welcome to the IPv4 Games](https://ipv4.games/)
-- [Monitor your security cameras with locally processed AI](https://frigate.video/)
+- [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/)
+- [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
+- [Build Your Own Lisp](https://www.buildyourownlisp.com/)
+- [Scientific fraud has become an &#39;industry,&#39; alarming analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
+- [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
