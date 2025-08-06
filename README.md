@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
 - [The new shape of Mixxx 3.0 – Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
 - [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
 - [301party.com: Intentionally open redirect](https://301party.com/)
 - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
-- [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
