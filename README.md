@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 - [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
 - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
-- [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
-- [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 - [Teacher AI Use Is Already Out of Control and It&#39;s Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
+- [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
