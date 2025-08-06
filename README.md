@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+- [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
+- [The Militarization of Silicon Valley](https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html)
+- [Providing ChatGPT to the entire U.S. federal workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/)
 - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
-- [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
-- [Constitution of the United States Website has removed sections &lpar;web.archive.org&rpar;](https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/)
-- [Coffee-shop pitch change helped founder unlock traction for laptop campers](https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this)
-- [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
