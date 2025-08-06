@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teacher AI Use Is Already Out of Control and It&#39;s Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
-- [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
-- [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
-- [I&#39;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
-- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
+- [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
+- [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
+- [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
+- [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
+- [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
