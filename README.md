@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
-- [&quot;This question has been retired&quot;](https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers)
-- [States and Cities Decimated Americans&#39; Lowest-Cost Housing Option](https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option)
-- [Cognitive decline can be slowed down with lifestyle changes](https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/)
-- [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
+- [The History of F1 Design](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
+- [Litestar Is Worth a Look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
+- [How and Why to Ditch GitHub](https://taggart-tech.com/migrate-to-codeberg/)
+- [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
+- [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
