@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Science Titan sub firm used intimidation tactics and flawed safety practices](https://www.bbc.com/news/live/cdjxp4n2371t)
+- [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
+- [Model Collapse and the Need for Human-Generated Training Data](https://glthr.com/model-collapse-and-the-need-for-human-generated-training-data)
 - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
-- [HHS Winds Down mRNA Vaccine Development Under BARDA](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
-- [OpenAI&#39;s new open weight &lpar;Apache 2&rpar; models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
-- [Kyber &lpar;YC W23&rpar; is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
