@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
+- [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
 - [The History of F1 Design](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
-- [Litestar Is Worth a Look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-- [How and Why to Ditch GitHub](https://taggart-tech.com/migrate-to-codeberg/)
-- [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
-- [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
+- [We&#39;d be better off with 9-bit bytes](https://pavpanchekha.com/blog/9bit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
