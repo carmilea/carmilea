@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
-- [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
-- [Wired Called Our AirGradient Monitor &#39;Not Recommended&#39; over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
-- [NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform](https://nautilustrader.io/)
-- [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
+- [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
+- [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
+- [Constitution of the United States Website has removed sections &lpar;web.archive.org&rpar;](https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/)
+- [Coffee-shop pitch change helped founder unlock traction for laptop campers](https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this)
+- [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
