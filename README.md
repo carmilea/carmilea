@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
+- [&quot;This question has been retired&quot;](https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers)
+- [States and Cities Decimated Americans&#39; Lowest-Cost Housing Option](https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option)
+- [Cognitive decline can be slowed down with lifestyle changes](https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/)
 - [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
-- [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
-- [Wild pigs&#39; flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
-- [Multics](https://www.multicians.org/multics.html)
-- [The internet wants to check your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
