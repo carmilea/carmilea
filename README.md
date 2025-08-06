@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The new shape of Mixxx 3.0 – Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
+- [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
+- [301party.com: Intentionally open redirect](https://301party.com/)
 - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 - [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
-- [The History of F1 Design](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
-- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-- [We&#39;d be better off with 9-bit bytes](https://pavpanchekha.com/blog/9bit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
