@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
-- [You can now uv run a GitHub gist](https://github.com/astral-sh/uv/pull/15058/files)
-- [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
-- [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
-- [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
+- [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
+- [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+- [Wired Called Our AirGradient Monitor &#39;Not Recommended&#39; over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
+- [NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform](https://nautilustrader.io/)
+- [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
