@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
-- [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
-- [Jules, our asynchronous coding agent, is now available for everyone](https://blog.google/technology/google-labs/jules-now-available/)
-- [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
-- [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
+- [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
+- [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
+- [Wild pigs&#39; flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
+- [Multics](https://www.multicians.org/multics.html)
+- [The internet wants to check your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
