@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Key sections of the US Constitution deleted from government&#39;s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/)
+- [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
+- [Jules, our asynchronous coding agent, is now available for everyone](https://blog.google/technology/google-labs/jules-now-available/)
 - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
 - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
-- [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
