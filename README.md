@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+- [An AI Company Just Fired Someone for Endorsing Human Extinction](https://www.realtimetechpocalypse.com/p/did-an-ai-company-just-fire-someone)
+- [Whitehouse Moves to Destroy Satellite That Monitors Greenhouse Gases](https://gizmodo.com/trump-administration-moves-to-destroy-satellite-that-monitors-greenhouse-gases-2000639234)
 - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
 - [I&#39;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
-- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
-- [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/)
-- [Software Rot](https://permacomputing.net/software_rot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
