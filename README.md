@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Science Titan sub firm used intimidation tactics and flawed safety practices](https://www.bbc.com/news/live/cdjxp4n2371t)
-- [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
-- [Model Collapse and the Need for Human-Generated Training Data](https://glthr.com/model-collapse-and-the-need-for-human-generated-training-data)
-- [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
-- [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+- [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
+- [I&#39;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
+- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
+- [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/)
+- [Software Rot](https://permacomputing.net/software_rot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
