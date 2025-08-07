@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
+- [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
 - [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
-- [VIN: The 17-character code that runs the automotive world](https://cardog.app/blog/whats-a-vin)
 - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
 - [Rules by Which a Great Empire May Be Reduced to a Small One &lpar;1773&rpar;](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
-- [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
