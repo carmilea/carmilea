@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
+- [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
 - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
-- [Researchers Uncover RCE Attack Chains in HashiCorp Vault and CyberArk Conjur](https://www.csoonline.com/article/4035274/researchers-uncover-rce-attack-chains-in-popular-enterprise-credential-vaults.html)
-- [How ChatGPT spoiled my semester &lpar;2024&rpar;](https://benborgers.com/chatgpt-semester)
 - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
 - [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
 <!-- BLOG-POST-LIST:END -->
