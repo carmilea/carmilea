@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
+- [Foundry &lpar;YC F24&rpar; Is Hiring Staff Level Product Engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
+- [GPT-5](http://openai.com/gpt-5)
+- [How to Build High-Performance AI Applications on Snowflake: A Complete Guide](https://www.singlestore.com/blog/build-high-performance-ai-apps-on-snowflake)
 - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
-- [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
-- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
-- [The Data Foundation for Artificial Intelligence in Manufacturing](https://www.singlestore.com/blog/the-data-foundation-for-artificial-intelligence-in-manufacturing)
-- [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
