@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How ChatGPT spoiled my semester &lpar;2024&rpar;](https://benborgers.com/chatgpt-semester)
+- [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
+- [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
 - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
 - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
-- [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
-- [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
-- [Rules by Which a Great Empire May Be Reduced to a Small One &lpar;1773&rpar;](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 <!-- BLOG-POST-LIST:END -->
 
 ---
