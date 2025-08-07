@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
-- [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
-- [Photographer spends years on street corner capturing same commuters daily &lpar;2017&rpar;](https://mymodernmet.com/peter-funch-candid-photographs-commuters/)
-- [AI Ethics is being narrowed on purpose, like privacy was](https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose)
-- [The Whispering Earring &lpar;Scott Alexander&rpar;](https://croissanthology.com/earring)
+- [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
+- [Honesty Boxes in Scotland &lpar;2024&rpar;](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
+- [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
+- [Windows XP Professional](https://win32.run/)
+- [Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown](https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
