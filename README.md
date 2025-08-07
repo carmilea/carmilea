@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
-- [Foundry &lpar;YC F24&rpar; Is Hiring Staff Level Product Engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
-- [GPT-5](http://openai.com/gpt-5)
-- [How to Build High-Performance AI Applications on Snowflake: A Complete Guide](https://www.singlestore.com/blog/build-high-performance-ai-apps-on-snowflake)
-- [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
+- [Lightweight LSAT](https://lightweightlsat.com/)
+- [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
+- [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
+- [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
+- [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
