@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Vibechart](https://www.vibechart.net/)
+- [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
 - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 - [Cursor CLI](https://cursor.com/cli)
 - [Spatio-temporal indexing the Bluesky firehose](https://joelgustafson.com/posts/2025-08-07/spatio-temporal-indexing-the-bluesky-firehose)
-- [Historical Tech Tree](https://www.historicaltechtree.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
