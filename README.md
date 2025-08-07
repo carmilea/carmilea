@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaybreaking](https://twitter.com/AlexReibman/status/1953229500973740058)
-- [&quot;I closed MPEG on 2 Jun &#39;20 when I left because obscure forces had hijacked it.&quot;](https://leonardo.chiariglione.org/)
-- [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
-- [About AI](https://priver.dev/blog/ai/about-ai/)
-- [40 Years of the Amiga](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
+- [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
+- [Photographer spends years on street corner capturing same commuters daily &lpar;2017&rpar;](https://mymodernmet.com/peter-funch-candid-photographs-commuters/)
+- [AI Ethics is being narrowed on purpose, like privacy was](https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose)
+- [The Whispering Earring &lpar;Scott Alexander&rpar;](https://croissanthology.com/earring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
