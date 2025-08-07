@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
+- [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
 - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
 - [Honesty Boxes in Scotland &lpar;2024&rpar;](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
 - [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
-- [Windows XP Professional](https://win32.run/)
-- [Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown](https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
