@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
-- [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
-- [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
-- [Honesty Boxes in Scotland &lpar;2024&rpar;](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
-- [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
+- [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
+- [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
+- [The Data Foundation for Artificial Intelligence in Manufacturing](https://www.singlestore.com/blog/the-data-foundation-for-artificial-intelligence-in-manufacturing)
+- [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
