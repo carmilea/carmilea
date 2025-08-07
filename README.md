@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
+- [VIN: The 17-character code that runs the automotive world](https://cardog.app/blog/whats-a-vin)
+- [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
+- [Rules by Which a Great Empire May Be Reduced to a Small One &lpar;1773&rpar;](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
-- [The new shape of Mixxx 3.0 – Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
-- [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
-- [301party.com: Intentionally open redirect](https://301party.com/)
-- [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
