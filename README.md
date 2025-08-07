@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 - [Researchers Uncover RCE Attack Chains in HashiCorp Vault and CyberArk Conjur](https://www.csoonline.com/article/4035274/researchers-uncover-rce-attack-chains-in-popular-enterprise-credential-vaults.html)
 - [How ChatGPT spoiled my semester &lpar;2024&rpar;](https://benborgers.com/chatgpt-semester)
 - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
 - [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
-- [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
