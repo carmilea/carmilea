@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
-- [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
+- [&quot;I closed MPEG on 2 Jun &#39;20 when I left because obscure forces had hijacked it.&quot;](https://leonardo.chiariglione.org/)
+- [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
+- [About AI](https://priver.dev/blog/ai/about-ai/)
+- [40 Years of the Amiga](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
 - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
-- [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
-- [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
