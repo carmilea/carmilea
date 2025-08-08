@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s Favoritism to Fastmail](https://xcancel.com/mxroute/status/1952890684660203830)
+- [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
+- [The BLS Can&#39;t Be Replaced by the Private Sector](https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector)
+- [Food, housing, &amp; health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
+- [The Windows 10 emoji picker has been broken for a month](https://rozab.dev/blog/emoji-search/)
 - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
-- [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)
-- [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
-- [A love letter to my future employer &lpar;2020&rpar;](https://catzkorn.dev/blog/love-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
