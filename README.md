@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
 - [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
 - [The BLS Can&#39;t Be Replaced by the Private Sector](https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector)
 - [Food, housing, &amp; health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
 - [The Windows 10 emoji picker has been broken for a month](https://rozab.dev/blog/emoji-search/)
-- [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
