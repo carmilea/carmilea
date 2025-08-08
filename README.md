@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [US to rewrite its past national climate reports](https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports)
+- [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 - [A love letter to my future employer &lpar;2020&rpar;](https://catzkorn.dev/blog/love-letter/)
 - [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
 - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
-- [Turn Any Website into an API](https://www.parse.bot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
