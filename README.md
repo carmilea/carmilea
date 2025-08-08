@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
-- [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
-- [The BLS Can&#39;t Be Replaced by the Private Sector](https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector)
-- [Food, housing, &amp; health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
-- [The Windows 10 emoji picker has been broken for a month](https://rozab.dev/blog/emoji-search/)
+- [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
+- [Hybrid Search Using Reciprocal Rank Fusion in SQL](https://www.singlestore.com/blog/hybrid-search-using-reciprocal-rank-fusion-in-sql)
+- [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
+- [What Does Consulting Do?](https://www.nber.org/papers/w34072)
+- [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
