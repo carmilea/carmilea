@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
-- [ChatGPT users hate GPT-5&#39;s overworked secretary energy, miss their GPT-4o buddy](https://arstechnica.com/ai/2025/08/chatgpt-users-outraged-as-gpt-5-replaces-the-models-they-love/)
-- [json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
-- [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
-- [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
+- [How The Black Cauldron became a notorious Disney flop](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
+- [GPU-rich labs have won: What&#39;s left for the rest of us is distillation](https://inference.net/blog/what-s-left-is-distillation)
+- [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
+- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
+- [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
