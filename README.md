@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
 - [Disney 1985 film The Black Cauldron was an experiment that failed](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
 - [GPU-rich labs have won: What&#39;s left for the rest of us is distillation](https://inference.net/blog/what-s-left-is-distillation)
 - [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
+- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
