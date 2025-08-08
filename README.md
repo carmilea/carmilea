@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US to rewrite its past national climate reports](https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports)
+- [Apple&#39;s Favoritism to Fastmail](https://xcancel.com/mxroute/status/1952890684660203830)
+- [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
+- [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)
 - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 - [A love letter to my future employer &lpar;2020&rpar;](https://catzkorn.dev/blog/love-letter/)
-- [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
-- [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
