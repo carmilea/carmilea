@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
+- [The Paranoid Style in American Politics &lpar;1964&rpar;](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
+- [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
 - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 - [Vibechart](https://www.vibechart.net/)
-- [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
-- [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
-- [Cursor CLI](https://cursor.com/cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
