@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
-- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
+- [&quot;The Hollow Men&quot; at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 - [Debian 13 &quot;Trixie&quot;](https://www.debian.org/News/2025/20250809)
 - [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
-- [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
+- [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
+- [Ask HN: What toolchains are people using for desktop app development in 2025?](https://news.ycombinator.com/item?id=44848058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
