@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
+- [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
+- [Don Knuth on ChatGPT&lpar;07 April 2023&rpar;](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+- [Ask HN: What Toolchains Are People Using for Desktop App Development in 2025?](https://news.ycombinator.com/item?id=44848058)
 - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
-- [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
-- [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
-- [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
-- [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
