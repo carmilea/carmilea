@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why F# could be the next mainstream programming language &lpar;2024-12&rpar;](https://blog.snork.dev/posts/why-f--could-be-the-next-mainstream-programming-language-.html)
 - [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
 - [Little-known leguminous plant can increase beef production by 60% &lpar;2022&rpar;](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
-- [GPT 5 vs. Opus 4.1 for Vibe-Coded Apps](https://www.instantdb.com/essays/gpt_5_vs_opus_4)
+- [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
 - [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
+- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
