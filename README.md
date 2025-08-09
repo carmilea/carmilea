@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did California&#39;s Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
-- [An Engineer&#39;s Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
+- [Private Welsh island with 19th century fort goes on the market](https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl)
+- [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
+- [An engineer&#39;s perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
-- [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
