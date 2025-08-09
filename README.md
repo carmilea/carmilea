@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;The Hollow Men&quot; at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
+- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 - [Debian 13 &quot;Trixie&quot;](https://www.debian.org/News/2025/20250809)
-- [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
 - [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
-- [Ask HN: What toolchains are people using for desktop app development in 2025?](https://news.ycombinator.com/item?id=44848058)
+- [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
