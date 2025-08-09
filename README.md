@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
 - [&quot;The Hollow Men&quot; at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 - [Debian 13 &quot;Trixie&quot;](https://www.debian.org/News/2025/20250809)
 - [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
-- [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
