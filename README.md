@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPU-rich labs have won: What&#39;s left for the rest of us is distillation](https://inference.net/blog/what-s-left-is-distillation)
+- [Why F# could be the next mainstream programming language &lpar;2024-12&rpar;](https://blog.snork.dev/posts/why-f--could-be-the-next-mainstream-programming-language-.html)
+- [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
+- [Little-known leguminous plant can increase beef production by 60% &lpar;2022&rpar;](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
+- [GPT 5 vs. Opus 4.1 for Vibe-Coded Apps](https://www.instantdb.com/essays/gpt_5_vs_opus_4)
 - [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
-- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
-- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
-- [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
