@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did California&#39;s Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
+- [An Engineer&#39;s Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
+- [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
-- [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
-- [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
-- [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 <!-- BLOG-POST-LIST:END -->
 
 ---
