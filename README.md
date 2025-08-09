@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford to continue legacy admissions and withdraw from Cal Grants](https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/)
-- [Private Welsh island with 19th century fort goes on the market](https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl)
-- [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
-- [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
-- [Datalog-Based Binary Equivalence](https://github.com/binaryeq/daleq)
+- [Reuters reports that the entry-level software eng job market has collapsed](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
+- [The dead need right to delete their data so they can&#39;t be AI-ified, lawyer says](https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/)
+- [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
+- [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
+- [AGI is not coming [video]](https://www.youtube.com/watch?v=hkAH7-u7t5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
