@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Buy Nothing: A fake online store to combat shopping addiction](https://justbuynothing.com/)
-- [GPT-5: Overdue, overhyped and underwhelming. And that&#39;s not the worst of it](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming)
+- [Happy BuyNothing Day](https://justbuynothing.com/)
+- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
-- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
+- [Curious about the training data of OpenAI&#39;s new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
