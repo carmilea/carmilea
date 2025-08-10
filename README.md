@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA finds multi-billion-year-old &#39;coral&#39; on Mars](https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars)
+- [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
+- [Zig&#39;s Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
+- [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
+- [LHC&#39;s New Chip Tackles Radiation Challenges](https://spectrum.ieee.org/lhc-radiation-chip)
 - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
-- [Try and](https://ygdp.yale.edu/phenomena/try-and)
-- [Inside OS/2 &lpar;1987&rpar;](https://gitpi.us/article-archive/inside-os2/)
-- [MCP: An &lpar;Accidentally&rpar; Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
