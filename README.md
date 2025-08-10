@@ -62,7 +62,7 @@
 - [Microsoft POML – Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
 - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 - [Melonking Website](https://melonking.net/)
-- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
+- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
