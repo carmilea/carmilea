@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Did you mean: Ed Sheeran&quot;](https://www.google.com/search?hl=en&q=Rupert%20Grint)
-- [Hire People Who Care](https://alexw.substack.com/p/hire)
-- [A large number of protocols on Ethereum and Solana blockchains have no revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
+- [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
+- [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 - [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
 - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 <!-- BLOG-POST-LIST:END -->
 
 ---
