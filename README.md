@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA finds multi-billion-year-old &#39;coral&#39; on Mars](https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars)
 - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 - [Try and](https://ygdp.yale.edu/phenomena/try-and)
 - [Inside OS/2 &lpar;1987&rpar;](https://gitpi.us/article-archive/inside-os2/)
 - [MCP: An &lpar;Accidentally&rpar; Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
-- [Adult sites are stashing exploit code inside racy .svg files](https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
