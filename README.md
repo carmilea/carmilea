@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
+- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
+- [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
 - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
-- [Type &lpar;YC W23&rpar; is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
-- [Fight Chat Control](https://fightchatcontrol.eu/)
-- [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
-- [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
