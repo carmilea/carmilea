@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Did you mean: Ed Sheeran&quot;](https://www.google.com/search?hl=en&q=Rupert%20Grint)
+- [Hire People Who Care](https://alexw.substack.com/p/hire)
+- [A large number of protocols on Ethereum and Solana blockchains have no revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
+- [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
 - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
-- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
-- [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
-- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
