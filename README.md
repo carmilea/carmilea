@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
+- [Type &lpar;YC W23&rpar; is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
+- [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
 - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff)
-- [Diffusion Language Models Are Super Data Learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
-- [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
-- [Zig&#39;s Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
-- [Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd](https://github.com/liquidmetal-dev/flintlock)
+- [Show HN: Llmswap – Python package to reduce LLM API costs by 50-90% with caching](https://pypi.org/project/llmswap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
