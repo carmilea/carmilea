@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside OS/2](https://gitpi.us/article-archive/inside-os2/)
-- [The 5 stages of SaaS Death](https://arnon.dk/the-5-stages-of-saas-death/)
+- [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
+- [Try and](https://ygdp.yale.edu/phenomena/try-and)
+- [Inside OS/2 &lpar;1987&rpar;](https://gitpi.us/article-archive/inside-os2/)
+- [MCP: An &lpar;Accidentally&rpar; Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 - [Adult sites are stashing exploit code inside racy .svg files](https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/)
-- [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
-- [Hyprland – An independent, dynamic tiling Wayland compositor](https://hypr.land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
