@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adult sites are stashing exploit code inside racy .svg files](https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/)
+- [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
+- [Hyprland: Latest Wayland features, dynamic tiling, eyecandy, powerful plugins](https://hypr.land/)
+- [Open Lovable](https://github.com/mendableai/open-lovable)
 - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-- [Microsoft POML – Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
-- [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
-- [Melonking Website](https://melonking.net/)
-- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
