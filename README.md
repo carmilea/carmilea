@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
-- [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
+- [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
+- [Cursor&#39;s Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)
+- [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
+- [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
-- [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
-- [Going faster than memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
