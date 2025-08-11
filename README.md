@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
 - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
 - [Going faster than memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
-- [Graham: Synchronizing Clocks by Leveraging Local Clock Properties &lpar;2022&rpar; [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
