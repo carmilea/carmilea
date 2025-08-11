@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
+- [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
+- [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)
+- [The Associated Press tells its book critics that it&#39;s ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
-- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
-- [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
-- [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
-- [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
