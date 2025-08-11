@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Drone Beehive Concept &lpar;2019&rpar;](https://etrr.springeropen.com/articles/10.1186/s12544-019-0368-2)
+- [Operation Costs in CPU Clock Cycles &lpar;2016&rpar;](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
+- [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
+- [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 - [Pricing Pages – A Curated Gallery of Pricing Page Designs](https://pricingpages.design/)
-- [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
-- [GPT-OSS-120B runs on just 8GB VRAM &amp; 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
-- [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
+- [Nukes, Nubs and Coners: The Unique Social Hierarchy Aboard a Nuclear Submarine](https://www.twz.com/34104/nukes-nubs-and-coners-the-unique-social-hierarchy-aboard-a-nuclear-submarine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
