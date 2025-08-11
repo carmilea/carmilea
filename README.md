@@ -62,7 +62,7 @@
 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
-- [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
+- [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
