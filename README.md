@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CPS Investigated Her 4 Times Because She Let Her Kids Play Outside](https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/)
-- [Auf Wiedersehen, GitHub – CEO Steps Down](https://github.blog/news-insights/company-news/goodbye-github/)
-- [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
-- [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
-- [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+- [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
+- [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+- [Launch HN: Halluminate &lpar;YC S25&rpar; – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
+- [Ford Aims for Revolution with $30k Electric Truck](https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck)
+- [Auf Wiedersehen, GitHub](https://github.blog/news-insights/company-news/goodbye-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
