@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Going Faster Than Memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
+- [Graham: Synchronizing Clocks by Leveraging Local Clock Properties &lpar;2022&rpar; [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
+- [With all the AI hype, how are software engineers feeling?](https://news.ycombinator.com/item?id=44860731)
 - [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
-- [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
-- [Show HN: Reactive: A React Book for the Reluctant &lpar;written by Claude&rpar;](https://github.com/cloudstreet-dev/React-is-Awful)
 - [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
-- [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
