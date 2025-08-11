@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Reactive: A React Book for the Reluctant – a book written by Claude](https://github.com/cloudstreet-dev/React-is-Awful)
+- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
+- [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
+- [Show HN: Reactive: A React Book for the Reluctant &lpar;written by Claude&rpar;](https://github.com/cloudstreet-dev/React-is-Awful)
 - [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
-- [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
-- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
+- [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
