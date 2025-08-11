@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok Has Been Suspended](https://x.com/grok)
 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
-- [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)
+- [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 - [The Associated Press tells its book critics that it&#39;s ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
 <!-- BLOG-POST-LIST:END -->
