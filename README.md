@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
-- [Show HN: ServerBuddy – GUI SSH client for managing Linux servers from macOS](https://serverbuddy.app)
+- [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
 <!-- BLOG-POST-LIST:END -->
