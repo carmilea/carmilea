@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
+- [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
 - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
