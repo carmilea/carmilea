@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Drone Beehive Concept &lpar;2019&rpar;](https://etrr.springeropen.com/articles/10.1186/s12544-019-0368-2)
+- [Pricing Pages – A Curated Gallery of Pricing Page Designs](https://pricingpages.design/)
+- [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 - [GPT-OSS-120B runs on just 8GB VRAM &amp; 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
-- [Hand-picked selection of articles on AI fundamentals/concepts](https://aman.ai/primers/ai/)
-- [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
-- [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
