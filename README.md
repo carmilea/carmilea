@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Faster Than Memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
+- [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
+- [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
+- [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
+- [Going faster than memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
 - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties &lpar;2022&rpar; [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
-- [With all the AI hype, how are software engineers feeling?](https://news.ycombinator.com/item?id=44860731)
-- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
-- [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
