@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
-- [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
-- [Launch HN: Halluminate &lpar;YC S25&rpar; – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
-- [Ford Aims for Revolution with $30k Electric Truck](https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck)
-- [Auf Wiedersehen, GitHub](https://github.blog/news-insights/company-news/goodbye-github/)
+- [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
+- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
+- [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
+- [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
+- [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
