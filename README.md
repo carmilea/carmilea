@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-OSS-120B runs on just 8GB VRAM &amp; 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
-- [Cursor&#39;s Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)
+- [Hand-picked selection of articles on AI fundamentals/concepts](https://aman.ai/primers/ai/)
 - [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
 - [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
-- [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
