@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CPS Investigated Her 4 Times Because She Let Her Kids Play Outside](https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/)
+- [Auf Wiedersehen, GitHub – CEO Steps Down](https://github.blog/news-insights/company-news/goodbye-github/)
+- [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
+- [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
 - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
-- [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
-- [TeaOnHer, a rival Tea app for men, is leaking users&#39; personal data](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
-- [Operation Costs in CPU Clock Cycles &lpar;2016&rpar;](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
-- [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
 <!-- BLOG-POST-LIST:END -->
 
 ---
