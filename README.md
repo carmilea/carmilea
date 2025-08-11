@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+- [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
+- [TeaOnHer, a rival Tea app for men, is leaking users&#39; personal data](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
 - [Operation Costs in CPU Clock Cycles &lpar;2016&rpar;](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
-- [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
-- [Pricing Pages – A Curated Gallery of Pricing Page Designs](https://pricingpages.design/)
-- [Nukes, Nubs and Coners: The Unique Social Hierarchy Aboard a Nuclear Submarine](https://www.twz.com/34104/nukes-nubs-and-coners-the-unique-social-hierarchy-aboard-a-nuclear-submarine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
