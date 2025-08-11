@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 - [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
+- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
