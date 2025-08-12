@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
+- [Depot &lpar;YC W23&rpar; Is Hiring a Community and Events Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
+- [Monero appears to be in the midst of a successful 51% attack](https://twitter.com/p3b7_/status/1955173413992984988)
+- [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
 - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
-- [The Hidden Cost of Scaling Postgres](https://www.singlestore.com/blog/the-hidden-cost-of-scaling-postgres)
-- [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
-- [CoLoop &lpar;YC S21&rpar; Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
-- [LLMs&#39; &quot;simulated reasoning&quot; abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
