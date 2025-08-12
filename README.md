@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That viral video of a &#39;deactivated&#39; Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+- [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
+- [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
 - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
-- [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
-- [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
-- [Outside of the top stocks, S&amp;P 500 forward profits haven&#39;t grown in 3 years](https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Community and Events Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
+- [US influencer stranded in Antarctica after landing plane without permission](https://www.independent.co.uk/travel/news-and-advice/antarctica-ethan-guo-teen-pilot-detained-b2805884.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
