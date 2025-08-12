@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
+- [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
+- [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)
 - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
-- [Ashet Home Computer](https://ashet.computer/)
-- [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-- [Let&#39;s get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
 <!-- BLOG-POST-LIST:END -->
 
 ---
