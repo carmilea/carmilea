@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Design Arena &lpar;YC S25&rpar; – Head-to-Head AI Benchmark for Aesthetics](https://news.ycombinator.com/item?id=44878257)
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
+- [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
+- [Launch HN: Design Arena &lpar;YC S25&rpar; – Head-to-head AI benchmark for aesthetics](https://news.ycombinator.com/item?id=44878257)
 - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
-- [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
-- [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
-- [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
