@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoLoop &lpar;YC S21&rpar; Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
 - [LLMs&#39; &quot;simulated reasoning&quot; abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
-- [GLM-4.5: Agentic, Reasoning, and Coding &lpar;ARC&rpar; Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
 <!-- BLOG-POST-LIST:END -->
 
 ---
