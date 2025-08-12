@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [That viral video of a &#39;deactivated&#39; Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
-- [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
-- [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
-- [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
-- [US influencer stranded in Antarctica after landing plane without permission](https://www.independent.co.uk/travel/news-and-advice/antarctica-ethan-guo-teen-pilot-detained-b2805884.html)
+- [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
+- [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
+- [The ex-CIA agents deciding Facebook&#39;s content policy](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
+- [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
+- [Why Are There So Many Rationalist Cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
