@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
+- [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
 - [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
+- [Outside of the top stocks, S&amp;P 500 forward profits haven&#39;t grown in 3 years](https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years)
 - [Depot &lpar;YC W23&rpar; Is Hiring a Community and Events Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
-- [Monero appears to be in the midst of a successful 51% attack](https://twitter.com/p3b7_/status/1955173413992984988)
-- [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
-- [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
