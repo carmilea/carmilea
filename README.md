@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
+- [Bell Laboratories Acquired by Berkshire Hathaway](https://www.pctonline.com/news/bell-laboratories-acquired-berkshire-hathaway/)
 - [Ashet Home Computer](https://ashet.computer/)
 - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
 - [Let&#39;s get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
-- [H-1B Visa Changes Approved by White House](https://www.newsweek.com/h-1b-visas-changes-approved-white-house-report-2112216)
-- [Is the A.I. Boom Turning Into an A.I. Bubble?](https://www.newyorker.com/news/the-financial-page/is-the-ai-boom-turning-into-an-ai-bubble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
