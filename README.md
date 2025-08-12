@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM-4.5: Agentic, Reasoning, and Coding &lpar;Arc&rpar; Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+- [Supreme Court formally asked to overturn same-sex marriage ruling](https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302)
+- [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
+- [GLM-4.5: Agentic, Reasoning, and Coding &lpar;ARC&rpar; Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
 - [Japan&#39;s largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
 - [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
-- [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
-- [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
