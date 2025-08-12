@@ -62,7 +62,7 @@
 - [CoLoop &lpar;YC S21&rpar; Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
 - [LLMs&#39; &quot;simulated reasoning&quot; abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
-- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
+- [Weathering Software Winter &lpar;2022&rpar;](https://100r.co/site/weathering_software_winter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
