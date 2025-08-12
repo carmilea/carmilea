@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Design Arena &lpar;YC S25&rpar; – Head-to-Head AI Benchmark for Aesthetics](https://news.ycombinator.com/item?id=44878257)
+- [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
+- [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
+- [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
 - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
-- [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
-- [The ex-CIA agents deciding Facebook&#39;s content policy](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
-- [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
-- [Why Are There So Many Rationalist Cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
