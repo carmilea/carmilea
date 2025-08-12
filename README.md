@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
+- [H-1B Visa Changes Approved by White House](https://www.newsweek.com/h-1b-visas-changes-approved-white-house-report-2112216)
+- [Is the A.I. Boom Turning Into an A.I. Bubble?](https://www.newyorker.com/news/the-financial-page/is-the-ai-boom-turning-into-an-ai-bubble)
+- [The &quot;high-level CPU&quot; challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 - [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
-- [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
-- [Launch HN: Design Arena &lpar;YC S25&rpar; – Head-to-head AI benchmark for aesthetics](https://news.ycombinator.com/item?id=44878257)
-- [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
