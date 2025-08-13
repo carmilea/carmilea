@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)
 - [NIST Finalizes &#39;Lightweight Cryptography&#39; Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
-- [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
-- [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
-- [Google Play Store Bans Wallets That Don&#39;t Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
+- [PYX: The next step in Python packaging](https://astral.sh/pyx)
+- [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
