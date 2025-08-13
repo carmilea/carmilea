@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC Mayor Adams Uses Free Internet to Expand Police Surveillance at NYCHA](https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance)
+- [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
+- [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
 - [Search all text in New York City](https://www.alltext.nyc/)
 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
-- [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
