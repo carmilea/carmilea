@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lakebase Vision Is Right. Who Will Build It First?](https://www.singlestore.com/blog/lakebase-vision-is-right)
+- [Alaska&#39;s Juneau orders evacuations as record glacier flood looms](https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate)
+- [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
 - [We caught companies making it harder to delete your personal data online](https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data)
 - [Farmers want California to change its autonomous tractor ban](https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726)
-- [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
-- [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
-- [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
