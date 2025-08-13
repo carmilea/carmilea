@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
+- [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
 - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-- [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)
 - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 - [F-Droid build servers can&#39;t build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 <!-- BLOG-POST-LIST:END -->
