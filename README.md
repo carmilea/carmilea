@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lakebase Vision Is Right. Who Will Build It First?](https://www.singlestore.com/blog/lakebase-vision-is-right)
-- [Alaska&#39;s Juneau orders evacuations as record glacier flood looms](https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate)
-- [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
-- [We caught companies making it harder to delete your personal data online](https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data)
-- [Farmers want California to change its autonomous tractor ban](https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726)
+- [Nginx Introduces Native Support for Acme Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
+- [Study: Social media probably can&#39;t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
+- [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
+- [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
+- [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
