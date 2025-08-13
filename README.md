@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
-- [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
-- [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
-- [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-- [[BUG] Claude says &quot;You&#39;re absolutely right!&quot; about everything](https://github.com/anthropics/claude-code/issues/3382)
+- [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
+- [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
+- [Geneva makes public transport temporarily free to combat pollution spike](https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/)
+- [Just how much has DOGE exaggerated its numbers? Now we have receipts](https://www.politico.com/news/2025/08/12/trump-doge-contract-claims-savings-inflation-00498178)
+- [Get Org.apache.xml.security Working with GraalVM](https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
