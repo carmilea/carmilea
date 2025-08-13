@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fennel Libraries as Single Files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
+- [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
-- [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
 - [Search all text in New York City](https://www.alltext.nyc/)
 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
-- [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
