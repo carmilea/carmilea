@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Golpo &lpar;YC S25&rpar; – AI-generated explainer videos](https://video.golpoai.com/)
+- [ReadMe &lpar;YC W15&rpar; Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
+- [A case study in bad hiring practice and how to fix it](https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it)
+- [Gartner&#39;s Grift Is About to Unravel](https://dx.tips/gartner)
 - [Nginx Introduces Native Support for Acme Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-- [Study: Social media probably can&#39;t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
-- [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
-- [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
-- [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
