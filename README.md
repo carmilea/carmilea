@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
+- [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
 - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
 - [Google Play Store Bans Wallets That Don&#39;t Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
-- [PYX: The next step in Python packaging](https://astral.sh/pyx)
-- [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
-- [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
+- [How Silicon Valley can prove it is pro-family](https://www.thenewatlantis.com/publications/how-silicon-valley-can-prove-it-is-pro-family)
 <!-- BLOG-POST-LIST:END -->
 
 ---
