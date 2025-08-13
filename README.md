@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
+- [Google Play Store Bans Wallets That Don&#39;t Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
+- [PYX: The next step in Python packaging](https://astral.sh/pyx)
+- [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
 - [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
-- [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-- [April Fools 2014: The *Real* Test Driven Development](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
-- [How Stock Options Work](https://web.stanford.edu/class/e145/2007_fall/materials/stockoptions.html)
-- [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
