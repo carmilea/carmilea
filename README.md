@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Golpo &lpar;YC S25&rpar; – AI-generated explainer videos](https://video.golpoai.com/)
-- [ReadMe &lpar;YC W15&rpar; Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
-- [A case study in bad hiring practice and how to fix it](https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it)
-- [Gartner&#39;s Grift Is About to Unravel](https://dx.tips/gartner)
-- [Nginx Introduces Native Support for Acme Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
+- [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
+- [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
+- [April Fools 2014: The *Real* Test Driven Development](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
+- [How Stock Options Work](https://web.stanford.edu/class/e145/2007_fall/materials/stockoptions.html)
+- [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
