@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 - [Why does AI feel so different?](https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/)
 - [F-Droid build servers can&#39;t build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 - [Fennel libraries as single files &lpar;2023&rpar;](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
-- [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
