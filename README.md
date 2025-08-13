@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Mayor Adams Uses Free Internet to Expand Police Surveillance at NYCHA](https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance)
+- [Search all text in New York City](https://www.alltext.nyc/)
 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
-- [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
-- [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)
 - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 <!-- BLOG-POST-LIST:END -->
 
