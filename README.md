@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
 - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
 - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-- [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
-- [F-Droid build servers can&#39;t build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
+- [[BUG] Claude says &quot;You&#39;re absolutely right!&quot; about everything](https://github.com/anthropics/claude-code/issues/3382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
