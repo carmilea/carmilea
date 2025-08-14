@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
+- [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
+- [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
+- [Meta&#39;s flirty AI chatbot invited a retiree to New York](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
 - [Turning Your Business Intelligence Stack Into an AI Engine](https://www.singlestore.com/blog/turning-your-business-intelligence-stack-into-an-ai-engine)
-- [&quot;None of These Books Are Obscene&quot;: Judge Strikes Down Much of FL&#39;s Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
-- [Passion over Profits](https://dillonshook.com/passion-over-profits/)
-- [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
+- [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
