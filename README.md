@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Leaks Part 2: How to Kill a Social Movement](https://archive.org/details/meta_leaks_part_2)
-- [Steve Wozniak: &#39;I am the happiest person ever&#39; and &#39;I never sold out&#39;](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
+- [Show HN: OSS MCP Security Scanner – Don&#39;t Blindly Trust, Verify](https://github.com/NineSunsInc/mighty-security)
+- [Sam Altman is in damage-control mode after latest ChatGPT release](https://www.cnn.com/2025/08/14/business/chatgpt-rollout-problems)
+- [Fundamental Flaw of Hustle Culture](https://brodzinski.com/2025/08/ai-hustle-culture.html)
+- [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
 - [What are the real numbers, really? &lpar;2024&rpar;](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
-- [&quot;Privacy preserving age verification&quot; is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
-- [Axle &lpar;YC S22&rpar; is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
