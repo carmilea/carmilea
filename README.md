@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta accessed women&#39;s health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
+- [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 - [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
+- [What I look for in typeface licenses](https://davesmyth.com/typeface-licenses)
 - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
-- [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
-- [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
-- [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
