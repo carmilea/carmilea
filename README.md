@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Border Patrol agents show up outside of Gov. Gavin Newsom&#39;s press conference](https://www.cbsnews.com/losangeles/news/border-patrol-gov-gavin-newsom-news-conference-los-angeles/)
+- [Blurry rendering of games on macOS](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 - [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+- [Time travel is self-suppressing](https://arxiv.org/abs/2508.09157)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Big Tech&#39;s A.I. Data Centers Are Driving Up Electricity Bills for Everyone](https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html)
 - [DINOv3](https://github.com/facebookresearch/dinov3)
 <!-- BLOG-POST-LIST:END -->
 
