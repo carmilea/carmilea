@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Cyberdesk &lpar;YC S25&rpar; – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
-- [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
-- [Turning Your Business Intelligence Stack Into an AI Engine](https://www.singlestore.com/blog/turning-your-business-intelligence-stack-into-an-ai-engine)
-- [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
-- [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
+- [Axle &lpar;YC S22&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
+- [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
+- [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+- [JetBrains working on higher-abstraction programming language](https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html)
+- [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
