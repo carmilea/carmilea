@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
 - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
-- [What Medieval People Got Right About Learning &lpar;2019&rpar;](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
