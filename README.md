@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Axle &lpar;YC S22&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
-- [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
-- [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
-- [JetBrains working on higher-abstraction programming language](https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html)
-- [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
+- [&quot;Privacy preserving age verification&quot; is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
+- [Axle &lpar;YC S22&rpar; is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
+- [Can&#39;t pay, won&#39;t pay: streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
+- [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
+- [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
