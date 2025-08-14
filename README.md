@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
+- [Launch HN: Cyberdesk &lpar;YC S25&rpar; – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
 - [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
-- [Meta&#39;s flirty AI chatbot invited a retiree to New York](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
 - [Turning Your Business Intelligence Stack Into an AI Engine](https://www.singlestore.com/blog/turning-your-business-intelligence-stack-into-an-ai-engine)
 - [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
+- [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
