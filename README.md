@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta accessed women&#39;s health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
-- [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
-- [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
-- [What I look for in typeface licenses](https://davesmyth.com/typeface-licenses)
-- [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
+- [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
+- [Meta&#39;s AI rules let bots hold sensual chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
+- [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
+- [Mbodi AI &lpar;YC X25&rpar; Is Hiring a Founding Research Engineer &lpar;Robotics&rpar;](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
+- [New Protein Therapy Shows Promise as Antidote for Carbon Monoxide Poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
