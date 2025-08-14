@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
+- [Turning Your Business Intelligence Stack Into an AI Engine](https://www.singlestore.com/blog/turning-your-business-intelligence-stack-into-an-ai-engine)
+- [&quot;None of These Books Are Obscene&quot;: Judge Strikes Down Much of FL&#39;s Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
 - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
-- [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
-- [Wholesale prices rose 0.9% in July, more than expected](https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html)
-- [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
-- [Mbodi AI &lpar;YC X25&rpar; Is Hiring a Founding Research Engineer &lpar;Robotics&rpar;](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
+- [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
