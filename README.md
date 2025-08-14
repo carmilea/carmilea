@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Yet Another Memory System for LLM&#39;s](https://github.com/trvon/yams)
+- [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
 - [What Medieval People Got Right About Learning &lpar;2019&rpar;](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
 - [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
 - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
-- [NIST Finalizes &#39;Lightweight Cryptography&#39; Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-- [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
