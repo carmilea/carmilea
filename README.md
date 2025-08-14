@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: OSS MCP Security Scanner – Don&#39;t Blindly Trust, Verify](https://github.com/NineSunsInc/mighty-security)
-- [Sam Altman is in damage-control mode after latest ChatGPT release](https://www.cnn.com/2025/08/14/business/chatgpt-rollout-problems)
-- [Fundamental Flaw of Hustle Culture](https://brodzinski.com/2025/08/ai-hustle-culture.html)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [DINOv3](https://github.com/facebookresearch/dinov3)
+- [Show HN: MCP Security Suite](https://github.com/NineSunsInc/mighty-security)
+- [Airbrush art of the 80s was Chrome-tastic &lpar;2015&rpar;](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
 - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
-- [What are the real numbers, really? &lpar;2024&rpar;](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
 <!-- BLOG-POST-LIST:END -->
 
 ---
