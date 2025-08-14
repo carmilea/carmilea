@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Leaks Part 2: How to Kill a Social Movement](https://archive.org/details/meta_leaks_part_2)
+- [Steve Wozniak: &#39;I am the happiest person ever&#39; and &#39;I never sold out&#39;](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
+- [What are the real numbers, really? &lpar;2024&rpar;](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
 - [&quot;Privacy preserving age verification&quot; is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
 - [Axle &lpar;YC S22&rpar; is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
-- [Can&#39;t pay, won&#39;t pay: streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
-- [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
-- [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
