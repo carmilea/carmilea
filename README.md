@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
+- [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 - [Launch HN: Embedder &lpar;YC S25&rpar; – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
 - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 - [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
-- [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
