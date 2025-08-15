@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israeli unit tasked with smearing Gaza journalists as Hamas fighters – report](https://www.theguardian.com/world/2025/aug/15/israeli-military-unit-reportedly-tasked-with-linking-journalists-in-gaza-to-hamas)
+- [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
+- [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
+- [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
 - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
-- [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
-- [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
-- [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
-- [Launch HN: Embedder &lpar;YC S25&rpar; – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
