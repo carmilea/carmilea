@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
-- [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
-- [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
+- [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
+- [The Music’s Playing Again: Vertica’s Place in OpenText’s Strategic Shuffle](https://www.singlestore.com/blog/vertica-opentext-strategic-shuffle)
+- [The Timmy Trap](https://jenson.org/timmy/)
 - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 - [Submerged Roman bathhouse in Baiae may be part of Cicero&#39;s villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
 <!-- BLOG-POST-LIST:END -->
