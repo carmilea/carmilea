@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
-- [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
-- [UK government states that &#39;safety&#39; act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
-- [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
-- [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
+- [Submerged Roman bathhouse in Baiae may be part of Cicero&#39;s villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+- [Open hardware desktop 3D printing is dead – you just don&#39;t know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
+- [It is time to &#39;Correct the Map&#39;](https://correctthemap.org/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Court Records Reveal Sig Sauer Knew of Pistol Risks for Years](https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
