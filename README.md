@@ -61,8 +61,8 @@
 - [South Park and the greatest TV contract clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 - [Teenage Engineering&#39;s free computer case](https://teenage.engineering/store/computer-2)
 - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
+- [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
 - [The secret code behind the CIA&#39;s Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
-- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
