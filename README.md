@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI crawlers now solves the Anubis challenges crawling Codeberg](https://social.anoxinon.de/@Codeberg/115033790447125787)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Ransomware crews don&#39;t care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
 - [Steam can&#39;t escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
-- [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
-- [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
-- [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
-- [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
+- [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
