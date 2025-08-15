@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
 - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 - [Launch HN: Embedder &lpar;YC S25&rpar; – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
-- [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
