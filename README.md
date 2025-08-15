@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
-- [The Music’s Playing Again: Vertica’s Place in OpenText’s Strategic Shuffle](https://www.singlestore.com/blog/vertica-opentext-strategic-shuffle)
-- [The Timmy Trap](https://jenson.org/timmy/)
-- [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
-- [Submerged Roman bathhouse in Baiae may be part of Cicero&#39;s villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+- [Steam can&#39;t escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
+- [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
+- [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
+- [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
+- [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
