@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
+- [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 - [UK government states that &#39;safety&#39; act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
 - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
-- [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
-- [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
