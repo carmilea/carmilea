@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blurry rendering of games on macOS](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
-- [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
-- [Time travel is self-suppressing](https://arxiv.org/abs/2508.09157)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [DINOv3](https://github.com/facebookresearch/dinov3)
+- [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
+- [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
+- [The secret code behind the CIA&#39;s Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
+- [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
+- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
