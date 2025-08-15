@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI crawlers now solves the Anubis challenges crawling Codeberg](https://social.anoxinon.de/@Codeberg/115033790447125787)
+- [Launch HN: Embedder &lpar;YC S25&rpar; – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
+- [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
+- [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
+- [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Ransomware crews don&#39;t care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
-- [Steam can&#39;t escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
-- [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
