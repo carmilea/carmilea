@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
 - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
+- [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
 - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 - [Submerged Roman bathhouse in Baiae may be part of Cicero&#39;s villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
-- [With waters at 32C, Mediterranean tropicalization shifts into high gear](https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html)
-- [Open hardware desktop 3D printing is dead – you just don&#39;t know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
