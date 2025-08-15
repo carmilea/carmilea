@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should we remove XSLT from the web platform?](https://github.com/whatwg/html/issues/11523)
 - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
-- [South Park creator’s 2007 digital ad revenue sharing clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 - [Teenage Engineering&#39;s free computer case](https://teenage.engineering/store/computer-2)
 - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
