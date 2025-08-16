@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
+- [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
+- [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
 - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
+- [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
-- [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
-- [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
