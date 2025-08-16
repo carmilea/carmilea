@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
+- [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 - [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
+- [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
 - [Apple&#39;s new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
-- [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
