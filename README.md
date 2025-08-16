@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woz: &#39;I Am the Happiest Person&#39;](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
-- [OpenAI Progress](https://progress.openai.com)
-- [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
-- [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
-- [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
+- [CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence](https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/)
+- [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
+- [ChatGPT Monday](https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday)
+- [Ask HN: Do you still bookmark websites?](https://news.ycombinator.com/item?id=44925438)
+- [Do things that don&#39;t scale, and then don&#39;t scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
