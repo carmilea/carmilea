@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
-- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
-- [PuTTY has a new website](https://putty.software/)
-- [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
-- [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
+- [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
+- [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)
+- [Microsoft keeps adding stuff into Windows we don&#39;t need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)
+- [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
