@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
+- [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
 - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
-- [Microsoft keeps adding stuff into Windows we don&#39;t need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)
+- [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
