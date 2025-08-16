@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s stock-market dominance is an emergency for Europe](https://www.wsj.com/finance/investing/americas-stock-market-dominance-is-an-emergency-for-europe-627b3221)
+- [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [PuTTY has a new website](https://putty.software/)
 - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
-- [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
