@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woz: &#39;I Am the Happiest Person&#39;](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
 - [OpenAI Progress](https://progress.openai.com)
 - [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
 - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
-- [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
