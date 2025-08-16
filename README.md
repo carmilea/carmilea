@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
+- [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
+- [Apple&#39;s new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
-- [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
-- [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
-- [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
