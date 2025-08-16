@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s CEO says in 3-6 months, AI will write 90% of the code &lpar;March 2025&rpar;](https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3)
 - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [PuTTY has a new website](https://putty.software/)
 - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
+- [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
 <!-- BLOG-POST-LIST:END -->
 
 ---
