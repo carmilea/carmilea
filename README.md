@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)
+- [IQ Tests Results for AI](https://www.trackingai.org/home)
 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 - [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
 - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
