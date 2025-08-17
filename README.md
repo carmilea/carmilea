@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zizians&#39; deadly fusion of transgender ideology, rationalism and veganism](https://www.spiked-online.com/2025/08/16/inside-the-trans-vegan-death-cult/)
+- [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
 - [Why Nim?](https://undefined.pyfy.ch/why-nim)
 - [Microsoft&#39;s latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
 - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
-- [BBC Micro: The Ancestor to a Device You Are Guaranteed to Own](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
-- [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
