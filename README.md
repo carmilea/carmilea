@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does OLAP Need an ORM](https://clickhouse.com/blog/moosestack-does-olap-need-an-orm)
+- [US state department stops issuing visas for Gaza’s children to get medical care](https://www.theguardian.com/us-news/2025/aug/16/gaza-children-visas-medical-care-laura-loomer)
 - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
 - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
-- [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
-- [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
-- [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
+- [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
