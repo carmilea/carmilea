@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
+- [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
 - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
+- [Please Keep Humans in the Loop &lpar;on GitHub Issues&rpar;](https://github.com/microsoft/vscode/issues/261976)
 - [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
-- [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
-- [Apple&#39;s new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
-- [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
