@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HN Search isn&#39;t ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
+- [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
+- [Endoscopist deskilling risk after exposure to AI in colonoscopy](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract)
+- [&#39;Safety Today Is a Luxury,&#39; Giorgetto Giugiaro Says After His Crash](https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/)
 - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
-- [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
-- [Americans Are Ignoring Their Student Loan Bills](https://news.bloomberglaw.com/banking-law/millions-of-americans-are-ignoring-their-student-loan-bills)
-- [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
-- [Review of Anti-Aging Drugs](https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
