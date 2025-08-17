@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)
 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
+- [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
 - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
-- [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
-- [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
