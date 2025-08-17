@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [IQ Tests Results for AI](https://www.trackingai.org/home)
+- [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
+- [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 - [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
-- [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
-- [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
