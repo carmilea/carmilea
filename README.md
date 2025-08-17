@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Zizians&#39; deadly fusion of transgender ideology, rationalism and veganism](https://www.spiked-online.com/2025/08/16/inside-the-trans-vegan-death-cult/)
-- [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
-- [Why Nim?](https://undefined.pyfy.ch/why-nim)
-- [Microsoft&#39;s latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
-- [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+- [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
+- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
+- [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
+- [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
+- [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
