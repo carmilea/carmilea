@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Nim?](https://undefined.pyfy.ch/why-nim)
+- [Microsoft&#39;s latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
+- [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+- [BBC Micro: The Ancestor to a Device You Are Guaranteed to Own](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
 - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
-- [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
-- [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
-- [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
-- [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
