@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
+- [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
+- [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 - [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
 - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
-- [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
-- [Please Keep Humans in the Loop &lpar;on GitHub Issues&rpar;](https://github.com/microsoft/vscode/issues/261976)
-- [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
