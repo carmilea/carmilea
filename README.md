@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
+- [In one command use 500 open source tools](https://www.x-cmd.com/)
 - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
 - [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 - [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
