@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 - [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
-- [GPT-4o quoted deleted GPT-5 content. Model isolation appears brok](https://news.ycombinator.com/item?id=44930581)
 - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
+- [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
