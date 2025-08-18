@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
-- [Neon vs. SingleStore: Free Plan Comparison &lpar;3.5M Rows Benchmark&rpar;](https://www.singlestore.com/blog/neon-vs-singlestore-free-plan-comparison-3-5m-rows-benchmark-)
-- [MCP Tools and Dependent Types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
-- [MCP Doesn&#39;t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
+- [It&#39;s the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
+- [When you&#39;re asking AI chatbots for answers, they&#39;re data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
+- [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
+- [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
