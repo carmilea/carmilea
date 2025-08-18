@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [How Database Indexing Techniques Impact AI Workloads](https://www.singlestore.com/blog/how-database-indexing-techniques-impact-ai-workloads)
-- [Unification &lpar;2018&rpar;](https://eli.thegreenplace.net/2018/unification/)
-- [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
-- [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+- [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+- [Neon vs. SingleStore: Free Plan Comparison &lpar;3.5M Rows Benchmark&rpar;](https://www.singlestore.com/blog/neon-vs-singlestore-free-plan-comparison-3-5m-rows-benchmark-)
+- [MCP Tools and Dependent Types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
+- [MCP Doesn&#39;t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
