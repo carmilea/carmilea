@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Google Is Watching](https://not-a-tech-bro.ghost.io/google-is-watching/)
-- [Spice Data &lpar;YC S19&rpar; Is Hiring a Product Associate &lpar;New Grad&rpar;](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
-- [Obsidian Bases](https://help.obsidian.md/bases)
-- [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
+- [What could have been](https://coppolaemilio.com/entries/what-could-have-been/)
+- [Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
+- [Shamelessness as a strategy &lpar;2019&rpar;](https://nadia.xyz/shameless)
+- [Newsmax agrees to pay $67M in defamation case over bogus 2020 election claims](https://apnews.com/article/dominion-voting-newsmax-defamation-trump-2020-3b2366dfdae3a8432afe822bf14fe1ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
