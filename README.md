@@ -61,7 +61,7 @@
 - [IMDB Terminal Browser](https://github.com/isene/IMDB)
 - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
 - [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
-- [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
+- [Non-Uniform Memory Access &lpar;NUMA&rpar; is reshaping microservice placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
 <!-- BLOG-POST-LIST:END -->
 
