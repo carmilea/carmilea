@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
-- [A minimal tensor processing unit &lpar;TPU&rpar;, inspired by Google&#39;s TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
-- [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
-- [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
+- [Google Is Watching](https://not-a-tech-bro.ghost.io/google-is-watching/)
+- [Spice Data &lpar;YC S19&rpar; Is Hiring a Product Associate &lpar;New Grad&rpar;](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
+- [Obsidian Bases](https://help.obsidian.md/bases)
+- [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
