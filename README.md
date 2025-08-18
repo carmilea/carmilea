@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [How Database Indexing Techniques Impact AI Workloads](https://www.singlestore.com/blog/how-database-indexing-techniques-impact-ai-workloads)
 - [Unification &lpar;2018&rpar;](https://eli.thegreenplace.net/2018/unification/)
 - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
-- [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
-- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
