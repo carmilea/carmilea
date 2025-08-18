@@ -61,8 +61,8 @@
 - [Unification &lpar;2018&rpar;](https://eli.thegreenplace.net/2018/unification/)
 - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
-- [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
 - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
+- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
