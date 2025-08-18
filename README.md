@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IMDB Terminal Browser](https://github.com/isene/IMDB)
+- [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+- [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
 - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
 - [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
 - [Non-Uniform Memory Access &lpar;NUMA&rpar; is reshaping microservice placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
-- [Mangle – a language for deductive database programming](https://github.com/google/mangle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
