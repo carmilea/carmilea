@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IMDB Terminal Browser](https://github.com/isene/IMDB)
 - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
+- [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
 - [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
-- [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
-- [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
