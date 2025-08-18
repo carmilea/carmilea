@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [It&#39;s the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
+- [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 - [When you&#39;re asking AI chatbots for answers, they&#39;re data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
 - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
 - [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
