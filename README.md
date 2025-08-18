@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
+- [Volkswagen gates a new vehicle&#39;s full horsepower behind monthly subscription](https://www.dexerto.com/entertainment/volkswagen-gating-a-new-vehicles-full-horsepower-behind-monthly-subscription-3239138/)
 - [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
 - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
-- [Robots.txt is a suicide note &lpar;2011&rpar;](https://wiki.archiveteam.org/index.php/Robots.txt)
-- [Turning an iPad Pro into the Ultimate Classic Macintosh &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
