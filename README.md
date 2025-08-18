@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
+- [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
+- [Mangle – a language for deductive database programming](https://github.com/google/mangle)
 - [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
-- [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
 - [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
-- [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
-- [HN Search isn&#39;t ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
