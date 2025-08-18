@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Win10 users looking for a new OS? Apple $599 MacBook can&#39;t come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
-- [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
-- [The Road That Killed Legend Jenkins Was Working as Designed](https://www.strongtowns.org/journal/2025/8/18/the-road-that-killed-legend-jenkins-was-working-exactly-as-designed)
-- [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
+- [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+- [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
+- [My Retro TVs](https://www.myretrotvs.com/)
+- [AWS pricing for Kiro dev tool dubbed &#39;a wallet-wrecking tragedy&#39;](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
