@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [95% of AI Pilots Failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
-- [Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI](https://github.com/wieslawsoltes/HackerNewsWatch)
-- [AI is predominantly replacing outsourced, offshore workers](https://www.axios.com/2025/08/18/ai-jobs-layoffs)
-- [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
+- [Win10 users looking for a new OS? Apple $599 MacBook can&#39;t come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
+- [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+- [The Road That Killed Legend Jenkins Was Working as Designed](https://www.strongtowns.org/journal/2025/8/18/the-road-that-killed-legend-jenkins-was-working-exactly-as-designed)
+- [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
