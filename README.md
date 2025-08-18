@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [White House in Talks with Intel for 10% U.S. Government Stake](https://www.wsj.com/tech/intel-us-government-stake-22a7f987)
-- [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/)
-- [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
-- [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
+- [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
+- [A minimal tensor processing unit &lpar;TPU&rpar;, inspired by Google&#39;s TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
+- [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
+- [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
