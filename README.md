@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [95% of AI Pilots Failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
+- [Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI](https://github.com/wieslawsoltes/HackerNewsWatch)
+- [AI is predominantly replacing outsourced, offshore workers](https://www.axios.com/2025/08/18/ai-jobs-layoffs)
 - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
-- [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
-- [Texas law gives grid operator power to disconnect data centers during crisis](https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/)
-- [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
