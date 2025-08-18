@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unification &lpar;2018&rpar;](https://eli.thegreenplace.net/2018/unification/)
+- [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
-- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
-- [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
-- [Non-Uniform Memory Access &lpar;NUMA&rpar; is reshaping microservice placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
+- [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
