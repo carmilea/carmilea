@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
 - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
+- [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
 - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
 - [HN Search isn&#39;t ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
-- [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
-- [When did AI take over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
