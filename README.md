@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
-- [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
-- [My Retro TVs](https://www.myretrotvs.com/)
-- [AWS pricing for Kiro dev tool dubbed &#39;a wallet-wrecking tragedy&#39;](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
+- [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
+- [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
+- [Robots.txt is a suicide note &lpar;2011&rpar;](https://wiki.archiveteam.org/index.php/Robots.txt)
+- [Turning an iPad Pro into the Ultimate Classic Macintosh &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
