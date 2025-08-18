@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
-- [When you&#39;re asking AI chatbots for answers, they&#39;re data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
-- [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
-- [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+- [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
+- [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
+- [Texas law gives grid operator power to disconnect data centers during crisis](https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/)
+- [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
