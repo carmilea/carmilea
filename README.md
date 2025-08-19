@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AnduinOS](https://www.anduinos.com/)
-- [Notion Releases Offline Mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
-- [D2 &lpar;text to diagram tool&rpar; now supports ASCII renders](https://d2lang.com/blog/ascii/)
-- [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
-- [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)
+- [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
+- [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
+- [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
+- [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
+- [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
