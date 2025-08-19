@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
+- [Why I&#39;m all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
+- [U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing](https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing)
+- [Without the Futex, It&#39;s Futile](https://h4x0r.org/futex/)
 - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
-- [Build AI Prototypes in Minutes Using Plain English](https://www.singlestore.com/blog/build-ai-prototypes-in-minutes-using-plain-english)
-- [Apple has not destroyed Steve Jobs&#39; vision for iPad](https://victorwynne.com/vision-for-ipad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
