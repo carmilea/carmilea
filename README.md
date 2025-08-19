@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
+- [The forgotten meaning of &quot;jerk&quot;](https://languagehat.com/the-forgotten-meaning-of-jerk/)
 - [Drunken Bishop &lpar;2023&rpar;](https://re.factorcode.org/2023/08/drunken-bishop.html)
 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
-- [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
-- [Vendors that treat single sign-on as a luxury feature](https://sso.tax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
