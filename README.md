@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
-- [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
+- [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
-- [The Mysterious Underground City Found in a Man&#39;s Basement](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
+- [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
+- [A renovation project in Turkey led to the discovery of a lost city &lpar;2023&rpar;](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
