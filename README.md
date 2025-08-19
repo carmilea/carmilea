@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [Apple has not destroyed Steve Jobs&#39; vision for iPad](https://victorwynne.com/vision-for-ipad/)
+- [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
+- [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
-- [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
-- [Prime Number Grid](https://susam.net/primegrid.html)
-- [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
