@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
+- [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
+- [Build AI Prototypes in Minutes Using Plain English](https://www.singlestore.com/blog/build-ai-prototypes-in-minutes-using-plain-english)
 - [Apple has not destroyed Steve Jobs&#39; vision for iPad](https://victorwynne.com/vision-for-ipad/)
-- [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
-- [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
-- [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
