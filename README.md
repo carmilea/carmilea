@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
-- [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
-- [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
-- [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
+- [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
+- [Vendors that treat single sign-on as a luxury feature](https://sso.tax/)
+- [AnduinOS](https://www.anduinos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
