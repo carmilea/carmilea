@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [How to Start Making Games in JavaScript with No Experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
+- [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
 - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
 - [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
