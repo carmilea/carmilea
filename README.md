@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
 - [Launch HN: Parachute &lpar;YC S25&rpar; – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
-- [Ask HN: Have any successful startups been made by &#39;vibe coding&#39;?](https://news.ycombinator.com/item?id=44952225)
 - [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
-- [Without the Futex, It&#39;s Futile](https://h4x0r.org/futex/)
+- [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
