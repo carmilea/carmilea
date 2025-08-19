@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
+- [Prime Number Grid](https://susam.net/primegrid.html)
 - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
-- [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
