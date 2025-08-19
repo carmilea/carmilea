@@ -62,7 +62,7 @@
 - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
 - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
-- [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
+- [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
