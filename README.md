@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drunken Bishop &lpar;2023&rpar;](https://re.factorcode.org/2023/08/drunken-bishop.html)
 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
 - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 - [Vendors that treat single sign-on as a luxury feature](https://sso.tax/)
-- [AnduinOS](https://www.anduinos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
