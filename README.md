@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
-- [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
-- [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
-- [A renovation project in Turkey led to the discovery of a lost city &lpar;2023&rpar;](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
+- [AnduinOS](https://www.anduinos.com/)
+- [Notion Releases Offline Mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
+- [D2 &lpar;text to diagram tool&rpar; now supports ASCII renders](https://d2lang.com/blog/ascii/)
+- [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
+- [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
