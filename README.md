@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Why I&#39;m all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
-- [U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing](https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing)
+- [Launch HN: Parachute &lpar;YC S25&rpar; – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
+- [Ask HN: Have any successful startups been made by &#39;vibe coding&#39;?](https://news.ycombinator.com/item?id=44952225)
+- [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
 - [Without the Futex, It&#39;s Futile](https://h4x0r.org/futex/)
-- [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
