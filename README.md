@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 - [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
 - [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [Launch HN: Parachute &lpar;YC S25&rpar; – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
-- [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
-- [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
+- [How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
+- [The Mysterious Underground City Found in a Man&#39;s Basement](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
