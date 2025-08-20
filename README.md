@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution](https://github.com/automazeio/ccpm)
+- [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+- [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
+- [Show HN: Project management system for Claude Code](https://github.com/automazeio/ccpm)
 - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 - [Mirrorshades: The Cyberpunk Anthology &lpar;1986&rpar;](https://www.rudyrucker.com/mirrorshades/HTML/)
-- [Databricks is raising a Series K Investment at &gt;$100B valuation](https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation)
-- [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
