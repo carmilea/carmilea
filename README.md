@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)
+- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
 - [Copilot broke audit logs, but Microsoft won&#39;t tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
 - [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
 - [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
