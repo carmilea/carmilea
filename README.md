@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Bluesky&#39;s AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 - [Lean proof of Fermat&#39;s Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
-- [Zed for Windows: What&#39;s Taking So Long?](https://zed.dev/blog/windows-progress-report)
+- [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
 - [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
-- [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
