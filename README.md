@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
+- [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
+- [Lean proof of Fermat&#39;s Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
+- [Zed for Windows: What&#39;s Taking So Long?](https://zed.dev/blog/windows-progress-report)
+- [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
-- [An Update on Pytype](https://github.com/google/pytype)
-- [14.ai &lpar;YC W24&rpar; is hiring engineers in SF to build an AI-native Zendesk](https://14.ai/careers)
-- [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
