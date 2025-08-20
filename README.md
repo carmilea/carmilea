@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 - [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
-- [Analysis of the GFW&#39;s Unconditional Port 443 Block on August 20, 2025](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 - [Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project](https://github.com/osyamato/os-yamato)
-- [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
+- [Modern CI is too complex and misdirected &lpar;2021&rpar;](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
+- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
