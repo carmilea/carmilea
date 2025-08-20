@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+- [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
 - [Show HN: Project management system for Claude Code](https://github.com/automazeio/ccpm)
 - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
-- [Mirrorshades: The Cyberpunk Anthology &lpar;1986&rpar;](https://www.rudyrucker.com/mirrorshades/HTML/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
