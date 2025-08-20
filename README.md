@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
+- [Vibe Coding Is the Worst Idea of 2025 [video]](https://www.youtube.com/watch?v=1A6uPztchXk)
+- [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
 - [China blocked all HTTPS connection abroad for 1 hour in midnight](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
-- [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
 - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
-- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
-- [The Value of Hitting the HN Front Page](https://www.mooreds.com/wordpress/archives/3530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
