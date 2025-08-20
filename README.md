@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coris &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
+- [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 - [Introduction to Bluesky&#39;s AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 - [Lean proof of Fermat&#39;s Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
-- [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
-- [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
