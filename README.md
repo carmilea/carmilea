@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
+- [Databricks is raising a Series K Investment at &gt;$100B valuation](https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation)
 - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 - [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
-- [Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project](https://github.com/osyamato/os-yamato)
 - [Modern CI is too complex and misdirected &lpar;2021&rpar;](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
-- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
