@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
+- [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 - [An Update on Pytype](https://github.com/google/pytype)
-- [14.ai &lpar;YC W24&rpar; is hiring eng &lpar;TS/Effect&rpar; in SF to build the AI-native Zendesk](https://14.ai/careers)
-- [Crash Cows](https://beza1e1.tuxen.de/lore/crash_cows.html)
-- [Digg.com Is Back](https://www.digg.com/)
-- [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
+- [14.ai &lpar;YC W24&rpar; is hiring engineers in SF to build an AI-native Zendesk](https://14.ai/careers)
+- [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
