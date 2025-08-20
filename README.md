@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)
+- [Copilot broke audit logs, but Microsoft won&#39;t tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+- [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+- [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
 - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
-- [The forgotten meaning of &quot;jerk&quot;](https://languagehat.com/the-forgotten-meaning-of-jerk/)
-- [Drunken Bishop &lpar;2023&rpar;](https://re.factorcode.org/2023/08/drunken-bishop.html)
-- [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
-- [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
