@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Anchor Relay – A faster, easier way to get Let&#39;s Encrypt certificates](https://anchor.dev/relay)
-- [Why AI Search Needs More Than Vectors](https://www.singlestore.com/blog/why-ai-search-needs-more-than-vectors)
-- [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
-- [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
-- [AWS in 2025: The Stuff You Think You Know That&#39;s Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
+- [An Update on Pytype](https://github.com/google/pytype)
+- [14.ai &lpar;YC W24&rpar; is hiring eng &lpar;TS/Effect&rpar; in SF to build the AI-native Zendesk](https://14.ai/careers)
+- [Crash Cows](https://beza1e1.tuxen.de/lore/crash_cows.html)
+- [Digg.com Is Back](https://www.digg.com/)
+- [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
