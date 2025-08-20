@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China blocked all HTTPS connection abroad for 1 hour in midnight](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 - [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
 - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
 - [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
-- [Copilot broke audit logs, but Microsoft won&#39;t tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
-- [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+- [The Value of Hitting the HN Front Page](https://www.mooreds.com/wordpress/archives/3530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
