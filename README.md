@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
+- [I&#39;ve never had a real adversary](https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary)
 - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 - [Creating 3D Worlds with HTML and CSS &lpar;2013&rpar;](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
-- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
-- [SimpleIDE](https://github.com/jamesplotts/simpleide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
