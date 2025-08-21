@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Skope &lpar;YC S25&rpar; – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
+- [Apple Watch wearable foundation model](https://arxiv.org/abs/2507.00191)
 - [In a first, Google has released data on how much energy an AI prompt uses](https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/)
 - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
-- [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
-- [AWS CEO says using AI to replace junior staff is &#39;Dumbest thing I&#39;ve ever heard&#39;](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
