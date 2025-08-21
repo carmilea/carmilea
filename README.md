@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
+- [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
+- [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
+- [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 - [Cua &lpar;YC X25&rpar; is hiring design engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
-- [The Core of Rust](https://jyn.dev/the-core-of-rust/)
-- [I did 98,000 Anki reviews. Anki is already dead](https://miguelconner.substack.com/p/anki-is-already-dead)
-- [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
-- [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
