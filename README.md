@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cua &lpar;YC X25&rpar; Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+- [Cua &lpar;YC X25&rpar; is hiring design engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+- [The Core of Rust](https://jyn.dev/the-core-of-rust/)
+- [I did 98,000 Anki reviews. Anki is already dead](https://miguelconner.substack.com/p/anki-is-already-dead)
 - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
-- [A summary of recent AI research &lpar;2016&rpar;](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
-- [Forced every engineer to take sales calls.They rewrote our platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
