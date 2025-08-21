@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
 - [Dev Reveals Secrets Behind New &quot;3D&quot; Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
-- [Australia Post halts transit shipping to US as &#39;chaotic&#39; tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
 - [Show HN: I replaced vector databases with Git for AI memory &lpar;PoC&rpar;](https://github.com/Growth-Kinetics/DiffMem)
 - [Python f-string cheat sheets &lpar;2022&rpar;](https://fstring.help/cheat/)
+- [Data, objects, and how we&#39;re railroaded into poor design &lpar;2018&rpar;](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
