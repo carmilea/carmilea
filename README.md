@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO pay and stock buybacks have soared at the 100 largest low-wage corporations](https://ips-dc.org/report-executive-excess-2025/)
 - [Text.ai &lpar;YC X25&rpar; Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 - [Uv format: Code Formatting Comes to uv &lpar;experimentally&rpar;](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
 - [Crimes with Python&#39;s Pattern Matching &lpar;2022&rpar;](https://www.hillelwayne.com/post/python-abc/)
 - [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
-- [In the long run, LLMs make us dumber](https://desunit.com/blog/in-the-long-run-llms-make-us-dumber/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
