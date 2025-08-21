@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
-- [Dev Reveals Secrets Behind New &quot;3D&quot; Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
-- [Show HN: I replaced vector databases with Git for AI memory &lpar;PoC&rpar;](https://github.com/Growth-Kinetics/DiffMem)
-- [Python f-string cheat sheets &lpar;2022&rpar;](https://fstring.help/cheat/)
-- [Data, objects, and how we&#39;re railroaded into poor design &lpar;2018&rpar;](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
+- [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
+- [AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders](https://www.theregister.com/2025/08/21/ai_crawler_traffic/)
+- [Margin Debt Surges 9.5% in June to Record High](https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025)
+- [AI Mode in Search gets new agentic features and expands globally](https://blog.google/products/search/ai-mode-agentic-personalized/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
