@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;AI first&quot; and the Bus Factor of 0](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
-- [Coris &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
-- [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
-- [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
+- [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
+- [SimpleIDE](https://github.com/jamesplotts/simpleide)
+- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
+- [Vibe coding creates a bus factor of zero](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
