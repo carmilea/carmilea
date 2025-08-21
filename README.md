@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding Generative AI for Developers](https://www.youtube.com/watch?v=p4THQmKzPj4)
 - [H2O.ai University Upgrade | Announcement](https://www.youtube.com/watch?v=N4keWb19lRI)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=kTbMJAEgoC0)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=pgi_GAgLhoM)
 - [[Webinar Recording] Return on Intelligence: How Government Agencies Are Unlocking Value with GenAI](https://www.youtube.com/watch?v=hbeOnW7Xt1k)
-- [Building Agentic RAG Applications](https://www.youtube.com/watch?v=kdF0L955M0U)
 <!-- YOUTUBE:END -->
 
 
