@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cua &lpar;YC X25&rpar; Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+- [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 - [A summary of recent AI research &lpar;2016&rpar;](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
 - [Forced every engineer to take sales calls.They rewrote our platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
-- [Unmasking the Privacy Risks of Apple Intelligence](https://www.lumia.security/blog/applestorm)
-- [95% of Companies See &#39;Zero Return&#39; on $30B Generative AI Spend](https://thedailyadda.com/95-of-companies-see-zero-return-on-30-billion-generative-ai-spend-mit-report-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
