@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia Post halts transit shipping to US as &#39;chaotic&#39; tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
 - [Show HN: I replaced vector databases with Git for AI memory &lpar;PoC&rpar;](https://github.com/Growth-Kinetics/DiffMem)
 - [Python f-string cheat sheets &lpar;2022&rpar;](https://fstring.help/cheat/)
 - [Data, objects, and how we&#39;re railroaded into poor design &lpar;2018&rpar;](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
-- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
