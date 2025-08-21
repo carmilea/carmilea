@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Reading crisis&#39; prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/)
+- [Contrasting Data and Objects &lpar;2018&rpar;](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
-- [I&#39;ve never had a real adversary](https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary)
 - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 - [Creating 3D Worlds with HTML and CSS &lpar;2013&rpar;](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
-- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
