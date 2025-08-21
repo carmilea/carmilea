@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In a first, Google has released data on how much energy an AI prompt uses](https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/)
+- [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
 - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 - [AWS CEO says using AI to replace junior staff is &#39;Dumbest thing I&#39;ve ever heard&#39;](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
-- [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
-- [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
