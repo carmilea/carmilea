@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
+- [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
+- [AWS CEO says using AI to replace junior staff is &#39;Dumbest thing I&#39;ve ever heard&#39;](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 - [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
-- [AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders](https://www.theregister.com/2025/08/21/ai_crawler_traffic/)
-- [Margin Debt Surges 9.5% in June to Record High](https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025)
-- [AI Mode in Search gets new agentic features and expands globally](https://blog.google/products/search/ai-mode-agentic-personalized/)
+- [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
