@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+- [Creating 3D Worlds with HTML and CSS &lpar;2013&rpar;](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 - [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
 - [SimpleIDE](https://github.com/jamesplotts/simpleide)
-- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
-- [Vibe coding creates a bus factor of zero](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
