@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crimes with Python&#39;s Pattern Matching &lpar;2022&rpar;](https://www.hillelwayne.com/post/python-abc/)
+- [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
+- [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
 - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
-- [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
-- [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
-- [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
-- [Cua &lpar;YC X25&rpar; is hiring design engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+- [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
 <!-- BLOG-POST-LIST:END -->
 
 ---
