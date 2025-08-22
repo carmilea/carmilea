@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaza City and Surrounding Areas Are Officially Under Famine, Monitors Say](https://www.nytimes.com/2025/08/22/world/middleeast/famine-gaza-city-israel.html)
+- [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
+- [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 - [The Minecraft code no one has solved &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 - [Everything Is Correlated](https://gwern.net/everything)
-- [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
