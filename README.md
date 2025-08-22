@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida lawmaker floats ban on HOAs amid growing backlash](https://www.tampabay28.com/news/state/florida-lawmaker-floats-ban-on-hoas-amid-growing-backlash)
-- [Being confidently wrong is the only thing holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
+- [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
+- [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
+- [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
 - [What about using rel=&quot;share-url&quot; to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
 - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
-- [The Minecraft code no one has solved &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
