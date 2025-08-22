@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
+- [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
 - [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
 - [Ejabberd 25.08](https://www.process-one.net/blog/ejabberd-25-08/)
-- [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
-- [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
-- [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
+- [Our Response to Mississippi&#39;s Age Assurance Law](https://bsky.social/about/blog/08-22-2025-mississippi-hb1126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
