@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Debugging: Enterprises&#39; Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
+- [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
 - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
 - [Launch HN: Inconvo &lpar;YC S23&rpar; – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
-- [All managers make mistakes; good managers acknowledge and repair](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
-- [Being “Confidently Wrong” is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
