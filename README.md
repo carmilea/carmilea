@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
+- [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
 - [Launch HN: Inconvo &lpar;YC S23&rpar; – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 - [All managers make mistakes; good managers acknowledge and repair](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 - [Being “Confidently Wrong” is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
-- [What about using rel=&quot;share-url&quot; to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
-- [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
