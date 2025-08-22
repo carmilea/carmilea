@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaza City and Surrounding Areas Are Officially Under Famine, Monitors Say](https://www.nytimes.com/2025/08/22/world/middleeast/famine-gaza-city-israel.html)
 - [The Minecraft code no one has solved &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
-- [Nano Banana](https://nanobanana.ai/)
-- [It&#39;s Not Wrong that &quot; &quot;.length == 7](https://hsivonen.fi/string-length/)
 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 - [Everything Is Correlated](https://gwern.net/everything)
+- [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
