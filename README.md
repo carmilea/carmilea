@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Control Shopping Cart Wheels with Your Phone](https://www.begaydocrime.com/)
+- [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
 - [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
-- [From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
+- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 - [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
-- [Mirage 2 – Generative World Engine](https://demo.dynamicslab.ai/chaos)
+- [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
