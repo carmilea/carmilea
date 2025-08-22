@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
-- [From $479 to $2,800 a month for ACA health insurance next year](https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment)
-- [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
+- [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
+- [Ejabberd 25.08](https://www.process-one.net/blog/ejabberd-25-08/)
 - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
-- [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
+- [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
+- [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
