@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
+- [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
+- [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
 - [Vibe Debugging: Enterprises&#39; Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
 - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
-- [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
-- [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
-- [Launch HN: Inconvo &lpar;YC S23&rpar; – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
