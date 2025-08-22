@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [It&#39;s Not Wrong that &quot; &quot;.length == 7](https://hsivonen.fi/string-length/)
+- [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 - [Everything Is Correlated](https://gwern.net/everything)
 - [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
-- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
