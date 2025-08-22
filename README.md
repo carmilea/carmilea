@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
+- [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
 - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
-- [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
-- [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
-- [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
-- [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
+- [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
+- [Sprinkling self-doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
