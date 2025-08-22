@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
-- [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
-- [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
-- [Vibe Debugging: Enterprises&#39; Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
-- [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
+- [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
+- [The US Department of Agriculture Bans Support for Renewables](https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/)
+- [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
+- [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
+- [Waymo granted permit to begin testing in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
