@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
-- [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
-- [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
+- [Launch HN: Inconvo &lpar;YC S23&rpar; – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
+- [All managers make mistakes; good managers acknowledge and repair](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
+- [Being “Confidently Wrong” is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
 - [What about using rel=&quot;share-url&quot; to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
-- [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
+- [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
