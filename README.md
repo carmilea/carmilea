@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
+- [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 - [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
-- [The US Department of Agriculture Bans Support for Renewables](https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/)
 - [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
 - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
-- [Waymo granted permit to begin testing in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
