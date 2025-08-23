@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
+- [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
+- [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
 - [Developer&#39;s block](https://underlap.org/developers-block/)
 - [Building a computer in the 90s &lpar;2019&rpar;](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
-- [World Wide Lightning Location Network](https://wwlln.net/)
-- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [I&#39;m too dumb for Zig&#39;s new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
