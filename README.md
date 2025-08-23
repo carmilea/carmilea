@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
+- [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
 - [The Amiga games and demo scene collection](https://amiga.vision/)
-- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
-- [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
-- [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
