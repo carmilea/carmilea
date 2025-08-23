@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFK Jr demanded a vaccine study be retracted – the journal said no](https://www.nature.com/articles/d41586-025-02682-9)
+- [The F-35 Is Losing the &lpar;Trade&rpar; War](https://www.jalopnik.com/1945910/f-35-fighter-jet-losing-trade-war/)
 - [Bild AI &lpar;YC W25&rpar; Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
 - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
+- [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
-- [The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock](https://arxiv.org/abs/2508.12516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
