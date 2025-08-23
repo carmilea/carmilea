@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bild AI &lpar;YC W25&rpar; Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
+- [I Hacked Monster Energy and You Won&#39;t Believe What They Think You Look Like](https://bobdahacker.com/blog/monster-energy)
+- [Building A16Z&#39;s Personal AI Workstation](https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/)
 - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
-- [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
-- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-- [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
