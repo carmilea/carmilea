@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
+- [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
 - [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
-- [Developer&#39;s block](https://underlap.org/developers-block/)
-- [Building a computer in the 90s &lpar;2019&rpar;](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
