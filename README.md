@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
+- [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
 - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
 - [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
-- [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
