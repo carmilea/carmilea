@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
+- [The Amiga games and demo scene collection](https://amiga.vision/)
+- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
 - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
-- [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
-- [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
