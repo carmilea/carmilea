@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
+- [Developer&#39;s block](https://underlap.org/developers-block/)
+- [Building a computer in the 90s &lpar;2019&rpar;](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
 - [World Wide Lightning Location Network](https://wwlln.net/)
 - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [I&#39;m too dumb for Zig&#39;s new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
-- [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
