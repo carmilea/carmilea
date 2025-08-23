@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
+- [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
 - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
-- [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
-- [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
