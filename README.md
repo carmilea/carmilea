@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
-- [It&#39;s okay to solve a problem twice](https://til.andrew-quinn.me/posts/it-s-okay-to-solve-a-problem-twice/)
-- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- [World Wide Lightning Location Network](https://wwlln.net/)
+- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [I&#39;m too dumb for Zig&#39;s new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
 <!-- BLOG-POST-LIST:END -->
