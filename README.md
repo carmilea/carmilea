@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
+- [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
+- [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
 - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
-- [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
-- [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
