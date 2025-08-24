@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: How to Build a Coding Agent &lpar;free workshop&rpar;](https://ghuntley.com/agent/)
+- [How to build a coding agent](https://ghuntley.com/agent/)
 - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
 - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
