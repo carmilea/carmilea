@@ -61,8 +61,8 @@
 - [Show HN: How to Build a Coding Agent &lpar;free workshop&rpar;](https://ghuntley.com/agent/)
 - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
 - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
-- [Not so prompt: Prompt optimization as model selection &lpar;2024&rpar;](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
