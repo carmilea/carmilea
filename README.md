@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
-- [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
-- [Equal Earth – Political Wall Map &lpar;2018&rpar;](https://equal-earth.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
