@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncle Sam Shouldn&#39;t Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
+- [Uncle Sam shouldn&#39;t own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
 - [Starship&#39;s Tenth Flight Test](https://www.spacex.com/launches/starship-flight-10)
 - [Halt and Catch Fire Syllabus &lpar;2021&rpar;](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [A brilliant and nearby one-off fast radio burst localized to 13pc precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
