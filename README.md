@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
-- [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
+- [Uncle Sam Shouldn&#39;t Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
+- [Starship&#39;s Tenth Flight Test](https://www.spacex.com/launches/starship-flight-10)
+- [Halt and Catch Fire Syllabus &lpar;2021&rpar;](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [A brilliant and nearby one-off fast radio burst localized to 13pc precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
-- [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
-- [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
