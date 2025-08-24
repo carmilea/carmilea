@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debdelta](https://debdelta.debian.net/)
-- [The cost of interrupted work &lpar;2023&rpar;](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
-- [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
-- [Motion &lpar;YC W20&rpar; Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
-- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
+- [Show HN: How to Build a Coding Agent &lpar;free workshop&rpar;](https://ghuntley.com/agent/)
+- [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
+- [Not so prompt: Prompt optimization as model selection &lpar;2024&rpar;](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
+- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
