@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+- [SQLite &lpar;with WAL&rpar; doesn&#39;t do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
+- [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+- [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
-- [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
-- [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
-- [Dynamically patch a Python function&#39;s source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
-- [Germany&#39;s Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
