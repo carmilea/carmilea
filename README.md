@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
+- [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
 - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
+- [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
 - [SQLite &lpar;with WAL&rpar; doesn&#39;t do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
-- [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
-- [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
-- [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
