@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
+- [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
+- [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 - [Equal Earth – Political Wall Map &lpar;2018&rpar;](https://equal-earth.com/index.html)
 - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
-- [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
-- [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
-- [How to build a coding agent](https://ghuntley.com/agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
