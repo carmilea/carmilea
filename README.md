@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
+- [Dynamically patch a Python function&#39;s source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
+- [Spending Too Much Time at Airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
+- [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
+- [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
-- [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
-- [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
-- [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
