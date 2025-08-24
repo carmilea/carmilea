@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
+- [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 - [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 - [Equal Earth – Political Wall Map &lpar;2018&rpar;](https://equal-earth.com/index.html)
-- [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
