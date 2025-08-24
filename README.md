@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
-- [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- [Debdelta](https://debdelta.debian.net/)
+- [The cost of interrupted work &lpar;2023&rpar;](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
-- [The Amiga games and demo scene collection](https://amiga.vision/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
+- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
