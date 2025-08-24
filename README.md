@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
+- [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
+- [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
 - [Dynamically patch a Python function&#39;s source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
 - [Germany&#39;s Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
-- [Spending too much time at airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
-- [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
-- [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
