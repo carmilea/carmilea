@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
+- [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
+- [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
-- [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
-- [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
-- [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+- [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
