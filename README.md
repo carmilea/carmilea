@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE Uses Celebrity Loophole to Hide Deportation Flights](https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/)
 - [Dynamically patch a Python function&#39;s source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
 - [Germany&#39;s Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
-- [Spending Too Much Time at Airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
+- [Spending too much time at airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
+- [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
