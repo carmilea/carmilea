@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
+- [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
+- [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
 - [How to build a coding agent](https://ghuntley.com/agent/)
-- [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
-- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
-- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
-- [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
+- [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
