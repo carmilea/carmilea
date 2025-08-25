@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cornell&#39;s world-first &#39;microwave brain&#39; computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
-- [Why SingleStore Customers Choose Zero ETL Over Reverse ETL](https://www.singlestore.com/blog/why-singlestore-customers-choose-zero-etl-over-reverse-etl)
-- [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
-- [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
-- [Ban me at the IP level if you don&#39;t like me](https://boston.conman.org/2025/08/21.1)
+- [Walmart Fires VP in Tech for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
+- [Why I&#39;m Now Running Enterprise AI on My Laptop &lpar;Without Internet&rpar;](https://medium.com/@klaudibregu/beyond-the-cloud-why-im-now-running-enterprise-ai-on-my-laptop-without-internet-16929a585328)
+- [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
+- [Why Agentic AI Relies on Your Database](https://www.singlestore.com/blog/why-agentic-ai-relies-on-your-database)
+- [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
