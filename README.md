@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart Fires VP in Tech for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
-- [Why I&#39;m Now Running Enterprise AI on My Laptop &lpar;Without Internet&rpar;](https://medium.com/@klaudibregu/beyond-the-cloud-why-im-now-running-enterprise-ai-on-my-laptop-without-internet-16929a585328)
+- [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
 - [Why Agentic AI Relies on Your Database](https://www.singlestore.com/blog/why-agentic-ai-relies-on-your-database)
 - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
+- [Why SingleStore Customers Choose Zero ETL Over Reverse ETL](https://www.singlestore.com/blog/why-singlestore-customers-choose-zero-etl-over-reverse-etl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
