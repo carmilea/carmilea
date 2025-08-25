@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A short proof of the Hairy Ball theorem &lpar;2016&rpar; [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 - [Social media&#39;s next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 - [Llama Fund: Crowdfund AI Models](https://llama.fund)
 - [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
-- [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
-- [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
+- [Study finds gaps in evidence for air-cleaning technologies to prevent infections](https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections)
 <!-- BLOG-POST-LIST:END -->
 
 ---
