@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncle Sam shouldn&#39;t own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
-- [Starship&#39;s Tenth Flight Test](https://www.spacex.com/launches/starship-flight-10)
-- [Halt and Catch Fire Syllabus &lpar;2021&rpar;](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
-- [A brilliant and nearby one-off fast radio burst localized to 13pc precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
-- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+- [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
+- [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
+- [Show HN: Sping – An HTTP/TCP Latency Tool That&#39;s Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
+- [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+- [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
 <!-- BLOG-POST-LIST:END -->
 
 ---
