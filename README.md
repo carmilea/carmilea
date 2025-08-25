@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hundreds lose water source in Colorado&#39;s poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
+- [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 - [Japan&#39;s Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
 - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
-- [The Unlikely Revival of Nuclear Batteries](https://spectrum.ieee.org/nuclear-battery-revival)
-- [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
-- [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
+- [The unlikely revival of nuclear batteries](https://spectrum.ieee.org/nuclear-battery-revival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
