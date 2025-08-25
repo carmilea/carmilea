@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cornell&#39;s world-first &#39;microwave brain&#39; computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 - [Why SingleStore Customers Choose Zero ETL Over Reverse ETL](https://www.singlestore.com/blog/why-singlestore-customers-choose-zero-etl-over-reverse-etl)
-- [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
-- [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
 - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
+- [Ban me at the IP level if you don&#39;t like me](https://boston.conman.org/2025/08/21.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
