@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
 - [Google&#39;s Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 - [IBM&#39;s Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
-- [Japan Post to temporarily suspend mail to US over end of de minimis exemption](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
 - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 - [Nvidia&#39;s new &#39;robot brain&#39; goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 <!-- BLOG-POST-LIST:END -->
