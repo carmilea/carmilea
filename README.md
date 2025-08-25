@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
+- [Google&#39;s Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+- [IBM&#39;s Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
+- [Japan Post to temporarily suspend mail to US over end of de minimis exemption](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
+- [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 - [Nvidia&#39;s new &#39;robot brain&#39; goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
-- [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
-- [Launch HN: April &lpar;YC S25&rpar; – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
-- [Building the mouse Logitech won&#39;t make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
