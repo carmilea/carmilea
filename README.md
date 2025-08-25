@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
 - [A short proof of the Hairy Ball theorem &lpar;2016&rpar; [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 - [Social media&#39;s next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 - [Llama Fund: Crowdfund AI Models](https://llama.fund)
 - [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
-- [Study finds gaps in evidence for air-cleaning technologies to prevent infections](https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections)
 <!-- BLOG-POST-LIST:END -->
 
 ---
