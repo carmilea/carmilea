@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
+- [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
+- [Bro, ban me at the IP level if you don&#39;t like me](https://boston.conman.org/2025/08/21.1)
 - [Git-Annex](https://git-annex.branchable.com/)
-- [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
 - [The Unix-Haters Handbook &lpar;1994&rpar; [pdf]](https://simson.net/ref/ugh.pdf)
-- [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
-- [Show HN: Sping – An HTTP/TCP latency tool that&#39;s easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
