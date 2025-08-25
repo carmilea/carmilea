@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
+- [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
+- [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
 - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
-- [Bro, ban me at the IP level if you don&#39;t like me](https://boston.conman.org/2025/08/21.1)
+- [Ban me at the IP level if you don&#39;t like me](https://boston.conman.org/2025/08/21.1)
 - [Git-Annex](https://git-annex.branchable.com/)
-- [The Unix-Haters Handbook &lpar;1994&rpar; [pdf]](https://simson.net/ref/ugh.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
