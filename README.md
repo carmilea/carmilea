@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
+- [Launch HN: April &lpar;YC S25&rpar; – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
+- [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
+- [Building the mouse Logitech won&#39;t make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 - [Hundreds lose water source in Colorado&#39;s poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
-- [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
-- [Japan&#39;s Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
-- [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
-- [The unlikely revival of nuclear batteries](https://spectrum.ieee.org/nuclear-battery-revival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
