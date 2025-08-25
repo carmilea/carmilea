@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
 - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
-- [Show HN: Sping – An HTTP/TCP Latency Tool That&#39;s Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
+- [Show HN: Sping – An HTTP/TCP latency tool that&#39;s easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
 - [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 - [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
 <!-- BLOG-POST-LIST:END -->
