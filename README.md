@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social media&#39;s next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+- [Llama Fund: Crowdfund AI Models](https://llama.fund)
+- [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
+- [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
-- [Angry Metal Guy Speaks: On Spotify](https://www.angrymetalguy.com/angry-metal-guy-speaks-on-spotify/)
-- [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
-- [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
-- [How RubyGems.org Protects Our Community’s Critical OSS Infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
