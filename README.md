@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
+- [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
+- [The Unlikely Revival of Nuclear Batteries](https://spectrum.ieee.org/nuclear-battery-revival)
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
-- [Why Agentic AI Relies on Your Database](https://www.singlestore.com/blog/why-agentic-ai-relies-on-your-database)
-- [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
-- [Why SingleStore Customers Choose Zero ETL Over Reverse ETL](https://www.singlestore.com/blog/why-singlestore-customers-choose-zero-etl-over-reverse-etl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
