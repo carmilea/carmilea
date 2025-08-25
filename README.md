@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
+- [Nvidia&#39;s new &#39;robot brain&#39; goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
 - [Launch HN: April &lpar;YC S25&rpar; – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
-- [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 - [Building the mouse Logitech won&#39;t make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
-- [Hundreds lose water source in Colorado&#39;s poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
