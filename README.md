@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thailand Is Using Long Range Acoustic Devices &lpar;LRAD&rpar;](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
+- [Do I not like Ruby anymore? &lpar;2024&rpar;](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 - [Interactive Map of Paul&#39;s First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
-- [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
-- [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
-- [Will Smith&#39;s concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
+- [Dangerous Advice for Software Engineers](https://www.seangoedecke.com/dangerous-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
