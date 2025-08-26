@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
-- [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)
-- [Show HN: My OSS P2P file transfer tool for learning Next.js &lpar;as a C++ dev&rpar;](https://www.privydrop.app/en)
-- [Apple´s Tim Cook battle results](https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case)
+- [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
+- [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
+- [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
+- [Undisclosed financial conflicts of interest in DSM-5](https://www.bmj.com/content/384/bmj-2023-076902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
