@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=3QRCMEy9wu8)
+- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=YULfL2LJJAY)
 - [Code Committers: Alex Lin – Systems Engineering Is Like Solving Mysteries](https://www.youtube.com/shorts/O1YZigoSsmA)
 - [Code Committers: Alex Lin – From Guangzhou to Systems Engineering at SingleStore](https://www.youtube.com/watch?v=gwD4H_SzySU)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=Cn9JOZ72oKU)
-- [Understanding Generative AI for Developers](https://www.youtube.com/watch?v=p4THQmKzPj4)
-- [H2O.ai University Upgrade | Announcement](https://www.youtube.com/watch?v=N4keWb19lRI)
 <!-- YOUTUBE:END -->
 
 
