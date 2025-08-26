@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thailand Is Using Long Range Acoustic Devices &lpar;LRAD&rpar;](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
 - [Do I not like Ruby anymore? &lpar;2024&rpar;](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 - [Interactive Map of Paul&#39;s First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 - [Dangerous Advice for Software Engineers](https://www.seangoedecke.com/dangerous-advice/)
+- [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
