@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deeper Than Deep: David Reich&#39;s genetics lab unveils our prehistoric past &lpar;2017&rpar;](https://www.laphamsquarterly.org/roundtable/deeper-deep)
+- [AI Is Wrecking Young Americans&#39; Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
 - [The Relativity of Wrong &lpar;1988&rpar;](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 - [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Platform Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
-- [The TTY Demystified &lpar;2008&rpar;](https://www.linusakesson.net/programming/tty/)
-- [US Intel](https://stratechery.com/2025/u-s-intel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
