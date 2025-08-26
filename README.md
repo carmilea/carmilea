@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Platform Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
 - [&#39;Ten Martini&#39; Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 - [Do I not like Ruby anymore? &lpar;2024&rpar;](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
-- [Interactive Map of Paul&#39;s First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 <!-- BLOG-POST-LIST:END -->
 
