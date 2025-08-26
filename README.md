@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [Claude for Chrome](https://claude.ai/chrome)
-- [&quot;special register groups&quot; invaded computer dictionaries for decades &lpar;2019&rpar;](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
-- [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
-- [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
+- [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
+- [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
+- [DOGE uploaded live copy of Social Security database to &#39;vulnerable&#39; cloud server](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
+- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
