@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Map of Paul&#39;s First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
+- [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 - [Will Smith&#39;s concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
-- [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
-- [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
