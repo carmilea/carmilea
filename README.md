@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Ten Martini&#39; Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
+- [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 - [Do I not like Ruby anymore? &lpar;2024&rpar;](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 - [Interactive Map of Paul&#39;s First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
-- [Dangerous Advice for Software Engineers](https://www.seangoedecke.com/dangerous-advice/)
-- [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
