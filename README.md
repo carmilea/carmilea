@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
+- [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
+- [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
 - [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
-- [China&#39;s Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
-- [Meta is sinking $10B into rural Louisiana to build its wildest AI aspirations](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
-- [DSLRoot, Proxies, and the Threat of &#39;Legal Botnets&#39;](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
-- [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
+- [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
