@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
+- [LiteLLM &lpar;YC W23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
 - [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
-- [DOGE uploaded live copy of Social Security database to &#39;vulnerable&#39; cloud server](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
 - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 <!-- BLOG-POST-LIST:END -->
 
