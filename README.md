@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
-- [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
-- [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
-- [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
+- [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
+- [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)
+- [Show HN: My OSS P2P file transfer tool for learning Next.js &lpar;as a C++ dev&rpar;](https://www.privydrop.app/en)
+- [Apple´s Tim Cook battle results](https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case)
 <!-- BLOG-POST-LIST:END -->
 
 ---
