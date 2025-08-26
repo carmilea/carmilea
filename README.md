@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
+- [macOS 26 Tahoe&#39;s Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
+- [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
 - [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
-- [A short proof of the Hairy Ball theorem &lpar;2016&rpar; [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
-- [Social media&#39;s next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
-- [Llama Fund: Crowdfund AI Models](https://llama.fund)
-- [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
+- [AI Is Slowing Down Tracker](https://aislowdown.replit.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
