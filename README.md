@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Aren&#39;t People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
-- [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
-- [What We Find in the Sewers](https://www.asimov.press/p/sewers)
-- [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
-- [SpaceX&#39;s giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
+- [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
+- [VIMMaster](https://github.com/renzorlive/vimmaster)
+- [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
+- [We Rebuilt Cloud Life&#39;s Infrastructure Delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
+- [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
