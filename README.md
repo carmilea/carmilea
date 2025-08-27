@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
+- [The Mediocrity of Curtis Yarvin](https://lawliberty.org/the-mediocrity-of-curtis-yarvin/)
+- [Starship&#39;s Tenth Flight Test](https://www.spacex.com/)
 - [The &quot;Wow!&quot; signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
-- [Why I&#39;m declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
 - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
-- [LiteLLM &lpar;YC W23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
