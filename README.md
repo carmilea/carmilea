@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Aren&#39;t People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
+- [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
+- [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 - [SpaceX&#39;s giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
-- [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
-- [ASCIIFlow](https://asciiflow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
