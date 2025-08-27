@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
+- [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
+- [Monodraw](https://monodraw.helftone.com/)
+- [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
 - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
-- [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
-- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
