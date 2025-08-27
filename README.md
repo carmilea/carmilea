@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Whose p*nis is that now? Probably the weirdest website I&#39;ve ever made](https://whosepenis.com/pages/fun)
+- [Astrophysicists find no &#39;hair&#39; on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
+- [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
 - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops &lpar;EU, US&rpar;](https://www.ycombinator.com/companies/lago/jobs)
-- [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
-- [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
-- [Kiwi.com flight search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
-- [VIMMaster](https://github.com/renzorlive/vimmaster)
+- [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
