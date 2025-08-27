@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
-- [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
-- [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
-- [Firefox Has Moved to Firefox.com](https://www.firefox.com)
-- [Astrophysicists find no &#39;hair&#39; on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
+- [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
+- [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
+- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+- [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
+- [Ask HN: GitHub Copilot down?](https://news.ycombinator.com/item?id=45044919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
