@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Spent over $31,900 on Whiteout Survival – Here&#39;s Why I Regret It](https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/)
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
-- [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
-- [Monodraw](https://monodraw.helftone.com/)
-- [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
-- [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
+- [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
+- [Ember &lpar;YC F24&rpar; Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
+- [How to Slow Down a Program? and Why It Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
