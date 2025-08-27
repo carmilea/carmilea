@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
+- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
+- [Scientist exposes anti-wind groups as oil-funded. Now they want to silence him](https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/)
 - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 - [The man with a Home Computer &lpar;1967&rpar; [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
-- [AI coding made me faster, but I can&#39;t code to music anymore](https://www.praf.me/ai-coding)
-- [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 <!-- BLOG-POST-LIST:END -->
 
 ---
