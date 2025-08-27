@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Whose p*nis is that now? Probably the weirdest website I&#39;ve ever made](https://whosepenis.com/pages/fun)
+- [Firefox Has Moved to Firefox.com](https://www.firefox.com)
+- [House to investigate Wikipedia over allegations of organized bias](https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/)
 - [Astrophysicists find no &#39;hair&#39; on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
-- [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops &lpar;EU, US&rpar;](https://www.ycombinator.com/companies/lago/jobs)
-- [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
+- [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
