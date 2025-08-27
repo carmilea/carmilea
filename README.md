@@ -62,7 +62,7 @@
 - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
 - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
 - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
-- [Ask HN: GitHub Copilot down?](https://news.ycombinator.com/item?id=45044919)
+- [Mapping connections of anti-offshore wind groups and their lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
 <!-- BLOG-POST-LIST:END -->
 
 ---
