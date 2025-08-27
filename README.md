@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
+- [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops &lpar;EU, US&rpar;](https://www.ycombinator.com/companies/lago/jobs)
+- [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
+- [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
+- [Kiwi.com flight search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
 - [VIMMaster](https://github.com/renzorlive/vimmaster)
-- [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
-- [We Rebuilt Cloud Life&#39;s Infrastructure Delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
-- [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
