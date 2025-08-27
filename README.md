@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=3QRCMEy9wu8)
-- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=YULfL2LJJAY)
-- [Code Committers: Alex Lin – Systems Engineering Is Like Solving Mysteries](https://www.youtube.com/shorts/O1YZigoSsmA)
-- [Code Committers: Alex Lin – From Guangzhou to Systems Engineering at SingleStore](https://www.youtube.com/watch?v=gwD4H_SzySU)
-- [Getting Started on SingleStore](https://www.youtube.com/watch?v=Cn9JOZ72oKU)
+- [6. Hands-On with H2O Hydrogen Torch: Deploying an Object Detection Model | H2O MLOps](https://www.youtube.com/watch?v=h-VWGxZaPog)
+- [5. Hands-On Demo: Deploying Models from H2O Driverless AI | H2O MLOps](https://www.youtube.com/watch?v=wfcf9HM0t3Q)
+- [4. Managing Deployments and Model Governance | H2O MLOps](https://www.youtube.com/watch?v=glU-qmjJckk)
+- [3. Understanding the End-to-End MLOps Lifecycle | H2O MLOps](https://www.youtube.com/watch?v=qoa6mJwkaQk)
+- [2. What is MLOps? | H2O MLOps](https://www.youtube.com/watch?v=MeEmVy8P4Rs)
 <!-- YOUTUBE:END -->
 
 
