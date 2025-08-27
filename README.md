@@ -61,8 +61,8 @@
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
 - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
-- [Stop Talking to Technology Executives Like They Have Anything to Say](https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say)
 - [Starship&#39;s Tenth Flight Test](https://www.spacex.com/)
+- [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
