@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Perform Scalable SQL Analytics on Twilio Segment Data Using SingleStore](https://www.singlestore.com/blog/how-to-perform-scalable-sql-analytics-on-twilio-segment-data-using-singlestore)
+- [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
+- [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 - [Scientist exposes anti-wind groups as oil-funded. Now they want to silence him](https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/)
-- [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
-- [The man with a Home Computer &lpar;1967&rpar; [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
