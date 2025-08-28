@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rupert&#39;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+- [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
+- [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
-- [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)
-- [My startup banking story &lpar;2023&rpar;](https://mitchellh.com/writing/my-startup-banking-story)
-- [RFC 8594: The Sunset HTTP Header Field &lpar;2019&rpar;](https://datatracker.ietf.org/doc/html/rfc8594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
