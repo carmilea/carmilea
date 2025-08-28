@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
+- [Launch HN: Dedalus Labs &lpar;YC S25&rpar; – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 - [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
-- [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
-- [Optimising for maintainability – Gleam in production at Strand](https://gleam.run/case-studies/strand/)
-- [Anything can be a message queue if you use it wrongly enough &lpar;2023&rpar;](https://xeiaso.net/blog/anything-message-queue)
+- [Updates to Consumer Terms and Privacy Policy](https://www.anthropic.com/news/updates-to-our-consumer-terms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
