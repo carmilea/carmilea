@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Decode &amp; Decaf with SingleStore - Shared Screen - Aug 25, 2025 07_43 PM - 51m 10s.](https://www.youtube.com/watch?v=Mf3slprPnQE)
+- [Decode &amp; Decaf with SingleStore - Aug 25, 2025 07_43 PM - 51m 10s.](https://www.youtube.com/watch?v=XcbzZZsYMPw)
 - [6. Hands-On with H2O Hydrogen Torch: Deploying an Object Detection Model | H2O MLOps](https://www.youtube.com/watch?v=h-VWGxZaPog)
 - [5. Hands-On Demo: Deploying Models from H2O Driverless AI | H2O MLOps](https://www.youtube.com/watch?v=wfcf9HM0t3Q)
 - [4. Managing Deployments and Model Governance | H2O MLOps](https://www.youtube.com/watch?v=glU-qmjJckk)
-- [3. Understanding the End-to-End MLOps Lifecycle | H2O MLOps](https://www.youtube.com/watch?v=qoa6mJwkaQk)
-- [2. What is MLOps? | H2O MLOps](https://www.youtube.com/watch?v=MeEmVy8P4Rs)
 <!-- YOUTUBE:END -->
 
 
