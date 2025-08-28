@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenRouter is down](https://status.openrouter.ai)
+- [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 - [The Forecasting Company &lpar;YC S24&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
-- [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
-- [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
