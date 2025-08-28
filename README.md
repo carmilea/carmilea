@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
+- [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
+- [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
+- [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 - [Rendering an ASCII game in real-time with AI &lpar;100ms latency&rpar;](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
-- [Prosper AI &lpar;YC S23&rpar; Is Hiring Founding Account Executives &lpar;NYC&rpar;](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
-- [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
-- [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
-- [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
