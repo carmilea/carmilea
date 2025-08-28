@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+- [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
+- [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)
 - [My startup banking story &lpar;2023&rpar;](https://mitchellh.com/writing/my-startup-banking-story)
-- [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
-- [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
-- [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
-- [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
+- [RFC 8594: The Sunset HTTP Header Field &lpar;2019&rpar;](https://datatracker.ietf.org/doc/html/rfc8594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
