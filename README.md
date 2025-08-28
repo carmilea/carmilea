@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil offers America a lesson in democratic maturity](https://www.economist.com/leaders/2025/08/28/brazil-offers-america-a-lesson-in-democratic-maturity)
-- [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
-- [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
-- [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
-- [Prosper AI &lpar;YC S23&rpar; Is Hiring Founding Account Executives &lpar;NYC&rpar;](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
+- [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
+- [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
+- [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
+- [Optimising for maintainability – Gleam in production at Strand](https://gleam.run/case-studies/strand/)
+- [Anything can be a message queue if you use it wrongly enough &lpar;2023&rpar;](https://xeiaso.net/blog/anything-message-queue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
