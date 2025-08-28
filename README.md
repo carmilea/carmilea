@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing infrared: contact lenses that grant &#39;super-vision&#39;](https://www.theguardian.com/science/2025/may/22/infrared-contact-lenses-super-vision)
+- [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
+- [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
+- [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
 - [Uncertain&lt;T&gt;](https://nshipster.com/uncertainty/)
 - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
-- [Colleges see significant drop in international students as fall semester begins](https://text.npr.org/nx-s1-5498669)
-- [Launch HN: Dedalus Labs &lpar;YC S25&rpar; – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
