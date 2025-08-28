@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
-- [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
-- [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
-- [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
-- [Rendering an ASCII game in real-time with AI &lpar;100ms latency&rpar;](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
+- [Google Debuts Device-Bound Session Credentials Against Session Hijacking](https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking)
+- [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)
+- [The sisters &quot;paradox&quot; – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
+- [LLMs solving problems OCR+NLP couldn&#39;t](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
+- [The cost of transparency: Living with schizoaffective disorder in tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
