@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
-- [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
+- [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
+- [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
 - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
