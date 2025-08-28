@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The National Design Studio Is a Scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
+- [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
+- [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
 - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
+- [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
-- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
-- [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
