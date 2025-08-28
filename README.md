@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Debuts Device-Bound Session Credentials Against Session Hijacking](https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking)
-- [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)
-- [The sisters &quot;paradox&quot; – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
-- [LLMs solving problems OCR+NLP couldn&#39;t](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
-- [The cost of transparency: Living with schizoaffective disorder in tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
+- [Brazil offers America a lesson in democratic maturity](https://www.economist.com/leaders/2025/08/28/brazil-offers-america-a-lesson-in-democratic-maturity)
+- [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
+- [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
+- [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
+- [Prosper AI &lpar;YC S23&rpar; Is Hiring Founding Account Executives &lpar;NYC&rpar;](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
