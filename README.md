@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Forecasting Company &lpar;YC S24&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
 - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
-- [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
