@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rendering an ASCII game in real-time with AI &lpar;100ms latency&rpar;](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
+- [Prosper AI &lpar;YC S23&rpar; Is Hiring Founding Account Executives &lpar;NYC&rpar;](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
+- [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
+- [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
 - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
-- [OpenRouter is down](https://status.openrouter.ai)
-- [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
-- [The Forecasting Company &lpar;YC S24&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
-- [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
