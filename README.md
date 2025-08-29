@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 - [A deep dive into Debian 13 /tmp: What&#39;s new, and what to do if you don&#39;t like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 - [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
-- [RSS is awesome](https://evanverma.com/rss-is-awesome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
