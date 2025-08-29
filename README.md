@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
-- [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
-- [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
-- [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
-- [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
+- [Wikipedia as a Graph](https://wikigrapher.com/paths)
+- [German Economist fined €16,100 for sarcastic X posts](https://reclaimthenet.org/german-economist-fined-for-sarcastic-posts-on-politicians-journalist)
+- [Amtrak&#39;s New Acela Trains Are Here. They&#39;re Moving Slower Than the Old Ones](https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127)
+- [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
+- [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
