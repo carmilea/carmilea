@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Income Equality in Nordic Countries: Myths, Facts, and Lessons](https://www.aeaweb.org/articles?id=10.1257/jel.20251636)
+- [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)
 - [SQLite&#39;s Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 - [Thunder Compute &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
-- [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
-- [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
