@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
 - [A deep dive into Debian 13 /tmp: What&#39;s new, and what to do if you don&#39;t like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
-- [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
