@@ -61,8 +61,8 @@
 - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 - [Python: The Documentary](https://lwn.net/Articles/1035537/)
 - [RSS is awesome](https://evanverma.com/rss-is-awesome)
+- [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
 - [Rupert&#39;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
-- [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint &lpar;2019&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
