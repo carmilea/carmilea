@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)
+- [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
+- [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
-- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
-- [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
-- [SQLite&#39;s Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
-- [Thunder Compute &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
+- [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
