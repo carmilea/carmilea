@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
-- [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
 - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
