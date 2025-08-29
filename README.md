@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite&#39;s Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 - [Thunder Compute &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
-- [John Carmack&#39;s arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
-- [Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg every time](https://ffmpegs.pages.dev/)
 - [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
+- [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
