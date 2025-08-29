@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)
+- [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
 - [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
