@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia as a Graph](https://wikigrapher.com/paths)
-- [German Economist fined €16,100 for sarcastic X posts](https://reclaimthenet.org/german-economist-fined-for-sarcastic-posts-on-politicians-journalist)
-- [Amtrak&#39;s New Acela Trains Are Here. They&#39;re Moving Slower Than the Old Ones](https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127)
-- [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
-- [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
+- [Thunder Compute &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
+- [John Carmack&#39;s arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
+- [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
+- [Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg every time](https://ffmpegs.pages.dev/)
+- [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
