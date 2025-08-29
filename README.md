@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
-- [Python: The Documentary](https://lwn.net/Articles/1035537/)
+- [A deep dive into Debian 13 /tmp: What&#39;s new, and what to do if you don&#39;t like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+- [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
+- [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+- [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 - [RSS is awesome](https://evanverma.com/rss-is-awesome)
-- [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
-- [Rupert&#39;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
