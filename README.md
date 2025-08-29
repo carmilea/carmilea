@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
+- [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
+- [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
 - [A Dark Money Group Is Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
 - [Gun Maker Sig Sauer Citing National Security to Keep Documents from Public](https://practicalshootinginsights.com/eighth-circuit-fmeca-update/)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Meta might be secretly scanning your phone&#39;s camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/)
-- [If you have a Claude account, they&#39;re going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
