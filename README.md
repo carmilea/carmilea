@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+- [Python: The Documentary](https://lwn.net/Articles/1035537/)
+- [RSS is awesome](https://evanverma.com/rss-is-awesome)
 - [Rupert&#39;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
-- [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
-- [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
-- [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
-- [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+- [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint &lpar;2019&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
