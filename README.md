@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
+- [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
+- [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
 - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
-- [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
-- [A Dark Money Group Is Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
-- [Gun Maker Sig Sauer Citing National Security to Keep Documents from Public](https://practicalshootinginsights.com/eighth-circuit-fmeca-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
