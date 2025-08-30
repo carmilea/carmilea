@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
+- [New interpretations suggest the &quot;heat death&quot; hypothesis might not hold &lpar;2023&rpar;](https://www.noemamag.com/life-need-not-ever-end/)
 - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
 - [Condor&#39;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
-- [Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations](https://github.com/orispok/OpenAnimationApp)
-- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 <!-- BLOG-POST-LIST:END -->
 
 ---
