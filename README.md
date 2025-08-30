@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
-- [The V Programming Language](https://vlang.io/)
+- [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
+- [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
+- [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 - [New interpretations suggest the &quot;heat death&quot; hypothesis might not hold &lpar;2023&rpar;](https://www.noemamag.com/life-need-not-ever-end/)
-- [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
-- [Condor&#39;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
+- [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
