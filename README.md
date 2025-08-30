@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 - [Fun and Immersive Typing Game](https://keybara.io)
 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 - [Accelerating life sciences research](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
 - [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
-- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
