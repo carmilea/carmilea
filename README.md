@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
+- [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)
 - [Fun and Immersive Typing Game](https://keybara.io)
 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 - [Accelerating life sciences research](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
-- [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
