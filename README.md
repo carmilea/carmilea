@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
-- [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
-- [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
-- [You Have to Feel It](https://mitchellh.com/writing/feel-it)
-- [Condor&#39;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
+- [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
+- [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
+- [The space race is transforming Southern California&#39;s economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
+- [Are we decentralized yet?](https://arewedecentralizedyet.online/)
+- [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
