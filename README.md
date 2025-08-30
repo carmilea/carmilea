@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
-- [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
-- [New interpretations suggest the &quot;heat death&quot; hypothesis might not hold &lpar;2023&rpar;](https://www.noemamag.com/life-need-not-ever-end/)
+- [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
 - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
+- [Condor&#39;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
