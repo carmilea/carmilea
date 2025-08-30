@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fun and Immersive Typing Game](https://keybara.io)
 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-- [OpenAI tackling life extension with LLMs](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
-- [SynthID](https://deepmind.google/science/synthid/)
+- [Accelerating life sciences research](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
+- [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
 - [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
-- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
