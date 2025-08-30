@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It turns out Nokia&#39;s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
+- [You do not need &quot;analytics&quot; for your blog](https://www.thisdaysportion.com/posts/contra-analytics/)
+- [Amiga Hardware Reference Manual 3rd Edition &lpar;1991&rpar;](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-- [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
-- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
-- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
