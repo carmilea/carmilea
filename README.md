@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
+- [Condor&#39;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
+- [Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations](https://github.com/orispok/OpenAnimationApp)
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
-- [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
-- [F-Stack – A network development kit with high performance based on DPDK](https://www.f-stack.org/)
-- [Nokia’s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
