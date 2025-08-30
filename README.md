@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
+- [House Republicans want to dox Wikipedia editors over &#39;bias&#39; complaints](https://www.techdirt.com/2025/08/29/house-republicans-want-to-doxx-wikipedia-editors-over-bogus-bias-complaints/)
+- [Pentagon Docs: US Wants to &quot;Suppress Dissenting Arguments&quot; Using AI Propaganda](https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/)
+- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
+- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
 - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
-- [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
-- [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
-- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
