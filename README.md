@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI cyber cop: Salt Typhoon pwned &#39;nearly every American&#39;](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
+- [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
-- [F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS](https://www.f-stack.org/)
-- [De minimis has ended](https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/)
-- [It turns out Nokia&#39;s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
+- [F-Stack – A network development kit with high performance based on DPDK](https://www.f-stack.org/)
+- [Nokia’s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
