@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
-- [Mark Zuckerberg&#39;s AI dream team seems to be falling apart](https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/)
+- [Code Is Debt](https://tornikeo.com/code-is-debt/)
 - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
-- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
-- [How do you fight YouTube addiction and procrastination? I&#39;m struggling with it](https://news.ycombinator.com/item?id=45085014)
+- [Use One Big Server &lpar;2022&rpar;](https://specbranch.com/posts/one-big-server/)
+- [Ask HN: How do you fight YouTube addiction and procrastination? I&#39;m struggling](https://news.ycombinator.com/item?id=45085014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
