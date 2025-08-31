@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
-- [Family of MSFT employee who died warn tech companies not to overwork workers](https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/)
-- [eBPF 101: Your First Step into Kernel Programming](https://journal.hexmos.com/ebpf-introduction/)
-- [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
-- [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
+- [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
+- [Mark Zuckerberg&#39;s AI dream team seems to be falling apart](https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/)
+- [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
+- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+- [How do you fight YouTube addiction and procrastination? I&#39;m struggling with it](https://news.ycombinator.com/item?id=45085014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
