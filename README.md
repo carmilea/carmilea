@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to poop outdoors in a way that won&#39;t harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
 - [Eternal Struggle](https://yoavg.github.io/eternal/)
 - [Code Is Debt](https://tornikeo.com/code-is-debt/)
-- [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
