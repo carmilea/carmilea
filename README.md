@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
+- [How to poop outdoors in a way that won&#39;t harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
+- [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- [Eternal Struggle](https://yoavg.github.io/eternal/)
 - [Code Is Debt](https://tornikeo.com/code-is-debt/)
 - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
-- [Use One Big Server &lpar;2022&rpar;](https://specbranch.com/posts/one-big-server/)
-- [Ask HN: How do you fight YouTube addiction and procrastination? I&#39;m struggling](https://news.ycombinator.com/item?id=45085014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
