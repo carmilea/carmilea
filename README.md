@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracks in the Earth Are Slicing Through Cities](https://www.scientificamerican.com/article/giant-gullies-in-the-earth-threaten-cities-in-africa-amid-rapid-urbanization/)
+- [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
+- [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
+- [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
 - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
-- [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
-- [Google: &#39;Your $1000 phone needs our permission to install apps now&#39; [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
-- [&quot;This telegram must be closely paraphrased before being communicated&quot; Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
-- [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 <!-- BLOG-POST-LIST:END -->
 
 ---
