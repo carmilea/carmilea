@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 - [Git Diagramming &quot;The Weave&quot;](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 - [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
-- [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
-- [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
+- [Show HN: Q.js – Smaller than React/Vue, yet more powerful &lpar;40KB gzipped&rpar;](https://github.com/Qbix/Q.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
