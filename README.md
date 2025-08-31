@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
 - [&quot;This telegram must be closely paraphrased before being communicated&quot; Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+- [Why haven&#39;t quantum computers factored 21 yet?](https://algassert.com/post/2500)
 - [Channel3 &lpar;YC S25&rpar; Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
 - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
-- [Sometimes Software Is Done, or Why Hugo Why &lpar;2024&rpar;](https://commaok.xyz/post/on_hugo/)
-- [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
