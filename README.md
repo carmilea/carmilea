@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracks in the Earth Are Slicing Through Cities](https://www.scientificamerican.com/article/giant-gullies-in-the-earth-threaten-cities-in-africa-amid-rapid-urbanization/)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
+- [Family of MSFT employee who died warn tech companies not to overwork workers](https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/)
+- [eBPF 101: Your First Step into Kernel Programming](https://journal.hexmos.com/ebpf-introduction/)
 - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
 - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
-- [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
-- [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
