@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sheafification - The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
+- [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
+- [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
-- [Are people&#39;s bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
-- [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
-- [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
+- [Red: A programming language inspired by REBOL](https://github.com/red/red)
+- [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
