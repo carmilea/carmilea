@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
 - [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
 - [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
+- [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
 - [Affiliates flock to scam gambling machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
-- [Man declares country in unclaimed pocket of land between Serbia and Croatia](https://www.nbcnews.com/world/europe/viva-verdis-man-declares-country-unclaimed-pocket-land-serbia-croatia-rcna228004)
-- [Six months into tariffs, businesses have no idea how to price anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
