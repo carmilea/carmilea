@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;This telegram must be closely paraphrased before being communicated&quot; Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 - [Channel3 &lpar;YC S25&rpar; Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
 - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
-- [Show HN: Banana AI – Completely free Nano Banana image editing](https://banana-ai.org/)
+- [Sometimes Software Is Done, or Why Hugo Why &lpar;2024&rpar;](https://commaok.xyz/post/on_hugo/)
 - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
-- [Git Diagramming &quot;The Weave&quot;](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
