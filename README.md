@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to poop outdoors in a way that won&#39;t harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
 - [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
+- [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 - [Eternal Struggle](https://yoavg.github.io/eternal/)
-- [Code Is Debt](https://tornikeo.com/code-is-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
