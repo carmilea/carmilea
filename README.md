@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
+- [Channel3 &lpar;YC S25&rpar; Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
+- [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
+- [Show HN: Banana AI – Completely free Nano Banana image editing](https://banana-ai.org/)
 - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 - [Git Diagramming &quot;The Weave&quot;](https://daverupert.com/2025/08/git-diagramming-the-weave/)
-- [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
-- [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
