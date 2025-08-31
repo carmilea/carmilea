@@ -62,7 +62,7 @@
 - [Git Diagramming &quot;The Weave&quot;](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 - [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
-- [Show HN: Q.js – Smaller than React/Vue, yet more powerful &lpar;40KB gzipped&rpar;](https://github.com/Qbix/Q.js)
+- [Red: A programming language inspired by REBOL](https://github.com/red/red)
 <!-- BLOG-POST-LIST:END -->
 
 ---
