@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Diagramming &quot;The Weave&quot;](https://daverupert.com/2025/08/git-diagramming-the-weave/)
+- [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
 - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
-- [Red: A programming language inspired by REBOL](https://github.com/red/red)
-- [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
