@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optery &lpar;YC W22&rpar; Is Hiring in Engineering, Legal, Sales, Marketing &lpar;U.S., Latam&rpar;](https://www.optery.com/careers/)
+- [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
+- [The car is not the future: On the myth of motorized freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
+- [A Unique, High-Tech &lpar;Family&rpar; Computer](https://nicole.express/2025/a-computer-in-your-home.html)
 - [The time picker on the iPhone&#39;s alarm app isn&#39;t circular, it&#39;s just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
-- [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
-- [Isolated&lpar;any&rpar;](https://nshipster.com/isolated-any/)
-- [Anti-establishment versus authoritarian populists and support for the strongman](https://www.frontiersin.org/articles/10.3389/fpos.2025.1605460)
-- [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
