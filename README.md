@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
+- [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
 - [Intel Patents &#39;Software Defined Supercore&#39;](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
 - [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
 - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
-- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
+- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and interns &lpar;on-site in Berlin&rpar;](https://hi.telli.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
