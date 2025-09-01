@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)
-- [The Physics of Sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-- [Desiccant dehumidifiers are fascinating but not for everyone [video]](https://www.youtube.com/watch?v=JzClLWL-Eys)
-- [Desert Graves](https://www.desertmountaineer.com/2021/08/06/graves/)
+- [Don&#39;t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
+- [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
+- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+- [Desert Graves &lpar;2021&rpar;](https://www.desertmountaineer.com/2021/08/06/graves/)
 - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 <!-- BLOG-POST-LIST:END -->
 
