@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
 - [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
 - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
-- [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
