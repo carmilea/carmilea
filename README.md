@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The time picker on the iPhone&#39;s alarm app isn&#39;t circular, it&#39;s just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
+- [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
+- [Isolated&lpar;any&rpar;](https://nshipster.com/isolated-any/)
+- [Anti-establishment versus authoritarian populists and support for the strongman](https://www.frontiersin.org/articles/10.3389/fpos.2025.1605460)
 - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
-- [&quot;Turns out Google made up an elaborate story about me&quot;](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
-- [Git for Music – Using Version Control for Music Production &lpar;2023&rpar;](https://grechin.org/2023/05/06/git-and-reaper.html)
-- [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
-- [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
