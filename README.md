@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
-- [Intel Patents &#39;Software Defined Supercore&#39;](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
-- [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
-- [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
-- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and interns &lpar;on-site in Berlin&rpar;](https://hi.telli.com/join-us)
+- [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
+- [&quot;Turns out Google made up an elaborate story about me&quot;](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
+- [Git for Music – Using Version Control for Music Production &lpar;2023&rpar;](https://grechin.org/2023/05/06/git-and-reaper.html)
+- [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
+- [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
