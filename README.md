@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
 - [National Grid: UK&#39;s largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 - [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
