@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patrick Winston: How to Speak &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [SparseLoCo: Communication-Efficient LLM Training](https://arxiv.org/abs/2508.15706)
-- [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
-- [Thoughts on &lpar;Amazonian&rpar; leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
-- [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
+- [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)
+- [The Physics of Sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+- [Desiccant dehumidifiers are fascinating but not for everyone [video]](https://www.youtube.com/watch?v=JzClLWL-Eys)
+- [Desert Graves](https://www.desertmountaineer.com/2021/08/06/graves/)
+- [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
