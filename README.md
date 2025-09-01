@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Territorial Markings as a Predictor of Driver Aggression and Road Rage &lpar;2008&rpar;](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
+- [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
+- [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 - [Optery &lpar;YC W22&rpar; Is Hiring in Engineering, Legal, Sales, Marketing &lpar;U.S., Latam&rpar;](https://www.optery.com/careers/)
 - [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
-- [The car is not the future: On the myth of motorized freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
-- [A Unique, High-Tech &lpar;Family&rpar; Computer](https://nicole.express/2025/a-computer-in-your-home.html)
-- [The time picker on the iPhone&#39;s alarm app isn&#39;t circular, it&#39;s just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
