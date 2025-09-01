@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
 - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
 - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
-- [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-- [Best practices for dealing with human waste in the great outdoors](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
