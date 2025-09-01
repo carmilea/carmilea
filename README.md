@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon has mostly sat out the AI talent war. This internal document reveals why](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+- [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 - [Territorial Markings as a Predictor of Driver Aggression and Road Rage &lpar;2008&rpar;](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
 - [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 - [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
-- [Optery &lpar;YC W22&rpar; Is Hiring in Engineering, Legal, Sales, Marketing &lpar;U.S., Latam&rpar;](https://www.optery.com/careers/)
-- [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
