@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A motto for programmers: &quot;Tuere usorem, data, veritatem&quot;](https://koas.dev/a-motto-for-programming/)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
 - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
 - [Collecting All Causal Knowledge](https://causenet.org/)
+- [Keyboards from my collection &lpar;2023&rpar;](https://aresluna.org/50-keyboards-from-my-collection/)
 - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 <!-- BLOG-POST-LIST:END -->
 
