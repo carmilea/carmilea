@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europol said ChatControl doesn&#39;t go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
+- [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
+- [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
 - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
-- [Collecting All Causal Knowledge](https://causenet.org/)
-- [Keyboards from my collection &lpar;2023&rpar;](https://aresluna.org/50-keyboards-from-my-collection/)
-- [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
