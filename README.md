@@ -62,7 +62,7 @@
 - [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
 - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
-- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+- [Kazeta: An operating system that brings the console gaming experience of 90s](https://kazeta.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
