@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
+- [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
+- [The Wetware Crisis: The Thermocline of Truth &lpar;2008&rpar;](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
-- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
 - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
-- [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
-- [Kazeta: An operating system that brings the console gaming experience of 90s](https://kazeta.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
