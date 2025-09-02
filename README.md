@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
+- [You can try to like stuff](https://dynomight.net/liking/)
+- [RubyMine Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
 - [What&#39;s New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
 - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
-- [Kapa.ai &lpar;YC S23&rpar; is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
-- [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
-- [Collecting All Causal Knowledge](https://causenet.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
