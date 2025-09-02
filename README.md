@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
-- [You can try to like stuff](https://dynomight.net/liking/)
-- [RubyMine Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
+- [Imgur&#39;s Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
+- [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
+- [RubyMine is now free for non-commercial use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
+- [Toronto’s underground labyrinth](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
 - [What&#39;s New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
-- [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
