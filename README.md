@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic to counteract usage of Claude Code for &quot;vibe hacking&quot;](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+- [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
+- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
 - [Don&#39;t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 - [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-- [Desert Graves &lpar;2021&rpar;](https://www.desertmountaineer.com/2021/08/06/graves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
