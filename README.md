@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
+- [You don&#39;t want to hire &quot;the best engineers&quot;](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
 - [Imgur&#39;s Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
 - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 - [RubyMine is now free for non-commercial use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
-- [Toronto’s underground labyrinth](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
-- [What&#39;s New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
