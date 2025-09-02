@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
+- [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
+- [X&lpar;Twitter&rpar; Shadow Bans Turkish Presidential Candidate](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
+- [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
+- [Why teach calculus in the age of AI](https://mappingignorance.org/2025/08/18/why-teach-calculus-in-the-age-of-ai/)
 - [You don&#39;t want to hire &quot;the best engineers&quot;](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
-- [Imgur&#39;s Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
-- [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
-- [RubyMine is now free for non-commercial use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
