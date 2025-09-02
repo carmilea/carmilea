@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-- [U.S. Emissions Rise 4.2%, China&#39;s Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
+- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 - [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
-- [First attempt will be 95% garbage: 6 weeks with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+- [A staff engineer&#39;s journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
 - [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
+- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
