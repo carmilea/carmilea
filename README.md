@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
+- [Kapa.ai &lpar;YC S23&rpar; is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
+- [Vibe coding as a VC](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
+- [Collecting All Causal Knowledge](https://causenet.org/)
 - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 - [The Wetware Crisis: The Thermocline of Truth &lpar;2008&rpar;](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
-- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
-- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
