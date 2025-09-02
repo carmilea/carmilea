@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
+- [The Kafka Replication Protocol with KIP-966](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
+- [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/)
 - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
-- [Python has had async for 10 years – why isn&#39;t it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
-- [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
-- [We already live in social credit, we just don&#39;t call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
-- [&#39;World Models,&#39; an old idea in AI, mount a comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
+- [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
