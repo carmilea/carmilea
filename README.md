@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Argue with an AI Booster](https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/)
-- [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
-- [Launch HN: Datafruit &lpar;YC S25&rpar; – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
-- [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
-- [X&lpar;Twitter&rpar; Shadow Bans Turkish Presidential Candidate](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
+- [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+- [Python has had async for 10 years – why isn&#39;t it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
+- [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
+- [We already live in social credit, we just don&#39;t call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
+- [&#39;World Models,&#39; an old idea in AI, mount a comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
