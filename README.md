@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
+- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
 - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
-- [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
+- [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
 - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-- [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
-- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
