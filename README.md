@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Argue with an AI Booster](https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/)
+- [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
+- [Launch HN: Datafruit &lpar;YC S25&rpar; – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 - [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
 - [X&lpar;Twitter&rpar; Shadow Bans Turkish Presidential Candidate](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
-- [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
-- [Why teach calculus in the age of AI](https://mappingignorance.org/2025/08/18/why-teach-calculus-in-the-age-of-ai/)
-- [You don&#39;t want to hire &quot;the best engineers&quot;](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
