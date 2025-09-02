@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
+- [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
+- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
+- [Civics Is Boring. So, Let&#39;s Encrypt Something](https://queue.acm.org/detail.cfm?id=3703126)
 - [The Kafka Replication Protocol with KIP-966](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
 - [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/)
-- [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
-- [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
