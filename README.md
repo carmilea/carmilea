@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 - [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
 - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-- [Don&#39;t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 - [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 <!-- BLOG-POST-LIST:END -->
