@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
+- [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [We&#39;re Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
 - [6NF File Format](https://habr.com/en/articles/942516/)
-- [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
-- [Poor man&#39;s bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
-- [Microsoft Releases Historic 6502 Basic](https://github.com/microsoft/BASIC-M6502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
