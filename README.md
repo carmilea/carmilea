@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Coltrane&#39;s Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
 - [MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
 - [Dynamo AI &lpar;YC W22&rpar; Is Hiring for AI Product Managers](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai)
 - [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
 - [Energy Dashboard &lpar;UK&rpar;](https://www.energydashboard.co.uk/map)
-- [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
