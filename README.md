@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [6NF File Format](https://habr.com/en/articles/942516/)
 - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 - [Poor man&#39;s bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 - [Microsoft Releases Historic 6502 Basic](https://github.com/microsoft/BASIC-M6502)
-- [Show HN: Entropy-Guided Loop – How to make small models reason](https://github.com/monostate/weave-logprobs-reasoning-loop)
-- [Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
