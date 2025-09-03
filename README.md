@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
-- [Finding thousands of exposed Ollama instances using Shodan](https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama)
-- [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
-- [AI is going great for the blind &lpar;2023&rpar;](https://robertkingett.com/posts/6230/)
-- [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
+- [MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
+- [Dynamo AI &lpar;YC W22&rpar; Is Hiring for AI Product Managers](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai)
+- [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
+- [Energy Dashboard &lpar;UK&rpar;](https://www.energydashboard.co.uk/map)
+- [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
