@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;webhooks as a service&rpar; is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
+- [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
 - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
 - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
-- [Launch HN: Risely &lpar;YC S25&rpar; – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
-- [A Random Walk in 10 Dimensions &lpar;2021&rpar;](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
-- [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
+- [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
