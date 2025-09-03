@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix &lpar;webhooks as a service&rpar; is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
-- [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
-- [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
-- [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
-- [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
+- [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
+- [Poor man&#39;s bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
+- [Microsoft Releases Historic 6502 Basic](https://github.com/microsoft/BASIC-M6502)
+- [Show HN: Entropy-Guided Loop – How to make small models reason](https://github.com/monostate/weave-logprobs-reasoning-loop)
+- [Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
