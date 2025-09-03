@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel AI Agents Are a Game Changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
-- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-- [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
-- [A staff engineer&#39;s journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
-- [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
+- [I want to be left alone](https://blog.ctms.me/posts/2024-07-26-i-want-to-be-left-alone/)
+- [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
+- [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
+- [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
+- [This blog is running on a recycled Google Pixel 5 &lpar;2024&rpar;](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
