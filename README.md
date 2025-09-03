@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
 - [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
 - [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
 - [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
 - [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
-- [This blog is running on a recycled Google Pixel 5 &lpar;2024&rpar;](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
