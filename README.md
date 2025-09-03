@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbus B612 Cockpit Font](https://github.com/polarsys/b612)
-- [Today, I learned that eels are fish](https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08)
-- [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
-- [Sharing a mutable reference between Rust and Python](https://blog.lilyf.org/posts/python-mutable-reference/)
-- [For all that&#39;s holy, can you just leverage the Web, please?](https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/)
+- [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
+- [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
+- [Launch HN: Risely &lpar;YC S25&rpar; – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
+- [A Random Walk in 10 Dimensions &lpar;2021&rpar;](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
+- [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
