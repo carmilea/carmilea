@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finnish City Inaugurates 1 MW/100 MWh Sand Battery](https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/)
 - [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
 - [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
 - [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
 - [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
-- [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
