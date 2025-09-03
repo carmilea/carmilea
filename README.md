@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where&#39;s the shovelware? Why AI coding claims don&#39;t add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 - [Depot &lpar;YC W23&rpar; Is Hiring a Solutions Engineer &lpar;Remote US and Canada&rpar;](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
-- [Gleam Gathering 2026](https://gleamgathering.com/)
 - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 <!-- BLOG-POST-LIST:END -->
