@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
-- [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
-- [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
-- [We Found the Hidden Cost of Data Centers. It&#39;s in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
-- [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
+- [Show HN: A Map of All YC Companies &lpar;5,300 Startups by Batch and Location&rpar;](https://yc.foundersaround.com/)
+- [Show HN: I built FlipCards – a flashcard app with variations to improve learning](https://flipcardsapp.vercel.app/)
+- [Pump the Brakes on Your Police Department&#39;s Use of Flock Safety](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+- [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+- [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
