@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where&#39;s the shovelware? Why AI coding claims don&#39;t add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Solutions Engineer &lpar;Remote US and Canada&rpar;](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
-- [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
-- [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
+- [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
+- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
+- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
