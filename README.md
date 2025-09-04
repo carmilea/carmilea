@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
+- [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
+- [William Wordsworth&#39;s letter: &quot;The Law of Copyright&quot; &lpar;1838&rpar;](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
 - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
-- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
-- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
