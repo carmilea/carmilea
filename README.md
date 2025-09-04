@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Atomic Bombs Exploded on Earth](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
-- [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
+- [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
+- [LLM Visualization](https://bbycroft.net/llm)
 - [Artie &lpar;YC S23&rpar; Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
-- [AI Not Affecting Job Market Much So Far, New York Fed Says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
+- [AI not affecting job market much so far, New York Fed says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
 - [A PM&#39;s Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
 <!-- BLOG-POST-LIST:END -->
 
