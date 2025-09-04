@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
+- [Amazon RTO policy is costing it top tech talent, according to internal document](https://www.businessinsider.com/amazon-rto-policy-costing-it-top-tech-talent-ai-recruiters-2025-9)
 - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 - [Classic 8×8-pixel B&amp;W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
-- [LLM Visualization](https://bbycroft.net/llm)
-- [The thousands of atomic bombs exploded on Earth &lpar;2015&rpar;](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
