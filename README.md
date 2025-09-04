@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liquid Glass? That&#39;s what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
-- [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
-- [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
-- [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
-- [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
+- [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
+- [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
+- [The Browser Company &lpar;Arc, Dia&rpar; Has Been Acquired by Atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company)
+- [Volkswagen to make EVs more affordable, starting with the ID.Polo and a new SUV](https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/)
+- [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
