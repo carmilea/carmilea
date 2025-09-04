@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
 - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
 - [We Found the Hidden Cost of Data Centers. It&#39;s in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
 - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
 - [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)
-- [The Browser Company &lpar;Arc, Dia&rpar; Has Been Acquired by Atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
