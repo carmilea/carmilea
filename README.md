@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
+- [We Found the Hidden Cost of Data Centers. It&#39;s in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
 - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
+- [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)
 - [The Browser Company &lpar;Arc, Dia&rpar; Has Been Acquired by Atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company)
-- [Volkswagen to make EVs more affordable, starting with the ID.Polo and a new SUV](https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/)
-- [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
