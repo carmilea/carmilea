@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
+- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+- [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
-- [Amazon RTO policy is costing it top tech talent, according to internal document](https://www.businessinsider.com/amazon-rto-policy-costing-it-top-tech-talent-ai-recruiters-2025-9)
-- [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
-- [Classic 8×8-pixel B&amp;W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
-- [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
