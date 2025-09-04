@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Atomic Bombs Exploded on Earth](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
+- [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
 - [Artie &lpar;YC S23&rpar; Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
-- [Age Simulation Suit](https://www.age-simulation-suit.com/)
-- [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
-- [Launch HN: Slashy &lpar;YC S25&rpar; – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
-- [Show HN: A Map of All YC Companies &lpar;5,300 Startups by Batch and Location&rpar;](https://yc.foundersaround.com/)
+- [AI Not Affecting Job Market Much So Far, New York Fed Says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
+- [A PM&#39;s Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
