@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Glass? That&#39;s what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
+- [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
 - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
 - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
-- [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
-- [William Wordsworth&#39;s letter: &quot;The Law of Copyright&quot; &lpar;1838&rpar;](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
