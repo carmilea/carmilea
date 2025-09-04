@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artie &lpar;YC S23&rpar; Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
+- [Age Simulation Suit](https://www.age-simulation-suit.com/)
+- [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
+- [Launch HN: Slashy &lpar;YC S25&rpar; – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 - [Show HN: A Map of All YC Companies &lpar;5,300 Startups by Batch and Location&rpar;](https://yc.foundersaround.com/)
-- [Show HN: I built FlipCards – a flashcard app with variations to improve learning](https://flipcardsapp.vercel.app/)
-- [Pump the Brakes on Your Police Department&#39;s Use of Flock Safety](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
-- [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
-- [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
