@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a High Schooler. AI Is Demolishing My Education](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
 - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 - [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
 - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
 - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
+- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
