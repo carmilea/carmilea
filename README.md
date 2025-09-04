@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
+- [Classic 8×8-pixel B&amp;W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 - [LLM Visualization](https://bbycroft.net/llm)
-- [Artie &lpar;YC S23&rpar; Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
-- [AI not affecting job market much so far, New York Fed says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
-- [A PM&#39;s Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
+- [The thousands of atomic bombs exploded on Earth &lpar;2015&rpar;](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
