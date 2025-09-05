@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
-- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
-- [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
-- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-- [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
+- [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
+- [Forking Chrome to Run in the Terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
+- [Coalition for Metabolic Health Launches with $50M](https://coalitionformetabolichealth.org/news/coalition-for-metabolic-health-launches-as-part-of-50-million-investment-to-tackle-americas-health-crisis/)
+- [Evolving the OCaml Programming Language &lpar;2025&rpar;](https://kcsrk.info/talks#Evolution_Ashoka_2025)
+- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
