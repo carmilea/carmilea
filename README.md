@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)
+- [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
+- [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
+- [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
 - [Django + SingleStore Integration Guide](https://www.singlestore.com/blog/django-singlestore-integration-guide)
 - [Retrieval-Augmented Generation &lpar;RAG&rpar; for Real-World Machine Learning](https://www.singlestore.com/blog/retrieval-augmented-generation-rag-for-real-world-machine-learning)
-- [South Korea: &#39;many&#39; of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)
-- [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
