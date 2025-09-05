@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
-- [Forking Chrome to Run in the Terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
-- [Coalition for Metabolic Health Launches with $50M](https://coalitionformetabolichealth.org/news/coalition-for-metabolic-health-launches-as-part-of-50-million-investment-to-tackle-americas-health-crisis/)
-- [Evolving the OCaml Programming Language &lpar;2025&rpar;](https://kcsrk.info/talks#Evolution_Ashoka_2025)
+- [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
+- [Evolving the OCaml Programming Language &lpar;2025&rpar; [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 - [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
+- [Unix Conspiracy &lpar;1991&rpar;](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
