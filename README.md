@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. imposes sanctions on 3 Palestinian human rights groups](https://www.reuters.com/world/middle-east/us-imposes-sanctions-palestinians-who-asked-israel-war-crimes-probe-2025-09-04/)
-- [I have two Amazon Echos that I never use, but they apparently burn GBs a day](https://twitter.com/davepl1968/status/1963803025572770212)
-- [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
-- [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
-- [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
+- [OpenAI eats jobs, then offers to help you find a new one at Walmart](https://www.theregister.com/2025/09/05/openai_jobs_board/)
+- [Relace &lpar;YC W23&rpar; Is Hiring for Code LLM&#39;s &lpar;SF&rpar;](https://news.ycombinator.com/item?id=45137554)
+- [I Ditched Docker for Podman &lpar;and You Should Too&rpar;](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
+- [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
+- [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
 <!-- BLOG-POST-LIST:END -->
 
 ---
