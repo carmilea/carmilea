@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Human-Like Interactions with Model Context Protocol Elicitation](https://www.singlestore.com/blog/unlocking-human-like-interactions-with-model-context-protocol-elicitation)
+- [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 - [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
 - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 - [You&#39;re absolutely Right!](https://absolutelyright.lol/)
-- [OpenAI eats jobs, then offers to help you find a new one at Walmart](https://www.theregister.com/2025/09/05/openai_jobs_board/)
-- [Relace &lpar;YC W23&rpar; Is Hiring for Code LLM&#39;s &lpar;SF&rpar;](https://news.ycombinator.com/item?id=45137554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
