@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
 - [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
 - [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
 - [Evolving the OCaml Programming Language &lpar;2025&rpar; [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 - [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
-- [Unix Conspiracy &lpar;1991&rpar;](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
