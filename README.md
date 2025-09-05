@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
 - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 - [Escaping the odds and a formula for life &lpar;2024&rpar;](https://farhadg.com/blog/escaping-odds/)
-- [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
-- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
+- [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
