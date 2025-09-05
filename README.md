@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google killing 2 million nest thermostats next month](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
-- [US special forces botched 2019 North Korean mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
-- [I kissed comment culture goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
-- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+- [Supercharger for Business – Tesla](https://www.tesla.com/supercharger-for-business)
+- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
+- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+- [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
+- [Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
