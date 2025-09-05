@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Age verification doesn’t work](https://pornbiz.com/post/17/the_scam_of_age_verification)
 - [Escaping the odds and a formula for life &lpar;2024&rpar;](https://farhadg.com/blog/escaping-odds/)
 - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
+- [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
 - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
-- [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
-- [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
