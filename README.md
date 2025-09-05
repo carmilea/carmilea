@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)
+- [Django + SingleStore Integration Guide](https://www.singlestore.com/blog/django-singlestore-integration-guide)
+- [Retrieval-Augmented Generation &lpar;RAG&rpar; for Real-World Machine Learning](https://www.singlestore.com/blog/retrieval-augmented-generation-rag-for-real-world-machine-learning)
 - [South Korea: &#39;many&#39; of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)
 - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
-- [Does anyone still use Morse code?](https://morse-coder.com/)
-- [A computer upgrade has shut down BART](https://www.bart.gov/news/articles/2025/news20250905)
-- [You Don&#39;t Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
