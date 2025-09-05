@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Escaping the odds and a formula for life &lpar;2024&rpar;](https://farhadg.com/blog/escaping-odds/)
+- [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
+- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 - [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
 - [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
-- [Evolving the OCaml Programming Language &lpar;2025&rpar; [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
-- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
-- [Unix Conspiracy &lpar;1991&rpar;](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
