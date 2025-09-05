@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
-- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
-- [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
-- [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
-- [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
+- [California AG to OpenAI: Harm to Children Will Not Be Tolerated](https://oag.ca.gov/news/press-releases/attorney-general-bonta-openai-harm-children-will-not-be-tolerated)
+- [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
+- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+- [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
