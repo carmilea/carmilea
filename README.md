@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
+- [US economy added just 22,000 jobs in August, unemployment highest in 4 yrs](https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final)
 - [Unlocking Human-Like Interactions with Model Context Protocol Elicitation](https://www.singlestore.com/blog/unlocking-human-like-interactions-with-model-context-protocol-elicitation)
 - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 - [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
-- [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
-- [You&#39;re absolutely Right!](https://absolutelyright.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
