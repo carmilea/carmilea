@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
+- [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
+- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
 - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
 - [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
-- [Django + SingleStore Integration Guide](https://www.singlestore.com/blog/django-singlestore-integration-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
