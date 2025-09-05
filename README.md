@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I have two Amazon Echos that I never use, but they apparently burn GBs a day](https://twitter.com/davepl1968/status/1963803025572770212)
+- [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
+- [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
 - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
-- [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
-- [Escaping the odds and a formula for life &lpar;2024&rpar;](https://farhadg.com/blog/escaping-odds/)
-- [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
