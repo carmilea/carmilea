@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding Generative AI for Developers](https://www.youtube.com/watch?v=p4THQmKzPj4)
 - [SQL for Reranking Vector and Text Search Results for AI](https://www.youtube.com/watch?v=eY8Z_qY_Lus)
 - [Decode &amp; Decaf with SingleStore - Shared Screen - Aug 25, 2025 07_43 PM - 51m 10s.](https://www.youtube.com/watch?v=Mf3slprPnQE)
 - [Decode &amp; Decaf with SingleStore - Aug 25, 2025 07_43 PM - 51m 10s.](https://www.youtube.com/watch?v=XcbzZZsYMPw)
 - [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=3QRCMEy9wu8)
-- [Decode &amp; Decaf with SingleStore](https://www.youtube.com/watch?v=YULfL2LJJAY)
 <!-- YOUTUBE:END -->
 
 
