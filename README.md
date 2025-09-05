@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
+- [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
+- [You&#39;re absolutely Right!](https://absolutelyright.lol/)
 - [OpenAI eats jobs, then offers to help you find a new one at Walmart](https://www.theregister.com/2025/09/05/openai_jobs_board/)
 - [Relace &lpar;YC W23&rpar; Is Hiring for Code LLM&#39;s &lpar;SF&rpar;](https://news.ycombinator.com/item?id=45137554)
-- [I Ditched Docker for Podman &lpar;and You Should Too&rpar;](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
-- [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
-- [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
 <!-- BLOG-POST-LIST:END -->
 
 ---
