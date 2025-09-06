@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Rise of Techno-Fascism in the United States](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/)
 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- [The sunscreen scandal shocking Australia - the world&#39;s skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
