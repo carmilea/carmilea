@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ohio senator introduces 25% tax on companies that outsource jobs overseas](https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill)
-- [PlateShapez – Tool for generating adversarially perturbed license plate overlays](https://github.com/bennjordan/PlateShapez)
 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 - [A sunscreen scandal shocking Australia](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
+- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
+- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
