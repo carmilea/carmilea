@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg Caught in Revealing Hot Mic Moment During White House Dinner](https://www.pcmag.com/news/zuckerberg-caught-in-revealing-hot-mic-moment-during-white-house-dinner)
+- [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)
+- [Amid Mass Surveillance Debate in Congress, Americans Support Privacy Protections](https://demandprogresseducationfund.org/new-polling-as-mass-surveillance-debate-reaches-final-stages-in-congress-americans-demonstrate-overwhelming-support-for-increased-privacy-protections/)
+- [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md)
 - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
-- [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
-- [996](https://lucumr.pocoo.org/2025/9/4/996/)
-- [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
+- [AI surveillance should be banned while there is still time](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
