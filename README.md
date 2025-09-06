@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
+- [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
+- [Microsoft Azure: &quot;Multiple international subsea cables were cut in the Red Sea&quot;](https://azure.status.microsoft/en-gb/status)
+- [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 - [Utah&#39;s hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
-- [How often do health insurers say no to patients?](https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims)
-- [Over 80% of Sunscreen Performed Below Their Labelled Efficacy](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
-- [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
-- [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
