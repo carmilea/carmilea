@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)
-- [Amid Mass Surveillance Debate in Congress, Americans Support Privacy Protections](https://demandprogresseducationfund.org/new-polling-as-mass-surveillance-debate-reaches-final-stages-in-congress-americans-demonstrate-overwhelming-support-for-increased-privacy-protections/)
-- [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md)
-- [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
-- [AI surveillance should be banned while there is still time](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
+- [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
+- [Normalization of deviance &lpar;2015&rpar;](https://danluu.com/wat/)
+- [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
+- [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
+- [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
