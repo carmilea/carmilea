@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America Surrenders in the Global Information Wars](https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/)
 - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 - [Tesla changes meaning of &#39;Full Self-Driving&#39;, gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
-- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
