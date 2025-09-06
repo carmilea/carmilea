@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
-- [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
-- [Microsoft Azure: &quot;Multiple international subsea cables were cut in the Red Sea&quot;](https://azure.status.microsoft/en-gb/status)
-- [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
-- [Utah&#39;s hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
+- [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
+- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
+- [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
+- [I&#39;m Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
+- [Qantas is cutting executive bonuses after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
