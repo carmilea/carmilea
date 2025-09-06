@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharger for Business – Tesla](https://www.tesla.com/supercharger-for-business)
+- [The sunscreen scandal shocking Australia - the world&#39;s skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
+- [GLM 4.5 with Claude Code is a killer combination](https://docs.z.ai/guides/llm/glm-4.5)
 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
 - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
-- [Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
