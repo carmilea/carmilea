@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
+- [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
+- [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
+- [AI hype is crashing into reality. Stay calm](https://www.businessinsider.com/ai-hype-crashing-into-reality-iphone-openai-2025-9)
 - [Normalization of deviance &lpar;2015&rpar;](https://danluu.com/wat/)
-- [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
-- [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
-- [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
+- [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
