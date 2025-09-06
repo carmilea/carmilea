@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- [A sunscreen scandal shocking Australia](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
