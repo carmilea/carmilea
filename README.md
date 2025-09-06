@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 - [The sunscreen scandal shocking Australia - the world&#39;s skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
-- [GLM 4.5 with Claude Code is a killer combination](https://docs.z.ai/guides/llm/glm-4.5)
+- [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
-- [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
