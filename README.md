@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple A17 Pro Chip Hardware Flaw?](https://github.com/JGoyd/Apple-Silicon-A17-Flaw)
+- [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
+- [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Keeping secrets out of logs &lpar;2024&rpar;](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
-- [US Visa Applications Must Be Submitted from Country of Residence or Nationality](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html)
-- [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 <!-- BLOG-POST-LIST:END -->
 
