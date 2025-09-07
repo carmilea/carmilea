@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
-- [Chrome extension that replaces occurrences of &#39;the cloud&#39; with &#39;my butt&#39;](https://github.com/panicsteve/cloud-to-butt)
+- [The Expression Problem and its solution](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 - [Delayed Security Patches for AOSP &lpar;Android Open Source Project&rpar;](https://twitter.com/grapheneos/status/1964561043906048183)
-- [South Korean workers detained in Hyundai plant raid to be freed and flown home](https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610)
 - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 <!-- BLOG-POST-LIST:END -->
 
