@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
+- [Print GitHub Repositories as Books](https://gitprint.me/)
+- [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
+- [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
+- [No Silver Bullet: Essence and Accidents of Software Engineering &lpar;1986&rpar; [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
 - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
-- [Submarine Cable Map](https://www.submarinecablemap.com/)
-- [Keeping secrets out of logs &lpar;2024&rpar;](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
-- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 <!-- BLOG-POST-LIST:END -->
 
 ---
