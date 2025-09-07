@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Visa Applications Must Be Submitted from Country of Residence or Nationality](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html)
-- [US to target more businesses after Hyundai raid](https://www.reuters.com/business/autos-transportation/us-target-more-businesses-after-hyundai-raid-top-official-says-2025-09-07/)
 - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
+- [Delayed Security Patches for AOSP &lpar;Android Open Source Project&rpar;](https://twitter.com/grapheneos/status/1964561043906048183)
+- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
