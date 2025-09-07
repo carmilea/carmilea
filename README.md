@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
-- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
-- [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
-- [I&#39;m Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
-- [Qantas is cutting executive bonuses after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
+- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
+- [Game launcher installs Root CA certificate on your machine &lpar;2024&rpar;](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276)
+- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
+- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
+- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
