@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+- [The &quot;impossibly small&quot; Microdot web framework](https://lwn.net/Articles/1034121/)
 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
-- [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
-- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
 <!-- BLOG-POST-LIST:END -->
 
 ---
