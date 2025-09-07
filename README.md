@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: OpenCV over WebRTC &lpar;in Go&rpar;](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
-- [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
-- [Print GitHub Repositories as Books](https://gitprint.me/)
-- [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
-- [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
+- [South Korea will bring home 300 workers detained in Hyundai plant raid](https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4)
+- [Detroit&#39;s Carmakers to Save Billions in Emissions Rollback](https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback)
+- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
+- [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
+- [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
