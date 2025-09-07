@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
+- [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 - [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
 - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
-- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
