@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
-- [Navy SEALs Killed Fishermen to Hide Failed Mission to Wiretap North Korea](https://reason.com/2025/09/05/navy-seals-reportedly-killed-north-korean-fishermen-and-mutilated-their-bodies-to-hide-a-failed-mission/)
+- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
+- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 - [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
-- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
