@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
-- [GPT-5 Thinking in ChatGPT &lpar;a.k.a. Research Goblin&rpar; is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
-- [The &quot;impossibly small&quot; Microdot web framework](https://lwn.net/Articles/1034121/)
-- [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
-- [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
+- [What Really Caused the Sriracha Shortage? &lpar;2024&rpar;](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
+- [Show HN: Semantic grep for Claude Code &lpar;RUST&rpar; &lpar;local embeddings&rpar;](https://github.com/BeaconBay/ck)
+- [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
+- [Serverless Horrors](https://serverlesshorrors.com/)
+- [Show HN: I&#39;m a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
