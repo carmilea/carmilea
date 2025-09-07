@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
+- [Chrome extension that replaces occurrences of &#39;the cloud&#39; with &#39;my butt&#39;](https://github.com/panicsteve/cloud-to-butt)
+- [Delayed Security Patches for AOSP &lpar;Android Open Source Project&rpar;](https://twitter.com/grapheneos/status/1964561043906048183)
 - [South Korean workers detained in Hyundai plant raid to be freed and flown home](https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610)
 - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
-- [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
-- [Postal traffic to US down by over 80% amid tariffs, UN says](https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988)
-- [More and more people are tuning the news out: &#39;Now I don&#39;t have that anxiety](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
