@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Really Caused the Sriracha Shortage? &lpar;2024&rpar;](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
-- [Show HN: Semantic grep for Claude Code &lpar;RUST&rpar; &lpar;local embeddings&rpar;](https://github.com/BeaconBay/ck)
-- [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
-- [Serverless Horrors](https://serverlesshorrors.com/)
-- [Show HN: I&#39;m a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)
+- [South Korean workers detained in Hyundai plant raid to be freed and flown home](https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610)
+- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
+- [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
+- [Postal traffic to US down by over 80% amid tariffs, UN says](https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988)
+- [More and more people are tuning the news out: &#39;Now I don&#39;t have that anxiety](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
