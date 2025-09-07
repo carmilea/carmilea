@@ -62,7 +62,7 @@
 - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
 - [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
-- [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
+- [The key to getting MVC correct is understanding what models are](https://stlab.cc/tips/about-mvc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
