@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+- [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
+- [GPT-5 Thinking in ChatGPT &lpar;a.k.a. Research Goblin&rpar; is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 - [The &quot;impossibly small&quot; Microdot web framework](https://lwn.net/Articles/1034121/)
 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
-- [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
