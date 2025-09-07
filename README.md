@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: OpenCV over WebRTC &lpar;in Go&rpar;](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
+- [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 - [Print GitHub Repositories as Books](https://gitprint.me/)
 - [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
 - [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
-- [No Silver Bullet: Essence and Accidents of Software Engineering &lpar;1986&rpar; [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
-- [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
