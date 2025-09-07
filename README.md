@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
+- [Navy SEALs Killed Fishermen to Hide Failed Mission to Wiretap North Korea](https://reason.com/2025/09/05/navy-seals-reportedly-killed-north-korean-fishermen-and-mutilated-their-bodies-to-hide-a-failed-mission/)
 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
-- [Game launcher installs Root CA certificate on your machine &lpar;2024&rpar;](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276)
+- [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
 - [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
-- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
-- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
