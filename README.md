@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [AI Database Examples With SingleStore](https://www.singlestore.com/blog/ai-database-examples-with-singlestore)
-- [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
 - [iPhone Dumbphone](https://stopa.io/post/297)
 - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
