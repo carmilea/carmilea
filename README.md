@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Community Discussions: Past year&#39;s top 2 requests are to disable Copilot](https://github.com/orgs/community/discussions)
-- [&#39;Make invalid states unrepresentable&#39; considered harmful](https://www.seangoedecke.com/invalid-states/)
+- [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
+- [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 - [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
