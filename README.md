@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How inaccurate are Nintendo&#39;s official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM)
+- [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)
 - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
