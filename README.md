@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Database Examples With SingleStore](https://www.singlestore.com/blog/ai-database-examples-with-singlestore)
+- [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
+- [iPhone Dumbphone](https://stopa.io/post/297)
 - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
-- [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
 - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
-- [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
-- [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 <!-- BLOG-POST-LIST:END -->
 
 ---
