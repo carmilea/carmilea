@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat Control Must Be Stopped, Act Now](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
+- [YouTube views are down &lpar;don&#39;t panic&rpar;](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
+- [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
 - [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
 - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
-- [Setting up a home VPN server with WireGuard &lpar;2019&rpar;](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [AI Database Examples With SingleStore](https://www.singlestore.com/blog/ai-database-examples-with-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
