@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
-- [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
-- [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+- [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
 - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 - [VMware&#39;s in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
 <!-- BLOG-POST-LIST:END -->
