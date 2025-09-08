@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
+- [Chat Control Must Be Stopped, Act Now](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
+- [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
+- [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
+- [Setting up a home VPN server with WireGuard &lpar;2019&rpar;](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [AI Database Examples With SingleStore](https://www.singlestore.com/blog/ai-database-examples-with-singlestore)
-- [iPhone Dumbphone](https://stopa.io/post/297)
-- [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
-- [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
