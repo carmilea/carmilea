@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
-- [Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia](https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872)
-- [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
-- [&#39;We can do it for under $100M&#39;: Startup joins race to build local ChatGPT](https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o)
-- [AMD Claims Arm ISA Doesn&#39;t Offer Efficiency Advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
+- [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
+- [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
+- [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
+- [Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
+- [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
