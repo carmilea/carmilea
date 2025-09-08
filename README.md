@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
-- [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
-- [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
-- [&#39;Make invalid states unrepresentable&#39; considered harmful](https://www.seangoedecke.com/invalid-states/)
+- [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
+- [Tumult and Sympathy: The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
 - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
+- [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
