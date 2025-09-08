@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VMware&#39;s in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
+- [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
+- [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
 - [How inaccurate are Nintendo&#39;s official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM)
-- [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)
 - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
-- [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
-- [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
