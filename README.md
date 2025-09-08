@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
+- [GitHub Community Discussions: Past year&#39;s top 2 requests are to disable Copilot](https://github.com/orgs/community/discussions)
 - [&#39;Make invalid states unrepresentable&#39; considered harmful](https://www.seangoedecke.com/invalid-states/)
-- [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
+- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
