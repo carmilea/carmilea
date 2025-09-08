@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube views are down &lpar;don&#39;t panic&rpar;](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
-- [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
-- [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
-- [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
-- [AI Database Examples With SingleStore](https://www.singlestore.com/blog/ai-database-examples-with-singlestore)
+- [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
+- [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+- [Nintendo secures $2M settlement against Switch modder](https://www.tomshardware.com/video-games/nintendo-secures-settlement-against-switch-modder-who-represented-himself-in-court)
+- [Alterego: Thought to Text](https://www.alterego.io/)
+- [The Elegance of Movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
