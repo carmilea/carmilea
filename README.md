@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the American City](https://kevinerdmann.substack.com/p/the-end-of-the-american-city)
+- [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
+- [&#39;Make invalid states unrepresentable&#39; considered harmful](https://www.seangoedecke.com/invalid-states/)
 - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
-- [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
+- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
