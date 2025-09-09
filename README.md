@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
-- [CATL launches LFP battery with 470 miles range and 10-minute charging](https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/)
+- [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
+- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
+- [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
+- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
-- [Alterego: Thought to Text](https://www.alterego.io/)
-- [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)
 <!-- BLOG-POST-LIST:END -->
 
 ---
