@@ -62,7 +62,7 @@
 - [No adblocker detected](https://maurycyz.com/misc/ads/)
 - [Geoffrey Hinton: &#39;AI will make a few people much richer and most people poorer&#39;](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
 - [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
+- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
