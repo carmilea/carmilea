@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
+- [All vibe coding tools are selling a get rich quick scheme](https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/)
 - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
+- [I don&#39;t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 - [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
-- [I still love PHP and JavaScript &lpar;2022&rpar;](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
 - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 <!-- BLOG-POST-LIST:END -->
 
