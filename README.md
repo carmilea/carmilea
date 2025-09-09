@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
+- [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
+- [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
+- [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
 - [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
-- [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
-- [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
-- [Judge: Anthropic&#39;s $1.5B settlement is being shoved &quot;down the throat of authors&quot;](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/)
-- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
