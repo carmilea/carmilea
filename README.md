@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone Air, a powerful new iPhone with a breakthrough design](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
+- [Tomorrow&#39;s Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
+- [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
 - [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
-- [ICE Is Using Fake Cell Towers to Spy on People&#39;s Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
-- [U.S. Added 911,000 Fewer Jobs in the Year Ended in March](https://www.wsj.com/economy/jobs/us-job-growth-revision-a9777d98)
-- [DuckDB NPM Account Compromised in Continuing Supply Chain Attack](https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
