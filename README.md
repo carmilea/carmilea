@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic reduced model output quality from Aug 5](https://status.anthropic.com/incidents/72f99lh1cj2c)
+- [YouTube Is a Mysterious Monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
+- [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
+- [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
+- [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
 - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
-- [No adblocker detected](https://maurycyz.com/misc/ads/)
-- [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
