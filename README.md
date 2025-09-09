@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nepal Prime Minister Resigns. Parliament / Ministires set on Fire.](https://news.ycombinator.com/item?id=45179679)
+- [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
+- [You too can run malware from NPM &lpar;I mean without consequences&rpar;](https://github.com/naugtur/running-qix-malware)
 - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
-- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
-- [No adblocker detected](https://maurycyz.com/misc/ads/)
+- [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
