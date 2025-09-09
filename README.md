@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone Air, a powerful new iPhone with a breakthrough design](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+- [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
+- [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
+- [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+- [Judge: Anthropic&#39;s $1.5B settlement is being shoved &quot;down the throat of authors&quot;](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/)
 - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
-- [Tomorrow&#39;s Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
-- [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
-- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
