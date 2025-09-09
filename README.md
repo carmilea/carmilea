@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
-- [How An Attacker&#39;s Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
-- [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
-- [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
-- [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
+- [ICE Is Using Fake Cell Towers to Spy on People&#39;s Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
+- [U.S. Added 911,000 Fewer Jobs in the Year Ended in March](https://www.wsj.com/economy/jobs/us-job-growth-revision-a9777d98)
+- [DuckDB NPM Account Compromised in Continuing Supply Chain Attack](https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
