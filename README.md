@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Is a Mysterious Monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
 - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
 - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 - [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
 - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
+- [No adblocker detected](https://maurycyz.com/misc/ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
