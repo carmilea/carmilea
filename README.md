@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
+- [How An Attacker&#39;s Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
+- [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
+- [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
-- [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
-- [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
-- [U.S. Added 911,000 Fewer Jobs in Year Through March Than Reported Earlier](https://www.barrons.com/articles/jobs-report-revisions-bls-fed-3d88c77b?st=u8mw75)
-- [Apple highlights Brazilian study on domestic App Store performance](https://9to5mac.com/2025/09/04/apple-highlights-brazilian-study-on-domestic-app-store-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
