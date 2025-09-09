@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vicinae – a native, Raycast-compatible launcher for Linux](https://github.com/vicinaehq/vicinae)
-- [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
-- [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
-- [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
+- [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
+- [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
+- [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
+- [I still love PHP and JavaScript &lpar;2022&rpar;](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
 - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 <!-- BLOG-POST-LIST:END -->
 
