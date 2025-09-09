@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Vicinae – a native, Raycast-compatible launcher for Linux](https://github.com/vicinaehq/vicinae)
 - [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
+- [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
 - [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
-- [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
-- [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
-- [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
+- [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
