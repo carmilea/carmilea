@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple highlights Brazilian study on domestic App Store performance](https://9to5mac.com/2025/09/04/apple-highlights-brazilian-study-on-domestic-app-store-performance/)
+- [Google to Obey South Korean Order to Blur Satellite Images on Maps](https://www.barrons.com/news/google-to-obey-south-korean-order-to-blur-satellite-images-on-maps-653e934e)
 - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Staff Back End Engineer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
 - [Majority in EU&#39;s biggest states believes bloc &#39;sold out&#39; in US tariff deal](https://www.theguardian.com/world/2025/sep/09/majority-in-eu-biggest-states-believes-bloc-sold-out-in-us-tariff-deal-poll-donald-trump)
-- [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
-- [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
