@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
+- [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
 - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
 - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 - [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
-- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
-- [No adblocker detected](https://maurycyz.com/misc/ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
