@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 resists its end: usage share climbs while Windows 11&#39;s falls](https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/)
+- [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
+- [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
 - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
-- [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
-- [Children and young people&#39;s reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
-- [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
