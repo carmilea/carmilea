@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radar footage shows Hellfire missile fired by US Military bounce off UFO](https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/)
-- [My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What&#39;s Yours?](https://news.ycombinator.com/item?id=45195543)
-- [A love letter to the CSV format &lpar;2024&rpar;](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
-- [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- [Infracost &lpar;YC W21&rpar; Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
+- [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+- [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
 - [Children and young people&#39;s reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
+- [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
