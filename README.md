@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All vibe coding tools are selling a get rich quick scheme](https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/)
+- [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
+- [NASA finds Titan&#39;s alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
+- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
 - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
-- [I don&#39;t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
-- [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
-- [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
+- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
