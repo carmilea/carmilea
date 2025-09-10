@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guy running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
-- [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
-- [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
-- [Infracost &lpar;YC W21&rpar; Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
-- [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+- [&quot;No Tax on Tips&quot; Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
+- [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
+- [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
+- [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
