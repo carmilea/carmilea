@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KDE launches its own distribution &lpar;again&rpar;](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
+- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 - [Christie&#39;s Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
+- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
 - [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
-- [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
-- [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
