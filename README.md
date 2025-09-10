@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
+- [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- [Plex: Important Notice of Security Incident](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 - [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
-- [NASA finds Titan&#39;s lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
-- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
