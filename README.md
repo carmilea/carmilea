@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bild AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
 - [&quot;No Tax on Tips&quot; Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
-- [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
-- [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
-- [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [I didn&#39;t bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
+- [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
