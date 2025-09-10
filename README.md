@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- [Plex: Important Notice of Security Incident](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
+- [A security incident that may involve your Plex account information](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 - [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 <!-- BLOG-POST-LIST:END -->
