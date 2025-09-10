@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
+- [A love letter to the CSV format &lpar;2024&rpar;](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 - [Children and young people&#39;s reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
+- [Defense.gov Now Redirects to War.gov](https://defense.gov)
 - [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
-- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
