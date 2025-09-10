@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
-- [NASA finds Titan&#39;s alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
+- [I replaced Animal Crossing&#39;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+- [Three farmers on monopolies and mismanagement in U.S. agriculture](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
+- [NASA finds Titan&#39;s lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
 - [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
-- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
-- [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security)
 <!-- BLOG-POST-LIST:END -->
 
 ---
