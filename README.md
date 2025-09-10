@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE launches its own distribution &lpar;again&rpar;](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [Christie&#39;s Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
 - [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
-- [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
+- [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
 - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
-- [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
-- [Charlie Kirk killed at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
