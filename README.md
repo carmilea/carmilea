@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI negotiator successfully haggles down the price of a car thousands of dollars](https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/)
+- [You Already Have Our Data, Take Our Phone Calls Too &lpar;FreePBX CVE-2025-57819&rpar;](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
+- [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
+- [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 - [Bild AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-- [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
-- [&quot;No Tax on Tips&quot; Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
-- [I didn&#39;t bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
-- [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
