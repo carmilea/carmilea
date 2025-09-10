@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Clearest sign&#39; yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
+- [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+- [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
 - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
 - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
-- [Charlie Kirk shot at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
-- [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
+- [Charlie Kirk killed at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
