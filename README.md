@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+- [Gravitational wave detector confirms theories of Einstein and Hawking](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes)
+- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
 - [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
-- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
-- [Christie&#39;s Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
-- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
-- [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
