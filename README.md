@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seoul says US must fix its visa system if it wants Korea&#39;s investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
-- [Gravitational wave detector confirms theories of Einstein and Hawking](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes)
+- [Where did the Smurfs get their hats](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 - [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
-- [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
