@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)
+- [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 - [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
-- [We Melted iPhones for Science - Apple Just Spent $10B Proving We Were Right](https://accelerateordie.com/p/we-melted-iphones-for-science)
-- [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
-- [Adam &lpar;YC W25&rpar; Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
-- [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
+- [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
+- [Claude&#39;s memory architecture is the opposite of ChatGPT&#39;s](https://www.shloked.com/writing/claude-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
