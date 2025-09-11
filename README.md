@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
+- [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+- [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
 - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 - [Piramidal &lpar;YC W24&rpar; Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
-- [AI&#39;s $344B &#39;Language Model&#39; Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile)
-- [Brussels faces privacy crossroads over encryption backdoors](https://www.theregister.com/2025/09/11/eu_chat_control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
