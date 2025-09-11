@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Palantir Is Mapping Everyone&#39;s Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
+- [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 - [Unusual Capabilities of Nano Banana &lpar;Examples&rpar;](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 - [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
