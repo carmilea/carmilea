@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
-- [Where did the Smurfs get their hats](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
+- [Where did the Smurfs get their hats &lpar;2018&rpar;](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 - [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 <!-- BLOG-POST-LIST:END -->
