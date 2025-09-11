@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
+- [Creating larger projects with LLM &lpar;as a coder&rpar;](https://medium.com/@wojtek.jurkowlaniec/coding-workflow-with-llm-on-larger-projects-87dd2bf6fd2c)
+- [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
+- [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
 - [Where did the Smurfs get their hats &lpar;2018&rpar;](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
-- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
-- [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
