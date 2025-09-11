@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
+- [Danish supermarket chain is setting up &quot;Emergency Stores&quot;](https://swiss.social/@swaldorff/115186445638788782)
 - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 - [Unusual Capabilities of Nano Banana &lpar;Examples&rpar;](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
-- [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 - [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
-- [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
