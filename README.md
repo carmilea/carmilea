@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
+- [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
+- [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
+- [Conway&#39;s Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
+- [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 - [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
-- [GrapheneOS and Forensic Extraction of Data &lpar;2024&rpar;](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
-- [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
-- [The Rise of Async Programming](https://www.braintrust.dev/blog/async-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
