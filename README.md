@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating larger projects with LLM &lpar;as a coder&rpar;](https://medium.com/@wojtek.jurkowlaniec/coding-workflow-with-llm-on-larger-projects-87dd2bf6fd2c)
+- [BCacheFS is being disabled in the openSUSE kernels 6.17+](https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/)
 - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 - [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
