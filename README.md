@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
-- [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
+- [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
+- [Spiral](https://spiraldb.com/post/announcing-spiral)
+- [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
 - [Conway&#39;s Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
 - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
-- [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
