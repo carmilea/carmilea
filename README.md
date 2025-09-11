@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners](https://arxiv.org/abs/2508.19825)
+- [Reality Is Ruining the Humanoid Robot Hype](https://spectrum.ieee.org/humanoid-robot-scaling)
 - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
 - [Spiral](https://spiraldb.com/post/announcing-spiral)
 - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
-- [Conway&#39;s Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
-- [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
