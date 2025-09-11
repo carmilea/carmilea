@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
+- [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
+- [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
+- [GrapheneOS and Forensic Extraction of Data &lpar;2024&rpar;](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
-- [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
-- [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
-- [Piramidal &lpar;YC W24&rpar; Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
+- [The Rise of Async Programming](https://www.braintrust.dev/blog/async-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
