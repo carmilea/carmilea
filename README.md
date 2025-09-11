@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
+- [We Melted iPhones for Science - Apple Just Spent $10B Proving We Were Right](https://accelerateordie.com/p/we-melted-iphones-for-science)
+- [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 - [Adam &lpar;YC W25&rpar; Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
-- [Oracle stock gains 36% to post best day since 1992, adding $244B in value](https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html)
 - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
-- [Native ACME support comes to Nginx](https://letsencrypt.org/2025/09/11/native-acme-for-nginx)
-- [&#39;Robber bees&#39; invade apiarist&#39;s shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
