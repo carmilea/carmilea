@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)
+- [How Palantir Is Mapping Everyone&#39;s Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
+- [Unusual Capabilities of Nano Banana &lpar;Examples&rpar;](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 - [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
 - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
-- [Claude&#39;s memory architecture is the opposite of ChatGPT&#39;s](https://www.shloked.com/writing/claude-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
