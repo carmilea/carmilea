@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BCacheFS is being disabled in the openSUSE kernels 6.17+](https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/)
-- [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
-- [DeepCodeBench: Real-World Codebase Understanding by Q&amp;A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/)
-- [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
-- [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
+- [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
+- [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
+- [Piramidal &lpar;YC W24&rpar; Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
+- [AI&#39;s $344B &#39;Language Model&#39; Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile)
+- [Brussels faces privacy crossroads over encryption backdoors](https://www.theregister.com/2025/09/11/eu_chat_control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
