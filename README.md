@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Scheme Techniques &lpar;2004&rpar; [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
-- [A Beginner&#39;s Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
-- [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
-- [Show HN: DWS OS, a Plan 9 Inspired Web &quot;OS&quot;](https://dws.rip)
-- [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
+- [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
+- [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
+- [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
+- [OpenAI Grove](https://openai.com/index/openai-grove/)
+- [Ankit Gupta Joins YC as General Partner](https://www.ycombinator.com/blog/welcome-ankit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
