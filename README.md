@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
-- [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
-- [Groundbreaking Brazilian Drug, Capable of Reversing Spinal Cord Injury](https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2025/09/groundbreaking-brazilian-drug-considered-capable-of-reversing-spinal-cord-injury-presented-in-sao-paulo.shtml)
-- [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
-- [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
+- [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
+- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
+- [ARM is great, ARM is terrible &lpar;and so is RISC-V&rpar;](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
+- [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
+- [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
