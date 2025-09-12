@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Styled-components maintenance mode: A 40% faster fork](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
 - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
-- [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 - [Float Exposed](https://float.exposed/)
 <!-- BLOG-POST-LIST:END -->
