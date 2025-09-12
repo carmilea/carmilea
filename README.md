@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)
-- [Performance-focused forks of styled-components](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
-- [Hyundai is now delaying its EV battery plant that was raided by ICE](https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/)
+- [Examples from The LaTeX Companion book &lpar;3rd edition&rpar;](https://ctan.org/pkg/tlc3-examples)
+- [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
+- [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
