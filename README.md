@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
-- [We traded blogs for black boxes, now we&#39;re paying for it](https://tekhne.dev/internet-resist/)
+- [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 - [Float Exposed](https://float.exposed/)
 - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
