@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
 - [We traded blogs for black boxes, now we&#39;re paying for it](https://tekhne.dev/internet-resist/)
-- [Backprompting: Leveraging Synthetic Production Data for Health Advice Guardrails](https://arxiv.org/abs/2508.18384)
-- [Contabo Security Defaults Encourage Using SSH Passwords](https://jamesoclaire.com/2025/09/12/contabo-defaults-encourage-using-ssh-passwords/)
+- [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 - [Float Exposed](https://float.exposed/)
 - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
 <!-- BLOG-POST-LIST:END -->
