@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxic &quot;forever chemicals&quot; found in 95% of beers tested in the U.S.](https://www.sciencedaily.com/releases/2025/09/250911073204.htm)
-- [Chat Control repelled 4th time in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
+- [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
+- [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
+- [Chat Control faces blocking minority in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
 - [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)
 - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
-- [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
