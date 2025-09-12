@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Court Rules Nuclear Energy Is Clean Energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
+- [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
+- [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
 - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
-- [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
-- [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
+- [Humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
