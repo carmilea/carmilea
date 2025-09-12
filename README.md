@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
-- [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
-- [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
-- [OpenAI Grove](https://openai.com/index/openai-grove/)
-- [Ankit Gupta Joins YC as General Partner](https://www.ycombinator.com/blog/welcome-ankit/)
+- [EU Court Rules Nuclear Energy Is Clean Energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
+- [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
+- [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
+- [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
+- [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
