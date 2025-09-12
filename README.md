@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
-- [Danish supermarket chain is setting up &quot;Emergency Stores&quot;](https://swiss.social/@swaldorff/115186445638788782)
-- [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
-- [Unusual Capabilities of Nano Banana &lpar;Examples&rpar;](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
-- [Launch HN: Ghostship &lpar;YC S25&rpar; – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
+- [We traded blogs for black boxes, now we&#39;re paying for it](https://tekhne.dev/internet-resist/)
+- [Backprompting: Leveraging Synthetic Production Data for Health Advice Guardrails](https://arxiv.org/abs/2508.18384)
+- [Contabo Security Defaults Encourage Using SSH Passwords](https://jamesoclaire.com/2025/09/12/contabo-defaults-encourage-using-ssh-passwords/)
+- [Float Exposed](https://float.exposed/)
+- [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
