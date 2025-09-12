@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build AI Apps &amp; Agents in Minutes with Phidata &amp; SingleStore](https://www.youtube.com/watch?v=KrpsDIdaowo)
 - [Building Context-Aware Applications with SingleStore and MCP](https://www.youtube.com/watch?v=Boj7j8Z1Sb0)
 - [Building Context](https://www.youtube.com/watch?v=4xsfHU7ksec)
 - [From MySQL to Real-Time: Scaling Without Breaking the Bank](https://www.youtube.com/watch?v=G-boXHmw5mc)
 - [United States NIH Reduces IT Service Ticket Volume with Secure, Air-Gapped Generative AI by H2O.ai](https://www.youtube.com/watch?v=VL3ynkoPSgA)
-- [Understanding Generative AI for Developers](https://www.youtube.com/watch?v=p4THQmKzPj4)
 <!-- YOUTUBE:END -->
 
 
