@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
+- [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
 - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
