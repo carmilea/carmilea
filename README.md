@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
-- [ARM is great, ARM is terrible &lpar;and so is RISC-V&rpar;](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
-- [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
+- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
+- [Show HN: I made a small site to share text &amp; files. Free, no ads or registration](https://www.dum.pt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
