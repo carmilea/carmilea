@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophysics Source Code Library](http://ascl.net/)
-- [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
-- [Examples from The LaTeX Companion book &lpar;3rd edition&rpar;](https://ctan.org/pkg/tlc3-examples)
-- [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
-- [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
+- [Toxic &quot;forever chemicals&quot; found in 95% of beers tested in the U.S.](https://www.sciencedaily.com/releases/2025/09/250911073204.htm)
+- [Chat Control repelled 4th time in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
+- [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)
+- [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
+- [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
