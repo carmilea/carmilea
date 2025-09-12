@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
+- [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
+- [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
 - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 - [Float Exposed](https://float.exposed/)
-- [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
