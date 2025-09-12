@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
-- [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
-- [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
-- [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
-- [Humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
+- [Israel&#39;s strike on Hamas leaders in Qatar shatters Gulf&#39;s faith in US protection](https://www.theguardian.com/world/2025/sep/12/israels-strike-on-hamas-leaders-in-qatar-shatters-gulfs-faith-in-us-protection)
+- [Hyundai battery plant faces startup delay after US immigration raid, CEO says](https://www.japantimes.co.jp/business/2025/09/12/companies/hyundai-battery-plant-delay/)
+- [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
+- [EPA to Stop Collecting Emissions Data from Polluters](https://www.nytimes.com/2025/09/12/climate/epa-emissions-data-collection-halt.html)
+- [Groundbreaking Brazilian Drug, Capable of Reversing Spinal Cord Injury](https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2025/09/groundbreaking-brazilian-drug-considered-capable-of-reversing-spinal-cord-injury-presented-in-sao-paulo.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
