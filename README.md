@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
-- [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
-- [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)
-- [Many Hard LeetCode Problems Are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
-- [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
+- [Advanced Scheme Techniques &lpar;2004&rpar; [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
+- [A Beginner&#39;s Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
+- [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
+- [Show HN: DWS OS, a Plan 9 Inspired Web &quot;OS&quot;](https://dws.rip)
+- [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
