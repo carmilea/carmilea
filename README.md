@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
-- [An Open-Source Maintainer&#39;s Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
+- [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
+- [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
+- [An open-source maintainer&#39;s guide to saying “no”](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 - [The Case Against Social Media Is Stronger Than You Think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
-- [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
