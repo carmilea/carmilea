@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OCI Registry Explorer](https://oci.dag.dev/)
 - [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
 - [Legal win](https://ma.tt/2025/09/legal-win/)
 - [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
 - [Life, work, death and the peasant: Rent and extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
-- [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
