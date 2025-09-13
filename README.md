@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Open-Source Maintainer&#39;s Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
+- [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
 - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
-- [OpenAI’s latest research paper demonstrates that falsehoods are inevitable](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
 - [Magical systems thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
-- [“Learning how to Learn” will be next generation&#39;s most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
