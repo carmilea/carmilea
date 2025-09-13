@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan sets record of nearly 100k people aged over 100](https://www.bbc.com/news/articles/cd07nljlyv0o)
+- [America&#39;s Largest Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/homebuilders/)
+- [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 - [A store that generates products from anything you type in search](https://anycrap.shop/)
 - [How &#39;overworked, underpaid&#39; humans train Google&#39;s AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
-- [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
-- [Java 25&#39;s new CPU-Time Profiler &lpar;1&rpar;](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
-- [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
