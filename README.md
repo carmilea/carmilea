@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Learning how to Learn&quot; will be next generation&#39;s most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
+- [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
 - [Show HN: CLAVIER-36 &lpar;programming environment for generative music&rpar;](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
-- [NASA punts decision on Mars sample return to next administration](https://www.science.org/content/article/nasa-punts-decision-mars-sample-return-next-administration)
 - [An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists](https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html)
-- [Japan sets record of nearly 100k people aged over 100](https://www.bbc.com/news/articles/cd07nljlyv0o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
