@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why OpenAI&#39;s solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
 - [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
 - [&quot;Learning how to Learn&quot; will be next generation&#39;s most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
 - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
-- [Show HN: CLAVIER-36 &lpar;programming environment for generative music&rpar;](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
-- [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
+- [&#39;Someone must know this guy&#39;: four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
