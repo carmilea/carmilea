@@ -61,8 +61,8 @@
 - [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
 - [An Open-Source Maintainer&#39;s Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
-- [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
 - [The Case Against Social Media Is Stronger Than You Think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
+- [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
