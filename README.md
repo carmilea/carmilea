@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
+- [Java 25&#39;s new CPU-Time Profiler &lpar;1&rpar;](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 - [Nepal picks a new prime minister on a discord server days after social media ban](https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html)
+- [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133)
 - [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/)
-- [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
-- [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
-- [OCI Registry Explorer](https://oci.dag.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
