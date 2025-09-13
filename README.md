@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Life, Work, Death and the Peasant: Rent and Extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
+- [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
+- [Legal win](https://ma.tt/2025/09/legal-win/)
+- [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
+- [Life, work, death and the peasant: Rent and extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
 - [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
-- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
-- [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
-- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
