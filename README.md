@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
+- [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+- [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
 - [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)
 - [OCI Registry Explorer](https://oci.dag.dev/)
-- [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
-- [Legal win](https://ma.tt/2025/09/legal-win/)
-- [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
