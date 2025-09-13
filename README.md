@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life, Work, Death and the Peasant: Rent and Extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
+- [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
+- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
 - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
-- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
-- [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
-- [Show HN: I made a small site to share text &amp; files. Free, no ads or registration](https://www.dum.pt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
