@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: CLAVIER-36 &lpar;programming environment for generative music&rpar;](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
+- [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
+- [NASA punts decision on Mars sample return to next administration](https://www.science.org/content/article/nasa-punts-decision-mars-sample-return-next-administration)
+- [An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists](https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html)
 - [Japan sets record of nearly 100k people aged over 100](https://www.bbc.com/news/articles/cd07nljlyv0o)
-- [America&#39;s Largest Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/homebuilders/)
-- [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
-- [A store that generates products from anything you type in search](https://anycrap.shop/)
-- [How &#39;overworked, underpaid&#39; humans train Google&#39;s AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
