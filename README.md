@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-- [Nicu&#39;s test website made with SVG &lpar;2007&rpar;](https://svg.nicubunu.ro/)
-- [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
-- [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
-- [Read to Forget](https://mo42.bearblog.dev/read-to-forget/)
+- [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
+- [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
+- [Lisp in 2025 &lpar;FOSS Book, 10 chapters&rpar;](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
+- [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
+- [The Perl Programming Language in 2025 &lpar;FOSS book&rpar;](https://github.com/cloudstreet-dev/The-PERL-Programming-Language/blob/main/01-why-perl-still-matters.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
