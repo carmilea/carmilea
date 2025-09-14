@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
+- [The PC was never a true &#39;IBMer&#39;](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
+- [Gemini &lpar;2023&rpar;](https://geminiquickst.art/)
 - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
 - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
-- [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
-- [A single, &#39;naked&#39; black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
-- [High Altitude Living – 8,000 ft and above &lpar;2021&rpar;](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
