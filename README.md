@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe coding has turned senior devs into &#39;AI babysitters&#39;](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
+- [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
+- [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
 - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
 - [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
-- [Lisp in 2025 &lpar;FOSS Book, 10 chapters&rpar;](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
-- [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
-- [The Perl Programming Language in 2025 &lpar;FOSS book&rpar;](https://github.com/cloudstreet-dev/The-PERL-Programming-Language/blob/main/01-why-perl-still-matters.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
