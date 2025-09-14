@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
+- [CorentinJ: Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
+- [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
 - [The PC was never a true &#39;IBMer&#39;](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 - [Gemini &lpar;2023&rpar;](https://geminiquickst.art/)
-- [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
-- [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 <!-- BLOG-POST-LIST:END -->
 
 ---
