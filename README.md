@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en)
+- [Medics in southern Gaza sound alarm over wave of newly displaced Palestinians](https://www.theguardian.com/world/2025/sep/14/southern-gaza-nasser-medics-displaced-palestinians-fleeing)
 - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-- [Website Is Just an SVG &lpar;2007&rpar;](https://svg.nicubunu.ro/)
-- [Bank of Thailand Freezes 3MM Accounts, Sets Daily Transfer Limits to Curb Fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
-- [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
+- [Nicu&#39;s test website made with SVG &lpar;2007&rpar;](https://svg.nicubunu.ro/)
+- [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
+- [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
