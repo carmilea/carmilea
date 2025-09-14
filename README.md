@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVC acquires majority stake in Namecheap for $1.5B](https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/)
-- [My thoughts on renting versus buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
-- [Vibe coding has turned senior devs into &#39;AI babysitters&#39;](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
-- [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
-- [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
+- [Titania Programming Language](https://github.com/gingerBill/titania)
+- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
+- [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
+- [Website is hosted on a disposable vape](http://ewaste.fka.wtf/)
+- [Trigger Crossbar](https://serd.es/2025/09/14/Trigger-crossbar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
