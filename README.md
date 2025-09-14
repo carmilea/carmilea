@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Medics in southern Gaza sound alarm over wave of newly displaced Palestinians](https://www.theguardian.com/world/2025/sep/14/southern-gaza-nasser-medics-displaced-palestinians-fleeing)
 - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 - [Nicu&#39;s test website made with SVG &lpar;2007&rpar;](https://svg.nicubunu.ro/)
 - [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
 - [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
+- [Read to Forget](https://mo42.bearblog.dev/read-to-forget/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
