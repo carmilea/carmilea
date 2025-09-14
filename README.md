@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Bill Would Allow Rubio to Strip US Citizens&#39; Passports over Political Speech](https://www.commondreams.org/news/rubio-thought-policing-bill)
+- [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
 - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
+- [If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
 - [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability)
-- [Two Slice, a font that&#39;s only 2px tall](https://joefatula.com/twoslice.html)
-- [Pass: Unix Password Manager](https://www.passwordstore.org/)
-- [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
