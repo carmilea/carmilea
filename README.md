@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [High Altitude Living – 8,000 ft and above &lpar;2021&rpar;](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
-- [Why you&#39;d issue a branded stablecoin like McDonaldsCoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin)
+- [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin)
 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 - [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
 - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
