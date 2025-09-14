@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
-- [CorentinJ: Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
+- [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
+- [CorentinJ: Real-Time Voice Cloning &lpar;2021&rpar;](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
 - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
-- [The PC was never a true &#39;IBMer&#39;](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
