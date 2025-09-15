@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
+- [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
 - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
-- [Americans Crushed by Auto Loans as Defaults and Repossessions Surge](https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/)
 - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
+- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
