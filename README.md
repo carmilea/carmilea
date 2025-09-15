@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 - [Launch HN: Trigger.dev &lpar;YC W23&rpar; – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
-- [The Washington Post Fired Me – But My Voice Will Not Be Silenced](https://karenattiah.substack.com/p/the-washington-post-fired-me-but)
+- [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
 - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
 - [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
-- [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
