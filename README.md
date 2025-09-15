@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
 - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 - [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
-- [A string formatting library in 65 lines of C++](https://riki.house/fmt)
-- [Boring Work Needs Tension](https://iaziz786.com/blog/boring-work-needs-tension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
