@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
+- [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
+- [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
+- [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
 - [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
-- [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
-- [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
-- [Titania Programming Language](https://github.com/gingerBill/titania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
