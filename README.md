@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
 - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
 - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
-- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
