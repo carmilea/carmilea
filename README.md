@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
+- [J-Link RTT for the Masses using Semihosting on ARM](https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/)
+- [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [Titania Programming Language](https://github.com/gingerBill/titania)
 - [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
-- [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
-- [Website is hosted on a disposable vape](http://ewaste.fka.wtf/)
-- [Trigger Crossbar](https://serd.es/2025/09/14/Trigger-crossbar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
