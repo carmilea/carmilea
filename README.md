@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Massive Attack Turns Concert into Facial Recognition Surveillance Experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
-- [Show HN: Pooshit – sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
+- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
+- [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
+- [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
 - [The Revised Report on Scheme or An UnCommon Lisp &lpar;1985&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
-- [William Gibson Reads Neuromancer](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
-- [Imperial Tyranny, Korean Humiliation](https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html)
+- [William Gibson Reads Neuromancer &lpar;2004&rpar;](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
