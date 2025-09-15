@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
+- [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
+- [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
 - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
-- [Launch HN: Trigger.dev &lpar;YC W23&rpar; – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
-- [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
-- [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
-- [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
+- [Boring Work Needs Tension](https://iaziz786.com/blog/boring-work-needs-tension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
