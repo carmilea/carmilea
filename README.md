@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink is currently experiencing a service outage](https://www.starlink.com/)
+- [&quot;Hello, Is This Anna?&quot;: Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
+- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
 - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
-- [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
-- [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
-- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
