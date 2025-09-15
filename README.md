@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
+- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
 - [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
-- [J-Link RTT for the Masses using Semihosting on ARM](https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/)
 - [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [Titania Programming Language](https://github.com/gingerBill/titania)
-- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
