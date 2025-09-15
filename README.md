@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How big a solar battery do I need to store *all* my home&#39;s electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
+- [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
+- [The Obsolescence of Political Definitions](http://vmchale.com/static/serve/taxonomy.html)
+- [Hosting a WebSite on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 - [Denmark&#39;s Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
-- [Amish Men Live Longer](https://plainanabaptistjournal.org/article/id/6590/)
-- [How does air pollution impact your brain?](https://neurofrontiers.blog/how-does-air-pollution-impact-your-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
