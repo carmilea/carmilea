@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denmark&#39;s Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
-- [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
-- [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
-- [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
-- [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
+- [Amish Men Live Longer](https://plainanabaptistjournal.org/article/id/6590/)
+- [The Culture Novels as a Dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
+- [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
