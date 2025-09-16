@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After escaping Russian energy dependence, Europe is locking itself in to US LNG](https://davekeating.substack.com/p/after-escaping-russian-energy-dependence)
+- [Mullvad Hides WireGuard in QUIC to Bypass Censorship](https://reclaimthenet.org/mullvad-vpn-wireguard-quic-masque-bypass-censorship)
+- [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
 - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
 - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
-- [Just Use HTML](https://gomakethings.com/just-use-html/)
-- [FBI couldn&#39;t get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
-- [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
