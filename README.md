@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
+- [Show HN: AI Code Detector – detect AI-generated code with 95% accuracy](https://code-detector.ai/)
+- [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
 - [The Linux Process Journey [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
-- [DOJ Deletes Study Showing Domestic Terrorists Are Most Often Right Wing](https://www.404media.co/doj-deletes-study-showing-domestic-terrorists-are-most-often-right-wing/)
-- [Launch HN: Rowboat &lpar;YC S24&rpar; – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
-- [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 <!-- BLOG-POST-LIST:END -->
 
 ---
