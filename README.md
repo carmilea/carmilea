@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
 - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
 - [&quot;Your&quot; vs. &quot;My&quot; in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
 - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
-- [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
 <!-- BLOG-POST-LIST:END -->
 
 ---
