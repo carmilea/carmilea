@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
+- [Linux phones are more important now than ever](https://feddit.org/post/18353777)
+- [The awe keeps dropping](https://morrick.me/archives/10137)
 - [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
 - [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
 - [The Revised Report on Scheme or An UnCommon Lisp &lpar;1985&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
-- [William Gibson Reads Neuromancer &lpar;2004&rpar;](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
