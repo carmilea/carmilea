@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
-- [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
-- [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)
-- [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
-- [Teens turned their rooms into tech-free zones. This was the result](https://www.bbc.co.uk/news/articles/c1lelqg0jy3o)
+- [Letters of Note – Bertrand Russell to Oswald Mosley](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
+- [IINA Introduces Plugin System](https://iina.io/plugins/)
+- [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
+- [The old SF tech scene is dead. What it&#39;s morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
+- [1975 Sep 16 MOS Technology samples 6502 at WESCON, here&#39;s how they designed it](https://www.EmbeddedRelated.com/showarticle/1453.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
