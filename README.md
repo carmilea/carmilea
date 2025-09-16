@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Letters of Note – Bertrand Russell to Oswald Mosley](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
-- [IINA Introduces Plugin System](https://iina.io/plugins/)
-- [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
-- [The old SF tech scene is dead. What it&#39;s morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
-- [1975 Sep 16 MOS Technology samples 6502 at WESCON, here&#39;s how they designed it](https://www.EmbeddedRelated.com/showarticle/1453.php)
+- [Launch HN: Rowboat &lpar;YC S24&rpar; – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
+- [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
+- [Bertrand Russell to Oswald Mosley &lpar;1962&rpar;](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
+- [Plugin System](https://iina.io/plugins/)
+- [Will I Run Boston 2026?](https://getfast.ai/blogs/boston-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
