@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After escaping Russian energy dependence, Europe is locking itself in to US LNG](https://davekeating.substack.com/p/after-escaping-russian-energy-dependence)
-- [Mullvad Hides WireGuard in QUIC to Bypass Censorship](https://reclaimthenet.org/mullvad-vpn-wireguard-quic-masque-bypass-censorship)
+- [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
+- [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+- [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)
 - [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
-- [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
-- [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
+- [Teens turned their rooms into tech-free zones. This was the result](https://www.bbc.co.uk/news/articles/c1lelqg0jy3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
