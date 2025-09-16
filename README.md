@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
-- [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
+- [FBI couldn&#39;t get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
+- [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
+- [Ask HN: Generalists, when do you say &quot;I know enough&quot; about any particular topic?](https://news.ycombinator.com/item?id=45260969)
+- [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
-- [&quot;Your&quot; vs. &quot;My&quot; in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
-- [Linux phones are more important now than ever](https://feddit.org/post/18353777)
 <!-- BLOG-POST-LIST:END -->
 
 ---
