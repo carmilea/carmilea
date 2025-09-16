@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
+- [The Linux Process Journey [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
+- [DOJ Deletes Study Showing Domestic Terrorists Are Most Often Right Wing](https://www.404media.co/doj-deletes-study-showing-domestic-terrorists-are-most-often-right-wing/)
 - [Launch HN: Rowboat &lpar;YC S24&rpar; – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
-- [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
-- [Bertrand Russell to Oswald Mosley &lpar;1962&rpar;](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
-- [Plugin System](https://iina.io/plugins/)
-- [Will I Run Boston 2026?](https://getfast.ai/blogs/boston-2026)
+- [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 <!-- BLOG-POST-LIST:END -->
 
 ---
