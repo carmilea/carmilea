@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Public static void main&lpar;String[] args&rpar; is dead](https://mccue.dev/pages/9-16-25-psvm)
 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
+- [&quot;Your&quot; vs. &quot;My&quot; in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
 - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
 - [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
-- [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
