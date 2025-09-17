@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Degradation: A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 - [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
 - [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
 - [Optimizing ClickHouse for Intel&#39;s 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
-- [When Computer Magazines Were Everywhere](https://www.goto10retro.com/p/when-computer-magazines-were-everywhere)
 - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 <!-- BLOG-POST-LIST:END -->
 
