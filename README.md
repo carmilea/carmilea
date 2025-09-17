@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)
+- [Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%](https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/)
+- [Procedural Island Generation &lpar;III&rpar;](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html)
 - [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
-- [PureVPN IPv6 Leak](https://anagogistis.com/posts/purevpn-ipv6-leak/)
-- [EU Chat Control: Germany&#39;s position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
-- [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
