@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
+- [PureVPN IPv6 Leak](https://anagogistis.com/posts/purevpn-ipv6-leak/)
 - [EU Chat Control: Germany&#39;s position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
 - [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
-- [Alibaba&#39;s New AI Chip Unveiled: Key Specifications Comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
-- [Why We&#39;re Building Stategraph: Terraform State as a Distributed Systems Problem](https://stategraph.dev/blog/why-stategraph/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
