@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ABC Pulls Jimmy Kimmel Live from the Air &#39;Indefinitely&#39;](https://www.vulture.com/article/abc-pulls-jimmy-kimmel-live-from-the-air-indefinitely.html)
 - [Pg_links](https://giulianopz.github.io/pg.html)
-- [Stephen Miller&#39;s Quota Likely Drove Korean Arrests in Immigration Raid](https://www.forbes.com/sites/stuartanderson/2025/09/16/stephen-millers-quota-likely-drove-korean-arrests-in-immigration-raid/)
-- [Tesla is trying to hide 3 Robotaxi accidents](https://electrek.co/2025/09/17/tesla-hide-3-robotaxi-accidents/)
 - [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
 - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
+- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
