@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Horizon Labs &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 - [Launch HN: RunRL &lpar;YC X25&rpar; – Reinforcement learning as a service](https://runrl.com)
-- [Not Buying American Anymore](https://xd1.dev/2025/09/not-buying-american-anymore)
 - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
-- [How to Motivate Yourself to Do a Thing You Don&#39;t Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
+- [How to motivate yourself to do a thing you don&#39;t want to do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
 - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
 <!-- BLOG-POST-LIST:END -->
 
