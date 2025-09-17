@@ -61,8 +61,8 @@
 - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
 - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
 - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
+- [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don&#39;t Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
 - [Irssi: IRC Client in a Docker Image](https://hub.docker.com/_/irssi)
-- [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
