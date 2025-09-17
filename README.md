@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: RunRL &lpar;YC X25&rpar; – Reinforcement learning as a service](https://runrl.com)
+- [Not Buying American Anymore](https://xd1.dev/2025/09/not-buying-american-anymore)
+- [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
+- [How to Motivate Yourself to Do a Thing You Don&#39;t Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
 - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
-- [SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit](https://github.com/pointfreeco/sqlite-data)
-- [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)
-- [Bringing fully autonomous rides to Nashville, in partnership with Lyft](https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft)
-- [Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%](https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
