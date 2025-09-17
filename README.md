@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Horizon Labs &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
-- [Launch HN: RunRL &lpar;YC X25&rpar; – Reinforcement learning as a service](https://runrl.com)
-- [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
-- [How to motivate yourself to do a thing you don&#39;t want to do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
-- [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
+- [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+- [DeepMind and OpenAI Win Gold at ICPC, OpenAI AKs](https://codeforces.com/blog/entry/146536)
+- [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
+- [DeepSeek writes less secure code for groups China disfavors](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/)
+- [Depression Reduces Capacity to Learn to Actively Avoid Aversive Events](https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
