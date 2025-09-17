@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started on SingleStore](https://www.youtube.com/watch?v=A_8ccdo-2dU)
 - [Reducing Your Database TCO: Do More with Less](https://www.youtube.com/watch?v=x9fD32qGihQ)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=Cn9JOZ72oKU)
 - [SingleStore NOW 2025 in NYC](https://www.youtube.com/watch?v=rcluHGywH2k)
 - [Build AI Apps &amp; Agents in Minutes with Phidata &amp; SingleStore](https://www.youtube.com/watch?v=KrpsDIdaowo)
-- [Building Context-Aware Applications with SingleStore and MCP](https://www.youtube.com/watch?v=Boj7j8Z1Sb0)
 <!-- YOUTUBE:END -->
 
 
