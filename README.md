@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing ClickHouse for Intel&#39;s 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
+- [The &quot;Debate Me Bro&quot; Grift: How Trolls Weaponized the Marketplace of Ideas](https://www.techdirt.com/2025/09/17/the-debate-me-bro-grift-how-trolls-weaponized-the-marketplace-of-ideas/)
 - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 - [DeepMind and OpenAI Win Gold at ICPC, OpenAI AKs](https://codeforces.com/blog/entry/146536)
 - [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
-- [DeepSeek writes less secure code for groups China disfavors](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/)
-- [Depression Reduces Capacity to Learn to Actively Avoid Aversive Events](https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
