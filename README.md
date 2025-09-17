@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)
 - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 - [In Praise of Idleness &lpar;1932&rpar;](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 - [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
 - [I just want an 80×25 console, but that&#39;s no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
+- [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
