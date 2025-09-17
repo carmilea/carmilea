@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Praise of Idleness &lpar;1932&rpar;](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+- [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
 - [I just want an 80×25 console, but that&#39;s no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
-- [What&#39;s Up with Peter Thiel&#39;s Obsession with the Antichrist?](https://newrepublic.com/article/200471/peter-thiel-obsession-antichrist-religion)
 - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 - [GNU Midnight Commander](https://midnight-commander.org/)
-- [Java 25 General Availability](https://jdk.java.net/25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
