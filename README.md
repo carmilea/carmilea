@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
+- [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
 - [Optimizing ClickHouse for Intel&#39;s 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
-- [The &quot;Debate Me Bro&quot; Grift: How Trolls Weaponized the Marketplace of Ideas](https://www.techdirt.com/2025/09/17/the-debate-me-bro-grift-how-trolls-weaponized-the-marketplace-of-ideas/)
+- [When Computer Magazines Were Everywhere](https://www.goto10retro.com/p/when-computer-magazines-were-everywhere)
 - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-- [DeepMind and OpenAI Win Gold at ICPC, OpenAI AKs](https://codeforces.com/blog/entry/146536)
-- [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
