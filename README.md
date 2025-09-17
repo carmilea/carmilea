@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I just want an 80×25 console, but that&#39;s no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
+- [What&#39;s Up with Peter Thiel&#39;s Obsession with the Antichrist?](https://newrepublic.com/article/200471/peter-thiel-obsession-antichrist-religion)
+- [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 - [GNU Midnight Commander](https://midnight-commander.org/)
-- [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
-- [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
-- [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
-- [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don&#39;t Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
+- [Java 25 General Availability](https://jdk.java.net/25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
