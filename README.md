@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
+- [EU Chat Control: Germany&#39;s position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
+- [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
+- [Alibaba&#39;s New AI Chip Unveiled: Key Specifications Comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
 - [Why We&#39;re Building Stategraph: Terraform State as a Distributed Systems Problem](https://stategraph.dev/blog/why-stategraph/)
-- [Tabby – A Terminal for the Modern Age](https://github.com/Eugeny/tabby)
-- [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
-- [In Praise of Idleness &lpar;1932&rpar;](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
-- [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
