@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
+- [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
 - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
-- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
-- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
