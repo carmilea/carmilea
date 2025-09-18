@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome&#39;s New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
+- [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 - [American Prairie unlocks another 70k acres in Montana](https://earthhope.substack.com/p/victory-for-public-access-american)
 - [Launch HN: Cactus &lpar;YC S25&rpar; – AI inference on smartphones](https://github.com/cactus-compute/cactus)
 - [Tesla is looking to redesign its door handles following trapped-passenger report](https://www.cnn.com/2025/09/18/business/telsa-door-handle-redesign)
-- [A better future for JavaScript that won&#39;t happen](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
-- [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
