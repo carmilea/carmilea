@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
-- [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
+- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
+- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
+- [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
 - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
-- [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
