@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
 - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
 - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
 - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
-- [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
