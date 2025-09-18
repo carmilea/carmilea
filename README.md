@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. has the critical minerals it needs – but they&#39;re being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
+- [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
 - [When Knowing Someone at Meta Is the Only Way to Break Out of &quot;Content Jail&quot;](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
+- [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
-- [OpenTelemetry Collector: What It Is, When You Need It, and When You Don&#39;t](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
-- [Chrome&#39;s New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
-- [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
