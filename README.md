@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
+- [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 - [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/)
 - [Nvidia to Invest $5B in Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada)
 - [Nvidia buys $5B in Intel stock in seismic deal](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
-- [CircuitHub &lpar;YC W12&rpar; Is Hiring Operations Research Engineers &lpar;UK/Remote&rpar;](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
-- [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
