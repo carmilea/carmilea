@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
+- [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+- [OpenTelemetry Collector: What It Is, When You Need It, and When You Don&#39;t](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 - [Chrome&#39;s New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
 - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
-- [American Prairie unlocks another 70k acres in Montana](https://earthhope.substack.com/p/victory-for-public-access-american)
-- [Launch HN: Cactus &lpar;YC S25&rpar; – AI inference on smartphones](https://github.com/cactus-compute/cactus)
-- [Tesla is looking to redesign its door handles following trapped-passenger report](https://www.cnn.com/2025/09/18/business/telsa-door-handle-redesign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
