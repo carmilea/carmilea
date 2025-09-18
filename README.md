@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
+- [When Knowing Someone at Meta Is the Only Way to Break Out of &quot;Content Jail&quot;](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
 - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don&#39;t](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 - [Chrome&#39;s New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
