@@ -61,8 +61,8 @@
 - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
 - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
 - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
+- [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
 - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
-- [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
