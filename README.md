@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
+- [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
 - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 - [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
-- [ABC yanks Jimmy Kimmel&#39;s show &#39;indefinitely&#39; after remarks about Charlie Kirk](https://www.cnn.com/2025/09/17/media/jimmy-kimmel-charlie-kirk-trump-fcc-brendan-carr)
-- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
