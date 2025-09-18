@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ABC Pulls Jimmy Kimmel Live from the Air &#39;Indefinitely&#39;](https://www.vulture.com/article/abc-pulls-jimmy-kimmel-live-from-the-air-indefinitely.html)
-- [Pg_links](https://giulianopz.github.io/pg.html)
-- [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
+- [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
+- [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+- [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
+- [ABC yanks Jimmy Kimmel&#39;s show &#39;indefinitely&#39; after remarks about Charlie Kirk](https://www.cnn.com/2025/09/17/media/jimmy-kimmel-charlie-kirk-trump-fcc-brendan-carr)
 - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
-- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
