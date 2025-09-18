@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CircuitHub &lpar;YC W12&rpar; Is Hiring Operations Research Engineers &lpar;UK/Remote&rpar;](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
+- [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
-- [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
-- [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 <!-- BLOG-POST-LIST:END -->
 
 ---
