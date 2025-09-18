@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Prairie unlocks another 70k acres in Montana](https://earthhope.substack.com/p/victory-for-public-access-american)
+- [Launch HN: Cactus &lpar;YC S25&rpar; – AI inference on smartphones](https://github.com/cactus-compute/cactus)
+- [Tesla is looking to redesign its door handles following trapped-passenger report](https://www.cnn.com/2025/09/18/business/telsa-door-handle-redesign)
+- [A better future for JavaScript that won&#39;t happen](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
 - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
-- [Fuck, You&#39;re Still Sad?](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
-- [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
-- [Automatic Differentiation Can Be Incorrect](https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/)
-- [Luau – fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
