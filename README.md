@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. has the critical minerals it needs – but they&#39;re being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
+- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+- [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
+- [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
 - [When Knowing Someone at Meta Is the Only Way to Break Out of &quot;Content Jail&quot;](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
-- [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
-- [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
