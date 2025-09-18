@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SQL for Reranking Vector and Text Search Results for AI](https://www.youtube.com/watch?v=eY8Z_qY_Lus)
 - [H2O.ai h2oGPTe x LangGraph Demo](https://www.youtube.com/watch?v=M061h8u-zU4)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=A_8ccdo-2dU)
 - [Reducing Your Database TCO: Do More with Less](https://www.youtube.com/watch?v=x9fD32qGihQ)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=Cn9JOZ72oKU)
-- [SingleStore NOW 2025 in NYC](https://www.youtube.com/watch?v=rcluHGywH2k)
 <!-- YOUTUBE:END -->
 
 
