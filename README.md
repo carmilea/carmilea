@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
+- [Trevor Milton&#39;s Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
+- [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
-- [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
-- [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
-- [Dynamo AI &lpar;YC W22&rpar; Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
-- [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
+- [Court lets NSF keep swinging axe at $1B in research grants](https://www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
