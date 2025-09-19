@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A history of AI in four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
-- [A shift in developer culture is impacting innovation and creativity](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
+- [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
+- [After getting Jimmy Kimmel suspended, FCC chair threatens ABC&#39;s The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
+- [An untidy history of AI across four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 - [Revamping an Old TV as a Gift &lpar;2019&rpar;](https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/)
-- [Trevor Milton&#39;s Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
-- [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
+- [Trevor Milton&#39;s Nikola case dropped by SEC following Trump pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
