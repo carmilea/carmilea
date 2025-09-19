@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Count Folke Bernadotte: Sweden&#39;s Servant of Peace &lpar;2010&rpar;](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
+- [Nostr](https://nostr.com/)
 - [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer)
 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 - [Playing “Minecraft” without Minecraft &lpar;2024&rpar;](https://lenowo.org/viewtopic.php?t=5)
-- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
-- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
