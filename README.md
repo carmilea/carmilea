@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
-- [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
+- [A shift in developer culture is impacting innovation and creativity](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
+- [Revamping an Old TV as a Gift &lpar;2019&rpar;](https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/)
 - [Trevor Milton&#39;s Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 - [Court lets NSF keep swinging axe at $1B in research grants](https://www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/)
