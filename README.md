@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
 - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
 - [Count Folke Bernadotte: Sweden&#39;s Servant of Peace &lpar;2010&rpar;](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
-- [Nostr](https://nostr.com/)
 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 - [Playing “Minecraft” without Minecraft &lpar;2024&rpar;](https://lenowo.org/viewtopic.php?t=5)
 <!-- BLOG-POST-LIST:END -->
