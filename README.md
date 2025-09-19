@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
+- [How to waste CPU like a Professional](https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/)
 - [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
 - [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
-- [$100K fee added to H1B applications](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
-- [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
