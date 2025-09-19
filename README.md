@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
+- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
 - [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
-- [Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk](https://dr-schlange.github.io/nallely-midi/)
 - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
 - [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
-- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
