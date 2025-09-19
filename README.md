@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- [Show HN: Zedis – A Redis clone I&#39;m writing in Zig](https://github.com/barddoo/zedis)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
 - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
-- [How to waste CPU like a Professional](https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/)
-- [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
-- [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
