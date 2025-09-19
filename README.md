@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
+- [Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk](https://dr-schlange.github.io/nallely-midi/)
+- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
+- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
 - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
-- [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
-- [Meta&#39;s live staged demo fails; the &quot;AI&quot; recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
-- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
-- [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
