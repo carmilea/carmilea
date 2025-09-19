@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grocery prices have jumped up, and there&#39;s no relief in sight](https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation)
+- [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
+- [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
+- [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
 - [Dynamo AI &lpar;YC W22&rpar; Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
 - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
-- [Ruby Central&#39;s Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
-- [Count Folke Bernadotte: Sweden&#39;s Servant of Peace &lpar;2010&rpar;](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
