@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
+- [$100K fee added to H1B applications](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
+- [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
 - [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
-- [After getting Jimmy Kimmel suspended, FCC chair threatens ABC&#39;s The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
 - [An untidy history of AI across four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
-- [Revamping an Old TV as a Gift &lpar;2019&rpar;](https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/)
-- [Trevor Milton&#39;s Nikola case dropped by SEC following Trump pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
