@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
+- [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer)
 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-- [Playing “Minecraft” Without Minecraft &lpar;2024&rpar;](https://lenowo.org/viewtopic.php?t=5)
+- [Playing “Minecraft” without Minecraft &lpar;2024&rpar;](https://lenowo.org/viewtopic.php?t=5)
 - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
 - [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
 <!-- BLOG-POST-LIST:END -->
