@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamo AI &lpar;YC W22&rpar; Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
+- [Burnend alive inside a Tesla as rescuers fail to open the car&#39;s door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
+- [Ruby Central&#39;s Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
 - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
-- [Count Folke Bernadotte: Sweden&#39;s Servant of Peace &lpar;2010&rpar;](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
-- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-- [Playing “Minecraft” without Minecraft &lpar;2024&rpar;](https://lenowo.org/viewtopic.php?t=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
