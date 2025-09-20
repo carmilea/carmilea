@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Lobotomy](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
+- [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
+- [The LLM Lobotomy?](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
 - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
-- [Seattle Ultrasonics: Ultrasonic Chef&#39;s Knife](https://seattleultrasonics.com/)
 - [Are touchscreens in cars dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
-- [Is Zig&#39;s New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
+- [Systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
 <!-- BLOG-POST-LIST:END -->
 
 ---
