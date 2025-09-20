@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s 200M gig workers are a warning for the world](https://www.economist.com/leaders/2025/09/18/chinas-200m-gig-workers-are-a-warning-for-the-world)
-- [Git: Introduce Rust and announce that it will become mandatorty](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/)
-- [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
-- [Czech founding father Masaryk&#39;s message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353)
-- [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
+- [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
+- [Is Zig&#39;s New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
+- [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
+- [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
+- [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
