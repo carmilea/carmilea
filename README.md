@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)
-- [Disney+ cancellation page crashes as customers rush to quit](https://creators.yahoo.com/lifestyle/story/disney-cancellation-page-crashes-as-customers-rush-to-quit-after-kimmel-suspension-033512277.html)
-- [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)
-- [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- [Things managers do that leaders never would](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
 - [Show HN: Zedis – A Redis clone I&#39;m writing in Zig](https://github.com/barddoo/zedis)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
+- [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
