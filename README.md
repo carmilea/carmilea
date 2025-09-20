@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
 - [LLM-Deflate: Extracting LLMs into Datasets](https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/)
-- [PYREX vs. Pyrex: What&#39;s the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
 - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
+- [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997)
 <!-- BLOG-POST-LIST:END -->
 
 ---
