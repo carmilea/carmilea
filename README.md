@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
-- [LLM-Deflate: Extracting LLMs into Datasets](https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/)
-- [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
-- [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
-- [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997)
+- [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
+- [Czech founding father Masaryk&#39;s message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353)
+- [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
+- [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
+- [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
