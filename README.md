@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft memo advises H1B employees to return immediately if currently abroad](https://xcancel.com/onestpress/status/1969374699038675364)
-- [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
-- [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
+- [The LLM Lobotomy](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
+- [Designing NotebookLM](https://jasonspielman.com/notebooklm)
+- [Seattle Ultrasonics: Ultrasonic Chef&#39;s Knife](https://seattleultrasonics.com/)
+- [Are touchscreens in cars dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 - [Is Zig&#39;s New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
-- [Novelist Cormac McCarthy&#39;s tips on how to write a great science paper [pdf]](https://gwern.net/doc/science/2019-savage.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
