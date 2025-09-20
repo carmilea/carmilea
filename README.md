@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa holders on vacation have 15 hours to return to US or pay $100k fee](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-a-24-hour-deadline-warning-for-indian-and-other-foreign-employees-after-h1-b-visa-fees-hike-to-100000-strongly-recommend-h1b-visa-holders-/articleshow/124010245.cms)
+- [Git: Introduce Rust and announce that it will become mandatorty](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/)
 - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 - [Czech founding father Masaryk&#39;s message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353)
-- [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
 - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
-- [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
