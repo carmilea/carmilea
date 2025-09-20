@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft memo advises H1B employees to return immediately if currently abroad](https://xcancel.com/onestpress/status/1969374699038675364)
 - [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
-- [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
 - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
 - [Is Zig&#39;s New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 - [Novelist Cormac McCarthy&#39;s tips on how to write a great science paper [pdf]](https://gwern.net/doc/science/2019-savage.pdf)
