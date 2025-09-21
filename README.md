@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and surveillance capitalism are undermining democracy](https://thebulletin.org/2025/08/how-ai-and-surveillance-capitalism-are-undermining-democracy/)
-- [Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
-- [Bazel and Glibc Versions](https://blogsystem5.substack.com/p/glibc-versions-bazel)
-- [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think)
-- [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
+- [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
+- [Nano Banana AI Image Generator](https://www.ai-nanobanana.net)
+- [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [Teen suspect surrenders in 2023 Las Vegas casino cyberattack case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
