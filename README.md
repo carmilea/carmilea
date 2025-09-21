@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 - [Representing Heterogeneous Data &lpar;2023&rpar;](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
 - [Ask HN: Radar and radio failures at Dallas area airports](https://news.ycombinator.com/item?id=45319496)
-- [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
