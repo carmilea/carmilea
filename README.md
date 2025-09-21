@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
+- [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
 - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
-- [Nano Banana AI Image Generator](https://www.ai-nanobanana.net)
 - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-- [Teen suspect surrenders in 2023 Las Vegas casino cyberattack case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
