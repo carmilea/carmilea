@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4Chan, MAGAs unite in &#39;clog the toilet&#39; op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)
-- [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
-- [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
-- [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
-- [Disk Utility still can&#39;t check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
+- [Linux Ready to Upstream Support for Google&#39;s PSP Encryption for TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
+- [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
+- [LaLiga&#39;s Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain](https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions)
+- [Oxford loses top 3 university ranking for the first time](https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/)
+- [How far can you go by train in 5 hours? &lpar;interactive map&rpar;](https://old.chronotrains.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
