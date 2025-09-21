@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
 - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
-- [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/)
 - [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/)
 - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
+- [Timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
+- [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
