@@ -61,8 +61,8 @@
 - [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
 - [That DEA agent&#39;s &#39;credit card&#39; could be eavesdropping on you](https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html)
 - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
-- [LLMs are still surprisingly bad at some simple tasks](https://shkspr.mobi/blog/2025/09/llms-are-still-surprisingly-bad-at-simple-tasks/)
 - [They Thought They Were Free &lpar;1955&rpar;](https://press.uchicago.edu/Misc/Chicago/511928.html)
+- [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
