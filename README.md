@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
+- [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
+- [California bans masks meant to hide law enforcement officers&#39; identities](https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents)
 - [Linux Ready to Upstream Support for Google&#39;s PSP Encryption for TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
 - [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
-- [LaLiga&#39;s Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain](https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions)
-- [Oxford loses top 3 university ranking for the first time](https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/)
-- [How far can you go by train in 5 hours? &lpar;interactive map&rpar;](https://old.chronotrains.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
