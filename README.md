@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
-- [That DEA agent&#39;s &#39;credit card&#39; could be eavesdropping on you](https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html)
-- [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
-- [They Thought They Were Free &lpar;1955&rpar;](https://press.uchicago.edu/Misc/Chicago/511928.html)
-- [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
+- [4Chan, MAGAs unite in &#39;clog the toilet&#39; op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)
+- [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
+- [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
+- [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
+- [Disk Utility still can&#39;t check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
