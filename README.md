@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Spoiled by Apple Silicon &lpar;But Still Love Framework&rpar;](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
 - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
 - [Easy Forth](https://skilldrick.github.io/easyforth/)
 - [Tesla coast-to-coast FSD crashes after 60 miles](https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/)
-- [Kmart&#39;s use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
