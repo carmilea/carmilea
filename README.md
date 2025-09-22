@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
-- [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)
-- [Zig got a new ELF linker and it&#39;s fast](https://github.com/ziglang/zig/pull/25299)
-- [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
-- [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
+- [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
+- [Fs-code – PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)
+- [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
+- [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
+- [Be careful with Go struct embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
