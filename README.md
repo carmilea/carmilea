@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gauntlet AI &lpar;YC S17&rpar; Master building with AI, get $200k+ job. All expenses paid](https://apply.gauntletai.com/)
-- [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)
-- [Rand Paul: FCC chair had &quot;no business&quot; intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
+- [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)
+- [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
-- [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
+- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
