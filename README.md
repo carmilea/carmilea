@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mentra &lpar;YC W25&rpar; Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+- [A board member&#39;s perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 - [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
 - [The American nations across North America](https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/)
-- [UK Millionaire exodus did not occur, study reveals](https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/)
-- [Human-Oriented Markup Language](https://huml.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
