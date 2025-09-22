@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
-- [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
-- [Download responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
-- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
-- [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
+- [Tell the EU: Don&#39;t Break Encryption with &quot;Chat Control&quot;](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
+- [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
+- [Some Republicans Warn of Government Overreach on Free Speech](https://www.wsj.com/politics/policy/some-republicans-warn-of-government-overreach-on-free-speech-821e7caf)
+- [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
+- [Show HN: Coding Agents swarming your codebase](https://infrastructureas.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
