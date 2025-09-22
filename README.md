@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mentra &lpar;YC W25&rpar; Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+- [California issues historic fine over lawyer&#39;s ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 - [A board member&#39;s perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
-- [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
-- [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
-- [The American nations across North America](https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/)
+- [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
+- [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
