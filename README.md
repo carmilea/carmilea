@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+- [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
+- [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
-- [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 - [AI-Generated &quot;Workslop&quot; Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 <!-- BLOG-POST-LIST:END -->
 
