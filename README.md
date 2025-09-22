@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 - [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
 - [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
-- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
-- [Fs-code – PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)
-- [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
+- [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27)
+- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms &lpar;2024&rpar;](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
