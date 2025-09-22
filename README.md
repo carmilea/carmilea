@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mentra &lpar;YC W25&rpar; Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
-- [California issues historic fine over lawyer&#39;s ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
-- [A board member&#39;s perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
-- [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
-- [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
+- [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
+- [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
+- [AI-Generated &quot;Workslop&quot; Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
