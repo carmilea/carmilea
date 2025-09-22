@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tell the EU: Don&#39;t Break Encryption with &quot;Chat Control&quot;](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
 - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
-- [Some Republicans Warn of Government Overreach on Free Speech](https://www.wsj.com/politics/policy/some-republicans-warn-of-government-overreach-on-free-speech-821e7caf)
 - [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
 - [Show HN: Coding Agents swarming your codebase](https://infrastructureas.ai)
+- [Metamaterials, AI, and the Road to Invisibility Cloaks](https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
