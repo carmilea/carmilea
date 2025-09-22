@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Venus Hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
-- [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
-- [Procedural Island Generation &lpar;VI&rpar;](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
-- [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
-- [I created a bouncing DVD screensaver for your terminal](https://github.com/integrii/dvd)
+- [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
+- [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)
+- [Zig got a new ELF linker and it&#39;s fast](https://github.com/ziglang/zig/pull/25299)
+- [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
+- [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
