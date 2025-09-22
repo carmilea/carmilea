@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
+- [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
 - [Download responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
 - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 - [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
-- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms &lpar;2024&rpar;](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
