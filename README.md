@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
 - [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
+- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
 - [Fs-code – PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)
-- [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
-- [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
-- [Be careful with Go struct embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
+- [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
