@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using H2O.ai Aquarium Labs | Latest Update](https://www.youtube.com/watch?v=FSBlJeSadgw)
 - [ElasticSearch vs SingleStore: Real-Time Search Without the Lag](https://www.youtube.com/watch?v=DJfU2CI3gR4)
 - [Hybrid Search Using Reciprocal Rank Fusion in SQL](https://www.youtube.com/watch?v=Vwj7W1f6Ex0)
 - [SQL for Reranking Vector and Text Search Results for AI](https://www.youtube.com/watch?v=eY8Z_qY_Lus)
 - [H2O.ai h2oGPTe x LangGraph Demo](https://www.youtube.com/watch?v=M061h8u-zU4)
-- [Getting Started on SingleStore](https://www.youtube.com/watch?v=A_8ccdo-2dU)
 <!-- YOUTUBE:END -->
 
 
