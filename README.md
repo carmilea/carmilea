@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
-- [PlanetScale announces Postgres is GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
-- [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
-- [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
-- [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
+- [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
+- [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
+- [The American nations across North America](https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/)
+- [UK Millionaire exodus did not occur, study reveals](https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/)
+- [Human-Oriented Markup Language](https://huml.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
