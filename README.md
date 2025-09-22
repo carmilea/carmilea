@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Local-First Apps Haven&#39;t Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
-- [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
-- [CompileBench: Can AI Compile 22-year-old Code?](https://quesma.com/blog/introducing-compilebench/)
-- [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
-- [Easy Forth](https://skilldrick.github.io/easyforth/)
+- [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
+- [PlanetScale announces Postgres is GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
+- [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
+- [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
+- [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
