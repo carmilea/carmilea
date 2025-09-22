@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell the EU: Don&#39;t Break Encryption with &quot;Chat Control&quot;](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
-- [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
-- [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
-- [Show HN: Coding Agents swarming your codebase](https://infrastructureas.ai)
-- [Metamaterials, AI, and the Road to Invisibility Cloaks](https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to)
+- [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
+- [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
+- [Easy Forth](https://skilldrick.github.io/easyforth/)
+- [Tesla coast-to-coast FSD crashes after 60 miles](https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/)
+- [Kmart&#39;s use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
