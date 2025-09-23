@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
+- [Zinc &lpar;YC W14&rpar; Is Hiring a Senior Back End Engineer &lpar;NYC&rpar;](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
+- [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)
 - [Walking Michigan City &lpar;Indiana&rpar;](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
-- [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
-- [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492)
-- [Indoor surfaces act as sponges for harmful chemicals](https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/)
-- [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
+- [Structured Outputs in LLMs](https://parthsareen.com/blog.html#sampling.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
