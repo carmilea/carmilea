@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
-- [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
-- [Silicon Valley hiring in turmoil after new H-1B fees, move spurs offshoring talk](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/)
-- [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
-- [Zinc &lpar;YC W14&rpar; Is Hiring a Senior Back End Engineer &lpar;NYC&rpar;](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
+- [CIA Thwarts Major Telecom Attack in NY](https://apnews.com/article/unga-threat-telecom-service-sim-93734f76578bc9ca22d93a8e91fd9c76)
+- [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
+- [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
+- [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
+- [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
