@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telli &lpar;YC F24&rpar; is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
+- [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 - [Delete FROM users WHERE location = &#39;Iran&#39;;](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
 - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
 - [Gamebooks and graph theory &lpar;2019&rpar;](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
-- [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
-- [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
