@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Strata &lpar;YC X25&rpar; – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
-- [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
-- [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
-- [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
-- [x402 — An open protocol for internet-native payments](https://www.x402.org/)
+- [FDA Takes Action to Make a Treatment Available for Autism Symptoms](https://www.fda.gov/news-events/press-announcements/fda-takes-action-make-treatment-available-autism-symptoms)
+- [&quot;If you are reading this obituary, it looks like I&#39;m dead. It happened&quot;](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
+- [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
+- [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
+- [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
