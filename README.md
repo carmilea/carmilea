@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
-- [Telli &lpar;YC F24&rpar; is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
-- [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
-- [Delete FROM users WHERE location = &#39;Iran&#39;;](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
-- [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
+- [Walking Michigan City &lpar;Indiana&rpar;](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
+- [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
+- [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492)
+- [Indoor surfaces act as sponges for harmful chemicals](https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/)
+- [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
