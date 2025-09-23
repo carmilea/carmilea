@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
 - [Pocket Casts, You Altered the Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
-- [X server implementation for SIXEL-featured terminals](https://github.com/saitoha/xserver-SIXEL)
+- [X server implementation for SIXEL-featured terminals &lpar;2010-2014&rpar;](https://github.com/saitoha/xserver-SIXEL)
 - [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
 - [In Maine, prisoners are thriving in remote jobs](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
-- [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
