@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
+- [I can&#39;t stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
+- [YouTube will let users booted for violations of Covid, elections policies rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
 - [Privacy Commissioners find TikTok collected sensitive data from children](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/)
 - [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
-- [consumed.today](https://consumed.today/)
-- [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
-- [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
