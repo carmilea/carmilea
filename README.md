@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CIA Thwarts Major Telecom Attack in NY](https://apnews.com/article/unga-threat-telecom-service-sim-93734f76578bc9ca22d93a8e91fd9c76)
-- [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
-- [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
-- [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
-- [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence)
+- [Launch HN: Strata &lpar;YC X25&rpar; – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
+- [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
+- [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
+- [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
+- [x402 — An open protocol for internet-native payments](https://www.x402.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
