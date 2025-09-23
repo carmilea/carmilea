@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Takes Action to Make a Treatment Available for Autism Symptoms](https://www.fda.gov/news-events/press-announcements/fda-takes-action-make-treatment-available-autism-symptoms)
-- [&quot;If you are reading this obituary, it looks like I&#39;m dead. It happened&quot;](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
-- [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
+- [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
+- [Show HN: FlyCode – Recover Stripe payments by automatically using backup cards](https://news.ycombinator.com/item?id=45348730)
+- [Are elites meritocratic and efficiency-seeking? Evidence from MBA students](https://arxiv.org/abs/2503.15443)
 - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
 - [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/)
 <!-- BLOG-POST-LIST:END -->
