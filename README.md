@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing IoT Edge Device Cloning](https://www.embedded.com/preventing-iot-device-cloning/)
-- [From Rust to Reality: The Hidden Journey of Fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
+- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
 - [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
+- [Podman Desktop celebrates 3M downloads](https://podman-desktop.io/blog/3-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
