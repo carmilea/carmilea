@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
 - [Telli &lpar;YC F24&rpar; is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 - [Delete FROM users WHERE location = &#39;Iran&#39;;](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
 - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
-- [Gamebooks and graph theory &lpar;2019&rpar;](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
