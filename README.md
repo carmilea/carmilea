@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
 - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
 - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
-- [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
+- [Kwikset ends support for smartphone enabled deadbolt. Suggests physical keys](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
-- [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
