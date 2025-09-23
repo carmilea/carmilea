@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Preventing IoT Edge Device Cloning](https://www.embedded.com/preventing-iot-device-cloning/)
+- [From Rust to Reality: The Hidden Journey of Fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
+- [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
+- [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
-- [I can&#39;t stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
-- [YouTube will let users booted for violations of Covid, elections policies rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
-- [Privacy Commissioners find TikTok collected sensitive data from children](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/)
-- [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
