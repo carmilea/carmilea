@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gamebooks and Graph Theory](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
+- [Delete FROM users WHERE location = &#39;Iran&#39;;](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
+- [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
+- [Gamebooks and graph theory &lpar;2019&rpar;](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 - [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
-- [9 Things I Learned in 90 Years – From the Creator of Choose Your Own Adventure [pdf]](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
-- [X server implementation for SIXEL-featured terminals &lpar;2010-2014&rpar;](https://github.com/saitoha/xserver-SIXEL)
-- [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
+- [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
