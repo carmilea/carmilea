@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamebooks and Graph Theory](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 - [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
-- [Pocket Casts, You Altered the Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
+- [9 Things I Learned in 90 Years – From the Creator of Choose Your Own Adventure [pdf]](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 - [X server implementation for SIXEL-featured terminals &lpar;2010-2014&rpar;](https://github.com/saitoha/xserver-SIXEL)
-- [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
-- [In Maine, prisoners are thriving in remote jobs](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
+- [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
