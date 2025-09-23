@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Find SF Parking Cops](https://walzr.com/sf-parking/)
+- [Find SF parking cops](https://walzr.com/sf-parking/)
 - [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
+- [Show HN: FlyCode – Recover Stripe payments by automatically using backup cards](https://news.ycombinator.com/item?id=45348730)
 - [Always Invite Anna](https://sharif.io/anna-alexei)
 - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
-- [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
