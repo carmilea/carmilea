@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
+- [Giving users choice with Cloudflare&#39;s new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
+- [Tinder, Hinge, and their corporate owner keep rape under wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 - [Launch HN: Flywheel &lpar;YC S25&rpar; – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
-- [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
-- [Product Hunt is dead](https://sedimental.org/product_hunt_is_dead.html)
-- [Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity](https://github.com/DeprecatedLuar/better-curl-saul)
+- [Show HN: Vibe Linking](https://vb.lk/)
+- [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
 <!-- BLOG-POST-LIST:END -->
 
 ---
