@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
+- [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 - [Launch HN: Flywheel &lpar;YC S25&rpar; – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 - [Show HN: Vibe Linking](https://vb.lk/)
