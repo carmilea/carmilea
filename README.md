@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
-- [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
-- [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
-- [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
-- [Podman Desktop celebrates 3M downloads](https://podman-desktop.io/blog/3-million)
+- [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
+- [Baldur&#39;s Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
+- [The Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
+- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
+- [NYC Telecom Raid: What&#39;s Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
