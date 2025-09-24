@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Inferencer – Run and deeply control local AI models &lpar;macOS release&rpar;](https://inferencer.com/)
 - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
-- [America&#39;s top companies keep talking about AI – but can&#39;t explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
 - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
 <!-- BLOG-POST-LIST:END -->
