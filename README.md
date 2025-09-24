@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you expose telemetry data to non-tech?](https://news.ycombinator.com/item?id=45360537)
-- [Just Let Me Select Text](https://aartaka.me/select-text.html)
-- [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
-- [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
-- [My Ed&lpar;1&rpar; Toolbox](https://aartaka.me/my-ed.html)
+- [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)
+- [The DHS has been harvesting DNA from Americans for years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
+- [Who Funds Misfit Research?](https://blog.spec.tech/p/who-funds-misfit-research)
+- [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
+- [Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs](https://amandeepsp.github.io/blog/fs-watcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
