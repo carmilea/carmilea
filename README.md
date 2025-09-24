@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Flight Simulator 2024 is coming to Playstation 5 on December 8th](https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/)
+- [SonyShell – an effort to &quot;SSH into my Sony DSLR&quot;](https://github.com/goudvuur/sonyshell)
 - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 - [Launch HN: Flywheel &lpar;YC S25&rpar; – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
-- [Show HN: Vibe Linking](https://vb.lk/)
-- [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
 <!-- BLOG-POST-LIST:END -->
 
 ---
