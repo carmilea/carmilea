@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My game&#39;s server is blocked in Spain whenever there&#39;s a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 - [Introducing Powerful GPU and Flexible CPU Compute Options for Data and AI Workloads](https://www.singlestore.com/blog/introducing-powerful-gpu-and-flexible-cpu-compute-options-for-data-and-ai-workloads)
 - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
 - [You didn&#39;t see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
 - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
-- [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
