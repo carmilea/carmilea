@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s top companies keep talking about AI – but can&#39;t explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
 - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
+- [Bring true randomness to Spotify with Fisher-Yates shuffle](https://github.com/vuciv/true-random-shuffle)
 - [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
-- [Baldur&#39;s Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
-- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
