@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you expose telemetry data to non-tech?](https://news.ycombinator.com/item?id=45360537)
+- [Just Let Me Select Text](https://aartaka.me/select-text.html)
+- [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
 - [My Ed&lpar;1&rpar; Toolbox](https://aartaka.me/my-ed.html)
-- [US Airlines Push to Strip Away Travelers&#39; Rights by Rolling Back Key Protections](https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/)
-- [Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID](https://bigbrotherwatch.org.uk/press-releases/rights-groups-urge-starmer-to-abandon-plans-for-mandatory-digital-id/)
-- [EU age verification app not planning desktop support](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
