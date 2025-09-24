@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Powerful GPU and Flexible CPU Compute Options for Data and AI Workloads](https://www.singlestore.com/blog/introducing-powerful-gpu-and-flexible-cpu-compute-options-for-data-and-ai-workloads)
 - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
-- [Ruby Central Is Not Behaving in Good Faith, and I&#39;ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
+- [You didn&#39;t see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
 - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
-- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
