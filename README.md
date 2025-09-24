@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving users choice with Cloudflare&#39;s new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
-- [Tinder, Hinge, and their corporate owner keep rape under wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
+- [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
+- [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 - [Launch HN: Flywheel &lpar;YC S25&rpar; – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 - [Show HN: Vibe Linking](https://vb.lk/)
 - [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
