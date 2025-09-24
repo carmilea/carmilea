@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 - [America&#39;s top companies keep talking about AI – but can&#39;t explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
 - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
-- [Bring true randomness to Spotify with Fisher-Yates shuffle](https://github.com/vuciv/true-random-shuffle)
 - [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
 <!-- BLOG-POST-LIST:END -->
 
