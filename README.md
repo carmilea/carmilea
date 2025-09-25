@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi Search Down](https://status.kagi.com)
+- [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
+- [Electron-based apps cause system-wide lag on macOS 26 Tahoe](https://github.com/electron/electron/issues/48311)
 - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
-- [Immich mobile app sync V2](https://immich.app/blog/sync-v2)
-- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
-- [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
-- [Austria hails &#39;brain gain&#39; in luring 25 academics away from US after cutd](https://www.reuters.com/world/austria-hails-brain-gain-luring-25-academics-away-us-after-cuts-2025-09-25/)
+- [Haydex: From Zero to 178,600M rows a second in 30 days](https://axiom.co/blog/building-haydex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
