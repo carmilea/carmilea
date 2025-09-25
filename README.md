@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Military Was Caught Off Guard by Israeli Strike on Qatar](https://www.twz.com/air/new-info-on-how-u-s-military-was-caught-off-guard-by-israeli-strike-on-qatar)
-- [Apple says it may stop shipping to the EU](https://www.theguardian.com/technology/2025/sep/25/apple-calls-for-changes-to-anti-monopoly-laws-and-says-it-may-stop-shipping-to-the-eu)
-- [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
-- [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
-- [Data Viz Color Palette Generator &lpar;For Charts and Dashboards&rpar;](https://www.learnui.design/tools/data-color-picker.html)
+- [Microsoft blocks Israel&#39;s use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
+- [Accenture to &#39;exit&#39; staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
+- [The Story of DOGE, as Told by Federal Workers](https://www.wired.com/story/oral-history-doge-federal-workers/)
+- [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
+- [Launch HN: Webhound &lpar;YC S23&rpar; – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
