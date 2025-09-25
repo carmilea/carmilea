@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
-- [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
-- [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
-- [Bundler Belongs to the Ruby Community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
-- [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
+- [U.S. Military Was Caught Off Guard by Israeli Strike on Qatar](https://www.twz.com/air/new-info-on-how-u-s-military-was-caught-off-guard-by-israeli-strike-on-qatar)
+- [Apple says it may stop shipping to the EU](https://www.theguardian.com/technology/2025/sep/25/apple-calls-for-changes-to-anti-monopoly-laws-and-says-it-may-stop-shipping-to-the-eu)
+- [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
+- [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
+- [Data Viz Color Palette Generator &lpar;For Charts and Dashboards&rpar;](https://www.learnui.design/tools/data-color-picker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
