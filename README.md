@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RTO: WTAF](https://wordsrightman.beehiiv.com/p/rto-wtaf)
-- [Perhaps my last post – we&#39;ll see &lpar;2016&rpar;](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)
+- [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
+- [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
+- [Is This Bad? This Feels Bad. &lpar;Fortra GoAnywhere CVE-2025-10035&rpar;](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
 - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
 - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
-- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
