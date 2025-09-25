@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
+- [Immich mobile app sync V2](https://immich.app/blog/sync-v2)
+- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
 - [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
-- [The Harvard-Emory ECG Database](https://bdsp.io/content/heedb/4.0/)
-- [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
-- [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
-- [Microsoft blocks Israel&#39;s use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
+- [Austria hails &#39;brain gain&#39; in luring 25 academics away from US after cutd](https://www.reuters.com/world/austria-hails-brain-gain-luring-25-academics-away-us-after-cuts-2025-09-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
