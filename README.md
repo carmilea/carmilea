@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started on SingleStore](https://www.youtube.com/watch?v=dGqr92BGRuw)
 - [From MySQL to Real](https://www.youtube.com/watch?v=GV0yB6MSjJA)
 - [From MySQL to Real-Time: Scaling Without Breaking the Bank](https://www.youtube.com/watch?v=G-boXHmw5mc)
 - [h2oGPTe + OpenWebUI](https://www.youtube.com/watch?v=WKNGUQQXu4w)
 - [Using H2O.ai Aquarium Labs | Latest Update](https://www.youtube.com/watch?v=FSBlJeSadgw)
-- [ElasticSearch vs SingleStore: Real-Time Search Without the Lag](https://www.youtube.com/watch?v=DJfU2CI3gR4)
 <!-- YOUTUBE:END -->
 
 
