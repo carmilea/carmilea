@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
+- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
+- [SEC forgives three scammers who bilked Americans out of millions](https://www.msn.com/en-us/money/companies/trump-s-sec-forgives-three-scammers-who-bilked-americans-out-of-millions-opinion/ar-AA1NeBPg)
 - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
 - [Helium Browser](https://helium.computer/)
-- [Everything that&#39;s wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
-- [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
-- [SonyShell – an effort to &quot;SSH into my Sony DSLR&quot;](https://github.com/goudvuur/sonyshell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
