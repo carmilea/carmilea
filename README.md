@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
+- [Factory Raises $50M Series B](https://factory.ai/news/series-b)
+- [U.S. once again hits new low in World Happiness Report](https://www.axios.com/2025/03/20/us-new-low-world-happiness-report)
 - [New Quasi-Moon Discovered Orbiting Earth, but It&#39;s Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
-- [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
-- [Ollama Web Search](https://ollama.com/blog/web-search)
-- [Implementing UI translation in SumatraPDF, a C++ Windows application](https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html)
-- [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
+- [The VAX &lpar;John Mashey, 2005&rpar;](https://yarchive.net/comp/vax.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
