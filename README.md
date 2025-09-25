@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Homeowner Baffled After Washing Machine Uses 3.6GB of Internet Data a Day](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
-- [The &quot;Wage Level&quot; Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/)
+- [Homeowner baffled after washing machine uses 3.6GB of internet data a day &lpar;2024&rpar;](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
 - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
 - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
 - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
+- [Helium Browser](https://helium.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
