@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
+- [The Harvard-Emory ECG Database](https://bdsp.io/content/heedb/4.0/)
 - [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
 - [Microsoft blocks Israel&#39;s use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
-- [This month in Servo: variable fonts, network tools, SVG](https://servo.org/blog/2025/09/25/this-month-in-servo/)
-- [Accenture to &#39;exit&#39; staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
