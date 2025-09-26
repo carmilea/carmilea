@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
+- [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
+- [All British adults to require a digital ID &#39;Brit Card&#39;](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
+- [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
 - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 - [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
-- [Redis is fast – I&#39;ll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
-- [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
