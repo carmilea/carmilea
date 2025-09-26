@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Genode OS Framework](https://genode.org)
 - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 - [Pop OS is getting beta](https://system76.com/pop/pop-beta/)
 - [The great sameness: a comic on how AI makes us more alike](https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925)
 - [Ode to Libraries from a Remote Worker](https://sibervepunk.com/ode-to-libraries/)
-- [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
