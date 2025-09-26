@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
-- [Factory Raises $50M Series B](https://factory.ai/news/series-b)
-- [New Quasi-Moon Discovered Orbiting Earth, but It&#39;s Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
-- [The VAX &lpar;John Mashey, 2005&rpar;](https://yarchive.net/comp/vax.html)
-- [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
+- [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
+- [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
+- [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
+- [Redis is fast – I&#39;ll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
+- [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
