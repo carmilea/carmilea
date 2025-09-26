@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
+- [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
 - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
-- [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
 - [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
 - [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
-- [Gauntlet AI &lpar;YC S17&rpar; is looking for engineers who want to master AI](https://apply.gauntletai.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
