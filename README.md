@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The great sameness: a comic on how AI makes us more alike](https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925)
+- [Ode to Libraries from a Remote Worker](https://sibervepunk.com/ode-to-libraries/)
 - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 - [Kapa.ai &lpar;YC S23&rpar; Is Hiring a Customer Solutions Engineer &lpar;EU Remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
-- [Safe in the sandbox: security hardening for Cloudflare Workers](https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/)
 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
-- [A platform-jumping prince – History of Prince of Persia&#39;s 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
 <!-- BLOG-POST-LIST:END -->
 
 ---
