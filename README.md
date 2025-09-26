@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
-- [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
-- [Better health conversations: Research on a &quot;wayfinding&quot; AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
-- [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
-- [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
+- [Thinking Machines – Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
+- [Gauntlet AI &lpar;YC S17&rpar; is looking for engineers who want to master AI](https://apply.gauntletai.com/)
+- [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
+- [Ubuntu 25.10&#39;s Rust Coreutils Is Causing Major Breakage for Some Executables](https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself)
+- [Open Social](https://overreacted.io/open-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
