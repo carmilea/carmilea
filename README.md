@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
-- [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
-- [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-- [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
-- [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
+- [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
+- [Israel hacked every Gaza cellphone to stream PM Netanyahu&#39;s UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
+- [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)
+- [Gurted – A web ecosystem introducing the gurt:// protocol](https://gurted.com/)
+- [The von Neumann bottleneck is impeding AI computing?](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
