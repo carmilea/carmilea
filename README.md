@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
-- [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
-- [They don&#39;t make &#39;em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
-- [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
+- [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
+- [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
+- [Better health conversations: Research on a &quot;wayfinding&quot; AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
+- [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
+- [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
