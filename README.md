@@ -61,7 +61,7 @@
 - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-- [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
+- [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
 - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 <!-- BLOG-POST-LIST:END -->
 
