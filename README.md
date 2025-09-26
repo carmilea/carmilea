@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kapa.ai &lpar;YC S23&rpar; Is Hiring a Customer Solutions Engineer &lpar;EU Remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
-- [The effect of H-1B quota on employment and selection of foreign-born labor &lpar;2018&rpar;](https://doi.org/10.1016/j.euroecorev.2018.06.010)
 - [A platform-jumping prince – History of Prince of Persia&#39;s 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
 - [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
