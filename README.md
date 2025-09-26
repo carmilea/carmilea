@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-- [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
-- [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
-- [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
-- [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
+- [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
+- [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
+- [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
+- [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
+- [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 <!-- BLOG-POST-LIST:END -->
 
 ---
