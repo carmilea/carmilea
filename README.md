@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
+- [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)
 - [Genode OS Framework](https://genode.org)
 - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
-- [Pop OS is getting beta](https://system76.com/pop/pop-beta/)
-- [The great sameness: a comic on how AI makes us more alike](https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925)
-- [Ode to Libraries from a Remote Worker](https://sibervepunk.com/ode-to-libraries/)
+- [Pop OS 24.04 LTS Beta](https://system76.com/pop/pop-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
