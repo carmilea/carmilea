@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
-- [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
-- [&#39;Independent&#39; auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)
+- [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
+- [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
+- [They don&#39;t make &#39;em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
+- [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 - [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
-- [Genode OS Framework](https://genode.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
