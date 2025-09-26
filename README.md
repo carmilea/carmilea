@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abu Dhabi royal family to take stake in TikTok US](https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx)
+- [&#39;Independent&#39; auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)
 - [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
 - [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)
 - [Genode OS Framework](https://genode.org)
-- [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
-- [Pop OS 24.04 LTS Beta](https://system76.com/pop/pop-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
