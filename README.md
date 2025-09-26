@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 - [Kapa.ai &lpar;YC S23&rpar; Is Hiring a Customer Solutions Engineer &lpar;EU Remote&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
+- [Safe in the sandbox: security hardening for Cloudflare Workers](https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/)
 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
 - [A platform-jumping prince – History of Prince of Persia&#39;s 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
-- [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
-- [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
