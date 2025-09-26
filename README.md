@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking Machines – Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
+- [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
+- [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
+- [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
+- [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
 - [Gauntlet AI &lpar;YC S17&rpar; is looking for engineers who want to master AI](https://apply.gauntletai.com/)
-- [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
-- [Ubuntu 25.10&#39;s Rust Coreutils Is Causing Major Breakage for Some Executables](https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself)
-- [Open Social](https://overreacted.io/open-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
