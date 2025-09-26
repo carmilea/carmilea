@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
+- [New math revives geometry&#39;s oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
+- [Why do we remember some life moments - but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
+- [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
+- [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 - [Israel hacked every Gaza cellphone to stream PM Netanyahu&#39;s UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
-- [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)
-- [Gurted – A web ecosystem introducing the gurt:// protocol](https://gurted.com/)
-- [The von Neumann bottleneck is impeding AI computing?](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
