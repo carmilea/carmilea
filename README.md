@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The effect of H-1B quota on employment and selection of foreign-born labor &lpar;2018&rpar;](https://doi.org/10.1016/j.euroecorev.2018.06.010)
+- [A platform-jumping prince – History of Prince of Persia&#39;s 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
+- [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
-- [All British adults to require a digital ID &#39;Brit Card&#39;](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
-- [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
-- [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
