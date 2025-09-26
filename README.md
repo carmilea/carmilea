@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 - [All British adults to require a digital ID &#39;Brit Card&#39;](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
-- [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
-- [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
-- [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
+- [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
+- [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
