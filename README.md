@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
+- [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
+- [Are We in an A.I. Bubble? I Suspect So](https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect)
 - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
-- [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
-- [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
-- [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
