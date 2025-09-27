@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
 - [Why Today&#39;s Humanoids Won&#39;t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
-- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
