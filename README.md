@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Casimir Effect Energy](https://www.casimirspace.com)
+- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
 - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
-- [New math revives geometry&#39;s oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
-- [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
