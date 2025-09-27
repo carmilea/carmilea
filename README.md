@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox context menu adds &quot;Search Image with Google Lens&quot;](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
+- [iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark](https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors)
+- [NSPM-7 labels common beliefs as terrorism &#39;indicators&#39;](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)
 - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
-- [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
-- [Are We in an A.I. Bubble? I Suspect So](https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect)
-- [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
+- [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
