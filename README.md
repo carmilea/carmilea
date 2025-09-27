@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
+- [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
 - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
 - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
-- [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
-- [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
