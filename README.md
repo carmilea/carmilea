@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
 - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
 - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
 - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
-- [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
