@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reduce, Reuse, Don&#39;t Recycle](https://alearningaday.blog/2025/09/11/reduce-reuse-dont-recycle/)
+- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
+- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
+- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
 - [New math revives geometry&#39;s oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
-- [Why do we remember some life moments - but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
-- [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
-- [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
-- [Israel hacked every Gaza cellphone to stream PM Netanyahu&#39;s UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
