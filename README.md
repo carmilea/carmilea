@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
+- [Property-Based Testing of OCaml 5&#39;s Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
 - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
 - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
-- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
