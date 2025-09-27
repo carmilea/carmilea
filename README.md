@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
+- [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 - [Property-Based Testing of OCaml 5&#39;s Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 - [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
-- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
-- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
