@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
+- [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
 - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
-- [Why Today&#39;s Humanoids Won&#39;t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
-- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
