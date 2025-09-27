@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &lpar;economic&rpar; AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
+- [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
 - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
 - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
-- [New in Firefox: Visual search powered by Google Lens](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
-- [Explore Digital Edition of Printing Types from 1922](https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
