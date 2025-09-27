@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
 - [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)
 - [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
+- [We Won&#39;t Be Missed: Work and Growth in the Era of AGI [pdf]](https://conference.nber.org/conf_papers/f227505.pdf)
 - [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
-- [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
-- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
