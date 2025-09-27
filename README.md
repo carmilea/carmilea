@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
-- [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)
-- [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
-- [We Won&#39;t Be Missed: Work and Growth in the Era of AGI [pdf]](https://conference.nber.org/conf_papers/f227505.pdf)
-- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
+- [Scientists say X has lost its professional edge and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)
+- [Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry](https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/)
+- [Is sound gradual typing dead? Performance problems in Typed Racket](https://dl.acm.org/doi/abs/10.1145/2837614.2837630)
+- [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
+- [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
