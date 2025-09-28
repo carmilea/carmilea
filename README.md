@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
+- [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973)
+- [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
 - [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977)
 - [Testing &quot;Exotic&quot; P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
-- [Swiss voters back e-ID and abolish rental tax](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432)
-- [Show HN: Built an MCP server using Cloudflare&#39;s Code Mode pattern](https://github.com/jx-codes/codemode-mcp)
-- [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 <!-- BLOG-POST-LIST:END -->
 
 ---
