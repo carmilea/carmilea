@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &lpar;economic&rpar; AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
-- [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
-- [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
-- [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
-- [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
+- [How to Set $2,455 on Fire](https://busd.steviep.xyz/howto)
+- [Enthusiasts bond twelve 56K modems together to set dial-up record: 668kbps](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/)
+- [Learn to Play Go](https://online-go.com/learn-to-play-go)
+- [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
