@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
+- [Roe &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45407951)
+- [Swiss voters back e-ID legislation](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
+- [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
 - [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
-- [Chinese scientists set world record with magnetic field 700k times Earth&#39;s](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
-- [The QMA Singularity](https://scottaaronson.blog/?p=9183)
-- [People got together to stop a school shooting before it happened](https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html)
-- [Why some USB C cables work, or not, J-Link](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
