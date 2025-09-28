@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
 - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
 - [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973)
 - [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
-- [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977)
-- [Testing &quot;Exotic&quot; P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
+- [Real-Time Radiation World Map](https://www.gmcmap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
