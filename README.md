@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set $2,455 on Fire](https://busd.steviep.xyz/howto)
-- [Enthusiasts bond twelve 56K modems together to set dial-up record: 668kbps](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
 - [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/)
 - [Learn to Play Go](https://online-go.com/learn-to-play-go)
-- [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
+- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
