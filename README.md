@@ -61,8 +61,8 @@
 - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
 - [Learn to play Go](https://online-go.com/learn-to-play-go)
-- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
+- [When did human chromosome 2 fuse?&lpar;2023&rpar;](https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
