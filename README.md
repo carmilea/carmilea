@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Post-American Order Starts in Riyadh and Islamabad](https://www.bloomberg.com/opinion/articles/2025-09-24/the-post-american-order-starts-in-riyadh-and-islamabad)
 - [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
 - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
-- [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
-- [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
-- [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
+- [Fred Dibnah shows how to erect a chimney scaffold at 200 feet &lpar;1982&rpar; [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
+- [Show HN: Curated gamedev specific search engine](https://gamedevtorch.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
