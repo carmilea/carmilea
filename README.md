@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
-- [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
-- [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/)
-- [Learn to Play Go](https://online-go.com/learn-to-play-go)
+- [Learn to play Go](https://online-go.com/learn-to-play-go)
 - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
+- [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
