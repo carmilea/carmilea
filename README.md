@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Torvalds and the Supposedly &quot;Garbage Code&quot;](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
+- [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
+- [Dismissed as a joke, UK&#39;s first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
 - [IBM Intellistation 185 AIX workstation &lpar;2016&rpar;](http://www.ibmfiles.com/pages/intellipower185.htm)
 - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
-- [Learn to play Go](https://online-go.com/learn-to-play-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
