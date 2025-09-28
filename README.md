@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
-- [Plan 9 from User Space](https://github.com/9fans/plan9port)
-- [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
-- [When I say &quot;alphabetical order&quot;, I mean &quot;alphabetical order&quot;](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
-- [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
+- [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
+- [Why I&#39;m not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
+- [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
+- [The Death of Utilitarian Programming](https://news.ycombinator.com/item?id=45404997)
+- [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook &lpar;2021&rpar;](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
