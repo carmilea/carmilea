@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
+- [Farewell Friends](https://humbledollar.com/forum/farewell-friends/)
 - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
 - [Roe &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45407951)
-- [Swiss voters back e-ID legislation](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
-- [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
-- [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
+- [Linus Learns Analog Circuits](https://github.com/torvalds/GuitarPedal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
