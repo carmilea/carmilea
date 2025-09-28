@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
+- [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
 - [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
 - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
-- [Hardware inspector fired for spotting an error he wasn&#39;t trained to find](https://www.theregister.com/2025/09/26/on_call/)
 - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
-- [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
