@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
-- [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
-- [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973)
-- [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
-- [Real-Time Radiation World Map](https://www.gmcmap.com/)
+- [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
+- [Chinese scientists set world record with magnetic field 700k times Earth&#39;s](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
+- [The QMA Singularity](https://scottaaronson.blog/?p=9183)
+- [People got together to stop a school shooting before it happened](https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html)
+- [Why some USB C cables work, or not, J-Link](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
