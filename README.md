@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go ahead, write the stupid code](https://spikepuppet.io/posts/write-the-stupid-code/)
 - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
-- [Farewell Friends](https://humbledollar.com/forum/farewell-friends/)
+- [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
 - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
 - [Roe &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45407951)
-- [Linus Learns Analog Circuits](https://github.com/torvalds/GuitarPedal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
