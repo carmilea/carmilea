@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977)
+- [Testing &quot;Exotic&quot; P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
+- [Swiss voters back e-ID and abolish rental tax](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432)
+- [Show HN: Built an MCP server using Cloudflare&#39;s Code Mode pattern](https://github.com/jx-codes/codemode-mcp)
 - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
-- [Why I&#39;m not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
-- [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
-- [The Death of Utilitarian Programming](https://news.ycombinator.com/item?id=45404997)
-- [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook &lpar;2021&rpar;](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
