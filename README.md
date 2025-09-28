@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Listeria found Walmart meatball meals may be linked deadly fettuccine outbreak](https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak)
-- [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
-- [The Post-American Order Starts in Riyadh and Islamabad](https://www.bloomberg.com/opinion/articles/2025-09-24/the-post-american-order-starts-in-riyadh-and-islamabad)
-- [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
-- [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
+- [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
+- [Plan 9 from User Space](https://github.com/9fans/plan9port)
+- [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
+- [When I say &quot;alphabetical order&quot;, I mean &quot;alphabetical order&quot;](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
+- [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
