@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Primer on FedEx&#39;s Distribution Network](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
+- [Primer on FedEx&#39;s Distribution Network &lpar;2024&rpar;](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
 - [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
 - [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
+- [Use the Accept Header to Serve Markdown Instead of HTML to LLMs](https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/)
 - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
-- [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
