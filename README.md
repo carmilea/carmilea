@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Are You Working On? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
+- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+- [Big Tech Told Kids to Code. The Jobs Didn’t Follow [audio]](https://www.nytimes.com/2025/09/29/podcasts/the-daily/big-tech-told-kids-to-code-the-jobs-didnt-follow.html)
+- [Ask HN: What are you working on? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
 - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
 - [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
-- [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
-- [‘Based on a True Story’ &lpar;2016-2019&rpar;](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
