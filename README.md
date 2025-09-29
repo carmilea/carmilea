@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Go ahead, write the stupid code](https://spikepuppet.io/posts/write-the-stupid-code/)
-- [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
-- [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
-- [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
-- [Roe &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45407951)
+- [Primer on FedEx&#39;s Distribution Network](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
+- [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
+- [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
+- [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
+- [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
