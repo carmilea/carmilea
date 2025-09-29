@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
+- [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 - [Reader Response to &quot;AI Overinvestment&quot;](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
 - [F-Droid and Google&#39;s Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 - [Primer on FedEx&#39;s Distribution Network &lpar;2024&rpar;](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
-- [Cleaning house in Nx monorepo, how i removed unused deps safely](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
