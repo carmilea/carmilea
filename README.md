@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gold hits all time high](https://goldprice.org/)
+- [What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
+- [&#39;Based on a True Story&#39;](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
+- [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
 - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
-- [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
-- [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
-- [Show HN: Every single torrent is on this website](https://infohash.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
