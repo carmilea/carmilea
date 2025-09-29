@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Larry Ellison – &#39;citizens will be on their best behavior&#39; amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
-- [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
-- [Leading computer science professor says &#39;everybody&#39; is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
-- [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
-- [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
+- [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
+- [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
+- [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
+- [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
+- [EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
