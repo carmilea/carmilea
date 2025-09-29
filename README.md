@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-- [Claude Sonnet 4.5 System Card [pdf]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)
 - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 - [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
+- [Show HN: Every single torrent is on this website](https://infohash.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
