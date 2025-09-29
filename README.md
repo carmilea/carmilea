@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)
+- [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
+- [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
+- [What if I don&#39;t want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 - [Introducing Python User-Defined Functions in SingleStore: Bringing the Power of Python to SQL](https://www.singlestore.com/blog/introducing-python-udfs-in-singlestore)
 - [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
-- [The graduate &#39;jobpocalypse&#39;: Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
-- [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
