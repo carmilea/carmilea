@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Larry Ellison – &#39;citizens will be on their best behavior&#39; amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
+- [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
+- [Leading computer science professor says &#39;everybody&#39; is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
 - [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
 - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
-- [What if I don&#39;t want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
-- [Introducing Python User-Defined Functions in SingleStore: Bringing the Power of Python to SQL](https://www.singlestore.com/blog/introducing-python-udfs-in-singlestore)
-- [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
