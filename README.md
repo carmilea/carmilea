@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
+- [Reader Response to &quot;AI Overinvestment&quot;](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
+- [F-Droid and Google&#39;s Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 - [Primer on FedEx&#39;s Distribution Network &lpar;2024&rpar;](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
-- [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
-- [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
-- [Use the Accept Header to Serve Markdown Instead of HTML to LLMs](https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/)
-- [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
+- [Cleaning house in Nx monorepo, how i removed unused deps safely](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
