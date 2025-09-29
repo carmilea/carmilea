@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)
+- [Introducing Python User-Defined Functions in SingleStore: Bringing the Power of Python to SQL](https://www.singlestore.com/blog/introducing-python-udfs-in-singlestore)
+- [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 - [The graduate &#39;jobpocalypse&#39;: Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
 - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
-- [What is &quot;good taste&quot; in software engineering?](https://www.seangoedecke.com/taste/)
-- [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
-- [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
