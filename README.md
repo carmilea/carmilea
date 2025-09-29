@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marissa Mayer will close her old AI startup, sell assets to her new AI startup](https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/)
+- [Write the Damn Code](https://antonz.org/write-code/)
+- [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
-- [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
 - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
-- [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
-- [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
