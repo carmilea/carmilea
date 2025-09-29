@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
+- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
-- [Big Tech Told Kids to Code. The Jobs Didn’t Follow [audio]](https://www.nytimes.com/2025/09/29/podcasts/the-daily/big-tech-told-kids-to-code-the-jobs-didnt-follow.html)
 - [Ask HN: What are you working on? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
 - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-- [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
