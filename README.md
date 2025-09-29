@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gold hits all time high](https://goldprice.org/)
-- [What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
-- [&#39;Based on a True Story&#39;](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
-- [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
-- [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
+- [Ask HN: What Are You Working On? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
+- [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
+- [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
+- [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
+- [‘Based on a True Story’ &lpar;2016-2019&rpar;](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
