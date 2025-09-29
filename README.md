@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 - [What is &quot;good taste&quot; in software engineering?](https://www.seangoedecke.com/taste/)
 - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 - [The elusive roots of rosin potatoes &lpar;2022&rpar;](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
-- [F-Droid and Google’s developer registration decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
