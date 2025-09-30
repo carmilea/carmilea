@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI tools I wish existed](https://sharif.io/28-ideas-2025)
-- [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
-- [Show HN: Devbox – Containers for better dev environments &lpar;ar0.eu&rpar;](https://devbox.ar0.eu/)
+- [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
+- [Show HN: Cap&#39;n-rs – Rust implementation of Cloudflare&#39;s Cap&#39;n Web protocol](https://github.com/currentspace/capn-rs)
 - [Awakening Bell](https://awakeningbell.org/)
 - [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
 <!-- BLOG-POST-LIST:END -->
