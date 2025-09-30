@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NoPorn – Stop Pornhub](https://chromewebstore.google.com/detail/noporn/jielhlhakhalkkefcgnhcopfhglehdna)
+- [Introducing ML Functions: Bringing the models to the data, not the data to models](https://www.singlestore.com/blog/ml-functions-bring-models-to-data)
 - [Can You Use GDPR to Circumvent Bluesky&#39;s Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
 - [Companies Are Lying About AI Layoffs](https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs)
-- [Bcachefs Removed from the Mainline Kernel](https://lwn.net/Articles/1040120/)
-- [Exploiting huffman table bug in zlib](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 <!-- BLOG-POST-LIST:END -->
 
 ---
