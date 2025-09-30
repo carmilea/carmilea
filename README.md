@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the AI bubble ate Y Combinator](https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632)
-- [Electronic Arts to be acquired for $52B in largest private equity buyout](https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432)
-- [Deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
-- [dgsh – Directed Graph Shell](https://www2.dmst.aueb.gr/dds/sw/dgsh/)
-- [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
+- [Launch HN: Airweave &lpar;YC X25&rpar; – Let agents search any app](https://github.com/airweave-ai/airweave)
+- [The right wing is coming for Wikipedia](https://www.wbur.org/onpoint/2025/09/18/right-wing-wikipedia-editor-heritage)
+- [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
+- [Correctness and composability bugs in the Julia ecosystem &lpar;2022&rpar;](https://yuri.is/not-julia/)
+- [AI will happily design the wrong thing for you](https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
