@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Airweave &lpar;YC X25&rpar; – Let agents search any app](https://github.com/airweave-ai/airweave)
-- [The right wing is coming for Wikipedia](https://www.wbur.org/onpoint/2025/09/18/right-wing-wikipedia-editor-heritage)
-- [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
-- [Correctness and composability bugs in the Julia ecosystem &lpar;2022&rpar;](https://yuri.is/not-julia/)
-- [AI will happily design the wrong thing for you](https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/)
+- [Sora 2](https://openai.com/index/sora-2/)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [Introducing Sora 2 [video]](https://www.youtube.com/watch?v=gzneGhpXwjU)
+- [The Dismantling of the Forest Service](https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/)
+- [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
