@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ProcASM v1.1](https://procasm.temware.site/)
-- [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
-- [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
+- [How the AI bubble ate Y Combinator](https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632)
+- [Electronic Arts to be acquired for $52B in largest private equity buyout](https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432)
+- [Deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
+- [dgsh – Directed Graph Shell](https://www2.dmst.aueb.gr/dds/sw/dgsh/)
 - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
-- [Airgoods &lpar;YC S23&rpar; Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
