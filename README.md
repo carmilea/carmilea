@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
-- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
-- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
-- [Ask HN: What are you working on? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
-- [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
+- [Why is Google charging me $5-10 per click for my own brand name searches](https://news.ycombinator.com/item?id=45420751)
+- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
+- [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
+- [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
+- [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
