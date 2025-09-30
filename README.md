@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ProcASM v1.1](https://procasm.temware.site/)
+- [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
-- [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly &#39;Is Not an Actor &#39;](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
-- [Senators try to halt shuttle move, saying &quot;little evidence&quot; of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
-- [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
+- [Airgoods &lpar;YC S23&rpar; Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
