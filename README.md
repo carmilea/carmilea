@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hedge Funds Have to Be Big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
-- [Boeing Has Started Working on a 737 MAX Replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+- [Hedge funds have to be big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
+- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 - [Sora 2](https://openai.com/index/sora-2/)
 - [Bild AI &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 - [Genomic analyses of hair from Ludwig van Beethoven](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
