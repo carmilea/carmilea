@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can You Use GDPR to Circumvent Bluesky&#39;s Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
+- [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
 - [Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/)
+- [Exploiting huffman table bug in zlib](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
-- [European Union Public Licence &lpar;EUPL&rpar;](https://eupl.eu/)
-- [The ABS Programming Language](https://www.abs-lang.org/)
-- [People may age faster if their dad smoked during puberty](https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
