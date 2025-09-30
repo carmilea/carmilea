@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Google charging me $5-10 per click for my own brand name searches](https://news.ycombinator.com/item?id=45420751)
 - [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
-- [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
+- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 - [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
+- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
