@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Diff Algorithms](https://flo.znkr.io/diff/)
-- [Organize your Slack channels by &quot;How Often&quot;, not &quot;What&quot;](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
-- [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
-- [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
-- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+- [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
+- [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
+- [Our Stewardship: Where We Are, What&#39;s Changing and How We&#39;ll Engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
+- [U.S. Army confirms Tesla Cybertruck can&#39;t be imported in Europe](https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/)
+- [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
