@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NoPorn – Stop Pornhub](https://chromewebstore.google.com/detail/noporn/jielhlhakhalkkefcgnhcopfhglehdna)
-- [Introducing ML Functions: Bringing the models to the data, not the data to models](https://www.singlestore.com/blog/ml-functions-bring-models-to-data)
-- [Can You Use GDPR to Circumvent Bluesky&#39;s Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
-- [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
-- [Companies Are Lying About AI Layoffs](https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs)
+- [Chat Control Is Back on the Menu in the EU. It Still Must Be Stopped](https://www.eff.org/deeplinks/2025/09/chat-control-back-menu-eu-it-still-must-be-stopped-0)
+- [Airgoods &lpar;YC S23&rpar; Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
+- [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)
+- [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
+- [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
