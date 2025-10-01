@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
+- [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
+- [Self-hosting email in 2025 is easy actually &lpar;apart from M365&rpar;](https://mastodon.social/@whitequark/115298019560025791)
+- [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
-- [Type Theory and Functional Programming &lpar;1999&rpar; [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
-- [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
-- [Basic Dialects, IDEs, and Tutorials](https://github.com/JohnBlood/awesome-basic)
-- [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
