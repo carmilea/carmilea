@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+- [The Truth About the School &quot;Replacing Teachers with AI&quot;](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
 - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
-- [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
-- [Decoding Netflix&#39;s AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+- [Tests suggest clues of whose content was used to train OpenAI’s Sora](https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/)
 - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
-- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
