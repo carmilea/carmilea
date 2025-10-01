@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
 - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
 - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
-- [Self-hosting email in 2025 is easy actually &lpar;apart from M365&rpar;](https://mastodon.social/@whitequark/115298019560025791)
 - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 <!-- BLOG-POST-LIST:END -->
