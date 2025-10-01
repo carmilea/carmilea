@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor 1.7](https://cursor.com/changelog/1-7)
-- [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
-- [Minimal files and config for a PWA](https://github.com/chr15m/minimal-pwa)
-- [Detect Electron apps on Mac that hasn&#39;t been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
-- [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
+- [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
+- [Autism Simulator](https://autism-simulator.vercel.app/)
+- [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
+- [Hunter S Thompson&#39;s death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
+- [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
