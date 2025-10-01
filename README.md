@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
+- [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
+- [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 - [Decoding Netflix&#39;s AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
-- [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
-- [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
-- [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+- [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
