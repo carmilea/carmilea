@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)
+- [Why Is Python So Popular in 2025? – The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/)
+- [Codeberg Reaches 300k Projects](https://codeberg.org/)
+- [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
 - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
-- [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
-- [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
-- [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
-- [Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks](https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
