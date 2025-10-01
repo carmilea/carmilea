@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
-- [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
-- [OpenTSLM: Language Models That Understand Time-Series &lpar;Stanford, ETH, Google&rpar;](https://www.opentslm.com/)
-- [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
-- [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
+- [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
+- [Decoding Netflix&#39;s AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+- [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
+- [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
+- [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
