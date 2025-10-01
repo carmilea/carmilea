@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US government shuts down after Democrats refuse to back Republican funding plan](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)
+- [US federal government shuts dowm](https://www.bbc.com/news/live/clylje0rmp2t)
 - [An informational website about why I went to prison](https://prison.josh.mn/)
+- [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
-- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
-- [Introduction to Multi-Armed Bandits &lpar;2019&rpar;](https://arxiv.org/abs/1904.07272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
