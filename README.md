@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
 - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
-- [Autism Simulator](https://autism-simulator.vercel.app/)
+- [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
 - [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
-- [Hunter S Thompson&#39;s death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
-- [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
+- [Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks](https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
