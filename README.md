@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimal files and config for a PWA &lpar;including a single file PWA&rpar;](https://github.com/chr15m/minimal-pwa)
+- [Cursor 1.7](https://cursor.com/changelog/1-7)
+- [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
+- [Minimal files and config for a PWA](https://github.com/chr15m/minimal-pwa)
 - [Detect Electron apps on Mac that hasn&#39;t been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
 - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
-- [Building an IoT Notification Device from Scratch](https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/)
-- [Broadcom Fails to Disclose Zero-Day Exploitation of VMware Vulnerability](https://www.securityweek.com/broadcom-fails-to-disclose-zero-day-exploitation-of-vmware-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
