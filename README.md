@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An informational website about why I went to prison](https://prison.josh.mn/)
+- [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
 - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
 - [Introduction to Multi-Armed Bandits &lpar;2019&rpar;](https://arxiv.org/abs/1904.07272)
-- [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
-- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
