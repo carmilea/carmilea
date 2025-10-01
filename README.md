@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
-- [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
+- [Egg-Shaped Curves &lpar;2007&rpar;](https://nyjp07.com/index_egg_E.html)
 - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
 - [DARPA project for automated translation from C to Rust &lpar;2024&rpar;](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
 - [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
+- [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
