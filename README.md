@@ -61,8 +61,8 @@
 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 - [Type Theory and Functional Programming &lpar;1999&rpar; [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
 - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
+- [Basic Dialects, IDEs, and Tutorials](https://github.com/JohnBlood/awesome-basic)
 - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
-- [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
