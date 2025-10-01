@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
+- [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is)
 - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
-- [Our stewardship: Where we are, what&#39;s changing and how we&#39;ll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
-- [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
+- [Introduction to Multi-Armed Bandits &lpar;2019&rpar;](https://arxiv.org/abs/1904.07272)
 - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
-- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
