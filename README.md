@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Reducing Your Database TCO: Do More with Less](https://www.youtube.com/watch?v=x9fD32qGihQ)
 - [What is MLOps? &lpar;Explained Simply&rpar;](https://www.youtube.com/shorts/RisJnEjoxAU)
 - [How to Replace Spark ETL with Real-Time Pipelines](https://www.youtube.com/watch?v=hlTb7NeWOTk)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=dGqr92BGRuw)
 - [From MySQL to Real](https://www.youtube.com/watch?v=GV0yB6MSjJA)
-- [From MySQL to Real-Time: Scaling Without Breaking the Bank](https://www.youtube.com/watch?v=G-boXHmw5mc)
 <!-- YOUTUBE:END -->
 
 
