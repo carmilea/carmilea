@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
+- [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
 - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
-- [The Truth About the School &quot;Replacing Teachers with AI&quot;](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
-- [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
-- [Tests suggest clues of whose content was used to train OpenAI’s Sora](https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/)
-- [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+- [DARPA project for automated translation from C to Rust &lpar;2024&rpar;](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
+- [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
