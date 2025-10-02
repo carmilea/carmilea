@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
+- [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
+- [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search Engineer and MTS&lpar;Back End&rpar;](https://careers.activeloop.ai/)
-- [NL Judge: Meta must respect user&#39;s choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
-- [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
-- [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
