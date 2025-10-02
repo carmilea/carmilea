@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Aging Breakthrough: Stem Cells Reverse Signs of Aging in Monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
+- [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
 - [OpenAI&#39;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 - [The Answer &lpar;1954&rpar;](https://sfshortstories.com/?p=5983)
-- [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
-- [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
