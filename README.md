@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Answer &lpar;1954&rpar;](https://sfshortstories.com/?p=5983)
+- [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
+- [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
+- [Email immutability matters more in a world with AI](https://www.fastmail.com/blog/not-written-with-ai/)
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
-- [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
-- [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
-- [Launch HN: Simplex &lpar;YC S24&rpar; – Browser automation platform for developers](https://www.simplex.sh/)
-- [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
