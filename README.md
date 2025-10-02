@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
+- [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 - [The Answer &lpar;1954&rpar;](https://sfshortstories.com/?p=5983)
 - [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
 - [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
-- [Email immutability matters more in a world with AI](https://www.fastmail.com/blog/not-written-with-ai/)
-- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
