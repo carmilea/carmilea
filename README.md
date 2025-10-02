@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal&#39;s New PQ Ratchet](https://signal.org/blog/spqr/)
-- [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
-- [Autism should not be seen as single condition with one cause, say scientists](https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists)
-- [US memo to colleges proposes terms on ideology, foreign enrollment for fed funds](https://www.reuters.com/world/us/white-house-sets-hiring-foreign-enrolment-terms-colleges-get-funding-advantage-2025-10-02/)
-- [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
+- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
+- [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
+- [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
+- [Launch HN: Simplex &lpar;YC S24&rpar; – Browser automation platform for developers](https://www.simplex.sh/)
+- [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
