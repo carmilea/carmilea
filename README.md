@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
+- [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
+- [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
+- [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
 - [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
-- [Windows 10 refuses to go gentle into that good night](https://www.theregister.com/2025/10/02/windows_10_statcounter/)
-- [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
-- [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
-- [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
