@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search Engineer and MTS&lpar;Back End&rpar;](https://careers.activeloop.ai/)
+- [NL Judge: Meta must respect user&#39;s choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
+- [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
 - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
-- [Asked to do something illegal at work? Here&#39;s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
-- [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
-- [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
-- [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
