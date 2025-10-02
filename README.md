@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typepad is closed for business](https://www.typepad.com)
 - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 - [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
-- [Egg-Shaped Curves &lpar;2007&rpar;](https://nyjp07.com/index_egg_E.html)
+- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+- [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
