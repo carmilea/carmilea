@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
-- [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
+- [Windows 10 refuses to go gentle into that good night](https://www.theregister.com/2025/10/02/windows_10_statcounter/)
 - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring AI Search Engineer and MTS&lpar;Back End&rpar;](https://careers.activeloop.ai/)
+- [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
