@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typepad Is Closed for Business](https://www.typepad.com)
+- [Typepad is closed for business](https://www.typepad.com)
 - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 - [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
