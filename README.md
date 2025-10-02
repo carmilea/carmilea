@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asked to do something illegal at work? Here&#39;s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 - [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
-- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
