@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
+- [Japan&#39;s ruling party is in crisis as voters swing to right-wing rivals](https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk)
+- [&#39;Western Qwen&#39;: IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
+- [Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://github.com/triton-lang/triton/pull/7298)
 - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
-- [Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn&#39;t Open](https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976)
-- [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
-- [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
-- [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
