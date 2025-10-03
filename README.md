@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
+- [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/)
 - [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
 - [Depot &lpar;YC W23&rpar; Is Hiring a Principal Design Engineer &lpar;Remote US/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer)
 - [The Collapse of the Econ PhD Job Market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
-- [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
-- [OpenAI Is Just Another Boring, Desperate AI Startup](https://www.wheresyoured.at/sora2-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
