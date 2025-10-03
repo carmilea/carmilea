@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [0-Day iOS Exploit &quot;Caught in the Wild&quot; Released](https://seclists.org/fulldisclosure/2025/Oct/1)
+- [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
+- [Social anxiety isn&#39;t about being liked](https://chrislakin.blog/p/social-anxiety)
 - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
-- [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
-- [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
-- [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
-- [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
+- [I Turned the Lego Game Boy into a Working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
