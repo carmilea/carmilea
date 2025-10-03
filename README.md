@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Is Down](https://status.claude.com)
+- [We Gave Our AI Agents Twitter and Now They&#39;re Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
+- [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
 - [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
 - [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
-- [PortalVR: XR Without a Headset](https://portalvr.io/)
-- [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
-- [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
