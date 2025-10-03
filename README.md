@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Is Down](https://status.claude.com)
-- [We Gave Our AI Agents Twitter and Now They&#39;re Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
-- [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
-- [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
-- [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
+- [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
+- [Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn&#39;t Open](https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976)
+- [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
+- [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
+- [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
