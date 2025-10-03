@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [TikTok &#39;directs child accounts to pornographic content within a few clicks&#39;](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
 - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
-- [The biggest sign of an AI bubble is starting to appear – debt](https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft)
+- [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
 - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 <!-- BLOG-POST-LIST:END -->
