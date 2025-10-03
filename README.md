@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [0-Day iOS Exploit &quot;Caught in the Wild&quot; Released](https://seclists.org/fulldisclosure/2025/Oct/1)
-- [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
-- [Social anxiety isn&#39;t about being liked](https://chrislakin.blog/p/social-anxiety)
-- [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
-- [I Turned the Lego Game Boy into a Working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
+- [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
+- [Depot &lpar;YC W23&rpar; Is Hiring a Principal Design Engineer &lpar;Remote US/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer)
+- [The Collapse of the Econ PhD Job Market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
+- [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
+- [OpenAI Is Just Another Boring, Desperate AI Startup](https://www.wheresyoured.at/sora2-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
