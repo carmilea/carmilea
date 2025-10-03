@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Credit markets look increasingly dangerous](https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous)
+- [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
 - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
-- [The AI bubble is 17 times the size of the dot-com frenzy, analyst says](https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c)
+- [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
 - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
-- [Simple Hotkey Daemon for macOS, Ported to Zig](https://github.com/jackielii/skhd.zig)
-- [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
 <!-- BLOG-POST-LIST:END -->
 
 ---
