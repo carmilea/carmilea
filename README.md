@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
-- [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
 - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 - [Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://github.com/triton-lang/triton/pull/7298)
-- [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
+- [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
+- [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
+- [Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone](https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
