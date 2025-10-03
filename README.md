@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok &#39;directs child accounts to pornographic content within a few clicks&#39;](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
+- [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
+- [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
+- [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
+- [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
-- [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
-- [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 <!-- BLOG-POST-LIST:END -->
 
 ---
