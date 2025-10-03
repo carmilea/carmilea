@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
+- [The AI bubble is 17 times the size of the dot-com frenzy, analyst says](https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c)
 - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
-- [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/)
+- [Simple Hotkey Daemon for macOS, Ported to Zig](https://github.com/jackielii/skhd.zig)
 - [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Principal Design Engineer &lpar;Remote US/EU&rpar;](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer)
-- [The Collapse of the Econ PhD Job Market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
 <!-- BLOG-POST-LIST:END -->
 
 ---
