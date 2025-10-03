@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
+- [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
 - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
-- [&#39;Western Qwen&#39;: IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
 - [Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://github.com/triton-lang/triton/pull/7298)
 - [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
-- [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
