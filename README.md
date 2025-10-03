@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
+- [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
+- [PortalVR: XR Without a Headset](https://portalvr.io/)
 - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
-- [Launching Solveit – an antidote to AI fatigue](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
-- [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
-- [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
-- [OpenAI&#39;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
+- [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
