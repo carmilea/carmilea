@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
-- [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
+- [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
+- [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
 - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
