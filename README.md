@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
-- [Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it](https://github.com/triton-lang/triton/pull/7298)
-- [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
-- [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
-- [Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone](https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html)
+- [TikTok &#39;directs child accounts to pornographic content within a few clicks&#39;](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
+- [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
+- [The biggest sign of an AI bubble is starting to appear – debt](https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
+- [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 <!-- BLOG-POST-LIST:END -->
 
 ---
