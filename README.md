@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
 - [TrueVault &lpar;YC W14&rpar; Is Hiring a BDR &lpar;Ex-ECommerce Manager&rpar;](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
-- [Sweden&#39;s National Bank Introduces Mandate for Offline Card Payments](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
-- [AMD&#39;s EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
-- [Arenas in Rust](https://russellw.github.io/arenas)
+- [Fast SSIMULACRA2 Implementation in Zig](https://github.com/gianni-rosato/fssimu2)
+- [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
