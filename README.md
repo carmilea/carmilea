@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 - [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
-- [Starship&#39;s eleventh flight test](https://www.spacex.com/launches/starship-flight-11)
 - [Toyota runs a car-hacking event to boost security &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
 - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
