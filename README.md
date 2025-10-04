@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Introduces NET Dollar stable coin](https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
-- [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
 - [Toyota runs a car-hacking event to boost security &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
 - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
+- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
