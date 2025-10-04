@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
+- [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
 - [It&#39;s not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
 - [Circular Financing: Does Nvidia&#39;s $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
-- [How functional programming shaped and twisted front end development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
-- [Thunderscan: A clever device transforms a printer into a scanner &lpar;2004&rpar;](https://www.folklore.org/Thunderscan.html)
-- [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
