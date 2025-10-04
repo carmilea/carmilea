@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
-- [Google removes ICE-spotting app following Apple&#39;s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
+- [Circular Financing: Does Nvidia&#39;s $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
+- [Functional Programming Shaped &lpar;and Twisted&rpar; Front End Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
 - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
 - [Scientists are discovering a powerful new way to prevent cancer &lpar;Economist&rpar;](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
