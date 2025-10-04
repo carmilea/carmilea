@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [AI predicts antibiotic&#39;s IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
-- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 - [Binary Formats Gallery](https://formats.kaitai.io/)
+- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
