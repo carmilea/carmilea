@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI predicts antibiotic&#39;s IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+- [Why Toyota Runs a Car-Hacking Event &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
+- [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
-- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 - [Binary Formats Gallery](https://formats.kaitai.io/)
-- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
