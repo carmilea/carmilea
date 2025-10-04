@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
 - [Circular Financing: Does Nvidia&#39;s $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
-- [Functional Programming Shaped &lpar;and Twisted&rpar; Front End Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
-- [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
-- [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
-- [Scientists are discovering a powerful new way to prevent cancer &lpar;Economist&rpar;](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
+- [How functional programming shaped and twisted front end development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
+- [Thunderscan: A clever device transforms a printer into a scanner &lpar;2004&rpar;](https://www.folklore.org/Thunderscan.html)
+- [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
