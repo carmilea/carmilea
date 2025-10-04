@@ -61,8 +61,8 @@
 - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 - [Toyota runs a car-hacking event to boost security &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
 - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
-- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
+- [Binary Formats Gallery](https://formats.kaitai.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
