@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
+- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+- [Binary Formats Gallery](https://formats.kaitai.io/)
 - [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
-- [Tesla Cybertruck Isn&#39;t Allowed in Germany, Not Even the US Army Can Change That](https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/)
-- [Show HN: Powerful Visual Programming Language &lpar;Book&rpar;](https://www.pipelang.com)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring a BDR &lpar;Ex-ECommerce Manager&rpar;](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
-- [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
+- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
