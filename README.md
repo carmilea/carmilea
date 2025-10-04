@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
+- [Google removes ICE-spotting app following Apple&#39;s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
+- [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
 - [Scientists are discovering a powerful new way to prevent cancer &lpar;Economist&rpar;](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
-- [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
-- [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
-- [Toyota runs a car-hacking event to boost security &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
