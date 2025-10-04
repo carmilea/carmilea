@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord data hacked in latest customer service breach to expose user information](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
+- [Use theorem provers to ensure the correctness of your LLM&#39;s reasoning](https://github.com/DebarghaG/proofofthought)
+- [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
 - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
 - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
-- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
