@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
+- [Scientists are discovering a powerful new way to prevent cancer &lpar;Economist&rpar;](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
+- [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
 - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 - [Toyota runs a car-hacking event to boost security &lpar;2024&rpar;](https://toyotatimes.jp/en/spotlights/1061.html)
-- [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
-- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
-- [Binary Formats Gallery](https://formats.kaitai.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
