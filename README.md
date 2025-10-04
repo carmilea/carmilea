@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
+- [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
+- [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
 - [$912 energy independence without red tape](https://sunboxlabs.com/)
-- [New California law restricts HOA fines to $100 per violation](https://calmatters.org/politics/2025/10/california-hoas-fines-capped/)
-- [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)
 - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
-- [Blog Feeds](https://blogfeeds.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
