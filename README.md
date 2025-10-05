@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
+- [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&amp;developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
+- [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
 - [If the University of Chicago Won&#39;t Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
-- [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
-- [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
-- [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
-- [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
+- [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
