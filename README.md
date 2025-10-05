@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
+- [If the University of Chicago Won&#39;t Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
+- [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
+- [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
-- [I do not want to be a programmer anymore](https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/)
 - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
-- [86 GB/s bitpacking with ARM SIMD &lpar;single thread&rpar;](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
