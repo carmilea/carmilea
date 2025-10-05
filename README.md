@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
-- [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&amp;developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
-- [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
-- [If the University of Chicago Won&#39;t Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
-- [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
+- [Callbacks in C++ Using Template Functors – Rich Hickey &lpar;1994&rpar;](http://www.tutok.sk/fastgl/callback.html)
+- [Fire destroys Korean government&#39;s cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+- [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
+- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
+- [BYD Builds World&#39;s Fastest Car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
