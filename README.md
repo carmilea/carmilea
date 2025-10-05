@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ken Parker, famed luthier, has passed](https://kenparkerarchtops.com)
+- [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
+- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
 - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
 - [Wine 10.16 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)
 - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
-- [Ask HN: Any advice on pivoting out of VC-backed tech?](https://news.ycombinator.com/item?id=45485089)
 <!-- BLOG-POST-LIST:END -->
 
 ---
