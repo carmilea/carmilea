@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password CLI Vulnerability](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)
 - [You can&#39;t parse XML with regex. Let&#39;s do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
 - [Mod. 5140 - IBM&#39;s First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
 - [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
-- [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
