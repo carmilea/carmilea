@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
 - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
 - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
 - [Social Cooling &lpar;2017&rpar;](https://www.socialcooling.com/)
-- [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
 <!-- BLOG-POST-LIST:END -->
 
 ---
