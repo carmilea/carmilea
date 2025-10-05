@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password CLI Vulnerability](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)
+- [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
 - [You can&#39;t parse XML with regex. Let&#39;s do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
 - [Mod. 5140 - IBM&#39;s First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
