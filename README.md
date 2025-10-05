@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
-- [Social Cooling](https://www.socialcooling.com/)
-- [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
+- [Social Cooling &lpar;2017&rpar;](https://www.socialcooling.com/)
 - [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
 - [Ambigr.am](https://ambigr.am/hall-of-fame)
 <!-- BLOG-POST-LIST:END -->
