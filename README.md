@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
+- [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
+- [I do not want to be a programmer anymore](https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/)
+- [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
 - [86 GB/s bitpacking with ARM SIMD &lpar;single thread&rpar;](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
-- [The deadline isn&#39;t when AI outsmarts us – it&#39;s when we stop using our own minds](https://www.theargumentmag.com/p/you-have-18-months)
-- [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
-- [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
-- [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
