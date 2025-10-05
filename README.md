@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
-- [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
-- [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
-- [$912 energy independence without red tape](https://sunboxlabs.com/)
-- [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
+- [Mod. 5140 - IBM&#39;s First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
+- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
+- [Unchecked and Unaccountable: How DOGE Jeopardizes Americans&#39; Data](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)
+- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
+- [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
