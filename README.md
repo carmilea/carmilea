@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
 - [Social Cooling](https://www.socialcooling.com/)
 - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
 - [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
 - [Ambigr.am](https://ambigr.am/hall-of-fame)
-- [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
