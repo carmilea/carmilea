@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
 - [What GPT-OSS leaks about OpenAI&#39;s training data](https://fi-le.net/oss/)
 - [Callbacks in C++ using template functors – Rich Hickey &lpar;1994&rpar;](http://www.tutok.sk/fastgl/callback.html)
 - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
-- [Fire destroys S. Korean government&#39;s cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
