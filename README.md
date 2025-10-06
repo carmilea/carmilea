@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
+- [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse)
+- [Rule-Based Expert Systems: The Mycin Experiments &lpar;1984&rpar;](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
+- [Generative AI&#39;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
-- [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
-- [Wine 10.16 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)
-- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
