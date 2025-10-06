@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating 1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
+- [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
+- [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
 - [Find Nearby Automated License Plate Readers &lpar;ALPR&rpar;](https://deflock.me/)
 - [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
 - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
-- [Should I choose Ada, SPARK, or Rust over C/C++? &lpar;2024&rpar;](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
