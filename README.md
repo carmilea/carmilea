@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 - [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
 - [Structured Procrastination](https://structuredprocrastination.com)
-- [Gem.coop](https://gem.coop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
