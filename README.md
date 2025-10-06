@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 - [Valorant&#39;s 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
+- [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
 - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
-- [OpenAI ChatKit Studio](https://chatkit.studio/)
 - [Apps SDK](https://developers.openai.com/apps-sdk/)
-- [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
