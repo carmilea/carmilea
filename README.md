@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Europe crushes innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
-- [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
+- [Apps SDK](https://developers.openai.com/apps-sdk/)
+- [OpenAI is good at deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 - [Building Your First Agentic App With CrewAI + SingleStore](https://www.singlestore.com/blog/building-your-first-agentic-app-with-crewai-singlestore)
