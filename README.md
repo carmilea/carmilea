@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generation X may be the first to need a universal basic income](https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/)
 - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
 - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
-- [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 <!-- BLOG-POST-LIST:END -->
 
