@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse)
+- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
+- [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+- [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
 - [Rule-Based Expert Systems: The Mycin Experiments &lpar;1984&rpar;](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 - [Generative AI&#39;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
-- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
-- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
