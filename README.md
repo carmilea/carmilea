@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
-- [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+- [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
+- [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
+- [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
+- [Should I choose Ada, SPARK, or Rust over C/C++? &lpar;2024&rpar;](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
-- [Rule-Based Expert Systems: The Mycin Experiments &lpar;1984&rpar;](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
-- [Generative AI&#39;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
