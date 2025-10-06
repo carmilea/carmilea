@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &lpar;economic&rpar; AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
+- [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
+- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
+- [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
+- [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
-- [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
-- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
-- [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
