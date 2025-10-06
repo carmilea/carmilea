@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generation X may be the first to need a universal basic income](https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/)
+- [Show HN: Kent Dybvig&#39;s Scheme Machine in 400 Lines of C &lpar;Heap-Memory Model&rpar;](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
 - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
