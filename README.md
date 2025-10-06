@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind: CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
-- [Valorant&#39;s 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
+- [Valorant&#39;s 128-Tick Servers &lpar;2020&rpar;](https://technology.riotgames.com/news/valorants-128-tick-servers)
 - [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
 - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
-- [Apps SDK](https://developers.openai.com/apps-sdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
