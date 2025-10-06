@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
+- [Structured Procrastination](https://structuredprocrastination.com)
+- [Gem.coop](https://gem.coop/)
 - [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
 - [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
-- [Find Nearby Automated License Plate Readers &lpar;ALPR&rpar;](https://deflock.me/)
-- [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
-- [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
