@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 - [Show HN: Kent Dybvig&#39;s Scheme Machine in 400 Lines of C &lpar;Heap-Memory Model&rpar;](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
-- [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
-- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
+- [Show HN: Write It Down – Personal finance tracker](https://write-it-down.com)
 - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
 - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 <!-- BLOG-POST-LIST:END -->
