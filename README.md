@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apps SDK](https://developers.openai.com/apps-sdk/)
-- [OpenAI is good at deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
+- [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+- [OpenAI DevDay 2025: Opening keynote [video]](https://www.youtube.com/watch?v=hS1YqcewH0c)
 - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
-- [Building Your First Agentic App With CrewAI + SingleStore](https://www.singlestore.com/blog/building-your-first-agentic-app-with-crewai-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
