@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Be Different&quot; doesn&#39;t work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
-- [Launch HN: Grapevine &lpar;YC S19&rpar; – A company GPT that actually works](https://getgrapevine.ai/)
-- [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
-- [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
-- [Show HN: Kent Dybvig&#39;s Scheme Machine in 400 Lines of C &lpar;Heap-Memory Model&rpar;](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+- [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
+- [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch)
+- [The AI bubble is 17 times the size of the dot-com frenzy and four times subprime](https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues)
+- [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
