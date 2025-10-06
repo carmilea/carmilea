@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Be Different&quot; doesn&#39;t work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
+- [Launch HN: Grapevine &lpar;YC S19&rpar; – A company GPT that actually works](https://getgrapevine.ai/)
+- [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
 - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 - [Show HN: Kent Dybvig&#39;s Scheme Machine in 400 Lines of C &lpar;Heap-Memory Model&rpar;](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
-- [Show HN: Write It Down – Personal finance tracker](https://write-it-down.com)
-- [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
-- [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
