@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
+- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
-- [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
 - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
 - [Structured Procrastination](https://structuredprocrastination.com)
+- [Gem.coop](https://gem.coop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
