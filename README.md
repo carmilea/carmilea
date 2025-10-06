@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
+- [Celebrating 1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
+- [Find Nearby Automated License Plate Readers &lpar;ALPR&rpar;](https://deflock.me/)
 - [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
 - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
 - [Should I choose Ada, SPARK, or Rust over C/C++? &lpar;2024&rpar;](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
-- [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
