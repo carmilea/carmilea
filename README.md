@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valorant&#39;s 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
+- [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
+- [OpenAI ChatKit Studio](https://chatkit.studio/)
 - [Apps SDK](https://developers.openai.com/apps-sdk/)
-- [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
-- [OpenAI DevDay 2025: Opening keynote [video]](https://www.youtube.com/watch?v=hS1YqcewH0c)
-- [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
+- [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
