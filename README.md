@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
-- [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
-- [Launch HN: LlamaFarm &lpar;YC W22&rpar; – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
-- [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
-- [Show HN: Mars – Personal AI robot for builders &lpar;&lt; $2k&rpar;](https://news.ycombinator.com/item?id=45504127)
+- [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
+- [You&#39;re Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
+- [Pigeon &lpar;YC W23&rpar; is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
+- [Robin Williams&#39; daughter pleads for people to stop sending AI videos of her dad](https://www.bbc.co.uk/news/articles/c0r0erqk18jo)
+- [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
