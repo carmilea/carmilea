@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
+- [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 - [You&#39;re Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 - [Pigeon &lpar;YC W23&rpar; is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
-- [Robin Williams&#39; daughter pleads for people to stop sending AI videos of her dad](https://www.bbc.co.uk/news/articles/c0r0erqk18jo)
-- [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
