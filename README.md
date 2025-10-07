@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
+- [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
-- [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
+- [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
-- [Buckle Up, the Smart Glasses Backlash Is Coming](https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213)
-- [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
