@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 20 Percent Fewer International Students Traveled to the U.S. in August](https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html)
-- [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
-- [Postgres Performance Issues and How to Scale Enterprise Databases](https://www.singlestore.com/blog/postgres-performance-issues-and-how-to-scale-enterprise-databases)
-- [Show HN: Blueprintor for Hardware Engineering](https://www.zima.run/)
-- [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
+- [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
+- [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
+- [Launch HN: LlamaFarm &lpar;YC W22&rpar; – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
+- [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
+- [Show HN: Mars – Personal AI robot for builders &lpar;&lt; $2k&rpar;](https://news.ycombinator.com/item?id=45504127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
