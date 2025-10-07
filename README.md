@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3M May Escape Toxic Chemical, PFAS Manufacturing Legacy](https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/)
+- [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
+- [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+- [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 - [Provision &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
-- [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
-- [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
-- [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
-- [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
