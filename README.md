@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
+- [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)
+- [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
+- [California passes law to reduce volume of commercials on streaming services](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 - [Metriport &lpar;YC S22&rpar; is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
-- [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-- [Banning controversy reveals Bluesky&#39;s decentralized aspiration isn&#39;t reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
