@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
 - [3M May Escape Toxic Chemical, PFAS Manufacturing Legacy](https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/)
+- [America is now one big bet on AI](https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e)
 - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
 - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
-- [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
-- [Provision &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
