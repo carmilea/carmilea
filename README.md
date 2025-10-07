@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford CEO Says There Aren&#39;t Enough Mechanics. Then a Mechanic Responds](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
+- [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 - [Learning a foreign language–before you&#39;re born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 - [The NIH ordered me to stop my &#39;dangerous&#39; gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
 - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
-- [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
-- [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
