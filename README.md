@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly 20 Percent Fewer International Students Traveled to the U.S. in August](https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html)
+- [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
+- [Postgres Performance Issues and How to Scale Enterprise Databases](https://www.singlestore.com/blog/postgres-performance-issues-and-how-to-scale-enterprise-databases)
+- [Show HN: Blueprintor for Hardware Engineering](https://www.zima.run/)
 - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
-- [3M May Escape Toxic Chemical, PFAS Manufacturing Legacy](https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/)
-- [America is now one big bet on AI](https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e)
-- [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
-- [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
