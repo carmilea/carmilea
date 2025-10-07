@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning a foreign language–before you&#39;re born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
+- [The NIH ordered me to stop my &#39;dangerous&#39; gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
+- [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
 - [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
 - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
-- [The least amount of CSS for a decent looking site &lpar;2023&rpar;](https://thecascade.dev/article/least-amount-of-css/)
-- [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
-- [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
