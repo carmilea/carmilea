@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Elastic vs SingleStore: Best for your Data Needs](https://www.youtube.com/watch?v=DJfU2CI3gR4)
 - [From Dashboards to Dialogue: The Future of Data Conversations with Aura Analyst](https://www.youtube.com/watch?v=UshDBvooVIQ)
 - [Reducing Your Database TCO: Do More with Less | SingleStore Webinars](https://www.youtube.com/watch?v=3od9vbT3HoQ)
 - [Effortless Multi-Workspace Database Access with Zero-Copy Attach | SingleStore Demo](https://www.youtube.com/watch?v=ihiFCejEcqM)
 - [How to Run Advanced AI Tasks Directly in SQL with AI Functions | SingleStore Demo](https://www.youtube.com/watch?v=gQ7kwaEHCXo)
-- [Advanced Business Logic &amp; AI Analytics with Aura Analyst | SingleStore Demo](https://www.youtube.com/watch?v=As_njMIJufg)
 <!-- YOUTUBE:END -->
 
 
