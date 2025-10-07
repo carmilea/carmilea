@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)
+- [Investing in America 2025](https://blog.google/inside-google/company-announcements/investing-in-america-2025/)
 - [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
-- [California passes law to reduce volume of commercials on streaming services](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 - [Metriport &lpar;YC S22&rpar; is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+- [User ban controversy reveals Bluesky’s decentralized aspiration isn’t reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
