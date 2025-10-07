@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
+- [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
+- [Google&#39;s Requirement for Developers to Be Verified Threatens App Store F-Droid](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
+- [Solar energy is now the cheapest source of power, study](https://www.surrey.ac.uk/news/solar-energy-now-worlds-cheapest-source-power-surrey-study-finds)
 - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
-- [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
-- [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
-- [You&#39;re Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
-- [Pigeon &lpar;YC W23&rpar; is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
