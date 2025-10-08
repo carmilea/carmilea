@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
+- [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
-- [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 - [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
 - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
 <!-- BLOG-POST-LIST:END -->
