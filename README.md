@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Julia 1.12 Highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
+- [Show HN: Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
 - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
 - [Doctorow: American tech cartels use apps to break the law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/)
-- [Ortega Hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
-- [Suspicionless ChatControl must be taboo in a state governed by the rule of law](https://digitalcourage.social/@echo_pbreyer/115337976340299372)
-- [A 9KB &lpar;3KB gzip&rpar; single HTML notebook, perfect for minimalists](https://chunqiuyiyu.github.io/xie/)
+- [Show HN: I built a local-first podcast app](https://wherever.audio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
