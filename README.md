@@ -62,7 +62,7 @@
 - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
-- [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
+- [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
