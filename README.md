@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
 - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 - [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
 - [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
 - [A few things to know before stealing my 914 &lpar;2022&rpar;](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
