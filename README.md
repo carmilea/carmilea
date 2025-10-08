@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Weaponization of Travel Blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
+- [The Email They Shouldn&#39;t Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
+- [Legal Contracts Built for AI Agents](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
 - [A Clausewitzian Lens on Modern Urban Warfare](https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/)
 - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
-- [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
-- [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
-- [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
