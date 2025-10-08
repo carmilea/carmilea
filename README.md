@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Weaponization of Travel Blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
-- [The Email They Shouldn&#39;t Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
-- [Legal Contracts Built for AI Agents](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
-- [A Clausewitzian Lens on Modern Urban Warfare](https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/)
-- [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
+- [Elasticsearch vs. SingleStore: What’s Best for Your Data Needs?](https://www.singlestore.com/blog/elasticsearch-vs-singlestore-for-data-needs)
+- [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
+- [How To Start Bug Bounties &lpar;2021&rpar;](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
+- [Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic](https://github.com/furudo-erika/codingfox)
+- [Bank of England flags risk of &#39;sudden correction&#39; in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
