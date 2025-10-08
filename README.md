@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Will Prioritize Migrating to Azure over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
+- [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
+- [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
+- [Vectrex Mini](https://vectrex.com/vectrex-mini-details/)
 - [Elasticsearch vs. SingleStore: What’s Best for Your Data Needs?](https://www.singlestore.com/blog/elasticsearch-vs-singlestore-for-data-needs)
-- [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
-- [How To Start Bug Bounties &lpar;2021&rpar;](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
-- [Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic](https://github.com/furudo-erika/codingfox)
-- [Bank of England flags risk of &#39;sudden correction&#39; in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
