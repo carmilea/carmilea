@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Will Prioritize Migrating to Azure over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
+- [Doctorow: American Tech Cartels Use Apps to Break the Law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/)
+- [Ortega Hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
+- [Suspicionless ChatControl must be taboo in a state governed by the rule of law](https://digitalcourage.social/@echo_pbreyer/115337976340299372)
 - [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
 - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
-- [Vectrex Mini](https://vectrex.com/vectrex-mini-details/)
-- [Elasticsearch vs. SingleStore: What’s Best for Your Data Needs?](https://www.singlestore.com/blog/elasticsearch-vs-singlestore-for-data-needs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
