@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
-- [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
-- [A few things to know before stealing my 914 &lpar;2022&rpar;](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
-- [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
+- [Radio Garten](https://radio.garden/)
+- [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
+- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
+- [PWA Browser Scorecards](https://pwascore.com/)
+- [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
