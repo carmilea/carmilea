@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Extend &lpar;YC W23&rpar; – Turn your messiest documents into data](https://www.extend.ai/)
+- [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+- [Show HN: I&#39;ve built a tiny hand-held keyboard](https://github.com/mafik/keyer)
+- [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
 - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
-- [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
-- [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
-- [TIL: Python&#39;s splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
-- [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
