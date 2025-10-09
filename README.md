@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure 03](https://www.figure.ai/figure)
+- [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
+- [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
+- [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
 - [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
-- [Why Are So Many Pedestrians Killed by Cars in the US?](https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed)
-- [Zippers: Making Functional &quot;Updates&quot; Efficient &lpar;2010&rpar;](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
-- [QUIC and the End of TCP Sockets](https://codemia.io/blog/path/QUIC-and-the-End-of-TCP-Sockets-How-User-Space-Transport-Rewrites-Flow-Control)
-- [The React Foundation](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
