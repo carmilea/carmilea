@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tonight&#39;s Restaurant Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
+- [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
+- [Tonight&#39;s restaurant dinner fell off the Sysco truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
 - [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
-- [Designing a Low Latency 10G Ethernet Core](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
-- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
-- [Radio Garten](https://radio.garden/)
+- [Designing a Low Latency 10G Ethernet Core &lpar;2023&rpar;](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
 <!-- BLOG-POST-LIST:END -->
 
 ---
