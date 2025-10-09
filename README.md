@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tonight&#39;s Restaurant Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
+- [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
+- [Designing a Low Latency 10G Ethernet Core](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
 - [Radio Garten](https://radio.garden/)
-- [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
-- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
-- [PWA Browser Scorecards](https://pwascore.com/)
-- [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
