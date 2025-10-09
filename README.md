@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink is burning up one or two satellites a day in Earth&#39;s atmosphere](https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/)
+- [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
+- [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
 - [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
 - [Designing a Low Latency 10G Ethernet Core &lpar;2023&rpar;](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
 - [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
-- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
