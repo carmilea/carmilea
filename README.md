@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
+- [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/)
 - [The Forecasting Company &lpar;YC S24&rpar; Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
-- [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
+- [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
 - [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
-- [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
-- [Designing a Low Latency 10G Ethernet Core &lpar;2023&rpar;](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
