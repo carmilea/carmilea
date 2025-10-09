@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Government Ate My Name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
+- [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
+- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
+- [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
+- [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
 - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
-- [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
-- [Sea Rise Simulator &lpar;2023&rpar;](https://nagix.github.io/sea-level-rise-3d-map/)
-- [Over-indexed databases are silent AI killers](https://www.singlestore.com/blog/over-indexed-databases-are-silent-ai-killers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
