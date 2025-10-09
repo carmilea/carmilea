@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
+- [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
 - [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 - [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
-- [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
-- [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
