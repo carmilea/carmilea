@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colombia&#39;s president says boat struck by US was carrying Colombians](https://www.bbc.com/news/articles/c89dz920p0do)
-- [Introducing Figure 03](https://www.figure.ai/news/introducing-figure-03)
-- [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
-- [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
-- [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
+- [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
+- [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
+- [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
+- [TIL: Python&#39;s splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
+- [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
