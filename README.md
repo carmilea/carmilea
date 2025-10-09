@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over-indexed databases are silent AI killers](https://www.singlestore.com/blog/over-indexed-databases-are-silent-ai-killers)
+- [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
+- [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
+- [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
 - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
-- [Fireman Sam &lpar;Commodore 64&rpar;](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
-- [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
-- [Goiaba: An experimental Go compiler, written in Rust](https://github.com/raphamorim/goiaba)
-- [Launch HN: Extend &lpar;YC W23&rpar; – Turn your messiest documents into data](https://www.extend.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
