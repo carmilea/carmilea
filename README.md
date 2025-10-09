@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
+- [Fireman Sam &lpar;Commodore 64&rpar;](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
+- [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
+- [Goiaba: An experimental Go compiler, written in Rust](https://github.com/raphamorim/goiaba)
 - [Launch HN: Extend &lpar;YC W23&rpar; – Turn your messiest documents into data](https://www.extend.ai/)
-- [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
-- [Show HN: I&#39;ve built a tiny hand-held keyboard](https://github.com/mafik/keyer)
-- [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
-- [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
