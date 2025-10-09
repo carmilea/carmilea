@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
+- [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
+- [Sea Rise Simulator &lpar;2023&rpar;](https://nagix.github.io/sea-level-rise-3d-map/)
 - [Over-indexed databases are silent AI killers](https://www.singlestore.com/blog/over-indexed-databases-are-silent-ai-killers)
 - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
-- [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
-- [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
-- [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
