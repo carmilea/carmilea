@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Forecasting Company &lpar;YC S24&rpar; Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
 - [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
 - [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
 - [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
 - [Designing a Low Latency 10G Ethernet Core &lpar;2023&rpar;](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
-- [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
 <!-- BLOG-POST-LIST:END -->
 
 ---
