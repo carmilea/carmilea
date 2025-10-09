@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Figure 03](https://www.figure.ai/figure)
+- [Colombia&#39;s president says boat struck by US was carrying Colombians](https://www.bbc.com/news/articles/c89dz920p0do)
+- [Introducing Figure 03](https://www.figure.ai/news/introducing-figure-03)
 - [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
 - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
 - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
-- [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
