@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
+- [How to save the world with ZFS and 12 USB sticks: 4th anniversary video &lpar;2011&rpar;](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
 - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 - [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
-- [Toyota aims to launch the &#39; first&#39; all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
-- [Google, Meta and Microsoft to stop showing political ads in the EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
-- [The illegible nature of software development talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
+- [Does our “need for speed” make our wi-fi suck?](https://orb.net/blog/does-speed-make-wifi-suck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
