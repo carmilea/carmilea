@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
 - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
-- [All-Natural Geoengineering with Frank Herbert&#39;s Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
-- [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
-- [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
-- [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
+- [Scaling Time-Series Data for AI Models](https://www.singlestore.com/blog/scaling-time-series-data-for-ai-models)
+- [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
+- [Notes on Switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
