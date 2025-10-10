@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp)
+- [N8n vs. Windmill vs. Temporal](https://blog.arcbjorn.com/workflow-automation)
+- [How to write in Cuneiform, the oldest writing system in the world](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
-- [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
-- [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
-- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
-- [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
