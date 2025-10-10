@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
-- [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
-- [My approach to building large technical projects &lpar;2023&rpar;](https://mitchellh.com/writing/building-large-technical-projects)
-- [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
-- [Vexing Exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
+- [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
+- [Nobel Prize in Peace 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+- [I tracked Amazon&#39;s Prime Day prices. We&#39;ve been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
+- [How A Scottish maritime museum ended up in Israel&#39;s 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
+- [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 <!-- BLOG-POST-LIST:END -->
 
 ---
