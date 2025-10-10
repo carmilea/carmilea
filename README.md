@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
 - [My approach to building large technical projects &lpar;2023&rpar;](https://mitchellh.com/writing/building-large-technical-projects)
-- [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html)
-- [The RubyGems &quot;Security Incident&quot;](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
 - [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
+- [Vexing Exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
