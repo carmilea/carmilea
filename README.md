@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
+- [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
 - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+- [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
-- [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
-- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
