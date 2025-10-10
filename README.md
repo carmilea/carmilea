@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does our &quot;need for speed&quot; make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
+- [Toyota aims to launch the &#39; first&#39; all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
 - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
-- [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
 - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
-- [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
-- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
+- [It&#39;s OpenAI&#39;s world, we&#39;re just living in it](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
