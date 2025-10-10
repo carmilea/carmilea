@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
+- [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
+- [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 - [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
 - [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
 - [&quot;Vibe code hell&quot; has replaced &quot;tutorial hell&quot; in coding education](https://blog.boot.dev/education/vibe-code-hell/)
-- [Microsoft lets bosses spot teams that are dodging Copilot](https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
