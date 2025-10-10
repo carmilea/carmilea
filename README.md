@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does our &quot;need for speed&quot; make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
+- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
+- [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
 - [Toyota aims to launch the &#39; first&#39; all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
-- [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
-- [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
-- [It&#39;s OpenAI&#39;s world, we&#39;re just living in it](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
+- [Google, Meta and Microsoft to stop showing political ads in the EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
+- [The illegible nature of software development talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
