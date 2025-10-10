@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
 - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 - [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
-- [I tracked Amazon&#39;s Prime Day prices. We&#39;ve been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
