@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
-- [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
-- [Scaling Time-Series Data for AI Models](https://www.singlestore.com/blog/scaling-time-series-data-for-ai-models)
-- [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
-- [Notes on Switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
+- [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
+- [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
+- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
+- [&quot;Vibe code hell&quot; has replaced &quot;tutorial hell&quot; in coding education](https://blog.boot.dev/education/vibe-code-hell/)
+- [Microsoft lets bosses spot teams that are dodging Copilot](https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
