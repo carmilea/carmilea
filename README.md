@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
 - [My approach to building large technical projects &lpar;2023&rpar;](https://mitchellh.com/writing/building-large-technical-projects)
-- [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
-- [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
-- [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html)
+- [The RubyGems &quot;Security Incident&quot;](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
+- [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
