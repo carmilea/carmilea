@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [AI is an attack from above on wages&quot;: cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
+- [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
 - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
-- [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
-- [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
-- [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
