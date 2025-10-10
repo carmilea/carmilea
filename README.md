@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
 - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 - [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [AI is an attack from above on wages&quot;: cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
-- [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
+- [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
