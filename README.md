@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
+- [My approach to building large technical projects &lpar;2023&rpar;](https://mitchellh.com/writing/building-large-technical-projects)
 - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
 - [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
 - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-- [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
-- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
