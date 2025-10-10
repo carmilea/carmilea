@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
-- [Nobel Prize in Peace 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+- [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
+- [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+- [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
+- [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
 - [I tracked Amazon&#39;s Prime Day prices. We&#39;ve been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
-- [How A Scottish maritime museum ended up in Israel&#39;s 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
-- [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 <!-- BLOG-POST-LIST:END -->
 
 ---
