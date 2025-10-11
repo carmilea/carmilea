@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
-- [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
-- [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
+- [GNU Health](https://www.gnuhealth.org/about-us.html)
+- [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
+- [Microsoft Amplifier](https://github.com/microsoft/amplifier)
+- [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 - [Firefox is the best mobile browser](https://kelvinjps.com/blog/firefox-best-mobile-browser/)
-- [Hackers leak Qantas data on 5M customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
