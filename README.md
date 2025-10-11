@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
+- [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
 - [Japan&#39;s summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
 - [Diane Keaton has died](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
-- [How much revenue is needed to justify the current AI spend?](https://pracap.com/an-ai-addendum/)
-- [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
