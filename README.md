@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Postpones Jessica Chastain Thriller &#39;The Savant&#39; Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)
+- [Tennessee Man Arrested, Gets $2M Bond for Posting Facebook Meme](https://reason.com/2025/10/10/tennessee-man-arrested-gets-2-million-bond-for-posting-facebook-meme/)
 - [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)
 - [GNU Health](https://www.gnuhealth.org/about-us.html)
 - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
-- [Microsoft Amplifier](https://github.com/microsoft/amplifier)
-- [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
