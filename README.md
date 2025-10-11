@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
+- [Japan&#39;s summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
+- [Diane Keaton has died](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
+- [How much revenue is needed to justify the current AI spend?](https://pracap.com/an-ai-addendum/)
 - [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
-- [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
-- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
-- [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
-- [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
