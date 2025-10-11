@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML&#39;s Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
+- [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
 - [AMD and Sony&#39;s PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 - [What is going on with all this radioactive shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
 - [How hard do you have to hit a chicken to cook it? &lpar;2020&rpar;](https://james-simon.github.io/blog/chicken-cooking/)
-- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
-- [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
