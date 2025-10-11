@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel&#39;s antichrist lectures reveal more about him than Armageddon](https://www.theguardian.com/technology/ng-interactive/2025/oct/10/peter-thiel-antichrist-lectures)
+- [AI Data Centers Are an Even Bigger Disaster Than Previously Thought](https://futurism.com/future-society/ai-data-centers-finances)
 - [Bitter lessons building AI products](https://hex.tech/blog/bitter-lessons-building-ai-in-hex-product-management/)
-- [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
+- [How hard do you have to hit a chicken to cook it? &lpar;2020&rpar;](https://james-simon.github.io/blog/chicken-cooking/)
 - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 - [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 <!-- BLOG-POST-LIST:END -->
