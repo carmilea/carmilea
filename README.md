@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sysco Is Not &quot;Ruining Restaurants&quot;](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)
+- [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
 - [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 - [The &lt;output&gt; Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
