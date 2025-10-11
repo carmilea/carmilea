@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
+- [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
+- [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
+- [Hackers leak Qantas data on 5M customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
-- [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 - [The &lt;output&gt; Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
-- [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
