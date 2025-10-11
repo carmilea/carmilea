@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sysco Is Not &quot;Ruining Restaurants&quot;](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)
 - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
 - [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 - [The &lt;output&gt; Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 - [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
-- [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
