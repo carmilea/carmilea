@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/)
+- [Crypto Sees More Than $6B in Liquidations](https://www.bloomberg.com/news/articles/2025-10-10/crypto-sees-more-than-3-billion-in-liquidations-in-past-hour)
 - [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
+- [&lpar;Re&rpar;Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
-- [How to save the world with ZFS and 12 USB sticks: 4th anniversary video &lpar;2011&rpar;](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
-- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-- [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
