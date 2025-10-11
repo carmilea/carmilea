@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 - [HTML&#39;s Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 - [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
 - [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html)
 - [AMD and Sony&#39;s PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
-- [How hard do you have to hit a chicken to cook it? &lpar;2020&rpar;](https://james-simon.github.io/blog/chicken-cooking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
