@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/)
-- [Crypto Sees More Than $6B in Liquidations](https://www.bloomberg.com/news/articles/2025-10-10/crypto-sees-more-than-3-billion-in-liquidations-in-past-hour)
+- [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)
+- [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
+- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 - [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 - [&lpar;Re&rpar;Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
-- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
