@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
+- [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
+- [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 - [Nostr and ATProto &lpar;2024&rpar;](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-- [4x faster LLM inference &lpar;Flash Attention guy&#39;s company&rpar;](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
-- [Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits](https://sobernotsorry.app/)
-- [Show HN: I made an esoteric programming language that&#39;s read like a spellbook](https://github.com/sirbread/spellscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
