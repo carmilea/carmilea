@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The App Store was always authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
+- [Macro Gaussian Splats](https://danybittel.ch/macro.html)
+- [Nostr and ATProto &lpar;2024&rpar;](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
+- [4x faster LLM inference &lpar;Flash Attention guy&#39;s company&rpar;](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 - [Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits](https://sobernotsorry.app/)
-- [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
-- [Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
-- [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
+- [Show HN: I made an esoteric programming language that&#39;s read like a spellbook](https://github.com/sirbread/spellscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
