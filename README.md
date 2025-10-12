@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
 - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
-- [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 - [Nostr and ATProto &lpar;2024&rpar;](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
+- [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
