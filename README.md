@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
+- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
+- [&#39;Death to Spotify&#39;: the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
 - [GitHub Copilot: Remote Code Execution via Prompt Injection &lpar;CVE-2025-53773&rpar;](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/)
 - [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448)
-- [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
-- [How I&#39;m Using Helix Editor](https://rushter.com/blog/helix-editor/)
-- [No I don&#39;t want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
