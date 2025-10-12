@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neighbor shielded 7-year-old during South Shore federal raid](https://chicago.suntimes.com/immigration/2025/10/10/neighbor-shielded-7-year-old-during-south-shore-federal-raid-i-didnt-want-them-to-take-her)
 - [China&#39;s New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
-- [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
+- [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
 - [LineageOS 23](https://lineageos.org/Changelog-30/)
 - [Vancouver Stock Exchange: Scam capital of the world &lpar;1989&rpar; [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
