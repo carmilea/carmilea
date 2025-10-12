@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
-- [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
-- [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
-- [Japan&#39;s summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
-- [Diane Keaton has died](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
+- [China&#39;s New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
+- [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
+- [LineageOS 23](https://lineageos.org/Changelog-30/)
+- [Vancouver Stock Exchange: Scam capital of the world &lpar;1989&rpar; [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
+- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
