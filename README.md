@@ -61,8 +61,8 @@
 - [The App Store was always authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
 - [Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits](https://sobernotsorry.app/)
 - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
-- [Show HN: I made an esoteric programming language that&#39;s read like a spellbook](https://github.com/sirbread/spellscript)
 - [Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
+- [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
