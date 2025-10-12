@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
-- [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
+- [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
+- [Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients](https://www.researchsquare.com/article/rs-7483367/v1)
 - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 - [Nostr and ATProto &lpar;2024&rpar;](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
