@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Software Hasn&#39;t Won](https://dorotac.eu/posts/fosswon/)
+- [MAML – a new configuration language &lpar;similar to JSON, YAML, and TOML&rpar;](https://maml.dev/)
 - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 - [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
 - [Ask HN: What are you working on? &lpar;October 2025&rpar;](https://news.ycombinator.com/item?id=45561428)
-- [I audited 47 failed startups&#39; codebases](https://old.reddit.com/r/Entrepreneur/comments/1o4jup6/i_audited_47_failed_startups_codebases_and_the/)
-- [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
