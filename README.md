@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
+- [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
+- [HP1345A &lpar;and Wargames&rpar; – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
+- [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
+- [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
 - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
-- [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
-- [Ridley Scott&#39;s Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
-- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
