@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
 - [Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
-- [Major security breach at Austrian AI startup localmind.ai](https://localmind.ai/)
-- [Coral Protocol Open Infrastructure Connecting the Internet of Agents](https://arxiv.org/abs/2505.00749)
+- [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
 - [China&#39;s New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
+- [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
