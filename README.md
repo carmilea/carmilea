@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany&#39;s Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
+- [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
 - [Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients](https://www.researchsquare.com/article/rs-7483367/v1)
 - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
-- [Nostr and ATProto &lpar;2024&rpar;](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-- [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
