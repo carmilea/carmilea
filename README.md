@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
+- [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
+- [Ask HN: What are you working on? &lpar;October 2025&rpar;](https://news.ycombinator.com/item?id=45561428)
+- [I audited 47 failed startups&#39; codebases](https://old.reddit.com/r/Entrepreneur/comments/1o4jup6/i_audited_47_failed_startups_codebases_and_the/)
 - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
-- [HP1345A &lpar;and Wargames&rpar; – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
-- [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
-- [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
-- [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
