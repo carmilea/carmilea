@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Software Hasn&#39;t Won](https://dorotac.eu/posts/fosswon/)
+- [Free software hasn&#39;t won](https://dorotac.eu/posts/fosswon/)
 - [MAML – a new configuration language &lpar;similar to JSON, YAML, and TOML&rpar;](https://maml.dev/)
 - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 - [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
