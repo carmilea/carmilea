@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [German industrial output falls to 2005 levels as auto sector craters](https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39)
+- [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
+- [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 - [HTTP3 Explained](https://http3-explained.haxx.se)
-- [Countering Trusting Trust Through Diverse Double-Compiling &lpar;DDC&rpar;](https://dwheeler.com/trusting-trust/)
-- [For centuries massive meals amazed visitors to Korea &lpar;2019&rpar;](https://www.atlasobscura.com/articles/history-of-korean-food)
-- [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
