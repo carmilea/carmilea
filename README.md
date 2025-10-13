@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
+- [Android&#39;s sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+- [Vodafone admits &#39;major outage&#39; as more than 130,000 report problems](https://www.bbc.co.uk/news/articles/c5yldldx659o)
 - [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
-- [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
-- [Ofcom fines 4chan £20K and counting for violating UK&#39;s Online Safety Act](https://www.theregister.com/2025/10/13/4chan_ofcom_fine/)
-- [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
-- [Smartphones and Being Present](https://herman.bearblog.dev/being-present/)
+- [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
