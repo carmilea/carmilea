@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
+- [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
-- [America&#39;s future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
 - [Optery &lpar;YC W22&rpar; – Hiring Tech Lead with Node.js Experience &lpar;U.S. &amp; Latin America&rpar;](https://www.optery.com/careers/)
 - [Environment variables are a legacy mess: Let&#39;s dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 <!-- BLOG-POST-LIST:END -->
