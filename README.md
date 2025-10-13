@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 - [Countering Trusting Trust Through Diverse Double-Compiling &lpar;DDC&rpar;](https://dwheeler.com/trusting-trust/)
-- [Despite what&#39;s happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
 - [For centuries massive meals amazed visitors to Korea &lpar;2019&rpar;](https://www.atlasobscura.com/articles/history-of-korean-food)
 - [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
+- [Novelty Automation](https://www.novelty-automation.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
