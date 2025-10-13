@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optery &lpar;YC W22&rpar; – Hiring Tech Lead with Node.js Experience &lpar;U.S. &amp; Latin America&rpar;](https://www.optery.com/careers/)
+- [Environment variables are a legacy mess: Let&#39;s dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
+- [$19B Wiped Out in Crypto&#39;s Biggest Liquidation](https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever)
 - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
-- [Android&#39;s sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
-- [Vodafone admits &#39;major outage&#39; as more than 130,000 report problems](https://www.bbc.co.uk/news/articles/c5yldldx659o)
-- [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
-- [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)
+- [Apple Renames &#39;Apple TV+&#39; to &#39;Apple TV&#39;](https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
