@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German industrial output falls to 2005 levels as auto sector craters](https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39)
+- [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
+- [American Solar Farms](https://tech.marksblogg.com/american-solar-farms.html)
+- [Modern Linux Tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)
+- [Show HN: I built an online productivity tools website](https://onlinenotep.ad)
 - [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
-- [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
-- [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
-- [HTTP3 Explained](https://http3-explained.haxx.se)
 <!-- BLOG-POST-LIST:END -->
 
 ---
