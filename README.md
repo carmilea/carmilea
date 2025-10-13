@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 - [US Junk Bonds Post Worst Losses in Six Months, Spreads Widen](https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen)
-- [We need &lpar;at least&rpar; ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
+- [We need &lpar;at least&rpar; ergonomic, explicit handles [in Rust]](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
-- [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
