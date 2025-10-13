@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
 - [Don&#39;t Be a Sucker &lpar;1943&rpar; [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
+- [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
 - [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
-- [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
-- [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
