@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About [California] SB 79](https://mnolangray.substack.com/p/everything-you-need-to-know-about)
+- [Novelty Automation](https://www.novelty-automation.com/)
+- [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds)
 - [Free software hasn&#39;t won](https://dorotac.eu/posts/fosswon/)
-- [MAML – a new configuration language &lpar;similar to JSON, YAML, and TOML&rpar;](https://maml.dev/)
-- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
-- [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
-- [Ask HN: What are you working on? &lpar;October 2025&rpar;](https://news.ycombinator.com/item?id=45561428)
+- [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
