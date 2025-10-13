@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
-- [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
-- [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
-- [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
-- [Modern Linux tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)
+- [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
+- [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
+- [Ofcom fines 4chan £20K and counting for violating UK&#39;s Online Safety Act](https://www.theregister.com/2025/10/13/4chan_ofcom_fine/)
+- [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
+- [Smartphones and Being Present](https://herman.bearblog.dev/being-present/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
