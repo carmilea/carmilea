@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
+- [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
+- [America&#39;s future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
 - [Optery &lpar;YC W22&rpar; – Hiring Tech Lead with Node.js Experience &lpar;U.S. &amp; Latin America&rpar;](https://www.optery.com/careers/)
 - [Environment variables are a legacy mess: Let&#39;s dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
-- [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
-- [Android&#39;s sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
-- [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
