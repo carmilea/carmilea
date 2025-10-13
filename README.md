@@ -62,7 +62,7 @@
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 - [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
 - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
-- [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
+- [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
