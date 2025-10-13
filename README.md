@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 - [HTTP3 Explained](https://http3-explained.haxx.se)
-- [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 - [Countering Trusting Trust Through Diverse Double-Compiling &lpar;DDC&rpar;](https://dwheeler.com/trusting-trust/)
 - [For centuries massive meals amazed visitors to Korea &lpar;2019&rpar;](https://www.atlasobscura.com/articles/history-of-korean-food)
 - [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
