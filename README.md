@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Be a Sucker &lpar;1943&rpar; [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
+- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 - [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
 - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
-- [Optery &lpar;YC W22&rpar; – Hiring Tech Lead with Node.js Experience &lpar;U.S. &amp; Latin America&rpar;](https://www.optery.com/careers/)
-- [Environment variables are a legacy mess: Let&#39;s dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
