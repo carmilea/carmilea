@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
+- [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
+- [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
 - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
-- [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
-- [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
-- [Prefix sum: 20 GB/s &lpar;2.6x baseline&rpar;](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
-- [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
+- [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
 <!-- BLOG-POST-LIST:END -->
 
 ---
