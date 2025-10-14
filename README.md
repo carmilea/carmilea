@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022](https://bloomberry.com/coding-tools.html)
-- [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
+- [Let&#39;s Not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+- [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
+- [Show HN: Daily install trends of AI coding extensions in VS Code](https://bloomberry.com/coding-tools.html)
+- [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 - [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
-- [A Mic-Drop Moment at SingleStore Now 2025](https://www.singlestore.com/blog/a-mic-drop-moment-at-singlestore-now-2025)
-- [Zoo of Array Languages](https://ktye.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
