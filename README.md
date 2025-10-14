@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
-- [Don&#39;t Be a Sucker &lpar;1943&rpar; [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
-- [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
-- [Reverse Engineering a 1979 Camera&#39;s Spec](https://blog.mano.lol/posts/film/)
+- [Traffic lights with four colors and a new white light are coming](https://unionrayo.com/en/traffic-lights-color-white-autonomous-cars/)
+- [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
+- [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/)
+- [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+- [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
