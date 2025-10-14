@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Minister Anthony Albanese&#39;s mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
+- [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
 - [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
 - [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
 - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
-- [New York Times, AP, Newsmax and others say they won&#39;t sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
-- [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
