@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [From OLTP to OLAP: Supercharging Presto Queries on SingleStore](https://www.youtube.com/watch?v=m0cZuR9Crtk)
 - [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records](https://www.youtube.com/watch?v=PhEue8pfmiM)
 - [Elastic vs SingleStore: Best for your Data Needs](https://www.youtube.com/watch?v=OqDsU3qUgy4)
 - [Elastic vs SingleStore: Best for your Data Needs](https://www.youtube.com/watch?v=DJfU2CI3gR4)
 - [From Dashboards to Dialogue: The Future of Data Conversations with Aura Analyst](https://www.youtube.com/watch?v=UshDBvooVIQ)
-- [Reducing Your Database TCO: Do More with Less | SingleStore Webinars](https://www.youtube.com/watch?v=3od9vbT3HoQ)
 <!-- YOUTUBE:END -->
 
 
