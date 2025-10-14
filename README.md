@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime Minister Anthony Albanese&#39;s mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
+- [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
+- [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
+- [A Mic-Drop Moment at SingleStore Now 2025](https://www.singlestore.com/blog/a-mic-drop-moment-at-singlestore-now-2025)
+- [Zoo of Array Languages](https://ktye.github.io/)
 - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
-- [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
-- [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
-- [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
