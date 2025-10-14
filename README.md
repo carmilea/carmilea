@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+- [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
+- [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+- [Why Is SQLite Coded in C and not Rust](https://www.sqlite.org/whyc.html)
 - [U.S. Sanctions Cambodian Conglomerate, Citing Role in &#39;Pig-Butchering&#39; Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
-- [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
-- [Show HN: Wispbit - Linter for AI coding agents](https://wispbit.com)
-- [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
+- [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
