@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+- [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
+- [Astronomers &#39;image&#39; a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
+- [Wireshark 4.6.0 Supports macOS Pktap Metadata &lpar;PID, Process Name, etc.&rpar;](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
+- [Self-improving LMs are becoming reality with MIT&#39;s updated SEAL technique](https://venturebeat.com/ai/self-improving-language-models-are-becoming-reality-with-mits-updated-seal)
 - [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
-- [Show HN: Daily install trends of AI coding extensions in VS Code](https://bloomberry.com/coding-tools.html)
-- [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
-- [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
