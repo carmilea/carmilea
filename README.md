@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)
+- [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 - [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
-- [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
 - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
 - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
-- [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
 <!-- BLOG-POST-LIST:END -->
 
 ---
