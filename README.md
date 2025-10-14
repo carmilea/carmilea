@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 - [Swarm reveals growing weak spot in Earth&#39;s magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
-- [Subverting Telegram&#39;s end-to-end encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
+- [Subverting Telegram&#39;s end-to-end encryption &lpar;2023&rpar;](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
 - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
 <!-- BLOG-POST-LIST:END -->
