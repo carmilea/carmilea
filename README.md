@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [From OLTP to OLAP: Supercharging Presto Queries on SingleStore](https://www.youtube.com/watch?v=m0cZuR9Crtk)
-- [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records](https://www.youtube.com/watch?v=PhEue8pfmiM)
-- [Elastic vs SingleStore: Best for your Data Needs](https://www.youtube.com/watch?v=OqDsU3qUgy4)
-- [Elastic vs SingleStore: Best for your Data Needs](https://www.youtube.com/watch?v=DJfU2CI3gR4)
-- [From Dashboards to Dialogue: The Future of Data Conversations with Aura Analyst](https://www.youtube.com/watch?v=UshDBvooVIQ)
+- [Building Real-Time, Unified Data Layers for Enterprise AI | SingleStore NOW 2025](https://www.youtube.com/watch?v=FTf_aDVd-YU)
+- [Enterprise Generative AI Trends &amp; Insights with IBM’s Ritika Gunnar | SingleStore Now 2025](https://www.youtube.com/watch?v=0EbdNlhVpXI)
+- [Industrials with SingleStore: Unlocking Action with Data | SingleStore Now 2025](https://www.youtube.com/watch?v=lIsW7v57nEo)
+- [Agentic Marketing with SingleStore: Real-Time Personalization &amp; AI Performance | NOW 2025](https://www.youtube.com/watch?v=3VVrn2YLrVo)
+- [AI as an Imperative: Jared Peterson &lpar;SAS&rpar; at SingleStore Now 2025 | Digital Twins &amp; ROI](https://www.youtube.com/watch?v=CZIkZjmmTX4)
 <!-- YOUTUBE:END -->
 
 
