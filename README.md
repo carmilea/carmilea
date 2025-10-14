@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
+- [Swarm reveals growing weak spot in Earth&#39;s magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
+- [Subverting Telegram&#39;s end-to-end encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
-- [Astronomers &#39;image&#39; a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
-- [Wireshark 4.6.0 Supports macOS Pktap Metadata &lpar;PID, Process Name, etc.&rpar;](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
-- [Self-improving LMs are becoming reality with MIT&#39;s updated SEAL technique](https://venturebeat.com/ai/self-improving-language-models-are-becoming-reality-with-mits-updated-seal)
-- [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
+- [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
