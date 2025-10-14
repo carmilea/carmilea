@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
+- [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
 - [Prefix sum: 20 GB/s &lpar;2.6x baseline&rpar;](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
-- [Subverting Telegram&#39;s end-to-end encryption &lpar;2023&rpar;](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
-- [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
