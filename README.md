@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
+- [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)
+- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
+- [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
+- [GrapheneOS is ready to break free from Pixels](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
 - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
-- [Why Is SQLite Coded in C and not Rust](https://www.sqlite.org/whyc.html)
-- [U.S. Sanctions Cambodian Conglomerate, Citing Role in &#39;Pig-Butchering&#39; Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
-- [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
