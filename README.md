@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
 - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
 - [Context Engineering: A Definitive Guide](https://www.singlestore.com/blog/context-engineering-a-definitive-guide)
 - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
-- [Reverse engineering a 27MHz RC toy communication using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
