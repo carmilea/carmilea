@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
+- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
+- [Gravity Can Explain the Collapse of the Wavefunction &lpar;Sabine Hossenfelder&rpar;](https://arxiv.org/abs/2510.11037)
 - [Things I&#39;ve learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 - [Recursive Language Models &lpar;RLMs&rpar;](https://alexzhang13.github.io/blog/2025/rlm/)
-- [Show HN: Specific &lpar;YC F25&rpar; – Build backends with specifications instead of code](https://specific.dev/)
-- [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
-- [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
