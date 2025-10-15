@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
 - [Europe&#39;s Digital Sovereignty Paradox – &quot;Chat Control&quot; Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 - [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
 - [Pixnapping Attack](https://www.pixnapping.com/)
-- [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
