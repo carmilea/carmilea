@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
+- [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 - [Disk Prices](https://diskprices.com/?locale=us)
 - [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
 - [New England&#39;s last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
