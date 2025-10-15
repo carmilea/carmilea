@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
-- [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
-- [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
-- [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
-- [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
+- [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
+- [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
+- [iPad Pro with M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
+- [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
+- [Mac Source Ports – Run old games on new Macs](https://www.macsourceports.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
