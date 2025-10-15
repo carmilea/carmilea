@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
-- [Europe&#39;s Digital Sovereignty Paradox – &quot;Chat Control&quot; Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
-- [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
-- [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
-- [Pixnapping Attack](https://www.pixnapping.com/)
+- [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
+- [Irish privacy regulator picks ex-Meta lobbyist as third commissioner](https://www.euractiv.com/news/irish-privacy-regulator-picks-ex-meta-lobbyist-as-third-commissioner/)
+- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45591082)
+- [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
+- [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
