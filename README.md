@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
 - [Context Engineering: A Definitive Guide](https://www.singlestore.com/blog/context-engineering-a-definitive-guide)
 - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
-- [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
-- [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
+- [Reverse engineering a 27MHz RC toy communication using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
