@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)
-- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
-- [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
-- [GrapheneOS is ready to break free from Pixels](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
-- [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+- [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
+- [Disk Prices](https://diskprices.com/?locale=us)
+- [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
+- [New England&#39;s last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
+- [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
