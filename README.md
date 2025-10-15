@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
+- [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
+- [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
-- [Irish privacy regulator picks ex-Meta lobbyist as third commissioner](https://www.euractiv.com/news/irish-privacy-regulator-picks-ex-meta-lobbyist-as-third-commissioner/)
-- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45591082)
-- [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
-- [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
+- [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
