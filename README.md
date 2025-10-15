@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can&#39;t get hired – what&#39;s next?](https://news.ycombinator.com/item?id=45599308)
+- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
+- [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
 - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
 - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
-- [Gravity Can Explain the Collapse of the Wavefunction &lpar;Sabine Hossenfelder&rpar;](https://arxiv.org/abs/2510.11037)
-- [Things I&#39;ve learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
-- [Recursive Language Models &lpar;RLMs&rpar;](https://alexzhang13.github.io/blog/2025/rlm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
