@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
-- [Things I&#39;ve learned in my 7 Years Implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
-- [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
-- [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
+- [Things I&#39;ve learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 - [Recursive Language Models &lpar;RLMs&rpar;](https://alexzhang13.github.io/blog/2025/rlm/)
+- [Show HN: Specific &lpar;YC F25&rpar; – Build backends with specifications instead of code](https://specific.dev/)
+- [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
+- [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
