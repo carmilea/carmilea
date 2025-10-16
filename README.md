@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with the Amiga&#39;s RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
+- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
+- [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
 - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
-- [Like MS Excel, Pivot tables never die](https://www.rilldata.com/blog/why-pivot-tables-never-die)
 - [Launch HN: Inkeep &lpar;YC W23&rpar; – Open Source Agent Builder](https://github.com/inkeep/agents)
-- [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
-- [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
