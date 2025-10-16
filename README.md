@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFK Jr.&#39;s MAHA wants to make chemtrail conspiracy theories great again](https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/)
+- [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 - [How I bypassed Amazon&#39;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
-- [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
-- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
