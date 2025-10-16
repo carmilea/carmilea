@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 - [New coding models and integrations](https://ollama.com/blog/coding-models)
-- [TurboTax’s 20-Year Fight to Stop Americans from Filing Taxes for Free &lpar;2019&rpar;](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
+- [TurboTax’s 20-year fight to stop Americans from filing taxes for free &lpar;2019&rpar;](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
-- [Acid Drop](https://github.com/acidvegas/acid-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
