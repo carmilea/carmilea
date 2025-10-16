@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Inkeep &lpar;YC W23&rpar; – Open-Source Agent Builder](https://github.com/inkeep/agents)
+- [European.cloud: A Curated Directory of EU-Based Cloud Providers](https://european.cloud/)
 - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 - [Nightmare Fuel: What is Skibidi Toilet, How it demos a non-narrative future](https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108)
-- [Chat-GPT becomes Sex-GPT for verified adults](https://twitter.com/sama/status/1978129344598827128)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
-- [Liquibase continues to advertise itself as &quot;open source&quot; despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
