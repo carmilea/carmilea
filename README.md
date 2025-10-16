@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquibase continues to advertise itself as &quot;open source&quot; despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 - [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
 - [New coding models and integrations](https://ollama.com/blog/coding-models)
-- [TurboTax’s 20-year fight to stop Americans from filing taxes for free &lpar;2019&rpar;](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
