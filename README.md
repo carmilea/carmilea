@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
+- [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
+- [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
 - [Working with the Amiga&#39;s RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
-- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
-- [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
-- [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
-- [Launch HN: Inkeep &lpar;YC W23&rpar; – Open Source Agent Builder](https://github.com/inkeep/agents)
+- [Improving the Trustworthiness of JavaScript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
