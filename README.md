@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
-- [I Bypassed Amazon&#39;s Kindle Web DRM Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
+- [How I bypassed Amazon&#39;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 - [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 - [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 <!-- BLOG-POST-LIST:END -->
