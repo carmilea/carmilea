@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon Imposes Pre-Publication Censorship – All Major U.S. Media Walk Out](https://archivethecontrolstack.substack.com/p/archive-003-badges-surrendered-the)
-- [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
+- [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
+- [Nightmare Fuel: What is Skibidi Toilet, How it demos a non-narrative future](https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108)
+- [Chat-GPT becomes Sex-GPT for verified adults](https://twitter.com/sama/status/1978129344598827128)
+- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
 - [Liquibase continues to advertise itself as &quot;open source&quot; despite license switch](https://github.com/liquibase/liquibase/issues/7374)
-- [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/)
-- [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
