@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Conspiracy to Kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [test-ipv6.com will stay online!](https://status.test-ipv6.com)
 - [Talent](https://www.felixstocker.com/blog/talent)
 - [Mysterious Intrigue Around an x86 &quot;Corporate Entity Other Than Intel/AMD&quot;](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
-- [Show HN: How Useless Are You? A brutally honest skills check](https://www.howuselessareyou.com)
 - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 <!-- BLOG-POST-LIST:END -->
 
