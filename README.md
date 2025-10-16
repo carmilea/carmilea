@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can&#39;t get hired – what&#39;s next?](https://news.ycombinator.com/item?id=45599308)
+- [I&#39;m recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
+- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
+- [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
+- [US Dept of Interior denies canceling largest solar project after axing review](https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/)
 - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
-- [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
-- [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
-- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
