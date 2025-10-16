@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
-- [Claude Skills](https://www.anthropic.com/news/skills)
-- [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
-- [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
-- [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
+- [test-ipv6.com will stay online!](https://status.test-ipv6.com)
+- [Talent](https://www.felixstocker.com/blog/talent)
+- [Mysterious Intrigue Around an x86 &quot;Corporate Entity Other Than Intel/AMD&quot;](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
+- [Show HN: How Useless Are You? A brutally honest skills check](https://www.howuselessareyou.com)
+- [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
