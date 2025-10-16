@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: We priced basic needs in work hours &lpar;global ranking and CSVs&rpar;](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)
+- [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
+- [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
+- [I Bypassed Amazon&#39;s Kindle Web DRM Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 - [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
-- [GifCities – The Geocities Animated GIF Search from Internet Archive](https://gifcities.org/)
 - [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [test-ipv6.com will stay online](https://status.test-ipv6.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
