@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Conspiracy to Kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [test-ipv6.com will stay online!](https://status.test-ipv6.com)
-- [Talent](https://www.felixstocker.com/blog/talent)
-- [Mysterious Intrigue Around an x86 &quot;Corporate Entity Other Than Intel/AMD&quot;](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
-- [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
+- [Show HN: We priced basic needs in work hours &lpar;global ranking and CSVs&rpar;](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)
+- [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
+- [GifCities – The Geocities Animated GIF Search from Internet Archive](https://gifcities.org/)
+- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [test-ipv6.com will stay online](https://status.test-ipv6.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
