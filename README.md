@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Inkeep &lpar;YC W23&rpar; – Open-Source Agent Builder](https://github.com/inkeep/agents)
-- [European.cloud: A Curated Directory of EU-Based Cloud Providers](https://european.cloud/)
+- [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
+- [Like MS Excel, Pivot tables never die](https://www.rilldata.com/blog/why-pivot-tables-never-die)
+- [Launch HN: Inkeep &lpar;YC W23&rpar; – Open Source Agent Builder](https://github.com/inkeep/agents)
+- [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
-- [Nightmare Fuel: What is Skibidi Toilet, How it demos a non-narrative future](https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
