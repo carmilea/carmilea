@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
+- [Claude Skills](https://www.anthropic.com/news/skills)
+- [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
+- [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
-- [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
-- [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
-- [Working with the Amiga&#39;s RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
-- [Improving the Trustworthiness of JavaScript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
