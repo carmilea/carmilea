@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does George Orwell&#39;s &#39;1984&#39; Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/)
+- [New coding models and integrations](https://ollama.com/blog/coding-models)
+- [TurboTax’s 20-Year Fight to Stop Americans from Filing Taxes for Free &lpar;2019&rpar;](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
-- [We&#39;re losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
-- [New Alzheimer&#39;s Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
+- [Acid Drop](https://github.com/acidvegas/acid-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
