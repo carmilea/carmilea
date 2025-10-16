@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started on SingleStore](https://www.youtube.com/watch?v=R8UrLBmNoiQ)
 - [Building Real-Time, Unified Data Layers for Enterprise AI | SingleStore NOW 2025](https://www.youtube.com/watch?v=9ggitkcqzY0)
 - [Industrials with SingleStore: Unlocking Action with Data | SingleStore Now 2025](https://www.youtube.com/watch?v=xyiO8fKC6mM)
 - [Enterprise Generative AI Trends &amp; Insights with IBM’s Ritika Gunnar | SingleStore Now 2025](https://www.youtube.com/watch?v=_8oY4II4XeQ)
 - [Transforming Financial Services with Real-Time Analytics &amp; AI | SingleStore Now 2025](https://www.youtube.com/watch?v=4JAeKhdhM5I)
-- [Agentic Marketing with SingleStore: Real-Time Personalization &amp; AI Performance | NOW 2025](https://www.youtube.com/watch?v=gKflcB4LnXI)
 <!-- YOUTUBE:END -->
 
 
