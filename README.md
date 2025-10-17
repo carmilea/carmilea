@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFK Jr.&#39;s MAHA wants to make chemtrail conspiracy theories great again](https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/)
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+- [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+- [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
 - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
-- [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
-- [How I bypassed Amazon&#39;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
