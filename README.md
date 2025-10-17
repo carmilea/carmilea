@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Free the Internet: The Tor Project&#39;s annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
+- [Meow.camera](https://meow.camera/)
 - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 - [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
-- [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
