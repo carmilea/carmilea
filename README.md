@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace Frehley Has Died](https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html)
+- [The Pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
+- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
 - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
 - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
-- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
