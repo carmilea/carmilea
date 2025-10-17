@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace Frehley Has Died](https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html)
+- [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
+- [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
 - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
-- [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)
-- [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
-- [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
