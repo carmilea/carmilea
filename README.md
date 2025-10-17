@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Metropolis 1998 lets you design every building in an isometric, pixel-art city](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
-- [Europe Can&#39;t Defend Democracy on US Servers](https://werd.io/europe-cant-defend-democracy-on-us-servers/)
+- [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
+- [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
+- [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
+- [Metropolis 1998 lets you design every building in an isometric, pixel-art city &lpar;2024&rpar;](https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/)
 - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
-- [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
-- [A classified network of SpaceX satellites is emitting a mysterious signal](https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
