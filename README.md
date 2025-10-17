@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free the Internet: The Tor Project&#39;s annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/)
+- [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
 - [Meow.camera](https://meow.camera/)
 - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
