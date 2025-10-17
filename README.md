@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 - [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
+- [A classified network of SpaceX satellites is emitting a mysterious signal](https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal)
 - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
-- [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 <!-- BLOG-POST-LIST:END -->
 
 ---
