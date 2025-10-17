@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Republicans use deepfake video of Chuck Schumer in new attack ad](https://www.theguardian.com/us-news/2025/oct/17/republican-ad-deepfake-video-chuck-schumer)
+- [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)
 - [The Pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
-- [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
-- [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
