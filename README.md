@@ -62,7 +62,7 @@
 - [Meow.camera](https://meow.camera/)
 - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
-- [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
+- [America’s semiconductor boom [video]](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
