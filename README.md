@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
+- [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
+- [Ruby Core Takes Ownership of Rubygems and Bundler](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
-- [Frank founder Charlie Javice sentenced for JPMorgan fraud](https://www.bbc.com/news/articles/c4gwj15djdxo)
 - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
 <!-- BLOG-POST-LIST:END -->
 
