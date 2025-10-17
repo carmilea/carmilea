@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Replace Spark ETL with Real](https://www.youtube.com/watch?v=bOqWX3-6Gjs)
 - [How to Replace Spark ETL with Real-Time Pipelines](https://www.youtube.com/watch?v=hlTb7NeWOTk)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=R8UrLBmNoiQ)
 - [Building Real-Time, Unified Data Layers for Enterprise AI | SingleStore NOW 2025](https://www.youtube.com/watch?v=9ggitkcqzY0)
 - [Industrials with SingleStore: Unlocking Action with Data | SingleStore Now 2025](https://www.youtube.com/watch?v=xyiO8fKC6mM)
-- [Enterprise Generative AI Trends &amp; Insights with IBM’s Ritika Gunnar | SingleStore Now 2025](https://www.youtube.com/watch?v=_8oY4II4XeQ)
 <!-- YOUTUBE:END -->
 
 
