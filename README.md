@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Test Drove a Flying Car. Get Ready, They&#39;re Here](https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf)
+- [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
+- [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7)
+- [Amazon-backed, nuclear facility for Washington state](https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/)
 - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
-- [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
-- [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
-- [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
+- [Scientists discover intercellular nanotubular communication system in brain](https://www.science.org/doi/10.1126/science.adr7403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
