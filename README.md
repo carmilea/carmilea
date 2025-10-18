@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
-- [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
-- [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
-- [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
-- [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+- [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/)
+- [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+- [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+- [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1)
+- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
