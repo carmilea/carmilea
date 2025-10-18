@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 - [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
-- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
