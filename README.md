@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
+- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
-- [Jeep wrangler owners waiting for answers week after an update bricked their cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
-- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
