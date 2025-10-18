@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
-- [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-- [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
-- [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
+- [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
+- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
