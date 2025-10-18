@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
-- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 - [AMD&#39;s Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
+- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
