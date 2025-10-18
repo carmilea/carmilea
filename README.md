@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoted on Sunday, Fired on Monday: Inside a NASA Office&#39;s Sudden Closure](https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure)
-- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
-- [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
-- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
-- [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
+- [The Unix Executable as a Smalltalk Method &lpar;and Unix-Smalltalk Unification&rpar; [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
+- [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)
+- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
+- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
+- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
