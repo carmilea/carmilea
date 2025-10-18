@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud](https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged)
 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 - [AMD&#39;s Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
