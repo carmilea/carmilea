@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
+- [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
-- [Solving the NYTimes Pips puzzle with a constraint solver](https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
