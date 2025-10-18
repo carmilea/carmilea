@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+- [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+- [US falls out of 10 most powerful passports list for first time in 20 yrs](https://www.theguardian.com/us-news/2025/oct/15/most-powerful-passports-world-list)
+- [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 - [./watch](https://dotslashwatch.com/)
 - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
-- [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
-- [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
 <!-- BLOG-POST-LIST:END -->
 
 ---
