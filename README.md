@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
 - [The Unix Executable as a Smalltalk Method &lpar;and Unix-Smalltalk Unification&rpar; [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)
+- [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html)
 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
 - [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
-- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
