@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
-- [The Unix Executable as a Smalltalk Method &lpar;and Unix-Smalltalk Unification&rpar; [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
+- [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
-- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
+- [Jeep wrangler owners waiting for answers week after an update bricked their cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
 - [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
 <!-- BLOG-POST-LIST:END -->
 
