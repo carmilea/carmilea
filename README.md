@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
+- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
-- [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
