@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
+- [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
+- [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
+- [Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG](https://github.com/Pringled/pyversity)
 - [Replacement.ai](https://replacement.ai)
-- [Abandoned land drives dangerous heat in Houston, Texas A&amp;M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
-- [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
-- [A Tower on Billionaires&#39; Row Is Full of Cracks. Who&#39;s to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
-- [Improving PixelMelt&#39;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
