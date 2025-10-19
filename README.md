@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
+- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 - [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
 - [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
-- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
-- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
