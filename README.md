@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Tower on Billionaires&#39; Row Is Full of Cracks. Who&#39;s to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
 - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
 - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
-- [Lego Theft Ring](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
+- [Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
 - [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
-- [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
