@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Need Arabic Language Models](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.142)
+- [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
+- [US Government Uptime Monitor](https://usa-status.com/)
 - [Compare Single Board Computers](https://sbc.compare/)
-- [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
-- [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
-- [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
+- [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
