@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
+- [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
-- [Doing well in your courses: a guide by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html)
-- [Thieves steal crown jewels in 4 minutes from Louvre Museum](https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b)
-- [When Pollution Spikes in Southeast Asia, Rainfall Shifts from Land to Sea](https://e360.yale.edu/digest/southeast-asia-aerosols-rainfall?asds)
+- [Doing well in your courses: Andrej&#39;s advice for success &lpar;2013&rpar;](https://cs.stanford.edu/people/karpathy/advice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
