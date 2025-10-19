@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacement.ai](https://replacement.ai)
+- [Abandoned land drives dangerous heat in Houston, Texas A&amp;M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
+- [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 - [A Tower on Billionaires&#39; Row Is Full of Cracks. Who&#39;s to Blame?](https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html)
-- [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
-- [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
-- [Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
-- [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
+- [Improving PixelMelt&#39;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
