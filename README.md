@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
-- [Bible and Quran apps flagged NSFW by F-Droid](https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401)
+- [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
 - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 - [Novo Nordisk&#39;s Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
+- [Designing EventQL, an Event Query Language](https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/)
 - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 <!-- BLOG-POST-LIST:END -->
 
