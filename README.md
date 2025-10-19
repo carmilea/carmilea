@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Need Arabic Language Models](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.142)
+- [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945)
+- [Ozempic&#39;s Patent Expires in January: Novo Nordisk&#39;s Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
+- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
 - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
-- [US Government Uptime Monitor](https://usa-status.com/)
 - [Compare Single Board Computers](https://sbc.compare/)
-- [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
