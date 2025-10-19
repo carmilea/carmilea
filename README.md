@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/)
+- [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
-- [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
-- [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
 - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 <!-- BLOG-POST-LIST:END -->
