@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)
+- [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
 - [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
-- [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
-- [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
