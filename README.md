@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why an abundance of choice is not the same as freedom](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
-- [Websites Are for Humans](https://marcus-obst.de/blog/websites-are-for-humans)
-- [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
-- [Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG](https://github.com/Pringled/pyversity)
-- [Replacement.ai](https://replacement.ai)
+- [Judge says body cameras for Chicago officers &quot;was not a suggestion&quot;](https://www.cbsnews.com/chicago/news/judge-homeland-security-federal-agents-chicago-body-cameras/)
+- [How Senior Engineers Lose Trust](https://tahahussain.substack.com/p/how-senior-engineers-lose-trust)
+- [The Spherical Cows of Programming](https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming)
+- [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
+- [With deadline looming 4 of 9 universities reject Trumps pact to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
