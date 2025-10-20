@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You don&#39;t need Kafka: Building a message queue with Unix signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 - [J.P. Morgan&#39;s OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
 - [When a stadium adds AI to everything, it&#39;s worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
-- [First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
