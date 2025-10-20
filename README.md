@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Elevator](https://neal.fun/space-elevator/)
 - [Entire Linux Network stack diagram &lpar;2024&rpar;](https://zenodo.org/records/14179366)
 - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
 - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
-- [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
-- [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [Look at how unhinged GPU box art was in the 2000s &lpar;2024&rpar;](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
