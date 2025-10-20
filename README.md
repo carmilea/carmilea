@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Unexpected Benefit from Quitting Coffee – 10 Months In](https://hamy.xyz/blog/2025-10_unexpected-benefit-quitting-coffee)
+- [China has 55% of the high-IQ working-age people](https://sofiechan.com/p/4571)
+- [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
+- [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
 - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
-- [AWS outage shows internet users &#39;at mercy&#39; of too few providers, experts say](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps)
-- [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
