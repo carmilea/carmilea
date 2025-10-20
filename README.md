@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Servo v0.0.1 Released](https://github.com/servo/servo)
+- [Alibaba Cloud claims to reduce Nvidia GPU use by 82%](https://www.scmp.com/business/article/3329450/alibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system)
+- [AI-generated &#39;poverty porn&#39; fake images being used by aid agencies](https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies)
+- [Calculating legally compliant rent late fees across U.S. states](https://www.RentLateFee.com)
 - [AWS Outage: A Single Cloud Region Shouldn&#39;t Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)
-- [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
-- [Beaver-engineered dam in the Czech Republic](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
-- [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/)
-- [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
