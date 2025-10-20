@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
 - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
 - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
-- [Modeling Others&#39; Minds as Code](https://arxiv.org/abs/2510.01272)
-- [Servo v0.0.1 Released](https://github.com/servo/servo)
+- [How Soon Will the Seas Rise?](https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
