@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Outage: A Single Cloud Region Shouldn&#39;t Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)
+- [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
+- [Beaver-engineered dam in the Czech Republic](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
+- [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/)
 - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
-- [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
-- [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
-- [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
-- [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
