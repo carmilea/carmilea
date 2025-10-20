@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
-- [What I Self Host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
-- [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
-- [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
-- [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- [An Unexpected Benefit from Quitting Coffee – 10 Months In](https://hamy.xyz/blog/2025-10_unexpected-benefit-quitting-coffee)
+- [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
+- [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
+- [AWS outage shows internet users &#39;at mercy&#39; of too few providers, experts say](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps)
+- [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
