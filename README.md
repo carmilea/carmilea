@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Populism and Economic Prosperity](https://mainlymacro.blogspot.com/2025/10/populism-and-economic-prosperity.html)
+- [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
 - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 - [J.P. Morgan&#39;s OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
 - [When a stadium adds AI to everything, it&#39;s worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
