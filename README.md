@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
-- [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
-- [Novo Nordisk&#39;s Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
-- [Designing EventQL, an Event Query Language](https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/)
-- [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
+- [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
+- [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
+- [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
+- [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw &lpar;PICT&rpar; files](https://github.com/wiesmann/QuickDrawViewer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
