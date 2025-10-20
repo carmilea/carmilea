@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
+- [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
+- [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- [Modeling Others&#39; Minds as Code](https://arxiv.org/abs/2510.01272)
 - [Servo v0.0.1 Released](https://github.com/servo/servo)
-- [Alibaba Cloud claims to reduce Nvidia GPU use by 82%](https://www.scmp.com/business/article/3329450/alibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system)
-- [AI-generated &#39;poverty porn&#39; fake images being used by aid agencies](https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies)
-- [Calculating legally compliant rent late fees across U.S. states](https://www.RentLateFee.com)
-- [AWS Outage: A Single Cloud Region Shouldn&#39;t Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
