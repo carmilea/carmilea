@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China has 55% of the high-IQ working-age people](https://sofiechan.com/p/4571)
-- [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
-- [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
-- [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
-- [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
+- [Populism and Economic Prosperity](https://mainlymacro.blogspot.com/2025/10/populism-and-economic-prosperity.html)
+- [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
+- [J.P. Morgan&#39;s OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
+- [When a stadium adds AI to everything, it&#39;s worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
+- [First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
