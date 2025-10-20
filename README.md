@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
+- [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
+- [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [Space Elevator](https://neal.fun/space-elevator/)
 - [Entire Linux Network stack diagram &lpar;2024&rpar;](https://zenodo.org/records/14179366)
-- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-- [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
-- [Look at how unhinged GPU box art was in the 2000s &lpar;2024&rpar;](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
