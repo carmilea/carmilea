@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Expensive Laptops](https://comparelaptopprices.com/lists/most-expensive-laptops/)
+- [Show HN: I&#39;m rewriting a web server written in Rust for speed and ease of use](https://ferron.sh/)
+- [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 - [Practical Scheme](https://practical-scheme.net/index.html#docs)
-- [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
 - [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
 <!-- BLOG-POST-LIST:END -->
 
