@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shutdown with No Clear End Poses New Economic Threat](https://www.nytimes.com/2025/10/21/business/economy/government-shutdown-economic-effects.html)
-- [Don&#39;t use AI to tell you how to vote in election, says Dutch watchdog](https://www.theguardian.com/world/2025/oct/21/ai-chatbots-unreliable-biased-advice-voters-dutch-watchdog)
+- [Sell tickets to concerts agentically – Hive &lpar;YC S14&rpar; is hiring](https://news.ycombinator.com/item?id=45656230)
+- [LLMs Can Get &quot;Brain Rot&quot;](https://llm-brain-rot.github.io/)
+- [UA 1093](https://windbornesystems.com/blog/ua-1093)
 - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
-- [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
