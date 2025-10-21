@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
+- [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+- [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
+- [SpaceX is behind schedule, so NASA will open Artemis III contract to competition](https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/)
 - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
-- [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
-- [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
-- [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)
-- [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
