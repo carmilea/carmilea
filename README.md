@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sell tickets to concerts agentically – Hive &lpar;YC S14&rpar; is hiring](https://news.ycombinator.com/item?id=45656230)
-- [LLMs Can Get &quot;Brain Rot&quot;](https://llm-brain-rot.github.io/)
-- [UA 1093](https://windbornesystems.com/blog/ua-1093)
-- [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
-- [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+- [Is Sora the Beginning of the End for OpenAI?](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)
+- [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
+- [Apple alerts exploit developer that his iPhone was targeted with gov spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
+- [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)
+- [Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker](https://github.com/Katakate/k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
