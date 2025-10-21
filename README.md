@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
+- [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
 - [ChatGPT Atlas](https://chatgpt.com/atlas)
 - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
-- [Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)
 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
-- [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
