@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Argentine peso weakens to fresh low despite US interventions](https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53)
-- [The Rubygems.org takeover](https://lwn.net/SubscriberLink/1040778/77d921001b26d061/)
+- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
 - [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
 - [Why UUIDs won&#39;t protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 - [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
