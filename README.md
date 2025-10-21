@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Anna, Lindsey Halligan Here.&quot; My Signal exchange with the interim U.S. attorney](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here)
+- [Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
+- [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
 - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
-- [Doomsday Scoreboard](https://doomsday.march1studios.com/)
-- [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
-- [ChatGPT Atlas](https://chatgpt.com/atlas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
