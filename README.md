@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shutdown with No Clear End Poses New Economic Threat](https://www.nytimes.com/2025/10/21/business/economy/government-shutdown-economic-effects.html)
+- [Don&#39;t use AI to tell you how to vote in election, says Dutch watchdog](https://www.theguardian.com/world/2025/oct/21/ai-chatbots-unreliable-biased-advice-voters-dutch-watchdog)
 - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
 - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
-- [SpaceX is behind schedule, so NASA will open Artemis III contract to competition](https://www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/)
-- [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
