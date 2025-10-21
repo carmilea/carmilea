@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weiwei: What I Wish I Had Known About Germany Earlier](https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/)
 - [Human Error Cripples the Internet &lpar;1997&rpar;](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
 - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 - [Practical Scheme](https://practical-scheme.net/index.html#docs)
+- [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
