@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daniel J. Bernstein updated cdb &lpar;Constant database&rpar; to go beyond 4GB](https://cdb.cr.yp.to/)
-- [&quot;Butt breathing&quot; might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
+- [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
+- [Cdb: Add support for cdb64](https://cdb.cr.yp.to/download.html)
+- [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
-- [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 <!-- BLOG-POST-LIST:END -->
 
