@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
-- [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
-- [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
-- [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
-- [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
+- [Cryptographic Issues in Cloudflare&#39;s Circl FourQ Implementation &lpar;CVE-2025-8556&rpar;](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
+- [Tiny sugar spoons are popping up on NYC fast-food menus](https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned)
+- [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
+- [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
+- [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
