@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
-- [Cdb: Add support for cdb64](https://cdb.cr.yp.to/download.html)
+- [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+- [Spotify running ICE recruitment ads about &quot;dangerous illegals&quot;](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)
+- [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
+- [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
 - [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
-- [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
-- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
