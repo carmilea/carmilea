@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 - [Rivian&#39;s Also E-bike is like nothing you&#39;ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
 - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
-- [How do LLM&#39;s trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
 - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
-- [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
+- [I See a Future in Jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
