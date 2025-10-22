@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
+- [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
 - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 - [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
 - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
-- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
