@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia COO quit over Shaun Maguire&#39;s comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
+- [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
 - [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
-- [Google demonstrates &#39;verifiable quantum advantage&#39; with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
-- [Cryptographic Issues in Cloudflare&#39;s Circl FourQ Implementation &lpar;CVE-2025-8556&rpar;](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
-- [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
+- [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
