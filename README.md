@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
+- [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
 - [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
-- [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
-- [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
-- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
+- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
+- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
