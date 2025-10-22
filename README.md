@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google demonstrates &#39;verifiable quantum advantage&#39; with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 - [Cryptographic Issues in Cloudflare&#39;s Circl FourQ Implementation &lpar;CVE-2025-8556&rpar;](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
-- [Tiny sugar spoons are popping up on NYC fast-food menus](https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned)
 - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
 - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
 - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
