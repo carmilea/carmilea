@@ -61,8 +61,8 @@
 - [Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)
 - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
 - [MinIO &lpar;apparently&rpar; becomes source-only](https://github.com/minio/minio/issues/21647)
-- [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
 - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+- [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
