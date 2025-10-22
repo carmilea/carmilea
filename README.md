@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
+- [Ovi](https://github.com/character-ai/Ovi)
+- [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
+- [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
 - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
-- [Rivian&#39;s Also E-bike is like nothing you&#39;ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
-- [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
-- [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
-- [I See a Future in Jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
