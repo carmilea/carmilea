@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia COO quit over Shaun Maguire&#39;s comments about Mamdani](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
+- [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
 - [Google demonstrates &#39;verifiable quantum advantage&#39; with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 - [Cryptographic Issues in Cloudflare&#39;s Circl FourQ Implementation &lpar;CVE-2025-8556&rpar;](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
-- [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
-- [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
