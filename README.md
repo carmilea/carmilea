@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentence Transformers is joining Hugging Face](https://huggingface.co/blog/sentence-transformers-joins-hf)
+- [The Stagnant Order. and the End of Rising Powers](https://www.foreignaffairs.com/united-states/stagnant-order-michael-beckley)
+- [A Brain-like LLM to replace Transformers](https://arxiv.org/abs/2509.26507)
+- [Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss](https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss)
 - [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
-- [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
-- [Internet&#39;s biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
-- [Infracost &lpar;YC W21&rpar; Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
-- [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
