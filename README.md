@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greg Newby, CEO of the Project Gutenberg Literary Archive Foundation, Has Died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
-- [Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)
-- [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
-- [MinIO &lpar;apparently&rpar; becomes source-only](https://github.com/minio/minio/issues/21647)
-- [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+- [Jaguar Land Rover hack cost UK economy an estimated $2.5B](https://www.reuters.com/sustainability/boards-policy-regulation/jaguar-land-rover-hack-cost-uk-economy-25-billion-report-says-2025-10-22/)
+- [Subprime Lender PrimaLend Enters Bankruptcy After Bond Default](https://www.bloomberg.com/news/articles/2025-10-22/subprime-lender-primalend-enters-bankruptcy-after-bond-default)
+- [Internet&#39;s biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
+- [Infracost &lpar;YC W21&rpar; Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+- [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
