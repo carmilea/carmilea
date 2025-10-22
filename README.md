@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-- [Introducing Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
-- [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
-- [The Logarithmic Time Perception Hypothesis](http://www.kafalas.com/Logtime.html)
-- [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+- [Rivian&#39;s Also E-bike is like nothing you&#39;ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
+- [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
+- [How do LLM&#39;s trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)
+- [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
+- [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
