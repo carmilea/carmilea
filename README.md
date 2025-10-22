@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
 - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
-- [Ovi](https://github.com/character-ai/Ovi)
-- [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
+- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
