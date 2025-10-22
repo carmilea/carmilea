@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daniel J. Bernstein updated cdb &lpar;Constant database&rpar; to go beyond 4GB](https://cdb.cr.yp.to/)
+- [&quot;Butt breathing&quot; might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
+- [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
 - [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
 - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
-- [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
-- [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
-- [Doomsday Scoreboard](https://doomsday.march1studios.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
