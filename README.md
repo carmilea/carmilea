@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
-- [I wrote about parallel prompts: from 3D shoe renders to swipe-ready videos](https://www.widgens.com/blog/parallel-prompting)
-- [The Muscular Compassion of &quot;Paper Girl&quot;](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
-- [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
-- [What happened to Apple&#39;s legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
+- [Why /Dev/Null Is an Acid Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
+- [We only have one life. Let&#39;s stop wasting it on YouTube shorts](https://github.com/CaptainYouz/FocusTube)
+- [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
+- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
