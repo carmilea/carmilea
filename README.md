@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expanding Our Use of Google Cloud TPUs and Services](https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)
+- [I wrote about parallel prompts: from 3D shoe renders to swipe-ready videos](https://www.widgens.com/blog/parallel-prompting)
 - [The Muscular Compassion of &quot;Paper Girl&quot;](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
 - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 - [What happened to Apple&#39;s legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
-- [Can &quot;second life&quot; EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
-- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
