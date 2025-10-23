@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Casey Muratori: I can always tell a good programmer in an interview](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews)
 - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 - [US probes Alphabet unit Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
+- [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
 - [Nango &lpar;YC W23&rpar; is hiring Staff Back end Engs &lpar;remote&rpar;](https://www.nango.dev/careers)
-- [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)
-- [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
