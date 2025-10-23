@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C64 Blood Money](https://lemmings.info/c64-blood-money/)
-- [Radios, how do they work? &lpar;2024&rpar;](https://lcamtuf.substack.com/p/radios-how-do-they-work)
-- [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
-- [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
-- [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
+- [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
+- [US probes Alphabet unit Waymo robotaxis over school bus safety](https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html)
+- [Nango &lpar;YC W23&rpar; is hiring Staff Back end Engs &lpar;remote&rpar;](https://www.nango.dev/careers)
+- [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)
+- [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
