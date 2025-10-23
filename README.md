@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [C64 Blood Money](https://lemmings.info/c64-blood-money/)
-- [Female spies are waging &#39;sex warfare&#39; to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)
 - [Radios, how do they work? &lpar;2024&rpar;](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 - [Programming with Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
+- [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
