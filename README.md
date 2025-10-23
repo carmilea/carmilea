@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happened to Apple&#39;s Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
+- [Can &quot;second life&quot; EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
 - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
-- [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
+- [OpenMaxIO: Forked UI for MinIO Object Storage](https://github.com/OpenMaxIO/openmaxio-object-browser)
 - [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
-- [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
-- [President Trump Pardons Binance Founder Changpeng Zhao](https://www.bbc.com/news/articles/cly1qrl9l1qo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
