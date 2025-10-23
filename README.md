@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why /Dev/Null Is an Acid Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
+- [How memory maps &lpar;MMAP&rpar; deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
+- [/Dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
-- [We only have one life. Let&#39;s stop wasting it on YouTube shorts](https://github.com/CaptainYouz/FocusTube)
-- [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
-- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
+- [FocusTube: A Chrome extension that hides YouTube Shorts](https://github.com/CaptainYouz/FocusTube)
 <!-- BLOG-POST-LIST:END -->
 
 ---
