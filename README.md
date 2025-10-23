@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Powerful Agentic AI Applications Using SingleStore](https://www.singlestore.com/blog/build-powerful-agentic-ai-applications-using-singlestore)
+- [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+- [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
+- [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
 - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
-- [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf)
-- [We tested 20 LLMs for ideological bias, revealing distinct alignments](https://anomify.ai/resources/articles/llm-bias)
-- [Nango &lpar;YC W23&rpar; is hiring Staff Back end Engs &lpar;remote&rpar;](https://www.nango.dev/careers)
-- [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
