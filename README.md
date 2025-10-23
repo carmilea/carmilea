@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Earth AI expanding access around the globe](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/)
-- [Claude Memory](https://www.anthropic.com/news/memory)
-- [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
-- [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
-- [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
+- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
+- [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser)
+- [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
+- [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests)
+- [President Trump Pardons Binance Founder Changpeng Zhao](https://www.bbc.com/news/articles/cly1qrl9l1qo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
