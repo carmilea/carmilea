@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Build Powerful Agentic AI Applications Using SingleStore](https://www.singlestore.com/blog/build-powerful-agentic-ai-applications-using-singlestore)
 - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+- [Show HN: Nostr Web – decentralized website hosting on Nostr](https://nweb.shugur.com)
 - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
 - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
-- [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
