@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Powerful Agentic AI Applications Using SingleStore](https://www.singlestore.com/blog/build-powerful-agentic-ai-applications-using-singlestore)
-- [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
-- [Show HN: Nostr Web – decentralized website hosting on Nostr](https://nweb.shugur.com)
-- [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
-- [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
+- [Google Earth AI expanding access around the globe](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/)
+- [Claude Memory](https://www.anthropic.com/news/memory)
+- [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)
+- [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
+- [VectorWare – from creators of `rust-GPU` and `rust-CUDA`](https://www.vectorware.com/blog/announcing-vectorware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
