@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy League psychologist: &#39;Bring your whole self to work&#39; is bad advice](https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html)
+- [The Mainframe Six](https://arcanesciences.com/os2200/app1.html)
 - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
-- [Traffic Light Protocol](https://www.first.org/tlp/)
-- [The Art of Possibility — Building the Enterprise Intelligence Plane](https://www.singlestore.com/blog/the-art-of-possibility-building-the-enterprise-intelligence-plane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
