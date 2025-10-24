@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Agents Visit Anti-ICE Protester: &quot;Your name was brought up.&quot;](https://www.kenklippenstein.com/p/video-fbi-agents-visit-anti-ice-protester)
 - [The Mainframe Six &lpar;2022&rpar;](https://arcanesciences.com/os2200/app1.html)
 - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
 - [The Art of Possibility — Building the Enterprise Intelligence Plane](https://www.singlestore.com/blog/the-art-of-possibility-building-the-enterprise-intelligence-plane)
+- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
