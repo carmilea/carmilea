@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
+- [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
 - [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
 - [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 - [Mind-boggling&#39; poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
-- [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
-- [Mesh2Motion – Open-source web application to animate 3D models](https://mesh2motion.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
