@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
+- [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 - [Roc Camera](https://roc.camera/)
+- [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 - [Computer science courses that don&#39;t exist, but should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
-- [Counter-Strike&#39;s player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
-- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
-- [Introduction to the concept of likelihood and its applications &lpar;2018&rpar;](https://journals.sagepub.com/doi/10.1177/2515245917744314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
