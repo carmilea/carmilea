@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
-- [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
+- [The Art of Possibility — Building the Enterprise Intelligence Plane](https://www.singlestore.com/blog/the-art-of-possibility-building-the-enterprise-intelligence-plane)
+- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
 - [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-- [Mind-boggling&#39; poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
