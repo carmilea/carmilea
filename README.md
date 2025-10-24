@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
 - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
+- [Traffic Light Protocol](https://www.first.org/tlp/)
 - [The Art of Possibility — Building the Enterprise Intelligence Plane](https://www.singlestore.com/blog/the-art-of-possibility-building-the-enterprise-intelligence-plane)
-- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
