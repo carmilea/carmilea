@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Roc Camera](https://roc.camera/)
 - [Computer science courses that don&#39;t exist, but should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
+- [Counter-Strike&#39;s player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
 - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
 - [Introduction to the concept of likelihood and its applications &lpar;2018&rpar;](https://journals.sagepub.com/doi/10.1177/2515245917744314)
-- [Automating Algorithm Discovery: A Case Study in MoE Load Balancing](https://adrs-ucb.notion.site/moe-load-balancing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
