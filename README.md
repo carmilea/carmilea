@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Conductor &lpar;YC S24&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
-- [Microsoft Teams will start snitching to your boss when you&#39;re not in the office](https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december)
-- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
+- [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
 - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 - [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
+- [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
