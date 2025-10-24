@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
-- [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
-- [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
-- [Alaska Airlines&#39; statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
-- [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
+- [Typst 0.14: Now Accessible](https://typst.app/blog/2025/typst-0.14/)
+- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+- [Mind-boggling&#39; poker fraud used X-ray tables, high-tech glasses and NBA players](https://www.bbc.com/news/articles/cz6nd9wnzn6o)
+- [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
+- [Mesh2Motion – Open-source web application to animate 3D models](https://mesh2motion.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
