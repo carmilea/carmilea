@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
-- [How memory maps &lpar;MMAP&rpar; deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
-- [/Dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
-- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
-- [FocusTube: A Chrome extension that hides YouTube Shorts](https://github.com/CaptainYouz/FocusTube)
+- [Counter-Strike&#39;s player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
+- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
+- [Introduction to the concept of likelihood and its applications &lpar;2018&rpar;](https://journals.sagepub.com/doi/10.1177/2515245917744314)
+- [Populism Fast and Slow](https://josephheath.substack.com/p/populism-fast-and-slow)
+- [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
