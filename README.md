@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conductor &lpar;YC S24&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
+- [Microsoft Teams will start snitching to your boss when you&#39;re not in the office](https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december)
+- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
-- [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
-- [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
-- [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
-- [Traffic Light Protocol](https://www.first.org/tlp/)
+- [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
