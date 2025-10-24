@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alaska Airlines&#39; statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 - [Roc Camera](https://roc.camera/)
 - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
-- [Computer science courses that don&#39;t exist, but should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
