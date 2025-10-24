@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Launches &#39;Company Knowledge&#39;](https://openai.com/index/introducing-company-knowledge/)
-- [Britain&#39;s most tattooed man says UK&#39;s age check told him to &quot;remove his face&quot;](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
+- [Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)
 - [Alaska Airlines&#39; statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
+- [Roc Camera](https://roc.camera/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
