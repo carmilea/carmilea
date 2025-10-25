@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
-- [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)
 - [How programs get run: ELF binaries &lpar;2015&rpar;](https://lwn.net/Articles/631631/)
 - [An Efficient Implementation of SELF &lpar;1989&rpar; [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 - [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
