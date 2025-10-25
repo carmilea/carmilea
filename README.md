@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Missing Semester of Your CS Education &lpar;2020&rpar;](https://missing.csail.mit.edu/)
+- [File System Design Philosophy](https://deyaa1251.github.io/deyaa1251/posts/b_tree/)
 - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
 - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 - [Fast TypeScript &lpar;Code Complexity&rpar; Analyzer](https://ftaproject.dev/)
-- [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
