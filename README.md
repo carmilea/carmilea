@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
 - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
-- [The mad king&#39;s digital killswitch](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)
-- [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
-- [DNA reveals the real killers that brought down Napoleon&#39;s army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
+- [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/)
 - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
+- [Making a micro Linux distro &lpar;2023&rpar;](https://popovicu.com/posts/making-a-micro-linux-distro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
