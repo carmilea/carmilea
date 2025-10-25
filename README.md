@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carmack on Operating Systems &lpar;1997&rpar;](https://rmitz.org/carmack.on.operating.systems.html)
+- [Virtual Try on Free Online – AI Clothes Changer – I-TryOn](https://virtual-try-on.app/)
 - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 - [Conductor &lpar;YC S24&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
-- [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
-- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
-- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
