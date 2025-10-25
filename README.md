@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
+- [Xubuntu website hacked and served malware](https://old.reddit.com/r/xubuntu/comments/1oa43gt/xubuntuorg_might_be_compromised/)
 - [DNA reveals the real killers that brought down Napoleon&#39;s army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
 - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 - [Making a micro Linux distro &lpar;2023&rpar;](https://popovicu.com/posts/making-a-micro-linux-distro/)
-- [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
-- [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
