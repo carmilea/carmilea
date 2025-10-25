@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)
-- [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
-- [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/)
-- [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
-- [Making a micro Linux distro &lpar;2023&rpar;](https://popovicu.com/posts/making-a-micro-linux-distro/)
+- [Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes](https://shadcnthemer.com)
+- [The Journey Before main&lpar;&rpar;](https://amit.prasad.me/blog/before-main)
+- [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
+- [We do not have sufficient links to the UK for Online Safety Act to be applicable](https://libera.chat/news/advised)
+- [Rock Tumbler Instructions](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
