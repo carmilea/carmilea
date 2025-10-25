@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
+- [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 - [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 - [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
 - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
-- [What Is Intelligence? &lpar;2024&rpar;](https://whatisintelligence.antikythera.org/)
-- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
