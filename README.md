@@ -61,8 +61,8 @@
 - [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 - [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
 - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
-- [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
-- [Carmack on Operating Systems &lpar;1997&rpar;](https://rmitz.org/carmack.on.operating.systems.html)
+- [What Is Intelligence? &lpar;2024&rpar;](https://whatisintelligence.antikythera.org/)
+- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
