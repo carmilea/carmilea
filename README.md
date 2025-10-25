@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 - [Making a micro Linux distro &lpar;2023&rpar;](https://popovicu.com/posts/making-a-micro-linux-distro/)
 - [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
 - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
 - [Tell HN: OpenAI now requires ID verification and won&#39;t refund API credits](https://news.ycombinator.com/item?id=45702363)
-- [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
