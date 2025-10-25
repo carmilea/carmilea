@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Semester of Your CS Education &lpar;2020&rpar;](https://missing.csail.mit.edu/)
-- [File System Design Philosophy](https://deyaa1251.github.io/deyaa1251/posts/b_tree/)
+- [Making a micro Linux distro &lpar;2023&rpar;](https://popovicu.com/posts/making-a-micro-linux-distro/)
+- [The Great SaaS Gaslight](https://unworkableideas.com/the-great-saas-lighting-how-it-users-got-gaslit/)
 - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
+- [Tell HN: OpenAI now requires ID verification and won&#39;t refund API credits](https://news.ycombinator.com/item?id=45702363)
 - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
-- [Fast TypeScript &lpar;Code Complexity&rpar; Analyzer](https://ftaproject.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
