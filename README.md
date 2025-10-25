@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
+- [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
+- [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
 - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
-- [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
 - [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
 - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
 <!-- BLOG-POST-LIST:END -->
