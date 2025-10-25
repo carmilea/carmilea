@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Missing Semester of Your CS Education &lpar;2020&rpar;](https://missing.csail.mit.edu/)
+- [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
 - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 - [Fast TypeScript &lpar;Code Complexity&rpar; Analyzer](https://ftaproject.dev/)
 - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
-- [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
-- [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
