@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Orthodox men wear suits 24/7? &lpar;2018&rpar;](https://jewinthecity.com/2018/02/do-orthodox-men-wear-suits-247/)
-- [ARM Memory Tagging: how it improves C/C++ memory safety &lpar;2018&rpar; [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
-- [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
-- [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
-- [&quot;Learn APL&quot; Notes](https://luksamuk.codes/pages/learn-apl.html)
+- [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
+- [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)
+- [How programs get run: ELF binaries &lpar;2015&rpar;](https://lwn.net/Articles/631631/)
+- [An Efficient Implementation of SELF &lpar;1989&rpar; [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
+- [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
