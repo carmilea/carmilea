@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-source shadcn/UI theme editor – design and share shadcn themes](https://shadcnthemer.com)
-- [The Journey Before main&lpar;&rpar;](https://amit.prasad.me/blog/before-main)
-- [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
-- [We do not have sufficient links to the UK for Online Safety Act to be applicable](https://libera.chat/news/advised)
-- [Rock Tumbler Instructions](https://rocktumbler.com/tips/rock-tumbler-instructions/)
+- [Do Orthodox men wear suits 24/7? &lpar;2018&rpar;](https://jewinthecity.com/2018/02/do-orthodox-men-wear-suits-247/)
+- [ARM Memory Tagging: how it improves C/C++ memory safety &lpar;2018&rpar; [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
+- [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
+- [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
+- [&quot;Learn APL&quot; Notes](https://luksamuk.codes/pages/learn-apl.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
