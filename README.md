@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Definition of AGI](https://arxiv.org/abs/2510.18212)
 - [Alzheimer&#39;s disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 - [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)
 - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
-- [Movie Posters from Africa That Are So Bad, They&#39;re Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
 <!-- BLOG-POST-LIST:END -->
 
 ---
