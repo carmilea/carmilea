@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- [I&#39;m drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
 - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+- [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
-- [How programs get run: ELF binaries &lpar;2015&rpar;](https://lwn.net/Articles/631631/)
-- [An Efficient Implementation of SELF &lpar;1989&rpar; [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
-- [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
