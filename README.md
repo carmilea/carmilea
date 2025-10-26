@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)
+- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
+- [The Apple Network Server Mac OS ROMs have resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
 - [Show HN: MyraOS – My 32-bit operating system in C and ASM &lpar;Hack Club project&rpar;](https://github.com/dvir-biton/MyraOS)
 - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
-- [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
-- [Alzheimer&#39;s disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
-- [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
