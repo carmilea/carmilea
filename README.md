@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Movie Posters from Africa That Are So Bad, They&#39;re Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
 - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
-- [YouTube Just Ate TV. It&#39;s Only Getting Started](https://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/)
 - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 - [Let&#39;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
+- [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
