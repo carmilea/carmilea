@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
 - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
 - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
-- [I&#39;m drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
 - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 <!-- BLOG-POST-LIST:END -->
 
