@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
-- [A Definition of AGI](https://arxiv.org/abs/2510.18212)
+- [Smart Beds Helped Them Sleep on a Cloud. Then the Cloud Crashed](https://www.nytimes.com/2025/10/24/business/amazon-aws-outage-eight-sleep-mattress.html)
 - [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 - [Alzheimer&#39;s disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
