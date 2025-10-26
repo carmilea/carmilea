@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
+- [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 - [Let&#39;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
 - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
