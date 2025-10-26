@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Reportedly Moving Ahead with Ads in Maps App](https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/)
 - [Let&#39;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 - [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
 - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
-- [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
 - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 <!-- BLOG-POST-LIST:END -->
 
