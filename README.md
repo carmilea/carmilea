@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
-- [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
-- [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
-- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
-- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
+- [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
+- [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
+- [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/)
+- [LaserTweezer – Optical Trap](https://www.gaudi.ch/GaudiLabs/?page_id=578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
