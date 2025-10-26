@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Should Feed the Bots](https://maurycyz.com/misc/the_cost_of_trash/)
+- [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
+- [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
 - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
 - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
-- [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
-- [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
-- [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
