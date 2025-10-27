@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Argentina&#39;s midterm election hands landslide win to Milei&#39;s libertarian overhaul](https://www.cnbc.com/2025/10/27/argentinas-midterm-election-hands-landslide-win-to-mileis-libertarian-overhaul.html)
+- [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)
+- [However small, just start. From zero to hero](https://www.theguardian.com/lifeandstyle/2025/oct/26/expert-motivation-tips-gym-to-do-list)
+- [We&#39;re in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
 - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
-- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
-- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
