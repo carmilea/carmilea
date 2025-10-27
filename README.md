@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
+- [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
 - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
