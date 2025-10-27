@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
+- [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
+- [If Your Adversary Is the Mossad &lpar;2014&rpar; [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [Why JPEG XL Ignoring Bit Depth Is Genius &lpar;and Why AVIF Can&#39;t Pull It Off&rpar;](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
 - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
-- [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
-- [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
-- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
-- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
