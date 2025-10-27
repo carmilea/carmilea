@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carl Bohland&#39;s Auto Wash Bowl &lpar;2019&rpar;](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
+- [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
+- [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
+- [Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server](https://github.com/cisco-ai-defense/mcp-scanner)
 - [Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)
-- [Sieve &lpar;YC X25&rpar; Is Hiring Engineers to build video datasets for frontier AI](https://www.sievedata.com/)
-- [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
-- [JetKVM Is Now Available for Retail Purchase](https://jetkvm.com/products)
-- [JSON Query](https://jsonquerylang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
