@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
+- [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
 - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 - [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
 - [If Your Adversary Is the Mossad &lpar;2014&rpar; [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
-- [Why JPEG XL Ignoring Bit Depth Is Genius &lpar;and Why AVIF Can&#39;t Pull It Off&rpar;](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
-- [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
