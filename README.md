@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
-- [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)
+- [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
-- [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 - [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
+- [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
+- [It&#39;s not always DNS](https://notes.pault.ag/its-not-always-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
