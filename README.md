@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carl Bohland&#39;s Auto Wash Bowl &lpar;2019&rpar;](https://www.vintag.es/2019/12/the-auto-wash-bowl.html)
-- [Why Nigeria Accepted GMOs](https://www.asimov.press/p/nigeria-crops)
+- [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
+- [Carl Bohland&#39;s Auto Wash Bowl &lpar;2015&rpar;](https://news.wttw.com/2015/07/29/ask-geoffrey)
+- [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
 - [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
-- [Cisco opensourced MCP-Scanner for finding vulnerabilties in MCP server](https://github.com/cisco-ai-defense/mcp-scanner)
-- [Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)
+- [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
