@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 - [Artifact &lpar;YC W25&rpar; is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
+- [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 - [You are how you act](https://boz.com/articles/you-are-how-you-act)
 - [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
-- [Don&#39;t forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
-- [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 <!-- BLOG-POST-LIST:END -->
 
 ---
