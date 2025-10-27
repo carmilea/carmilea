@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is AWS Down Again?](https://news.ycombinator.com/item?id=45722733)
-- [Claude for Excel](https://www.claude.com/claude-for-excel)
-- [It&#39;s insulting to read your AI-generated blog post](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
-- [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
-- [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
+- [Artificial Writing and Automated Detection [pdf]](https://www.nber.org/system/files/working_papers/w34223/w34223.pdf)
+- [Sieve &lpar;YC X25&rpar; Is Hiring Engineers to build video datasets for frontier AI](https://www.sievedata.com/)
+- [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
+- [JetKVM Is Now Available for Retail Purchase](https://jetkvm.com/products)
+- [JSON Query](https://jsonquerylang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
