@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
+- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
+- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
 - [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)
-- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
-- [The Apple Network Server Mac OS ROMs have resurfaced](http://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)
-- [Show HN: MyraOS – My 32-bit operating system in C and ASM &lpar;Hack Club project&rpar;](https://github.com/dvir-biton/MyraOS)
-- [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
