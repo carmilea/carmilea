@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
-- [WorldGrow: Generating Infinite 3D World](https://github.com/world-grow/WorldGrow)
-- [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
-- [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
-- [If Your Adversary Is the Mossad &lpar;2014&rpar; [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [Artifact &lpar;YC W25&rpar; is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
+- [Canada Set to Side with China on EVs](https://www.thewirechina.com/2025/10/26/canada-set-to-side-with-china-on-evs/)
+- [You are how you act](https://boz.com/articles/you-are-how-you-act)
+- [Microsoft needs to open up more about its OpenAI dealings](https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8)
+- [Don&#39;t forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
