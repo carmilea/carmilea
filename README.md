@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
+- [Passkeys: They&#39;re not perfect but they&#39;re getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)
+- [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
-- [I&#39;ve been loving Claude Code on the Web](https://ben.page/claude-code-web)
-- [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
-- [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
+- [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
