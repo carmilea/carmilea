@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 - [If you don&#39;t tinker, you don&#39;t have taste](https://seated.ro/blog/tinkering-a-lost-art)
 - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 - [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
-- [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
