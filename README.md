@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
+- [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
 - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
-- [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
 - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
-- [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
+- [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
