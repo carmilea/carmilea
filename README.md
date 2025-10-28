@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
+- [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
+- [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
 - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
 - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
-- [Hi, It&#39;s Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
-- [v0 for iOS – Build anything with AI](https://apps.apple.com/us/app/v0/id6745097949)
-- [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
