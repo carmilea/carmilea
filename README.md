@@ -61,8 +61,8 @@
 - [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
 - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
+- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
 - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
-- [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
