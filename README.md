@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
+- [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
+- [Situated Software – Clay Shirky &lpar;2004&rpar;](http://shirky.com/essays/situated-software/)
+- [Geometry and Physics of Wrinkling &lpar;2003&rpar; [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
-- [Picture gallery: Amiga prototype &quot;Lorraine&quot; at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
-- [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
 <!-- BLOG-POST-LIST:END -->
 
 ---
