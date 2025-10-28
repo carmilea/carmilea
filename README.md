@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
+- [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
+- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
 - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 - [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
-- [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops)
-- [Let the little guys in: A context sharing runtime for the personalised web](https://arjun.md/little-guys)
-- [It&#39;s not always DNS](https://notes.pault.ag/its-not-always-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
