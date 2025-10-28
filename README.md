@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Amazon&#39;s Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
+- [Inside Amazon&#39;s engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+- [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
 - [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
-- [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
-- [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
-- [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+- [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
