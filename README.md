@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
-- [Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud](https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/)
-- [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
-- [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
-- [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
+- [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
+- [Hi, It&#39;s Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
+- [v0 for iOS – Build anything with AI](https://apps.apple.com/us/app/v0/id6745097949)
+- [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
