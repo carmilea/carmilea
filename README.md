@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [183M Gmail Passwords Leaked](https://www.forbes.com/sites/daveywinder/2025/10/27/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/)
+- [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 - [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
 - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 - [Picture gallery: Amiga prototype &quot;Lorraine&quot; at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
