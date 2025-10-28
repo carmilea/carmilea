@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
+- [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
+- [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 - [Situated Software – Clay Shirky &lpar;2004&rpar;](http://shirky.com/essays/situated-software/)
-- [Geometry and Physics of Wrinkling &lpar;2003&rpar; [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
-- [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
-- [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 <!-- BLOG-POST-LIST:END -->
 
 ---
