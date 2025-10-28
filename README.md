@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geometry and Physics of Wrinkling [pdf]](https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf)
 - [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
-- [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
 - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 - [Picture gallery: Amiga prototype &quot;Lorraine&quot; at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
 - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
