@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grokipedia and the Coup Against Reality Itself](https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/)
-- [Passkeys: They&#39;re not perfect but they&#39;re getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)
+- [Inside Amazon&#39;s Engineering Culture: Lessons from Their Senior Principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+- [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
 - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
 - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
-- [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+- [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
