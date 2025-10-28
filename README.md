@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw)
-- [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
-- [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
-- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
-- [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
+- [SigNoz &lpar;YC W21&rpar; Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
+- [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
+- [Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)
+- [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
+- [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
