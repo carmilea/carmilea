@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
+- [I built the same app 10 times: Evaluating frameworks for mobile performance](https://www.lorenstew.art/blog/10-kanban-boards/)
 - [Complete Digitization of Leonardo da Vinci&#39;s Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
+- [Drivers who do 10k miles a year &#39;face new £1,500 charge&#39;](https://www.birminghammail.co.uk/motoring/motoring-news/drivers-who-10000-miles-year-32727647)
 - [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
 - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
