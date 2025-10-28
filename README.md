@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
+- [Complete Digitization of Leonardo da Vinci&#39;s Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 - [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
 - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
-- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
