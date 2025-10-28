@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
+- [I&#39;ve been loving Claude Code on the Web](https://ben.page/claude-code-web)
 - [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/)
-- [Texas Attorney General sues Tylenol makers over autism claims](https://www.bbc.com/news/articles/ce9d3n1r08do)
 - [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
-- [The Decline of Deviance](https://www.experimental-history.com/p/the-decline-of-deviance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
