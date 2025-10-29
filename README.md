@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Outage](https://news.ycombinator.com/item?id=45748799)
-- [Azure major outage: Portal, Front Door and global regions down](https://news.ycombinator.com/item?id=45748756)
-- [Cursor Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
-- [AirTips – Alternative to Bento.me/Linktree](https://a.coffee/)
-- [Tell HN: Twilio support replies with hallucinated features](https://news.ycombinator.com/item?id=45748570)
+- [Does brand advertising work? Upwave &lpar;YC S12&rpar; is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)
+- [AOL to be sold to Bending Spoons for roughly $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
+- [Floss Before Brushing](https://alearningaday.blog/2025/10/29/floss-before-brushing/)
+- [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
+- [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
