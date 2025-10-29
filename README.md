@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
 - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
 - [Keep Android Open](http://keepandroidopen.org/)
-- [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
