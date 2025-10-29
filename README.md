@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
-- [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
-- [Life After Work](https://www.mechanize.work/blog/life-after-work/)
-- [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
-- [Kafka is Fast – I&#39;ll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
+- [Azure Outage](https://news.ycombinator.com/item?id=45748799)
+- [Azure major outage: Portal, Front Door and global regions down](https://news.ycombinator.com/item?id=45748756)
+- [Cursor Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)
+- [AirTips – Alternative to Bento.me/Linktree](https://a.coffee/)
+- [Tell HN: Twilio support replies with hallucinated features](https://news.ycombinator.com/item?id=45748570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
