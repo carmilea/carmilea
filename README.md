@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does brand advertising work? Upwave &lpar;YC S12&rpar; is hiring engineers to answer that](https://www.upwave.com/job/8228849002/)
-- [AOL to be sold to Bending Spoons for roughly $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
-- [Floss Before Brushing](https://alearningaday.blog/2025/10/29/floss-before-brushing/)
-- [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
-- [Minecraft removing obfuscation in Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
+- [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
+- [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
+- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
+- [Building a Robot Dog &lpar;with an airsoft gun&rpar;](https://erikschluntz.com/hardware/2025/10/26/robot-dog.html)
+- [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
