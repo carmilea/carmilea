@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
 - [Keep Android Open](http://keepandroidopen.org/)
+- [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
 - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 - [Project Shadowglass](https://shadowglassgame.com)
-- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
