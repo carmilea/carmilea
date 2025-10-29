@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)
 - [Project Shadowglass](https://shadowglassgame.com)
+- [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
 - [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
