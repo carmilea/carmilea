@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+- [Show HN: SQLite Graph – Graph database with Cypher queries &lpar;alpha, but working&rpar;](https://github.com/agentflare-ai/sqlite-graph)
 - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
-- [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
-- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
-- [Building a Robot Dog &lpar;with an airsoft gun&rpar;](https://erikschluntz.com/hardware/2025/10/26/robot-dog.html)
-- [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/)
+- [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
+- [The Internet Runs on Free and Open Source Software–and So Does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
