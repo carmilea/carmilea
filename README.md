@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
 - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-- [Show HN: SQLite Graph Ext – Graph database with Cypher queries &lpar;alpha&rpar;](https://github.com/agentflare-ai/sqlite-graph)
 - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 <!-- BLOG-POST-LIST:END -->
