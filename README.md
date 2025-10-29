@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta and TikTok are obstructing researchers&#39; access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
+- [A URL to respond with when your boss says &quot;But ChatGPT Said &quot;](https://stopcitingai.com/)
 - [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
 - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-- [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
-- [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
