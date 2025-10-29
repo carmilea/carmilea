@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-- [Show HN: SQLite Graph – Graph database with Cypher queries &lpar;alpha, but working&rpar;](https://github.com/agentflare-ai/sqlite-graph)
+- [Show HN: SQLite Graph Ext – Graph database with Cypher queries &lpar;alpha&rpar;](https://github.com/agentflare-ai/sqlite-graph)
 - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
-- [The Internet Runs on Free and Open Source Software–and So Does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
