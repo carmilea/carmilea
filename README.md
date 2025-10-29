@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel demanded Google and Amazon use secret &#39;wink&#39; to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
+- [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
-- [Show HN: Learn German with Games](https://www.learngermanwithgames.com/)
-- [AWS to bare metal two years later: Answering your questions about leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
-- [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)
+- [Grammarly rebrands to &#39;Superhuman,&#39; launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
+- [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)
+- [Berkeley Out-of-Order RISC-V Processor &lpar;Boom&rpar; &lpar;2020&rpar;](https://docs.boom-core.org/en/latest/sections/intro-overview/boom.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
