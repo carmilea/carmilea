@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
 - [Keep Android Open](http://keepandroidopen.org/)
 - [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
-- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
