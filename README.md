@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
-- [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
-- [Grammarly rebrands to &#39;Superhuman,&#39; launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
-- [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)
-- [Berkeley Out-of-Order RISC-V Processor &lpar;Boom&rpar; &lpar;2020&rpar;](https://docs.boom-core.org/en/latest/sections/intro-overview/boom.html)
+- [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
+- [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)
+- [Life After Work](https://www.mechanize.work/blog/life-after-work/)
+- [I made a 10¢ MCU Talk](https://www.atomic14.com/2025/10/29/CH32V003-talking)
+- [Kafka is Fast – I&#39;ll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
