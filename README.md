@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel demanded Google and Amazon use secret &#39;wink&#39; to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
+- [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
+- [Show HN: Learn German with Games](https://www.learngermanwithgames.com/)
 - [AWS to bare metal two years later: Answering your questions about leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 - [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)
-- [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
-- [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
-- [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
