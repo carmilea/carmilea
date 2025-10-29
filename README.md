@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
+- [Keep Android Open](http://keepandroidopen.org/)
 - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 - [Project Shadowglass](https://shadowglassgame.com)
 - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
