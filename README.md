@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [From Dashboards to Dialogue: The Future of Data Conversations with Aura Analyst](https://www.youtube.com/watch?v=UshDBvooVIQ)
 - [Getting Started with SingleStore: Office Hours](https://www.youtube.com/watch?v=gP5VIqgfZmY)
 - [Evaluating Generative AI Models with EvalStudio | Prague Meetup](https://www.youtube.com/watch?v=E6r5WN6cuwY)
 - [Agentic AI in banking with TD Bank and H2O.ai](https://www.youtube.com/watch?v=ZU2puIvBn74)
 - [How to Replace Spark ETL with Real](https://www.youtube.com/watch?v=bOqWX3-6Gjs)
-- [How to Replace Spark ETL with Real-Time Pipelines](https://www.youtube.com/watch?v=hlTb7NeWOTk)
 <!-- YOUTUBE:END -->
 
 
