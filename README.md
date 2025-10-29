@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Backpressure in Distributed Systems](https://blog.pranshu-raj.me/posts/backpressure/)
+- [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
 - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
