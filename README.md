@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Estimating the Perceived &#39;Claustrophobia&#39; of New York City&#39;s Streets](http://mfranchi.net/posts/claustrophobic-streets/)
 - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
 - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
-- [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
-- [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
-- [IRCd service &lpar;2024&rpar;](https://example.fi/blog/ircd.html)
+- [Language models are injective and hence invertible](https://arxiv.org/abs/2510.15511)
+- [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
