@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
+- [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
+- [Launch HN: Propolis &lpar;YC X25&rpar; – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
+- [Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)
 - [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
-- [Affinity by Canva](https://www.affinity.studio/)
-- [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
-- [ZOZO&#39;s Contact Solver &lpar;for physics-based simulations&rpar;](https://github.com/st-tech/ppf-contact-solver)
-- [Free software scares normal people](https://danieldelaney.net/normal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
