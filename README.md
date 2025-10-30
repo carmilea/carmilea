@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
 - [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
-- [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
 - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 <!-- BLOG-POST-LIST:END -->
 
