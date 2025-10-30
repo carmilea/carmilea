@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
-- [TruthWave – A Platform for Corporate Whistleblowers](https://www.truthwave.com)
+- [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
+- [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
 - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
 - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
-- [Some people can&#39;t see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
