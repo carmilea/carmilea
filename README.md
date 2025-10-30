@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
-- [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
 - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 - [IRCd service &lpar;2024&rpar;](https://example.fi/blog/ircd.html)
 - [OS/2 Warp, PowerPC Edition &lpar;2011&rpar;](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
+- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
