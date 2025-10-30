@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Estimating the Perceived &#39;Claustrophobia&#39; of New York City&#39;s Streets](http://mfranchi.net/posts/claustrophobic-streets/)
-- [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
+- [3D solar tower increases capacity factor 50%, triples solar surface area](https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/)
+- [The International Criminal Court wants to become independent of USA technology](https://www.heise.de/en/news/International-Criminal-Court-Kicks-Out-Microsoft-10964189.html)
+- [Estimating the Perceived &#39;Claustrophobia&#39; of New York City&#39;s Streets &lpar;2024&rpar;](http://mfranchi.net/posts/claustrophobic-streets/)
 - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 - [Language models are injective and hence invertible](https://arxiv.org/abs/2510.15511)
-- [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
