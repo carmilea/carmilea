@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carlo Rovelli: &#39;Time Is an Illusion&#39;](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
+- [One Year with Next.js App Router – Why We&#39;re Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
 - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 - [IRCd service &lpar;2024&rpar;](https://example.fi/blog/ircd.html)
 - [OS/2 Warp, PowerPC Edition &lpar;2011&rpar;](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
-- [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
-- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
