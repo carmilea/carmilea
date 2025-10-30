@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD&lpar;x&rpar;/EFI Files](https://github.com/ventoy/Ventoy)
-- [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
-- [3D solar tower increases capacity factor 50%, triples solar surface area](https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/)
-- [The International Criminal Court wants to become independent of USA technology](https://www.heise.de/en/news/International-Criminal-Court-Kicks-Out-Microsoft-10964189.html)
-- [Estimating the Perceived &#39;Claustrophobia&#39; of New York City&#39;s Streets &lpar;2024&rpar;](http://mfranchi.net/posts/claustrophobic-streets/)
+- [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
+- [Affinity by Canva](https://www.affinity.studio/)
+- [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
+- [ZOZO&#39;s Contact Solver &lpar;for physics-based simulations&rpar;](https://github.com/st-tech/ppf-contact-solver)
+- [Free software scares normal people](https://danieldelaney.net/normal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
