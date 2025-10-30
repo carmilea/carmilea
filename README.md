@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
+- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
+- [If a pilot ejects, what is the autopilot programmed to do? &lpar;2018&rpar;](https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do)
+- [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
 - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
-- [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
-- [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
-- [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
