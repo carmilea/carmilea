@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carlo Rovelli: &#39;Time Is an Illusion&#39;](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
-- [One Year with Next.js App Router – Why We&#39;re Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
+- [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
+- [One year with Next.js App Router and why we&#39;re moving on](https://paperclover.net/blog/webdev/one-year-next-app-router)
 - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 - [IRCd service &lpar;2024&rpar;](https://example.fi/blog/ircd.html)
 - [OS/2 Warp, PowerPC Edition &lpar;2011&rpar;](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
