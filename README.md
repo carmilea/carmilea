@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
+- [TruthWave – A Platform for Corporate Whistleblowers](https://www.truthwave.com)
 - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
-- [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
-- [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)
 - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
-- [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
+- [Some people can&#39;t see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
