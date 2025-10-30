@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
-- [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
+- [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
+- [IRCd service &lpar;2024&rpar;](https://example.fi/blog/ircd.html)
+- [OS/2 Warp, PowerPC Edition &lpar;2011&rpar;](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
+- [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
-- [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
-- [Meta and TikTok are obstructing researchers&#39; access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
