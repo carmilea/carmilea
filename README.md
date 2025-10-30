@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
+- [GooglePlay reports latest F-Droid version of Aves Libre as potential malware](https://github.com/deckerst/aves/issues/1802)
+- [SF neighborhood mourns loss of bodega cat allegedly killed by Waymo](https://www.sfgate.com/local/article/sf-neighborhood-mourns-cat-waymo-21127713.php)
+- [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 - [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
-- [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/)
-- [Launch HN: Propolis &lpar;YC X25&rpar; – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
-- [Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)
-- [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
