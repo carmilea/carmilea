@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
+- [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
 - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
 - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
-- [Immutable releases are now generally available on GitHub](https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/)
-- [Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop](https://news.ycombinator.com/item?id=45771870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
