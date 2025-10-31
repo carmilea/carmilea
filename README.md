@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
-- [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
+- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-- [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)
 - [Pangolin &lpar;YC S25&rpar; Is Hiring a Full Stack Software Engineer &lpar;Open-Source&rpar;](https://docs.pangolin.net/careers/software-engineer-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
