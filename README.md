@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Look at Antml: The Anthropic Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
-- [No Code](https://github.com/lemonyte/no-code)
+- [ANTML: Anthropic’s Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
 - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
+- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
