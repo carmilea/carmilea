@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
+- [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
 - [Reasoning Models Reason Well, Until They Don&#39;t](https://arxiv.org/abs/2510.22371)
-- [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
+- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
