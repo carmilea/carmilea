@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
 - [Reasoning Models Reason Well, Until They Don&#39;t](https://arxiv.org/abs/2510.22371)
-- [Some rando turned me into a meme coin](https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/)
 - [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
+- [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
