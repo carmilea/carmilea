@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ANTML: Anthropic’s Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l)
+- [Pornhub says UK visitors down 77% since age checks came in](https://www.bbc.com/news/articles/cgkz3m3re1zo)
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
+- [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
 - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
 - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
-- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
