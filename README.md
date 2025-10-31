@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
+- [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 - [Immutable releases are now generally available on GitHub](https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/)
-- [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
-- [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
-- [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
+- [Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop](https://news.ycombinator.com/item?id=45771870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
