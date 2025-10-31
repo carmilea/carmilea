@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
-- [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
-- [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
-- [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
-- [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
+- [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)
+- [Pangolin &lpar;YC S25&rpar; Is Hiring a Full Stack Software Engineer &lpar;Open-Source&rpar;](https://docs.pangolin.net/careers/software-engineer-full-stack)
+- [Amazon says it didn&#39;t cut people because of money. But because of &#39;culture&#39;](https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture)
+- [Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)
+- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
