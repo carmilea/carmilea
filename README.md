@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
+- [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
+- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
 - [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html)
 - [Pangolin &lpar;YC S25&rpar; Is Hiring a Full Stack Software Engineer &lpar;Open-Source&rpar;](https://docs.pangolin.net/careers/software-engineer-full-stack)
-- [Amazon says it didn&#39;t cut people because of money. But because of &#39;culture&#39;](https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture)
-- [Another European agency shifts off US Tech as digital sovereignty gains steam](https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/)
-- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
