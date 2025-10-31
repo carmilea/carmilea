@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
-- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
-- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
-- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
-- [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
+- [John Carmack on Mutable Variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
+- [Ground stop at JFK due to staffing](https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025)
+- [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
+- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
+- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
