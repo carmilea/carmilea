@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)
+- [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
 - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
