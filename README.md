@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
-- [I Love My Wife, My Wife Is Dead](https://www.bingqiangao.com/poetry/i-love-my-wife-my-wife-is-dead)
-- [OpenAI updates terms to forbid usage for medical and legal advice](https://openai.com/policies/usage-policies/)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
-- [S.a.r.c.a.s.m: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
+- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
+- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
