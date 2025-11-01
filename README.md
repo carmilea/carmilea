@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
+- [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
+- [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
 - [The profitable startup](https://linear.app/now/the-profitable-startup)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
-- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
