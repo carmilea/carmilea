@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)
 - [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
 - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
 - [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 - [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
-- [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
