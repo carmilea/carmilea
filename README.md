@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Powell – unlike the dotcom boom, AI spending isn&#39;t a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
 - [Visible from space, Sudan&#39;s bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
-- [Show HN: Why write code if the LLM can just do the thing? &lpar;web app experiment&rpar;](https://github.com/samrolken/nokode)
 - [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)
 - [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)
 - [How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
