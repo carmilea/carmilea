@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)
-- [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
+- [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
+- [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
+- [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
 - [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
-- [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
