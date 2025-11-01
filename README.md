@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech companies are firing everyone to &quot;fund AI&quot;, spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
+- [What the Air You Breathe May Be Doing to Your Brain](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
+- [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
+- [Data centers contribute to high prices as energy bills electrify local politics](https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b)
+- [I think Substrate is a $1B Fraud](https://substack.com/home/post/p-177604037)
 - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
-- [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
-- [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
-- [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
