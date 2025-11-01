@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
 - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
-- [FFmpeg Dealing with a Security Researcher](https://twitter.com/ffmpeg/status/1984207514389586050)
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
 - [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
 - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
-- [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
