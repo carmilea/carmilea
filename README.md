@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The only people who feel good are making over $200k and have large portfolios](https://fortune.com/2025/10/24/why-is-economy-so-bad-recession-not-inflation-fed-rate-cuts-2025/)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
-- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
-- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
+- [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
+- [I Love My Wife, My Wife Is Dead](https://www.bingqiangao.com/poetry/i-love-my-wife-my-wife-is-dead)
+- [OpenAI updates terms to forbid usage for medical and legal advice](https://openai.com/policies/usage-policies/)
+- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- [S.a.r.c.a.s.m: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
