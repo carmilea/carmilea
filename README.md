@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
-- [New analog chip that is 1k times faster than high-end Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
-- [The Profitable Startup](https://linear.app/now/the-profitable-startup)
-- [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
+- [Intent to Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
+- [New analog chip capable of outperforming top-end GPUs by as much as 1000x](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
+- [The profitable startup](https://linear.app/now/the-profitable-startup)
+- [Fungus: The Befunge CPU &lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 <!-- BLOG-POST-LIST:END -->
 
