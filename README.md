@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech companies are firing everyone to &quot;fund AI&quot;, spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
 - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
+- [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
 - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
 - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
-- [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
-- [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
