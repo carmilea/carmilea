@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Air You Breathe May Be Doing to Your Brain](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
-- [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
-- [Data centers contribute to high prices as energy bills electrify local politics](https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b)
-- [I think Substrate is a $1B Fraud](https://substack.com/home/post/p-177604037)
-- [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
+- [Visible from space, Sudan&#39;s bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
+- [Show HN: Why write code if the LLM can just do the thing? &lpar;web app experiment&rpar;](https://github.com/samrolken/nokode)
+- [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially)
+- [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries)
+- [How I Learned to Stop Worrying and Love My Shitty Life](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
