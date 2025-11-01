@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Profitable Startup](https://linear.app/now/the-profitable-startup)
 - [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
 - [S.A.R.C.A.S.M: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
