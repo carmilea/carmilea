@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
+- [You Don&#39;t Need Anubis](https://fxgn.dev/blog/anubis/)
 - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
 - [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
-- [Why &quot;everyone dies&quot; gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
