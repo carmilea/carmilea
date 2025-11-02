@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
-- [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
-- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
-- [From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey](https://blog.tymscar.com/posts/wifi7speedhunt/)
-- [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
+- [Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/private-rate-limiting/)
+- [Why &quot;Everyone Dies&quot; Gets AGI All Wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+- [Show HN: Duper – The Format That&#39;s Super](https://duper.dev.br/)
+- [Pomelli](https://labs.google.com/pomelli/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
