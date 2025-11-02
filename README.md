@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
 - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 - [You Don&#39;t Need Anubis](https://fxgn.dev/blog/anubis/)
 - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
 - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
-- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
