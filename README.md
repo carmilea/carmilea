@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)
+- [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
+- [Notes by djb on using Fil-C &lpar;2025&rpar;](https://cr.yp.to/2025/fil-c.html)
+- [Yes, you should understand backprop &lpar;2016&rpar;](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 - [You Don&#39;t Need Anubis](https://fxgn.dev/blog/anubis/)
-- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
-- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
