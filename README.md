@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+- [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 - [&quot;Why don&#39;t you use dependent types?&quot;](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
-- [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
-- [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
-- [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
+- [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
