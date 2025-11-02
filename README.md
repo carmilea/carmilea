@@ -61,7 +61,7 @@
 - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 - [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 - [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
-- [&quot;Why don&#39;t you use dependent types?&quot;](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
+- [Why don&#39;t you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 - [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm)
 <!-- BLOG-POST-LIST:END -->
 
