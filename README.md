@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lisp: Notes on its Past and Future &lpar;1980&rpar;](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+- [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
+- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
-- [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
-- [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
-- [Why don&#39;t you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
-- [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm)
+- [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
