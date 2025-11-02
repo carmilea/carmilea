@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/private-rate-limiting/)
-- [Why &quot;Everyone Dies&quot; Gets AGI All Wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
-- [Show HN: Duper – The Format That&#39;s Super](https://duper.dev.br/)
-- [Pomelli](https://labs.google.com/pomelli/about/)
+- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
+- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
+- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
+- [Why &quot;everyone dies&quot; gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
