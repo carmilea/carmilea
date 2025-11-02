@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Microsoft users sending &#39;reactions&#39; to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+- [Show HN: Open data reveals “100% renewable” UK energy isn’t really 100%](https://matched.energy/blog/matched-clean-power-index-is-live)
 - [How the US is preparing a Caribbean staging ground near Venezuela](https://www.reuters.com/graphics/USA-CARIBBEAN/MILITARY-BUILDUP/egpbbnzyrpq/)
-- [HyperRogue, the non-Euclidean roguelike, is a mind-melting masterpiece](https://roguetemple.com/z/hyper/)
+- [HyperRogue: A puzzle roguelike in a non-Euclidean world &lpar;2021&rpar;](https://roguetemple.com/z/hyper/)
 - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
-- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
-- [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
