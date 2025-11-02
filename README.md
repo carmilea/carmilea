@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/)
 - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 - [Notes by djb on using Fil-C &lpar;2025&rpar;](https://cr.yp.to/2025/fil-c.html)
-- [Backpropagation is a leaky abstraction](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+- [Backpropagation is a leaky abstraction &lpar;2016&rpar;](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
-- [You Don&#39;t Need Anubis](https://fxgn.dev/blog/anubis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
