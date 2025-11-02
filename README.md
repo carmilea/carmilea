@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the US is preparing a Caribbean staging ground near Venezuela](https://www.reuters.com/graphics/USA-CARIBBEAN/MILITARY-BUILDUP/egpbbnzyrpq/)
+- [HyperRogue, the non-Euclidean roguelike, is a mind-melting masterpiece](https://roguetemple.com/z/hyper/)
+- [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
-- [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
-- [Notes by djb on using Fil-C &lpar;2025&rpar;](https://cr.yp.to/2025/fil-c.html)
-- [Backpropagation is a leaky abstraction &lpar;2016&rpar;](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
-- [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
