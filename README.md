@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop &#39;reactions&#39; to email by adding a postfix header &lpar;2024&rpar;](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+- [&quot;Why don&#39;t you use dependent types?&quot;](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
+- [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
 - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
 - [HyperRogue – A non-Euclidean roguelike](https://roguetemple.com/z/hyper/)
-- [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
