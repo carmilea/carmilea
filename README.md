@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)
 - [FurtherAI &lpar;Series A – A16Z, YC&rpar; Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
-- [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
+- [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It &lpar;2020&rpar;](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
 - [Alleged Jabber Zeus Coder &#39;MrICQ&#39; in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
-- [&quot;You Don&#39;t Need Kafka, Just Use Postgres&quot; Considered Harmful](https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/)
 - [Amazon Rivian Electric Delivery Vans Arrive in Canada](https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/)
 <!-- BLOG-POST-LIST:END -->
 
