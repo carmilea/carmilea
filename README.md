@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;This is the big one&#39; – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)
+- [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
 - [Lisp: Notes on its Past and Future &lpar;1980&rpar;](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
 - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
-- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
-- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
-- [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
+- [React-Native-Godot](https://github.com/borndotcom/react-native-godot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
