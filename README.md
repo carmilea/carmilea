@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 - [&quot;Why don&#39;t you use dependent types?&quot;](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
+- [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
-- [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
-- [HyperRogue – A non-Euclidean roguelike](https://roguetemple.com/z/hyper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
