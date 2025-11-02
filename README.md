@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)
+- [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 - [Notes by djb on using Fil-C &lpar;2025&rpar;](https://cr.yp.to/2025/fil-c.html)
 - [Backpropagation is a leaky abstraction &lpar;2016&rpar;](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
