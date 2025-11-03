@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)
+- [Wikipedia row erupts as Jimmy Wales intervenes on &#39;Gaza genocide&#39; page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
 - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 - [Why Engineers Can&#39;t Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
