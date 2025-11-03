@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The great decoupling of labor and capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
+- [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
+- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-- [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
+- [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
 - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-- [FurtherAI &lpar;Series A – A16Z, YC&rpar; Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
