@@ -61,8 +61,8 @@
 - [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
 - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-- [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
-- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- [I ****Ing Hate Science &lpar;2021&rpar;](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
+- [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
