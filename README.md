@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
+- [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)
+- [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
+- [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
+- [Why Engineers Can&#39;t Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 - [No Socials November](https://bjhess.com/posts/no-socials-november)
-- [Python Steering Council unanimously accepts &quot;PEP 810, Explicit lazy imports&quot;](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
-- [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
-- [Learning to read Arthur Whitney&#39;s C to become smart &lpar;2024&rpar;](https://needleful.net/blog/2024/01/arthur_whitney.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
