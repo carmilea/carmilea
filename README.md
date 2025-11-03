@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
+- [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework &lpar;2023&rpar;](https://blog.cloudflare.com/introducing-oxy/)
 - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 - [I ****Ing Hate Science &lpar;2021&rpar;](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
