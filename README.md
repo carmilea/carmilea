@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
+- [As world rises up for Gaza, Sudanese in Israel say larger catastrophe is ignored](https://www.timesofisrael.com/as-world-rises-up-for-gaza-sudanese-in-israel-say-larger-catastrophe-being-ignored/)
 - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
 - [Tiny electric motor can produce more than 1,000 horsepower](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
-- [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework &lpar;2023&rpar;](https://blog.cloudflare.com/introducing-oxy/)
-- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
