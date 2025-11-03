@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning a Bit of VGA](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)
 - [No Socials November](https://bjhess.com/posts/no-socials-november)
 - [Python Steering Council unanimously accepts &quot;PEP 810, Explicit lazy imports&quot;](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
 - [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
-- [Learning to read Arthur Whitney&#39;s C to become Smart &lpar;2024&rpar;](https://needleful.net/blog/2024/01/arthur_whitney.html)
-- [Ask HN: Who is hiring? &lpar;November 2025&rpar;](https://news.ycombinator.com/item?id=45800465)
+- [Learning to read Arthur Whitney&#39;s C to become smart &lpar;2024&rpar;](https://needleful.net/blog/2024/01/arthur_whitney.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
