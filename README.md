@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
-- [As world rises up for Gaza, Sudanese in Israel say larger catastrophe is ignored](https://www.timesofisrael.com/as-world-rises-up-for-gaza-sudanese-in-israel-say-larger-catastrophe-being-ignored/)
-- [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
-- [Tiny electric motor can produce more than 1,000 horsepower](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
-- [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
+- [Tech workers&#39; fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
+- [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
+- [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
+- [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
+- [Google Suspended My Company&#39;s Google Cloud Account for the Third Time](https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
