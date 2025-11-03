@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-- [&#39;No idea who he is&#39;, says Trump after pardoning crypto tycoon](https://www.bbc.com/news/articles/cn7ek63e5xyo)
 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
 - [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework &lpar;2023&rpar;](https://blog.cloudflare.com/introducing-oxy/)
 - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
+- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
