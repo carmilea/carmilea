@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech workers&#39; fight for living wages and a 32-hour workweek is a battle for all](https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298)
+- [Geonum – geometric number library for unlimited dimensions with O&lpar;1&rpar; complexity](https://github.com/mxfactorial/geonum)
 - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
+- [A collection of links that existed about Anguilla as of 2003](https://web.ai/)
+- [Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://skyfall-gs.jayinnn.dev/)
 - [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
-- [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
-- [Google Suspended My Company&#39;s Google Cloud Account for the Third Time](https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
