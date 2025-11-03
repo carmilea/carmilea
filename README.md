@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geonum – geometric number library for unlimited dimensions with O&lpar;1&rpar; complexity](https://github.com/mxfactorial/geonum)
-- [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
-- [A collection of links that existed about Anguilla as of 2003](https://web.ai/)
-- [Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://skyfall-gs.jayinnn.dev/)
-- [Show HN: a Rust ray tracer that runs on any GPU – even in the browser](https://github.com/tchauffi/rust-rasterizer)
+- [Ask HN: Who is hiring? &lpar;November 2025&rpar;](https://news.ycombinator.com/item?id=45800465)
+- [Ask HN: Who wants to be hired? &lpar;November 2025&rpar;](https://news.ycombinator.com/item?id=45800464)
+- [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
+- [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
+- [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
