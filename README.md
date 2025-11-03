@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop AI: 14 Steps to turn off AI](https://againstdata.com/blog/stop-ai)
+- [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 - [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework &lpar;2023&rpar;](https://blog.cloudflare.com/introducing-oxy/)
 - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-- [I ****Ing Hate Science &lpar;2021&rpar;](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
-- [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
