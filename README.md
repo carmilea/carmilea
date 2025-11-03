@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
+- [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
 - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
 - [Oxy is Cloudflare&#39;s Rust-based next generation proxy framework &lpar;2023&rpar;](https://blog.cloudflare.com/introducing-oxy/)
-- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
-- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
