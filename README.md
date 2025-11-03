@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
+- [AI&#39;s Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
+- [The Mack Super Pumper was a locomotive engined fire fighter &lpar;2018&rpar;](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
+- [Leverage Points: Places to Intervene in a System &lpar;1999&rpar;](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 - [&lt;/&gt; Htmx – The Fetch&lpar;&rpar;ening](https://htmx.org/essays/the-fetchening/)
 - [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa &lpar;no LoRaWAN&rpar;](https://github.com/antirez/freakwan)
-- [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
-- [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
