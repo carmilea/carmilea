@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Socials November](https://bjhess.com/posts/no-socials-november)
+- [Python Steering Council unanimously accepts &quot;PEP 810, Explicit lazy imports&quot;](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
+- [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
+- [Learning to read Arthur Whitney&#39;s C to become Smart &lpar;2024&rpar;](https://needleful.net/blog/2024/01/arthur_whitney.html)
 - [Ask HN: Who is hiring? &lpar;November 2025&rpar;](https://news.ycombinator.com/item?id=45800465)
-- [Ask HN: Who wants to be hired? &lpar;November 2025&rpar;](https://news.ycombinator.com/item?id=45800464)
-- [Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey](https://finbodhi.com/)
-- [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
-- [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
