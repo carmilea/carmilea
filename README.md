@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The great decoupling of labor and capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
+- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 - [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
 - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 - [FurtherAI &lpar;Series A – A16Z, YC&rpar; Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
-- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it &lpar;2020&rpar;](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
-- [Alleged Jabber Zeus Coder &#39;MrICQ&#39; in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
