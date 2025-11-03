@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia row erupts as Jimmy Wales intervenes on &#39;Gaza genocide&#39; page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
+- [2,400 HP FDNY Super Pumper could extinguish hell itself](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
+- [&lt;/&gt; Htmx – The Fetch&lpar;&rpar;ening](https://htmx.org/essays/the-fetchening/)
+- [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa &lpar;no LoRaWAN&rpar;](https://github.com/antirez/freakwan)
 - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
 - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
-- [Why Engineers Can&#39;t Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
-- [No Socials November](https://bjhess.com/posts/no-socials-november)
 <!-- BLOG-POST-LIST:END -->
 
 ---
