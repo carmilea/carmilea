@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
+- [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
+- [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
 - [The Art of Atari &lpar;2016&rpar;](http://www.artofatari.com)
 - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
-- [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
-- [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
-- [What is a manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
