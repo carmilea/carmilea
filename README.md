@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
+- [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+- [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
-- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
 - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 <!-- BLOG-POST-LIST:END -->
 
