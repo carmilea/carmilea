@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
 - [We&#39;re open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
-- [Michael Burry a.k.a. &quot;Big Short&quot;,discloses $1.1B bet against Nvidia&amp;Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)
+- [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
-- [Launch HN: Plexe &lpar;YC X25&rpar; – Build production-grade ML models from prompts](https://www.plexe.ai/)
-- [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
+- [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
