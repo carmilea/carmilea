@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
+- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 - [Linkers: A 20 Part Series &lpar;2007&rpar;](https://www.airs.com/blog/archives/38)
-- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
-- [AI&#39;s Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 <!-- BLOG-POST-LIST:END -->
 
 ---
