@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
+- [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
-- [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok)
 - [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
-- [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
