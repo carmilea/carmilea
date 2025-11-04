@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Atari &lpar;2016&rpar;](http://www.artofatari.com)
+- [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 - [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
+- [Former US Vice-President Cheney Dies](https://www.reuters.com/world/us/former-us-vp-dick-cheney-dead-84-punchbowl-news-says-2025-11-04/)
 - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
-- [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
-- [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
-- [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
