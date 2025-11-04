@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/)
-- [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
 - [We&#39;re open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
 - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
+- [Launch HN: Plexe &lpar;YC X25&rpar; – Build production-grade ML models from prompts](https://www.plexe.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
