@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
-- [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
-- [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
 - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+- [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
