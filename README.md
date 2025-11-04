@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why are most status pages delayed?](https://news.ycombinator.com/item?id=45810127)
+- [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
+- [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
 - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
-- [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
-- [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
-- [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
