@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)
+- [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/)
+- [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
 - [We&#39;re open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
 - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
-- [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 <!-- BLOG-POST-LIST:END -->
 
