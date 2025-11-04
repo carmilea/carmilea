@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [From OLTP to OLAP: Supercharging Presto Queries on SingleStore](https://www.youtube.com/watch?v=m0cZuR9Crtk)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=IGSgFrYxKg8)
 - [Getting Started on SingleStore](https://www.youtube.com/watch?v=R8UrLBmNoiQ)
 - [The Future of Data Conversations with Aura Analyst | SingleStore Webinars](https://www.youtube.com/watch?v=H78ZRgxMYXM)
 - [From Dashboards to Dialogue: The Future of Data Conversations with Aura Analyst](https://www.youtube.com/watch?v=UshDBvooVIQ)
-- [Getting Started with SingleStore: Office Hours](https://www.youtube.com/watch?v=gP5VIqgfZmY)
 <!-- YOUTUBE:END -->
 
 
