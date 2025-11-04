@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/)
-- [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/)
-- [AI and Copyright: Expanding Copyright Hurts Everyone–Here&#39;s What to Do Instead](https://www.eff.org/deeplinks/2025/02/ai-and-copyright-expanding-copyright-hurts-everyone-heres-what-do-instead)
-- [Amazon Demands Perplexity Stop AI Agent from Making Purchases](https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases)
-- [We&#39;re open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
+- [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
+- [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
+- [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
+- [Precompiled headers and why Squid won&#39;t be using them &lpar;2023&rpar;](https://squidproxy.wordpress.com/2023/10/10/precompiled-headers-and-why-squid-wont-be-using-them/)
+- [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
