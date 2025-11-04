@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Once Australia&#39;s second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
+- [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
 - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
 - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
-- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
-- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
-- [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+- [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
