@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Once Australia&#39;s second priciest city, Melbourne has become more affordable](https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last)
 - [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775)
 - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
+- [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
 - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
 - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 <!-- BLOG-POST-LIST:END -->
