@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/)
-- [USDA Threatens Stores Giving Discounts to People on Food Stamps](https://newrepublic.com/post/202604/usda-threatens-grocery-stores-discounts-people-food-stamps)
-- [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
-- [The 512KB Club](https://512kb.club/)
-- [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent)
+- [We&#39;re open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
+- [Michael Burry a.k.a. &quot;Big Short&quot;,discloses $1.1B bet against Nvidia&amp;Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/)
+- [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
+- [Launch HN: Plexe &lpar;YC X25&rpar; – Build production-grade ML models from prompts](https://www.plexe.ai/)
+- [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
