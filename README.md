@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faustino Oro &lpar;12 years-old&rpar; takes Vidit Gujrathi &lpar;#27&rpar; to the tiebreaks in chess](https://twitter.com/FIDE_chess/status/1986051222512554279)
+- [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
+- [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
 - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
 - [Ask HN: My family business runs on a 1993-era text-based-UI &lpar;TUI&rpar;. Anybody else?](https://news.ycombinator.com/item?id=45823234)
 - [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
-- [The shadows lurking in the equations](https://gods.art/articles/equation_shadows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
