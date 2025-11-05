@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
-- [YouTube erased more than 700 videos documenting Israeli human rights violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
+- [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
+- [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
+- [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
+- [The grim truth behind the Pied Piper &lpar;2020&rpar;](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
 - [Founder in Residence at Woz &lpar;San Francisco&rpar;](https://news.ycombinator.com/item?id=45821921)
-- [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
-- [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
