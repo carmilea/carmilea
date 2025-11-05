@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla&#39;s German car sales more than halve in October as wider EV sales jump](https://www.reuters.com/business/autos-transportation/teslas-german-car-sales-more-than-halved-october-2025-11-05/)
+- [I Stopped Being a Climate Catastrophist](https://www.breakthroughjournal.org/p/why-i-stopped-being-a-climate-catastrophist)
 - [Solarpunk is already happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
-- [Fiber reduces overall mortality by 23%](https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/)
 - [Internet Archive&#39;s legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
+- [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
