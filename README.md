@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NY Smartphone Ban Has Made Lunch Loud Again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again)
-- [Optimism Associated with Exceptional Longevity](https://www.pnas.org/doi/10.1073/pnas.1900712116)
-- [iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
-- [The grim truth behind the Pied Piper &lpar;2020&rpar;](https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper)
-- [Founder in Residence at Woz &lpar;San Francisco&rpar;](https://news.ycombinator.com/item?id=45821921)
+- [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
+- [Michael Burry is back with two bets against Nvidia and Palantir](https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock)
+- [Carice TC2 – An fully analog electric car](https://www.caricecars.com/)
+- [Gnome Mutter Now &quot;Completely Drops the Whole X11 Back End&quot;](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
+- [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
