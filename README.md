@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
+- [iOS 26.2 to Allow Third-Party App Stores in Japan Ahead of Regulatory Deadline](https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/)
+- [YouTube erased more than 700 videos documenting Israeli human rights violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
 - [Founder in Residence at Woz &lpar;San Francisco&rpar;](https://news.ycombinator.com/item?id=45821921)
+- [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study)
 - [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
-- [The Hacker’s Manifesto &lpar;1986&rpar;](https://phrack.org/issues/7/3)
-- [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
