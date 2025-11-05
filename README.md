@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613)
+- [The Hackers Manifesto &lpar;The Conscience of a Hacker&rpar; &lpar;1986&rpar;](https://phrack.org/issues/7/3)
 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 - [The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
