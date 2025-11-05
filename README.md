@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-FTC chair Lina Khan joins Mamdani&#39;s transition team](https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-11)
 - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
-- [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
 - [Ask HN: My family business runs on a 1993-era text-based-UI &lpar;TUI&rpar;. Anybody else?](https://news.ycombinator.com/item?id=45823234)
 - [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
 <!-- BLOG-POST-LIST:END -->
