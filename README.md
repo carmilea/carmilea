@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
-- [74% of CEOs worry AI failures could cost them their jobs](https://cfo.economictimes.indiatimes.com/news/74-of-ceos-worry-ai-failures-could-cost-them-their-jobs-report/118923383)
-- [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
-- [Precompiled headers and why Squid won&#39;t be using them &lpar;2023&rpar;](https://squidproxy.wordpress.com/2023/10/10/precompiled-headers-and-why-squid-wont-be-using-them/)
-- [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
+- [FDA described as a &quot;clown show&quot; amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
+- [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
+- [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
+- [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
+- [Google Removed 749M Anna&#39;s Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
