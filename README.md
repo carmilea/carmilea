@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-FTC chair Lina Khan joins Mamdani&#39;s transition team](https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-11)
+- [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
+- [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
+- [Why aren&#39;t smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 - [Norway reviews cybersecurity after remote-access feature found in Chinese buses](https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/)
 - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
-- [Ask HN: My family business runs on a 1993-era text-based-UI &lpar;TUI&rpar;. Anybody else?](https://news.ycombinator.com/item?id=45823234)
-- [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
