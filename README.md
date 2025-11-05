@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hackers Manifesto &lpar;The Conscience of a Hacker&rpar; &lpar;1986&rpar;](https://phrack.org/issues/7/3)
+- [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/)
+- [Founder in Residence at Woz &lpar;San Francisco&rpar;](https://news.ycombinator.com/item?id=45821921)
+- [I’m worried that they put co-pilot in Excel](https://simonwillison.net/2025/Nov/5/brenda/)
+- [The Hacker’s Manifesto &lpar;1986&rpar;](https://phrack.org/issues/7/3)
 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
-- [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
-- [The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
-- [Direct File won&#39;t happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
