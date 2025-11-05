@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Faustino Oro &lpar;12 years-old&rpar; takes Vidit Gujrathi &lpar;#27&rpar; to the tiebreaks in chess](https://twitter.com/FIDE_chess/status/1986051222512554279)
 - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
-- [Michael Burry is back with two bets against Nvidia and Palantir](https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock)
-- [Carice TC2 – An fully analog electric car](https://www.caricecars.com/)
-- [Gnome Mutter Now &quot;Completely Drops the Whole X11 Back End&quot;](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
-- [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
+- [Ask HN: My family business runs on a 1993-era text-based-UI &lpar;TUI&rpar;. Anybody else?](https://news.ycombinator.com/item?id=45823234)
+- [Carice TC2 – A non-digital electric car](https://www.caricecars.com/)
+- [The shadows lurking in the equations](https://gods.art/articles/equation_shadows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
