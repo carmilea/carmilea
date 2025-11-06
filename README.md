@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
+- [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
-- [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
 - [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
-- [The English language doesn&#39;t exist – it&#39;s just French that&#39;s badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
 - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 <!-- BLOG-POST-LIST:END -->
 
