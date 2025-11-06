@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
+- [OpenDesk – a flexible all-in-one office suite for the public sector](https://www.opendesk.eu/de)
+- [Swift on FreeBSD Preview](https://forums.swift.org/t/swift-on-freebsd-preview/83064)
+- [The English language doesn&#39;t exist – it&#39;s just French that&#39;s badly pronounced](https://www.frenchclasses.com/tablettes-de-chocolat/the-english-language-doesnt-exist-its-just-french-thats-badly-pronounced/)
 - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
-- [Senior BizOps at Artie &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
-- [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
-- [FBI tries to unmask owner of archive.is](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
-- [OpenAI probably can&#39;t make ends meet. That&#39;s where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
