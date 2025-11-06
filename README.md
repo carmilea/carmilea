@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
+- [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 - [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
+- [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
-- [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
-- [What the hell have you built](https://wthhyb.sacha.house/)
-- [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
