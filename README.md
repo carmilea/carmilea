@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust&#39;s TUI Revolution](https://ratatui.rs/showcase/apps/)
+- [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
+- [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
 - [Recursive macros in C, demystified &lpar;once the ugly crying stops&rpar;](https://h4x0r.org/big-mac-ro-attack/)
 - [The Basic Laws of Human Stupidity &lpar;1987&rpar; [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
-- [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/)
-- [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
-- [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
