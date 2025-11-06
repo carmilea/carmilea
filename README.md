@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I may have found a way to spot U.S. at-sea strikes before they&#39;re announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 - [Rust&#39;s TUI Revolution](https://ratatui.rs/showcase/apps/)
 - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
-- [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
-- [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
+- [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 - [Recursive macros in C, demystified &lpar;once the ugly crying stops&rpar;](https://h4x0r.org/big-mac-ro-attack/)
 <!-- BLOG-POST-LIST:END -->
 
