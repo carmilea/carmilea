@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Billion Email Addresses Were Exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+- [Universe&#39;s expansion &#39;is now slowing, not speeding up&#39;](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+- [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 - [Black Hole Flare Is Biggest and Most Distant Seen](https://www.caltech.edu/about/news/black-hole-flare-is-biggest-and-most-distant-seen)
 - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
-- [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
