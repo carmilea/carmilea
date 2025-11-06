@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rust&#39;s TUI Revolution](https://ratatui.rs/showcase/apps/)
+- [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
 - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
 - [Recursive macros in C, demystified &lpar;once the ugly crying stops&rpar;](https://h4x0r.org/big-mac-ro-attack/)
-- [The Basic Laws of Human Stupidity &lpar;1987&rpar; [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
