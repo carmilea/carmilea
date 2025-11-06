@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
 - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
 - [What the hell have you built](https://wthhyb.sacha.house/)
 - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
-- [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
