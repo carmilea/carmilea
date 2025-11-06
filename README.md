@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
-- [Australia has so much solar that it&#39;s offering everyone free electricity](https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/)
-- [Kimi release Kimi K2 Thinking, an open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
-- [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
-- [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
+- [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
+- [Senior BizOps at Artie &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations)
+- [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
+- [FBI tries to unmask owner of archive.is](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
+- [OpenAI probably can&#39;t make ends meet. That&#39;s where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
