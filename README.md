@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man who threw sandwich at US border agent not guilty of assault](https://www.bbc.com/news/articles/c5ypvv8n1jvo)
+- [Game Design Is Simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
+- [Writing software is an act of learning. Don’t automate it.](https://martinfowler.com/articles/llm-learning-loop.html)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
 - [Universe&#39;s expansion &#39;is now slowing, not speeding up&#39;](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
-- [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
-- [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
-- [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
