@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I may have found a way to spot U.S. at-sea strikes before they&#39;re announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
+- [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
+- [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
-- [Recursive macros in C, demystified &lpar;once the ugly crying stops&rpar;](https://h4x0r.org/big-mac-ro-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
