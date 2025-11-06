@@ -61,8 +61,8 @@
 - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
 - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
 - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
-- [Say Hi to Kit](https://www.firefox.com/en-US/kit/)
 - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
+- [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
