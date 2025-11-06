@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Refund requests flood Microsoft after tricking users into AI upgrades](https://www.afr.com/technology/microsoft-offers-refunds-after-tricking-customers-into-ai-upgrades-20251105-p5n81k)
+- [Say Hi to Kit](https://www.firefox.com/en-US/kit/)
 - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
 - [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
-- [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
-- [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
-- [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
+- [Oldest woman to finish Ironman World Championship in Kona](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
