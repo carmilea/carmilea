@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
+- [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
+- [VLC&#39;s Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
+- [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
 - [How did I get here?](https://how-did-i-get-here.net/)
-- [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
-- [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
-- [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
+- [Should facial analysis help determine whom companies hire?](https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
