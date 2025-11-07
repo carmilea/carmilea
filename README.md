@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A.I. and Social Media Contribute to &#39;Brain Rot&#39;](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
+- [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
+- [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
+- [I&#39;m Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
 - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
-- [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
-- [Is Software the UFOlogy of Engineering Disciplines?](https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/)
-- [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
-- [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
