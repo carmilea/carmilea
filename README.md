@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
+- [How did I get here?](https://how-did-i-get-here.net/)
+- [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
 - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
 - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
-- [Rockstar employee shares account of the company&#39;s union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
-- [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
-- [Vodafone Germany is killing the open internet – one peering connection at a time](https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
