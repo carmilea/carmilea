@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
+- [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
+- [Rockstar employee shares account of the company&#39;s union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
 - [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
 - [Vodafone Germany is killing the open internet – one peering connection at a time](https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/)
-- [Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/)
-- [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
-- [Denmark&#39;s government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
