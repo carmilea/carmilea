@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 - [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 - [A Fond Farewell from Farmers&#39; Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- [My tutorial and take on C++20 coroutines &lpar;2021&rpar;](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 - [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)
 <!-- BLOG-POST-LIST:END -->
 
