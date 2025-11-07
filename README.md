@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
 - [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
 - [VLC&#39;s Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
 - [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
-- [How did I get here?](https://how-did-i-get-here.net/)
-- [Should facial analysis help determine whom companies hire?](https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire)
+- [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
