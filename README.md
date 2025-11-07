@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
+- [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
+- [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
 - [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
 - [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
-- [VLC&#39;s Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
-- [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
-- [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
