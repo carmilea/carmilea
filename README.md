@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man who threw sandwich at US border agent not guilty of assault](https://www.bbc.com/news/articles/c5ypvv8n1jvo)
-- [Game Design Is Simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-- [Writing software is an act of learning. Don’t automate it.](https://martinfowler.com/articles/llm-learning-loop.html)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
-- [Universe&#39;s expansion &#39;is now slowing, not speeding up&#39;](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+- [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148)
+- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
+- [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
+- [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
