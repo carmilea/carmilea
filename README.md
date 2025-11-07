@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
-- [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
