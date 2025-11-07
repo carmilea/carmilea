@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 - [A Fond Farewell from Farmers&#39; Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
-- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
-- [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
+- [My tutorial and take on C++20 coroutines &lpar;2021&rpar;](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
+- [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
