@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweep &lpar;YC S23&rpar; is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
-- [Video games can alter reality](https://particle.scitech.org.au/tech/video-games-can-alter-reality/)
-- [Itiner-E – The Digital Atlas of Ancient Roads](https://itiner-e.org/)
-- [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
-- [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
+- [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
+- [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
+- [Is Software the UFOlogy of Engineering Disciplines?](https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/)
+- [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
+- [Meta projected 10% of 2024 revenue came from scams](https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
