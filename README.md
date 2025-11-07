@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148)
+- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+- [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
 - [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
 - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
