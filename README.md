@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html)
+- [3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/)
+- [Denmark&#39;s government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
+- [Pressured on Israel work, Microsoft asks employees to flag violations](https://www.detroitnews.com/story/business/2025/11/07/pressured-on-israel-work-microsoft-asks-employees-to-flag-violations/87144653007/)
 - [A.I. and Social Media Contribute to &#39;Brain Rot&#39;](https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html)
-- [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
-- [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
-- [I&#39;m Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
-- [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
