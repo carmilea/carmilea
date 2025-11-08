@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
-- [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
-- [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
-- [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
-- [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/)
+- [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
+- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
+- [The Boss Has a Message: Use AI or You&#39;re Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)
+- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
+- [Analysis of Hedy Lamarr&#39;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
