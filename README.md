@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
+- [Why Sam Altman Won&#39;t Be on the Hook for OpenAI&#39;s Spending Spree](https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/)
+- [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
+- [Why hasn&#39;t there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)
 - [Cekura &lpar;YC F24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45856069)
-- [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
-- [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)
-- [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
-- [Apple&#39;s &quot;notarisation&quot; – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
