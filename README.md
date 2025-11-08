@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman&#39;s pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
+- [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
 - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
-- [The Boss Has a Message: Use AI or You&#39;re Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)
 - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
-- [Analysis of Hedy Lamarr&#39;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
