@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
 - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
-- [Authorities Shut Down Film Festival in New York](https://www.hrw.org/news/2025/11/07/china-authorities-shut-down-film-festival-in-new-york)
 - [Ticker: Don&#39;t Die of Heart Disease](https://myticker.com/)
 - [An Algebraic Language for the Manipulation of Symbolic Expressions &lpar;1958&rpar; [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 <!-- BLOG-POST-LIST:END -->
