@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s &quot;notarisation&quot; – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
-- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
