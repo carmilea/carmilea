@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
-- [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
-- [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
-- [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
-- [Ticker: Don&#39;t Die of Heart Disease](https://myticker.com/)
+- [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
+- [Avería: The Average Font &lpar;2011&rpar;](http://iotic.com/averia/)
+- [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
+- [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
+- [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
