@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight)
 - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
 - [Apple&#39;s &quot;notarisation&quot; – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
+- [GPT-OSS 120B Runs at 3000 tokens/sec on Cerebras](https://www.cerebras.ai/blog/openai-gpt-oss-120b-runs-fastest-on-cerebras)
 - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
-- [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
-- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
