@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I taught an octopus piano &lpar;It took 6 months&rpar; [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
-- [Humans have remote touch &#39;seventh sense&#39; like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
-- [Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
-- [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
-- [Avería: The Average Font &lpar;2011&rpar;](http://iotic.com/averia/)
+- [US Air Traffic Controllers Start Resigning as Shutdown Bites](https://www.thedailybeast.com/air-traffic-controllers-start-resigning-as-shutdown-bites/)
+- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
+- [Her 12-year-old son was talking to Grok. It tried to get him to &#39;send nudes.&#39;](https://www.usatoday.com/story/life/health-wellness/2025/10/30/children-grok-ai-explicit-content/86951540007/)
+- [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
+- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
