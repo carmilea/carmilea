@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I taught an octopus piano &lpar;It took 6 months&rpar; [video]](https://www.youtube.com/watch?v=PcWnQ7fYzwI)
 - [Humans have remote touch &#39;seventh sense&#39; like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
+- [Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
+- [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
 - [Avería: The Average Font &lpar;2011&rpar;](http://iotic.com/averia/)
-- [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
-- [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
-- [WriterdeckOS](https://writerdeckos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
