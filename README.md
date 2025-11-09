@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
-- [AI isn&#39;t replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)
-- [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
-- [Samsung Family Hub fridges will start showing adds to &quot;Elevate&quot; Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
-- [Genetically Engineered Babies Are Banned. Tech Titans Are Trying to Make One](https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8)
+- [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
+- [Lisbon Airport is turning away private jets inbound for the Web Summit](https://www.engadget.com/big-tech/the-lisbon-airport-is-turning-away-private-jets-inbound-for-the-web-summit-222136161.html)
+- [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
+- [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
+- [Bull markets make you feel smarter than you are](https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
