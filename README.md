@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
 - [AI isn&#39;t replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)
 - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 - [Samsung Family Hub fridges will start showing adds to &quot;Elevate&quot; Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
-- [About KeePassXC&#39;s Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
-- [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
+- [Genetically Engineered Babies Are Banned. Tech Titans Are Trying to Make One](https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
