@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Are You Working On? &lpar;Nov 2025&rpar;](https://news.ycombinator.com/item?id=45869146)
 - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
-- [Protect Your Consciousness from AI](https://jordangoodman.bearblog.dev/protect-your-consciousness-from-ai/)
 - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
-- [Drilling Down on Uncle Sam&#39;s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
+- [Drilling down on Uncle Sam&#39;s proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
 <!-- BLOG-POST-LIST:END -->
 
