@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Under 40s Declining Memory](https://onepercentrule.substack.com/p/under-40s-declining-memory)
+- [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
+- [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
+- [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
 - [Runc breaks pods when CPU requests aren&#39;t multiples of 10](https://github.com/opencontainers/runc/issues/4982)
-- [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
-- [Syntax and Semantics of Programming Languages &lpar;1995&rpar;](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
