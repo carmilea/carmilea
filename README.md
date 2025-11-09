@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
+- [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
 - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 - [Alive internet theory](https://alivetheory.net/)
 - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
-- [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
-- [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
