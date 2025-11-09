@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Air Traffic Controllers Start Resigning as Shutdown Bites](https://www.thedailybeast.com/air-traffic-controllers-start-resigning-as-shutdown-bites/)
-- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
-- [Her 12-year-old son was talking to Grok. It tried to get him to &#39;send nudes.&#39;](https://www.usatoday.com/story/life/health-wellness/2025/10/30/children-grok-ai-explicit-content/86951540007/)
-- [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
-- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
+- [He Chunhui&#39;s Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
+- [Judge says Education Dept partisan out-of-office emails violated First Amendment](https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling)
+- [Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
+- [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)
+- [Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545)
 <!-- BLOG-POST-LIST:END -->
 
 ---
