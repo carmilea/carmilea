@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Syntax and Semantics of Programming Languages &lpar;1995&rpar;](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
 - [He Chunhui&#39;s Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
-- [Judge says Education Dept partisan out-of-office emails violated First Amendment](https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling)
-- [Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
-- [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)
-- [Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545)
+- [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
+- [Humanity&#39;s Endgame](https://www.noemamag.com/humanitys-endgame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
