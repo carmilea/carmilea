@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Tesla&#39;s FSD works well, it gets credit. When it doesn&#39;t, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
+- [&#39;Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
 - [Ask HN: What Are You Working On? &lpar;Nov 2025&rpar;](https://news.ycombinator.com/item?id=45869146)
 - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
 - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
-- [Drilling down on Uncle Sam&#39;s proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-- [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
