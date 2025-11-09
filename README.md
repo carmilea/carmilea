@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About KeePassXC&#39;s Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 - [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)
 - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
-- [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
-- [Alive internet theory](https://alivetheory.net/)
-- [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+- [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
+- [Montana Becomes First State to Enshrine &#39;Right to Compute&#39; into Law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
