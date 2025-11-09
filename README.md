@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin Launches NASA&#39;s Escapade Mission to Mars: How to Watch](https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html)
+- [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+- [Ask HN: How would u setup a child&#39;s first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
-- [Runc breaks pods when CPU requests aren&#39;t multiples of 10](https://github.com/opencontainers/runc/issues/4982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
