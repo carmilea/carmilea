@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
+- [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
 - [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 - [Syntax and Semantics of Programming Languages &lpar;1995&rpar;](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
