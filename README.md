@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
 - [Drilling Down on Uncle Sam&#39;s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-- [Orbital dynamics wizardry helped save NASA&#39;s next Mars mission](https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/)
 - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
 - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
 - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
