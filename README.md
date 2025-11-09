@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 - [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 - [Syntax and Semantics of Programming Languages &lpar;1995&rpar;](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
 - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
-- [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
