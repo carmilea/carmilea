@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
+- [Alive internet theory](https://alivetheory.net/)
 - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
-- [Ask HN: How would u setup a child&#39;s first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
-- [Forth – is it still relevant?](https://github.com/chochain/eforth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
