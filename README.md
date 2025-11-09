@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
 - [Runc breaks pods when CPU requests aren&#39;t multiples of 10](https://github.com/opencontainers/runc/issues/4982)
+- [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
