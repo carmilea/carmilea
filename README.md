@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
 - [Syntax and Semantics of Programming Languages &lpar;1995&rpar;](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+- [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
 - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
-- [He Chunhui&#39;s Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
-- [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
-- [Humanity&#39;s Endgame](https://www.noemamag.com/humanitys-endgame/)
+- [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
