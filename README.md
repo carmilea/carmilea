@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
-- [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
 - [My Git history was a mess of &#39;update&#39; and &#39;fix&#39; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
 - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
 - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
+- [Sued by Nintendo](https://www.suedbynintendo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
