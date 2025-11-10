@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
+- [Launch HN: Hypercubic &lpar;YC F25&rpar; – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
+- [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 - [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
 - [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
-- [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
-- [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
-- [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
