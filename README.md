@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 - [DNS Provider Quad9 Sees Piracy Blocking Orders as &quot;Existential Threat&quot;](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
 - [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
 - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
-- [Microsoft&#39;s lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
-- [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
+- [The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
