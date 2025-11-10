@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+- [Microsoft&#39;s lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
 - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
-- [BBC director general and News CEO resign in bias controversy](https://www.bbc.co.uk/news/live/cd9kqz1yyxkt)
 - [The Linux Kernel Looks to &quot;Bite the Bullet&quot; in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 - [XSLT RIP](https://xslt.rip/)
-- [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
