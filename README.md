@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
-- [Steven Heller&#39;s Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
-- [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
-- [Scientists Discover &quot;Gyromorphs&quot; Materials to Enhance Light-Based Computers](https://www.nyu.edu/about/news-publications/news/2025/november/scientists-discover-breakthrough-materials-to-enhance-light-base.html)
-- [DNS Provider Quad9 Sees Piracy Blocking Orders as &quot;Existential Threat&quot;](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
+- [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
+- [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
+- [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
+- [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
+- [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
