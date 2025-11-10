@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
+- [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
 - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
 - [Sued by Nintendo](https://www.suedbynintendo.com/)
-- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
