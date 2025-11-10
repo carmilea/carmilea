@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)
+- [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
+- [The &lpar;Lazy&rpar; Git UI You Didn&#39;t Know You Need](https://www.bwplotka.dev/2025/lazygit/)
 - [Hacker News Headlines &lpar;game&rpar;](https://projects.peercy.net/projects/hn-oracle/index.html)
 - [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
-- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
-- [Launch HN: Hypercubic &lpar;YC F25&rpar; – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
-- [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
