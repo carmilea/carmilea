@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Tesla&#39;s FSD works well, it gets credit. When it doesn&#39;t, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
-- [&#39;Up to 15 or 20′ air traffic controllers are retiring daily](https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html)
-- [Ask HN: What Are You Working On? &lpar;Nov 2025&rpar;](https://news.ycombinator.com/item?id=45869146)
-- [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
-- [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
+- [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)
+- [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
+- [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
+- [My Git history was a mess of &#39;update&#39; and &#39;fix&#39; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
+- [Iran faces unprecedented drought as water crisis hits Tehran](https://www.bbc.com/news/articles/cy4p2yzmem0o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
