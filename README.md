@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
-- [My Git history was a mess of &#39;update&#39; and &#39;fix&#39; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
+- [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
 - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
 - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
 - [Sued by Nintendo](https://www.suedbynintendo.com/)
+- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
