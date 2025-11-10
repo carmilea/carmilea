@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse acquires LibreChat: The open-source Agentic Data Stack](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
+- [Hacker News Headlines &lpar;game&rpar;](https://projects.peercy.net/projects/hn-oracle/index.html)
+- [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
+- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
 - [Launch HN: Hypercubic &lpar;YC F25&rpar; – AI for COBOL and Mainframes](https://www.hypercubic.ai/)
-- [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
-- [Cops Can Get Your Private Online Data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
-- [Asus Ascent GX10](https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/)
+- [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
