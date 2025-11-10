@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
+- [The Linux Kernel Looks to &quot;Bite the Bullet&quot; in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
+- [XSLT RIP](https://xslt.rip/)
+- [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
+- [Beets: The music geek&#39;s media organizer](https://beets.io/)
 - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
-- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
-- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
-- [Sued by Nintendo](https://www.suedbynintendo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
