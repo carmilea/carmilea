@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
+- [Steven Heller&#39;s Font of the Month: Archive Matrix](https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/)
+- [Refashion: Reconfigurable Garments via Modular Design](https://arxiv.org/abs/2510.11941)
+- [Scientists Discover &quot;Gyromorphs&quot; Materials to Enhance Light-Based Computers](https://www.nyu.edu/about/news-publications/news/2025/november/scientists-discover-breakthrough-materials-to-enhance-light-base.html)
 - [DNS Provider Quad9 Sees Piracy Blocking Orders as &quot;Existential Threat&quot;](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
-- [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
-- [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
-- [The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
