@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
-- [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
-- [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
-- [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1)
-- [The lazy Git UI you didn&#39;t know you need](https://www.bwplotka.dev/2025/lazygit/)
+- [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
+- [TTS Still Sucks](https://duarteocarmo.com/blog/tts-still-sucks)
+- [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
+- [Fei Fei Li: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
+- [Show HN: Davia – Open source visual, editable wiki from your codebase](https://github.com/davialabs/davia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
