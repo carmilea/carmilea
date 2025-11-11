@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
+- [The &#39;Toy Story&#39; You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 - [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
 - [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
-- [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
-- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
