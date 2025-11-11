@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+- [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
 - [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
-- [Kronecker in &lpar;O&lpar;p&lpar;n&rpar;^3&rpar;: A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)
-- [Rademacher Complexity and Models of Group Competition](https://www.symmetrybroken.com/group-selection/)
-- [What Caused Performance Issues in My Tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
