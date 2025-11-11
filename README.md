@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)
+- [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
+- [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
-- [The &#39;Toy Story&#39; You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
-- [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
-- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
