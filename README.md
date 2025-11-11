@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
-- [Anxiety disorders tied to low levels of choline in the brain](https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html)
-- [Show HN: Linnix – eBPF observability that predicts failures before they happen](https://github.com/linnix-os/linnix)
-- [Widespread distribution of bacteria containing PETases across global oceans](https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false)
-- [Hazel &lpar;YC W24&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
+- [Drawing Text Isn&#39;t Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
+- [US Army to buy 1 million drones, in major acquisition ramp-up](https://www.reuters.com/business/aerospace-defense/us-army-buy-1-million-drones-major-acquisition-ramp-up-2025-11-07/)
+- [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
+- [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
+- [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
