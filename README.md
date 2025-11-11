@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gen X may be the first to need a UBI after late-career job loss](https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/)
 - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
+- [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 - [The &quot;Dependency Cutout&quot; Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
-- [AI documentation you can talk to, for every repo](https://deepwiki.com/)
-- [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
