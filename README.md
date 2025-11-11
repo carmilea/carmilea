@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Latency on Windows](https://chadaustin.me/2024/02/windows-terminal-latency/)
+- [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
+- [Terminal Latency on Windows &lpar;2024&rpar;](https://chadaustin.me/2024/02/windows-terminal-latency/)
+- [Show HN: Data Formulator 0.5 – interactive AI agents for data visualization](https://data-formulator.ai/)
+- [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
 - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
-- [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
-- [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
-- [Weave &lpar;YC W25&rpar; is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
