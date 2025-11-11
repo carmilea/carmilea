@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xortran - A PDP-11 Neural Network With Backpropagation in Fortran IV](https://github.com/dbrll/Xortran)
+- [A modern 35mm film scanner for home](https://www.soke.engineering/)
+- [The AI Surveillance Dystopia: Spying, Data Trafficking, &amp; Corruption](https://store.gamersnexus.net/ai-dystopia)
+- [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
 - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-- [Terminal Latency on Windows &lpar;2024&rpar;](https://chadaustin.me/2024/02/windows-terminal-latency/)
-- [Show HN: Data Formulator 0.5 – interactive AI agents for data visualization](https://data-formulator.ai/)
-- [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty)
-- [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
