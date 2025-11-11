@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal Latency on Windows](https://chadaustin.me/2024/02/windows-terminal-latency/)
+- [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 - [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
 - [Weave &lpar;YC W25&rpar; is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)
-- [iPod Socks](https://en.wikipedia.org/wiki/IPod_Socks)
-- [Firefox Expands Fingerprint Protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
