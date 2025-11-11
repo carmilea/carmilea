@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)
-- [SoftBank sells its entire stake in Nvidia for $5.83B](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)
+- [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
+- [The &quot;Dependency Cutout&quot; Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
