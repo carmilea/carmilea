@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
+- [I didn&#39;t reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
+- [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+- [CACM Practice section welcomes submissions](https://dl.acm.org/doi/10.1145/3771297)
 - [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 - [PBM Drug Pricing Distortion Report](https://www.46brooklyn.com/research/welcome-to-private-label-park-nuf485-8h5kw-wk8y2)
-- [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
-- [The Terminal of the Future](https://jyn.dev/the-terminal-of-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
