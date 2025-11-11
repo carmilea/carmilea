@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
+- [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/)
+- [Weave &lpar;YC W25&rpar; is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer)
+- [iPod Socks](https://en.wikipedia.org/wiki/IPod_Socks)
 - [Firefox Expands Fingerprint Protections](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
-- [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo)
-- [Drawing Text Isn&#39;t Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
-- [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
-- [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
