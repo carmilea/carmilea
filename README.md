@@ -61,8 +61,8 @@
 - [AI adoption in US adds ~900k tons of CO₂ annually, study finds](https://techxplore.com/news/2025-11-ai-tons-annually.html)
 - [Anxiety disorders tied to low levels of choline in the brain](https://medicalxpress.com/news/2025-11-anxiety-disorders-essential-nutrient-brain.html)
 - [Show HN: Linnix – eBPF observability that predicts failures before they happen](https://github.com/linnix-os/linnix)
+- [Widespread distribution of bacteria containing PETases across global oceans](https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false)
 - [Hazel &lpar;YC W24&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
-- [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
