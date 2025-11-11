@@ -61,8 +61,8 @@
 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 - [The &#39;Toy Story&#39; You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
-- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 - [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
