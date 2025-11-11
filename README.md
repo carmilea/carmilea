@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
-- [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration)
-- [Cybersecurity breach at Congressional Budget Office remains a live threat](https://www.politico.com/live-updates/2025/11/10/congress/cbo-still-under-threat-00644930)
-- [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
-- [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
+- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+- [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
+- [Kronecker in &lpar;O&lpar;p&lpar;n&rpar;^3&rpar;: A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)
+- [Rademacher Complexity and Models of Group Competition](https://www.symmetrybroken.com/group-selection/)
+- [What Caused Performance Issues in My Tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
