@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen X may be the first to need a UBI after late-career job loss](https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/)
+- [Hazel &lpar;YC W24&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
+- [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/)
+- [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
+- [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
 - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
-- [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
-- [The &quot;Dependency Cutout&quot; Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
-- [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
