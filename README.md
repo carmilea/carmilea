@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xortran - A PDP-11 Neural Network With Backpropagation in Fortran IV](https://github.com/dbrll/Xortran)
-- [A modern 35mm film scanner for home](https://www.soke.engineering/)
-- [The AI Surveillance Dystopia: Spying, Data Trafficking, &amp; Corruption](https://store.gamersnexus.net/ai-dystopia)
-- [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
-- [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
+- [CACM Practice Welcomes Submissions](https://dl.acm.org/doi/10.1145/3771297)
+- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+- [PBM Drug Pricing Distortion Report](https://www.46brooklyn.com/research/welcome-to-private-label-park-nuf485-8h5kw-wk8y2)
+- [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
+- [The Terminal of the Future](https://jyn.dev/the-terminal-of-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
