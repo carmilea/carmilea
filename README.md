@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Security issues discovered in sudo-rs](https://lists.debian.org/debian-security-announce/2025/msg00218.html)
 - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
+- [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)
 - [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
 - [Simulating a Planet on the GPU: Part 1 &lpar;2022&rpar;](https://www.patrickcelentano.com/blog/planet-sim-part-1)
 - [You will own nothing and be &lpar;un&rpar;happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
