@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bjarne fix your freaking language](https://marler8997.github.io/blog/bjarne-fix-your-language/)
+- [Problems with C++ exceptions](https://marler8997.github.io/blog/bjarne-fix-your-language/)
 - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
 - [Perkeep – Personal storage system for life](https://perkeep.org/)
 - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
