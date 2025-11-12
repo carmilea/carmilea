@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002)
+- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
 - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 - [OmniAI &lpar;YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
-- [LLM Output Drift in Financial Workflows: Validation and Mitigation &lpar;arXiv&rpar;](https://arxiv.org/abs/2511.07585)
-- [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
 <!-- BLOG-POST-LIST:END -->
 
 ---
