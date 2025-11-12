@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OmniAI &lpar;YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
+- [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 - [LLM Output Drift in Financial Workflows: Validation and Mitigation &lpar;arXiv&rpar;](https://arxiv.org/abs/2511.07585)
-- [GLP-1 Drugs Linked to Dramatically Lower Death Rates in Colon Cancer Patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
-- [Is your electric bill going up? AI is partly to blame](https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai)
-- [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
+- [GLP-1 drugs linked to lower death rates in colon cancer patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
 - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
 <!-- BLOG-POST-LIST:END -->
 
