@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)
-- [The PowerPC Has Still Got It &lpar;Llama on G4 Laptop&rpar;](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
-- [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
-- [Waymo begins freeway rides for the public](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
-- [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+- [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
+- [Steam Machine](https://store.steampowered.com/sale/steammachine)
+- [Steam Frame](https://store.steampowered.com/sale/steamframe)
+- [Launch HN: JSX Tool &lpar;YC F25&rpar; – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
+- [Project Euler](https://projecteuler.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
