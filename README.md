@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
+- [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
+- [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
 - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
-- [Steam Machine](https://store.steampowered.com/sale/steammachine)
-- [Steam Frame](https://store.steampowered.com/sale/steamframe)
-- [Launch HN: JSX Tool &lpar;YC F25&rpar; – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
-- [Project Euler](https://projecteuler.net)
+- [UK pauses intelligence-sharing with US on suspected drug vessels in Caribbean](https://www.theguardian.com/uk-news/2025/nov/11/uk-suspends-intelligence-sharing-with-us-amid-airstikes-in-the-caribbean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
