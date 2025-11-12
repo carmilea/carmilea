@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
+- [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)
+- [The PowerPC Has Still Got It &lpar;Llama on G4 Laptop&rpar;](https://www.hackster.io/news/the-powerpc-has-still-got-it-c4348bd7a88c)
 - [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
 - [Waymo begins freeway rides for the public](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
-- [Fungus in Chernobyl nuclear disaster zone has mutated to &#39;feed&#39; on radiation &lpar;2024&rpar;](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
 - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 <!-- BLOG-POST-LIST:END -->
 
