@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How does one stay motivated to grind through LeetCode?](https://news.ycombinator.com/item?id=45898856)
+- [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
+- [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
 - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
 - [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)
-- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
-- [Simulating a Planet on the GPU: Part 1 &lpar;2022&rpar;](https://www.patrickcelentano.com/blog/planet-sim-part-1)
-- [You will own nothing and be &lpar;un&rpar;happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
