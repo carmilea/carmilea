@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
+- [Simulating a Planet on the GPU: Part 1 &lpar;2022&rpar;](https://www.patrickcelentano.com/blog/planet-sim-part-1)
+- [You will own nothing and be &lpar;un&rpar;happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
 - [Problems with C++ exceptions](https://marler8997.github.io/blog/bjarne-fix-your-language/)
 - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
-- [Perkeep – Personal storage system for life](https://perkeep.org/)
-- [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
-- [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
