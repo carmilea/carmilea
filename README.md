@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 - [OmniAI &lpar;YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 - [Making the Clang AST Leaner and Faster](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 - [LLM Output Drift in Financial Workflows: Validation and Mitigation &lpar;arXiv&rpar;](https://arxiv.org/abs/2511.07585)
-- [GLP-1 drugs linked to lower death rates in colon cancer patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
 - [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
 <!-- BLOG-POST-LIST:END -->
 
