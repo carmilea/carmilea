@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fungus in Chernobyl nuclear disaster zone has mutated to &#39;feed&#39; on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
-- [Fighting the New York Times&#39; invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
-- [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
-- [Micro.blog launches new &#39;Studio&#39; tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
-- [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
+- [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
+- [Kubernetes Is Your Private Cloud](https://oneuptime.com/blog/post/2025-11-12-kubernetes-is-your-private-cloud/view)
+- [Waymo begins freeway rides for the public](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
+- [Fungus in Chernobyl nuclear disaster zone has mutated to &#39;feed&#39; on radiation &lpar;2024&rpar;](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
+- [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 <!-- BLOG-POST-LIST:END -->
 
 ---
