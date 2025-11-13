@@ -61,8 +61,8 @@
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
 - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
-- [Bitcoin&#39;s big secret: How cryptocurrency became law enforcement&#39;s secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
 - [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)
+- [On USB HID, Keyboard LEDs, and device emulation &lpar;2024&rpar;](https://epsilon537.github.io/boxlambda/usb-hid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
