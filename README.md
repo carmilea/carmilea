@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://www.bbc.com/news/articles/c364yg7g351o)
+- [650GB of Data &lpar;Delta Lake on S3&rpar;. Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
 - [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
 - [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 - [Piramidal &lpar;YC W24&rpar; Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
