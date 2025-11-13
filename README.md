@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 - [IBM Patented Euler&#39;s 200 Year Old Math Technique for &#39;AI Interpretability&#39;](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
-- [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
-- [A hemp industry shutdown has just begun](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
-- [BAML is hiring compilers/rust engineers &lpar;YC W23&rpar;](https://github.com/BoundaryML/baml/tree/canary/jobs)
+- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
+- [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
+- [Ask HN: Anyone else disillusioned with &quot;AI experts&quot; in their team?](https://news.ycombinator.com/item?id=45918355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
