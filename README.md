@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://www.bbc.com/news/articles/c364yg7g351o)
+- [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
+- [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
 - [Piramidal &lpar;YC W24&rpar; Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
 - [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
-- [Parsing Integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
-- [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
-- [IBM Patented Euler&#39;s 200 Year Old Math Technique for &#39;AI Interpretability&#39;](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
