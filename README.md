@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
-- [No Competition? That&#39;s Usually a Red Flag for Solopreneurs](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/)
-- [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
-- [Kratos - Cloud native Auth0 open-source alternative &lpar;self-hosted&rpar;](https://github.com/ory/kratos)
-- [Denx &lpar;a.k.a. U-Boot&rpar; Retires](https://www.denx.de/)
+- [Launch HN: Tweeks &lpar;YC W25&rpar; – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
+- [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
+- [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
+- [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
+- [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
