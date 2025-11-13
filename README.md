@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [fuckborderradius.com](https://fuckborderradius.com)
+- [Seed. LINE&#39;s Custom Typeface](https://seed.line.me/index_en.html)
 - [Telli &lpar;Voice AI – YC F24&rpar; is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
 - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
-- [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
-- [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
