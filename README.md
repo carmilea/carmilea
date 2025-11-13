@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BAML is hiring compilers/rust engineers &lpar;YC W23&rpar;](https://github.com/BoundaryML/baml/tree/canary/jobs)
+- [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino)
 - [Launch HN: Tweeks &lpar;YC W25&rpar; – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
 - [Zed Is Our Office](https://zed.dev/blog/zed-is-our-office)
-- [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
-- [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
-- [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+- [Hemp Ban Hidden Inside Government Shutdown Bill](https://hightimes.com/news/politics/hemp-ban-hidden-inside-government-shutdown-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
