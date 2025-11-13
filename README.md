@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [fuckborderradius.com](https://fuckborderradius.com)
+- [Hack Club has been handling children&#39;s data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
 - [Seed. LINE&#39;s Custom Typeface](https://seed.line.me/index_en.html)
 - [Telli &lpar;Voice AI – YC F24&rpar; is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
 - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
