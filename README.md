@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blender Lab](https://www.blender.org/news/introducing-blender-lab/)
-- [Britain&#39;s railway privatization was an abject failure](https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure)
-- [Hack Club has been handling children&#39;s data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)
-- [Seed. LINE&#39;s Custom Typeface](https://seed.line.me/index_en.html)
-- [Telli &lpar;Voice AI – YC F24&rpar; is hiring engineers in Berlin](https://hi.telli.com/eng)
+- [GitHub Partial Outage](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
+- [No Competition? That&#39;s Usually a Red Flag for Solopreneurs](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/)
+- [Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
+- [Kratos - Cloud native Auth0 open-source alternative &lpar;self-hosted&rpar;](https://github.com/ory/kratos)
+- [Denx &lpar;a.k.a. U-Boot&rpar; Retires](https://www.denx.de/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
