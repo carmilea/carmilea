@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [£220 &#39;for a cut-up sock&#39; — Apples&#39;s new iPhone Pocket ridiculed online](https://www.bbc.com/news/articles/cn97ndgpnq7o)
+- [My dad could still be alive, but he&#39;s not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
+- [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
 - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)
 - [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
-- [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
