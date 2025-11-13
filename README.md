@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft confirms Windows 11 is about to change gets enormous backlash – Neowin](https://www.neowin.net/news/microsoft-confirms-windows-11-is-about-to-change-massively-gets-enormous-backlash/)
+- [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
+- [IBM Patented Euler&#39;s 200 Year Old Math Technique for &#39;AI Interpretability&#39;](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
 - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
-- [Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/)
-- [Rand Paul: Congress bill destroys hemp farmer livelihoods](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
+- [A hemp industry shutdown has just begun](https://www.courier-journal.com/story/opinion/contributors/2025/11/13/rand-paul-congress-funding-bill-hemp-products-farmers/87247317007/)
 - [BAML is hiring compilers/rust engineers &lpar;YC W23&rpar;](https://github.com/BoundaryML/baml/tree/canary/jobs)
 <!-- BLOG-POST-LIST:END -->
 
