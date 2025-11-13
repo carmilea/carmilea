@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
+- [Telli &lpar;Voice AI – YC F24&rpar; is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
+- [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
+- [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
 - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
-- [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)
-- [On USB HID, Keyboard LEDs, and device emulation &lpar;2024&rpar;](https://epsilon537.github.io/boxlambda/usb-hid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
