@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Piramidal &lpar;YC W24&rpar; Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
+- [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
+- [Parsing Integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
 - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
 - [IBM Patented Euler&#39;s 200 Year Old Math Technique for &#39;AI Interpretability&#39;](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
-- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
-- [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
-- [Ask HN: Anyone else disillusioned with &quot;AI experts&quot; in their team?](https://news.ycombinator.com/item?id=45918355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
