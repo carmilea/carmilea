@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer)
-- [A67z](https://www.a67z.com/)
-- [My dad could still be alive, but he&#39;s not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
-- [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
-- [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+- [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
+- [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
+- [Bitcoin&#39;s big secret: How cryptocurrency became law enforcement&#39;s secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/)
+- [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
