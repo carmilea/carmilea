@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is building for the web even worth it now?](https://news.ycombinator.com/item?id=45924891)
 - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
 - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 - [Multi-User Dungeon &lpar;MUD&rpar;](https://en.wikipedia.org/wiki/Multi-user_dungeon)
 - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
+- [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
