@@ -61,8 +61,8 @@
 - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
+- [Don&#39;t turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)
 - [Backblaze Drive Stats for Q3 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2025/)
-- [EDE: Small and Fast Desktop Environment](https://edeproject.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
