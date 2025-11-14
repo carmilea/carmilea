@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is building for the web even worth it now?](https://news.ycombinator.com/item?id=45924891)
+- [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
+- [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
+- [Multi-User Dungeon &lpar;MUD&rpar;](https://en.wikipedia.org/wiki/Multi-user_dungeon)
 - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
-- [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
-- [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
-- [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
-- [650GB of Data &lpar;Delta Lake on S3&rpar;. Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
