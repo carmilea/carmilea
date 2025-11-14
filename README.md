@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RetailReady &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer)
-- [&#39;No One Lives Forever&#39; Turns 25 and You Still Can&#39;t Buy It Legitimately](https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/)
-- [The American Tradition of Trying to Address Anxiety with Parks](https://time.com/7288956/american-tradition-anxiety-parks/)
-- [Oracle hit hard in Wall Street&#39;s tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
-- [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
+- [We Uncovered a Race Condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
+- [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://theintercept.com/2025/11/14/boat-strikes-immunity-legality-trump/)
+- [Not even a month passed and Chat Control is back in the EU](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
+- [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
+- [Norway&#39;s Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
