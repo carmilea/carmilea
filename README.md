@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured Outputs on the Claude Developer Platform &lpar;API&rpar;](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
+- [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
+- [AI World Clocks](https://clocks.brianmoore.com/)
 - [We Uncovered a Race Condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
-- [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://theintercept.com/2025/11/14/boat-strikes-immunity-legality-trump/)
-- [Not even a month passed and Chat Control is back in the EU](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
-- [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
-- [Norway&#39;s Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)
+- [Show HN: Dumbass Business Ideas](https://dumbassideas.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
