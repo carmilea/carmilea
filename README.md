@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
-- [Copyright Winter Is Coming &lpar;To Wikipedia?&rpar;](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
+- [Copyright winter is coming &lpar;to Wikipedia?&rpar;](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
 - [Why Fei-Fei Li and Yann LeCun Are Both Betting on &quot;World Models&quot;](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+- [Canadian boycott of US travel shows no sign of slowing](https://www.bbc.com/news/articles/ce9d7pj543eo)
 - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
-- [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
