@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mentra &lpar;YC W25&rpar; Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
+- [Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/)
 - [All Praise to the Lunch Ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
+- [Show HN: Epstein Files Organized and Searchable](https://searchepsteinfiles.com/)
 - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
-- [Structured Outputs on the Claude Developer Platform &lpar;API&rpar;](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
-- [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
-- [AI World Clocks](https://clocks.brianmoore.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
