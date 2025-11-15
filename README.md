@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weighting an Average to Minimize Variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
+- [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
+- [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)
 - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring MTS&lpar;Back End&rpar;and AI Search Engineer](https://careers.activeloop.ai/)
-- [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
-- [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
