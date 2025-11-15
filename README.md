@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ohm Editor](https://ohmjs.org/editor/)
 - [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 - [I can&#39;t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
-- [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
-- [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
-- [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
+- [Meet Reservoir – The World&#39;s Smartest Water Heater](https://www.reservoirhome.com/)
+- [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
