@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation](https://jamanetwork.com/journals/jama/fullarticle/2841253)
+- [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
 - [AWS Deprecates Two Dozen Services &lpar;Most of Which You&#39;ve Never Heard Of&rpar;](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
 - [The computer poetry of J. M. Coetzee&#39;s early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
-- [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
-- [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
