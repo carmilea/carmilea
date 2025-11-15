@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Serverless to Functionless](https://builder.aws.com)
+- [AWS Deprecates Two Dozen Services &lpar;Most of Which You&#39;ve Never Heard Of&rpar;](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
+- [The computer poetry of J. M. Coetzee&#39;s early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
+- [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
+- [USA Gives South Korea Green Light to Build Nuclear Submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
 - [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
-- [Trellis AI &lpar;YC W24&rpar; Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
-- [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
-- [The Mighty Simplex &lpar;2023&rpar;](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
