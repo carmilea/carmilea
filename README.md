@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jimmy Wales, Wikipedia&#39;s founder/co-founder – Jung and Naiv: Episode 792 [video]](https://www.youtube.com/watch?v=uswRbWyt_pg)
+- [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring MTS&lpar;Back End&rpar;and AI Search Engineer](https://careers.activeloop.ai/)
 - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
-- [NATO Ended Russia&#39;s Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/)
+- [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
