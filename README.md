@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weighting an Average to Minimize Variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
+- [Trellis AI &lpar;YC W24&rpar; Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
+- [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
+- [The Mighty Simplex &lpar;2023&rpar;](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
+- [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
-- [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)
-- [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
-- [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
