@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USDA head says &#39;everyone&#39; on SNAP will now have to reapply](https://thehill.com/homenews/administration/5606715-agriculture-secretary-snap-reapply/)
+- [Nothing impossible happens](https://www.oxonianreview.com/articles/nothing-impossible-happens)
+- [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 - [Go&#39;s Sweet 16](https://go.dev/blog/16years)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
-- [30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where)
 - [Mentra &lpar;YC W25&rpar; Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
 <!-- BLOG-POST-LIST:END -->
 
