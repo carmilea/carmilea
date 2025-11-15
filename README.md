@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
+- [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
 - [Ohm Editor](https://ohmjs.org/editor/)
-- [So, you want to design your own language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
+- [So, you want to design your own language? &lpar;2017&rpar;](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 - [I can&#39;t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
-- [Meet Reservoir – The World&#39;s Smartest Water Heater](https://www.reservoirhome.com/)
-- [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
