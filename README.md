@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Cook could step down as Apple CEO &#39;as soon as next year](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
 - [AMD continues to chip away at Intel&#39;s x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
 - [Caffeinated coffee consumption or abstinence to reduce atrial fibrillation](https://jamanetwork.com/journals/jama/fullarticle/2841253)
 - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
-- [AWS deprecates two dozen services &lpar;most of which you&#39;ve never heard of&rpar;](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
-- [The computer poetry of J. M. Coetzee&#39;s early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
+- [The computer poetry of J. M. Coetzee&#39;s early programming career &lpar;2017&rpar;](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
