@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from Serverless to Functionless](https://builder.aws.com)
+- [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/)
 - [Trellis AI &lpar;YC W24&rpar; Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 - [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
 - [The Mighty Simplex &lpar;2023&rpar;](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/)
-- [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
-- [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 <!-- BLOG-POST-LIST:END -->
 
 ---
