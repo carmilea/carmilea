@@ -61,8 +61,8 @@
 - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 - [Activeloop &lpar;YC S18&rpar; Is Hiring MTS&lpar;Back End&rpar;and AI Search Engineer](https://careers.activeloop.ai/)
 - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
-- [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
+- [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
