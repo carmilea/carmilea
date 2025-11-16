@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Only three kinds of AI products work](https://www.seangoedecke.com/ai-products/)
 - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
-- [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
