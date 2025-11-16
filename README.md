@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Don&#39;t Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
-- [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
-- [Facebook Text Log Between Mark Zuckerberg and Kevin Systrom&lpar;Instagram Cofounder&rpar;](https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb)
-- [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
-- [Bypassing the Branch Predictor](https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html)
+- [Why are you &lpar;still&rpar; using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
+- [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
+- [Anthropic&#39;s report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
+- [UK&#39;s first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
+- [Maybe You&#39;re Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
