@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are you &lpar;still&rpar; using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
+- [My mum was a 17-year-old free spirit – so she was locked up and put in a coma](https://www.bbc.co.uk/news/articles/cr43vx0rrwvo)
+- [Major Bitcoin mining firm pivoting to AI](https://www.tomshardware.com/tech-industry/cryptomining/major-bitcoin-mining-firm-pivoting-to-ai-plans-to-fully-abandon-crypto-mining-by-2027-bitfarm-to-leverage-341-megawatt-capacity-for-ai-following-usd46-million-q3-loss)
 - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 - [Anthropic&#39;s report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
-- [&quot;The Fall of Icarus&quot;: You Have Never Seen an Astrophotography Picture Like This](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
-- [UK&#39;s first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
+- [“The Fall of Icarus”: Photograph of a falling skydiver in front of the Sun](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
