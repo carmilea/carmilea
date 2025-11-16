@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
+- [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
+- [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
 - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 - [62 chapter open-source Zig book](https://www.zigbook.net)
-- [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
-- [The fate of &quot;small&quot; open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
-- [AI is killing privacy. We can&#39;t let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
