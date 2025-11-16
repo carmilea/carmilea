@@ -61,8 +61,8 @@
 - [Why are you &lpar;still&rpar; using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
 - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 - [Anthropic&#39;s report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
+- [&quot;The Fall of Icarus&quot;: You Have Never Seen an Astrophotography Picture Like This](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 - [UK&#39;s first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
-- [Maybe You&#39;re Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
