@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britney Spears&#39; Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
+- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+- [How Your Brain Creates &#39;Aha&#39; Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 - [The Pragmatic Programmer: 20th Anniversary Edition &lpar;2023&rpar;](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
-- [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
-- [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
-- [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
