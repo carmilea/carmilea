@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
+- [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 - [AirPods libreated from Apple&#39;s ecosystem](https://github.com/kavishdevar/librepods)
 - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
