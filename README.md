@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
+- [62 chapter open-source Zig book](https://www.zigbook.net)
+- [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
+- [The fate of &quot;small&quot; open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 - [AI is killing privacy. We can&#39;t let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
-- [Three kinds of AI products work](https://www.seangoedecke.com/ai-products/)
-- [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
-- [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
-- [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
