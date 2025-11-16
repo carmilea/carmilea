@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
+- [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
+- [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 - [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [Iran begins cloud seeding operations as drought bites](https://www.arabnews.com/node/2622812/middle-east)
-- [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
-- [My mum was a 17-year-old free spirit so she was locked up and put in a coma](https://www.bbc.co.uk/news/articles/cr43vx0rrwvo)
-- [The MP944 was the &#39;real&#39; first microprocessor, but it was top secret](https://www.tomshardware.com/pc-components/cpus/the-mp944-was-the-real-worlds-first-microprocessor-and-key-to-the-flight-of-the-f-14-tomcat-but-it-lived-in-the-shadow-of-the-intel-4004-for-nearly-30-years)
+- [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
