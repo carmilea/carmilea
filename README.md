@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
 - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 - [AirPods libreated from Apple&#39;s ecosystem](https://github.com/kavishdevar/librepods)
 - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
-- [The inconceivable types of Rust: How to make self-borrows safe &lpar;2024&rpar;](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
