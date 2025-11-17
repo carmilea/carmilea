@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
+- [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/)
 - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
-- [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It&#39;s Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
-- [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
