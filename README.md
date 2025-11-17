@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More liberals, people of color and LGBTQ say they&#39;re buying guns out of fear](https://www.npr.org/2025/11/15/nx-s1-5607064/guns-liberals-trump-administration-people-of-color-lgbtq-fear)
-- [Grok 4.1](https://x.ai/news/grok-4-1)
-- [Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
+- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
+- [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
+- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB &lpar;built by a 13yo&rpar;](https://princejs.vercel.app)
 - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
 <!-- BLOG-POST-LIST:END -->
