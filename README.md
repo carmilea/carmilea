@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can now buy pre-owned Ford vehicles on Amazon](https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned)
-- [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
-- [Project Gemini](https://geminiprotocol.net/)
-- [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
-- [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
+- [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+- [Reselling tickets for profit to be outlawed in UK government crackdown](https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown)
+- [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
+- [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)
+- [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
