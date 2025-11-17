@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
-- [Reselling tickets for profit to be outlawed in UK government crackdown](https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown)
-- [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
-- [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is)
-- [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html)
+- [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
+- [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
+- [DESI&#39;s Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
+- [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
