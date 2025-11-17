@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
+- [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
+- [Project Gemini](https://geminiprotocol.net/)
+- [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
+- [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
-- [Geothermal energy might be the baseload revolution we&#39;ve been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
-- [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
-- [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
