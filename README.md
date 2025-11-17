@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now buy pre-owned Ford vehicles on Amazon](https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned)
 - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 - [Project Gemini](https://geminiprotocol.net/)
 - [WBlock: A New Ad-Blocker for Safari](https://github.com/0xCUB3/wBlock)
 - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
-- [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
