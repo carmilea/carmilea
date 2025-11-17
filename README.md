@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
+- [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It&#39;s Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
+- [People are using iPad OS features on their iPhones](https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/)
 - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
 - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
-- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
-- [Britney Spears&#39; Guide to Semiconductor Physics &lpar;2000&rpar;](https://britneyspears.ac/lasers.htm)
-- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
