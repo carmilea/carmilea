@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB &lpar;built by a 13yo&rpar;](https://princejs.vercel.app)
+- [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
 - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+- [Show HN: Kalendis – Scheduling API &lpar;keep your UI, we handle timezones/DST&rpar;](https://kalendis.dev)
 - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
-- [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
-- [DESI&#39;s Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
-- [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
