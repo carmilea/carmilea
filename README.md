@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos Creates A.I. Startup Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
+- [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
+- [Geothermal energy might be the baseload revolution we&#39;ve been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
 - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
-- [US startup Substrate announces chipmaking tool that it says will rival ASML](https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT)
 - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
-- [Mysterious drones have been spotted at airports across Europe](https://www.bbc.co.uk/news/articles/crkl3d6pegpo)
-- [Ned: ImGui Text Editor with GL Shaders](https://github.com/nealmick/ned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
