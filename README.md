@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
+- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
 - [Britney Spears&#39; Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
 - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
-- [How Your Brain Creates &#39;Aha&#39; Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
-- [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
-- [The Pragmatic Programmer: 20th Anniversary Edition &lpar;2023&rpar;](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
+- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
