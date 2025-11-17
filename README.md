@@ -62,7 +62,7 @@
 - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
 - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
 - [Britney Spears&#39; Guide to Semiconductor Physics &lpar;2000&rpar;](https://britneyspears.ac/lasers.htm)
-- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business? &lpar;2018&rpar;](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
