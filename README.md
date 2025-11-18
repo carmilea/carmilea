@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 - [Blender 5.0](https://www.blender.org/download/releases/5-0/)
 - [Bild AI &lpar;YC W25&rpar; is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 - [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
-- [Oracle is underwater on its $300B OpenAI deal](https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89)
 - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 <!-- BLOG-POST-LIST:END -->
 
