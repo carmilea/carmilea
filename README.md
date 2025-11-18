@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
+- [Experiment: Making TypeScript Immutable-by-Default](https://evanhahn.com/typescript-immutability-experiment/)
+- [Ruby 4.0.0 Preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
+- [Do Not Put Your Site Behind Cloudflare If You Don&#39;t Need To](https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont)
 - [Multiple Digital Ocean services down](https://status.digitalocean.com/incidents/lgt5xs2843rx)
-- [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
-- [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)
-- [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
-- [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
