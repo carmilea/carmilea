@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legendary game designer, programmer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
+- [I caught Google Gemini using my data–and then covering it up](https://unbuffered.stream/gemini-personal-context/)
+- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
 - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
-- [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
-- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
-- [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB &lpar;built by a 13yo&rpar;](https://princejs.vercel.app)
-- [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
