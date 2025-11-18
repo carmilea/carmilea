@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Digital Ocean services down](https://status.digitalocean.com/incidents/lgt5xs2843rx)
 - [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
 - [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)
 - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
 - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
-- [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
