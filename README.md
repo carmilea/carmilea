@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Core Devices &lpar;Pebble Watch&rpar; Keeps Stealing Our Work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
-- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
+- [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
 - [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
 - [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
 - [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
+- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
