@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Surprising Benefits of Giving Up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
+- [The obvious economics of preserving the Amazon](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
+- [According to a Google leak, we’re all to blame for poor quality search results](https://www.admdnewsletter.com/its-not-googles-fault-its-yours/)
+- [LeJEPA](https://arxiv.org/abs/2511.08544)
 - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
-- [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
-- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
-- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
-- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
