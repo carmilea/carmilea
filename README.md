@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New EU Chat Control proposal moves forward](https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/)
+- [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 - [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
-- [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
+- [Court settlement calls for NPR to get $36M to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
-- [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
-- [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
