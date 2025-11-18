@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 Pro Preview Live in AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)
+- [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
 - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
 - [Experiment: Making TypeScript Immutable-by-Default](https://evanhahn.com/typescript-immutability-experiment/)
-- [Ruby 4.0.0 Preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
-- [Do Not Put Your Site Behind Cloudflare If You Don&#39;t Need To](https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont)
-- [Multiple Digital Ocean services down](https://status.digitalocean.com/incidents/lgt5xs2843rx)
+- [&#39;Fear really drives him&#39;: is Alex Karp of Palantir the world&#39;s scariest CEO?](https://www.theguardian.com/technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
