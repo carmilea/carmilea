@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New EU Chat Control proposal moves forward](https://techreport.com/news/new-eu-chat-control-proposal-privacy-experts-see-dangerous-backdoor/)
+- [Blender 5.0](https://www.blender.org/download/releases/5-0/)
+- [Bild AI &lpar;YC W25&rpar; is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
+- [Oracle is underwater on its $300B OpenAI deal](https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89)
 - [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
-- [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
-- [Court settlement calls for NPR to get $36M to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
-- [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
