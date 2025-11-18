@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Surprising Benefits of Giving Up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
-- [The obvious economics of preserving the Amazon](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
-- [According to a Google leak, we’re all to blame for poor quality search results](https://www.admdnewsletter.com/its-not-googles-fault-its-yours/)
+- [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 - [LeJEPA](https://arxiv.org/abs/2511.08544)
 - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
+- [Unofficial &quot;Tier 4&quot; Rust Target for older Windows versions](https://github.com/rust9x/rust)
+- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
