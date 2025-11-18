@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
+- [NPR to get $36M in settlement to operate US public radio system](https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a)
 - [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts)
+- [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)
 - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
-- [Google internal SSO: Sign into corp intranet](https://login.corp.google.com/)
-- [Strix Halo&#39;s Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling)
-- [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
