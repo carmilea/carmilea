@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoSign Desktop RCE flaws affecting users in Italy](https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/)
+- [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)
+- [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
+- [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
 - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
-- [Langfuse &lpar;YC W23&rpar; Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
-- [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
-- [LeJEPA](https://arxiv.org/abs/2511.08544)
-- [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
