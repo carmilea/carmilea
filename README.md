@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
-- [To launch something new, you need &quot;social dandelions&quot;](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
-- [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
-- [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
-- [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
+- [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
+- [The Death of Arduino?](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+- [Pozsar&#39;s Bretton Woods III: Sometimes Money Can&#39;t Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
+- [Gov. Abbott&#39;s office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
+- [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
