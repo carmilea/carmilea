@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when even college students can&#39;t do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
-- [Europe&#39;s cookie nightmare is crumbling. EC wants preference at browser level](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
+- [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
+- [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
 - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
