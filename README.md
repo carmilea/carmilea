@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
+- [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
+- [Build vs. Buy: What This Week&#39;s Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
+- [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
 - [Emoji Evidence Errors Don&#39;t Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
-- [Launch HN: Mosaic &lpar;YC W25&rpar; – Agentic Video Editing](https://mosaic.so)
-- [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
-- [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
-- [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
