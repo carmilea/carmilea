@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
 - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
-- [What nicotine does to your brain](https://economist.com/science-and-technology/2025/09/12/what-nicotine-does-to-your-brain)
 - [A down detector for down detector&#39;s down detector](https://downdetectorsdowndetectorsdowndetector.com/)
 - [SingleStore - Passwordless Authentication For Service Accounts](https://www.singlestore.com/blog/singlestore---passwordless-authentication-for-service-accounts)
 - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
