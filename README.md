@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
+- [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
 - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 - [Blender 5.0](https://www.blender.org/download/releases/5-0/)
-- [Bild AI &lpar;YC W25&rpar; is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-- [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
-- [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
