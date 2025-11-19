@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
-- [To Launch Something New, You Need &quot;Social Dandelions&quot;](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
+- [To launch something new, you need &quot;social dandelions&quot;](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
 - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
-- [I am just sooo sick of AI prediction content, let&#39;s kill it already](https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/)
 - [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
+- [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
