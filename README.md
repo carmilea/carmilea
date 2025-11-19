@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
+- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue &lpar;2024&rpar;](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
-- [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+- [Rebecca Heineman – from homelessness to porting Doom &lpar;2022&rpar;](https://corecursive.com/doomed-to-fail-with-burger-becky/)
 - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
-- [Blender 5.0](https://www.blender.org/download/releases/5-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
