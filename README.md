@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC)
+- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 - [It&#39;s your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
-- [Screw it, I&#39;m installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
-- [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
-- [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-- [Racing karts on a Rust GPU kernel driver](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html)
+- [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
+- [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
