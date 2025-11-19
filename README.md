@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zo: Personal Servers for Everyone](https://www.zo.computer/)
-- [Geothermal&#39;s Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
+- [What happens when even college students can&#39;t do math anymore?](https://www.theatlantic.com/ideas/2025/11/math-decline-ucsd/684973/)
+- [Europe&#39;s cookie nightmare is crumbling. EC wants preference at browser level](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
+- [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
+- [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 - [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
-- [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
-- [The Cities Skylines Paradox: how the sequel stumbled](https://selix.net/notes/the-cities-skyline-paradox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
