@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
-- [Detection, Decoding of &quot;Power Track&quot; Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
-- [Loose Wire Leads to Blackout, Contact with Francis Scott Key Bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-- [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
-- [The Death of Arduino?](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
+- [It&#39;s your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
+- [Screw it, I&#39;m installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
+- [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
+- [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
+- [Racing karts on a Rust GPU kernel driver](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
