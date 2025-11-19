@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $1k AWS Mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
+- [Geothermal&#39;s Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)
+- [How do the pros get someone to leave a cult?](https://www.theguardian.com/science/2025/nov/19/how-to-leave-a-cult-experts-intervention)
+- [Klarna says AI drive has helped halve staff numbers and boost pay](https://www.theguardian.com/business/2025/nov/18/buy-now-pay-later-klarna-ai-helped-halve-staff-boost-pay)
+- [Pimped Amiga 500](https://www.pimyretro.org/pimped-amiga-500/)
 - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
-- [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
-- [A down detector for down detector&#39;s down detector](https://downdetectorsdowndetectorsdowndetector.com/)
-- [SingleStore - Passwordless Authentication For Service Accounts](https://www.singlestore.com/blog/singlestore---passwordless-authentication-for-service-accounts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
