@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
-- [Adventures in Upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
-- [Build vs. Buy: What This Week&#39;s Outages Should Teach You](https://www.toddhgardner.com/blog/build-vs-buy-outages)
-- [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/)
-- [Emoji Evidence Errors Don&#39;t Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
+- [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
+- [To Launch Something New, You Need &quot;Social Dandelions&quot;](https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions)
+- [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
+- [I am just sooo sick of AI prediction content, let&#39;s kill it already](https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/)
+- [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
