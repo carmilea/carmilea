@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
+- [A down detector for down detector&#39;s down detector](https://downdetectorsdowndetectorsdowndetector.com/)
 - [SingleStore - Passwordless Authentication For Service Accounts](https://www.singlestore.com/blog/singlestore---passwordless-authentication-for-service-accounts)
-- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
 - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
-- [I made a down detector for down detector](https://downdetectorsdowndetector.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
