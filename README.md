@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
+- [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
 - [Lucent 7 R/E 5ESS Telephone Switch Rescue &lpar;2024&rpar;](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 - [Rebecca Heineman – from homelessness to porting Doom &lpar;2022&rpar;](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
