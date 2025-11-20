@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 - [The Lions Operating System](https://lionsos.org)
 - [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
+- [Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693)
 - [Launch HN: Poly &lpar;YC S22&rpar; – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
-- [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
-- [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
