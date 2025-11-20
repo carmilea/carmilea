@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
-- [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
-- [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
-- [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
-- [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
+- [The Lions Operating System](https://lionsos.org)
+- [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
+- [Launch HN: Poly &lpar;YC S22&rpar; – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
+- [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
+- [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
