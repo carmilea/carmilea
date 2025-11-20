@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Android and iPhone users can now share files, starting with the Pixel 10 family](https://blog.google/products/android/quick-share-airdrop/)
 - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
 - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 - [Freer Monads, More Extensible Effects [pdf]](https://okmij.org/ftp/Haskell/extensible/more.pdf)
 - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
-- [Judgement on Dr Matthew Garrett &lpar;@mjg59&rpar; vs. Dr Roy Schestowitz &lpar;Techrights.org&rpar;](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063)
 <!-- BLOG-POST-LIST:END -->
 
 ---
