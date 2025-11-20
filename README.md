@@ -61,7 +61,7 @@
 - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 - [PHP 8.5 gets released today, here&#39;s what&#39;s new](https://stitcher.io/blog/new-in-php-85)
 - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
-- [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/)
+- [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
 - [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
 <!-- BLOG-POST-LIST:END -->
 
