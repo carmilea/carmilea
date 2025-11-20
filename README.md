@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debunking the Myths of the HBO Chernobyl series &lpar;2023&rpar;](https://blog.osm-ai.net/investigation/2023/01/05/hbo-chernobyl-myth.html)
-- [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
+- [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 - [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
 - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-- [Linux Career Opportunities in 2025: Skills in High Demand](https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/)
+- [CornHub](https://cornhub.website/)
+- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
