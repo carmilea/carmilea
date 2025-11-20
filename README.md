@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)
+- [40 years ago, Calvin and Hobbes&#39; raucous adventures burst onto the comics page](https://text.npr.org/nx-s1-5564064)
+- [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
+- [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
 - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
-- [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
-- [PHP 8.5 gets released today, here&#39;s what&#39;s new](https://stitcher.io/blog/new-in-php-85)
-- [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
-- [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
