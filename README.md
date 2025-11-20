@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [40 years ago, Calvin and Hobbes&#39; raucous adventures burst onto the comics page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
+- [Students fight back over course taught by AI](https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence)
+- [Red Alert 2 in web browser](https://chronodivide.com/)
+- [40 years ago, Calvin and Hobbes&#39; burst onto the page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
 - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 - [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
-- [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
-- [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
