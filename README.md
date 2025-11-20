@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-- [CornHub](https://cornhub.website/)
 - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
 - [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
+- [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
