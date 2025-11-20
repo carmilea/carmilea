@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
+- [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
+- [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
+- [Judgement on Dr Matthew Garrett &lpar;@mjg59&rpar; vs. Dr Roy Schestowitz &lpar;Techrights.org&rpar;](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063)
 - [Students fight back over course taught by AI](https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence)
-- [Red Alert 2 in web browser](https://chronodivide.com/)
-- [40 years ago, Calvin and Hobbes&#39; burst onto the page](https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem)
-- [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
-- [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
