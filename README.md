@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHut – Programming Languages and GitHub](https://githut.info/)
+- [France is taking state actions against GrapheneOS](https://grapheneos.social/@GrapheneOS/115584160910016309)
+- [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
 - [ArkA – A minimal open video protocol &lpar;first MVP demo&rpar;](https://baconpantsuppercut.github.io/arkA/)
 - [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 - [Run Docker containers natively in Proxmox 9.1 &lpar;OCI images&rpar;](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
-- [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
