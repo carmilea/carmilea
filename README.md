@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Coast Guard will no longer classify swastikas, nooses as hate symbols](https://www.washingtonpost.com/national-security/2025/11/20/coast-guard-swastika-noose/)
+- [Run Docker containers natively in Proxmox 9.1 &lpar;OCI images&rpar;](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
+- [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
+- [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
 - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
-- [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
-- [Mozilla Says It&#39;s Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-- [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
-- [The Lions Operating System](https://lionsos.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
