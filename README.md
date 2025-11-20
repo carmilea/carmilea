@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
+- [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
+- [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
+- [Mozilla Says It&#39;s Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+- [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 - [The Lions Operating System](https://lionsos.org)
-- [Microsoft makes Zork open-source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
-- [Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693)
-- [Launch HN: Poly &lpar;YC S22&rpar; – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
