@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Coast Guard will no longer classify swastikas, nooses as hate symbols](https://www.washingtonpost.com/national-security/2025/11/20/coast-guard-swastika-noose/)
+- [GitHut – Programming Languages and GitHub](https://githut.info/)
+- [ArkA – A minimal open video protocol &lpar;first MVP demo&rpar;](https://baconpantsuppercut.github.io/arkA/)
+- [New Glenn Update – Blue Origin](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 - [Run Docker containers natively in Proxmox 9.1 &lpar;OCI images&rpar;](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
 - [Introducing Kagi Assistants](https://blog.kagi.com/kagi-assistants)
-- [We are replacing OOP with something worse](https://blog.jsbarretto.com/post/actors)
-- [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
