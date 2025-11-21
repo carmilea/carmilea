@@ -61,8 +61,8 @@
 - [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
-- [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
 - [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
+- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
