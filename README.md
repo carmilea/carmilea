@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [While Eyes Are on Takaichi, Taiwan&#39;s Lai Is Quietly Redefining the Status Quo](https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans)
 - [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 - [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
-- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
