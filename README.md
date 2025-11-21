@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
-- [EXIF orientation info in PNGs isn&#39;t used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+- [EXIF orientation info in PNGs isn&#39;t used for image-orientation: from-image](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
 - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
-- [Roundtable &lpar;YC S23&rpar; Is Hiring Two Sales Development Representatives &lpar;SDRs&rpar;](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
-- [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
+- [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
