@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [It&#39;s Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+- [The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/)
 - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 - [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
-- [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
