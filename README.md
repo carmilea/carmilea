@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brexit Hit to UK Economy Double Official Estimate, Study Finds](https://www.bloomberg.com/news/articles/2025-11-21/brexit-hit-to-uk-economy-double-official-estimate-study-finds)
 - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 - [Roundtable &lpar;YC S23&rpar; Is Hiring Two Sales Development Representatives &lpar;SDRs&rpar;](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 - [HP and Dell disable HEVC support built into their laptops&#39; CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
-- [It&#39;s hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
