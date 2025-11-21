@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Remain Alive Also in a Dead Internet](https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954)
+- [We remember the internet bubble. This mania looks and feels the same](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/)
 - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
-- [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
-- [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
-- [Pivot Robotics &lpar;YC W24&rpar; Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
+- [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
