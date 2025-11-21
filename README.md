@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
-- [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
-- [EXIF orientation info in PNGs isn&#39;t used for image-orientation: from-image](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
-- [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
-- [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
+- [Pivot Robotics &lpar;YC W24&rpar; Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
+- [Private Equity&#39;s New Venture: Youth Sports](https://jacobin.com/2025/11/youth-sports-hockey-private-equity)
+- [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
+- [Command Lines – AI Coding&#39;s Control Spectrum](https://www.wreflection.com/p/command-lines-ai-coding)
+- [The New AI Consciousness Paper – By Scott Alexander](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
