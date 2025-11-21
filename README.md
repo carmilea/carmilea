@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
 - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
 - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
-- [FizzBuzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
-- [How Cops Are Using Flock&#39;s ALPR Network to Surveil Protesters and Activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)
+- [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 - [Pivot Robotics &lpar;YC W24&rpar; Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
 <!-- BLOG-POST-LIST:END -->
 
