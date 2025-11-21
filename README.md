@@ -62,7 +62,7 @@
 - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 - [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
-- [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
+- [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
