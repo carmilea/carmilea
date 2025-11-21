@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany: States Pass Porn Filters for Operating Systems](https://www.heise.de/en/news/Youth-Protection-States-Pass-Porn-Filters-for-Operating-Systems-11086768.html)
+- [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
+- [HP and Dell disable HEVC support built into their laptops&#39; CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
 - [It&#39;s Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 - [The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/)
-- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
-- [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
-- [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
