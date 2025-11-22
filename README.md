@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+- [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
+- [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
+- [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
 - [The Go-Between](https://theamericanscholar.org/the-go-between/)
-- [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
-- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
-- [China reaches energy milestone by &quot;breeding&quot; uranium from thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
