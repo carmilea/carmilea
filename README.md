@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pentagon Can&#39;t Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
+- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
+- [Our babies were taken after &#39;biased&#39; parenting test](https://www.bbc.co.uk/news/articles/c1wlw2qj113o)
+- [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
+- [New Apple Study Shows LLMs Can Tell What You&#39;re Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)
 - [&#39;The French people want to save us&#39;: help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
-- [A looming &#39;insect apocalypse&#39; could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
-- [ADHD and monotropism &lpar;2023&rpar;](https://monotropism.org/adhd/)
-- [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
