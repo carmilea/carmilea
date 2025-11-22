@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pentagon Can&#39;t Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
+- [&#39;The French people want to save us&#39;: help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
 - [A looming &#39;insect apocalypse&#39; could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
 - [ADHD and monotropism &lpar;2023&rpar;](https://monotropism.org/adhd/)
 - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
-- [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
-- [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
