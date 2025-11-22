@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ADHD and Monotropism &lpar;2023&rpar;](https://monotropism.org/adhd/)
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+- [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
 - [Jack Ma&#39;s family shifted wealth to UK after years-long &#39;disappearance&#39;](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
-- [Roblox CEO Makes a Fool of Himself in Car-Crash Interview](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
-- [Superman copy found in mum&#39;s attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
-- [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
-- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
+- [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
