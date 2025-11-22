@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+- [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
 - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
 - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
-- [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)
-- [The Go-Between](https://theamericanscholar.org/the-go-between/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
