@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
+- [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
 - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
-- [LAPD Helicopter Tracker with Real-Time Operating Costs](https://lapdhelicoptertracker.com/)
-- [The Untold History of Arduino](https://arduinohistory.github.io/)
-- [The senior population is booming. Caregiving is struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
