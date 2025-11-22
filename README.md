@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Ma&#39;s family shifted wealth to UK after years-long &#39;disappearance&#39;](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
+- [Roblox CEO Makes a Fool of Himself in Car-Crash Interview](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
 - [Superman copy found in mum&#39;s attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
-- [How I learned Vulkan and wrote a small game engine with it &lpar;2024&rpar;](https://edw.is/learning-vulkan/)
-- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
