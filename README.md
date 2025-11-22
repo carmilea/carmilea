@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Go-Between](https://theamericanscholar.org/the-go-between/)
+- [The Censorship Network: Regulation and Repression in Germany Today](https://liber-net.org/germany/)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 - [Depot &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
-- [China Reaches Energy Milestone by &quot;Breeding&quot; Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
-- [Gwern&#39;s &quot;Stem Humor&quot; Directory](https://gwern.net/doc/math/humor/index)
-- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
-- [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
+- [China reaches energy milestone by &quot;breeding&quot; uranium from thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
