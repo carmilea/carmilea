@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [ADHD and Monotropism &lpar;2023&rpar;](https://monotropism.org/adhd/)
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+- [Why DETRs are replacing YOLOs for real-time object detection](https://blog.datameister.ai/detection-transformers-real-time-object-detection)
 - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
-- [Jack Ma&#39;s family shifted wealth to UK after years-long &#39;disappearance&#39;](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
-- [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
+- [Superman copy found in attic is most valuable comic ever](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
