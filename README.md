@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a deep-space logistics startup](https://ionmicrosys.com/)
 - [Superman copy found in mum&#39;s attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
 - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
+- [How I learned Vulkan and wrote a small game engine with it &lpar;2024&rpar;](https://edw.is/learning-vulkan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
