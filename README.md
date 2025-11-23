@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maybe that&#39;s not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
+- [X.com Is Gonna Snitch You Out to the Public If You Use a VPN](https://www.vice.com/en/article/x-show-vpn-warning/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Signal knows who you&#39;re talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
 - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-- [Unusual circuits in the Intel 386&#39;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
