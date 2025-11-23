@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+- [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
+- [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/)
 - [HumanLayer &lpar;YC F24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
-- [Dark Mode Sucks](https://www.tomechangosubanana.com/2025/dark-mode-sucks/)
 - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
-- [Raycast for Windows Is Here](https://www.raycast.com/blog/raycast-for-windows)
-- [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
