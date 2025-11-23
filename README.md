@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inmates at a Mississippi jail were ordered to do the guards&#39; bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
-- [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
-- [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
-- [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
-- [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
+- [HumanLayer &lpar;YC F24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
+- [Dark Mode Sucks](https://www.tomechangosubanana.com/2025/dark-mode-sucks/)
+- [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
+- [Raycast for Windows Is Here](https://www.raycast.com/blog/raycast-for-windows)
+- [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
