@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-- [A cryptography research body held an election and they can&#39;t decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 - [Unusual circuits in the Intel 386&#39;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
+- [MCP Apps just dropped &lpar;OpenAI and Anthropic collab&rpar; and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
 - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 <!-- BLOG-POST-LIST:END -->
