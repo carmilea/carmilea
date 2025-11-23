@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inmates at a Mississippi jail were ordered to do the guards&#39; bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
+- [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
+- [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
 - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
 - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
-- [Claude Code Is Down](https://status.claude.com/incidents/538r2y9cjmhk)
-- [Maybe that&#39;s not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
-- [Shaders: How to draw high fidelity graphics with just x and y coordinates](https://www.makingsoftware.com/chapters/shaders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
