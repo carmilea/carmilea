@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cryptographers Held an Election. They Can&#39;t Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 - [Unusual circuits in the Intel 386&#39;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 - [Meta buried &#39;causal&#39; evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
-- [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
