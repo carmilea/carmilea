@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
 - [Unusual circuits in the Intel 386&#39;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 - [MCP Apps just dropped &lpar;OpenAI and Anthropic collab&rpar; and I think this is huge](http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/)
 - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
-- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
 <!-- BLOG-POST-LIST:END -->
 
 ---
