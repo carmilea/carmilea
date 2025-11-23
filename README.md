@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demand for UK Food Bank Up 15% Year on Year](https://www.theguardian.com/society/2025/nov/23/food-banks-demand-prices-frontline-cost-of-living-crisis)
 - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
+- [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
 - [Claude Code Is Down](https://status.claude.com/incidents/538r2y9cjmhk)
 - [Maybe that&#39;s not liquid water on Mars after all](https://phys.org/news/2025-11-liquid-mars.html)
 - [Shaders: How to draw high fidelity graphics with just x and y coordinates](https://www.makingsoftware.com/chapters/shaders)
