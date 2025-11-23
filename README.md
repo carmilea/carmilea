@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Good engineering management&quot; is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
-- [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/)
-- [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
-- [Apple to focus on &#39;quality and underlying performance&#39; with iOS 27 next year](https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/)
-- [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+- [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
+- [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
+- [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
+- [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
