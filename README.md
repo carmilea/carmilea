@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptographers Held an Election. They Can&#39;t Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
+- [A cryptography research body held an election and they can&#39;t decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 - [Unusual circuits in the Intel 386&#39;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 - [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
