@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
+- [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
 - [Corvus Robotics &lpar;YC S18&rpar;: Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
 - [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
-- [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
-- [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414)
-- [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
+- [A New Raspberry Pi Imager](https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
