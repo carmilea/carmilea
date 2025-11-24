@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git 3.0 will use main as the default branch](https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch)
-- [The Feds Want to Make It Illegal to Even Possess an Anarchist Zine](https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/)
+- [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
 - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+- [Japan&#39;s gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
