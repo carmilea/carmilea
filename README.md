@@ -61,8 +61,8 @@
 - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
 - [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
-- [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
 - [Ask HN: Hearing aid wearers, what&#39;s hot?](https://news.ycombinator.com/item?id=46029699)
+- [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
