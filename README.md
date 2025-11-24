@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Invisible&#39; microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
-- [Doge &#39;doesn&#39;t exist&#39; with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)
-- [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)
-- [X&#39;s new country-of-origin feature reveals many &#39;US&#39; accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
-- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+- [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+- [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
+- [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
+- [Ask HN: Hearing aid wearers, what&#39;s hot?](https://news.ycombinator.com/item?id=46029699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
