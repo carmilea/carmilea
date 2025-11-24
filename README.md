@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
-- [Andrej Karpathy on X: implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038)
-- [Corvus Robotics &lpar;YC S18&rpar;: Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
-- [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
-- [A New Raspberry Pi Imager](https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/)
+- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+- [Google&#39;s new &#39;Aluminium OS&#39; project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
+- [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
+- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
