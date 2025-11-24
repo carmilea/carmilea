@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
-- [A One-Minute ADHD Test](https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330)
 - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
 - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+- [Japan&#39;s gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
