@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booking.com cancels $4K hotel reservation, offers same rooms again for $17K](https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480)
 - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
 - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 - [Bureau of Meteorology&#39;s new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
-- [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
-- [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
+- [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
