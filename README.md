@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X Just Accidentally Exposed a Covert Influence Network Targeting Americans](https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast)
+- [Corvus Robotics &lpar;YC S18&rpar;: Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
+- [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://mamot.fr/@LaQuadrature/115581775965025042)
+- [Britain is one of the richest countries. So why do children live in poverty?](https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli)
+- [France threatens GrapheneOS with arrests / server seizure for refusing backdoors](https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414)
 - [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
-- [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
-- [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
-- [Bureau of Meteorology&#39;s new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
