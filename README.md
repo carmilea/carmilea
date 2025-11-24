@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.](https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html)
-- [Bureau of Meteorology asked to examine $96.5M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
+- [Bureau of Meteorology&#39;s new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
 - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
