@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Invisible&#39; microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
+- [Doge &#39;doesn&#39;t exist&#39; with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)
+- [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)
+- [X&#39;s new country-of-origin feature reveals many &#39;US&#39; accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
 - [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
-- [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
-- [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
-- [Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
-- [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
