@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ZoomInfo CEO Blocks Researcher After Documenting Pre-Consent Biometric Tracking](https://github.com/clark-prog/blackout-public)
-- [How to repurpose your old phone&#39;s GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)
+- [Google steers Americans looking for health care into &quot;junk insurance&quot;](https://pluralistic.net/2025/11/25/open-season/)
+- [Stop Putting Your Passwords into Random Websites &lpar;Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
+- [ZoomInfo CEO blocks researcher after documenting pre-consent biometric tracking](https://github.com/clark-prog/blackout-public)
+- [This blog is now hosted on a GPS/LTE modem &lpar;2021&rpar;](https://blog.nns.ee/2021/04/01/modem-blog)
 - [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
-- [Unison 1.0](https://www.unison-lang.org/unison-1-0/)
-- [Bad UX World Cup 2025](https://badux.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
