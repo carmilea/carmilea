@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain has five &#39;eras&#39; – with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
+- [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
+- [Launch HN: Onyx &lpar;YC W24&rpar; – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
+- [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
+- [Brain has five &#39;eras&#39; with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
 - [Making Crash Bandicoot &lpar;2011&rpar;](https://all-things-andy-gavin.com/video-games/making-crash/)
-- [Most Stable Raspberry Pi? Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
-- [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
-- [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
