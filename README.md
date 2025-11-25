@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
+- [Bad UX World Cup 2025](https://badux.lol/)
+- [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 - [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
 - [It is ok to say &quot;CSS variables&quot; instead of &quot;custom properties&quot;](https://blog.kizu.dev/css-variables/)
-- [Python is not a great language for data science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
-- [Ozempic does not slow Alzheimer&#39;s, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
-- [Orion 1.0](https://blog.kagi.com/orion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
