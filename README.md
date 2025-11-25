@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICE Offers Up to $280M to Immigrant-Tracking &#39;Bounty Hunter&#39; Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)
+- [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
+- [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
 - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
 - [Bad UX World Cup 2025](https://badux.lol/)
-- [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
-- [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
-- [It is ok to say &quot;CSS variables&quot; instead of &quot;custom properties&quot;](https://blog.kizu.dev/css-variables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
