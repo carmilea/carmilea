@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)
+- [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
+- [Roblox is a problem – but it&#39;s a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
+- [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 - [Launch HN: Onyx &lpar;YC W24&rpar; – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
 - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
-- [Brain has five &#39;eras&#39; with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
-- [Making Crash Bandicoot &lpar;2011&rpar;](https://all-things-andy-gavin.com/video-games/making-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
