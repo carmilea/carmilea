@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ozempic does not slow Alzheimer&#39;s, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 - [Orion 1.0 – Browse Beyond](https://blog.kagi.com/orion)
-- [Roblox is a problem – but it&#39;s a symptom of something worse](https://www.platformer.news/roblox-ceo-interview-backlash-analysis/)
 - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 - [Launch HN: Onyx &lpar;YC W24&rpar; – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
 - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
