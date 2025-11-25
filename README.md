@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
+- [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)
+- [Why I &lpar;Still&rpar; Love Linux ?](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
 - [Windows GUI – Good, Bad and Pretty Ugly &lpar;2023&rpar;](https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/)
 - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
-- [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
-- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
