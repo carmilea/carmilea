@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE Offers Up to $280M to Immigrant-Tracking &#39;Bounty Hunter&#39; Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)
+- [How to repurpose your old phone&#39;s GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)
+- [A New Bridge Links the Math of Infinity to Computer Science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
 - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
 - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
-- [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
 - [Bad UX World Cup 2025](https://badux.lol/)
 <!-- BLOG-POST-LIST:END -->
 
