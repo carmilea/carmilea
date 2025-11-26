@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slashdot Effect](https://en.wikipedia.org/wiki/Slashdot_effect)
+- [KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support](https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive)
+- [MIT study finds AI can replace 11.7% of U.S. workforce](https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html)
 - [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
-- [A National Mission to Accelerate Science Through Artificial Intelligence](https://energy.gov/genesis)
-- [There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)
-- [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
-- [I DM&#39;d a Korean Presidential Candidate and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
+- [Justice dept. requires Realpage end sharing competitively sensitive information](https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
