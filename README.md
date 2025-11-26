@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
 - [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
 - [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
 - [S&amp;box is now an open source game engine](https://sbox.game/news/update-25-11-26)
-- [API that auto-routes to the cheapest AI provider &lpar;OpenAI/Anthropic/Gemini&rpar;](https://tokensaver.org/)
 - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
 <!-- BLOG-POST-LIST:END -->
 
