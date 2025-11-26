@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google steers Americans looking for health care into &quot;junk insurance&quot;](https://pluralistic.net/2025/11/25/open-season/)
-- [Stop Putting Your Passwords into Random Websites &lpar;Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
-- [ZoomInfo CEO blocks researcher after documenting pre-consent biometric tracking](https://github.com/clark-prog/blackout-public)
-- [This blog is now hosted on a GPS/LTE modem &lpar;2021&rpar;](https://blog.nns.ee/2021/04/01/modem-blog)
-- [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
+- [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
+- [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
+- [What Now? Handling Errors in Large Systems](https://brooker.co.za/blog/2025/11/20/what-now)
+- [The gruesome new data on tech jobs](https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11)
+- [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
