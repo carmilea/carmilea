@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The myth of reflected power &lpar;2017&rpar;](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
 - [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
 - [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
+- [Design Follows Data Structures](https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html)
 - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 <!-- BLOG-POST-LIST:END -->
 
