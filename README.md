@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
+- [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
 - [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 - [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
-- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
 <!-- BLOG-POST-LIST:END -->
 
