@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
 - [Await Is Not a Context Switch: Understanding Python&#39;s Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)
-- [I don&#39;t care how well your &quot;AI&quot; works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
+- [A Cell So Minimal That It Challenges Definitions of Life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 - [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
-- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
