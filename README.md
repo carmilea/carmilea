@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I DM&#39;d a Korean Presidential Candidate and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
+- [Indie game developers have a new sales pitch: being &#39;AI free&#39;](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
 - [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
+- [Qiskit open-source SDK for working with quantum computers](https://github.com/Qiskit/qiskit)
 - [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
-- [A Cell So Minimal That It Challenges Definitions of Life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
-- [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
-- [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
