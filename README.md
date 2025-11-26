@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI needs to raise at least $207B by 2030 so it can continue to lose money](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad)
+- [A National Mission to Accelerate Science Through Artificial Intelligence](https://energy.gov/genesis)
+- [There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)
+- [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 - [I DM&#39;d a Korean Presidential Candidate and Ended Up Building His Core Campaign](https://medium.com/@wjsdj2008/i-dmd-a-korean-presidential-candidate-and-ended-up-building-his-core-campaign-platform-the-38eb1c5f5e7d)
-- [Indie game developers have a new sales pitch: being &#39;AI free&#39;](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
-- [Kagi Hub Belgrade](https://blog.kagi.com/kagi-hub)
-- [Qiskit open-source SDK for working with quantum computers](https://github.com/Qiskit/qiskit)
-- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
