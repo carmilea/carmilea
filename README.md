@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU approves Chat Control policy](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
+- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+- [Bring Back Doors – Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
+- [EU Council approves Chat Control mandate for negotiation with Parliament](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
 - [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
 - [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)
-- [S&amp;box is now an open source game engine](https://sbox.game/news/update-25-11-26)
-- [Don&#39;t Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
