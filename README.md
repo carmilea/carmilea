@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
+- [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
+- [S&amp;box is now an open source game engine](https://sbox.game/news/update-25-11-26)
+- [API that auto-routes to the cheapest AI provider &lpar;OpenAI/Anthropic/Gemini&rpar;](https://tokensaver.org/)
 - [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
-- [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
-- [Scaleway turns Mac Minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/)
-- [DRAM prices are spiking, but I don&#39;t trust the industry&#39;s why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
-- [Optery &lpar;YC W22&rpar; Hiring CISO, Release Manager, Tech Lead &lpar;Node&rpar;, Full Stack Eng](https://www.optery.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
