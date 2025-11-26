@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
+- [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
+- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
-- [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
-- [What Now? Handling Errors in Large Systems](https://brooker.co.za/blog/2025/11/20/what-now)
-- [The gruesome new data on tech jobs](https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11)
-- [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
