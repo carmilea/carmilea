@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Await Is Not a Context Switch: Understanding Python&#39;s Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)
+- [I don&#39;t care how well your &quot;AI&quot; works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
 - [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936)
 - [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
-- [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
-- [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
