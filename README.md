@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS Firewalling with MISP and Technitium DNS Server](https://zaferbalkan.com/technitium-misp/)
+- [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
+- [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
+- [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 - [Last Issue of &quot;ECMAScript News&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
-- [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
-- [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
-- [Evaluating Uniform Memory Access Mode on AMD&#39;s Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
-- [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
