@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace your boss before they replace you](https://replaceyourboss.ai/)
-- [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
-- [Seagate achieves 6.9TB storage capacity per platter](https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possible)
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
+- [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
+- [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
 - [Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/)
 - [The VanDersarl Blériot: a 1911 airplane homebuilt by teenage brothers](https://www.historynet.com/vandersarl-bleriot/)
 <!-- BLOG-POST-LIST:END -->
