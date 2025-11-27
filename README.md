@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Whole-home VPN router with hardware kill switch &lpar;OpenWrt and WireGuard&rpar;](https://github.com/yoloshii/privacy-first-network)
+- [250MWh &#39;Sand Battery&#39; to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
+- [FileZilla Pro &quot;Perpetual License&quot; – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
 - [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
 - [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
-- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
-- [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
-- [The input stack on Linux: An end-to-end architecture overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
