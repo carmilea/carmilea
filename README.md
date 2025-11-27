@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
+- [Seagate achieves 6.9TB storage capacity per platter](https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possible)
+- [Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/)
+- [The VanDersarl Blériot: a 1911 airplane homebuilt by teenage brothers](https://www.historynet.com/vandersarl-bleriot/)
 - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
-- [Protect Public School Students from Surveillance of Off-Campus Speech](https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and)
-- [We&#39;re Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
-- [Show HN: SyncKit – Offline-first sync engine &lpar;Rust/WASM and TypeScript&rpar;](https://github.com/Dancode-188/synckit)
-- [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
