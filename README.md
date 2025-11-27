@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coq: The World&#39;s Best Macro Assembler? [pdf]](https://nickbenton.name/coqasm.pdf)
 - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
-- [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
 - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+- [Functional Data Structures and Algorithms: a Proof Assistant Approach](https://fdsa-book.net/)
 - [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
-- [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 <!-- BLOG-POST-LIST:END -->
 
 ---
