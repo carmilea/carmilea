@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Superpowers You Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view)
-- [How Arthur Conan Doyle Explored Men&#39;s Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
-- [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
-- [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
-- [Last Issue of &quot;ECMAScript News&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
+- [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
+- [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
+- [Arthur Conan Doyle explored men’s mental health through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
+- [Ray Marching Soft Shadows in 2D &lpar;2020&rpar;](https://www.rykap.com/2020/09/23/distance-fields/)
+- [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
