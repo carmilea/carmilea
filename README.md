@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Arthur Conan Doyle Explored Men&#39;s Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
 - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
+- [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
 - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 - [Last Issue of &quot;ECMAScript News&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
-- [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
-- [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
