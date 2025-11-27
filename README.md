@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Last Issue of &quot;ECMAScript News&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
+- [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
+- [Evaluating Uniform Memory Access Mode on AMD&#39;s Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
 - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
-- [Coq: The World&#39;s Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf)
-- [Show HN: MakeSkill – The Intelligent Skill Builder for Claude](https://makeskill.cc)
-- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
