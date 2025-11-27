@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+- [The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade](https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade)
+- [AdBlock and Signal are for terrorists, according to French govt &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
+- [Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
 - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
-- [Bring Back Doors – Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
-- [EU Council approves Chat Control mandate for negotiation with Parliament](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats)
-- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
-- [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
