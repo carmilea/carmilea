@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coq: The World&#39;s Best Macro Assembler? [pdf]](https://nickbenton.name/coqasm.pdf)
+- [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
+- [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
+- [Coq: The World&#39;s Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf)
+- [Show HN: MakeSkill – The Intelligent Skill Builder for Claude](https://makeskill.cc)
 - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
-- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
-- [Functional Data Structures and Algorithms: a Proof Assistant Approach](https://fdsa-book.net/)
-- [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
