@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto investors face tax crackdown as 70% non-compliant](https://www.thepost.co.nz/business/360897298/crypto-investors-face-tax-crackdown-70-non-compliant)
+- [Don&#39;t be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)
+- [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
+- [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
+- [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
 - [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
-- [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
-- [Arthur Conan Doyle explored men’s mental health through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
-- [Ray Marching Soft Shadows in 2D &lpar;2020&rpar;](https://www.rykap.com/2020/09/23/distance-fields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
