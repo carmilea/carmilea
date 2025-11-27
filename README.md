@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)
+- [Face transplants promised hope. Patients were put through the unthinkable](https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes)
+- [We&#39;re Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
 - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
-- [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference)
 - [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
 - [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
 <!-- BLOG-POST-LIST:END -->
