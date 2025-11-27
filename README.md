@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
 - [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
-- [Cherry gives up German production and wants to sell core division](https://www.heise.de/en/news/Cherry-gives-up-German-production-and-wants-to-sell-core-division-11092713.html)
+- [The input stack on Linux: An end-to-end architecture overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 - [Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/)
-- [The VanDersarl Blériot: a 1911 airplane homebuilt by teenage brothers](https://www.historynet.com/vandersarl-bleriot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
