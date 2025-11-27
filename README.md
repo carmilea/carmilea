@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Face transplants promised hope. Patients were put through the unthinkable](https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes)
+- [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
+- [Protect Public School Students from Surveillance of Off-Campus Speech](https://www.eff.org/deeplinks/2025/11/eff-arizona-federal-court-protect-public-school-students-surveillance-and)
 - [We&#39;re Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
+- [Show HN: SyncKit – Offline-first sync engine &lpar;Rust/WASM and TypeScript&rpar;](https://github.com/Dancode-188/synckit)
 - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
-- [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
-- [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
