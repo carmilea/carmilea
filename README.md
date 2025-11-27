@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 - [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
-- [The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade](https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade)
-- [AdBlock and Signal are for terrorists, according to French govt &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
-- [Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
-- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+- [bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
+- [DSP 101 Part 1: An Introductory Course in DSP System Design](https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
