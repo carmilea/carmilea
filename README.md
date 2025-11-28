@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Whole-home VPN router with hardware kill switch &lpar;OpenWrt and WireGuard&rpar;](https://github.com/yoloshii/privacy-first-network)
+- [How Charles M Schulz created Charlie Brown and Snoopy &lpar;2024&rpar;](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
+- [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
+- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
 - [250MWh &#39;Sand Battery&#39; to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
-- [FileZilla Pro &quot;Perpetual License&quot; – A Warning to All Users](https://github.com/x011/FileZilla-Pro-Download)
-- [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
-- [LinkedIn is loud, and corporate is hell](https://ramones.dev/posts/linkedin-is-loud/)
+- [A programmer-friendly I/O abstraction over io_uring and kqueue &lpar;2022&rpar;](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
