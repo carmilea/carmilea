@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
 - [China&#39;s BEV Trucks and the End of Diesel&#39;s Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
-- [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act)
 - [How Charles M Schulz created Charlie Brown and Snoopy &lpar;2024&rpar;](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
 - [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
 - [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
