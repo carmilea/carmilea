@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
-- [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
-- [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)
-- [Stellantis Is Spamming Owners&#39; Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
-- [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
+- [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
+- [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=46081063)
+- [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
+- [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html)
+- [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
