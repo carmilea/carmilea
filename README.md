@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
+- [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
+- [GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties](https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets)
 - [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
 - [China&#39;s BEV Trucks and the End of Diesel&#39;s Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
-- [How Charles M Schulz created Charlie Brown and Snoopy &lpar;2024&rpar;](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
-- [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
-- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
