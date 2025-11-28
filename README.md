@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
+- [Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
 - [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
-- [GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties](https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets)
 - [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
-- [China&#39;s BEV Trucks and the End of Diesel&#39;s Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
