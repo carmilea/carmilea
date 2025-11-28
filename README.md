@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
-- [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
-- [A trillion dollars &lpar;potentially&rpar; wasted on gen-AI](https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible)
-- [A Remarkable Assertion from A16Z](https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z)
-- [The mysterious black fungus from Chernobyl that may eat radiation](https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation)
+- [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
+- [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
+- [Looking Back at a Pandemic Simulator](https://www.raphkoster.com/2025/11/16/looking-back-at-a-pandemic-simulator/)
+- [Open-Source Nouveau+NVK vs. Nvidia 580 Linux Gaming&amp;Compute Driver Performance](https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26)
+- [Don&#39;t tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 <!-- BLOG-POST-LIST:END -->
 
 ---
