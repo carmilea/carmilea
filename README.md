@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+- [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
+- [How wealth dies](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/)
 - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
-- [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=46081063)
 - [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
-- [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html)
-- [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
