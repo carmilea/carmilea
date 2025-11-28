@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
-- [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
-- [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
+- [Beads – A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
+- [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
