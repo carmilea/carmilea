@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/)
-- [Meta hiding $27B in debt using advanced geometry](https://stohl.substack.com/p/exclusive-credit-report-shows-meta)
-- [Looking Back at a Pandemic Simulator](https://www.raphkoster.com/2025/11/16/looking-back-at-a-pandemic-simulator/)
-- [Open-Source Nouveau+NVK vs. Nvidia 580 Linux Gaming&amp;Compute Driver Performance](https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26)
-- [Don&#39;t tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
+- [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
+- [Apple and Intel Rumored to Partner on Mac Chips](https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/)
+- [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)
+- [Stellantis Is Spamming Owners&#39; Screens with Pop-Up Ads for New Car Discounts](https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts)
+- [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
