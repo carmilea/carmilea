@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Council Approves New &quot;Chat Control&quot; Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)
+- [A Repository with 44 Years of Unix Evolution](https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html)
 - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
-- [Beads – A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
-- [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
