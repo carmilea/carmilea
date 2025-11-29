@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
+- [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
+- [DNS LOC Record &lpar;2014&rpar;](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
-- [How ICE is becoming a secret police force](https://theconversation.com/how-ice-is-becoming-a-secret-police-force-under-the-trump-administration-255019)
-- [Show HN: I built Magiclip – an all-in-one AI studio](https://magiclip.io/)
-- [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
-- [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
+- [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
