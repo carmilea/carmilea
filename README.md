@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;S&amp;P 493&#39; reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
+- [Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)
 - [Every mathematician has only a few tricks &lpar;2020&rpar;](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-- [Fabric Project](https://github.com/Fabric-Project/Fabric)
-- [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
