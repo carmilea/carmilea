@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
+- [Fabric Project](https://github.com/Fabric-Project/Fabric)
 - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
-- [A Tale of Two AI Failures: Debugging a Simple Bug with LLMs](https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/)
 - [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
 - [A first look at Django&#39;s new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
-- [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
 <!-- BLOG-POST-LIST:END -->
 
 ---
