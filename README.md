@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI RFP for tool to scrape Gab, Parler, 8Kun, and Telegram &lpar;5k licenses&rpar; [pdf]](https://vault.fbi.gov/contract-15f06722c0000258)
+- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini&#39;s Nano Banana](https://github.com/gavrielc/Nano-PDF)
+- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [The Origins of Scala &lpar;2009&rpar;](https://www.artima.com/articles/the-origins-of-scala)
+- [Learning Feynman&#39;s Trick for Integrals](https://zackyzz.github.io/feynman.html)
 - [Be Like Clippy](https://be-clippy.com/)
-- [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
-- [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
-- [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
