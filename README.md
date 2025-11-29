@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
+- [Europe&#39;s New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
 - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini&#39;s Nano Banana](https://github.com/gavrielc/Nano-PDF)
+- [Joe Armstrong interviews Alan Kay &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=fhOHn9TClXY)
 - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
-- [The Origins of Scala &lpar;2009&rpar;](https://www.artima.com/articles/the-origins-of-scala)
-- [Learning Feynman&#39;s Trick for Integrals](https://zackyzz.github.io/feynman.html)
-- [Be Like Clippy](https://be-clippy.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
