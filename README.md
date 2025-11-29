@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Update on the Farphone&#39;s Battery](https://far.computer/battery-update/)
-- [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
-- [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
-- [OCaml maintainers reject massive AI-generated pull request](https://devclass.com/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/)
-- [AccessOwl &lpar;YC S22&rpar; Is Hiring a Technical Account Manager &lpar;IAM&rpar;](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
+- [FBI RFP for tool to scrape Gab, Parler, 8Kun, and Telegram &lpar;5k licenses&rpar; [pdf]](https://vault.fbi.gov/contract-15f06722c0000258)
+- [Be Like Clippy](https://be-clippy.com/)
+- [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
+- [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
+- [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
