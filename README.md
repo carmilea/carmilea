@@ -61,8 +61,8 @@
 - [DMT-induced shifts in criticality correlate with self-dissolution](https://www.jneurosci.org/content/early/2025/10/24/JNEUROSCI.0344-25.2025)
 - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
 - [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/)
-- [High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
-- [I Know We&#39;re in an AI Bubble Because Nobody Wants Me](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/)
+- [High air pollution could diminish exercise benefits by half – study](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
+- [The undeserved status of the pigeon-hole principle &lpar;EWD 1094&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1094.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
