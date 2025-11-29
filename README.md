@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
+- [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
+- [Iceland declares ocean-current instability a national security risk](https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk)
 - [It&#39;s Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
-- [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 - [DNS LOC Record &lpar;2014&rpar;](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
-- [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
-- [Chainalysis Successful Deanonymization Attack on Monero](https://darkwebinformer.com/chainalysis-successful-deanonymization-attack-on-monero-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
