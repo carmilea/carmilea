@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
+- [AccessOwl &lpar;YC S22&rpar; Is Hiring a Technical Account Manager &lpar;IAM&rpar;](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
+- [Testing Shows Automotive Glassbreakers Can&#39;t Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)
 - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
 - [Iceland declares ocean-current instability a national security risk](https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk)
 - [It&#39;s Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
-- [DNS LOC Record &lpar;2014&rpar;](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
