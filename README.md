@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
-- [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
+- [Every mathematician has only a few tricks &lpar;2020&rpar;](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
 - [Fabric Project](https://github.com/Fabric-Project/Fabric)
 - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
