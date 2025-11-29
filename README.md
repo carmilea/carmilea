@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An Update on the Farphone&#39;s Battery](https://far.computer/battery-update/)
+- [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 - [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
+- [OCaml maintainers reject massive AI-generated pull request](https://devclass.com/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/)
 - [AccessOwl &lpar;YC S22&rpar; Is Hiring a Technical Account Manager &lpar;IAM&rpar;](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management)
-- [We&#39;re learning more about what Vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/)
-- [Testing Shows Automotive Glassbreakers Can&#39;t Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
