@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+- [Ty](https://docs.astral.sh/ty/)
 - [Stackoverflow Outage](https://www.stackstatus.net/)
 - [&quot;Boobs check&quot; – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 - [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
-- [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% &lpar;2022&rpar;](https://arxiv.org/abs/2211.12588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
