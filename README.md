@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
+- [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
+- [Modern cars are spying on you. Here&#39;s what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
+- [Atlas Shrugged](https://david-jasso.com/2024/04/11/atlas-shrugged/)
 - [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
-- [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
 - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
-- [Don&#39;t throw away your old PC–it makes a better NAS than anything you can buy](https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
