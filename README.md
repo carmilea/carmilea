@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Boing](https://boing.greg.technology/)
 - [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
 - [Meshtastic](https://meshtastic.org/)
 - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
-- [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
 - [Scala](https://www.huygens-fokker.org/scala/)
 <!-- BLOG-POST-LIST:END -->
 
