@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 - [Show HN: Boing](https://boing.greg.technology/)
-- [MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI](https://iceberg.mit.edu/)
 - [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
 - [Meshtastic](https://meshtastic.org/)
+- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
