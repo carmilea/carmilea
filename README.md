@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-- [Europe&#39;s New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
-- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini&#39;s Nano Banana](https://github.com/gavrielc/Nano-PDF)
-- [Joe Armstrong interviews Alan Kay &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=fhOHn9TClXY)
-- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
+- [Meshtastic](https://meshtastic.org/)
+- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
+- [Scala](https://www.huygens-fokker.org/scala/)
+- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
