@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [By my count, Linux has 11% of the desktop market. Here&#39;s how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
 - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% &lpar;2022&rpar;](https://arxiv.org/abs/2211.12588)
 - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
 - [Don&#39;t push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
 - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
-- [Writing a Good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
