@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RetailReady &lpar;YC W24&rpar; Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager)
-- [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com)
-- [Modern cars are spying on you. Here&#39;s what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
-- [Atlas Shrugged &lpar;2024&rpar;](https://david-jasso.com/2024/04/11/atlas-shrugged/)
-- [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
+- [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
+- [Don&#39;t push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+- [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+- [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
+- [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
