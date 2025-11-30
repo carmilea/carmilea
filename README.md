@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
-- [Austria&#39;s armed forces rely on LibreOffice instead of Microsoft](https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer)
+- [Silicon Valley&#39;s man in the White House is benefiting himself and his friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
+- [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
-- [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 <!-- BLOG-POST-LIST:END -->
 
