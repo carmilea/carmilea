@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
+- [Advent of Code 2025](https://adventofcode.com/2025/about)
 - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
-- [Silicon Valley&#39;s man in the White House is benefiting himself and his friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
 - [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
-- [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
