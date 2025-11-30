@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
+- [Austria&#39;s armed forces rely on LibreOffice instead of Microsoft](https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
+- [The Copenhagen Trap: How the West made passivity the only safe strategy](https://aliveness.kunnas.com/articles/copenhagen-trap)
 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
-- [Show HN: Boing](https://boing.greg.technology/)
-- [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
-- [Meshtastic](https://meshtastic.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
