@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [By my count, Linux has 11% of the desktop market. Here&#39;s how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
+- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+- [Stackoverflow Outage](https://www.stackstatus.net/)
+- [&quot;Boobs check&quot; – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
+- [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
 - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% &lpar;2022&rpar;](https://arxiv.org/abs/2211.12588)
-- [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
-- [Don&#39;t push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
-- [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
