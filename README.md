@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norway wealth fund to vote for human rights report at Microsoft, against Nadella](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html)
-- [Advent of Code 2025](https://adventofcode.com/2025/about)
-- [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
-- [The space of minds](https://karpathy.bearblog.dev/the-space-of-minds/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
+- [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
+- [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
+- [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
+- [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
+- [Don&#39;t throw away your old PC–it makes a better NAS than anything you can buy](https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
