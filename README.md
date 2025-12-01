@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
+- [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
+- [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
 - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
-- [Response to Ruby Is Not a Serious Programming Language](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
-- [Better Auth &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
-- [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
-- [Ask HN: Who is hiring? &lpar;December 2025&rpar;](https://news.ycombinator.com/item?id=46108941)
+- [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
