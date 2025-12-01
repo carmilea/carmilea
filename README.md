@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-- [Ty](https://docs.astral.sh/ty/)
-- [Stackoverflow Outage](https://www.stackstatus.net/)
-- [&quot;Boobs check&quot; – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
-- [People keep flocking to Linux, not just to escape Windows](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
+- [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
+- [Advent of Sysadmin 2025](https://sadservers.com/advent)
+- [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)
+- [Grokipedia Is the Antithesis of Wikipedia](https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/)
+- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
