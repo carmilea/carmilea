@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
+- [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
+- [How to Attend Meetings – Internal guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)
+- [Sycophancy is the first LLM &quot;dark pattern&quot;](https://www.seangoedecke.com/ai-sycophancy/)
 - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
-- [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
-- [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
