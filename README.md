@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
+- [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
+- [Accenture dubs 800k staff &#39;reinventors&#39; amid shift to AI](https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence)
 - [AWS data centers&#39; water use tied to spike in cancer and miscarriages in Oregon](https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/)
-- [KDE Plasma 6.8 Set to Drop X11 Support Completely](https://itsfoss.com/news/kde-plasma-to-drop-x11-support/)
-- [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
-- [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
-- [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
