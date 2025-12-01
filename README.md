@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Auth &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
+- [A New AI Winter Is Coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)
 - [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
 - [Ask HN: Who is hiring? &lpar;December 2025&rpar;](https://news.ycombinator.com/item?id=46108941)
-- [Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries](https://github.com/Okery/Aivition)
 - [Google *Unkills* JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
-- [Google, Nvidia, and OpenAI – Stratechery by Ben Thompson](https://stratechery.com/2025/google-nvidia-and-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
