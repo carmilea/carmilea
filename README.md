@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
-- [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
-- [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
-- [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland&#39;s Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
-- [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
+- [ImAnim: Modern animation capabilities to ImGui applications](https://github.com/soufianekhiat/ImAnim)
+- [Ask HN: Who is hiring? &lpar;December 2025&rpar;](https://news.ycombinator.com/item?id=46108941)
+- [Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries](https://github.com/Okery/Aivition)
+- [Google *Unkills* JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
+- [Google, Nvidia, and OpenAI – Stratechery by Ben Thompson](https://stratechery.com/2025/google-nvidia-and-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
