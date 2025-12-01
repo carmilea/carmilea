@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Am I Paying $40k for the Birth of My Child?](https://aaronstannard.com/40k-baby/)
-- [Mozilla&#39;s Latest Quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
+- [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+- [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
+- [The healthcare market is taxing reproduction out of existence](https://aaronstannard.com/40k-baby/)
+- [Mozilla&#39;s latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
 - [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
-- [Lawmakers Want to Ban VPNs–and They Have No Idea What They&#39;re Doing](https://www.techdirt.com/2025/12/01/lawmakers-want-to-ban-vpns-and-they-have-no-idea-what-theyre-doing/)
-- [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
