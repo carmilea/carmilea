@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Am I Paying $40k for the Birth of My Child?](https://aaronstannard.com/40k-baby/)
+- [Mozilla&#39;s Latest Quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
+- [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
+- [Lawmakers Want to Ban VPNs–and They Have No Idea What They&#39;re Doing](https://www.techdirt.com/2025/12/01/lawmakers-want-to-ban-vpns-and-they-have-no-idea-what-theyre-doing/)
 - [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
-- [How to Attend Meetings – Internal guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)
-- [Sycophancy is the first LLM &quot;dark pattern&quot;](https://www.seangoedecke.com/ai-sycophancy/)
-- [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
-- [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
