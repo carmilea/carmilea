@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
+- [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
 - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
 - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
 - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
-- [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
