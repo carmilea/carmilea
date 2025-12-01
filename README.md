@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested the M5 iPad Pro&#39;s Neural-Accelerated AI, and the Hype Is Real](https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/)
+- [&#39;A full-blown crisis&#39;: Americans brace for a surge in healthcare costs](https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4)
+- [Search tool that only returns content created before ChatGPT&#39;s public release](https://tegabrain.com/Slop-Evader)
+- [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)
 - [Advent of Sysadmin 2025](https://sadservers.com/advent)
 - [Is America&#39;s jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
-- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
-- [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
