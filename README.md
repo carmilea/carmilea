@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
 - [Google Antigravity just deleted the contents of whole drive](https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
 - [Search tool that only returns content created before ChatGPT&#39;s public release](https://tegabrain.com/Slop-Evader)
-- [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
