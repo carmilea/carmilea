@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
+- [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
+- [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland&#39;s Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
-- [WhatsApp will become interoperable with other messaging apps](https://tuta.com/blog/whatsapp-interoperable-in-europe)
-- [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
-- [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
-- [UK Government plans new powers to label dissenting movements as &#39;subversion&#39;](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
+- [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
 <!-- BLOG-POST-LIST:END -->
 
 ---
