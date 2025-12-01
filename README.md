@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland&#39;s Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
+- [WhatsApp will become interoperable with other messaging apps](https://tuta.com/blog/whatsapp-interoperable-in-europe)
 - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
-- [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
-- [Accenture dubs 800k staff &#39;reinventors&#39; amid shift to AI](https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence)
-- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
+- [UK Government plans new powers to label dissenting movements as &#39;subversion&#39;](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
