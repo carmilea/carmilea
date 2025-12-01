@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
 - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
-- [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
+- [Google Antigravity just deleted the contents of whole drive](https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
