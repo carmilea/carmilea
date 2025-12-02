@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US air travelers without REAL IDs will be charged a $45 fee](https://apnews.com/article/real-id-fee-airport-security-travel-tsa-fe8c7ed55cf3dacafa10d50cc2112eb7)
+- [What Will Enter the Public Domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
 - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
 - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
-- [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
-- [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+- [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
