@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EmacsConf 2025](https://emacsconf.org/2025/)
+- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 - [Delty &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
 - [Paged Out](https://pagedout.institute)
 - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
-- [Claude 4.5 Opus&#39; Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
-- [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
