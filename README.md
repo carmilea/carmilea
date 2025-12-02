@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
+- [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
 - [How Brian Eno Created Ambient 1: Music for Airports &lpar;2019&rpar;](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
-- [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
-- [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
