@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Delty &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
+- [Paged Out](https://pagedout.institute)
 - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
 - [Claude 4.5 Opus&#39; Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
 - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
-- [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
-- [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
