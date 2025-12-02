@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
-- [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
-- [The healthcare market is taxing reproduction out of existence](https://aaronstannard.com/40k-baby/)
-- [Mozilla&#39;s latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
-- [Pose-free 3D Gaussian splatting via shape-ray estimation](https://arxiv.org/abs/2505.22978)
+- [US air travelers without REAL IDs will be charged a $45 fee](https://apnews.com/article/real-id-fee-airport-security-travel-tsa-fe8c7ed55cf3dacafa10d50cc2112eb7)
+- [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
+- [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
+- [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
+- [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
