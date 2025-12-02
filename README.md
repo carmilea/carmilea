@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [A series of vignettes from my childhood and early career](https://www.jasonscheirer.com/weblog/vignettes/)
 - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
-- [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
-- [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
