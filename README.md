@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poka Labs &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer)
-- [Fallout 2&#39;s Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
-- [Show HN: RunMat – runtime with auto CPU/GPU routing for dense math](https://github.com/runmat-org/runmat)
-- [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
-- [Show HN: Marmot – Single-binary data catalog &lpar;no Kafka, no Elasticsearch&rpar;](https://github.com/marmotdata/marmot)
+- [IBM CEO says there is &#39;no way&#39; spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+- [Bun is joining Anthropic](https://bun.com/blog/bun-joins-anthropic)
+- [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
+- [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
+- [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
