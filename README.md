@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 - [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
 - [How Brian Eno Created Ambient 1: Music for Airports &lpar;2019&rpar;](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
-- [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
