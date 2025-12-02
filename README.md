@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Thiel&#39;s Apocalyptic Worldview Is a Dangerous Fantasy](https://jacobin.com/2025/11/peter-thiel-palantir-apocalypse-antichrist)
+- [Fallout 2&#39;s Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
+- [Show HN: RunMat – runtime with auto CPU/GPU routing for dense math](https://github.com/runmat-org/runmat)
 - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
-- [Show HN: Marmot – Single-binary data catalog &lpar;no Kafka, no Elasticsearch&rpar;](https://github.com/marmotdata/marmot)
-- [Zig&#39;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
-- [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [OpenAI declares &#39;code red&#39; as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
