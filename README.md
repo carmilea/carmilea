@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)
+- [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
+- [Show HN: Marmot – Single-binary data catalog &lpar;no Kafka, no Elasticsearch&rpar;](https://github.com/marmotdata/marmot)
+- [Zig&#39;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
+- [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [A series of vignettes from my childhood and early career](https://www.jasonscheirer.com/weblog/vignettes/)
-- [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
-- [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
