@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Brian Eno Created Ambient 1: Music for Airports &lpar;2019&rpar;](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
+- [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
+- [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
 - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
-- [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
-- [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
-- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
-- [Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)
+- [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
