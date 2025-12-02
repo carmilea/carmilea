@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beej&#39;s Guide to C Programming](https://beej.us/guide/bgc/)
+- [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
 - [Beej&#39;s Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
+- [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
-- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
-- [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
-- [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
