@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 4.5 Opus&#39; Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
+- [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+- [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
 - [IBM CEO says there is &#39;no way&#39; spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
-- [Bun is joining Anthropic](https://bun.com/blog/bun-joins-anthropic)
-- [Anthropic Acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)
-- [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
-- [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/)
+- [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
