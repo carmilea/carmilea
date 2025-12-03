@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocketable &lpar;YC W25&rpar; is hiring a founding engineer to automate software companies](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform)
-- [Steam Deck lead reveals Valve is funding ARM compatibility of Windows games](https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/)
-- [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)
-- [RCE Vulnerability in React and Next.js](https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp)
-- [MinIO is now in maintenance-mode](https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2)
+- [TSA&#39;s New $45 Fee at U.S. Airports Unfairly Punishes Families in the Fine Print](https://www.thetravel.com/new-tsa-45-usd-fee-for-americans-without-real-id-or-passport-penalizes-families-the-most/)
+- [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
+- [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+- [Launch HN: Phind 3 &lpar;YC S22&rpar; – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
+- [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
