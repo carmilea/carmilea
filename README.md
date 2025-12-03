@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f)
+- [Zig quits GitHub, says Microsoft&#39;s AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+- [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)
+- [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/)
 - [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
 - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
-- [Interview with RollerCoaster Tycoon&#39;s Creator, Chris Sawyer &lpar;2024&rpar;](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
-- [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
