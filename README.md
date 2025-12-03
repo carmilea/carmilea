@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)
+- [MinIO is now in maintenance-mode](https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2)
+- [VA staff flag dangerous errors in Oracle-built electronic health record](https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/)
+- [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
 - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
-- [Mapping Every Dollar of America&#39;s $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
-- [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
-- [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
-- [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
