@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+- [Mapping Every Dollar of America&#39;s $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
+- [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
 - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
 - [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
-- [You Can&#39;t Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
-- [The &quot;Mad Men&quot; in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)
-- [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
