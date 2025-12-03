@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Development Environment by JetBrains](https://air.dev)
 - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 - [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
 - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
-- [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
-- [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+- [Formally verifying Advent of Code using Dijkstra&#39;s program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
