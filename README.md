@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSA&#39;s New $45 Fee at U.S. Airports Unfairly Punishes Families in the Fine Print](https://www.thetravel.com/new-tsa-45-usd-fee-for-americans-without-real-id-or-passport-penalizes-families-the-most/)
+- [&#39;Carspreading&#39; is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
+- [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 - [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
 - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
 - [Launch HN: Phind 3 &lpar;YC S22&rpar; – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
-- [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
