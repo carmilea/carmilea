@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
+- [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 - [Agentic Development Environment by JetBrains](https://air.dev)
-- [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
-- [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
-- [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
-- [Formally verifying Advent of Code using Dijkstra&#39;s program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
+- [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
+- [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
