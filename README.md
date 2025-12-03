@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f)
+- [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
+- [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
+- [Interview with RollerCoaster Tycoon&#39;s Creator, Chris Sawyer &lpar;2024&rpar;](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
 - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
-- [Japanese game devs face font dilemma as license increases from $380 to $20k](https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000)
-- [Kohler Can Access Pictures from &quot;End-to-End Encrypted&quot; Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
-- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
-- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
