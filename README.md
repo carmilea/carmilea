@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
+- [Japanese game devs face font dilemma as license increases from $380 to $20k](https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000)
 - [Kohler Can Access Pictures from &quot;End-to-End Encrypted&quot; Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
 - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
-- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
