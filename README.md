@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
-- [AI generated font using nano banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
-- [EmacsConf 2025](https://emacsconf.org/2025/)
 - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 - [Delty &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
+- [Paged Out](https://pagedout.institute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
