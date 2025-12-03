@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Carspreading&#39; is on the rise – and not everyone is happy about it](https://www.bbc.co.uk/news/articles/cy7vdvl2531o)
-- [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
-- [Stop Talking](https://gurkan.in/2025/12/stop-talking/)
+- [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+- [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+- [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+- [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
 - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
-- [Launch HN: Phind 3 &lpar;YC S22&rpar; – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
