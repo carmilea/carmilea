@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)
 - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+- [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
-- [Why doesn&#39;t Apple make a standalone Touch ID?](https://www.jeffgeerling.com/blog/2025/why-doesnt-apple-make-standalone-touch-id)
-- [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
 <!-- BLOG-POST-LIST:END -->
 
 ---
