@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn &lpar;YC S24&rpar; Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
+- [Show HN: Mirror_bridge – C++ Reflection powered Python binding generation](https://github.com/FranciscoThiesen/mirror_bridge)
+- [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
+- [Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings](https://chico.dev/Mirror-Bridge/)
 - [Show HN: A Minimal Monthly Task Planner &lpar;printable, offline, no signup&rpar;](https://printcalendar.top/)
-- [The rapid growth of data centres is delaying new homes in London](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
-- [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)
-- [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)
-- [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
