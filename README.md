@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records](https://www.youtube.com/watch?v=eFU8ytWa_kQ)
-- [Accelerating JSON Array Queries with Multi-Value Hash Indexes](https://www.youtube.com/watch?v=eg0TjyQpGZE)
-- [Satish Iyer &amp; Sri Ambati   theCUBE + NYSE Wired  AI Factories   Data Centers of the Future](https://www.youtube.com/watch?v=oiJ5fCStkq4)
-- [Getting Started with SingleStore: Office Hours](https://www.youtube.com/watch?v=oKYWiUMbf5g)
-- [H2O AI 100 2025 Nasdaq Reel](https://www.youtube.com/watch?v=8SrYBtDaUps)
+- [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
+- [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
+- [AI Assisted Bug Fixes using h2oGPTe Action](https://www.youtube.com/watch?v=ZYJRTD-SID0)
+- [AI Assisted Code Review using h2oGPTe Action](https://www.youtube.com/watch?v=eZQei55KMBU)
+- [Installing h2oGPTe Action](https://www.youtube.com/watch?v=SYlSfo-zzZ8)
 <!-- YOUTUBE:END -->
 
 
