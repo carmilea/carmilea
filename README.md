@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Django 6 Released](https://docs.djangoproject.com/en/6.0/releases/6.0/)
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
+- [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/)
 - [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
 - [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
 - [CJEU has made it effectively impossible to run a user-generated platform legally](https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/)
-- [The RAM shortage comes for us all](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
