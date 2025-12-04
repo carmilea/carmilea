@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+- [30 years ago today &quot;Netscape and Sun announce JavaScript&quot;](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
+- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://railsdesigner.com/custom-elements/)
 - [PGlite – Embeddable Postgres](https://pglite.dev/)
-- [Porn company fined £1M over inadequate age checks &lpar;UK&rpar;](https://www.bbc.co.uk/news/articles/c93nll07z3go)
-- [Tunnl.gg](https://tunnl.gg)
-- [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
-- [Oracle, it’s time to free JavaScript](https://javascript.tm/letter)
+- [NRC Completes Safety Review of TerraPower Natrium [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2025/25-063.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
