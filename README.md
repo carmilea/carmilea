@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RAM is so expensive, Samsung won&#39;t even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
+- [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 - [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 - [30 years ago today &quot;Netscape and Sun announce JavaScript&quot;](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 - [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://railsdesigner.com/custom-elements/)
-- [PGlite – Embeddable Postgres](https://pglite.dev/)
-- [NRC Completes Safety Review of TerraPower Natrium [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2025/25-063.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
