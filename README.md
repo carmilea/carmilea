@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
+- [Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+- [Proxmox Datacenter Manager 1.0 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0)
+- [Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
 - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
-- [Human hair grows through &#39;pulling&#39; not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
-- [RAM is so expensive, Samsung won&#39;t even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
-- [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
-- [Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years](https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
