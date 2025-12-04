@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crucial shutting down as Micron wants to sell RAM/SSDs to AI companies instead](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)
+- [Why Are 38 Percent of Stanford Students Saying They&#39;re Disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
 - [Converge &lpar;YC S23&rpar; is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
-- [Launch HN: Browser Buddy &lpar;YC W24&rpar; – A recommendation system for Internet writing](https://www.browserbuddy.com/)
-- [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)
-- [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
+- [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
