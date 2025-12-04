@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o)
-- [New homes in London were delayed by &#39;energy-hungry&#39; data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
+- [Show HN: A Minimal Monthly Task Planner &lpar;printable, offline, no signup&rpar;](https://printcalendar.top/)
+- [The rapid growth of data centres is delaying new homes in London](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
 - [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501)
+- [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html)
 - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
-- [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
