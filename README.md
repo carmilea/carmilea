@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
+- [The Mysterious Realm of JavaScriptCore &lpar;2021&rpar;](https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore)
 - [Saturn &lpar;YC S24&rpar; Is Hiring Senior AI Engineer](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer)
 - [Show HN: Mirror_bridge – C++ Reflection powered Python binding generation](https://github.com/FranciscoThiesen/mirror_bridge)
 - [Uncloud - Tool for deploying containerised apps across servers without k8s](https://uncloud.run/)
-- [Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings](https://chico.dev/Mirror-Bridge/)
-- [Show HN: A Minimal Monthly Task Planner &lpar;printable, offline, no signup&rpar;](https://printcalendar.top/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
