@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
+- [The Age-Gated Internet Is Sweeping the US. Activists Are Fighting Back](https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/)
+- [Human hair grows through &#39;pulling&#39; not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
 - [RAM is so expensive, Samsung won&#39;t even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
 - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
-- [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
-- [30 years ago today &quot;Netscape and Sun announce JavaScript&quot;](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
-- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://railsdesigner.com/custom-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
