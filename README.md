@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+- [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 - [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/)
-- [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2)
-- [Plane crashed after 3D-printed part collapsed](https://www.bbc.com/news/articles/c1w932vqye0o)
-- [CJEU has made it effectively impossible to run a user-generated platform legally](https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
