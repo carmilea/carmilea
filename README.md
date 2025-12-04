@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
-- [Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
-- [Proxmox Datacenter Manager 1.0 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0)
-- [Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later](https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903)
-- [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
+- [Converge &lpar;YC S23&rpar; is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
+- [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
+- [Launch HN: Browser Buddy &lpar;YC W24&rpar; – A recommendation system for Internet writing](https://www.browserbuddy.com/)
+- [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)
+- [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
