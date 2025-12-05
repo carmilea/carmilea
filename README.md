@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
+- [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
+- [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
-- [Emerge Career &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
-- [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
-- [Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds](https://pbnj.sh/)
-- [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
+- [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
