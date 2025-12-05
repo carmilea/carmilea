@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State Department to deny visas to fact checkers and others, citing &#39;censorship&#39;](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
+- [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)
+- [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
 - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
-- [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
-- [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
-- [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
