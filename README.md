@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 - [How Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
 - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
 - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
 - [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
-- [AV1: A Modern, Open Codec](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
