@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Model Y named worst car for reliability in Germany&#39;s major TÜV report](https://electrek.co/2025/12/03/tesla-model-y-named-worst-car-for-reliability-germany-major-tuv-report/)
+- [Onlook &lpar;YC W25&rpar; the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
+- [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
 - [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
-- [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-- [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
-- [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
