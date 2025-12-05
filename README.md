@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Is Down](https://cloudflare.com/)
-- [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)
+- [The US polluters that are rewriting the EU&#39;s human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)
 - [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)
 - [Cloudflare is down](https://www.cloudflare.com/)
 - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
+- [State Department to deny visas to fact checkers and others, citing &#39;censorship&#39;](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
