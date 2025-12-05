@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
+- [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
+- [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 - [Advertising as a major source of human dissatisfaction &lpar;2019&rpar; [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
-- [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
-- [The Debug Adapter Protocol is a REPL protocol in disguise](https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/)
-- [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
