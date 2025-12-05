@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [State Department to deny visas to fact checkers and others, citing &#39;censorship&#39;](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
-- [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)
 - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
+- [Warner Bros Begins Exclusive Deal Talks With Netflix](https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix)
 - [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 <!-- BLOG-POST-LIST:END -->
 
