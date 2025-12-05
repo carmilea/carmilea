@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
 - [Emerge Career &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
 - [Influential study on glyphosate safety retracted 25 years after publication](https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html)
+- [Show HN: Pbnj – A minimal, self-hosted pastebin you can deploy in 60 seconds](https://pbnj.sh/)
 - [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
-- [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
-- [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 <!-- BLOG-POST-LIST:END -->
 
 ---
