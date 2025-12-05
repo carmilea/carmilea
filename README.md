@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
 - [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
+- [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
-- [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
-- [Advertising as a major source of human dissatisfaction &lpar;2019&rpar; [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
+- [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
