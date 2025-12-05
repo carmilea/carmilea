@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Accelerating JSON Array Queries with Multi-Value Hash Indexes](https://www.youtube.com/watch?v=eg0TjyQpGZE)
 - [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
 - [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
 - [AI Assisted Bug Fixes using h2oGPTe Action](https://www.youtube.com/watch?v=ZYJRTD-SID0)
 - [AI Assisted Code Review using h2oGPTe Action](https://www.youtube.com/watch?v=eZQei55KMBU)
-- [Installing h2oGPTe Action](https://www.youtube.com/watch?v=SYlSfo-zzZ8)
 <!-- YOUTUBE:END -->
 
 
