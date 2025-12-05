@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Is Down](https://cloudflare.com/)
+- [Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)
+- [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200)
+- [Cloudflare is down](https://www.cloudflare.com/)
 - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
-- [State Department to deny visas to fact checkers and others, citing &#39;censorship&#39;](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
-- [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
-- [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
-- [Warner Bros Begins Exclusive Deal Talks With Netflix](https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
