@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 - [Advertising as a major source of human dissatisfaction &lpar;2019&rpar; [pdf]](https://www.andrewoswald.com/docs/AdvertisingMicheletal2019EasterlinVolume.pdf)
-- [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
+- [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
+- [The Debug Adapter Protocol is a REPL protocol in disguise](https://zignar.net/2025/06/23/debug-adapter-protocol-is-a-repl-protocol/)
 - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
-- [Why we built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
-- [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
