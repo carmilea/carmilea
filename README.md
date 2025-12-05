@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Model Y named worst car for reliability in Germany&#39;s major TÜV report](https://electrek.co/2025/12/03/tesla-model-y-named-worst-car-for-reliability-germany-major-tuv-report/)
-- [Onlook &lpar;YC W25&rpar; the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977)
-- [X hit with $140M EU fine for breaching content rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
-- [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
+- [Wall Street races to protect itself from AI bubble](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+- [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
+- [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
+- [Detainees at &#39;Alligator Alcatraz&#39; facing &#39;harrowing human right violations&#39;](https://www.theguardian.com/us-news/2025/dec/04/alligator-alcatraz-human-right-violations-amnesty-report)
+- [The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
