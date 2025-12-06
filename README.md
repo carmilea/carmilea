@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 - [Infracost &lpar;YC W21&rpar; is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 - [Nook Browser](https://browsewithnook.com)
 - [Albert Michelson&#39;s Harmonic Analyzer &lpar;2014&rpar; [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
 - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
-- [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
