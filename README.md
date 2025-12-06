@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)
+- [Autism&#39;s Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
+- [How America&#39;s &quot;truck-driver shortage&quot; made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
 - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
 - [Infracost &lpar;YC W21&rpar; is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
-- [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
