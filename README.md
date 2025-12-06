@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skin-Shedding Code &lpar;2024&rpar;](https://registerspill.thorstenball.com/p/skin-shedding-code)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
-- [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 - [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
+- [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
