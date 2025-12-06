@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
-- [&#39;Life being stressful is not an illness&#39; – GPs on mental health over-diagnosis](https://www.bbc.com/news/articles/cx2pvxdn9v4o)
-- [Autism&#39;s Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
+- [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
+- [Autism&#39;s confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
 - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
 <!-- BLOG-POST-LIST:END -->
