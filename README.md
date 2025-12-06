@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
+- [Coffee link to slower biological aging in those w mental illness–to point](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
+- [Show HN: Tascli, a command line based &lpar;human&rpar; task and record manager](https://github.com/Aperocky/tascli)
+- [Show HN: TapeHead – A CLI tool for stateful random access of file streams](https://github.com/emamoah/tapehead)
 - [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
-- [The general who refused to crush Tiananmen&#39;s protesters](https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters)
-- [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
-- [Perl&#39;s decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
