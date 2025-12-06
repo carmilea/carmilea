@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kidney Recipient Dies After Transplant from Organ Donor Who Had Rabies](https://www.nytimes.com/2025/12/06/health/rabies-death-skunk-kidney-transplant.html)
+- [Skin-Shedding Code &lpar;2024&rpar;](https://registerspill.thorstenball.com/p/skin-shedding-code)
+- [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
+- [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)
 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
-- [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
-- [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
-- [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
+- [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
