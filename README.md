@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a tool to make PDFs look scanned because bureaucracy](https://github.com/Francium-Tech/scanify)
-- [Perl&#39;s Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
+- [Perl&#39;s decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
+- [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
