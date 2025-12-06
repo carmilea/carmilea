@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)
+- [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
+- [Sam Altman&#39;s Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
+- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
 - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
-- [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
-- [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
-- [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
-- [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
