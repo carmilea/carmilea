@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)
-- [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
-- [Sam Altman&#39;s Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
-- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
-- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
+- [Albert Michelson&#39;s Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
+- [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
+- [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
+- [Waymo investigated for ongoing failures to stop for school busses](https://www.thestreet.com/technology/waymo-investigation-could-stop-autonomous-driving-in-its-tracks)
+- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
