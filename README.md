@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wave of &lpar;Open Street Map&rpar; Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
+- [United States Antarctic Program Field Manual &lpar;2024&rpar; [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
+- [How the &#39;hypnagogic state&#39; of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
+- [Screenshots from developers: 2002 vs. 2015 &lpar;2015&rpar;](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 - [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
-- [Coffee link to slower biological aging in those w mental illness–to point](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
-- [Show HN: Tascli, a command line based &lpar;human&rpar; task and record manager](https://github.com/Aperocky/tascli)
-- [Show HN: TapeHead – A CLI tool for stateful random access of file streams](https://github.com/emamoah/tapehead)
-- [Zebra-Llama: Towards Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
