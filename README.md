@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists link sugar substitute sorbitol to liver disease in zebrafish](https://scitechdaily.com/scientists-link-popular-sugar-substitute-to-liver-disease/)
-- [Discovering the Indieweb with Calm Tech](https://alexsci.com/blog/calm-tech-discover/)
+- [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 - [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
