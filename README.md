@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iced 0.14 has been released &lpar;Rust GUI library&rpar;](https://github.com/iced-rs/iced/releases/tag/0.14.0)
+- [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
+- [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 - [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
-- [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
-- [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
-- [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
-- [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
+- [Evidence from the One Laptop per Child Program in Rural Peru](https://www.nber.org/papers/w34495)
 <!-- BLOG-POST-LIST:END -->
 
 ---
