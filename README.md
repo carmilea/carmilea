@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
 - [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 - [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
 - [Semantic Compression &lpar;2014&rpar;](https://caseymuratori.com/blog_0015)
-- [The AI Wildfire Is Coming. It&#39;s Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 - [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
