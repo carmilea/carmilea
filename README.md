@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 - [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
-- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
