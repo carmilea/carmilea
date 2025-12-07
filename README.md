@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wave of &lpar;Open Street Map&rpar; Vandalism in South Korea](https://www.openstreetmap.org/user/KennyDap/diary/407844)
-- [United States Antarctic Program Field Manual &lpar;2024&rpar; [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
-- [How the &#39;hypnagogic state&#39; of drowsiness could enhance your creativity](https://theconversation.com/how-the-hypnagogic-state-of-drowsiness-could-enhance-your-creativity-269724)
-- [Screenshots from developers: 2002 vs. 2015 &lpar;2015&rpar;](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
-- [Copy-Item is 27% slower than File Explorer](https://til.andrew-quinn.me/posts/copy-item-is-27-percent-slower-than-file-explorer-drag-and-drop-on-windows/)
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
+- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
+- [Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71)
+- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
+- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
