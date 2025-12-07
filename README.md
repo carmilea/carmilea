@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+- [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
+- [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
-- [Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71)
-- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
-- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
