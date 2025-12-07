@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wasted 8 Years of My Life in Crypto](https://twitter.com/kenchangh/status/1994854381267947640)
+- [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
 - [The Reverse-Centaur&#39;s Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+- [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
-- [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
-- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+- [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
