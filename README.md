@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Wasted 8 Years of My Life in Crypto](https://twitter.com/kenchangh/status/1994854381267947640)
+- [The Reverse-Centaur&#39;s Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
-- [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
-- [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
