@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
-- [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
-- [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
-- [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
-- [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
+- [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
+- [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
+- [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
+- [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
+- [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
