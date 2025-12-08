@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing juries: &#39;A move towards an authoritarian state&#39;](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
-- [Nango &lpar;YC W23&rpar; is hiring back-end engineers and dev-rels &lpar;remote&rpar;](https://jobs.ashbyhq.com/Nango)
-- [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
-- [Show HN: Web app that lets you send email time capsules](https://resurf.me)
-- [One too many words on AT&amp;T&#39;s $2k Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
+- [Show HN: I wrote a book – Debugging TypeScript Applications &lpar;in beta&rpar;](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
+- [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
+- [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
+- [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
+- [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
