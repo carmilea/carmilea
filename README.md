@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [12 Days of Shell](https://12days.cmdchallenge.com)
+- [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 - [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 - [The fuck off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
-- [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
