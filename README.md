@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing juries: &#39;A move towards an authoritarian state&#39;](https://www.theguardian.com/law/2025/dec/07/authoritarian-state-trial-by-jury-uk)
 - [Nango &lpar;YC W23&rpar; is hiring back-end engineers and dev-rels &lpar;remote&rpar;](https://jobs.ashbyhq.com/Nango)
 - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
-- [12 Days of Shell](https://12days.cmdchallenge.com)
-- [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
+- [One too many words on AT&amp;T&#39;s $2k Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
