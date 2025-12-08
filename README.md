@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Z17 Time Synchronization Resiliency Enhancements](https://planetmainframe.com/2025/10/ibm-z17-time-synchronization-resiliency-enhancements/)
 - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 - [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
-- [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
-- [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
+- [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
