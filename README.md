@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23&rpar; is hiring back-end engineers and dev-rels &lpar;remote&rpar;](https://jobs.ashbyhq.com/Nango)
+- [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
+- [Show HN: Web app that lets you send email time capsules](https://resurf.me)
 - [12 Days of Shell](https://12days.cmdchallenge.com)
-- [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
 - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
-- [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
-- [The fuck off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
