@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Z17 Time Synchronization Resiliency Enhancements](https://planetmainframe.com/2025/10/ibm-z17-time-synchronization-resiliency-enhancements/)
+- [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
+- [Cancer is surging, bringing a debate about whether to look for it](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
+- [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
 - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
-- [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
-- [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
