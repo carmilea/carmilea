@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
 - [Damn Small Linux](https://www.damnsmalllinux.org/)
 - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
-- [Toyota unintended acceleration and the big bowl of &quot;spaghetti&quot; code &lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
 - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
