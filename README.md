@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
+- [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
+- [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
 - [Launch HN: Nia &lpar;YC S25&rpar; – Give better context to coding agents](https://www.trynia.ai/)
-- [Legion Health &lpar;YC S21&rpar; is hiring a founding engineer &lpar;SF, in-person&rpar;](https://news.ycombinator.com/item?id=46194720)
-- [Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
-- [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
-- [Let&#39;s put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
+- [RIP Tetsu Yamauchi &lpar;Former Free and Faces Bassist&rpar;](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
