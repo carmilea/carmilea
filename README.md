@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I wrote a book – Debugging TypeScript Applications &lpar;in beta&rpar;](https://pragprog.com/titles/aodjs/debugging-typescript-applications/)
+- [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
+- [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
+- [Paramount launches hostile bid for Warner Bros](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 - [Microsoft Increases Office 365 and Microsoft 365 License Prices](https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/)
-- [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
-- [Colors of Growth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462)
-- [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
+- [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
