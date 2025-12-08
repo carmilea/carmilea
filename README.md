@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mechanical power generation using Earth&#39;s ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
-- [iced 0.14 has been released &lpar;Rust GUI library&rpar;](https://github.com/iced-rs/iced/releases/tag/0.14.0)
-- [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
-- [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
-- [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
+- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
+- [Toyota Unintended Acceleration and the Big Bowl of &quot;Spaghetti&quot; Code&lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+- [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
