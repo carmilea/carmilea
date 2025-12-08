@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
+- [Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
 - [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
-- [Cancer is surging, bringing a debate about whether to look for it](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
+- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
-- [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-- [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
