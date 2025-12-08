@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD GPU Debugger](https://thegeeko.me/blog/amd-gpu-debugging/)
-- [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
-- [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
-- [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
-- [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
+- [Launch HN: Nia &lpar;YC S25&rpar; – Give better context to coding agents](https://www.trynia.ai/)
+- [Legion Health &lpar;YC S21&rpar; is hiring a founding engineer &lpar;SF, in-person&rpar;](https://news.ycombinator.com/item?id=46194720)
+- [Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+- [Hunting for North Korean Fiber Optic Cables](https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/)
+- [Let&#39;s put Tailscale on a jailbroken Kindle](https://tailscale.com/blog/tailscale-jailbroken-kindle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
