@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
+- [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
+- [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
 - [Truemetrics &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
-- [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
-- [Damn Small Linux](https://www.damnsmalllinux.org/)
-- [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
 <!-- BLOG-POST-LIST:END -->
 
 ---
