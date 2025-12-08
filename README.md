@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
 - [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+- [Damn Small Linux](https://www.damnsmalllinux.org/)
 - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
-- [Toyota Unintended Acceleration and the Big Bowl of &quot;Spaghetti&quot; Code &lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+- [Toyota unintended acceleration and the big bowl of &quot;spaghetti&quot; code &lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
 - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
 <!-- BLOG-POST-LIST:END -->
 
