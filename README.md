@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
+- [12 Days of Shell](https://12days.cmdchallenge.com)
+- [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
+- [Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
+- [The fuck off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
 - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
-- [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
-- [Show HN: Lockenv – Simple encrypted secrets storage for Git](https://github.com/illarion/lockenv)
-- [Truemetrics &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
