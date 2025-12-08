@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truemetrics &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
+- [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
 - [Damn Small Linux](https://www.damnsmalllinux.org/)
-- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
 - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
 - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-- [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
