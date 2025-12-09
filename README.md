@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Big Vitamin D Mistake [pdf]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5541280/pdf/jpmph-50-4-278.pdf)
+- [MCP Joins the Agentic AI Foundation](http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/)
+- [10 Years of Let&#39;s Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
-- [Show HN: Detail, a Bug Finder](https://detail.dev/)
-- [How private equity is changing housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
-- [If you&#39;re going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
-- [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
+- [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
