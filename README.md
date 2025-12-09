@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Cassette Walkmans](https://walkman.land/modern)
+- [Modern Walkmans](https://walkman.land/modern)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
 - [Scientific and Technical Amateur Radio](https://destevez.net/)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
