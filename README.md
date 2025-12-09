@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rahm Emanuel says U.S. should follow Australia&#39;s youth social media ban](https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185)
-- [Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage](https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/)
-- [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
-- [Brent&#39;s Encapsulated C Programming Rules &lpar;2020&rpar;](https://retroscience.net/brents-c-programming-rules.html)
-- [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
+- [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
+- [Apple&#39;s Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+- [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
+- [Engineers: Stop trying to win other people&#39;s game](https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior)
+- [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
 <!-- BLOG-POST-LIST:END -->
 
 ---
