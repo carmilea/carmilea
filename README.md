@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should &quot;I asked $AI, and it said&quot; replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
-- [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
-- [Show HN: Gemini Pro 3 Hallucinates the HN Front Page 10 Years from Today](https://dosaygo-studio.github.io/hn-front-page-2035/news)
-- [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
-- [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
+- [If You&#39;re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
+- [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
+- [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
+- [Launch HN: Mentat &lpar;YC F24&rpar; – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
+- [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
