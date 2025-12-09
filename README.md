@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If You&#39;re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
+- [Show HN: Detail, a Bug Finder](https://detail.dev/)
+- [If you&#39;re going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
+- [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 - [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
-- [Launch HN: Mentat &lpar;YC F24&rpar; – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
-- [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
