@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s ~2026 –. ChatGPT still doesn&#39;t allow email change](https://help.openai.com/en/articles/4936827-how-to-change-your-email-address)
-- [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
-- [Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
-- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-- [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
+- [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
+- [Scientific and Technical Amateur Radio](https://destevez.net/)
+- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
+- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
+- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
