@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
 - [Show HN: Detail, a Bug Finder](https://detail.dev/)
+- [How private equity is changing housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
 - [If you&#39;re going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
-- [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
-- [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
