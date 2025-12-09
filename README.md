@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Cassette Walkmans](https://walkman.land/modern)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
 - [Scientific and Technical Amateur Radio](https://destevez.net/)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
 - [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
-- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
