@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Modern Walkmans](https://walkman.land/modern)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
-- [Scientific and Technical Amateur Radio](https://destevez.net/)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
 - [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
+- [Manual: Spaces](https://type.today/en/journal/spaces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
