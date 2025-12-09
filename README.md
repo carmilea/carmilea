@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America Has Become a Digital Narco-State](https://paulkrugman.substack.com/p/america-has-become-a-digital-narco)
-- [Where are you supposed to go if you don&#39;t care about growth?](https://ramones.dev/posts/where-are-you-supposed-to-go/)
 - [Why frozen test fixtures are a problem on large projects and how to avoid them](https://radanskoric.com/articles/frozen-test-fixtures)
 - [Brent&#39;s Encapsulated C Programming Rules &lpar;2020&rpar;](https://retroscience.net/brents-c-programming-rules.html)
 - [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
+- [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
+- [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
