@@ -45,7 +45,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Accelerating JSON Array Queries with Multi](https://www.youtube.com/watch?v=IaCprdvUvCY)
+- [Accelerating JSON Array Queries with Multi-Value Hash Indexes | SingleStore Webinars](https://www.youtube.com/watch?v=IaCprdvUvCY)
 - [Accelerating JSON Array Queries with Multi-Value Hash Indexes](https://www.youtube.com/watch?v=eg0TjyQpGZE)
 - [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
 - [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
