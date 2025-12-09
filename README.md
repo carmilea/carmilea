@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
-- [Apple&#39;s Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+- [Ask HN: Should &quot;I asked $AI, and it said&quot; replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
 - [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
-- [Engineers: Stop trying to win other people&#39;s game](https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior)
+- [Show HN: Gemini Pro 3 Hallucinates the HN Front Page 10 Years from Today](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
+- [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 <!-- BLOG-POST-LIST:END -->
 
 ---
