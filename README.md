@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A thousand-year-long composition turns 25 &lpar;2024&rpar;](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
+- [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
 - [Modern Walkmans](https://walkman.land/modern)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
-- [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
-- [Manual: Spaces](https://type.today/en/journal/spaces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
