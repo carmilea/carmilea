@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
 - [A thousand-year-long composition turns 25 &lpar;2024&rpar;](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
-- [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
 - [Modern Walkmans](https://walkman.land/modern)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
