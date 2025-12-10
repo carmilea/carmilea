@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
+- [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
+- [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
 - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
-- [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
-- [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
-- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
