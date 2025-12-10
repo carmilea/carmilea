@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Source available&#39; is not open source &lpar;and that&#39;s okay&rpar;](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
-- [Atomic time source failure at NIST Gaithersburg campus](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1)
 - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
 - [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)
 - [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
