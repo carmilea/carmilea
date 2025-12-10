@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Mothers &lpar;YC X26&rpar; Is Hiring](https://app.dover.com/jobs/9mothers)
+- [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+- [England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)
+- [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 - [Launch HN: InspectMind &lpar;YC W24&rpar; – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
-- [Size of Life](https://neal.fun/size-of-life/)
-- [In New York City, congestion pricing leads to marked drop in pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
-- [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
-- [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
