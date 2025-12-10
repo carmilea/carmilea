@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubio orders return to Times New Roman font over &#39;wasteful&#39; Calibri](https://www.bbc.com/news/articles/cgkez3367xmo)
-- [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
+- [When would you ever want bubblesort? &lpar;2023&rpar;](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
-- [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
+- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
