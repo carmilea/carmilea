@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
+- [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.co.uk/news/articles/c1dz0g2ykpeo)
 - [Revisiting &quot;Let&#39;s Build a Compiler&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-- [Are the Three Musketeers allergic to muskets?&lpar;2014&rpar;](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
+- [Are the Three Musketeers allergic to muskets? &lpar;2014&rpar;](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 - [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
 <!-- BLOG-POST-LIST:END -->
