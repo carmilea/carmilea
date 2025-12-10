@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)
 - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 - [Revisiting &quot;Let&#39;s Build a Compiler&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 - [Are the Three Musketeers allergic to muskets?&lpar;2014&rpar;](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
-- [&#39;Source available&#39; is not open source &lpar;and that&#39;s okay&rpar;](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 <!-- BLOG-POST-LIST:END -->
 
