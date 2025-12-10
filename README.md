@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubio Deletes Calibri as the State Department&#39;s Official Typeface](https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html)
-- [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
-- [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
-- [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
-- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+- [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
+- [NYC congestion pricing cuts air pollution by a fifth in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+- [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
+- [The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://anandsanwal.me/ai-education-death-spiral/)
+- [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)
 <!-- BLOG-POST-LIST:END -->
 
 ---
