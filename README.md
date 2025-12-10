@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonald&#39;s pulls AI Christmas ad after backlash](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+- [Taxing Growth](https://www.equitileconversations.com/2459100/episodes/18312924-taxing-growth)
+- [Apple Faces Scrutiny as Sanctioned Entities Slip Through App Store Controls](https://www.washingtonpost.com/technology/2025/12/10/us-sanctions-apple-google/)
 - [Revisiting &quot;Let&#39;s Build a Compiler&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 - [Are the Three Musketeers allergic to muskets? &lpar;2014&rpar;](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
-- [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
