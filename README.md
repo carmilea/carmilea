@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
+- [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
+- [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
+- [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/)
 - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
-- [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
-- [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 <!-- BLOG-POST-LIST:END -->
 
 ---
