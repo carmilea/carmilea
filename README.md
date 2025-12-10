@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
+- [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
+- [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
 - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
-- [Show HN: MCPShark – Traffic Inspector for Model Context Protocol](https://news.ycombinator.com/item?id=46220577)
 - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-- [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
-- [9 Mothers &lpar;YC X26&rpar; Is Hiring](https://app.dover.com/jobs/9mothers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
