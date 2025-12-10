@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rubio orders return to Times New Roman font over &#39;wasteful&#39; Calibri](https://www.bbc.com/news/articles/cgkez3367xmo)
+- [When Would You Ever Want Bubblesort?](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
 - [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
-- [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/)
-- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
-- [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
+- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
