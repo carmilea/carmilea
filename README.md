@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
+- [Show HN: MCPShark – Traffic Inspector for Model Context Protocol](https://news.ycombinator.com/item?id=46220577)
+- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
+- [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
 - [9 Mothers &lpar;YC X26&rpar; Is Hiring](https://app.dover.com/jobs/9mothers)
-- [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
-- [England Historic Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)
-- [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
-- [Launch HN: InspectMind &lpar;YC W24&rpar; – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
