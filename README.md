@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AGI Will Not Happen](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/)
+- [Launch HN: InspectMind &lpar;YC W24&rpar; – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
+- [Size of Life](https://neal.fun/size-of-life/)
+- [In New York City, congestion pricing leads to marked drop in pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
+- [Writing an Outlook Add-in in Rust](https://tritium.legal/blog/outlook)
 - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
-- [New benchmark shows top LLMs struggle in real mental health care](https://swordhealth.com/newsroom/sword-introduces-mindeval)
-- [Revisiting &quot;Let&#39;s Build a Compiler&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-- [Are the Three Musketeers allergic to muskets? &lpar;2014&rpar;](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
