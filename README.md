@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [When would you ever want bubblesort? &lpar;2023&rpar;](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
-- [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+- [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/)
 - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 <!-- BLOG-POST-LIST:END -->
