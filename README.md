@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
+- [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
+- [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
 - [Almond &lpar;YC X25&rpar; Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
-- [My productivity app is a never-ending .txt file &lpar;2020&rpar;](https://jeffhuang.com/productivity_text_file/)
-- [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
-- [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
