@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
-- [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
-- [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
-- [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
-- [From Ticks to Trades: Real-Time Trading with SingleStore and AI](https://www.singlestore.com/blog/from-ticks-to-trades-real-time-trading-with-singlestore-and-ai)
+- [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+- [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
+- [Crick and Watson Did Not Steal Franklin&#39;s Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
+- [iPhone Typos? It&#39;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
+- [Launch HN: BrowserBook &lpar;YC F24&rpar; – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
