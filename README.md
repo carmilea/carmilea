@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
+- [My productivity app is a never-ending .txt file &lpar;2022&rpar;](https://jeffhuang.com/productivity_text_file/)
+- [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
+- [Pop_OS 24.04 LTS with COSMIC desktop environment](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
+- [We built a resource hub to fight back against age verification](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)
 - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
-- [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
-- [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
-- [GPT-5.2](https://platform.openai.com/docs/guides/latest-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
