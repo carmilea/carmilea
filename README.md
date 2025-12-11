@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [23,746 Patients Died on Waitlists in Past Year](https://secondstreet.org/2025/11/26/23746-patients-died-on-waitlists-in-past-year/)
-- [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
-- [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
+- [Powder and Stone. Or, Why Medieval Rulers Loved Castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
+- [RFC 6677 DNS Transport over TCP – Implementation Requirements](https://www.ietf.org/rfc/rfc7766.txt)
+- [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui)
 - [Almond &lpar;YC X25&rpar; Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 <!-- BLOG-POST-LIST:END -->
