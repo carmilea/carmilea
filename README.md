@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French supermarket&#39;s Christmas advert is worldwide hit &lpar;without AI&rpar; [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
-- [Why no fish wants a tongue-eating parasitic louse in its mouth](https://animals.howstuffworks.com/marine-life/parasitic-tongue-eating-louse.htm)
-- [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
+- [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
+- [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
+- [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+- [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 - [From Ticks to Trades: Real-Time Trading with SingleStore and AI](https://www.singlestore.com/blog/from-ticks-to-trades-real-time-trading-with-singlestore-and-ai)
-- [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
