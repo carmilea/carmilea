@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 - [Patterns.dev](https://www.patterns.dev/)
 - [When would you ever want bubblesort? &lpar;2023&rpar;](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
