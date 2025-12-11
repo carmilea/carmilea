@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McDonald&#39;s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)
+- [A &quot;Frozen&quot; Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 - [Patterns.dev](https://www.patterns.dev/)
-- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
