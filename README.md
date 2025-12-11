@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
 - [Patterns.dev](https://www.patterns.dev/)
 - [When would you ever want bubblesort? &lpar;2023&rpar;](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
-- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
