@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Days since last GitHub incident](https://github-incidents.pages.dev/)
+- [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
 - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+- [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
 - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
-- [Crick and Watson Did Not Steal Franklin&#39;s Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
-- [iPhone Typos? It&#39;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
-- [Launch HN: BrowserBook &lpar;YC F24&rpar; – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
