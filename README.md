@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Days since last GitHub incident](https://github-incidents.pages.dev/)
-- [Things I want to say to my boss](https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss)
-- [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
-- [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
-- [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
+- [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
+- [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
+- [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
+- [GPT-5.2](https://platform.openai.com/docs/guides/latest-model)
+- [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
