@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
+- [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 - [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
 - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
-- [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
 - [GPT-5.2](https://platform.openai.com/docs/guides/latest-model)
-- [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
