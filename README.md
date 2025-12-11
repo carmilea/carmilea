@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonald&#39;s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)
-- [A &quot;Frozen&quot; Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
+- [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
+- [From Ticks to Trades: Real-Time Trading with SingleStore and AI](https://www.singlestore.com/blog/from-ticks-to-trades-real-time-trading-with-singlestore-and-ai)
+- [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
-- [Patterns.dev](https://www.patterns.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
