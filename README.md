@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
+- [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+- [Smartphone Without a Battery &lpar;2022&rpar;](https://yaky.dev/2022-09-06-smartphone-without-battery/)
 - [The tiniest yet real telescope I&#39;ve built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
 - [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
-- [The Boot Order of the Raspberry Pi Is Unusual](https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/)
-- [Google de-indexed Bear Blog and I don&#39;t know why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
-- [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 <!-- BLOG-POST-LIST:END -->
 
 ---
