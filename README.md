@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
+- [Why isn&#39;t online age verification just like showing your ID in person?](https://www.eff.org/deeplinks/2025/12/why-isnt-online-age-verification-just-showing-your-id-person)
 - [The Tor Project is switching to Rust](https://itsfoss.com/news/tor-rust-rewrite-progress/)
-- [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
-- [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
