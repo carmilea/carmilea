@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The tiniest yet real telescope I&#39;ve built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
 - [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
-- [Google De-Indexed My Bear Blog and I Don&#39;t Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
-- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
+- [The Boot Order of the Raspberry Pi Is Unusual](https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/)
+- [Google de-indexed Bear Blog and I don&#39;t know why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
-- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
