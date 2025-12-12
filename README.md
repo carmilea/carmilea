@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Id Software devs form &quot;wall-to-wall&quot; union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
+- [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
 - [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)
 - [Oracle made a $300B bet on OpenAI. It&#39;s paying the price](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html)
 - [Japan law opening phone app stores to go into effect dec.18th](https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/)
-- [Async DNS](https://flak.tedunangst.com/post/async-dns)
-- [Senator endorses discredited book that claims chemical treats autism, cancer](https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
