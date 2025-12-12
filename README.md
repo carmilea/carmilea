@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework Raises DDR5 Memory Prices by 50% for DIY Laptops](https://www.phoronix.com/news/Framework-50p-DDR5-Memory)
+- [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
 - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
 - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
-- [Why isn&#39;t online age verification just like showing your ID in person?](https://www.eff.org/deeplinks/2025/12/why-isnt-online-age-verification-just-showing-your-id-person)
-- [The Tor Project is switching to Rust](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
