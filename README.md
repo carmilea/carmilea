@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
+- [Google De-Indexed My Bear Blog and I Don&#39;t Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
-- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
-- [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
+- [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
