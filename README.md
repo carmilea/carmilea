@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 3.1 &#39;Hot Dog Stand&#39; color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
-- [Benn Jordan&#39;s flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
-- [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
-- [Id Software devs form &quot;wall-to-wall&quot; union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
-- [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
+- [GNU Unifont](https://unifoundry.com/unifont/index.html)
+- [Security issues with electronic invoices](https://invoice.secvuln.info/)
+- [New Kindle feature uses AI to answer questions about books](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+- [Rats Play Doom](https://ratsplaydoom.com/)
+- [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
