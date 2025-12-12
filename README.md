@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Powder and Stone. Or, Why Medieval Rulers Loved Castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
-- [RFC 6677 DNS Transport over TCP – Implementation Requirements](https://www.ietf.org/rfc/rfc7766.txt)
-- [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui)
+- [The Weird Way the 404 Media Zine Was Built](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
+- [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
+- [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
+- [RFC 6677 DNS Transport over TCP – Implementation Requirements &lpar;2016&rpar;](https://www.ietf.org/rfc/rfc7766.txt)
 - [Almond &lpar;YC X25&rpar; Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
-- [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
