@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=PN5L6t3Lgfk)
 - [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records](https://www.youtube.com/watch?v=PJ6r2ex0Jn8)
 - [Accelerating JSON Array Queries with Multi-Value Hash Indexes | SingleStore Webinars](https://www.youtube.com/watch?v=IaCprdvUvCY)
 - [Accelerating JSON Array Queries with Multi-Value Hash Indexes](https://www.youtube.com/watch?v=eg0TjyQpGZE)
 - [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
-- [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
 <!-- YOUTUBE:END -->
 
 
