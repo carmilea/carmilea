@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Weird Way the 404 Media Zine Was Built](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
-- [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
-- [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
-- [RFC 6677 DNS Transport over TCP – Implementation Requirements &lpar;2016&rpar;](https://www.ietf.org/rfc/rfc7766.txt)
-- [Almond &lpar;YC X25&rpar; Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
+- [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
+- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
+- [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
+- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
+- [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
