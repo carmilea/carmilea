@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tor Project Is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
+- [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
+- [How to break free from smart TV ads and tracking](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/)
+- [The Tor Project is switching to Rust](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
 - [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
-- [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
-- [Smartphone without a battery &lpar;2022&rpar;](https://yaky.dev/2022-09-06-smartphone-without-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
