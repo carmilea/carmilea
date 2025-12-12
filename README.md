@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jottings; Anti-social microblog for your thoughts](https://jottings.me/)
-- [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
+- [How does a &quot;you interview for US company, we do the work&quot; scam work?](https://news.ycombinator.com/item?id=46242907)
+- [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
 - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 - [Smartphone Without a Battery &lpar;2022&rpar;](https://yaky.dev/2022-09-06-smartphone-without-battery/)
 - [The tiniest yet real telescope I&#39;ve built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
