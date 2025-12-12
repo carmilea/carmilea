@@ -62,7 +62,7 @@
 - [Google De-Indexed My Bear Blog and I Don&#39;t Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
-- [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
+- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
