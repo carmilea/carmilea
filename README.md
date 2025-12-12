@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
 - [GNU Unifont](https://unifoundry.com/unifont/index.html)
+- [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 - [Security issues with electronic invoices](https://invoice.secvuln.info/)
 - [New Kindle feature uses AI to answer questions about books](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
-- [Rats Play Doom](https://ratsplaydoom.com/)
-- [The Average Founder Ages 6 Months Each Year](https://tomtunguz.com/founder-age-median-trend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
