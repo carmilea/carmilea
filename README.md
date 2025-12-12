@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
 - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
-- [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
+- [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 - [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
 <!-- BLOG-POST-LIST:END -->
