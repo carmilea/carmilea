@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How does a &quot;you interview for US company, we do the work&quot; scam work?](https://news.ycombinator.com/item?id=46242907)
-- [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)
+- [The Tor Project Is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
+- [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
+- [Training LLMs for Honesty via Confessions](https://arxiv.org/abs/2512.08093)
 - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
-- [Smartphone Without a Battery &lpar;2022&rpar;](https://yaky.dev/2022-09-06-smartphone-without-battery/)
-- [The tiniest yet real telescope I&#39;ve built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+- [Smartphone without a battery &lpar;2022&rpar;](https://yaky.dev/2022-09-06-smartphone-without-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
