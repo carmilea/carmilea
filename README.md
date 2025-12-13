@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+- [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
+- [Germany&#39;s train service is one of Europe&#39;s worst. How did it get so bad?](https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn)
 - [YouTube&#39;s CEO limits his kids&#39; social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
-- [Doxers posing as cops are tricking big tech firms into sharing people&#39;s data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
-- [Google removes Sci-Hub domains from U.S. search results due to dated court order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
-- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
