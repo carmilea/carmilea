@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Workday project at Washington University hits $266M](https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/)
+- [Some surprising things about DuckDuckGo you probably don&#39;t know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
+- [Recovering Anthony Bourdain&#39;s &lpar;really&rpar; lost Li.st&#39;s](https://sandyuraz.com/blogs/bourdain/)
+- [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
-- [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
-- [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
-- [VPN location claims don&#39;t match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
+- [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
