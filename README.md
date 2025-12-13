@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some surprising things about DuckDuckGo you probably don&#39;t know](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
+- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 - [Recovering Anthony Bourdain&#39;s &lpar;really&rpar; lost Li.st&#39;s](https://sandyuraz.com/blogs/bourdain/)
 - [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
