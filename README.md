@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People&#39;s Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
+- [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
 - [Poor Johnny still won&#39;t encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt)
-- [Show HN: Claude Code recipes for knowledge workers](https://github.com/sgharlow/claude-code-recipes)
 - [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
-- [Oliver Sacks fabricated key details in his books](https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html)
+- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
