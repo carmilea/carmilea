@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube&#39;s CEO limits his kids&#39; social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
-- [Bookmark for CAD/2d/3D Useful links](https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d)
 - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
-- [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
+- [Doxers posing as cops are tricking big tech firms into sharing people&#39;s data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
 - [Google removes Sci-Hub domains from U.S. search results due to dated court order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
+- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
