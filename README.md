@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
-- [Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2)
+- [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
+- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
+- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
-- [GNU Unifont](https://unifoundry.com/unifont/index.html)
+- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
