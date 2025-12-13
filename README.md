@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
+- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
+- [Oliver Sacks fabricated key details in his books](https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html)
+- [1300 Still Images from the Animated Films of Hayao Miyazaki&#39;s Studio Ghibli](https://www.ghibli.jp/info/013772/)
 - [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
-- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
-- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
-- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
-- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
