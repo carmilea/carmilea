@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
+- [Multiple Indicted on Charges of Theft and Re-Sale of Restaurant Cooking Oil](https://www.justice.gov/usao-sdia/pr/multiple-chinese-nationals-indicted-charges-related-theft-and-re-sale-restaurant)
 - [LG TV&#39;s new software update installed MS Copilot, which cannot be deleted](https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/)
-- [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
-- [YouTube&#39;s CEO limits his kids&#39; social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
-- [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
+- [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
