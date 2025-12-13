@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+- [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)
+- [LG TV&#39;s new software update installed MS Copilot, which cannot be deleted](https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/)
 - [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 - [YouTube&#39;s CEO limits his kids&#39; social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html)
 - [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993)
-- [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
