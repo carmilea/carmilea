@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bye, Mom](https://aella.substack.com/p/bye-mom)
-- [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
-- [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
-- [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
-- [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
+- [Apple Maps claims it&#39;s 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
+- [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+- [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
+- [Baumol&#39;s Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
+- [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
