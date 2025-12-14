@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is P=NP?](https://adlrocha.substack.com/p/adlrocha-is-nnp)
 - [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)
-- [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
+- [Bye, Mom](https://aella.substack.com/p/bye-mom)
 - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
-- [If a Meta AI model can read a brain-wide signal, why wouldn&#39;t the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
