@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab – &#39;Raise and Shine&#39; Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+- [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
+- [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
 - [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
 - [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
-- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
-- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
-- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
