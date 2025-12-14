@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
-- [Private Equity Finds a New Source of Profit: Volunteer Fire Departments](https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html)
+- [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)
 - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 - [Apple Maps claims it&#39;s 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
