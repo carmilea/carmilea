@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
+- [Do Dyslexia Fonts Actually Work? &lpar;2022&rpar;](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
+- [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)
 - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
 - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
 - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
-- [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
 <!-- BLOG-POST-LIST:END -->
 
 ---
