@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Dyslexia Fonts Actually Work? &lpar;2022&rpar;](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
-- [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)
-- [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
-- [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
-- [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
+- [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
+- [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)
+- [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
+- [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
+- [Do dyslexia fonts work? &lpar;2022&rpar;](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
