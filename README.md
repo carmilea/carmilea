@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From sci-fi to reality: Researchers realise quantum teleportation using tech](https://cordis.europa.eu/article/id/462587-from-sci-fi-to-reality-researchers-realise-quantum-teleportation-using-today-s-internet-tech)
 - [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
 - [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
 - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 - [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
-- [Do dyslexia fonts work? &lpar;2022&rpar;](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
