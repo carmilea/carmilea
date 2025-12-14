@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
-- [Recovering Anthony Bourdain&#39;s &lpar;really&rpar; lost Li.st&#39;s](https://sandyuraz.com/blogs/bourdain/)
-- [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
-- [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
-- [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
+- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
+- [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
+- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
+- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
+- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
