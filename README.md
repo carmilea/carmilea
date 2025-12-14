@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [University life: From 50 years ago to now &lpar;2019&rpar;](https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now)
 - [Bye, Mom](https://aella.substack.com/p/bye-mom)
+- [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
+- [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
 - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
-- [If a Meta AI model can read a brain-wide signal, why wouldn&#39;t the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
