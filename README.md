@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
-- [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)
-- [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
-- [Apple Maps claims it&#39;s 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
-- [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+- [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
+- [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped)
+- [GraphQL: The Enterprise Honeymoon Is Over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
+- [Show HN: a Pager](https://www.udp7777.com/)
+- [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
