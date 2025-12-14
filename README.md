@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited](https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/)
+- [Private Equity Finds a New Source of Profit: Volunteer Fire Departments](https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html)
+- [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
 - [Apple Maps claims it&#39;s 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
-- [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
-- [Baumol&#39;s Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
-- [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
