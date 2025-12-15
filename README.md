@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
+- [Australia&#39;s Social Media Ban Was Pushed by Gambling Ad Agency](https://www.techdirt.com/2025/12/15/australias-social-media-ban-was-pushed-by-ad-agency-focused-on-gambling-ads-it-didnt-want-banned/)
 - [Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026)
 - [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)
-- [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
-- [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo)
-- [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
+- [US Tech Force](https://techforce.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
