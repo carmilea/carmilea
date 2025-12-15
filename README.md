@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres)
+- [Ask HN: Is building a calm, non-gamified learning app a mistake?](https://news.ycombinator.com/item?id=46276019)
+- [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
+- [Samsung may end SATA SSD production soon](https://www.techradar.com/computing/storage-backup/looking-for-a-cheap-ssd-dont-wait-samsung-could-stop-producing-budget-models-soon)
 - [Thousands of U.S. farmers have Parkinson&#39;s. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
-- [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
-- [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
-- [MIT Missing Semester 2026](https://missing.csail.mit.edu/2026/)
-- [Optery &lpar;YC W22&rpar; Hiring CISO, Release Manager, Tech Lead &lpar;Node&rpar;, Full Stack Eng](https://www.optery.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
