@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
-- [Australia&#39;s Social Media Ban Was Pushed by Gambling Ad Agency](https://www.techdirt.com/2025/12/15/australias-social-media-ban-was-pushed-by-ad-agency-focused-on-gambling-ads-it-didnt-want-banned/)
-- [Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026)
-- [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/)
-- [US Tech Force](https://techforce.gov/)
+- [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
+- [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
+- [Upcoming Changes to Let&#39;s Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
+- [Umbrel – Personal Cloud](https://umbrel.com)
+- [“Super secure” MAGA-themed messaging app leaks everyone&#39;s phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
