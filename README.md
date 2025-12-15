@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
+- [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
 - [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
 - [Upcoming Changes to Let&#39;s Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 - [Umbrel – Personal Cloud](https://umbrel.com)
-- [“Super secure” MAGA-themed messaging app leaks everyone&#39;s phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
+- [“Super secure” messaging app leaks everyone&#39;s phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
