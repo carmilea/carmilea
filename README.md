@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)
+- [Thousands of U.S. farmers have Parkinson&#39;s. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
+- [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
+- [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
+- [MIT Missing Semester 2026](https://missing.csail.mit.edu/2026/)
 - [Optery &lpar;YC W22&rpar; Hiring CISO, Release Manager, Tech Lead &lpar;Node&rpar;, Full Stack Eng](https://www.optery.com/careers/)
-- [Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents](https://ampsortation.com/articles/largest-us-recycling-project-spsa)
-- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [Read Something Wonderful](https://readsomethingwonderful.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
