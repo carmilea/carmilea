@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
 - [Read Something Wonderful](https://readsomethingwonderful.com/)
 - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
 - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
-- [John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
-- [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
+- [Unscii](http://viznut.fi/unscii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
