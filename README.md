@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Read Something Wonderful](https://readsomethingwonderful.com/)
+- [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
+- [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
+- [John Varley has died](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
 - [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
-- [Mom and daughter find stranger in trunk of Waymo](https://abc7.com/post/los-angeles-viral-video-mom-daughter-find-stranger-trunk-waymo-macarthur-park/18286019/)
-- [SPhotonix – 360TB into 5-inch glass disc with femtosecond laser](https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots)
-- [CapROS: Capability-Based Reliable Operating System](https://www.capros.org/)
-- [Microsoft Copilot AI Comes to LG TVs, and Can&#39;t Be Deleted](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
