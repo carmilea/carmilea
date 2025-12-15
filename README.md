@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Kenyan. I Don&#39;t Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
+- [Optery &lpar;YC W22&rpar; Hiring CISO, Release Manager, Tech Lead &lpar;Node&rpar;, Full Stack Eng](https://www.optery.com/careers/)
+- [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
 - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [Read Something Wonderful](https://readsomethingwonderful.com/)
-- [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
-- [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
