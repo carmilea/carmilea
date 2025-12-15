@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Kenyan. I Don&#39;t Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
+- [Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)
 - [Optery &lpar;YC W22&rpar; Hiring CISO, Release Manager, Tech Lead &lpar;Node&rpar;, Full Stack Eng](https://www.optery.com/careers/)
-- [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
-- [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
+- [Largest U.S. Recycling Project to Extend Landfill Life for Virginia Residents](https://ampsortation.com/articles/largest-us-recycling-project-spsa)
 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [Read Something Wonderful](https://readsomethingwonderful.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
