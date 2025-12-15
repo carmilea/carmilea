@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
+- [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+- [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
 - [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
+- [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
 - [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
-- [I used Claude Code to write a piano web app](https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app)
-- [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
