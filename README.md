@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
+- [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)
 - [Read Something Wonderful](https://readsomethingwonderful.com/)
 - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
 - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
-- [Unscii](http://viznut.fi/unscii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
