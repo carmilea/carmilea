@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 - [Sharp](https://apple.github.io/ml-sharp/)
 - [8M users&#39; AI conversations sold for profit by &quot;privacy&quot; extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 - [Rollstack &lpar;YC W23&rpar; is hiring multiple software engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-- [Quill OS: An open-source OS for Kobo&#39;s eReaders](https://quill-os.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
