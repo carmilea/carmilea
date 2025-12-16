@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 - [O&#39;saasy License Agreement](https://osaasy.dev/)
 - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
-- [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
