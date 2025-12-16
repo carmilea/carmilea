@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Too Fast to Think: The Hidden Fatigue of AI Vibe Coding](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
-- [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+- [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
 - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
 - [FVWM-95](https://fvwm95.sourceforge.net/)
