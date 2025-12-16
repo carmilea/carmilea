@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d)
+- [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
 - [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
-- [O&#39;saasy License Agreement](https://osaasy.dev/)
 - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
-- [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
