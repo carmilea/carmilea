@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FVWM-95](https://fvwm95.sourceforge.net/)
+- [Artie &lpar;YC S23&rpar; Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
+- [Track Surveillance &lpar;Flock Cameras&rpar; Tech in Local Government Meetings](https://alpr.watch/)
+- [Devs say Apple still flouting EU&#39;s Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
 - [AIsbom – open-source CLI to detect &quot;Pickle Bombs&quot; in PyTorch models](https://github.com/Lab700xOrg/aisbom)
-- [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)
-- [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
-- [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
-- [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
