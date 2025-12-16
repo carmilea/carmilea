@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thomas Piketty: &#39;The reality is the US is losing control of the world&#39;](https://www.lemonde.fr/en/opinion/article/2025/04/12/thomas-piketty-the-reality-is-the-us-is-losing-control-of-the-world_6740140_23.html)
-- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
-- [Should we fear Microsoft&#39;s monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
-- [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
-- [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
+- [Mozilla Appoints New CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
+- [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
+- [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
+- [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
+- [I don&#39;t think Lindley&#39;s paradox supports p-circling](https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
