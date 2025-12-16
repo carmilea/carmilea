@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [8M Users&#39; AI Conversations Sold for Profit by &quot;Privacy&quot; Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+- [Sharp](https://apple.github.io/ml-sharp/)
+- [8M users&#39; AI conversations sold for profit by &quot;privacy&quot; extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 - [Rollstack &lpar;YC W23&rpar; is hiring multiple software engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-- [Ideas aren&#39;t getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-- [Quill OS is an open-source, fully-functional standalone OS for Kobo&#39;s eReaders](https://quill-os.org/)
+- [Quill OS: An open-source OS for Kobo&#39;s eReaders](https://quill-os.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
