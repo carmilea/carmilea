@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rollstack &lpar;YC W23&rpar; Is Hiring Multiple Software Engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
+- [8M Users&#39; AI Conversations Sold for Profit by &quot;Privacy&quot; Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+- [Rollstack &lpar;YC W23&rpar; is hiring multiple software engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-- [Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard](https://iixotic.github.io/PasteClean/website/)
-- [Ideas Aren&#39;t Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-- [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
+- [Ideas aren&#39;t getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
+- [Quill OS is an open-source, fully-functional standalone OS for Kobo&#39;s eReaders](https://quill-os.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
