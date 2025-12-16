@@ -61,8 +61,8 @@
 - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
 - [O&#39;saasy License Agreement](https://osaasy.dev/)
 - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
+- [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
-- [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
