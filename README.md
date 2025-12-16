@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
-- [Economics of Orbital vs. Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters)
-- [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
-- [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
-- [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring Multiple Software Engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
+- [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+- [Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard](https://iixotic.github.io/PasteClean/website/)
+- [Ideas Aren&#39;t Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
+- [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
