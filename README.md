@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
-- [Vibe coding creates fatigue?](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
-- [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
-- [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
-- [FVWM-95](https://fvwm95.sourceforge.net/)
+- [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
+- [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
+- [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+- [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic)
+- [Ty: A fast Python type checker and LSP](https://astral.sh/blog/ty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
