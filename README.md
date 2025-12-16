@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+- [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
+- [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
 - [FVWM-95](https://fvwm95.sourceforge.net/)
-- [Artie &lpar;YC S23&rpar; Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae)
-- [Track Surveillance &lpar;Flock Cameras&rpar; Tech in Local Government Meetings](https://alpr.watch/)
-- [Devs say Apple still flouting EU&#39;s Digital Markets Act six months on](https://www.theregister.com/2025/12/16/apple_dma_complaint/)
-- [AIsbom – open-source CLI to detect &quot;Pickle Bombs&quot; in PyTorch models](https://github.com/Lab700xOrg/aisbom)
+- [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
