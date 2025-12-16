@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla&#39;s new CEO is doubling down on an AI future for Firefox](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo)
+- [AIsbom – open-source CLI to detect &quot;Pickle Bombs&quot; in PyTorch models](https://github.com/Lab700xOrg/aisbom)
+- [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)
+- [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
+- [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
 - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
-- [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
-- [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
-- [I don&#39;t think Lindley&#39;s paradox supports p-circling](https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
