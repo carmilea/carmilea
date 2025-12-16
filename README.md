@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
+- [Reverse-Engineering the RK3588 NPU: Hacking Limits to Run Vision Transformers](https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/)
 - [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
-- [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 - [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic)
-- [Ty: A fast Python type checker and LSP](https://astral.sh/blog/ty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
