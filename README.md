@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+- [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
+- [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
+- [Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 - [How SQLite is tested](https://sqlite.org/testing.html)
 - [FCC chair suggests agency isn&#39;t independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
-- [Why outcome-billing makes sense for AI Agents](https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/)
-- [Put SSH keys in .git to make repos USB-portable](https://dansjots.github.io/posts/per-repo-ssh-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
