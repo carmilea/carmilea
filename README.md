@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Isn&#39;t Just Spying on You. It&#39;s Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
+- [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
+- [&quot;There are more Japanese [VRChat] creators than all other countries combined &quot;](https://twitter.com/chyadosensei/status/2001356290531156159)
+- [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)
 - [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
-- [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
-- [Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
-- [How SQLite is tested](https://sqlite.org/testing.html)
-- [FCC chair suggests agency isn&#39;t independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
