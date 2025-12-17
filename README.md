@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Subsets &lpar;YC S23&rpar; is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
 - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
 - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 - [Introduction to Software Development Tooling &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
-- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
 <!-- BLOG-POST-LIST:END -->
 
