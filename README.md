@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
+- [AI&#39;s real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
 - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 - [P: Formal Modeling and Analysis of Distributed &lpar;Event-Driven&rpar; Systems](https://github.com/p-org/P)
 - [Subsets &lpar;YC S23&rpar; is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
-- [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
