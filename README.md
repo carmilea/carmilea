@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
-- [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
-- [CS 4973: Introduction to Software Development Tooling – Northeastern Univ &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
+- [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
+- [Introduction to Software Development Tooling &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
 - [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
+- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
