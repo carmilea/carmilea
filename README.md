@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258)
 - [Subsets &lpar;YC S23&rpar; is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
-- [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
 - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 - [Introduction to Software Development Tooling &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
 - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
