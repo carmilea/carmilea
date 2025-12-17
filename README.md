@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond RC4 for Windows Authentication](https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication)
-- [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
+- [How SQLite Is Tested](https://sqlite.org/testing.html)
+- [FCC chair suggests agency isn&#39;t independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
+- [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
+- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
 - [AWS CEO says replacing junior devs with AI is &#39;one of the dumbest ideas&#39;](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
-- [Flick &lpar;YC F25&rpar; Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer)
-- [Welcoming New Leaders to Help Shape SingleStore’s Next Chapter](https://www.singlestore.com/blog/welcoming-new-leaders-to-help-shape-singlestores-next-chapter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
