@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning the oldest programming language &lpar;2024&rpar;](https://uncenter.dev/posts/learning-fortran/)
-- [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
-- [Short-Circuiting Correlated Subqueries in SQLite](https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/)
-- [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
-- [AI&#39;s real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
+- [Beyond RC4 for Windows Authentication](https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication)
+- [Tiffany lamp coveted by Steve Jobs sells for $4.4M](https://www.semafor.com/article/12/16/2025/tiffany-lamp-coveted-by-steve-jobs-sells-for-44-million)
+- [AWS CEO says replacing junior devs with AI is &#39;one of the dumbest ideas&#39;](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+- [Flick &lpar;YC F25&rpar; Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer)
+- [Welcoming New Leaders to Help Shape SingleStore’s Next Chapter](https://www.singlestore.com/blog/welcoming-new-leaders-to-help-shape-singlestores-next-chapter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
