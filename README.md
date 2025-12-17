@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How SQLite Is Tested](https://sqlite.org/testing.html)
+- [Hack Reveals the A16Z-Backed Phone Farm Flooding TikTok with AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+- [How SQLite is tested](https://sqlite.org/testing.html)
 - [FCC chair suggests agency isn&#39;t independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
-- [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
-- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
-- [AWS CEO says replacing junior devs with AI is &#39;one of the dumbest ideas&#39;](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+- [Why outcome-billing makes sense for AI Agents](https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/)
+- [Put SSH keys in .git to make repos USB-portable](https://dansjots.github.io/posts/per-repo-ssh-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
