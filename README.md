@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
+- [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
 - [CS 4973: Introduction to Software Development Tooling – Northeastern Univ &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
 - [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
-- [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
-- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
