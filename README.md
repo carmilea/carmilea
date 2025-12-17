@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
-- [Reverse-Engineering the RK3588 NPU: Hacking Limits to Run Vision Transformers](https://amohan.dev/blog/2025/shard-optimizing-vision-transformers-edge-npu/)
-- [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
-- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
-- [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic)
+- [CS 4973: Introduction to Software Development Tooling – Northeastern Univ &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
+- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
+- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
+- [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
+- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
