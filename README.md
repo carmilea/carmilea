@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
+- [Here is the 15 sec coding test I used to instantly filter out most applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
+- [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 - [AI Isn&#39;t Just Spying on You. It&#39;s Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing)
 - [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
-- [&quot;There are more Japanese [VRChat] creators than all other countries combined &quot;](https://twitter.com/chyadosensei/status/2001356290531156159)
-- [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)
-- [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
