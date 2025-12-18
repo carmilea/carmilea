@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Kinds of Vibe Coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 - [Delty &lpar;YC X25&rpar; Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
-- [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
