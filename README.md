@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most parked domains now serving malicious content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers)
 - [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
 - [Creating apps like Signal could be &#39;hostile activity&#39; claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
-- [America&#39;s Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)
-- [Slowness Is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
