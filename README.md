@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtualizing Nvidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
 - [Most parked domains now serving malicious content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 - [Classical statues were not painted horribly](https://worksinprogress.co/issue/were-classical-statues-painted-horribly/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers)
 - [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
-- [Creating apps like Signal could be &#39;hostile activity&#39; claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
