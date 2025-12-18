@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
+- [How getting richer made teenagers less free](https://www.theargumentmag.com/p/how-getting-richer-made-teenagers)
+- [Online Textbook for Braid groups and knots and tangles](https://matthematics.com/redoak/redoak.html)
+- [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)
 - [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
-- [What is an elliptic curve? &lpar;2019&rpar;](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
-- [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
-- [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
-- [&#39;Ghost jobs&#39; are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
