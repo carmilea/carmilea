@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Banned Books: The Most Banned Books in U.S. Schools – Pen America](https://pen.org/top-52-banned-books-since-2021/)
+- [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 - [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 - [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
-- [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
-- [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
