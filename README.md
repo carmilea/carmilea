@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Banned Books: The Most Banned Books in U.S. Schools – Pen America](https://pen.org/top-52-banned-books-since-2021/)
-- [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
-- [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
-- [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
-- [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
+- [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
+- [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
+- [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
+- [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
+- [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
