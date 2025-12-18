@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+- [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 - [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
+- [Agent Skills is now an open standard](https://claude.com/blog/organization-skills-and-directory)
 - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
-- [Launch HN: Pulse &lpar;YC S24&rpar; – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
-- [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
-- [Using TypeScript to Obtain One of the Rarest License Plates](https://www.jack.bio/blog/licenseplate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
