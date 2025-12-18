@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve Is Running Apple&#39;s Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
+- [Military Standard on Software Control Levels](https://entropicthoughts.com/mil-std-882e-software-control)
 - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 - [Launch HN: Pulse &lpar;YC S24&rpar; – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
 - [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
