@@ -45,10 +45,10 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=PN5L6t3Lgfk)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=xK_bVA78cD4)
 - [Live from Nasdaq Marketsite: Sri Ambati &lpar;H2O.ai&rpar; and Dan Jermyn &lpar;CBA&rpar;](https://www.youtube.com/watch?v=h_LF9_UpXFY)
 - [Building Applications with Laravel and SingleStore](https://www.youtube.com/watch?v=nwcAX2bBnUw)
-- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=PN5L6t3Lgfk)
 - [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records](https://www.youtube.com/watch?v=PJ6r2ex0Jn8)
 <!-- YOUTUBE:END -->
 
