@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 - [What is an elliptic curve? &lpar;2019&rpar;](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
-- [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
 - [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
 - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
 - [&#39;Ghost jobs&#39; are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
