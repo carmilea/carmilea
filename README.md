@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)
+- [Slowness Is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
+- [After Ruining a Treasured Water Resource, Iran Is Drying Up](https://e360.yale.edu/features/iran-water-drought-dams-qanats)
 - [It&#39;s all about momentum](https://combo.cc/posts/its-all-about-momentum-innit/)
 - [How getting richer made teenagers less free](https://www.theargumentmag.com/p/how-getting-richer-made-teenagers)
-- [Online Textbook for Braid groups and knots and tangles](https://matthematics.com/redoak/redoak.html)
-- [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)
-- [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
