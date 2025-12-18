@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
-- [Germany: Amazon is not allowed to force customers to watch ads on Prime Video](https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung)
+- [Mozilla&#39;s New CEO Confirms Firefox Will Become an &quot;AI Browser&quot;](https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy)
+- [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)
 - [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 - [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
-- [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
