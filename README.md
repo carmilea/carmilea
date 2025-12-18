@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
+- [What is an elliptic curve? &lpar;2019&rpar;](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
+- [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
+- [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
 - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
 - [&#39;Ghost jobs&#39; are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
-- [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/)
-- [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 <!-- BLOG-POST-LIST:END -->
 
 ---
