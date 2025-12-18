@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve Is Running Apple&#39;s Playbook in Reverse](https://www.garbagecollected.dev/p/valve-the-reverse-apple)
+- [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
+- [Launch HN: Pulse &lpar;YC S24&rpar; – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
+- [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
 - [Using TypeScript to Obtain One of the Rarest License Plates](https://www.jack.bio/blog/licenseplate)
-- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
-- [Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
-- [Are Apple gift cards safe to redeem?](https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem)
-- [systemd v259 Released](https://github.com/systemd/systemd/releases/tag/v259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
