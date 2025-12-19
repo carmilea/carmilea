@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great ideas in theoretical computer science](https://www.cs251.com/)
 - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-- [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
+- [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 - [Delty &lpar;YC X25&rpar; Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
-- [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
