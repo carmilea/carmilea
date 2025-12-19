@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 - [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
 - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
-- [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
-- [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
-- [Reverse Engineering US Airline&#39;s PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
