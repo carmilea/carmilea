@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
-- [The FreeBSD Foundation&#39;s Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
-- [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
-- [AMD officially confirms fresh next-gen Zen 6 CPU details](https://overclock3d.net/news/cpu_mainboard/amd-officially-confirms-fresh-next-gen-zen-6-cpu-details/)
-- [Show HN: I open-sourced my Go and Next B2B SaaS Starter &lpar;deploy anywhere, MIT&rpar;](https://github.com/moasq/production-saas-starter)
+- [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
+- [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
+- [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
+- [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
+- [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
