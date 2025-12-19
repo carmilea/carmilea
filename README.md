@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)
 - [Show HN: I Made Loom for Mobile](https://demoscope.app)
 - [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)
-- [I have to give Fortnite my passport to use Bluesky](https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky)
+- [AI will kill all the lawyers](https://spectator.com/article/ai-will-kill-all-the-lawyers/)
 - [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
-- [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
