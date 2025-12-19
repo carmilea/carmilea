@@ -62,7 +62,7 @@
 - [Great ideas in theoretical computer science](https://www.cs251.com/)
 - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-- [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+- [Delty &lpar;YC X25&rpar; Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
