@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A proposed amendment to ban under 16s in the UK from common online services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/)
+- [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
+- [The FreeBSD Foundation&#39;s Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
+- [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
+- [AMD officially confirms fresh next-gen Zen 6 CPU details](https://overclock3d.net/news/cpu_mainboard/amd-officially-confirms-fresh-next-gen-zen-6-cpu-details/)
 - [Show HN: I open-sourced my Go and Next B2B SaaS Starter &lpar;deploy anywhere, MIT&rpar;](https://github.com/moasq/production-saas-starter)
-- [GotaTun -- Mullvad&#39;s WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
-- [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
-- [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
 <!-- BLOG-POST-LIST:END -->
 
 ---
