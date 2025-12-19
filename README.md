@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
 - [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results)
-- [Getting bitten by Intel&#39;s poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
+- [Getting bitten by Intel&#39;s poor naming schemes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
 - [Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248)
 - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
 <!-- BLOG-POST-LIST:END -->
