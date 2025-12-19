@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Made Loom for Mobile](https://demoscope.app)
+- [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html)
+- [I have to give Fortnite my passport to use Bluesky](https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky)
 - [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/)
 - [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)
-- [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
-- [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
-- [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
