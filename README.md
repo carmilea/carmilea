@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic says AI sentiment is positive. Their data tells a different story](https://www.playbookatlas.com/research/ai-adoption-explorer)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
-- [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
-- [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
+- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
