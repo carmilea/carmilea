@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
 - [Great ideas in theoretical computer science](https://www.cs251.com/)
-- [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
+- [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-- [Delty &lpar;YC X25&rpar; Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
+- [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
