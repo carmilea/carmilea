@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy doesn&#39;t mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 - [Charles Proxy](https://www.charlesproxy.com/)
+- [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
 - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
 - [Build Your Own React](https://pomb.us/build-your-own-react/)
-- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 <!-- BLOG-POST-LIST:END -->
 
 ---
