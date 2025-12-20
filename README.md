@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
 - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
-- [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 - [Raycaster &lpar;YC F24&rpar; Is Hiring a Research Engineer &lpar;NYC, In-Person&rpar;](https://news.ycombinator.com/item?id=46335552)
 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
 - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
