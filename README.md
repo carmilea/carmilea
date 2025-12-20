@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on AI at the End of 2025](https://antirez.com/news/157)
 - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 - [A train-sized tunnel is now carrying electricity under South London](https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/)
-- [Debian adds LoongArch as officially supported architecture](https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html)
+- [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
 - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
-- [Contrails Map](https://map.contrails.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
