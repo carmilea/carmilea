@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PBS News Hour West to go dark after ASU discontinues contract](https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure)
+- [Build Your Own React](https://pomb.us/build-your-own-react/)
 - [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
