@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charles Proxy](https://www.charlesproxy.com/)
 - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
 - [Build Your Own React](https://pomb.us/build-your-own-react/)
-- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 <!-- BLOG-POST-LIST:END -->
