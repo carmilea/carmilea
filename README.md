@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 - [Raycaster &lpar;YC F24&rpar; Is Hiring a Research Engineer &lpar;NYC, In-Person&rpar;](https://news.ycombinator.com/item?id=46335552)
 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
 - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
-- [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
