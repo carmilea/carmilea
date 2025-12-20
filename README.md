@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
 - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 - [I spent a week without IPv4 &lpar;2023&rpar;](https://www.apalrd.net/posts/2023/network_ipv6/)
 - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-- [Mathematicians don&#39;t care about foundations](https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/)
-- [Depot &lpar;YC W23&rpar; Is Hiring an Enterprise Support Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
+- [Mathematicians don&#39;t care about foundations &lpar;2022&rpar;](https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
