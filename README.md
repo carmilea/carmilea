@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Depot &lpar;YC W23&rpar; Is Hiring an Enterprise Support Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
+- [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 - [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
-- [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
-- [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
-- [Raycaster &lpar;YC F24&rpar; Is Hiring a Research Engineer &lpar;NYC, In-Person&rpar;](https://news.ycombinator.com/item?id=46335552)
+- [Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
