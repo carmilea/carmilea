@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent a WEEK without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
+- [&#39;LeBron James of spreadsheets&#39; wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
+- [I spent a week without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
 - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 - [Depot &lpar;YC W23&rpar; Is Hiring an Enterprise Support Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
 - [Big GPUs don&#39;t need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
-- [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
