@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 - [Approaching 50 Years of String Theory](https://www.math.columbia.edu/~woit/wordpress/?p=15401)
 - [Raycaster &lpar;YC F24&rpar; Is Hiring a Research Engineer &lpar;NYC, In-Person&rpar;](https://news.ycombinator.com/item?id=46335552)
 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
-- [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
-- [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
+- [Reflections on AI at the End of 2025](https://antirez.com/news/157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
