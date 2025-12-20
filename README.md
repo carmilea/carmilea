@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic says AI sentiment is positive. Their data tells a different story](https://www.playbookatlas.com/research/ai-adoption-explorer)
+- [PBS News Hour West to go dark after ASU discontinues contract](https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure)
+- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
-- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
