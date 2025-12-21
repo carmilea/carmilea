@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
+- [Clair Obscur has &#39;Game of the Year&quot; title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 - [Ruby&#39;s Website Got an Overhaul](https://www.ruby-lang.org/en/)
 - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
 - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
-- [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
-- [I doubt anything resembling genuine AGI is within reach](https://mathstodon.xyz/@tao/115722360006034040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
