@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
+- [Mullvad VPN: &quot;This is a Chat Control 3.0 attempt.&quot;](https://mastodon.online/@mullvadnet/115742530333573065)
+- [You&#39;re Not Burnt Out. You&#39;re Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
+- [Day laborers protest noise machines installed at Home Depot](https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot)
 - [Logging Sucks](https://loggingsucks.com/)
-- [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
-- [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
-- [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
-- [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
