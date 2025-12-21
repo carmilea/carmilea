@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
-- [Coarse Is Better](https://borretti.me/article/coarse-is-better)
-- [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
-- [Show HN: The Official National Train Map Sucked, So I Made My Own](https://www.bdzmap.com/)
-- [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
+- [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
+- [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
+- [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
+- [Reasons Not to Become Famous &lpar;2020&rpar;](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
+- [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
