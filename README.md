@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creators Turn Your Outrage into Their Paycheck](https://thebookofragebait.com/)
+- [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
 - [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+- [More on whether useful quantum computing is &quot;imminent&quot;](https://scottaaronson.blog/?p=9425)
+- [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
 - [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
-- [Mullvad VPN: &quot;This is a Chat Control 3.0 attempt.&quot;](https://mastodon.online/@mullvadnet/115742530333573065)
-- [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
