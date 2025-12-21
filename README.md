@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
-- [Clair Obscur has &#39;Game of the Year&quot; title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
-- [Ruby&#39;s Website Got an Overhaul](https://www.ruby-lang.org/en/)
+- [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+- [Ruby website redesigned](https://www.ruby-lang.org/en/)
 - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
-- [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
+- [Indoor tanning makes youthful skin much older on a genetic level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
 <!-- BLOG-POST-LIST:END -->
 
 ---
