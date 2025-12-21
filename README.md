@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
+- [Creators Turn Your Outrage into Their Paycheck](https://thebookofragebait.com/)
+- [A Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 - [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 - [Mullvad VPN: &quot;This is a Chat Control 3.0 attempt.&quot;](https://mastodon.online/@mullvadnet/115742530333573065)
-- [You&#39;re Not Burnt Out. You&#39;re Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
-- [Logging Sucks](https://loggingsucks.com/)
+- [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
