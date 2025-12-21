@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging Sucks](https://loggingsucks.com/)
+- [Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M](https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/)
+- [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
 - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
 - [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
-- [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
-- [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
-- [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
