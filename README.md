@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
+- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+- [PG&amp;E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php)
 - [Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
 - [Claude in Chrome](https://claude.com/chrome)
-- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
-- [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
-- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
