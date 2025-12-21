@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weight loss jabs: What happens when you stop taking them](https://www.bbc.com/news/articles/cn98pdpyjz5o)
 - [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
 - [Mullvad VPN: &quot;This is a Chat Control 3.0 attempt.&quot;](https://mastodon.online/@mullvadnet/115742530333573065)
 - [You&#39;re Not Burnt Out. You&#39;re Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
-- [Day laborers protest noise machines installed at Home Depot](https://www.latimes.com/california/story/2025-12-17/day-laborers-protest-noise-machines-home-depot)
 - [Logging Sucks](https://loggingsucks.com/)
 <!-- BLOG-POST-LIST:END -->
 
