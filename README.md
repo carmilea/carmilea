@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
+- [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
 - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
-- [Reasons Not to Become Famous &lpar;2020&rpar;](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
-- [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
