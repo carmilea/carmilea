@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
-- [Anatomy of US inequality](https://www.nber.org/papers/w34558)
-- [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
 - [Claude in Chrome](https://claude.com/chrome)
 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+- [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
+- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
