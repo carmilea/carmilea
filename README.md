@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
 - [Coarse Is Better](https://borretti.me/article/coarse-is-better)
 - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 - [Show HN: The Official National Train Map Sucked, So I Made My Own](https://www.bdzmap.com/)
 - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
-- [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
