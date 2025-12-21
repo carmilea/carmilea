@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
-- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=PN5L6t3Lgfk)
-- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=xK_bVA78cD4)
 - [Live from Nasdaq Marketsite: Sri Ambati &lpar;H2O.ai&rpar; and Dan Jermyn &lpar;CBA&rpar;](https://www.youtube.com/watch?v=h_LF9_UpXFY)
-- [Building Applications with Laravel and SingleStore](https://www.youtube.com/watch?v=nwcAX2bBnUw)
+- [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
+- [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
+- [AI Assisted Bug Fixes using h2oGPTe Action](https://www.youtube.com/watch?v=ZYJRTD-SID0)
 <!-- YOUTUBE:END -->
 
 
