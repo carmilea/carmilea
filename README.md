@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A power outage in Colorado caused U.S. official time be 4.8 microseconds off](https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks)
+- [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
 - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
-- [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 - [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
+- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
