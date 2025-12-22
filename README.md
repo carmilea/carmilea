@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vince Zampella has died](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
 - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
 - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [Things I learnt about passkeys when building passkeybot](https://enzom.dev/b/passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
