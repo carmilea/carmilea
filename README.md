@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
+- [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 - [Tc – Theodore Calvin&#39;s language-agnostic testing framework](https://github.com/ahoward/tc)
-- [DOJ uploaded a 12-SEC video showing Epstein attempting suicide?](https://twitter.com/rtwlz/status/2003211685650374823)
 - [It&#39;s Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- [Is the golden age of Indie software over?](https://successfulsoftware.net/2025/12/22/is-the-golden-age-of-indie-software-over/)
-- [Feds demand compromise on Colorado River while states flounder](https://nevadacurrent.com/2025/12/22/feds-demand-compromise-on-colorado-river-states-flounder-despite-water-shoratge/)
+- [In Pursuit of Clancy Sigal &lpar;2021&rpar;](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
