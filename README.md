@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vince Zampella has died](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
-- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
-- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
-- [The Garbage Collection Handbook](https://gchandbook.org/index.html)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Tc – Theodore Calvin&#39;s language-agnostic testing framework](https://github.com/ahoward/tc)
+- [DOJ uploaded a 12-SEC video showing Epstein attempting suicide?](https://twitter.com/rtwlz/status/2003211685650374823)
+- [It&#39;s Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- [Is the golden age of Indie software over?](https://successfulsoftware.net/2025/12/22/is-the-golden-age-of-indie-software-over/)
+- [Feds demand compromise on Colorado River while states flounder](https://nevadacurrent.com/2025/12/22/feds-demand-compromise-on-colorado-river-states-flounder-despite-water-shoratge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
