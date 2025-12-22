@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Don&#39;t Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
-- [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
-- [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
+- [The biggest CRT ever made: Sony&#39;s PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+- [If you don&#39;t design your career, someone else will &lpar;2014&rpar;](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+- [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
+- [Well being in times of algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
-- [Cartoon Network channel errors &lpar;1995 – 2025&rpar;](https://cnas.fandom.com/wiki/Channel_Errors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
