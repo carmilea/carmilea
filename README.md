@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Bathroom Monitors? Welcome to America&#39;s New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+- [Henge Finder](https://hengefinder.rcdis.co/#learn)
 - [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+- [NIST was 5 μs off UTC after last week&#39;s power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
 - [Uplane &lpar;YC F25&rpar; Is Hiring Founding Engineers &lpar;Full-Stack and AI&rpar;](https://www.useparallel.com/uplane1/careers)
-- [Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)
-- [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
-- [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
