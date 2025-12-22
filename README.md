@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
+- [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
+- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
-- [Engineering dogmas it&#39;s time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
-- [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
 - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-- [More on whether useful quantum computing is &quot;imminent&quot;](https://scottaaronson.blog/?p=9425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
