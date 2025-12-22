@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What would you do if you didn&#39;t work in tech?](https://news.ycombinator.com/item?id=46355364)
+- [Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+- [Uplane &lpar;YC F25&rpar; Is Hiring Founding Engineers &lpar;Full-Stack and AI&rpar;](https://www.useparallel.com/uplane1/careers)
+- [Jimmy Lai Is a Martyr for Freedom](https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/)
 - [The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine](https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html)
 - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
-- [The biggest CRT ever made: Sony&#39;s PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
-- [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
