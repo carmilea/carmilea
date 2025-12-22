@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
-- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
 - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 <!-- BLOG-POST-LIST:END -->
