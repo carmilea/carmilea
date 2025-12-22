@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
 - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
+- [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
 - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
-- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
-- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
