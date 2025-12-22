@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The biggest CRT ever made: Sony&#39;s PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+- [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 - [If you don&#39;t design your career, someone else will &lpar;2014&rpar;](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 - [Well being in times of algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
-- [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
