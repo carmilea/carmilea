@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Origin of Hallucination in LLMs, The physical source of hallucinations has found](https://arxiv.org/abs/2512.01797)
+- [&lpar;Social&rpar; media manipulation in one image](https://kerkour.com/social-media-manipulation)
 - [The biggest CRT ever made: Sony&#39;s PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
 - [If you don&#39;t design your career, someone else will &lpar;2014&rpar;](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
-- [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
-- [Well being in times of algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
