@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [If You Don&#39;t Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+- [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
 - [Cartoon Network channel errors &lpar;1995 – 2025&rpar;](https://cnas.fandom.com/wiki/Channel_Errors)
-- [Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
