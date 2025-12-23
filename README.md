@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [60 Minutes: Cecot](https://news.ycombinator.com/item?id=46362149)
-- [The 60 Minutes report that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak)
+- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
+- [Archivists Posted the 60 Minutes Cecot Segment Bari Weiss Killed](https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/)
 - [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
+- [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
 - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
-- [Laptop Isn&#39;t Ready for LLMs. That&#39;s About to Change](https://spectrum.ieee.org/ai-models-locally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
