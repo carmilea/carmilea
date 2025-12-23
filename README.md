@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Postponed &#39;60 Minutes&#39; segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
+- [Test, Don&#39;t &lpar;Just&rpar; Verify](https://alperenkeles.com/posts/test-dont-verify/)
 - [Font with Built-In Syntax Highlighting &lpar;2024&rpar;](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 - [Ask HN: What are the best engineering blogs with real-world depth?](https://news.ycombinator.com/item?id=46363921)
 - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
