@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)
-- [Snitch – a friendly netstat alternative for humans](https://github.com/karol-broda/snitch)
-- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
-- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
-- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
+- [60 Minutes: Cecot](https://news.ycombinator.com/item?id=46362149)
+- [The 60 Minutes report that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak)
+- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
+- [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
+- [Laptop Isn&#39;t Ready for LLMs. That&#39;s About to Change](https://spectrum.ieee.org/ai-models-locally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
