@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Test, Don&#39;t &lpar;Just&rpar; Verify](https://alperenkeles.com/posts/test-dont-verify/)
+- [Choosing Rowstore or Columnstore? How to Pick the Right Engine for Your Workload](https://www.singlestore.com/blog/choosing-rowstore-or-columnstore-how-to-pick-the-right-engine-for-your-workload)
+- [Test, don&#39;t &lpar;just&rpar; verify](https://alperenkeles.com/posts/test-dont-verify/)
+- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 - [Font with Built-In Syntax Highlighting &lpar;2024&rpar;](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-- [Ask HN: What are the best engineering blogs with real-world depth?](https://news.ycombinator.com/item?id=46363921)
-- [Carnap – A formal logic framework for Haskell](https://carnap.io/)
-- [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
+- [Classical billiards can compute &lpar;2d billiard systems are Turing complete&rpar;](https://arxiv.org/abs/2512.19156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
