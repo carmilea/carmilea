@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Is Using the Linux Scheduler Designed for Valve&#39;s Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
-- [Choosing Rowstore or Columnstore? How to Pick the Right Engine for Your Workload](https://www.singlestore.com/blog/choosing-rowstore-or-columnstore-how-to-pick-the-right-engine-for-your-workload)
-- [Test, don&#39;t &lpar;just&rpar; verify](https://alperenkeles.com/posts/test-dont-verify/)
-- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
-- [Font with Built-In Syntax Highlighting &lpar;2024&rpar;](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+- [We replaced H.264 streaming with JPEG screenshots &lpar;and it worked better&rpar;](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
+- [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
+- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
+- [Meta is using the Linux scheduler designed for Valve&#39;s Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
+- [When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
