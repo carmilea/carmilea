@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Slopware](https://stopslopware.net/)
+- [Meta Is Using the Linux Scheduler Designed for Valve&#39;s Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 - [Choosing Rowstore or Columnstore? How to Pick the Right Engine for Your Workload](https://www.singlestore.com/blog/choosing-rowstore-or-columnstore-how-to-pick-the-right-engine-for-your-workload)
 - [Test, don&#39;t &lpar;just&rpar; verify](https://alperenkeles.com/posts/test-dont-verify/)
 - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
