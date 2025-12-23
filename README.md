@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 26.2 lockscreen clock is slowly moving left](https://twitter.com/ffaebi/status/2003548130936332519)
+- [Terrence Malick&#39;s Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
+- [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
 - [Volvo Centum is Dalton Maag&#39;s new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
-- [We replaced H.264 streaming with JPEG screenshots &lpar;and it worked better&rpar;](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
-- [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
-- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
