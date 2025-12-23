@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microspeak: North Star – The Old New Thing &lpar;2015&rpar;](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
+- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+- [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
 - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 - [I didn&#39;t realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
-- [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
-- [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
-- [Terrence Malick&#39;s Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
