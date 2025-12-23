@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
-- [What are the best engineering blogs with real-world depth &lpar;no fluff&rpar;?](https://news.ycombinator.com/item?id=46363921)
+- [Postponed &#39;60 Minutes&#39; segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
+- [Font with Built-In Syntax Highlighting &lpar;2024&rpar;](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+- [Ask HN: What are the best engineering blogs with real-world depth?](https://news.ycombinator.com/item?id=46363921)
 - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
-- [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
