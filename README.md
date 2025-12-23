@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+- [I didn&#39;t realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 - [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
+- [Fixed-Wing Runway Design](https://www.wbdg.org/building/aviation/fixed-wing-runway-design)
 - [Terrence Malick&#39;s Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
-- [Un-Redactor](https://github.com/kvthweatt/unredactor)
-- [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
-- [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 <!-- BLOG-POST-LIST:END -->
 
 ---
