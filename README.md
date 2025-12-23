@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)
+- [Snitch – a friendly netstat alternative for humans](https://github.com/karol-broda/snitch)
+- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
 - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
-- [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
-- [Tc – Theodore Calvin&#39;s language-agnostic testing framework](https://github.com/ahoward/tc)
-- [It&#39;s Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- [In Pursuit of Clancy Sigal &lpar;2021&rpar;](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
+- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
