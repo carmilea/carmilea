@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 26.2 lockscreen clock is slowly moving left](https://twitter.com/ffaebi/status/2003548130936332519)
+- [HTTP Caching, a Refresher](https://danburzo.ro/http-caching-refresher/)
 - [Terrence Malick&#39;s Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
+- [Un-Redactor](https://github.com/kvthweatt/unredactor)
 - [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
-- [Volvo Centum is Dalton Maag&#39;s new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 <!-- BLOG-POST-LIST:END -->
 
