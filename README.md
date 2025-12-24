@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU&#39;s Fine Against X Is Not About Speech or &#39;Censorship&#39;](https://www.techpolicy.press/the-eus-fine-against-x-is-not-about-speech-or-censorship/)
+- [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)
+- [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)
+- [Super Mario Bros. and Yoshi Games &lpar;Yields&rpar; Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)
+- [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
-- [The Ultimate Windows Utility &lpar;2022&rpar;](https://christitus.com/windows-tool/)
-- [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
-- [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
