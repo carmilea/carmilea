@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)
 - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 - [Don&#39;t Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-- [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
 - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 <!-- BLOG-POST-LIST:END -->
