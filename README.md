@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
+- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
+- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
 - [Microspeak: North Star – The Old New Thing &lpar;2015&rpar;](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
 - [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
-- [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
-- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
-- [I didn&#39;t realize my LG TV was spying on me until I turned off this setting](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
