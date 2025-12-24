@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Windows Utility](https://christitus.com/windows-tool/)
+- [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
+- [The Ultimate Windows Utility &lpar;2022&rpar;](https://christitus.com/windows-tool/)
 - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
-- [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
 - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 <!-- BLOG-POST-LIST:END -->
