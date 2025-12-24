@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Next JavaScript app is hacked, you just don&#39;t know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)
-- [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)
+- [The Windows Utility](https://christitus.com/windows-tool/)
+- [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
+- [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
+- [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
-- [Don&#39;t Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
