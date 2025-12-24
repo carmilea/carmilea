@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The EU&#39;s Fine Against X Is Not About Speech or &#39;Censorship&#39;](https://www.techpolicy.press/the-eus-fine-against-x-is-not-about-speech-or-censorship/)
 - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 - [The Ultimate Windows Utility &lpar;2022&rpar;](https://christitus.com/windows-tool/)
 - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
 - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
-- [The e-scooter isn&#39;t new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
