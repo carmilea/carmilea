@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+- [Keystone &lpar;YC S25&rpar; is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
+- [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition)
+- [The Government Unconstitutionally Labels ICE Observers as Domestic Terrorists](https://www.cato.org/blog/dhs-policy-threatening-arresting-ice-observers-violates-their-rights)
 - [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
-- [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
-- [European Majority favours more tech regulation](https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation)
-- [Looking for Decent Conversation?](https://news.ycombinator.com/item?id=46378431)
-- [Fabrice Bellard: Biography [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
