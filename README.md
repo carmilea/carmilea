@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
+- [Autonomously navigating the real world: lessons from the PG&amp;E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
-- [&#39;Dracula&#39;s Chivito&#39;: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
-- [Open source USB to GPIB converter &lpar;for Test and Measurement instruments&rpar;](https://github.com/xyphro/UsbGpib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
