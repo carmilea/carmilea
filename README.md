@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam Store Is Offline](https://steamstat.us/)
-- [Groq and Nvidia Licensing Agreement](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale)
-- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
-- [Keystone &lpar;YC S25&rpar; is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
-- [Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide](https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/)
+- [Tell HN: Merry Christmas!](https://news.ycombinator.com/item?id=46380168)
+- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+- [TOPS-10 in a Box &lpar;2011&rpar;](https://www.filfre.net/2011/05/tops-10-in-a-box/)
+- [I Left YouTube](https://zhach.news/how-i-left-youtube/)
+- [Steam Store is offline](https://steamstat.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
