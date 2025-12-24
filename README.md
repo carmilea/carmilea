@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch Tesla Fleet Goes Bankrupt After Betting on Musk&#39;s Self-Driving Promises](https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/)
 - [Don&#39;t Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 - [Autonomously navigating the real world: lessons from the PG&amp;E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world)
-- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
