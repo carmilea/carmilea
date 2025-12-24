@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
-- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
-- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
-- [Microspeak: North Star – The Old New Thing &lpar;2015&rpar;](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
-- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
+- [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
+- [&#39;Dracula&#39;s Chivito&#39;: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
+- [Open source USB to GPIB converter &lpar;for Test and Measurement instruments&rpar;](https://github.com/xyphro/UsbGpib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
