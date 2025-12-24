@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steam Store Is Offline](https://steamstat.us/)
+- [Groq and Nvidia Licensing Agreement](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale)
 - [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 - [Keystone &lpar;YC S25&rpar; is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
-- [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition)
-- [The Government Unconstitutionally Labels ICE Observers as Domestic Terrorists](https://www.cato.org/blog/dhs-policy-threatening-arresting-ice-observers-violates-their-rights)
-- [Beijing is enforcing tough rules to ensure chatbots don’t misbehave](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d)
+- [Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide](https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
