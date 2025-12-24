@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Abandoned Matrix: The Dark Truth About User Security and Safety &lpar;2024&rpar;](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224)
 - [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html)
 - [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700)
 - [Super Mario Bros. and Yoshi Games &lpar;Yields&rpar; Reduced Burnout Risk](https://games.jmir.org/2025/1/e84219/)
 - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
-- [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
