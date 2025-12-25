@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain &lpar;CVE-2025-68664&rpar;](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
 - [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Network Engineer &lpar;VPN and Proxy&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 - [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)
-- [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
-- [Alzheimer&#39;s can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
-- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+- [I sell onions on the Internet &lpar;2019&rpar;](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+- [Alzheimer’s disease can be reversed in animal models: Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
