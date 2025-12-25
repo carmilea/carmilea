@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is &#39;gradually rolling out&#39; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
 - [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
-- [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain &lpar;CVE-2025-68664&rpar;](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
-- [I sell onions on the Internet &lpar;2019&rpar;](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
-- [Alzheimer’s disease can be reversed in animal models: Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
-- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+- [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+- [All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+- [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Network Engineer &lpar;VPN and Proxy&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
