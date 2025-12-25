@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Network Engineer &lpar;VPN and Proxy&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 - [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)
-- [Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI](https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai)
 - [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 - [Alzheimer&#39;s can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
+- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
