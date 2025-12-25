@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 - [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
+- [Microsoft denies rewriting Windows 11 in Rust using AI](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
 - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
-- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
