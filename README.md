@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
+- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
 - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 - [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
 - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
-- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
