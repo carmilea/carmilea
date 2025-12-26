@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undefinable yet Indispensable](https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary)
+- [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
+- [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 - [ChatGPT conversations still lack timestamps after years of requests](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
 - [I&#39;m a laptop weirdo and that&#39;s why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
-- [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should)
-- [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
-- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
