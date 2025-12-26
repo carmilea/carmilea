@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
+- [Rob Pike got spammed with an AI slop &quot;act of kindness&quot;](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
 - [A Proclamation Regarding the Restoration of the Em-Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
 - [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
-- [C/C++ Embedded Files &lpar;2013&rpar;](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
-- [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
