@@ -47,9 +47,9 @@
 <!-- YOUTUBE:START -->
 - [Build Real-Time Laravel Applications with SingleStore Helios | SingleStore Webinar](https://www.youtube.com/watch?v=WC_MKHa-GCo)
 - [Building Applications with Laravel and SingleStore](https://www.youtube.com/watch?v=nwcAX2bBnUw)
+- [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=PN5L6t3Lgfk)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=xK_bVA78cD4)
-- [Drizzle ORM + SingleStore: Scaling Simple APIs to Millions of Records | SingleStore Webinars](https://www.youtube.com/watch?v=PJ6r2ex0Jn8)
 <!-- YOUTUBE:END -->
 
 
