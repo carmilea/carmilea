@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
-- [NYC phone ban reveals some students can&#39;t read clocks](https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks)
+- [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
+- [Drawing with zero-width characters](https://zw.swerdlow.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
