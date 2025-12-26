@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
+- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 - [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 - [Rob Pike got spammed with an AI slop &quot;act of kindness&quot;](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
-- [A Proclamation Regarding the Restoration of the Em-Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
-- [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
