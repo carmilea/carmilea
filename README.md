@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
+- [When a driver challenges the kernel&#39;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
+- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 - [Google is &#39;gradually rolling out&#39; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
-- [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
-- [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-- [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
-- [All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+- [Memory Safety](https://www.memorysafety.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
