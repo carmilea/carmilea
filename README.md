@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
-- [When a driver challenges the kernel&#39;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
-- [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott&#39;s Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
+- [Governments in the West Are Turning Their Sights on VPNs](https://www.nakedcapitalism.com/2025/12/in-their-total-war-on-online-privacy-the-liberal-democracies-of-the-collective-west-are-now-turning-their-sights-on-vpns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
