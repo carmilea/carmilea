@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C/C++ Embedded Files](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
 - [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
 - [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
 - [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
-- [Steve wants us to make the Macintosh boot faster](https://www.folklore.org/Saving_Lives.html)
-- [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
+- [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 &lpar;Xtensa&rpar; in 700 lines](https://github.com/valdanylchuk/xcc700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
