@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C/C++ Embedded Files](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
-- [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
-- [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
-- [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
-- [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 &lpar;Xtensa&rpar; in 700 lines](https://github.com/valdanylchuk/xcc700)
+- [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
+- [A Proclamation Regarding the Restoration of the Em-Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
+- [Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+- [C/C++ Embedded Files &lpar;2013&rpar;](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files)
+- [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
