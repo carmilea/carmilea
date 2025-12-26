@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html)
+- [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/)
 - [High School Student Discovers 1.5M Potential New Astronomical Objects](https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/)
+- [Steve wants us to make the Macintosh boot faster](https://www.folklore.org/Saving_Lives.html)
 - [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
-- [LearnixOS](https://www.learnix-os.com)
-- [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
-- [ChatGPT conversations still lack timestamps after years of requests](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
