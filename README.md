@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
+- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
-- [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
-- [Drawing with zero-width characters](https://zw.swerdlow.dev)
+- [How Lewis Carroll computed determinants &lpar;2023&rpar;](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
