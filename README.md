@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
+- [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
 - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
 - [When a driver challenges the kernel&#39;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
 - [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott&#39;s Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
-- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-- [Google is &#39;gradually rolling out&#39; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
