@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
 - [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
