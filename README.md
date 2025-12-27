@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Lost Communication to Entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
-- [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
+- [America&#39;s richest 10% now hold 60% of the nation&#39;s wealth](https://bsky.app/profile/rbreich.bsky.social/post/3mayikzgatu2v)
+- [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
+- [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
+- [Scientists edited genes in a living person and saved his life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
 - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
-- [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
-- [Nvidia&#39;s $20B Antitrust Loophole &lpar;Not an Acquisition&rpar;](https://ossa-ma.github.io/blog/groq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
