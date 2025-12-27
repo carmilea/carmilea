@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 - [Exe.dev](https://exe.dev/)
-- [Always bet on text &lpar;2014&rpar;](https://graydon2.dreamwidth.org/193447.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
