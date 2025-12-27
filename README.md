@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare is ruining the internet &lpar;for me&rpar;](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-- [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
+- [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
-- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine&#39;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
