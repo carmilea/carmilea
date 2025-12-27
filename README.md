@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
+- [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
+- [Nvidia&#39;s $20B Antitrust Loophole &lpar;Not an Acquisition&rpar;](https://ossa-ma.github.io/blog/groq)
 - [Janet Jackson had the power to crash laptop computers &lpar;2022&rpar;](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
-- [USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
-- [Gpg.fail](https://gpg.fail)
-- [This PNG shows a different version when loaded in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
