@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
 - [How We Found Out About COINTELPRO &lpar;2014&rpar;](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
-- [How Pfizer ended up passing on my GLP-1 work back in the early &#39;90s](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
+- [Pfizer ended up passing on my GLP-1 work back in the early &#39;90s](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
 - [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
 - [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
-- [An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
