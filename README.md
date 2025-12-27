@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
+- [Janet Jackson had the power to crash laptop computers &lpar;2022&rpar;](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- [USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
 - [Gpg.fail](https://gpg.fail)
-- [VSCode rebrands as &quot;The open source AI code editor&quot;](https://code.visualstudio.com)
 - [This PNG shows a different version when loaded in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
-- [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a)
-- [A Century of Noether&#39;s Theorem](https://arxiv.org/abs/1902.01989)
 <!-- BLOG-POST-LIST:END -->
 
 ---
