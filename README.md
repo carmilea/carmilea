@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gpg.fail](https://gpg.fail)
+- [VSCode rebrands as &quot;The open source AI code editor&quot;](https://code.visualstudio.com)
+- [This PNG shows a different version when loaded in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
+- [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a)
 - [A Century of Noether&#39;s Theorem](https://arxiv.org/abs/1902.01989)
-- [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
-- [NMH BASIC](https://t3x.org/nmhbasic/index.html)
-- [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
-- [Floor796](https://floor796.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
