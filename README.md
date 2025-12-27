@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
-- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
 - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 - [How Lewis Carroll computed determinants &lpar;2023&rpar;](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
