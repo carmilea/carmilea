@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFlare is ruining the internet &lpar;for me&rpar;](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
+- [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Inside the proton, the ‘most complicated thing you could possibly imagine’ &lpar;2022&rpar;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
 <!-- BLOG-POST-LIST:END -->
 
