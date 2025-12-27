@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
+- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
-- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
-- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
-- [How Lewis Carroll computed determinants &lpar;2023&rpar;](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
