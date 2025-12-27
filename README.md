@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
+- [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
 - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-- [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’ &lpar;2022&rpar;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- [Verdichtung](https://alexeygy.github.io/blog/verdichtung/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
