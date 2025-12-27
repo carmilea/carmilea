@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s richest 10% now hold 60% of the nation&#39;s wealth](https://bsky.app/profile/rbreich.bsky.social/post/3mayikzgatu2v)
-- [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
-- [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
-- [Scientists edited genes in a living person and saved his life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
-- [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
+- [How We Found Out About COINTELPRO &lpar;2014&rpar;](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
+- [How Pfizer ended up passing on my GLP-1 work back in the early &#39;90s](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
+- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
+- [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
+- [An Ounce of Silver Is Now Worth More Than a Barrel of Oil](https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
