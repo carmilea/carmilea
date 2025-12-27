@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
+- [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
 - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
+- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine&#39;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
-- [Exe.dev](https://exe.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
