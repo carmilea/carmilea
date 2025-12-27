@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
-- [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
-- [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
-- [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-- [Verdichtung](https://alexeygy.github.io/blog/verdichtung/)
+- [A Century of Noether&#39;s Theorem](https://arxiv.org/abs/1902.01989)
+- [We Automated Federal Retirements](https://ndstudio.gov/posts/automating-federal-retirements)
+- [NMH BASIC](https://t3x.org/nmhbasic/index.html)
+- [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
+- [Floor796](https://floor796.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
