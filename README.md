@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
-- [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
-- [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
-- [The Prison of Financial Mediocrity](https://twitter.com/systematicls/status/2004900241745883205)
-- [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
+- [62 years in the making: NYC&#39;s newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
+- [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+- [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
+- [Researchers Discover Molecular Difference in Autistic Brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
+- [Dolphin Progress Report: Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
