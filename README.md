@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
-- [2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+- [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
+- [A &quot;Prime&quot; View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
 - [tc-ematch&lpar;8&rpar; extended matches for use with &quot;basic&quot;, &quot;cgroup&quot; or &quot;flow&quot; filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
-- [Scientists discover beer bottle in the Mariana Trench &lpar;2024&rpar;](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
 - [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
+- [Langfuse &lpar;YC W23&rpar; Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
