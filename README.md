@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calendar](https://neatnik.net/calendar/?year=2026)
+- [C –&gt; Java != Java –&gt; LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html)
+- [Dialtone – AOL 3.0 Server](https://dialtone.live/)
 - [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-- [Show HN: Viral Potential Predictor](https://hn-ph.vercel.app)
-- [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
-- [7- and 14-segment fonts &quot;DSEG&quot;](https://www.keshikan.net/fonts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
