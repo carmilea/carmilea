@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
+- [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
+- [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 - [No it&#39;s not a Battleship](https://www.navalgazing.net/No-its-not)
 - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
-- [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
-- [A &quot;Prime&quot; View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
-- [tc-ematch&lpar;8&rpar; extended matches for use with &quot;basic&quot;, &quot;cgroup&quot; or &quot;flow&quot; filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
