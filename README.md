@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loss of moist broadleaf forest in Africa has turned a carbon sink into source](https://www.nature.com/articles/s41598-025-27462-3)
-- [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
-- [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
-- [No it&#39;s not a Battleship](https://www.navalgazing.net/No-its-not)
-- [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
+- [Keep the Robots Out of the Gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym)
+- [Dolphin Progress Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
+- [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
+- [The Prison of Financial Mediocrity](https://twitter.com/systematicls/status/2004900241745883205)
+- [MongoBleed Explained Simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 <!-- BLOG-POST-LIST:END -->
 
 ---
