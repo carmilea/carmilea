@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;PromptQuest&#39; is the worst game of 2025 &lpar;trying to make chatbots work&rpar;](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring in Berlin, Germany](https://langfuse.com/careers)
-- [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
-- [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
-- [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
+- [Hacker News made out of prime numbers](https://dosaygo-studio.github.io/prime-news/index.html)
+- [2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+- [tc-ematch&lpar;8&rpar; extended matches for use with &quot;basic&quot;, &quot;cgroup&quot; or &quot;flow&quot; filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
+- [Scientists discover beer bottle in the Mariana Trench &lpar;2024&rpar;](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213)
+- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
