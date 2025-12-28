@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
-- [How We Found Out About COINTELPRO &lpar;2014&rpar;](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
-- [Pfizer ended up passing on my GLP-1 work back in the early &#39;90s](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
-- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)
-- [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
+- [Dad&#39;s Fitness May Be Packaged and Passed Down in Sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+- [Show HN: What 4M posts reveal about going viral on Hacker News](https://hn-ph.vercel.app)
+- [Why Reliability Demands Functional Programming](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
+- [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
