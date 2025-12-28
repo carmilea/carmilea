@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
-- [A new research shows that 21-33% of YouTube&#39;s feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
-- [C++ says &quot;We have try at home.&quot;](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
+- [Growing up in &quot;404 Not Found&quot;: China&#39;s nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
+- [C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 - [Calendar](https://neatnik.net/calendar/?year=2026)
 - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
+- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
