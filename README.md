@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Google ignores English searches and forces localized results](https://news.ycombinator.com/item?id=46413348)
+- [No it&#39;s not a Battleship](https://www.navalgazing.net/No-its-not)
+- [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
 - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
 - [A &quot;Prime&quot; View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
 - [tc-ematch&lpar;8&rpar; extended matches for use with &quot;basic&quot;, &quot;cgroup&quot; or &quot;flow&quot; filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
-- [Global Memory Shortage Crisis: Market Analysis](https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
