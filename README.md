@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [&#39;PromptQuest&#39; is the worst game of 2025 &lpar;trying to make chatbots work&rpar;](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring in Berlin, Germany](https://langfuse.com/careers)
-- [Growing up in “404 Not Found”: China&#39;s nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
-- [C++ says “We have try. . . finally at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
-- [Calendar](https://neatnik.net/calendar/?year=2026)
+- [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
+- [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
+- [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
 <!-- BLOG-POST-LIST:END -->
 
 ---
