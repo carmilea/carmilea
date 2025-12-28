@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
 - [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
 - [A new research shows that 21-33% of YouTube&#39;s feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+- [C++ says &quot;We have try at home.&quot;](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 - [Calendar](https://neatnik.net/calendar/?year=2026)
 - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
 <!-- BLOG-POST-LIST:END -->
