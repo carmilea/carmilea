@@ -61,8 +61,8 @@
 - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 - [Show HN: Z80-μLM, a &#39;Conversational AI&#39; That Fits in 40KB](https://github.com/HarryR/z80ai)
 - [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
+- [Panoramas of Star Trek Sets](https://mijofr.github.io/st-panorama/)
 - [Show HN: My not-for-profit search engine with no ads, no AI, &amp; all DDG bangs](https://nilch.org)
-- [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
