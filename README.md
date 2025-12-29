@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
+- [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
+- [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
-- [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
-- [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
-- [Feynman&#39;s Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
-- [Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
+- [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
