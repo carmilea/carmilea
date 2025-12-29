@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Think Valve&#39;s Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
-- [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
-- [Show HN: My app just won best iOS Japanese learning tool of 2025 award &lpar;blog&rpar;](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
-- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
-- [How to Complain &lpar;2024&rpar;](https://outerproduct.net/trivial/2024-03-25_complain.html)
+- [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
+- [Show HN: Z80-μLM, a &#39;Conversational AI&#39; That Fits in 40KB](https://github.com/HarryR/z80ai)
+- [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
+- [Show HN: My not-for-profit search engine with no ads, no AI, &amp; all DDG bangs](https://nilch.org)
+- [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
