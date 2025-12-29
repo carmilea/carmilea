@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)
-- [Why the Internet Is Bad for Democracy &lpar;2005&rpar;](https://dl.acm.org/doi/epdf/10.1145/1089107.1089138)
+- [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+- [AI Employees Don&#39;t Pay Taxes](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+- [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
 - [Binance&#39;s Trust Wallet extension hacked; users lose $7M](https://www.web3isgoinggreat.com/?id=trust-wallet-hack)
-- [Obelisk 0.32: Cancellation, WebAPI, Postgres](https://obeli.sk/blog/announcing-obelisk-0-32/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
