@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+- [Binance&#39;s Trust Wallet extension hacked; users lose $7M](https://www.web3isgoinggreat.com/?id=trust-wallet-hack)
+- [Which Humans?](https://osf.io/preprints/psyarxiv/5b26t_v1)
 - [Meta&#39;s ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-- [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
 - [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
-- [List of domains censored by German ISPs](https://cuiiliste.de/domains)
-- [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
