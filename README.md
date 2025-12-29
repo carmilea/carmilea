@@ -62,7 +62,7 @@
 - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 - [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
-- [Show HN: See what readers who loved your favorite book/author also loved to read](https://shepherd.com/bboy/2025)
+- [Linux DAW: Help Linux musicians to quickly and easily find the tools they need](https://linuxdaw.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
