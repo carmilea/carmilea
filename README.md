@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Are Not Fun](https://orib.dev/nofun.html)
+- [Meta&#39;s ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+- [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
+- [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
 - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
 - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
-- [Tesla&#39;s 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
-- [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
