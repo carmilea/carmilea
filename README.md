@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why I Think Valve&#39;s Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
-- [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
 - [Show HN: My app just won best iOS Japanese learning tool of 2025 award &lpar;blog&rpar;](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
 - [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+- [How to Complain &lpar;2024&rpar;](https://outerproduct.net/trivial/2024-03-25_complain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
