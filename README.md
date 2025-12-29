@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asking Gemini 3 for Brainf*ck code puts it in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
-- [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
-- [Show HN: Z80-μLM, a &#39;Conversational AI&#39; That Fits in 40KB](https://github.com/HarryR/z80ai)
-- [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
-- [Show HN: My not-for-profit search engine with no ads, no AI, &amp; all DDG bangs](https://nilch.org)
+- [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
+- [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
+- [Market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
+- [Feynman&#39;s Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/)
+- [Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
