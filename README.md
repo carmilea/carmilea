@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [62 years in the making: NYC&#39;s newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
-- [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
-- [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-- [Researchers Discover Molecular Difference in Autistic Brains](https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/)
-- [Dolphin Progress Report: Release 2512](https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/)
+- [Show HN: My app just won best iOS Japanese learning tool of 2025 award &lpar;blog&rpar;](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
+- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+- [How to Complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
+- [Spherical Cow](https://lib.rs/crates/spherical-cow)
+- [Slaughtering Competition Problems with Quantifier Elimination &lpar;2021&rpar;](https://grossack.site/2021/12/22/qe-competition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
