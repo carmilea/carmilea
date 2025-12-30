@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
-- [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
+- [Show HN: 22 GB of hacker news in SQLite](https://hackerbook.dosaygo.com)
+- [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
 - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
-- [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
-- [Hive &lpar;YC S14&rpar; Is Hiring a Staff Software Engineer &lpar;Data Systems&rpar;](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
