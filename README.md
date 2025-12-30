@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Win32 is the stable Linux ABI](https://loss32.org/)
+- [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+- [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
+- [Calibri Wasn&#39;t Fit for the State Department; Neither Is Times New Roman](https://hsu.cy/2025/12/times-new-american/)
 - [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- [Non-Zero-Sum Games](https://nonzerosum.games/)
-- [Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)
-- [Netflix: Open Content](https://opencontent.netflix.com/)
-- [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
