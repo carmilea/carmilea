@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
 - [Win32 is the stable Linux ABI](https://loss32.org/)
-- [no strpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
-- [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
-- [Calibri Wasn&#39;t Fit for the State Department; Neither Is Times New Roman](https://hsu.cy/2025/12/times-new-american/)
-- [Crimson &lpar;YC X25&rpar; is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+- [The British Empire&#39;s Resilient Subsea Telegraph Network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
+- [Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
