@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
+- [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
-- [Show HN: 22 GB of hacker news in SQLite](https://hackerbook.dosaygo.com)
-- [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby)
-- [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
+- [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
+- [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
