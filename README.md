@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Honey&#39;s Dieselgate: Detecting and Tricking Testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
+- [How the &quot;Marvelization&quot; of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)
 - [Prof. Software Developers Don&#39;t Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
 - [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
-- [The sword-wielding man hired to kick squatters out of empty Oakland homes](https://oaklandside.org/2025/09/30/asap-squatter-removal-oakland/)
-- [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
-- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
