@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nicolas Guillou, French ICC judge sanctioned by the US and &quot;debanked&quot;](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)
 - [Netflix: Open Content](https://opencontent.netflix.com/)
 - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
-- [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
 - [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
-- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- [Charm Ruby – Glamorous Terminal Libraries for Ruby](https://charm-ruby.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
