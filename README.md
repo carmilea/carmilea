@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
 - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
-- [CSS-in-JS: The Great Betrayal of Front End Sanity](https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/)
 - [Hive &lpar;YC S14&rpar; Is Hiring a Staff Software Engineer &lpar;Data Systems&rpar;](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
-- [The 70% AI productivity myth: why most companies aren&#39;t seeing the gains](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 - [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
+- [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
