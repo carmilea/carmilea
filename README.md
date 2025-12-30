@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Honey&#39;s Dieselgate: Detecting and Tricking Testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
+- [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
+- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- [OpenAI&#39;s cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
-- [How the &quot;Marvelization&quot; of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)
-- [Prof. Software Developers Don&#39;t Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
-- [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
