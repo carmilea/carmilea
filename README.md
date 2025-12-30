@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Was Another Exceptionally Hot Year](https://e360.yale.edu/digest/2025-second-hottest-year)
+- [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
+- [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821)
+- [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
 - [Hive &lpar;YC S14&rpar; Is Hiring a Staff Software Engineer &lpar;Data Systems&rpar;](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
-- [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
-- [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
