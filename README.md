@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix: Open Content](https://opencontent.netflix.com/)
+- [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
+- [You Need to Ditch VS Code](https://jrswab.com/blog/ditch-vs-code)
+- [Go Away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
-- [100x &lpar;YC S22&rpar; Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
-- [Outside, Dungeon, Town: Integrating the Three Places in Videogames &lpar;2024&rpar;](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
-- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-- [Stranger Things creator says turn off &quot;garbage&quot; settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
