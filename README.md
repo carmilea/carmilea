@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
-- [Win32 is the stable Linux ABI](https://loss32.org/)
-- [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
-- [The British Empire&#39;s Resilient Subsea Telegraph Network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
-- [Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
+- [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
+- [CSS-in-JS: The Great Betrayal of Front End Sanity](https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/)
+- [Hive &lpar;YC S14&rpar; Is Hiring a Staff Software Engineer &lpar;Data Systems&rpar;](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
+- [The 70% AI productivity myth: why most companies aren&#39;t seeing the gains](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
+- [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
