@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Washing Machines &lpar;39C3&rpar; [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
 - [100x &lpar;YC S22&rpar; Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 - [Outside, Dungeon, Town: Integrating the Three Places in Videogames &lpar;2024&rpar;](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
