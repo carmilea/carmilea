@@ -62,7 +62,7 @@
 - [100x &lpar;YC S22&rpar; Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 - [Outside, Dungeon, Town: Integrating the Three Places in Videogames &lpar;2024&rpar;](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-- [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
+- [Stranger Things creator says turn off &quot;garbage&quot; settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
