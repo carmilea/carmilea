@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
-- [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
-- [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
-- [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
-- [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel)
+- [Prof. Software Developers Don&#39;t Vibe, They Control: AI Agent Coding Use in 2025](https://arxiv.org/abs/2512.14012)
+- [Everything as Code: How We Manage Our Company in One Monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
+- [Foreign tech workers are avoiding travel to the US](https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html)
+- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+- [A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
