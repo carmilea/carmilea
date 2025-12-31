@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RunAgent Genie – Ultimate Prompt Engineering Game with Advanced Guardrails](https://genie.run-agent.ai/)
+- [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
 - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 - [Blog: PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
 - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
-- [Meta created &#39;playbook&#39; to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
+- [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
