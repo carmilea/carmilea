@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
+- [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 - [Google Opal](https://opal.google/landing/)
 - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
-- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
-- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
