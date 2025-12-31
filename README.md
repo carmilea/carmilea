@@ -62,7 +62,7 @@
 - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 - [Google Opal](https://opal.google/landing/)
 - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
+- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
