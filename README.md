@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Activeloop &lpar;YC S18&rpar; Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
+- [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
 - [Akin&#39;s Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
-- [Google Opal](https://opal.google/landing/)
-- [Readings in Database Systems &lpar;5th Edition&rpar; &lpar;2015&rpar;](http://www.redbook.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
