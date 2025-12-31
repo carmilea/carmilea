@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
+- [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527)
 - [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
-- [AI Labs Are Solving the Power Problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+- [When square pixels aren&#39;t square](https://alexwlchan.net/2025/square-pixels/)
 - [Claude wrote a functional NES emulator using my engine&#39;s API](https://carimbo.games/games/nintendo/)
-- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
-- [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
