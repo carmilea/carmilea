@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
+- [AI Labs Are Solving the Power Problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+- [Claude wrote a functional NES emulator using my engine&#39;s API](https://carimbo.games/games/nintendo/)
 - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
 - [Fifteen Most Famous Transcendental Numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
-- [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
-- [Akin&#39;s Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
