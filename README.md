@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
+- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
+- [S&amp;P500 Priced in Gold](https://pricedingold.com/sp-500/)
 - [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-- [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
-- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
-- [OpenAI&#39;s cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
-- [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/)
+- [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
