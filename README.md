@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta created &#39;playbook&#39; to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
+- [Stewart Cheifet, creator of The Computer Chronicles, dead at 87](https://obits.goldsteinsfuneral.com/stewart-cheifet)
+- [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university)
 - [SigNoz &lpar;YC W21, open source observability platform&rpar; Is Hiring across roles](https://signoz.io/careers)
-- [2025 was a disaster for Windows 11 as bugs and intrusive features erode trust](https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features)
-- [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
-- [The Compiler Is Your Best Friend, Stop Lying to It](https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it)
-- [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
+- [2026: The Year of Java in the Terminal?](https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
