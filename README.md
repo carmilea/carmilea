@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 - [Meta created &#39;playbook&#39; to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
 - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
-- [Court report detailing ChatGPT&#39;s involvement with a recent murder suicide [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf)
-- [I use Samsung&#39;s Wi-Fi menu to seriously improve my connectivity](https://www.zdnet.com/article/how-to-use-samsung-connectivty-labs-secret-wifi-menu/)
 - [Stewart Cheifet, creator of The Computer Chronicles, has died](https://obits.goldsteinsfuneral.com/stewart-cheifet)
+- [SigNoz &lpar;YC W21, open source observability platform&rpar; Is Hiring across roles](https://signoz.io/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
