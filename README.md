@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Akin&#39;s Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 - [Google Opal](https://opal.google/landing/)
-- [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
+- [Readings in Database Systems &lpar;5th Edition&rpar; &lpar;2015&rpar;](http://www.redbook.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
