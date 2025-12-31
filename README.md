@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Opal](https://opal.google/landing/)
-- [We don&#39;t need more contributors who aren&#39;t programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+- [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
 - [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
-- [S&amp;P500 Priced in Gold](https://pricedingold.com/sp-500/)
+- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
