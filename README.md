@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Bundler Be as Fast as Uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
+- [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 - [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)
-- [Straussian Memes: A Lens on Techniques for Mass Persuasion](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
-- [Cycling Game &lpar;Mini Neural Net Demo&rpar;](https://www.doc.ic.ac.uk/~ajd/Cycling/)
-- [Show HN: Tasker – An open-source desktop agent for browser and OS automation](https://automatewithtasker.com/)
+- [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
+- [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+- [Linux is good now](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
