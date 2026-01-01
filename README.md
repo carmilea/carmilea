@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
+- [Cycling Game &lpar;Mini Neural Net Demo&rpar;](https://www.doc.ic.ac.uk/~ajd/Cycling/)
+- [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+- [Linux is good now; to feel like you actually own your PC, put Linux on it](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
+- [Prompting People](https://kuber.studio/blog/Reflections/Prompting-People)
 - [Dell&#39;s version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
-- [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
-- [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
-- [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
