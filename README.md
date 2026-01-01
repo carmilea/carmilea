@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
-- [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
-- [Blog: PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
-- [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
-- [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
+- [Nerd: A language for LLMs, not humans](https://www.nerd-lang.org/about)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
+- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
+- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
+- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
