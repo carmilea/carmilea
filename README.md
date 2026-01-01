@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nerd: A language for LLMs, not humans](https://www.nerd-lang.org/about)
+- [Judge to Texas: You Can&#39;t Age-Gate the Internet Without Evidence](https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
 - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
