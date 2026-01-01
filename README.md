@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
 - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
+- [I rebooted my social life](https://takes.jamesomalley.co.uk/p/this-might-be-oversharing)
 - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
-- [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
