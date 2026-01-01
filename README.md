@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did you learn to code?](https://news.ycombinator.com/item?id=46452146)
 - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 - [Pixar&#39;s True Story](https://computerhistory.org/blog/pixars-true-story/)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
-- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
