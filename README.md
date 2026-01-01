@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+- [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
+- [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
 - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
 - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
-- [MHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
-- [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
-- [Pixar&#39;s True Story](https://computerhistory.org/blog/pixars-true-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
