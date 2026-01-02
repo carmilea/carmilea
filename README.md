@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)
+- [Ask HN: Who is hiring? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466074)
+- [IPv6 just turned 30 and still hasn&#39;t taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 - [The Netflix Simian Army &lpar;2011&rpar;](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 - [Parental Controls Aren&#39;t for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
 - [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
-- [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
