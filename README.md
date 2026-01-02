@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 surges among PC gamers on Steam as Linux stalls](https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls)
+- [I&#39;m having the worst career winter of my life](https://news.ycombinator.com/item?id=46464962)
+- [The Netflix Simian Army &lpar;2011&rpar;](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+- [Parental Controls Aren&#39;t for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
 - [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
 - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
-- [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
-- [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
