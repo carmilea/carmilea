@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+- [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
+- [High-Fidelity 3D Shape Generation](https://pku-yuangroup.github.io/UltraShape-1.0/)
 - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
-- [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
-- [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to &lt;1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
-- [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
+- [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
