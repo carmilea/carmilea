@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
-- [DENT: A network operating system &lpar;NOS&rpar; for everyone else](https://dent.dev/)
+- [A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou)
+- [I&#39;m a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
-- [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+- [Extensibility: The &quot;100% Lisp&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
