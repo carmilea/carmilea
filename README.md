@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
 - [Ask HN: Who is hiring? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466074)
-- [IPv6 just turned 30 and still hasn&#39;t taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
-- [The Netflix Simian Army &lpar;2011&rpar;](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
-- [Parental Controls Aren&#39;t for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
-- [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
+- [Ask HN: Who wants to be hired? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466073)
+- [Kling Motion Control AI](https://motion-control.io)
+- [Vibe Coding Killed Cursor](https://ischemist.com/writings/long-form/how-vibe-coding-killed-cursor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
