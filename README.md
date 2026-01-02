@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Round the tree, yes, but not round the squirrel](https://www.futilitycloset.com/2026/01/02/round-and-round/)
+- [FreeBSD: Home NAS, part 1 – configuring ZFS mirror &lpar;RAID1&rpar;](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
 - [Real Biological Clock Is You&#39;re Going to Die &lpar;2018&rpar;](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 - [I&#39;m a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
-- [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-- [Extensibility: The &quot;100% Lisp&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
