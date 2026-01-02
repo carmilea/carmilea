@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Publish &lpar;On Your&rpar; Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
-- [Grok Can&#39;t Apologize. So Why Do Headlines Keep Saying It Did?](https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient)
-- [4th Edition Unix in the Browser](https://unixv4.dev/)
+- [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
+- [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
+- [Unix v4 &lpar;1973&rpar; – Live Terminal](https://unixv4.dev/)
 - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
-- [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
