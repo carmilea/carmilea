@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
+- [DENT: A network operating system &lpar;NOS&rpar; for everyone else](https://dent.dev/)
+- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
+- [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-- [Why Prefer Textfiles? &lpar;2010&rpar;](http://textfiles.com/uploads/textfiles.txt)
-- [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
-- [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
-- [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
