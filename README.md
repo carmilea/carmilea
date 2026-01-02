@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/)
-- [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)
+- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
 - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
 - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
-- [Publish &lpar;On Your&rpar; Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
+- [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
+- [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
