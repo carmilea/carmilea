@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
+- [Clicks Communicator](https://www.clicksphone.com/en/communicator)
+- [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
 - [Ask HN: Who is hiring? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466074)
-- [US Government demands access to European police databases and biometrics [video]](https://media.ccc.de/v/39c3-trump-government-demands-access-to-european-police-databases-and-biometrics)
-- [Parental Controls Aren&#39;t for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
-- [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
-- [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+- [Ask HN: Who wants to be hired? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
