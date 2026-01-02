@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 surges among PC gamers on Steam as Linux stalls](https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls)
+- [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
+- [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
-- [Show HN: I built a clipboard tool to strip/keep specific formatting like Italics](https://custompaste.com)
-- [High-Fidelity 3D Shape Generation](https://pku-yuangroup.github.io/UltraShape-1.0/)
-- [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
-- [A small collection of text-only websites](https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/)
+- [Show HN: Dealta – A game-theoretic decentralized trading protocol](https://github.com/orgs/Dealta-Foundation/repositories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
