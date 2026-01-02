@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Publish &lpar;On Your&rpar; Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
+- [Grok Can&#39;t Apologize. So Why Do Headlines Keep Saying It Did?](https://www.readtpa.com/p/grok-cant-apologize-grok-isnt-sentient)
+- [4th Edition Unix in the Browser](https://unixv4.dev/)
+- [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
 - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
-- [Clicks Communicator](https://www.clicksphone.com/en/communicator)
-- [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
-- [Ask HN: Who is hiring? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466074)
-- [Ask HN: Who wants to be hired? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46466073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
