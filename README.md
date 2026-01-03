@@ -61,8 +61,8 @@
 - [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
 - [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
 - [Profiling with Ctrl-C &lpar;2024&rpar;](https://yosefk.com/blog/profiling-with-ctrl-c.html)
-- [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
 - [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
+- [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
