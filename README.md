@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple explosions in Venezuela&#39;s capital Caracas](https://www.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)
-- [Loud noises heard in Venezuela capital, southern area without electricity](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
-- [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732)
+- [Explosions reported in Venezuelan capital Caracas](https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas)
+- [The Constitution Was a Coup](https://lucasvance.github.io/2100/coup/)
 - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 - [Adventure 751 &lpar;1980&rpar;](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
