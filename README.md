@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The C3 Programming Language](https://c3-lang.org)
-- [Cardiovascular disease is a solved problem](https://totalhealthoptimization.com/2025/09/27/cardiovascular-disease-is-a-solved-problem/)
 - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
+- [Show HN: FP-pack – Functional pipelines in TypeScript without monads](https://github.com/superlucky84/fp-pack)
 - [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
 <!-- BLOG-POST-LIST:END -->
 
