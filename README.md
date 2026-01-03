@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)
-- [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
-- [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
-- [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward)
-- [Report: Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
+- [A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy](https://pubmed.ncbi.nlm.nih.gov/11190906/)
+- [The Riven &lpar;1997&rpar; Diffs](https://glthr.com/the-riven-diffs-1)
+- [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
+- [Ask HN: What are you working on? &lpar;Jan 2026&rpar;](https://news.ycombinator.com/item?id=46482268)
+- [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
