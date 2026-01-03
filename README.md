@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
 - [The C3 Programming Language](https://c3-lang.org)
 - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
 - [Show HN: FP-pack – Functional pipelines in TypeScript without monads](https://github.com/superlucky84/fp-pack)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
