@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
-- [The C3 Programming Language](https://c3-lang.org)
-- [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
-- [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
-- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
+- [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)
+- [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
+- [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/)
+- [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
+- [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward)
 <!-- BLOG-POST-LIST:END -->
 
 ---
