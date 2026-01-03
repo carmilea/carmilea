@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Basic Just-in-Time Compiler](https://nullprogram.com/blog/2015/03/19/)
-- [Blaze: A Dec VT420 &lpar;and More&rpar; Emulator](https://mmastrac.github.io/blaze/)
+- [Adventure 751 &lpar;1980&rpar;](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
+- [A Basic Just-In-Time Compiler &lpar;2015&rpar;](https://nullprogram.com/blog/2015/03/19/)
+- [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
 - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
-- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
-- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
