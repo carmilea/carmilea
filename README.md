@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
-- [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
-- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
-- [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
-- [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
+- [A Basic Just-in-Time Compiler](https://nullprogram.com/blog/2015/03/19/)
+- [Blaze: A Dec VT420 &lpar;and More&rpar; Emulator](https://mmastrac.github.io/blaze/)
+- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
+- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
+- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
