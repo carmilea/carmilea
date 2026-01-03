@@ -62,7 +62,7 @@
 - [The C3 Programming Language](https://c3-lang.org)
 - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
-- [Show HN: FP-pack – Functional pipelines in TypeScript without monads](https://github.com/superlucky84/fp-pack)
+- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
