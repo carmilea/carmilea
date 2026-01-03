@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
+- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
+- [Profiling with Ctrl-C &lpar;2024&rpar;](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 - [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
 - [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
-- [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
-- [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
-- [Adventure 751 &lpar;1980&rpar;](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
