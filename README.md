@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
 - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)
-- [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
