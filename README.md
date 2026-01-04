@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+- [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
 - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
-- [Street Fighter II, the World Warrier &lpar;2021&rpar;](https://fabiensanglard.net/sf2_warrier/)
-- [Cold-Blooded Software &lpar;2023&rpar;](https://dubroy.com/blog/cold-blooded-software/)
-- [Understanding the bin, sbin, usr/bin, usr/sbin split &lpar;2010&rpar;](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
-- [Nike&#39;s Crisis and the Economics of Brand Decay](https://philippdubach.com/posts/nikes-crisis-and-the-economics-of-brand-decay/)
+- [Neurodivergent Brains Build Better Systems &lpar;2025&rpar;](https://blog.drjoshcsimmons.com/p/how-neurodivergent-brains-build-better)
+- [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
