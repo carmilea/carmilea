@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The PGP Problem &lpar;2019&rpar;](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
+- [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 - [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
-- [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
-- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
