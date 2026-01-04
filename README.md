@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
-- [Nightshade: Make images unsuitable for model training](https://nightshade.cs.uchicago.edu/whatis.html)
-- [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
-- [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
-- [Maybe comments should explain &#39;what&#39; &lpar;2017&rpar;](https://www.hillelwayne.com/post/what-comments/)
+- [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
+- [Street Fighter II, the World Warrier &lpar;2021&rpar;](https://fabiensanglard.net/sf2_warrier/)
+- [Cold-Blooded Software &lpar;2023&rpar;](https://dubroy.com/blog/cold-blooded-software/)
+- [Understanding the bin, sbin, usr/bin, usr/sbin split &lpar;2010&rpar;](https://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
+- [Nike&#39;s Crisis and the Economics of Brand Decay](https://philippdubach.com/posts/nikes-crisis-and-the-economics-of-brand-decay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
