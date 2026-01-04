@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
+- [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi)
 - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
-- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-- [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
-- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
 <!-- BLOG-POST-LIST:END -->
 
 ---
