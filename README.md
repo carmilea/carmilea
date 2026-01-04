@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightshade: Make images unsuitable for model training](https://nightshade.cs.uchicago.edu/whatis.html)
 - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 - [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
-- [Maybe Comments _Should_ Explain &#39;What&#39;](https://www.hillelwayne.com/post/what-comments/)
-- [Was It Really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
-- [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
+- [Maybe comments should explain &#39;what&#39; &lpar;2017&rpar;](https://www.hillelwayne.com/post/what-comments/)
+- [Was it a billion dollar mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
