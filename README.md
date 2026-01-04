@@ -61,8 +61,8 @@
 - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
 - [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-- [The Great Gatsby is the most misunderstood novel &lpar;2021&rpar;](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
 - [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
+- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
 <!-- BLOG-POST-LIST:END -->
 
 ---
