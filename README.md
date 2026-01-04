@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
+- [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/)
+- [Maybe Comments _Should_ Explain &#39;What&#39;](https://www.hillelwayne.com/post/what-comments/)
+- [Was It Really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
-- [The PGP Problem &lpar;2019&rpar;](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
-- [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
-- [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
-- [Pixoo Sign Client for Ruby](https://github.com/tenderlove/pixoo-rb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
