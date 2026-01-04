@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Trellis AI &lpar;YC W24&rpar; is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-- [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
+- [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
 - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
-- [Neurodivergent Brains Build Better Systems &lpar;2025&rpar;](https://blog.drjoshcsimmons.com/p/how-neurodivergent-brains-build-better)
+- [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
