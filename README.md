@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Venezuela&#39;s interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
+- [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
+- [NSFW Acronyms for Programmers &lpar;Free eBook&rpar;](https://github.com/fristovic/naughty-words-every-programmer-should-know)
+- [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 - [Trellis AI &lpar;YC W24&rpar; is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
 - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-- [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
-- [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
 <!-- BLOG-POST-LIST:END -->
 
 ---
