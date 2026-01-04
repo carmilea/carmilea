@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A comparison of benefits from every-third-day vs. daily low-dose aspirin therapy](https://pubmed.ncbi.nlm.nih.gov/11190906/)
-- [The Riven &lpar;1997&rpar; Diffs](https://glthr.com/the-riven-diffs-1)
-- [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
-- [Ask HN: What are you working on? &lpar;Jan 2026&rpar;](https://news.ycombinator.com/item?id=46482268)
-- [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
+- [KDE Plasma will no longer sleep when your controller is plugged in](https://www.neowin.net/news/good-news-for-gamers-kde-plasma-will-no-longer-sleep-when-your-controller-is-plugged-in)
+- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
+- [The Great Gatsby is the most misunderstood novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- [Pickle 1 AR Glasses &lpar;YC W25&rpar; May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913)
+- [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
