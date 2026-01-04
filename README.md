@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-- [NSFW Acronyms for Programmers &lpar;Free eBook&rpar;](https://github.com/fristovic/naughty-words-every-programmer-should-know)
-- [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
-- [Trellis AI &lpar;YC W24&rpar; is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
-- [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+- [North Dakota law lists fake critical minerals based on coal lawyers&#39; names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
+- [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+- [Seed of Life](https://seed-of-life-eight.vercel.app/)
+- [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+- [OpenGitOps](https://opengitops.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
