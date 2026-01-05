@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
+- [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
 - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
-- [Millennium Challenge: A corrupted military exercise and its legacy &lpar;2015&rpar;](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
-- [Show HN: An LLM-Powered PCB Schematic Checker &lpar;Major Update&rpar;](https://traceformer.io/)
-- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+- [NeXTSTEP on Pa-RISC](https://www.openpa.net/nextstep_pa-risc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
