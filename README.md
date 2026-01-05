@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS sucks because we don&#39;t bother learning it &lpar;2022&rpar;](https://idiallo.com/blog/learn-css)
+- [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
 - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
 - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
 - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
-- [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
-- [Imagine 130M Washing Machines](https://scottsumner.substack.com/p/imagine-130000000-washing-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
