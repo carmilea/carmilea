@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
+- [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
 - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
 - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
-- [Ozempic Melted Away Weight–and the Idea of &#39;Body Positivity&#39;](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)
-- [Jensen: &#39;We&#39;ve Done Our Country a Great Disservice&#39; by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
-- [It&#39;s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+- [Imagine 130M Washing Machines](https://scottsumner.substack.com/p/imagine-130000000-washing-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
