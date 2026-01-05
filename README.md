@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon moves to punish Democratic senator over &#39;seditious video&#39;](https://www.bbc.com/news/articles/cp8039wg1rdo)
+- [Boston Dynamics and Google DeepMind Form New AI Partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+- [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 - [O-Ring Automation](https://www.nber.org/papers/w34639)
-- [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
 - [Refactoring – Not on the backlog &lpar;2014&rpar;](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
 <!-- BLOG-POST-LIST:END -->
