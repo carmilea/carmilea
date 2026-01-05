@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
+- [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
+- [Ozempic Melted Away Weight–and the Idea of &#39;Body Positivity&#39;](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)
+- [Jensen: &#39;We&#39;ve Done Our Country a Great Disservice&#39; by Offshoring](https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds)
 - [It&#39;s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
-- [Anna&#39;s Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
-- [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
-- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
-- [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
