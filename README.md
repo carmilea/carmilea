@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The College Backlash Is a Mirage](https://www.theatlantic.com/ideas/2026/01/college-degree-value-enrollment/685384/)
-- [Show HN: Open-Source 8-Ch BCI Board &lpar;ESP32 and ADS1299 and OpenBCI GUI&rpar;](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
-- [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
-- [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
-- [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
+- [Pentagon moves to punish Democratic senator over &#39;seditious video&#39;](https://www.bbc.com/news/articles/cp8039wg1rdo)
+- [O-Ring Automation](https://www.nber.org/papers/w34639)
+- [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
+- [Refactoring – Not on the backlog &lpar;2014&rpar;](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+- [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
