@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
-- [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
-- [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
-- [CSS sucks because we don&#39;t bother learning it &lpar;2022&rpar;](https://idiallo.com/blog/learn-css)
-- [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
+- [Show HN: Open-Source 8-Ch BCI Board &lpar;ESP32 and ADS1299 and OpenBCI GUI&rpar;](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
+- [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
+- [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
+- [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
+- [So, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
