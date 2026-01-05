@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A spider web unlike any seen before &lpar;2025&rpar;](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
 - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
 - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
-- [NeXTSTEP on Pa-RISC](https://www.openpa.net/nextstep_pa-risc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
