@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boston Dynamics and Google DeepMind Form New AI Partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
-- [There Were BGP Anomalies During the Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
-- [O-Ring Automation](https://www.nber.org/papers/w34639)
-- [Refactoring – Not on the backlog &lpar;2014&rpar;](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
-- [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
+- [Why Didn&#39;t AI &quot;Join the Workforce&quot; in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+- [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
+- [Boston Dynamics and DeepMind form new AI partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+- [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
+- [A year of clean energy milestones](https://e360.yale.edu/digest/2025-energy-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
