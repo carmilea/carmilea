@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Didn&#39;t AI &quot;Join the Workforce&quot; in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+- [Worlds&#39;s first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
+- [Why didn&#39;t AI &quot;join the workforce&quot; in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+- [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
 - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
-- [Boston Dynamics and DeepMind form new AI partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
-- [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-- [A year of clean energy milestones](https://e360.yale.edu/digest/2025-energy-review)
+- [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
