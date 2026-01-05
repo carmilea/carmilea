@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dawn of the AI Drone](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)
+- [Show HN: Tailsnitch – A Security Auditor for Tailscale](https://github.com/Adversis/tailsnitch)
+- [Anyone building software for wearable tech?](https://news.ycombinator.com/item?id=46500806)
 - [CSS sucks because we don&#39;t bother learning it &lpar;2022&rpar;](https://idiallo.com/blog/learn-css)
-- [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
-- [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
-- [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
-- [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
+- [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
