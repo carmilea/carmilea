@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
-- [Inducing self-NSFW classification in image models to prevent deepfakes edits](https://news.ycombinator.com/item?id=46496357)
 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
-- [A spider web unlike any seen before &lpar;2025&rpar;](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
+- [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
+- [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
