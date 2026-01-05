@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The College Backlash Is a Mirage](https://www.theatlantic.com/ideas/2026/01/college-degree-value-enrollment/685384/)
 - [Show HN: Open-Source 8-Ch BCI Board &lpar;ESP32 and ADS1299 and OpenBCI GUI&rpar;](https://github.com/Cerelog-ESP-EEG/ESP-EEG)
 - [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle)
 - [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other)
 - [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/)
-- [So, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
