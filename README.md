@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C-Sentinel: System prober that captures &quot;system fingerprints&quot; for AI analysis](https://github.com/williamofai/c-sentinel)
+- [Millennium Challenge: A corrupted military exercise and its legacy &lpar;2015&rpar;](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
+- [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/)
 - [Show HN: An LLM-Powered PCB Schematic Checker &lpar;Major Update&rpar;](https://traceformer.io/)
-- [North Dakota law lists fake critical minerals based on coal lawyers&#39; names](https://bismarcktribune.com/news/local/government-politics/article_515812a0-d29a-4161-91f1-3e53003e2911.html)
-- [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
 <!-- BLOG-POST-LIST:END -->
 
