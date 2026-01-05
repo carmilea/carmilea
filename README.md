@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 - [Anna&#39;s Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
 - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
-- [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
