@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gnome and Mozilla Discuss Proposal to Disable Middle Mouse Paste on Linux](https://linuxiac.com/gnome-and-mozilla-discuss-proposal-to-disable-middle-mouse-paste-on-linux/)
+- [State of the Fin 2026-01-06 – Jellyfin](https://jellyfin.org/posts/state-of-the-fin-2026-01-06/)
+- [Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders](https://www.nytimes.com/2026/01/05/nyregion/mamdani-affordability-consumer-protections.html)
+- [New Lego smart-play system](https://www.lego.com/en-us/smart-play)
 - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
-- [Why German Strings Are Everywhere?](https://cedardb.com/blog/german_strings/)
-- [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
-- [C Is Best](https://sqlite.org/whyc.html)
+- [High-performance header-only container library for C++23 on x86-64](https://github.com/kressler/fast-containers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
