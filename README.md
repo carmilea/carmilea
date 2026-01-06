@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Worlds&#39;s first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
-- [Why didn&#39;t AI &quot;join the workforce&quot; in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+- [I/O is no longer the bottleneck? &lpar;2022&rpar;](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
+- [LocalFirst: You Keep Using That Word](https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/)
+- [Strange.website](https://strange.website/)
+- [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
 - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
-- [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
-- [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
