@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Spotify Made Me Self Host](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
+- [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+- [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
+- [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
 - [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
-- [Passing of Joe Mancuso author of Masonite &lpar;Python web framework&rpar;](https://github.com/MasoniteFramework/masonite/discussions/853)
-- [Creating a Bespoke Data Diode for Air‑Gapped Networks](https://nelop.com/bespoke-data-diode-airgap/)
-- [Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687)
-- [Locating a Photo of a Vehicle in 30 Seconds with GeoSpy](https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
