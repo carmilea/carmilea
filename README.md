@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen Brings Back Physical Buttons](https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/)
-- [Loongarch Improvements with Box64](https://box86.org/2026/01/new-box64-v0-4-0-released/)
-- [Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket](https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption)
-- [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
-- [Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
+- [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
+- [Passing of Joe Mancuso author of Masonite &lpar;Python web framework&rpar;](https://github.com/MasoniteFramework/masonite/discussions/853)
+- [Creating a Bespoke Data Diode for Air‑Gapped Networks](https://nelop.com/bespoke-data-diode-airgap/)
+- [Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687)
+- [Locating a Photo of a Vehicle in 30 Seconds with GeoSpy](https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
