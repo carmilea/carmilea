@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter)
 - [CES 2026: Taking the Lids Off AMD&#39;s Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
-- [Laylo &lpar;YC S20&rpar; – Head of Growth &lpar;Organic and Partners and Loops and AI&rpar; – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
 - [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
