@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portland&#39;s gas-powered leaf blower ban goes into effect](https://www.oregonlive.com/environment/2026/01/portlands-gas-powered-leaf-blower-ban-goes-into-effect.html)
+- [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
+- [C Is Best](https://sqlite.org/whyc.html)
+- [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 - [AWS raises GPU prices 15% on a Saturday, hopes you weren&#39;t paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
-- [SCiZE&#39;s Classic Warez Collection](https://scenelist.org/)
-- [enclose.horse](https://enclose.horse/)
-- [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
