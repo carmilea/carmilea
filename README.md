@@ -62,7 +62,7 @@
 - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
 - [A prediction market user made $436k betting on Maduro&#39;s downfall](https://www.bbc.com/news/articles/cx2gn93292do)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
-- [Intel Panther Lake &lpar;first Intel 18A node product&rpar; makes debut at CES](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
+- [Intel Core Ultra Series 3 Debut as First Built on Intel 18A](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
