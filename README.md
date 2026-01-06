@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [enclose.horse](https://enclose.horse/)
+- [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
+- [A prediction market user made $436k betting on Maduro&#39;s downfall](https://www.bbc.com/news/articles/cx2gn93292do)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
-- [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
-- [I/O is no longer the bottleneck? &lpar;2022&rpar;](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-- [Strange.website](https://strange.website/)
-- [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
+- [Intel Panther Lake &lpar;first Intel 18A node product&rpar; makes debut at CES](https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
