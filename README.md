@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portland&#39;s gas-powered leaf blower ban goes into effect](https://www.oregonlive.com/environment/2026/01/portlands-gas-powered-leaf-blower-ban-goes-into-effect.html)
 - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578)
 - [C Is Best](https://sqlite.org/whyc.html)
 - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
+- [System: Control your Mac from anywhere using natural language](https://system.surf/)
 - [AWS raises GPU prices 15% on a Saturday, hopes you weren&#39;t paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 <!-- BLOG-POST-LIST:END -->
 
