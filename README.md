@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Spotify Made Me Self Host](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
+- [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
+- [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
+- [Calling All Hackers: How money works &lpar;2024&rpar;](https://phrack.org/issues/71/17)
+- [Self hosting my media library with Jellyfin and Wireguard on Hetzner](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
 - [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
-- [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
-- [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
-- [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
