@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2026: Taking the Lids Off AMD&#39;s Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
+- [Laylo &lpar;YC S20&rpar; – Head of Growth &lpar;Organic and Partners and Loops and AI&rpar; – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
 - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 - [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
-- [Calling All Hackers: How money works &lpar;2024&rpar;](https://phrack.org/issues/71/17)
-- [Self hosting my media library with Jellyfin and Wireguard on Hetzner](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
-- [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+- [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
