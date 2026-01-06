@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
 - [I/O is no longer the bottleneck? &lpar;2022&rpar;](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-- [LocalFirst: You Keep Using That Word](https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/)
 - [Strange.website](https://strange.website/)
 - [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
-- [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
+- [Why didn&#39;t AI “join the workforce” in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
