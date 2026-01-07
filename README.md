@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An LLM response cache that&#39;s aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching)
+- [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-- [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
-- [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
-- [A tab hoarder&#39;s journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
-- [Texas A&amp;M bans part of Plato&#39;s Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
+- [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
+- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
