@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
+- [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 - [A tab hoarder&#39;s journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
 - [Texas A&amp;M bans part of Plato&#39;s Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
+- [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
 - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
-- [BillG the Manager &lpar;2021&rpar;](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
