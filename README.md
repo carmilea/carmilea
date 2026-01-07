@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
+- [Stop Designing Languages. Write Libraries Instead &lpar;2016&rpar;](https://lbstanza.org/purpose_of_programming_languages.html)
+- [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
+- [Optery &lpar;YC W22&rpar; Hiring a CISO and Web Scraping Engineers &lpar;Node&rpar; &lpar;US and Latam&rpar;](https://www.optery.com/careers/)
+- [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
 - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
-- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
-- [We recreated Steve Jobs&#39;s 1975 Atari horoscope program](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
-- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
