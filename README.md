@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
+- [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
+- [So you wanna de-bog yourself &lpar;2024&rpar;](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 - [Show HN: An LLM response cache that&#39;s aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching)
-- [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
 - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-- [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
-- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
