@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
+- [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
 - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
 - [A tab hoarder&#39;s journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
 - [Texas A&amp;M bans part of Plato&#39;s Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
-- [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160)
-- [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
