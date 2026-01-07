@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The data center boom is concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
+- [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
+- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
 - [Most websites don&#39;t need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
 - [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
-- [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/)
-- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
+- [We Recreated Steve Jobs&#39;s 1975 Atari Horoscope Program and You Can Run It](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
