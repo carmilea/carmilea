@@ -61,7 +61,7 @@
 - [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
 - [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
 - [So you wanna de-bog yourself &lpar;2024&rpar;](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-- [Show HN: An LLM response cache that&#39;s aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching)
+- [SSDs, power loss protection and fsync latency](http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html)
 - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 <!-- BLOG-POST-LIST:END -->
 
