@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
+- [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
+- [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
 - [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
-- [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
-- [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
-- [Dell&#39;s CES 2026 chat was the most pleasingly un-AI briefing I&#39;ve had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
-- [Target has their own forensic lab to investigate shoplifters](https://thehorizonsun.com/features/2024/04/11/the-target-forensics-lab/)
+- [The Case for Nushell &lpar;2023&rpar;](https://www.sophiajt.com/case-for-nushell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
