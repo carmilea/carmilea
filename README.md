@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gnome dev gives fans of Linux&#39;s middle-click paste the middle finger](https://www.theregister.com/2026/01/07/gnome_middle_click_paste/)
-- [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest)
-- [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
-- [“Stop Designing Languages. Write Libraries Instead” &lpar;2016&rpar;](https://lbstanza.org/purpose_of_programming_languages.html)
-- [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
+- [Meditation as Wakeful Relaxation: Unclenching Smooth Muscle](https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation)
+- [LaTeX Coffee Stains [pdf]](https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf)
+- [Sugar industry influenced researchers and blamed fat for CVD](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
+- [Show HN: RepoReaper – AST-aware, JIT-loading code audit agent &lpar;Python/AsyncIO&rpar;](https://github.com/tzzp1224/RepoReaper)
+- [Everyone hates OneDrive, Microsofts cloud app that steals and deletes files](https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
