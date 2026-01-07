@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter)
-- [CES 2026: Taking the Lids Off AMD&#39;s Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
-- [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
-- [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
-- [A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
+- [The data center boom is concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
+- [Most websites don&#39;t need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
+- [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
+- [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/)
+- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
