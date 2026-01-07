@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Designing Languages. Write Libraries Instead &lpar;2016&rpar;](https://lbstanza.org/purpose_of_programming_languages.html)
+- [Gnome dev gives fans of Linux&#39;s middle-click paste the middle finger](https://www.theregister.com/2026/01/07/gnome_middle_click_paste/)
+- [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest)
+- [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
+- [“Stop Designing Languages. Write Libraries Instead” &lpar;2016&rpar;](https://lbstanza.org/purpose_of_programming_languages.html)
 - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
-- [Optery &lpar;YC W22&rpar; Hiring a CISO and Web Scraping Engineers &lpar;Node&rpar; &lpar;US and Latam&rpar;](https://www.optery.com/careers/)
-- [Htmx: High Power Tools for HTML](https://github.com/bigskysoftware/htmx)
-- [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
