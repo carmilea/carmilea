@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eat Real Food – Introducing the New Pyramid](https://realfood.gov)
-- [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)
+- [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
+- [A tab hoarder&#39;s journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
+- [Texas A&amp;M bans part of Plato&#39;s Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
 - [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
-- [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
-- [The Case for Nushell &lpar;2023&rpar;](https://www.sophiajt.com/case-for-nushell/)
+- [BillG the Manager &lpar;2021&rpar;](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
