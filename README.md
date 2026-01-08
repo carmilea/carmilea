@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude keeps nagging about &quot;Help improve Claude&quot; inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
+- [Ask HN: Is it time for HN to implement a form of captcha?](https://news.ycombinator.com/item?id=46544969)
+- [Fixing a Buffer Overflow in Unix v4 Like It&#39;s 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 - [IBM AI &lpar;&#39;Bob&#39;&rpar; Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-- [He was called a &#39;terrorist sympathizer.&#39; Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
-- [Nvidia Kicks Off the Next Generation of AI with Rubin](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
-- [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci)
-- [ICE&#39;s Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
+- [Experts Warn U.S. in Early Stages of Genocide Against Trans Americans](https://www.lemkininstitute.com/single-post/experts-warn-u-s-in-early-stages-of-genocide-against-trans-americans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
