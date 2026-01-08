@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a quantum internet that runs on your WiFi](https://github.com/mermaidnicheboutique-code/luxbin-quantum-internet)
+- [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
+- [SQL Studio](https://sql.studio/)
 - [Mux &lpar;YC W16&rpar; is hiring a platform engineer that cares about &lpar;internal&rpar; DX](https://www.mux.com/jobs)
-- [Support for the TSO memory model on Arm CPUs](https://lwn.net/Articles/970907/)
-- [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
-- [Texas first state to end American bar association oversight of law schools](https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation)
-- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
+- [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
