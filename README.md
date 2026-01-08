@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+- [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 - [Claude keeps nagging about &quot;Help improve Claude&quot; inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
-- [Ask HN: Is it time for HN to implement a form of captcha?](https://news.ycombinator.com/item?id=46544969)
+- [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
 - [Fixing a Buffer Overflow in Unix v4 Like It&#39;s 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
-- [IBM AI &lpar;&#39;Bob&#39;&rpar; Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-- [Experts Warn U.S. in Early Stages of Genocide Against Trans Americans](https://www.lemkininstitute.com/single-post/experts-warn-u-s-in-early-stages-of-genocide-against-trans-americans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
