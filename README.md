@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
+- [The virtual AmigaOS runtime &lpar;a.k.a. Wine for Amiga:&rpar;](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
+- [Don&#39;t Let the Grocery Store Scan Your Face: How to Stop Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
+- [Play Aardwolf MUD](https://www.aardwolf.com/)
 - [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
-- [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
-- [So you wanna de-bog yourself &lpar;2024&rpar;](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-- [SSDs, power loss protection and fsync latency](http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html)
-- [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
