@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)
+- [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
+- [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
+- [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
 - [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
-- [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
 - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
-- [Mothers &lpar;YC X26&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
