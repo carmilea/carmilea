@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
+- [ICE&#39;s Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
+- [Tamarind Bio &lpar;YC W24&rpar; Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
+- [The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.](https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/)
+- [An Honest Review of Go &lpar;2025&rpar;](https://benraz.dev/blog/golang_review.html)
 - [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
-- [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
-- [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
-- [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
