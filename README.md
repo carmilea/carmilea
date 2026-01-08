@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
+- [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
 - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
 - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
-- [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
-- [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
