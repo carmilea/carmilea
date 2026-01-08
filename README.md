@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
+- [Open Infrastructure Map](https://openinframap.org)
+- [Chase to become new issuer of Apple Card](https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card)
 - [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
 - [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
-- [The virtual AmigaOS runtime &lpar;a.k.a. Wine for Amiga:&rpar;](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
-- [Fighting back against biometric surveillance at Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
-- [Play Aardwolf MUD](https://www.aardwolf.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
