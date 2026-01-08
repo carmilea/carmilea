@@ -61,8 +61,8 @@
 - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 - [AI misses nearly one-third of breast cancers, study finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
-- [Why we&#39;re taking legal action against SerpApi&#39;s unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
 - [Go.sum is not a lockfile](https://words.filippo.io/gosum/)
+- [Open Infrastructure Map](https://openinframap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
