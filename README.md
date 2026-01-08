@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
+- [AI misses nearly one-third of breast cancers, study finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
-- [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)
+- [Why we&#39;re taking legal action against SerpApi&#39;s unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
 - [Go.sum is not a lockfile](https://words.filippo.io/gosum/)
-- [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com)
-- [Open Infrastructure Map](https://openinframap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
