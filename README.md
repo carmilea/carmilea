@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
-- [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
-- [Claude keeps nagging about &quot;Help improve Claude&quot; inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
-- [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
-- [Fixing a Buffer Overflow in Unix v4 Like It&#39;s 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
+- [Mux &lpar;YC W16&rpar; is hiring a platform engineer that cares about &lpar;internal&rpar; DX](https://www.mux.com/jobs)
+- [Support for the TSO memory model on Arm CPUs](https://lwn.net/Articles/970907/)
+- [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
+- [Texas first state to end American bar association oversight of law schools](https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation)
+- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
