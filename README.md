@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM AI &lpar;&#39;Bob&#39;&rpar; Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+- [He was called a &#39;terrorist sympathizer.&#39; Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+- [Nvidia Kicks Off the Next Generation of AI with Rubin](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
+- [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci)
 - [ICE&#39;s Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/)
-- [Tamarind Bio &lpar;YC W24&rpar; Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer)
-- [The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.](https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/)
-- [An Honest Review of Go &lpar;2025&rpar;](https://benraz.dev/blog/golang_review.html)
-- [Our Changing Planet, as Seen from Space](https://e360.yale.edu/digest/nasa-satellite-images-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
