@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail is entering the Gemini Era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)
+- [Show HN: DeepDream for Video with Temporal Consistency](https://github.com/jeremicna/deepdream-video-pytorch)
+- [How Did TVs Get So Cheap?](https://www.construction-physics.com/p/how-did-tvs-get-so-cheap)
+- [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 - [Mothers &lpar;YC X26&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers)
-- [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
-- [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
-- [Go.sum is not a lockfile](https://words.filippo.io/gosum/)
-- [Open Infrastructure Map](https://openinframap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
