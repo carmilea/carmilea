@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a quantum internet that runs on your WiFi](https://github.com/mermaidnicheboutique-code/luxbin-quantum-internet)
+- [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+- [Iran Protest Map](https://pouyaii.github.io/Iran/)
 - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
 - [SQL Studio](https://sql.studio/)
 - [Mux &lpar;YC W16&rpar; is hiring a platform engineer that cares about &lpar;internal&rpar; DX](https://www.mux.com/jobs)
-- [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
