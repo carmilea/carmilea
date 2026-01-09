@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI solves Erdos problem #728 &lpar;Terence Tao mathstodon post&rpar;](https://mathstodon.xyz/@tao/115855840223258103)
+- [Sigmund Freud&#39;s Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
-- [Show HN: EuConform – Offline-first EU AI Act compliance tool &lpar;open source&rpar;](https://github.com/Hiepler/EuConform)
-- [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
