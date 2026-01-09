@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
+- [The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
+- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 - [Logistics Is Dying; Or – Dude, Where&#39;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
 - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
-- [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
-- [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production)
+- [Iran Goes Dark as Government Cuts Itself Off from Internet](https://www.kentik.com/analysis/iran-goes-dark-as-government-cuts-itself-off-from-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
