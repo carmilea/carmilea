@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
+- [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
+- [Surveillance Watch – A map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 - [Mathematics for Computer Science &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
-- [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
