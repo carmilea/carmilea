@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran vows regime will &quot;not back down&quot; as web blackout continues](https://www.cbsnews.com/news/iran-protests-internet-blackout-khamenei-vows-not-back-down-trump-threat/)
+- [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
