@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+- [Surveillance Watch – a map that shows connections between surveillance companies](https://www.surveillancewatch.io)
 - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 - [Mathematics for Computer Science &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
