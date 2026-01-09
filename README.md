@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IcePanel &lpar;YC W23&rpar; is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
+- [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
+- [Replit &lpar;YC W18&rpar; Is Hiring](https://jobs.ashbyhq.com/replit)
+- [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
 - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
-- [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
-- [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
-- [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
+- [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
