@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
 - [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
+- [U.S. mandates more foreign travelers to pay $15,000 visa bond deposits](https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/)
 - [Replit &lpar;YC W18&rpar; Is Hiring](https://jobs.ashbyhq.com/replit)
 - [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
-- [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
-- [Cloudflare CEO on the Italy Fines](https://twitter.com/eastdakota/status/2009654937303896492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
