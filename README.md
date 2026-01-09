@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT&#39;s &quot;Mathematics for Computer Science&quot; &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+- [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
+- [Mathematics for Computer Science &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
-- [The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
-- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
-- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
+- [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
