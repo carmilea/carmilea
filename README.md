@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DHS Invokes Immigration Enforcement to Justify Gathering Americans&#39; DNA](https://reason.com/2026/01/09/dhs-invokes-immigration-enforcement-to-justify-gathering-americans-dna/)
 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+- [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
+- [&quot;They Saw a Protest&quot;: Cognitive Illiberalism and the Speech-Conduct Distinction [pdf] &lpar;2012&rpar;](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
 - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
-- [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
-- [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
-- [Mathematics for Computer Science &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
