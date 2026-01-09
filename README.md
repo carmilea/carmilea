@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
+- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
 - [Logistics Is Dying; Or – Dude, Where&#39;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
-- [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
-- [Iran Goes Dark as Government Cuts Itself Off from Internet](https://www.kentik.com/analysis/iran-goes-dark-as-government-cuts-itself-off-from-internet/)
+- [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
