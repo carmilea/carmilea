@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
+- [Logistics Is Dying; Or – Dude, Where&#39;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
 - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 - [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production)
-- [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi &lpar;2017&rpar;](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
-- [Mux &lpar;YC W16&rpar; is hiring a platform engineer that cares about &lpar;internal&rpar; DX](https://www.mux.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
