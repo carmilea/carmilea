@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
-- [Surveillance Watch – A map that shows connections between surveillance companies](https://www.surveillancewatch.io)
-- [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+- [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 - [Mathematics for Computer Science &lpar;2018&rpar; [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
