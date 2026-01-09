@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
+- [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
+- [Show HN: EuConform – Offline-first EU AI Act compliance tool &lpar;open source&rpar;](https://github.com/Hiepler/EuConform)
 - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
-- [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
-- [U.S. mandates more foreign travelers to pay $15,000 visa bond deposits](https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/)
-- [Replit &lpar;YC W18&rpar; Is Hiring](https://jobs.ashbyhq.com/replit)
-- [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
+- [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
