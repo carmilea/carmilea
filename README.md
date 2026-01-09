@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DHS Invokes Immigration Enforcement to Justify Gathering Americans&#39; DNA](https://reason.com/2026/01/09/dhs-invokes-immigration-enforcement-to-justify-gathering-americans-dna/)
+- [IcePanel &lpar;YC W23&rpar; is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer)
+- [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 - [Show HN: Free noise evidence generator for tenant complaints](https://noiseevidence.com/)
-- [&quot;They Saw a Protest&quot;: Cognitive Illiberalism and the Speech-Conduct Distinction [pdf] &lpar;2012&rpar;](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
 - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 <!-- BLOG-POST-LIST:END -->
 
