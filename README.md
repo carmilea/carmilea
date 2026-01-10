@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
+- [Tesla&#39;s Germany Sales Down 72% from Their Peak](https://cleantechnica.com/2026/01/08/teslas-germany-sales-down-72-from-their-peak/)
+- [Extracting books from production language models &lpar;2026&rpar;](https://arxiv.org/abs/2601.02671)
 - [Worst of Breed Software](https://worstofbreed.net/)
 - [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
-- [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
-- [Finding and Fixing Ghostty&#39;s Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
-- [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
