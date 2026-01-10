@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
+- [A Eulogy for Dark Sky, a Data Visualization Masterpiece &lpar;2023&rpar;](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+- [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
+- [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
-- [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
-- [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
-- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
-- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
