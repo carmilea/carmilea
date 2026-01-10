@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [UpCodes &lpar;YC S17&rpar; is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
-- [I Hate Go, but It Saved My Startup: An Architectural Autopsy](http://audiotext.live/blog/posts/hate-go-saved-startup-architecture/)
 - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
-- [X Is a Power Problem, Not a Platform Problem](https://connectedplaces.online/reports/a-power-problem-not-a-platform-problem/)
+- [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
+- [I replaced Windows with Linux and everything&#39;s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
