@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
-- [Tesla&#39;s Germany Sales Down 72% from Their Peak](https://cleantechnica.com/2026/01/08/teslas-germany-sales-down-72-from-their-peak/)
 - [Extracting books from production language models &lpar;2026&rpar;](https://arxiv.org/abs/2601.02671)
 - [Worst of Breed Software](https://worstofbreed.net/)
-- [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
+- [Overdose deaths are falling in America because of a &#39;supply shock&#39;: study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
+- [Code Is Clay](https://campedersen.com/code-is-clay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
