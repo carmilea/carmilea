@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You probably don&#39;t need Oh My Zsh](https://rushter.com/blog/zsh-shell/)
+- [CDC staff &#39;blindsided&#39; as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
+- [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
 - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
 - [Maine&#39;s black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
-- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
