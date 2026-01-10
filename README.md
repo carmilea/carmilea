@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Worst of Breed Software](https://worstofbreed.net/)
+- [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
 - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
+- [Finding and Fixing Ghostty&#39;s Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 - [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
-- [UpCodes &lpar;YC S17&rpar; is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
-- [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 <!-- BLOG-POST-LIST:END -->
 
 ---
