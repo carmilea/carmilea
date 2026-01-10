@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CDC staff &#39;blindsided&#39; as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
 - [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
 - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
-- [USDA suspends federal financial awards to Minnesota and Minneapolis](https://turnto10.com/news/nation-world/enough-is-enough-usda-suspends-federal-financial-awards-to-minnesota-and-minneapolis-fraud-scheme-investigation-governor-tim-walz-mayor-jacob-frey-nick-shirley-feeding-our-children-food-programs)
 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
+- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
+- [Sigmund Freud&#39;s Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
