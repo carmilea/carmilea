@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [UpCodes &lpar;YC S17&rpar; is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
+- [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 - [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/)
 - [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
-- [I replaced Windows with Linux and everything&#39;s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
