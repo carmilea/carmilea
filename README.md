@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears)
+- [Maine&#39;s black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
-- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
+- [Sigmund Freud&#39;s Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 <!-- BLOG-POST-LIST:END -->
 
