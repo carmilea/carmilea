@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)
+- [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
+- [I replaced Windows with Linux and everything&#39;s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
 - [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
-- [NASA announces unprecedented return of sick ISS astronaut and crew](https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues)
 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece &lpar;2023&rpar;](https://nightingaledvs.com/dark-sky-weather-data-viz/)
-- [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
+- [Why Is Greenland Part of the Kingdom of Denmark? A Short History](https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
