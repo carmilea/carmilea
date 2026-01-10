@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All my new code will be closed-source from now on](https://twitter.com/MarcJSchmidt/status/2009688028931875156)
+- [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
+- [NASA announces unprecedented return of sick ISS astronaut and crew](https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues)
 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece &lpar;2023&rpar;](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
 - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
-- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
