@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran&#39;s internet shutdown is chillingly precise and may last some time](https://www.theguardian.com/world/2026/jan/10/irans-internet-shutdown-is-strikingly-sophisticated-and-may-last-some-time)
+- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
 - [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
 - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
