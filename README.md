@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- [I build products to get &quot;unplugged&quot; from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
 - [&#39;The answer cannot be nothing&#39;: The battle over Canada&#39;s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
 - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 - [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
-- [Show HN: PrintReadyBook](https://printreadybook.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
