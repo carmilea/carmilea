@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD&#39;s cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
-- [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
-- [DHS restricts congressional visits to ICE facilities in Minneapolis](https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy)
-- [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
-- [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
+- [Game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+- [Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults](https://news.ycombinator.com/item?id=46580652)
+- [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting)
+- [A 2026 look at three bio-ML opinions I had in 2024](https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions)
+- [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
