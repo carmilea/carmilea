@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;F*ck You, Make Me&#39; Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)
+- [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)
+- [Ask HN: What Are You Working On? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46577242)
 - [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
 - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
-- [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
-- [KaraDAV – Lightweight Nextcloud compatible WebDAV server](https://github.com/kd2org/karadav)
-- [Google: Don&#39;t make &quot;bite-sized&quot; content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
