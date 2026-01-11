@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+- [I&#39;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
+- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+- [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
+- [iMessage-kit is an iMessage SDK for macOS](https://github.com/photon-hq/imessage-kit)
 - [Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults](https://news.ycombinator.com/item?id=46580652)
-- [2026 is the Year of Self-hosting](https://fulghum.io/self-hosting)
-- [A 2026 look at three bio-ML opinions I had in 2024](https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions)
-- [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
