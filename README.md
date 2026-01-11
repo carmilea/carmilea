@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LLM poetry and the &quot;greatness&quot; question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
+- [Iran Shuts Down Starlink Internet for First Time](https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/)
 - [Google: Don&#39;t make &quot;bite-sized&quot; content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
-- [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake &lpar;2012&rpar;](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)
+- [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
-- [Think of Pavlov](https://boz.com/articles/think-pavlov)
 <!-- BLOG-POST-LIST:END -->
 
 ---
