@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 - [I build products to get &quot;unplugged&quot; from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
 - [A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
 - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
-- [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
