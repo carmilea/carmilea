@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t fall into the anti-AI hype](https://antirez.com/news/158)
-- [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
-- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
-- [A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
-- [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
+- [LLM poetry and the &quot;greatness&quot; question: Experiments by Gwern and Mercor](https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question)
+- [Google: Don&#39;t make &quot;bite-sized&quot; content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
+- [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake &lpar;2012&rpar;](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/)
+- [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
+- [Think of Pavlov](https://boz.com/articles/think-pavlov)
 <!-- BLOG-POST-LIST:END -->
 
 ---
