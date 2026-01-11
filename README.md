@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD&#39;s cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
+- [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
+- [DHS restricts congressional visits to ICE facilities in Minneapolis](https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy)
 - [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
 - [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
-- [&quot;Scholars Will Call It Nonsense&quot;: The Structure of von Däniken&#39;s Argument &lpar;1987&rpar;](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
-- [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-- [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
 <!-- BLOG-POST-LIST:END -->
 
 ---
