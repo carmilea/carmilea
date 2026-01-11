@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
-- [Extracting books from production language models &lpar;2026&rpar;](https://arxiv.org/abs/2601.02671)
-- [Worst of Breed Software](https://worstofbreed.net/)
-- [Overdose deaths are falling in America because of a &#39;supply shock&#39;: study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
-- [Code Is Clay](https://campedersen.com/code-is-clay)
+- [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
+- [Grateful Dead co-founder Bob Weir has died at age 78](https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/)
+- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
+- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
+- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
