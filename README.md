@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;F*ck You, Make Me&#39; Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)
-- [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)
+- [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
+- [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
+- [Poison Fountain](https://rnsaffn.com/poison3/)
 - [Ask HN: What Are You Working On? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46577242)
-- [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
-- [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
+- [Replace the Retiring Windows XP with Linux &lpar;2014&rpar;](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
