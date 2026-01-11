@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
-- [Are We ... Yet?](https://wiki.mozilla.org/Areweyet)
-- [Poison Fountain](https://rnsaffn.com/poison3/)
-- [Ask HN: What Are You Working On? &lpar;January 2026&rpar;](https://news.ycombinator.com/item?id=46577242)
-- [Replace the Retiring Windows XP with Linux &lpar;2014&rpar;](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/)
+- [guys why does armenian completely break Claude](https://twitter.com/dyushag/status/1993143599286886525)
+- [Sampling at negative temperature](https://cavendishlabs.org/blog/negative-temperature/)
+- [&quot;Scholars Will Call It Nonsense&quot;: The Structure of von Däniken&#39;s Argument &lpar;1987&rpar;](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
+- [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+- [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
 <!-- BLOG-POST-LIST:END -->
 
 ---
