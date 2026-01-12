@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361)
+- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
 - [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 - [Carma &lpar;YC W24 clients, A in 6mo&rpar; Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
 - [Show HN: AI in SolidWorks](https://www.trylad.com)
-- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
-- [Show HN: Pane – An agent that edits spreadsheets](https://paneapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
