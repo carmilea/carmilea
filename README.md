@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The chess bot on Delta Air Lines will destroy you &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+- [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
+- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 - [X Didn&#39;t Fix Grok&#39;s &#39;Undressing&#39; Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
 - [Clearspace &lpar;YC W23&rpar; Is Hiring an Applied Researcher &lpar;ML&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
-- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
-- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-- [Show HN: Customizable OSINT dashboard to monitor the situation](https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
