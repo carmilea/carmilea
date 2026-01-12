@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Ontario Digital Service couldn&#39;t procure &#39;98% safe&#39; LLMs &lpar;15M Canadians&rpar;](https://rosetta-labs-erb.github.io/authority-boundary-ledger/)
+- [Keychron&#39;s Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
+- [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
+- [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 - [Reproducing DeepSeek&#39;s MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
-- [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
-- [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
-- [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
-- [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
