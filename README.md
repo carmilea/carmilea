@@ -62,7 +62,7 @@
 - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
 - [Uncrossy](https://uncrossy.com/)
-- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+- [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
