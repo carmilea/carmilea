@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361)
+- [X Didn&#39;t Fix Grok&#39;s &#39;Undressing&#39; Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
+- [Clearspace &lpar;YC W23&rpar; Is Hiring an Applied Researcher &lpar;ML&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
 - [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-- [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
-- [Carma &lpar;YC W24 clients, A in 6mo&rpar; Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
-- [Show HN: AI in SolidWorks](https://www.trylad.com)
+- [Show HN: Customizable OSINT dashboard to monitor the situation](https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
