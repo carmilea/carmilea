@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
+- [Code is cheap now, but software isn&#39;t](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
 - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
-- [Jerome Powell Responds](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm)
+- [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
 - [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
-- [I&#39;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
-- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
