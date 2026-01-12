@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+- [Jerome Powell Responds](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm)
+- [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 - [I&#39;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
 - [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-- [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
-- [iMessage-kit is an iMessage SDK for macOS](https://github.com/photon-hq/imessage-kit)
-- [Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults](https://news.ycombinator.com/item?id=46580652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
