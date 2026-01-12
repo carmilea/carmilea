@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
+- [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 - [Xfce is great](https://rubenerd.com/xfce-is-great/)
 - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
-- [Uncrossy](https://uncrossy.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
