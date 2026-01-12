@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XFCE Is Great](https://rubenerd.com/xfce-is-great/)
+- [Xfce is great](https://rubenerd.com/xfce-is-great/)
 - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
 - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
 - [Uncrossy](https://uncrossy.com/)
