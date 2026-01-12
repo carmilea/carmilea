@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
+- [Carma &lpar;YC W24 clients, A in 6mo&rpar; Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
+- [Show HN: AI in SolidWorks](https://www.trylad.com)
 - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
-- [Apple picks Google&#39;s Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
-- [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
-- [Keychron&#39;s Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
-- [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
+- [Show HN: Pane – An agent that edits spreadsheets](https://paneapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
