@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4)
-- [Fabrice Bellard&#39;s TS Zip](https://www.bellard.org/ts_zip/)
+- [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
 - [The chess bot on Delta Air Lines will destroy you &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 - [Clearspace &lpar;YC W23&rpar; Is Hiring an Applied Researcher &lpar;ML&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
