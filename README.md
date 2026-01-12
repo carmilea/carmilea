@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ozempic reduced grocery spending by an average of 5.3% in the US](https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy)
-- [Launch a Debugging Terminal into GitHub Actions](https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/)
-- [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)
-- [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
-- [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
+- [Reproducing DeepSeek&#39;s MHC: When Residual Connections Explode](https://taylorkolasinski.com/notes/mhc-reproduction/)
+- [Ireland fast tracks Bill to criminalise harmful voice or image misuse](https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/)
+- [Windows 8 Desktop Environment for Linux](https://github.com/er-bharat/Win8DE)
+- [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
+- [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
