@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+- [An archaeology of tracking on government websites](https://www.flux.utah.edu/paper/singh-pets26)
+- [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
+- [Games Workshop bans staff from using AI](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 - [Open sourcing Dicer: Databricks&#39;s auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
 - [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
-- [Ask HN: Discrepancy between Lichess and Stockfish](https://news.ycombinator.com/item?id=46606715)
-- [A university got itself banned from the Linux kernel &lpar;2021&rpar;](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
