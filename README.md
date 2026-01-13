@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+- [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
+- [Show HN: Ayder – HTTP-native durable event log written in C &lpar;curl as client&rpar;](https://github.com/A1darbek/ayder)
 - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
-- [Legion Health &lpar;YC S21&rpar; Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
-- [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)
-- [Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)
-- [Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)
+- [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
