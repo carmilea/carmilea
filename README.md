@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-Essential French Embassy Staff Have Left Iran](https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51)
+- [Tell HN: DigitalOcean&#39;s managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
+- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 - [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
-- [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4)
 - [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
 - [The chess bot on Delta Air Lines will destroy you &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 <!-- BLOG-POST-LIST:END -->
