@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
+- [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
+- [UK Expands Online Safety Act to Mandate Preemptive Scanning](https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning)
+- [FOSS in times of war, scarcity and &lpar;adversarial&rpar; AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 - [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
 - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
-- [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
-- [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
