@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+- [We can&#39;t have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 - [An archaeology of tracking on government websites](https://www.flux.utah.edu/paper/singh-pets26)
 - [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
 - [Games Workshop bans staff from using AI](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
-- [Open sourcing Dicer: Databricks&#39;s auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
-- [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
