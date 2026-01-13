@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
+- [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+- [Open sourcing Dicer: Databricks&#39;s auto-sharder](https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder)
+- [Ask HN: Vxlan over WireGuard or WireGuard over Vxlan?](https://news.ycombinator.com/item?id=46606854)
+- [Ask HN: Discrepancy between Lichess and Stockfish](https://news.ycombinator.com/item?id=46606715)
 - [A university got itself banned from the Linux kernel &lpar;2021&rpar;](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
-- [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
-- [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
-- [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
