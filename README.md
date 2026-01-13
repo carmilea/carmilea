@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
+- [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-- [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 - [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
+- [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
