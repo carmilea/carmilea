@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What a year of solar and batteries saved us in 2025](https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/)
-- [Command K Bars](https://maggieappleton.com/command-bar)
-- [Anthropic has made a large contribution to the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
-- [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
-- [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
+- [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
+- [Legion Health &lpar;YC S21&rpar; Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
+- [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)
+- [Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa)
+- [Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
