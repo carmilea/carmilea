@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Owners, not renters: Mozilla&#39;s open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
-- [Iran official says 2k people have been killed in unrest](https://www.reuters.com/world/china/iranian-mp-warns-greater-unrest-urging-government-address-grievances-2026-01-13/)
-- [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
-- [Show HN: An iOS budget app I&#39;ve been maintaining since 2011](https://primoco.me/en/)
-- [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
+- [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
+- [Why Stoicism is one of the best mind hacks ever devised](https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised)
+- [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
+- [Why have death rates from accidental falls tripled?](https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/)
+- [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
