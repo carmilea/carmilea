@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Housing Market Isn&#39;t for Single People](https://thewalrus.ca/the-housing-market-isnt-for-single-people/)
+- [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+- [The rapid rise and slow decline of Sam Altman](https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of)
 - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
-- [Show HN: Ayder – HTTP-native durable event log written in C &lpar;curl as client&rpar;](https://github.com/A1darbek/ayder)
-- [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
-- [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
