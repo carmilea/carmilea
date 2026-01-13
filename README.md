@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)
+- [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
 - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
-- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 - [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
-- [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
