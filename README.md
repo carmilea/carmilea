@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Owners, not renters: Mozilla&#39;s open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+- [Iran official says 2k people have been killed in unrest](https://www.reuters.com/world/china/iranian-mp-warns-greater-unrest-urging-government-address-grievances-2026-01-13/)
+- [Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)
+- [Show HN: An iOS budget app I&#39;ve been maintaining since 2011](https://primoco.me/en/)
 - [U.S. Emissions Jumped in 2025 as Coal Power Rebounded](https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html)
-- [UK Expands Online Safety Act to Mandate Preemptive Scanning](https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning)
-- [FOSS in times of war, scarcity and &lpar;adversarial&rpar; AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
-- [Data Exfiltration via DNS Resolution](https://github.com/anthropic-experimental/sandbox-runtime/issues/88)
-- [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 <!-- BLOG-POST-LIST:END -->
 
 ---
