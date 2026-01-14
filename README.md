@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
-- [East coast. Verizon outage in US](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
-- [So, You&#39;ve Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
-- [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
-- [Ask HN: Could you share your personal website here?](https://news.ycombinator.com/item?id=46618714)
+- [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
+- [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
+- [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
+- [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
+- [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
