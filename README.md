@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-- [We can&#39;t have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
-- [An archaeology of tracking on government websites](https://www.flux.utah.edu/paper/singh-pets26)
-- [Running Lean at Scale](https://harmonic.fun/news#blog-post-lean)
-- [Games Workshop bans staff from using AI](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+- [Minor says ICE took his iPhone, later found in used-electronics vending machine](https://www.propublica.org/article/videos-ice-dhs-immigration-agents-using-chokeholds-citizens)
+- [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
+- [Sei &lpar;YC W22&rpar; Is Hiring a DevOps Engineer &lpar;India/In-Office/Chennai/Gurgaon&rpar;](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
+- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
+- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
