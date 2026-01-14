@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Minor says ICE took his iPhone, later found in used-electronics vending machine](https://www.propublica.org/article/videos-ice-dhs-immigration-agents-using-chokeholds-citizens)
-- [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
-- [Sei &lpar;YC W22&rpar; Is Hiring a DevOps Engineer &lpar;India/In-Office/Chennai/Gurgaon&rpar;](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
-- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+- [The Gleam Programming Language](https://gleam.run/)
+- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
+- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
+- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
