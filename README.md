@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI raids Washington Post reporter&#39;s home in &#39;highly unusual and aggressive&#39; act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
+- [Never-before-seen Linux malware is &quot;more advanced than typical&quot;](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
+- [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
+- [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 - [Why NUKEMAP isn&#39;t on Google Maps anymore &lpar;2019&rpar;](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
-- [Lago &lpar;Open-Source Billing&rpar; is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
-- [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
-- [Show HN: Tiny FOSS Compass and Navigation App &lpar;&lt;2MB&rpar;](https://github.com/CompassMB/MBCompass)
-- [I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
