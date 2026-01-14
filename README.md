@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Influentists: AI hype without proof](https://carette.xyz/posts/influentists/)
 - [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
+- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 - [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
-- [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
 - [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
-- [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
