@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/)
+- [How have prices changed in a year? NPR checked 114 items at Walmart](https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation)
+- [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
+- [I built Vector. Now I&#39;m answering the question your observability vendor won&#39;t](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
 - [Show HN: A 10KiB kernel for cloud apps](https://github.com/ReturnInfinity/BareMetal-Cloud)
-- [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
-- [Government drops plans for mandatory digital ID to work in UK](https://www.bbc.com/news/articles/c3385zrrx73o)
-- [Maggots, an Efficient Source of Protein, May Become Next Superfood for Humans](https://www.smithsonianmag.com/science-nature/maggots-incredibly-efficient-source-protein-may-make-them-next-superfood-humans-180987847/)
-- [FBI raids Washington Post reporter&#39;s home in &#39;highly unusual and aggressive&#39; act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
 <!-- BLOG-POST-LIST:END -->
 
 ---
