@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI will compromise your cybersecurity posture](https://rys.io/en/181.html)
+- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 - [The Gleam Programming Language](https://gleam.run/)
 - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
-- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
