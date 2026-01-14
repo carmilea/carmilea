@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
 - [I Love You, Redis, but I&#39;m Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
-- [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/)
 - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 - [The Gleam Programming Language](https://gleam.run/)
 - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
