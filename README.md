@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why NUKEMAP isn&#39;t on Google Maps anymore](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
+- [Lago &lpar;Open-Source Billing&rpar; is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
+- [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
+- [UK Officials could face US entry ban over Twitter policy](https://parliamentnews.co.uk/uk-officials-could-face-us-entry-ban-over-x-policy)
 - [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)
-- [I Love You, Redis, but I&#39;m Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
-- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
-- [The Gleam Programming Language](https://gleam.run/)
-- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
