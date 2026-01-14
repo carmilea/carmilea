@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A 10KiB kernel for cloud apps](https://github.com/ReturnInfinity/BareMetal-Cloud)
+- [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
+- [Government drops plans for mandatory digital ID to work in UK](https://www.bbc.com/news/articles/c3385zrrx73o)
+- [Maggots, an Efficient Source of Protein, May Become Next Superfood for Humans](https://www.smithsonianmag.com/science-nature/maggots-incredibly-efficient-source-protein-may-make-them-next-superfood-humans-180987847/)
 - [FBI raids Washington Post reporter&#39;s home in &#39;highly unusual and aggressive&#39; act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
-- [Never-before-seen Linux malware is &quot;more advanced than typical&quot;](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
-- [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
-- [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
-- [Why NUKEMAP isn&#39;t on Google Maps anymore &lpar;2019&rpar;](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
