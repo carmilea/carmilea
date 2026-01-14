@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+- [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 - [The Influentists: AI hype without proof](https://carette.xyz/posts/influentists/)
-- [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
 - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
-- [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
-- [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
