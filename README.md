@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So, You&#39;ve Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
+- [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
+- [Ask HN: Could you share your personal website here?](https://news.ycombinator.com/item?id=46618714)
 - [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/)
 - [How have prices changed in a year? NPR checked 114 items at Walmart](https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation)
-- [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
-- [I built Vector. Now I&#39;m answering the question your observability vendor won&#39;t](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
-- [Show HN: A 10KiB kernel for cloud apps](https://github.com/ReturnInfinity/BareMetal-Cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
