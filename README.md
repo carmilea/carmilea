@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChromaDB Explorer](https://www.chroma-explorer.com/)
+- [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
 - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-- [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
-- [The Influentists: AI hype without proof](https://carette.xyz/posts/influentists/)
-- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+- [Simple to Ornate and Back Again &lpar;2024&rpar;](https://josem.co/simple-to-ornate-and-back-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
