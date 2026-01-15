@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remails: A European Mail Transfer Agent](https://tweedegolf.nl/en/blog/197/remails)
 - [Aviator &lpar;YC S21&rpar; is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
 - [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
 - [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
-- [I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
-- [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
+- [I learned everything I know about programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
