@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remails: A European Mail Transfer Agent](https://tweedegolf.nl/en/blog/197/remails)
+- [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 - [Aviator &lpar;YC S21&rpar; is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
 - [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
 - [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
-- [I learned everything I know about programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
+- [How I learned everything I know about programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
