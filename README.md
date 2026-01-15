@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
+- [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
+- [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
+- [Show HN: TinyCity – A tiny city SIM for MicroPython &lpar;Thumby micro console&rpar;](https://github.com/chrisdiana/TinyCity)
 - [Programming, Evolved: Lessons and Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
-- [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
-- [The 500k-ton typo: Why data center copper math doesn&#39;t add up](https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://jiga.io/about-us)
-- [The 3D Software Rendering Technology of 1998&#39;s Thief: The Dark Project &lpar;2019&rpar;](https://nothings.org/gamedev/thief_rendering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
