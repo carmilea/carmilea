@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photos Capture the Breathtaking Scale of China&#39;s Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 - [Nao Labs &lpar;Open-Source Analytics Agent, YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
 - [Raspberry Pi&#39;s New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 - [Have Taken Up Farming](https://dylan.gr/1768295794)
-- [Handy – Free open source speech-to-text app](https://github.com/cjpais/Handy)
-- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+- [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
