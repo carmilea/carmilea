@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photos Capture the Breathtaking Scale of China&#39;s Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
-- [Nao Labs &lpar;Open-Source Analytics Agent, YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
-- [Raspberry Pi&#39;s New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
-- [Have Taken Up Farming](https://dylan.gr/1768295794)
-- [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+- [Germany&#39;s Merz Admits Nuclear Exit Was Strategic Mistake](https://clashreport.com/world/articles/germanys-merz-admits-nuclear-exit-was-strategic-mistake-fzdlkn37c16)
+- [Show HN: I modeled personal success as a control system with Bayesian priors](https://mondonno.github.io/successus/sample-h1.html)
+- [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://jiga.io/about-us)
+- [Banning Things for Other People Is Easy](https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/)
+- [The 3D Software Rendering Technology of 1998&#39;s Thief: The Dark Project](https://nothings.org/gamedev/thief_rendering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
