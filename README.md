@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany&#39;s Merz Admits Nuclear Exit Was Strategic Mistake](https://clashreport.com/world/articles/germanys-merz-admits-nuclear-exit-was-strategic-mistake-fzdlkn37c16)
-- [Show HN: I modeled personal success as a control system with Bayesian priors](https://mondonno.github.io/successus/sample-h1.html)
+- [Programming, Evolved: Lessons and Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
+- [French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition](https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/)
+- [The 500k-ton typo: Why data center copper math doesn&#39;t add up](https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Full Stack Engineers](https://jiga.io/about-us)
-- [Banning Things for Other People Is Easy](https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/)
-- [The 3D Software Rendering Technology of 1998&#39;s Thief: The Dark Project](https://nothings.org/gamedev/thief_rendering.html)
+- [The 3D Software Rendering Technology of 1998&#39;s Thief: The Dark Project &lpar;2019&rpar;](https://nothings.org/gamedev/thief_rendering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
