@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
+- [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
+- [&#39;Elite&#39;: The Palantir App ICE Uses to Find Neighborhoods to Raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
 - [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
 - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
-- [Denmark&#39;s struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)
-- [CVEs Affecting the Svelte Ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)
-- [Italy&#39;s privacy watchdog, scourge of US big tech, hit by corruption probe](https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
