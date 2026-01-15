@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
+- [Nao Labs &lpar;Open-Source Analytics Agent, YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
+- [Raspberry Pi&#39;s New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+- [Have Taken Up Farming](https://dylan.gr/1768295794)
+- [Handy – Free open source speech-to-text app](https://github.com/cjpais/Handy)
 - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
-- [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
-- [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
-- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
