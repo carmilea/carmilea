@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
+- [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
+- [I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
-- [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
-- [‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
-- [Ask HN: One IP, multiple unrealistic locations worldwide hitting my website](https://news.ycombinator.com/item?id=46636861)
-- [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
