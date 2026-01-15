@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is passive investment inflating a stockmarket bubble?](https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble)
+- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e)
+- [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)
 - [ChromaDB Explorer](https://www.chroma-explorer.com/)
-- [Training my smartwatch to track intelligence](https://dmvaldman.github.io/rooklift/)
-- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-- [Simple to Ornate and Back Again &lpar;2024&rpar;](https://josem.co/simple-to-ornate-and-back-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
