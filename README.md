@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)
+- [Zep AI &lpar;Agent Context Engineering, YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
 - [Launch HN: Indy &lpar;YC S21&rpar; – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
 - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 - [Read_once&lpar;&rpar;, Write_once&lpar;&rpar;, but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
-- [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
-- [Can You Disable Spotlight and Siri in macOS Tahoe?](https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
