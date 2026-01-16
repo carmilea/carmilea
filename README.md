@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
-- [Aviator &lpar;YC S21&rpar; is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
-- [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
-- [How I learned everything I know about programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
+- [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit)
+- [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
+- [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
+- [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)
+- [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
