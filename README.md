@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America could have $4 lunch bowls like Japan but for zoning laws](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
-- [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
-- [Michelangelo&#39;s First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
-- [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
-- [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
+- [Launch HN: Indy &lpar;YC S21&rpar; – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
+- [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
+- [Read_once&lpar;&rpar;, Write_once&lpar;&rpar;, but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
+- [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
+- [Can You Disable Spotlight and Siri in macOS Tahoe?](https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
