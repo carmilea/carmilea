@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
+- [Cloudflare threatens Italy exit over €14M fine](https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine)
+- [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/)
+- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
 - [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit)
-- [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
-- [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
-- [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)
-- [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
