@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
-- [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
 - [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
 - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/)
+- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
+- [Show HN: BGP Scout – BGP Network Browser](https://bgpscout.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
