@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Being a Human Being in the Time of Collapse &lpar;2022&rpar; [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
+- [AI Destroys Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
 - [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
 - [Interactive eBPF](https://ebpf.party/)
-- [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
-- [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
