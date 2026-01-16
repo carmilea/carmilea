@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
-- [OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html)
 - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
+- [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
 - [STFU](https://github.com/Pankajtanwarbanna/stfu)
 - [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
 <!-- BLOG-POST-LIST:END -->
