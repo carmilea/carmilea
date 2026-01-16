@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)
+- [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
+- [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
 - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
-- [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
-- [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
-- [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
-- [STFU](https://github.com/Pankajtanwarbanna/stfu)
+- [Our approach to advertising](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
