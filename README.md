@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just the Browser](https://justthebrowser.com/)
-- [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
-- [On Being a Human Being in the Time of Collapse &lpar;2022&rpar; [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
-- [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
-- [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
+- [Michelangelo&#39;s First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
+- [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
+- [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
+- [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
+- [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
