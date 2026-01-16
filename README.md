@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America could have $4 lunch bowls like Japan but for zoning laws](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
+- [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 - [Michelangelo&#39;s First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
 - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
-- [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
-- [Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
