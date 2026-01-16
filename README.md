@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/)
-- [Zep AI &lpar;Agent Context Engineering, YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
-- [Launch HN: Indy &lpar;YC S21&rpar; – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
-- [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
-- [Read_once&lpar;&rpar;, Write_once&lpar;&rpar;, but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
+- [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
+- [OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html)
+- [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
+- [STFU](https://github.com/Pankajtanwarbanna/stfu)
+- [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
