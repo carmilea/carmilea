@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
+- [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
+- [Interactive eBPF](https://ebpf.party/)
 - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
 - [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
-- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
-- [Show HN: BGP Scout – BGP Network Browser](https://bgpscout.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
