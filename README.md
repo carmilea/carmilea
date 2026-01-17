@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids](https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/)
+- [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
-- [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
 - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
-- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
