@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 - [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
 - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+- [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
 - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
-- [Show HN: Docker.how – Docker command cheat sheet](https://docker.how/)
-- [Why Twenty Years of DevOps Has Failed to Do It](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
