@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids](https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/)
+- [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
 - [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
