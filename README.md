@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eight European countries face 10% tariff for opposing US control of Greenland](https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55)
+- [Earth is warming faster. Scientists are closing in on why](https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why)
+- [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
+- [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
 - [An Elizabethan mansion&#39;s secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
-- [Why There&#39;s No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)
-- [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
