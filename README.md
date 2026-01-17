@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
 - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
+- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
