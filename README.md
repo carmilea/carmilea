@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
-- [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
-- [The &#39;untouchable hacker god&#39; behind Finland&#39;s biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
-- [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist &lpar;2022&rpar;](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
-- [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
+- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+- [PCs refuse to shut down after Microsoft patch](https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/)
+- [After 25 years, Wikipedia has proved that news doesn&#39;t need to look like news](https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/)
+- [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
+- [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
