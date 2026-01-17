@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Minikv – Distributed key-value and object store in Rust &lpar;Raft, S3 API&rpar;](https://github.com/whispem/minikv)
-- [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/)
+- [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 - [Canada&#39;s deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
+- [Why Twenty Years of DevOps Has Failed to Do It](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 - [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
 - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 <!-- BLOG-POST-LIST:END -->
