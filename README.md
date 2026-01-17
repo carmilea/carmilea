@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding is a blight on open-source](https://old.reddit.com/r/webdev/comments/1qcxres/vibe_coding_is_a_blight_on_opensource/)
+- [The &#39;untouchable hacker god&#39; behind Finland&#39;s biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
+- [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist &lpar;2022&rpar;](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
+- [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
 - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
-- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
-- [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
