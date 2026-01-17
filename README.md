@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every data centre is a U.S. military base](https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/)
 - [The &#39;untouchable hacker god&#39; behind Finland&#39;s biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist &lpar;2022&rpar;](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
-- [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
 - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
 <!-- BLOG-POST-LIST:END -->
