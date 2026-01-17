@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Earth is warming faster. Scientists are closing in on why](https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why)
+- [OpenAI will start testing ads in ChatGPT free and Go tiers](https://twitter.com/OpenAI/status/2012223373489614951)
 - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
-- [An Elizabethan mansion&#39;s secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
 <!-- BLOG-POST-LIST:END -->
 
