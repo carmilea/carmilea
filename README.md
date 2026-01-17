@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix the two-party system with proportional representation](https://agrarianparty.org/platform/peoples-act)
+- [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
+- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+- [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
 - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
-- [Drawbot: Let&#39;s hack something cute &lpar;2025&rpar;](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
 - [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
-- [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
