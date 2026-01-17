@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
+- [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
 - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
-- [Canada&#39;s deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
+- [Show HN: Docker.how – Docker command cheat sheet](https://docker.how/)
 - [Why Twenty Years of DevOps Has Failed to Do It](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
-- [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
-- [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
