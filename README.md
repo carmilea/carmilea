@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
+- [Keystone &lpar;YC S25&rpar; Is Hiring](https://news.ycombinator.com/item?id=46667101)
+- [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
+- [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
+- [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this)
 - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
-- [Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say](https://www.reuters.com/world/us/pentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18/)
-- [Command-line Tools can be 235x Faster than your Hadoop Cluster &lpar;2014&rpar;](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
-- [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
