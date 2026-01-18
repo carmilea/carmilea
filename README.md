@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+- [Evolution Unleashed &lpar;2018&rpar;](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
+- [Breaking the Zimmermann Telegram &lpar;2018&rpar;](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
+- [Around 1,500 soldiers on standby for deployment to Minneapolis](https://www.bbc.co.uk/news/articles/c74v0pxg2nvo)
 - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
 - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
-- [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
-- [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
