@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
+- [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
 - [Keystone &lpar;YC S25&rpar; Is Hiring](https://news.ycombinator.com/item?id=46667101)
-- [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
+- [When Sysadmins Ruled the Earth &lpar;2006&rpar;](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
 - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
-- [A free and open-source rootkit for Linux](https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/)
-- [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
