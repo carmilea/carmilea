@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+- [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
+- [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
+- [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
 - [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
-- [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
-- [Sins of the Children &lpar;Adrian Tchaikovsky&rpar;](https://asteriskmag.com/issues/07/sins-of-the-children)
-- [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
