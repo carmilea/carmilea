@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
-- [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
+- [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable)
+- [Solve the MH370 Paradox in 10 Seconds](https://www.researchgate.net/publication/380531233_Solve_the_MH370_Paradox_in_10_Seconds)
+- [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
+- [Predicting OpenAI&#39;s ad strategy](https://ossa-ma.github.io/blog/openads)
 - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
-- [Keystone &lpar;YC S25&rpar; Is Hiring](https://news.ycombinator.com/item?id=46667101)
-- [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
