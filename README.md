@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Keystone &lpar;YC S25&rpar; Is Hiring](https://news.ycombinator.com/item?id=46667101)
-- [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
+- [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
 - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
-- [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this)
+- [A free and open-source rootkit for Linux](https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/)
 - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 <!-- BLOG-POST-LIST:END -->
 
