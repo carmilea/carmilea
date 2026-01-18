@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable)
-- [Solve the MH370 Paradox in 10 Seconds](https://www.researchgate.net/publication/380531233_Solve_the_MH370_Paradox_in_10_Seconds)
-- [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
-- [Predicting OpenAI&#39;s ad strategy](https://ossa-ma.github.io/blog/openads)
-- [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
+- [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+- [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
+- [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
+- [Sins of the Children &lpar;Adrian Tchaikovsky&rpar;](https://asteriskmag.com/issues/07/sins-of-the-children)
+- [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
