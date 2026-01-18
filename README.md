@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT&#39;s Computer Systems Security &lpar;2024&rpar;](https://css.csail.mit.edu/6.858/2024/)
+- [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
+- [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
 - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
-- [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
 - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
-- [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
-- [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
