@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT&#39;s Computer Systems Security &lpar;2024&rpar;](https://css.csail.mit.edu/6.858/2024/)
+- [Computer Systems Security 6.566 / Spring 2024](https://css.csail.mit.edu/6.858/2024/)
 - [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
-- [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
+- [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
-- [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+- [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
