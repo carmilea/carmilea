@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e)
+- [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
 - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
-- [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
+- [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 - [Keystone &lpar;YC S25&rpar; Is Hiring](https://news.ycombinator.com/item?id=46667101)
-- [When Sysadmins Ruled the Earth &lpar;2006&rpar;](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
-- [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
