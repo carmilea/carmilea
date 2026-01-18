@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
 - [Police Invested Millions in Shadowy Phone-Tracking Software Won&#39;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
 - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- [Evolution Unleashed &lpar;2018&rpar;](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
+- [Dead Internet Theory](https://kudmitry.com/articles/dead-internet-theory/)
 - [Breaking the Zimmermann Telegram &lpar;2018&rpar;](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
-- [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
