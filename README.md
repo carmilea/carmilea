@@ -61,8 +61,8 @@
 - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
 - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
-- [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
-- [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
+- [ThinkNext Design](https://thinknextdesign.com/home.html)
+- [jQuery 4](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
