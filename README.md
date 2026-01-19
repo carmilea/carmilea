@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+- [US believes its power matters more than international law, UN chief](https://www.bbc.co.uk/news/articles/c4g0zx0llpzo)
+- [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
 - [MTOTP: Wouldn&#39;t it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
 - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
-- [Show HN: Pdfwithlove – PDF tools that run 100% locally &lpar;no uploads, no back end&rpar;](https://pdfwithlove.netlify.app)
-- [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
-- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
