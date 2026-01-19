@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
+- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
+- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
 - [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
-- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
-- [Police Invested Millions in Shadowy Phone-Tracking Software Won&#39;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
-- [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
