@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letter from a Birmingham Jail [King, Jr.] &lpar;1963&rpar;](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
-- [Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun)
+- [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
 - [Cows Can Use Sophisticated Tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/)
-- [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
