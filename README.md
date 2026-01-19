@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
+- [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
+- [Nonviolence](https://kinginstitute.stanford.edu/nonviolence)
 - [Letter from a Birmingham Jail [King, Jr.] &lpar;1963&rpar;](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
-- [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
-- [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
-- [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
-- [Cows Can Use Sophisticated Tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/)
+- [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
