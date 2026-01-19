@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweden deploys fighter jets to Iceland](https://www.sverigesradio.se/artikel/sverige-skickar-stridsflyg-till-island)
+- [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
+- [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
 - [Article by article, how Big Tech shaped the EU&#39;s roll-back of digital rights](https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights)
 - [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
-- [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
-- [Nuclear elements detected in West Philippine Sea](https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea)
-- [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
 <!-- BLOG-POST-LIST:END -->
 
 ---
