@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
-- [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
-- [Article by article, how Big Tech shaped the EU&#39;s roll-back of digital rights](https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights)
-- [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
-- [Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
+- [The guy who discovered South Park&#39;s creators was shocked by the new season](https://www.polygon.com/brian-graden-south-park-interview-matt-stone-trey-parker-donald-trump/)
+- [Kiel Institute Analysis: US Americans pay 96% of tariff burden](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
+- [CSS Web Components for marketing sites](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
+- [&quot;Anyone else out there vibe circuit-building?&quot;](https://twitter.com/beneater/status/2012988790709928305)
+- [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
