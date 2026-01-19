@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
+- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
 - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
 - [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
 - [Simple Sabotage Field Manual &lpar;1944&rpar; [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
-- [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
-- [Mammals have evolved into ant eaters 12 times since the dinosaur age – study &lpar;2025&rpar;](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
