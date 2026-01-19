@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=tuaoUpToYQA)
 - [Driving Automation with AI Agents](https://www.youtube.com/watch?v=MiO37I4pXXo)
 - [Driving Automation with AI Agents with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=RaazmJIr0_w)
 - [Build Real-Time Laravel Applications with SingleStore Helios | SingleStore Webinar](https://www.youtube.com/watch?v=WC_MKHa-GCo)
 - [Building Applications with Laravel and SingleStore](https://www.youtube.com/watch?v=nwcAX2bBnUw)
-- [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
 <!-- YOUTUBE:END -->
 
 
