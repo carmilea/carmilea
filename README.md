@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweden deploys fighter jets to Iceland](https://www.sverigesradio.se/artikel/sverige-skickar-stridsflyg-till-island)
-- [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
+- [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
 - [Article by article, how Big Tech shaped the EU&#39;s roll-back of digital rights](https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights)
 - [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
+- [Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
