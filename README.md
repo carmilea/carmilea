@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
+- [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
+- [Show HN: Pdfwithlove – PDF tools that run 100% locally &lpar;no uploads, no back end&rpar;](https://pdfwithlove.netlify.app)
+- [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
-- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
-- [Ultrathink is deprecated &amp; How to enable 2x thinking tokens in Claude Code](https://decodeclaude.com/ultrathink-deprecated/)
+- [High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
