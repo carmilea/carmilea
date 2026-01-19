@@ -61,8 +61,8 @@
 - [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
 - [Show HN: Pdfwithlove – PDF tools that run 100% locally &lpar;no uploads, no back end&rpar;](https://pdfwithlove.netlify.app)
 - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
+- [My thoughts on Gas Town after 10k hours of Claude Code](https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code/)
 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-- [High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
