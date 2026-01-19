@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
+- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
 - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
 - [Police Invested Millions in Shadowy Phone-Tracking Software Won&#39;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
 - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
