@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Sabotage Field Manual [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
+- [Mammals have evolved into ant eaters 12 times since the dinosaur age – study](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
 - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
-- [Americans Are the Ones Paying for Tariffs, Study Finds](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e)
-- [Nonviolence](https://kinginstitute.stanford.edu/nonviolence)
-- [Letter from a Birmingham Jail [King, Jr.] &lpar;1963&rpar;](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
-- [There Is No Comfortable Reading Position](https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html)
+- [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
+- [There&#39;s a hidden Android setting that spots fake cell towers](https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
