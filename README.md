@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
+- [MTOTP: Wouldn&#39;t it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
+- [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 - [Show HN: Pdfwithlove – PDF tools that run 100% locally &lpar;no uploads, no back end&rpar;](https://pdfwithlove.netlify.app)
 - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
-- [My thoughts on Gas Town after 10k hours of Claude Code](https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code/)
 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
 <!-- BLOG-POST-LIST:END -->
 
