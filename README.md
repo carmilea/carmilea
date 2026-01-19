@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
-- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
 - [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
-- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
+- [Ultrathink is deprecated &amp; How to enable 2x thinking tokens in Claude Code](https://decodeclaude.com/ultrathink-deprecated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
