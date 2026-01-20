@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
 - [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
+- [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
-- [Becoming a Whorelord: The Overly Analytical Guide to Escorting &lpar;2021&rpar;](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
