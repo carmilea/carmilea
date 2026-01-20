@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
 - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 - [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
 - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
+- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
