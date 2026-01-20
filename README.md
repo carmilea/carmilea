@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X algorithm has been open sourced](https://github.com/xai-org/x-algorithm)
+- [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
 - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 - [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
