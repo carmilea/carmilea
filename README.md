@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
-- [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
-- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
-- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
-- [Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+- [X algorithm has been open sourced](https://github.com/xai-org/x-algorithm)
+- [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
+- [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
+- [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
+- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
