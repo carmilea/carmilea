@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
-- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
-- [The Startup Graveyard](https://www.loot-drop.io/)
-- [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
-- [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
+- [How Hightouch built their long-running agent harness](https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness)
+- [Google co-founder reveals that &quot;many&quot; of the new hires do not have a degree](https://www.yahoo.com/news/articles/google-cofounder-reveals-tons-recent-231500103.html)
+- [Everyone&#39;s a Gangster, Till You Get Bundled in G-Suite](https://twitter.com/keropillay/status/2013454666244481244)
+- [The 26,000-Year Astronomical Monument Hidden in Plain Sight](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+- [Europe to suspend approval of US tariffs deal](https://www.bbc.co.uk/news/articles/c4gwp2me3gzo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
