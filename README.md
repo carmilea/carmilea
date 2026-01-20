@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
 - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 - [Giving university exams in the age of chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
-- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
