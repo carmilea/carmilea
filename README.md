@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
-- [A scammer&#39;s blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
-- [The secret medieval tunnels that we still don&#39;t understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
-- [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
-- [Maintenance: Of Everything, Part One](https://press.stripe.com/maintenance-part-one)
+- [Steam &quot;Offline&quot; status leaks exact login timestamps &lpar;Valve: Won&#39;t Fix&rpar;](https://xmrcat.org/steam-invisibility-bypass)
+- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
+- [Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821)
+- [Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash](https://so-long-sucker.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
