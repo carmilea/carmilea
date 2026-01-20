@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
-- [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
-- [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+- [Giving university exams in the age of chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+- [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
+- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
