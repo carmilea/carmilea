@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hightouch built their long-running agent harness](https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness)
-- [Google co-founder reveals that &quot;many&quot; of the new hires do not have a degree](https://www.yahoo.com/news/articles/google-cofounder-reveals-tons-recent-231500103.html)
-- [Everyone&#39;s a Gangster, Till You Get Bundled in G-Suite](https://twitter.com/keropillay/status/2013454666244481244)
+- [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
+- [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+- [Much of the World Facing &#39;Water Bankruptcy,&#39; U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
+- [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
 - [The 26,000-Year Astronomical Monument Hidden in Plain Sight](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
-- [Europe to suspend approval of US tariffs deal](https://www.bbc.co.uk/news/articles/c4gwp2me3gzo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
