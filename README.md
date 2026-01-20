@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
+- [Martin Luther King was talking about a universal basic income before it was cool](https://www.businessinsider.com/martin-luther-king-jr-universal-basic-income-ai-economic-equality-2026-1)
 - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
 - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
-- [Channel3 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer)
-- [Running Claude Code dangerously &lpar;safely&rpar;](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
