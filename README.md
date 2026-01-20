@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
+- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+- [The Startup Graveyard](https://www.loot-drop.io/)
 - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
-- [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)
-- [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
-- [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
