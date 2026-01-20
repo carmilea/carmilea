@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
+- [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
+- [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
 - [Channel3 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer)
 - [Running Claude Code dangerously &lpar;safely&rpar;](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)
-- [IP over Avian Carriers with Quality of Service &lpar;1999&rpar;](https://www.rfc-editor.org/rfc/rfc2549.html)
-- [I&#39;m addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/)
-- [String theory can now describe a universe that has dark energy?](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
