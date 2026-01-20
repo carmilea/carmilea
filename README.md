@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
+- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
+- [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
-- [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
-- [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
-- [Simple Sabotage Field Manual &lpar;1944&rpar; [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
