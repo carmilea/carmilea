@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
-- [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
-- [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
-- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
-- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
+- [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
+- [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
+- [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
+- [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+- [Becoming a Whorelord: The Overly Analytical Guide to Escorting &lpar;2021&rpar;](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
