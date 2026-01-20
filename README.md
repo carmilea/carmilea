@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
+- [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
+- [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)
 - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
-- [Martin Luther King was talking about a universal basic income before it was cool](https://www.businessinsider.com/martin-luther-king-jr-universal-basic-income-ai-economic-equality-2026-1)
-- [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
-- [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
-- [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
+- [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
