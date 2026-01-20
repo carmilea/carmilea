@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
+- [A scammer&#39;s blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
+- [The secret medieval tunnels that we still don&#39;t understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
 - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
-- [Much of the World Facing &#39;Water Bankruptcy,&#39; U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
-- [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
-- [The 26,000-Year Astronomical Monument Hidden in Plain Sight](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+- [Without benchmarking LLMs, you&#39;re likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
+- [When &quot;Likers&#39;&#39; Go Private: Engagement with Reputationally Risky Content on X](https://arxiv.org/abs/2601.11140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
