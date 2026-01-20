@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 - [A scammer&#39;s blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
 - [The secret medieval tunnels that we still don&#39;t understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
 - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
-- [Without benchmarking LLMs, you&#39;re likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
-- [When &quot;Likers&#39;&#39; Go Private: Engagement with Reputationally Risky Content on X](https://arxiv.org/abs/2601.11140)
+- [Maintenance: Of Everything, Part One](https://press.stripe.com/maintenance-part-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
