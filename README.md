@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
 - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
 - [Show HN: Rails UI](https://railsui.com/)
-- [Hate is a strong word, but I don&#39;t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don%27t-like-windows-11)
+- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
+- [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
