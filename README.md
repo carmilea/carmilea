@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
-- [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
-- [Show HN: Rails UI](https://railsui.com/)
-- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
-- [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
+- [Devin Review: AI to Stop Slop](https://cognition.ai/blog/devin-review)
+- [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
+- [OpenAI API Logs: Unpatched data exfiltration](https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration)
+- [Magnetic Remote Control of Biology](https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
