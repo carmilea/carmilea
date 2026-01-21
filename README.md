@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Parliament freezes US trade deal ratification](https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html)
+- [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
 - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
 - [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
