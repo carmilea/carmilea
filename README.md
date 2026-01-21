@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
 - [Disaster planning for regular folks &lpar;2015&rpar;](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 - [Anthropic&#39;s original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
 - [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
 - [Who owns Rudolph&#39;s nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
-- [Claude Chill: Fix Claude Code&#39;s flickering in terminal](https://github.com/davidbeesley/claude-chill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
