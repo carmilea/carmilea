@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers)
-- [Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/)
-- [The super-slow conversion of the U.S. to metric &lpar;2025&rpar;](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)
-- [Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
+- [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+- [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
+- [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
+- [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+- [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
