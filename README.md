@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ChartGPU – WebGPU-powered charting library &lpar;1M points at 60fps&rpar;](https://github.com/ChartGPU/ChartGPU)
-- [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
-- [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
-- [How AI destroys institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
-- [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
+- [Autonomous &lpar;YC F25, AI-native financial advisor at 0% advisory fees&rpar; is hiring](https://atg.science/)
+- [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
+- [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
+- [JPEG XL Demo Page](https://tildeweb.nl/~michiel/jxl/)
+- [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
