@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ChartGPU – WebGPU-powered charting library &lpar;1M points at 60fps&rpar;](https://github.com/ChartGPU/ChartGPU)
 - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
-- [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
 - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
-- [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+- [How AI destroys institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 <!-- BLOG-POST-LIST:END -->
 
