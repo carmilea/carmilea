@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
+- [EU moves closer to using its trade bazooka against the US](https://www.politico.eu/article/eu-bazooka-trade-us-greenland-france-threat-nato/)
 - [Curl removes bug bounties because of AI slop](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
 - [Disaster planning for regular folks &lpar;2015&rpar;](https://lcamtuf.coredump.cx/prep/index-old.shtml)
-- [Anthropic&#39;s original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
-- [Who owns Rudolph&#39;s nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
