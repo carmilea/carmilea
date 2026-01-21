@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
-- [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
+- [Parliament tells Dutch gov&#39;t to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
+- [EU inc: a new European company structure](https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150)
 - [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
 - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
