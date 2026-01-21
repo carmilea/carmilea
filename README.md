@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous &lpar;YC F25, AI-native financial advisor at 0% advisory fees&rpar; is hiring](https://atg.science/)
-- [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
-- [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
-- [JPEG XL Demo Page](https://tildeweb.nl/~michiel/jxl/)
-- [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
+- [Show HN: Rails UI](https://railsui.com/)
+- [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
+- [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)
+- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
+- [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
