@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parliament tells Dutch gov&#39;t to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
-- [EU inc: a new European company structure](https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150)
-- [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
-- [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
-- [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
+- [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers)
+- [Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/)
+- [The super-slow conversion of the U.S. to metric &lpar;2025&rpar;](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)
+- [Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
