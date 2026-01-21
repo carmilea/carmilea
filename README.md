@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+- [Show HN: Grov – Multiplayer for AI coding agents](https://github.com/TonyStef/Grov)
 - [Jerry &lpar;YC S17&rpar; Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
 - [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
-- [What if AI is both good and not that disruptive?](https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and)
-- [eBay explicitly bans AI &quot;buy for me&quot; agents in user agreement update](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
-- [Spotify won court order against Anna&#39;s Archive, taking down .org domain](https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/)
+- [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
