@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
+- [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
+- [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
 - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
-- [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
-- [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
