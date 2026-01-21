@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam &quot;Offline&quot; status leaks exact login timestamps &lpar;Valve: Won&#39;t Fix&rpar;](https://xmrcat.org/steam-invisibility-bypass)
+- [Who Owns Rudolph&#39;s Nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
+- [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)
+- [Claude Chill: Fix Claude Code&#39;s Flickering in Terminal](https://github.com/davidbeesley/claude-chill)
 - [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
 - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
-- [Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821)
-- [Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash](https://so-long-sucker.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
