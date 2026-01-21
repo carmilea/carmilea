@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jerry &lpar;YC S17&rpar; Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
-- [Devin Review: AI to Stop Slop](https://cognition.ai/blog/devin-review)
-- [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
-- [OpenAI API Logs: Unpatched data exfiltration](https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration)
-- [Magnetic Remote Control of Biology](https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l)
+- [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
+- [What if AI is both good and not that disruptive?](https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and)
+- [eBay explicitly bans AI &quot;buy for me&quot; agents in user agreement update](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+- [Spotify won court order against Anna&#39;s Archive, taking down .org domain](https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
