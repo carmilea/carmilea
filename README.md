@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Parliament freezes US trade deal ratification](https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html)
 - [Infracost &lpar;YC W21&rpar; Is Hiring Sr Back End Eng &lpar;Node.js+SQL&rpar; to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
-- [EU moves closer to using its trade bazooka against the US](https://www.politico.eu/article/eu-bazooka-trade-us-greenland-france-threat-nato/)
-- [Curl removes bug bounties because of AI slop](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
+- [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
+- [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
-- [Disaster planning for regular folks &lpar;2015&rpar;](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
