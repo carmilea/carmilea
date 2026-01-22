@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
+- [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 - [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
-- [Lix – universal version control system for binary files](https://lix.dev/blog/introducing-lix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
