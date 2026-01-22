@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
-- [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
-- [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
-- [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
-- [Launch HN: Constellation Space &lpar;YC W26&rpar; – AI for satellite mission assurance](https://constellation-io.com/)
+- [Taming P99s in OpenFGA: How we built a self-tuning strategy planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/)
+- [AI code review needs specialized agents, not bigger models](https://www.qodo.ai/blog/the-next-generation-of-ai-code-review-from-isolated-to-system-intelligence/)
+- [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+- [How LLM agents solve the table merging problem](https://futuresearch.ai/deep-merge-tutorial/)
+- [&#39;Active&#39; sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
