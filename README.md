@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
+- [Interfaces and Traits in C](https://antonz.org/interfaces-in-c/)
 - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
 - [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
-- [You can now download Windows 7 and Vista ISO images with all the updates](https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/)
-- [Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
