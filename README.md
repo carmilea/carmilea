@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
-- [Show HN: CLI for working with Apple Core ML models](https://github.com/schappim/coreml-cli)
-- [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
-- [&#39;Active&#39; sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
+- [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
+- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
