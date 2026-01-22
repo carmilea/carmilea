@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
-- [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
-- [I&#39;ll pass on your zoom call](https://operand.online/chronicle/pass.zoom)
 - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
-- [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor)
+- [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
+- [Lix – universal version control system for binary files](https://lix.dev/blog/introducing-lix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
