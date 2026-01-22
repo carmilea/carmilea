@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 - [In Praise of APL &lpar;1977&rpar;](https://www.jsoftware.com/papers/perlis77.htm)
 - [SpaceX lowering orbits of 4,400 Starlink satellites for safety&#39;s sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
-- [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 - [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 <!-- BLOG-POST-LIST:END -->
 
