@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
-- [Satya Nadella: &quot;We need to find something useful for AI&quot;](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+- [You can now download Windows 7 and Vista ISO images with all the updates](https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/)
+- [Douglas Adams on the English–American cultural divide over &quot;heroes&quot;](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
+- [Now with Mqtts](https://daniel.haxx.se/blog/2026/01/19/now-with-mqtts/)
 - [The first commercial space station, Haven-1, now undergoing assembly for launch](https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/)
-- [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/)
 - [Flowtel &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior)
 <!-- BLOG-POST-LIST:END -->
 
