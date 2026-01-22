@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
-- [Interfaces and Traits in C](https://antonz.org/interfaces-in-c/)
-- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
-- [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
-- [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
+- [Downtown Denver&#39;s office vacancy rate grows to 38.2%](https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/)
+- [Launch HN: Constellation Space &lpar;YC W26&rpar; – AI for satellite mission assurance](https://constellation-io.com/)
+- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
+- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+- [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
 <!-- BLOG-POST-LIST:END -->
 
 ---
