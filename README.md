@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Downtown Denver&#39;s office vacancy rate grows to 38.2%](https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/)
+- [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
+- [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 - [Launch HN: Constellation Space &lpar;YC W26&rpar; – AI for satellite mission assurance](https://constellation-io.com/)
 - [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
 - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
-- [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
 <!-- BLOG-POST-LIST:END -->
 
 ---
