@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
-- [In Praise of APL &lpar;1977&rpar;](https://www.jsoftware.com/papers/perlis77.htm)
-- [SpaceX lowering orbits of 4,400 Starlink satellites for safety&#39;s sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
-- [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
-- [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
+- [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
+- [Satya Nadella: &quot;We need to find something useful for AI&quot;](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+- [The first commercial space station, Haven-1, now undergoing assembly for launch](https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/)
+- [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/)
+- [Flowtel &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior)
 <!-- BLOG-POST-LIST:END -->
 
 ---
