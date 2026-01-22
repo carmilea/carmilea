@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
-- [Show HN: Grov – Multiplayer for AI coding agents](https://github.com/TonyStef/Grov)
-- [Jerry &lpar;YC S17&rpar; Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
-- [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
-- [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/)
+- [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
+- [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
+- [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
+- [I&#39;ll pass on your zoom call.](https://operand.online/chronicle/pass.zoom)
+- [Threat Actors Expand Abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
