@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
+- [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
 - [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
 - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 - [Launch HN: Constellation Space &lpar;YC W26&rpar; – AI for satellite mission assurance](https://constellation-io.com/)
-- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
-- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
