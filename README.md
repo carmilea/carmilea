@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EquipmentShare &lpar;YC W15&rpar; goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
+- [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
 - [TrueVault &lpar;YC W14&rpar; is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
 - [Neko: History of a Software Pet &lpar;2022&rpar;](https://eliotakira.com/neko/)
-- [Unrolling the Codex Agent Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
-- [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
-- [New YC homepage](https://www.ycombinator.com/)
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
