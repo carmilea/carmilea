@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs Apple Loves](https://www.bugsappleloves.com)
 - [Stunnel](https://www.stunnel.org/)
 - [Why medieval city-builder video games are historically inaccurate &lpar;2020&rpar;](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
 - [Arkansas inmates restricted from receiving physical books, other media directly](https://arkansasadvocate.com/2025/12/19/arkansas-inmates-restricted-from-receiving-physical-books-other-media-directly-under-new-policy/)
 - [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
-- [FIPS dependencies and prebuilt binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
