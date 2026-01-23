@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla fined for repeatedly failing to help UK police over driving offences](https://www.bbc.co.uk/news/articles/c0r44zpprg7o)
 - [Radicle: The Sovereign Forge](https://radicle.xyz)
 - [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
+- [European Alternatives](https://european-alternatives.eu)
 - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
-- [Presence in Death](https://rubinmuseum.org/presence-in-death/)
-- [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
