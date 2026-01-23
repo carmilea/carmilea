@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
+- [House Vote Keeps Federal &quot;Kill Switch&quot; Vehicle Mandate](https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat)
+- [Zotero 8](https://www.zotero.org/blog/zotero-8/)
 - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects&#39; laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 - [Proof of Corn](https://proofofcorn.com/)
-- [Show HN: New 3D Mapping website - Create heli orbits and &quot;playable&quot; map tours.](https://www.easy3dmaps.com/gallery)
-- [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
-- [Gas Town&#39;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
