@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
-- [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 - [Bugs Apple Loves](https://www.bugsappleloves.com)
 - [Stunnel](https://www.stunnel.org/)
 <!-- BLOG-POST-LIST:END -->
