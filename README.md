@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
 - [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
-- [The lost art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)
-- [The Cscript Style Guide – CScript is the standard C](https://github.com/domenukk/CScript)
 - [Bugs Apple Loves](https://www.bugsappleloves.com)
 - [Stunnel](https://www.stunnel.org/)
+- [Why medieval city-builder video games are historically inaccurate &lpar;2020&rpar;](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
