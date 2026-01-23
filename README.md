@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House defends sharing AI image showing arrested woman crying](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
-- [Booting a PC from a Vinyl Record](https://boginjr.com/it/sw/dev/vinyl-boot/)
-- [Ghostty&#39;s AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
-- [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
-- [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
+- [Radicle: The Sovereign Forge](https://radicle.xyz)
+- [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
+- [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
+- [Presence in Death](https://rubinmuseum.org/presence-in-death/)
+- [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
