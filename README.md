@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
-- [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
-- [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
-- [Zotero 8](https://www.zotero.org/blog/zotero-8/)
-- [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects&#39; laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
+- [TrueVault &lpar;YC W14&rpar; is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
+- [Neko: History of a Software Pet &lpar;2022&rpar;](https://eliotakira.com/neko/)
+- [Unrolling the Codex Agent Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+- [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
+- [New YC homepage](https://www.ycombinator.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
