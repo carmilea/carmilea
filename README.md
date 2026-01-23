@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ghostty&#39;s AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
-- [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
+- [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 <!-- BLOG-POST-LIST:END -->
