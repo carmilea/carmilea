@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla fined for repeatedly failing to help UK police over driving offences](https://www.bbc.co.uk/news/articles/c0r44zpprg7o)
+- [Gas Town&#39;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
+- [Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)
+- [Tech Is Fun Again: The Tech Monoculture Is Finally Breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
+- [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
 - [Radicle: The Sovereign Forge](https://radicle.xyz)
-- [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
-- [European Alternatives](https://european-alternatives.eu)
-- [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
