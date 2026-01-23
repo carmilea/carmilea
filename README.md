@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
-- [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
-- [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
-- [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
-- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
+- [Stunnel](https://www.stunnel.org/)
+- [Why medieval city-builder video games are historically inaccurate &lpar;2020&rpar;](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
+- [Arkansas inmates restricted from receiving physical books, other media directly](https://arkansasadvocate.com/2025/12/19/arkansas-inmates-restricted-from-receiving-physical-books-other-media-directly-under-new-policy/)
+- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
+- [FIPS dependencies and prebuilt binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
