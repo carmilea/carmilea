@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repatriate the gold&#39;: German economists advise withdrawal from US vaults](https://www.theguardian.com/world/2026/jan/24/repatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)
+- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
+- [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
-- [Eloquent: Improving Text Editing on Mobile &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3474349.3480178)
 - [Telli &lpar;YC F24&rpar; is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
 - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 <!-- BLOG-POST-LIST:END -->
