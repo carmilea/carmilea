@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telli &lpar;YC F24&rpar; is hiring ambitious people &lpar;eng, design, growth&rpar;[on-site, Berlin]](https://careers.telli.com/)
-- [SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+- [Telli &lpar;YC F24&rpar; is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
+- [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 - [Comma openpilot – Open source driver-assistance](https://comma.ai)
 - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 - [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
