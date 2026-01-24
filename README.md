@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repatriate the gold&#39;: German economists advise withdrawal from US vaults](https://www.theguardian.com/world/2026/jan/24/repatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)
+- [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
+- [Eloquent: Improving Text Editing on Mobile &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3474349.3480178)
 - [Telli &lpar;YC F24&rpar; is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
 - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
-- [&quot;People are going to stop and ask you, &#39;How can I help?&#39; Let them.&quot;](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
-- [Comma openpilot – Open source driver-assistance](https://comma.ai)
-- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
