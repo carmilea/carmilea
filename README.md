@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
+- [Noora Health &lpar;YC W14&rpar; Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
 - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
-- [EquipmentShare &lpar;YC W15&rpar; goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
 - [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
-- [TrueVault &lpar;YC W14&rpar; is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
-- [Neko: History of a Software Pet &lpar;2022&rpar;](https://eliotakira.com/neko/)
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
