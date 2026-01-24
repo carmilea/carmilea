@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: ICE Raided My Friend&#39;s Home by Mistake, Traumatized His Family](https://news.ycombinator.com/item?id=46743184)
-- [You can&#39;t pay me to prompt](https://dbushell.com/2025/06/18/ai-policy/)
+- [FOSS &quot;Just Fork It&quot; Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
+- [XHTML Club](https://xhtml.club/)
+- [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 - [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
-- [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
