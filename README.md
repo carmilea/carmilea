@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is the US Sliding Toward Authoritarianism?](https://text.tchncs.de/afoqfda99f)
+- [Metriport &lpar;YC S22&rpar; is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
+- [We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ)
+- [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now)
 - [After two years of vibecoding, I&#39;m back to writing by hand [video]](https://www.youtube.com/watch?v=SKTsNV41DYg)
-- [Claude Code&#39;s new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
-- [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
-- [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
-- [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
