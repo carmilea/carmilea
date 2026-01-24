@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
-- [The Internet Doesn&#39;t Suck: Blame Big Tech, Not the Internet](https://riverseeber.net/blog/post/the-internet-doesnt-suck/)
-- [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
+- [Comma openpilot – Open source driver-assistance](https://comma.ai)
 - [Noora Health &lpar;YC W14&rpar; Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
 - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
+- [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
