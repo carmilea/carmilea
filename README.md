@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon braces for another major round of layoffs, 14,000 jobs at risk](https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118)
+- [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
 - [Poland&#39;s energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
 - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
 - [First Design Engineer Hire – Build Games at Gym Class &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
-- [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
-- [Postmortem: Our first VLEO satellite mission &lpar;with imagery and flight data&rpar;](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 <!-- BLOG-POST-LIST:END -->
 
 ---
