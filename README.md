@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is the US Sliding Toward Authoritarianism?](https://text.tchncs.de/afoqfda99f)
+- [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
+- [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
+- [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 - [Metriport &lpar;YC S22&rpar; is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
-- [We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ)
 - [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now)
-- [After two years of vibecoding, I&#39;m back to writing by hand [video]](https://www.youtube.com/watch?v=SKTsNV41DYg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
