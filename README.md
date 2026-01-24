@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+- [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
 - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
-- [Telli &lpar;YC F24&rpar; is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
-- [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
