@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: ICE Raided My Friend&#39;s Home by Mistake, Traumatized His Family](https://news.ycombinator.com/item?id=46743184)
+- [You can&#39;t pay me to prompt](https://dbushell.com/2025/06/18/ai-policy/)
+- [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
-- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
-- [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
-- [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
