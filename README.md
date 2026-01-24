@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSS &quot;Just Fork It&quot; Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
-- [XHTML Club](https://xhtml.club/)
+- [Claude Code&#39;s new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
+- [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
 - [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 - [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
