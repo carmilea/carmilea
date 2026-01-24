@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Design Engineer Hire – Build Games at Gym Class &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
+- [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
+- [Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android](https://github.com/hissain/jscipy)
 - [Postmortem: Our first VLEO satellite mission &lpar;with imagery and flight data&rpar;](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 - [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
-- [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
-- [JSON-render: LLM-based JSON-to-UI tool](https://json-render.dev/)
-- [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
