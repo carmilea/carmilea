@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The coming war on Car Ownership](https://geohot.github.io//blog/jekyll/update/2026/01/25/war-on-car-ownership.html)
+- [Jurassic Park - Tablet device on Nedry&#39;s desk? &lpar;2012&rpar;](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
+- [This paper has been cited more than 6k times. It&#39;s fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
+- [German economists push for gold repatriation from U.S. vaults](https://seekingalpha.com/news/4542254-german-economists-push-for-gold-repatriation-from-us-vaults)
 - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
 - [Like digging &#39;your own grave&#39;: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
-- [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
-- [What Ralph Wiggum loops are missing](https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
