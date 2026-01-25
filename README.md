@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;](https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/)
+- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+- [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
 - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
-- [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
-- [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
-- [Doom has been ported to an earbud](https://doombuds.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
