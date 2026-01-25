@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
+- [Secret &#39;discombobulator&#39; weapon was crucial to Venezuelan raid on Maduro](https://nypost.com/2026/01/24/us-news/trump-reveals-to-the-post-secret-discombobulator-weapon-was-crucial-to-venezuelan-raid-on-maduro/)
 - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
+- [Doom has been ported to an earbud](https://doombuds.com)
 - [Nango &lpar;YC W23, Dev Infrastructure&rpar; Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
-- [Show HN: Bonsplit – tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
-- [Wall Street braced for a private credit meltdown. The risk of one is rising](https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html)
-- [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
