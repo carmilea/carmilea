@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution in Coding: Why I&#39;m Ignoring the Prophets of Doom](https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/)
-- [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)
+- [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
+- [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
+- [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
 - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
-- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
