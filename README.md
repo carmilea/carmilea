@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minneapolis shooting: AG Pam Bondi gives Gov. Walz conditions for ICE to leave](https://www.fox9.com/news/minneapolis-shooting-ag-pam-bondi-urges-gov-walz-support-ice)
+- [UN Declares That the World Has Entered an Era of &#39;Global Water Bankruptcy&#39;](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
 - [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
-- [Secret &#39;discombobulator&#39; weapon was crucial to Venezuelan raid on Maduro](https://nypost.com/2026/01/24/us-news/trump-reveals-to-the-post-secret-discombobulator-weapon-was-crucial-to-venezuelan-raid-on-maduro/)
+- [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
 - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
-- [Doom has been ported to an earbud](https://doombuds.com)
-- [Nango &lpar;YC W23, Dev Infrastructure&rpar; Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
 <!-- BLOG-POST-LIST:END -->
 
 ---
