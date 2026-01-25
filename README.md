@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The coming war on Car Ownership](https://geohot.github.io//blog/jekyll/update/2026/01/25/war-on-car-ownership.html)
+- [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
 - [Like digging &#39;your own grave&#39;: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+- [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
 - [What Ralph Wiggum loops are missing](https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing)
-- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
-- [Nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
-- [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
