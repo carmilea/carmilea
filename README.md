@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
+- [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
 - [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
+- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 - [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
-- [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
-- [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
-- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
