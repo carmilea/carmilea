@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
-- [Jurassic Park - Tablet device on Nedry&#39;s desk? &lpar;2012&rpar;](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
-- [This paper has been cited more than 6k times. It&#39;s fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
-- [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
-- [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
+- [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
+- [LLMs Don&#39;t Hallucinate – They Drift](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107?file=58969378)
+- [Nango &lpar;YC W23, Dev Infrastructure&rpar; Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
+- [Show HN: Bonsplit – tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
+- [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
