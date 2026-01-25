@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon braces for another major round of layoffs, 14,000 jobs at risk](https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118)
-- [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
+- [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
+- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
+- [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 - [Poland&#39;s energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
-- [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
-- [First Design Engineer Hire – Build Games at Gym Class &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
