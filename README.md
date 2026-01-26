@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When AI &#39;builds a browser,&#39; check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
+- [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
 - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
-- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
-- [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
