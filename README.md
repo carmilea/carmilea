@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Lazyslop and Personal Responsibility](https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/)
+- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
 - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
+- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 - [When AI &#39;builds a browser,&#39; check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
 - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
-- [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
