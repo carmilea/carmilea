@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
-- [The &#39;3.5% rule&#39;: How a small minority can change the world &lpar;2019&rpar;](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
-- [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
-- [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
-- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
+- [Show HN: Elo ranking for landing pages](https://landingleaderboard.com/)
+- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
+- [Scientists identify brain waves that define the limits of &#39;you&#39;](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
+- [Show HN: FaceTime-style calls with an AI Companion &lpar;Live2D and long-term memory&rpar;](https://thebeni.ai/)
+- [Show HN: A small programming language where everything is pass-by-value](https://github.com/Jcparkyn/herd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
