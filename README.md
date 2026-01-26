@@ -61,8 +61,8 @@
 - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 - [Iran&#39;s internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
+- [Running the Stupid Cricut Software on Linux](https://arthur.pizza/2025/12/running-stupid-cricut-software-under-linux/)
 - [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
-- [You can just port things to Cloudflare Workers](https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
