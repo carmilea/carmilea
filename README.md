@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 - [Iran&#39;s internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
 - [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
-- [SF Microclimates](https://microclimates.solofounders.com/)
-- [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
-- [Video Games as Art](https://gwern.net/video-game-art)
+- [Show HN: NukeCast – If it happened today, where would the fallout go](https://nukecast.com/)
+- [You can just port things to Cloudflare Workers](https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
