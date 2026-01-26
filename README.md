@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU investigates Elon Musk&#39;s X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/clye99wg0y8o)
-- [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
-- [San Francisco Graffiti](https://walzr.com/sf-graffiti)
-- [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
-- [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
+- [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
+- [After two years of vibecoding, I&#39;m back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
+- [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
+- [Vibe Coding Kills Open Source](https://arxiv.org/abs/2601.15494)
+- [Water &#39;Bankruptcy&#39; Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
