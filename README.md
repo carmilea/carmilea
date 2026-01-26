@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Lazyslop and Personal Responsibility](https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/)
+- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
 - [When AI &#39;builds a browser,&#39; check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
+- [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
 - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
-- [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
-- [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
-- [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
