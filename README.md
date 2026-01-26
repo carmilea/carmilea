@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)
+- [Is It Time for a Nordic Nuke?](https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/)
 - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 - [What &quot;The Best&quot; Looks Like](https://www.kuril.in/blog/what-the-best-looks-like/)
 - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
-- [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
-- [AI will not replace software engineers &lpar;hopefully&rpar;](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
