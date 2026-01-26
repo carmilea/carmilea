@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Elo ranking for landing pages](https://landingleaderboard.com/)
+- [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+- [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
 - [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
 - [Scientists identify brain waves that define the limits of &#39;you&#39;](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
 - [Show HN: FaceTime-style calls with an AI Companion &lpar;Live2D and long-term memory&rpar;](https://thebeni.ai/)
-- [Show HN: A small programming language where everything is pass-by-value](https://github.com/Jcparkyn/herd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
