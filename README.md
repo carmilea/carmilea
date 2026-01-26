@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
+- [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/)
+- [Refusing to Use Twitter](https://blog.korny.info/2026/01/25/refusing-to-use-twitter)
 - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
 - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 - [When AI &#39;builds a browser,&#39; check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
-- [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
