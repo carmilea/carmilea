@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran&#39;s internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
 - [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+- [SF Microclimates](https://microclimates.solofounders.com/)
 - [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
-- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
-- [Scientists identify brain waves that define the limits of &#39;you&#39;](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-- [Show HN: FaceTime-style calls with an AI Companion &lpar;Live2D and long-term memory&rpar;](https://thebeni.ai/)
+- [Video Games as Art](https://gwern.net/video-game-art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
