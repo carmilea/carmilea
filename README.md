@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU investigates Elon Musk&#39;s X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/clye99wg0y8o)
 - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
-- [UK House of Lords Votes to Extend Age Verification to VPNs](https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns)
 - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 <!-- BLOG-POST-LIST:END -->
