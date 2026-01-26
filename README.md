@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11&#39;s Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
+- [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
+- [What &quot;The Best&quot; Looks Like](https://www.kuril.in/blog/what-the-best-looks-like/)
+- [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
 - [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
 - [AI will not replace software engineers &lpar;hopefully&rpar;](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
-- [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
-- [Exactitude in Science – Borges &lpar;1946&rpar; [pdf]](https://kwarc.info/teaching/TDM/Borges.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
