@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
-- [After two years of vibecoding, I&#39;m back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
-- [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
-- [Vibe Coding Kills Open Source](https://arxiv.org/abs/2601.15494)
-- [Water &#39;Bankruptcy&#39; Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
+- [Windows 11&#39;s Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
+- [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
+- [AI will not replace software engineers &lpar;hopefully&rpar;](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
+- [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
+- [Exactitude in Science – Borges &lpar;1946&rpar; [pdf]](https://kwarc.info/teaching/TDM/Borges.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
