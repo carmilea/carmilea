@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I Wrapped the Zorks with an LLM](https://infocom.tambo.co/)
+- [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
 - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 - [Parametric CAD in Rust](https://campedersen.com/vcad)
 - [Time Station Emulator](https://github.com/kangtastic/timestation)
