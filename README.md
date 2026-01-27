@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heathrow Drops the Liquids Rule](https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/)
 - [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
 - [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
-- [You have to know how tech companies work](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
+- [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
 - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
-- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
