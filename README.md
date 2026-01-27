@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
-- [Hypercubic &lpar;YC F25&rpar; Is Hiring a Founding SWE and COBOL Engineer](https://www.ycombinator.com/companies/hypercubic/jobs)
-- [U.S. government has lost more than 10k STEM PhDs since Trump took office](https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office)
-- [Prism](https://openai.com/index/introducing-prism)
-- [Show HN: LemonSlice – Upgrade your voice agents to real-time video](https://news.ycombinator.com/item?id=46783600)
+- [Ultraprocessed foods make up to 70% of the US food supply](https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness)
+- [Chuck Klosterman on why we&#39;ve never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
+- [The bachelor tax – what it costs to be single &lpar;to the IRS&rpar;](https://bachelor-tax.vercel.app/)
+- [Twin – The AI Company Builder](https://twin.so/)
+- [Arm&#39;s Cortex A725 Ft. Dell&#39;s Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
 <!-- BLOG-POST-LIST:END -->
 
 ---
