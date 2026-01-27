@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mothers &lpar;YC X26, Defense Tech&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-- [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
-- [I made my own Git](https://tonystr.net/blog/git_immitation)
-- [We Do Not Support Opt-Out Forms &lpar;2025&rpar;](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
-- [Russia using Interpol&#39;s wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
+- [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
+- [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
+- [TikTok users can&#39;t upload anti-ICE videos. The company blames tech issues](https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec)
+- [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
+- [9 Mothers &lpar;YC X26, Defense Tech&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
