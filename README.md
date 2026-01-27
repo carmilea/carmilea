@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to Shut Down All Amazon Go and Amazon Fresh Stores](https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7)
+- [430k-year-old well-preserved wooden tools are the oldest ever found](https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/)
+- [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn&#39;t](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
+- [Amazon Closing Fresh and Go Stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
 - [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
-- [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
-- [TikTok users can&#39;t upload anti-ICE videos. The company blames tech issues](https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec)
-- [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
-- [9 Mothers &lpar;YC X26, Defense Tech&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
