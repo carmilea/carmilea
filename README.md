@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
-- [Is OpenAI Dead Yet?](https://isopenaideadyet.com/)
+- [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
+- [We Do Not Support Opt-Out Forms &lpar;2025&rpar;](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
 - [Russia using Interpol&#39;s wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
 - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
 - [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
