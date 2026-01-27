@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
+- [Management as AI superpower: Thriving in a world of agentic AI](https://www.oneusefulthing.org/p/management-as-ai-superpower)
+- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Recruiter](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter)
+- [OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing](https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467)
 - [Amazon to Shut Down All Amazon Go and Amazon Fresh Stores](https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7)
-- [430k-year-old well-preserved wooden tools are the oldest ever found](https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/)
-- [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn&#39;t](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
-- [Amazon Closing Fresh and Go Stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
-- [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
