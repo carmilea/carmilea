@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultraprocessed foods make up to 70% of the US food supply](https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness)
-- [Chuck Klosterman on why we&#39;ve never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
-- [The bachelor tax – what it costs to be single &lpar;to the IRS&rpar;](https://bachelor-tax.vercel.app/)
-- [Twin – The AI Company Builder](https://twin.so/)
-- [Arm&#39;s Cortex A725 Ft. Dell&#39;s Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
+- [Show HN: I Wrapped the Zorks with an LLM](https://infocom.tambo.co/)
+- [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
+- [Parametric CAD in Rust](https://campedersen.com/vcad)
+- [Time Station Emulator](https://github.com/kangtastic/timestation)
+- [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
