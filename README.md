@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
 - [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 - [Jellyfin LLM/&quot;AI&quot; Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 - [Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
 - [Native Linux VST plugin directory](https://linuxmusic.rocks)
-- [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
