@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities](https://veerhost.com/moltbot-security-guide/)
 - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 - [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 - [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 - [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
+- [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
