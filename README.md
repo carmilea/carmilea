@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why all the sudden people are writing browsers with AI?](https://news.ycombinator.com/item?id=46790957)
+- [Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities](https://veerhost.com/moltbot-security-guide/)
 - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+- [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 - [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 - [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
 <!-- BLOG-POST-LIST:END -->
