@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 - [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
-- [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
 - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 - [Time Station Emulator](https://github.com/kangtastic/timestation)
 - [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
