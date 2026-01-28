@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does Werner Herzog&#39;s nihilist penguin teach us?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
 - [Native Linux VST plugin directory](https://linuxmusic.rocks)
 - [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
-- [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
-- [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
-- [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
+- [Who sets the Doomsday Clock?](https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/)
+- [Show HN: Cursor for Userscripts](https://github.com/chebykinn/browser-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
