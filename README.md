@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why all the sudden people are writing browsers with AI?](https://news.ycombinator.com/item?id=46790957)
 - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-- [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+- [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 - [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
-- [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
-- [Time Station Emulator](https://github.com/kangtastic/timestation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
