@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Werner Herzog&#39;s nihilist penguin teach us?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
+- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
+- [Jellyfin LLM/&quot;AI&quot; Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
+- [Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
 - [Native Linux VST plugin directory](https://linuxmusic.rocks)
 - [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
-- [Who sets the Doomsday Clock?](https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/)
-- [Show HN: Cursor for Userscripts](https://github.com/chebykinn/browser-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
