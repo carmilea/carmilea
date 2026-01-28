@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank in Talks to Invest Up to $30B More in OpenAI](https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3)
+- [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
+- [Airfoil &lpar;2024&rpar;](https://ciechanow.ski/airfoil/)
+- [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 - [Kyber &lpar;YC W23&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
 - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
-- [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
-- [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
