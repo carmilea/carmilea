@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazone One palm authentication discontinued](https://amazonone.aws.com/help)
-- [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)
-- [Will AIs Take All Our Jobs and End Human History–Or Not?](https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/)
+- [That&#39;s Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
+- [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
+- [Spinning around: Please don&#39;t – Common problems with spin locks](https://www.siliceum.com/en/blog/post/spinning-around/)
 - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
-- [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
+- [Airfoil &lpar;2024&rpar;](https://ciechanow.ski/airfoil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
