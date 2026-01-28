@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If You Tax Them, Will They Leave?](https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/)
+- [ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
 - [Google just gave us an accidental first look at Android&#39;s PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)
 - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
-- [Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)
-- [Devuan – Debian Without Systemd](https://www.devuan.org/)
-- [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
