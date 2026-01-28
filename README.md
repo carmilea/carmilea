@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
+- [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 - [Airfoil &lpar;2024&rpar;](https://ciechanow.ski/airfoil/)
 - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 - [Kyber &lpar;YC W23&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
