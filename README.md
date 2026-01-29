@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;The AI Hallucinated&quot; is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
+- [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
+- [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
+- [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 - [Flameshot](https://github.com/flameshot-org/flameshot)
 - [Networks Hold the Key to a Decades-Old Problem About Waves](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/)
-- [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
-- [My Mom and Dr. DeepSeek &lpar;2025&rpar;](https://restofworld.org/2025/ai-chatbot-china-sick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
