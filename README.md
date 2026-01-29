@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://kerkour.com/turso-sqlite)
-- [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
-- [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
-- [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
-- [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
+- [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
+- [Days numbered for &#39;risky&#39; lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
+- [Heating homes with the largest particle accelerator](https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator)
+- [OTelBench: AI struggles with simple SRE tasks &lpar;Opus 4.5 scores only 29%&rpar;](https://quesma.com/blog/introducing-otel-bench/)
+- [US trade deficit widens by the most in nearly 34 years in November](https://finance.yahoo.com/news/us-trade-deficit-widens-most-144236696.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
