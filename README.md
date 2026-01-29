@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Azure Linux](https://github.com/microsoft/azurelinux)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
 - [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
+- [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 - [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
-- [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
-- [Show HN: Shelvy Books](https://shelvybooks.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
