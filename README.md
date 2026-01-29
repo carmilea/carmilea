@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)
+- [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
+- [Europe&#39;s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
-- [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 - [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 <!-- BLOG-POST-LIST:END -->
