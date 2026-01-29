@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
-- [Days numbered for &#39;risky&#39; lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
-- [Heating homes with the largest particle accelerator](https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator)
-- [OTelBench: AI struggles with simple SRE tasks &lpar;Opus 4.5 scores only 29%&rpar;](https://quesma.com/blog/introducing-otel-bench/)
-- [US trade deficit widens by the most in nearly 34 years in November](https://finance.yahoo.com/news/us-trade-deficit-widens-most-144236696.html)
+- [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
+- [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+- [Reflex &lpar;YC W23&rpar; Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
+- [Mozilla is building an AI &#39;rebel alliance&#39; to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+- [Launch HN: AgentMail &lpar;YC S25&rpar; – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
