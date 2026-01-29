@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s Azure Linux](https://github.com/microsoft/azurelinux)
+- [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
+- [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 - [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
-- [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
