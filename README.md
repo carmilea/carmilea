@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 - [Europe&#39;s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 - [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
-- [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
