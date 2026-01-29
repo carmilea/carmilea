@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
+- [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 - [My Mom and Dr. DeepSeek &lpar;2025&rpar;](https://restofworld.org/2025/ai-chatbot-china-sick/)
+- [MakuluLinux &lpar;6.4M Downloads&rpar; Ships Persistent Backdoor from Developer&#39;s Own C2](https://werai.ca/security-disclosure.html)
 - [OpenAI&#39;s In-House Data Agent](https://openai.com/index/inside-our-in-house-data-agent)
-- [Tesla is committing automotive suicide](https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/)
-- [AI&#39;s Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
-- [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
