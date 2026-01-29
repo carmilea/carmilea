@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks)
+- [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
+- [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 - [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
-- [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)
 - [The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
-- [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
-- [AI on Australian travel company website sent tourists to nonexistent hot springs](https://www.cnn.com/2026/01/28/travel/ai-tourism-nonexistent-hotsprings-intl-scli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
