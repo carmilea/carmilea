@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+- [Cutting Up Curved Things &lpar;With Math&rpar;](https://campedersen.com/tessellation)
 - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
-- [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
+- [The WiFi only works when it&#39;s raining &lpar;2024&rpar;](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Apple buys Israeli startup Q.ai](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
-- [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/)
-- [Flameshot](https://github.com/flameshot-org/flameshot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
