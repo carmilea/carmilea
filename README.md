@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
-- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
-- [Jellyfin LLM/&quot;AI&quot; Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
-- [Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
-- [Native Linux VST plugin directory](https://linuxmusic.rocks)
+- [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
+- [Show HN: Shelvy Books](https://shelvybooks.com)
+- [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
+- [Please Don&#39;t Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+- [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
