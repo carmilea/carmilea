@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
 - [OpenAI&#39;s Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 - [Europe&#39;s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
-- [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
 <!-- BLOG-POST-LIST:END -->
 
