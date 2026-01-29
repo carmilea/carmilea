@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks)
-- [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
-- [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
-- [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
-- [The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+- [Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://kerkour.com/turso-sqlite)
+- [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
+- [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
+- [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
+- [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
