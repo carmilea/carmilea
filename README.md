@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
+- [My Mom and Dr. DeepSeek &lpar;2025&rpar;](https://restofworld.org/2025/ai-chatbot-china-sick/)
+- [OpenAI&#39;s In-House Data Agent](https://openai.com/index/inside-our-in-house-data-agent)
+- [Tesla is committing automotive suicide](https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/)
+- [AI&#39;s Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-- [Reflex &lpar;YC W23&rpar; Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
-- [Mozilla is building an AI &#39;rebel alliance&#39; to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
-- [Launch HN: AgentMail &lpar;YC S25&rpar; – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
