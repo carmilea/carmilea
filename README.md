@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
+- [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)
 - [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
 - [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 - [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
