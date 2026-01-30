@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [9front OS](https://9front.org/)
+- [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
+- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
 - [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 - [Cutting Up Curved Things](https://campedersen.com/tessellation)
-- [The WiFi only works when it&#39;s raining &lpar;2024&rpar;](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
