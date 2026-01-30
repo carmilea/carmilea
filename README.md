@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
+- [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
+- [Norway EV Push Nears 100 Percent: What&#39;s Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
 - [Pangolin &lpar;YC S25&rpar; is hiring software engineers &lpar;open-source, Go, networking&rpar;](https://docs.pangolin.net/careers/join-us)
 - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
-- [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)
-- [Tesla&#39;s Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
-- [GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
