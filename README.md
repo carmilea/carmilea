@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting Dementia Using Lexical Analysis: Terry Pratchett&#39;s Discworld](https://www.mdpi.com/2076-3425/16/1/94)
 - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
-- [Where I&#39;m at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+- [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
 - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
 - [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
-- [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
