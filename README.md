@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
+- [Where I&#39;m at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+- [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
+- [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
 - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
-- [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
-- [Norway EV Push Nears 100 Percent: What&#39;s Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
-- [Pangolin &lpar;YC S25&rpar; is hiring software engineers &lpar;open-source, Go, networking&rpar;](https://docs.pangolin.net/careers/join-us)
-- [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
