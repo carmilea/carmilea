@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Own Enterprise-Grade Clawdbot Without the Security Nightmares](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)
+- [Vitamin D supplements cut heart attack risk by 52%. Why?](https://www.empirical.health/blog/vitamin-d-heart/)
+- [Iran rounds up thousands in mass arrest campaign after crushing unrest](https://www.reuters.com/world/middle-east/iran-rounds-up-thousands-mass-arrest-campaign-after-crushing-unrest-sources-say-2026-01-29/)
+- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
-- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
-- [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
-- [Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+- [Silver plunges 30% in worst day since 1980, gold tumbles](https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
