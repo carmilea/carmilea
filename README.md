@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built My Own Enterprise-Grade Clawdbot Without the Security Nightmares](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)
+- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
 - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 - [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 - [Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-- [Vcad: Free BRep CAD in the Browser](https://vcad.io)
-- [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
