@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [9front OS](https://9front.org/)
+- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- [Cutting Up Curved Things &lpar;With Math&rpar;](https://campedersen.com/tessellation)
-- [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
+- [Cutting Up Curved Things](https://campedersen.com/tessellation)
 - [The WiFi only works when it&#39;s raining &lpar;2024&rpar;](https://predr.ag/blog/wifi-only-works-when-its-raining/)
-- [Apple buys Israeli startup Q.ai](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
