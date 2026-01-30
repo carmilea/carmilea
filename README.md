@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ClawdBot Skills ganked all my crypto](https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto)
 - [Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
-- [Detecting Dementia Using Lexical Analysis: Terry Pratchett&#39;s Discworld](https://www.mdpi.com/2076-3425/16/1/94)
-- [Lemonade Autonomous Car Insurance &lpar;With Tesla FSD Discount&rpar;](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
+- [Vcad: Free BRep CAD in the Browser](https://vcad.io)
+- [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
-- [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
