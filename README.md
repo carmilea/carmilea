@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 - [Vitamin D supplements cut heart attack risk by 52%. Why?](https://www.empirical.health/blog/vitamin-d-heart/)
-- [Iran rounds up thousands in mass arrest campaign after crushing unrest](https://www.reuters.com/world/middle-east/iran-rounds-up-thousands-mass-arrest-campaign-after-crushing-unrest-sources-say-2026-01-29/)
+- [I trapped an AI model inside an art installation &lpar;2025&rpar; [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 - [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
-- [Silver plunges 30% in worst day since 1980, gold tumbles](https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
