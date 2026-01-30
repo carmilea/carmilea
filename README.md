@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
-- [Moltbook](https://www.moltbook.com/)
-- [Stargaze: SpaceX&#39;s Space Situational Awareness System](https://starlink.com/updates/stargaze)
-- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
-- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
+- [GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
+- [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
+- [Photoroom &lpar;YC S20&rpar; Is Hiring a Head of Cross-Platform &lpar;Rust&rpar; in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
+- [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+- [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
