@@ -61,8 +61,8 @@
 - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 - [Moltbook](https://www.moltbook.com/)
 - [Stargaze: SpaceX&#39;s Space Situational Awareness System](https://starlink.com/updates/stargaze)
+- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
 - [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
-- [Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
