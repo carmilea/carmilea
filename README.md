@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Videogame stocks slide after Google&#39;s Project Genie AI model release](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
+- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+- [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 - [Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-- [Microsoft 365 now tracks you in real time?](https://ztechtalk.com/microsoft-teams)
 - [Vcad: Free BRep CAD in the Browser](https://vcad.io)
 - [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 <!-- BLOG-POST-LIST:END -->
