@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
-- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
+- [Moltbook](https://www.moltbook.com/)
+- [Stargaze: SpaceX&#39;s Space Situational Awareness System](https://starlink.com/updates/stargaze)
 - [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
-- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- [Cutting Up Curved Things](https://campedersen.com/tessellation)
+- [Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
