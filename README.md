@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
 - [Detecting Dementia Using Lexical Analysis: Terry Pratchett&#39;s Discworld](https://www.mdpi.com/2076-3425/16/1/94)
+- [Lemonade Autonomous Car Insurance &lpar;With Tesla FSD Discount&rpar;](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 - [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
-- [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
-- [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
