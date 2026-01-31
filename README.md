@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Insane Growth Goldbridge &lpar;YC F25&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
+- [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 - [Euro firms must ditch Uncle Sam&#39;s clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
-- [htmx: Server Sent Event &lpar;SSE&rpar; Extension](https://htmx.org/extensions/sse/)
 - [Automatic Programming](https://antirez.com/news/159)
 - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 <!-- BLOG-POST-LIST:END -->
