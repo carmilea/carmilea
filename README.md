@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
-- [Vitamin D supplements cut heart attack risk by 52%. Why?](https://www.empirical.health/blog/vitamin-d-heart/)
-- [I trapped an AI model inside an art installation &lpar;2025&rpar; [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
-- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
-- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
+- [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
+- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+- [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
+- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
+- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
