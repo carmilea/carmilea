@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
+- [The Saddest Moment &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
 - [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
 - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
-- [Death Note: L, Anonymity and Eluding Entropy &lpar;2011&rpar;](https://gwern.net/death-note-anonymity)
-- [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
