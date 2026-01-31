@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America First Risks Becoming America Alone](https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a)
 - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 - [Show HN: Phage Explorer](https://phage-explorer.org/)
 - [Naples&#39; 1790s civil war was intensified by moral panic over Real Analysis &lpar;2023&rpar;](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
-- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
