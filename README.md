@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Platform Security &lpar;Jan 2026&rpar; [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
 - [Nvidia&#39;s 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
 - [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
 - [Insane Growth Goldbridge &lpar;YC F25&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
-- [&quot;Giving up upstream-ing my patches &amp; feel free to pick them up&quot;](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
