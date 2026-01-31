@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
+- [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
+- [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
 - [Death Note: L, Anonymity and Eluding Entropy &lpar;2011&rpar;](https://gwern.net/death-note-anonymity)
-- [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
-- [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
-- [Ask HN: Any real OpenClaw &lpar;Clawd Bot/Molt Bot&rpar; users? What&#39;s your experience?](https://news.ycombinator.com/item?id=46838946)
-- [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+- [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
