@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Platform Security &lpar;Jan 2026&rpar; [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
-- [Nvidia&#39;s 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
-- [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
-- [Insane Growth Goldbridge &lpar;YC F25&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
-- [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
+- [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
+- [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
+- [Ask HN: Any real OpenClaw &lpar;Clawd Bot/Molt Bot&rpar; users? What&#39;s your experience?](https://news.ycombinator.com/item?id=46838946)
+- [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
