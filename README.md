@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The mythical AI-agent month](https://thetechenabler.substack.com/p/the-mythical-ai-agent-month)
+- [This Year in LLVM &lpar;2025&rpar;](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
+- [For most flagged articles, nearly every cited sentence failed verification](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
-- [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
-- [The Saddest Moment &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
-- [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
-- [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
