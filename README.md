@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Euro firms must ditch Uncle Sam&#39;s clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
+- [htmx: Server Sent Event &lpar;SSE&rpar; Extension](https://htmx.org/extensions/sse/)
+- [Automatic Programming](https://antirez.com/news/159)
 - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 - [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
-- [YouTube blocks background video playback on Brave and other Browsers](https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/)
-- [Sumerian Star Map Recorded the Impact of an Asteroid &lpar;2024&rpar;](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
-- [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
