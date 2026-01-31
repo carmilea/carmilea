@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
+- [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
 - [YouTube blocks background video playback on Brave and other Browsers](https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/)
 - [Sumerian Star Map Recorded the Impact of an Asteroid &lpar;2024&rpar;](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
 - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
-- [Show HN: Phage Explorer](https://phage-explorer.org/)
-- [Naples&#39; 1790s civil war was intensified by moral panic over Real Analysis &lpar;2023&rpar;](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
