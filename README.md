@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Death Note: L, Anonymity and Eluding Entropy &lpar;2011&rpar;](https://gwern.net/death-note-anonymity)
 - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
 - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 - [Ask HN: Any real OpenClaw &lpar;Clawd Bot/Molt Bot&rpar; users? What&#39;s your experience?](https://news.ycombinator.com/item?id=46838946)
 - [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
-- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
