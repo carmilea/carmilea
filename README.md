@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insane Growth Goldbridge &lpar;YC F25&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 - [Euro firms must ditch Uncle Sam&#39;s clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
 - [htmx: Server Sent Event &lpar;SSE&rpar; Extension](https://htmx.org/extensions/sse/)
 - [Automatic Programming](https://antirez.com/news/159)
 - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
-- [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
 <!-- BLOG-POST-LIST:END -->
 
 ---
