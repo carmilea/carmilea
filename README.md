@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The mythical AI-agent month](https://thetechenabler.substack.com/p/the-mythical-ai-agent-month)
+- [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 - [This Year in LLVM &lpar;2025&rpar;](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
-- [For most flagged articles, nearly every cited sentence failed verification](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 - [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 <!-- BLOG-POST-LIST:END -->
