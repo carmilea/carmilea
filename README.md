@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
 - [Insane Growth Goldbridge &lpar;YC F25&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 - [Euro firms must ditch Uncle Sam&#39;s clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
-- [Automatic Programming](https://antirez.com/news/159)
 - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 <!-- BLOG-POST-LIST:END -->
 
