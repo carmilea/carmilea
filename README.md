@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pancreatic cancer researchers&#39; latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
+- [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
-- [US, UK, EU, Australia and more to meet to discuss critical minerals alliance](https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price)
 - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
-- [Amiga Unix &lpar;Amix&rpar;](https://www.amigaunix.com/doku.php/home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
