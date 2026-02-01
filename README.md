@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netbird a German Tailscale alternative &lpar;P2P WireGuard-based overlay network&rpar;](https://netbird.io/)
+- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 - [List animals until failure](https://rose.systems/animalist/)
 - [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
-- [Cells use &#39;bioelectricity&#39; to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-- [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
