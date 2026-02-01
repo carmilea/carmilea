@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
 - [&#39;Right-to-Compute&#39; Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
-- [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
 - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
 <!-- BLOG-POST-LIST:END -->
