@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
+- [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
+- [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
 - [Clearspace &lpar;YC W23&rpar; Is Hiring an Applied Researcher &lpar;ML&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
-- [Apple: Our philosophy is to provide software for our machines free &lpar;1976&rpar;](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
-- [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
-- [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
