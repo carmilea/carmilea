@@ -61,8 +61,8 @@
 - [Netbird a German Tailscale alternative &lpar;P2P WireGuard-based overlay network&rpar;](https://netbird.io/)
 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
+- [Pre-Steal This Book](https://seths.blog/2008/12/pre-steal-this/)
 - [List animals until failure](https://rose.systems/animalist/)
-- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
