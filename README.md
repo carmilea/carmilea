@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)
+- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
-- [Apple&#39;s Q4 2025 margin on Services was 76.5%](https://asymco.com/2026/02/01/margin-call-3/)
+- [Margin Call](https://asymco.com/2026/02/01/margin-call-3/)
 - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
-- [My thousand dollar iPhone can&#39;t do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
+- [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
