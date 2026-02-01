@@ -62,7 +62,7 @@
 - [List animals until failure](https://rose.systems/animalist/)
 - [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
 - [Cells use &#39;bioelectricity&#39; to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-- [Swift is a more convenient Rust &lpar;2023&rpar;](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
