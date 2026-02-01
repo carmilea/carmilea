@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
+- [OpenClaw Security Assessment by ZeroLeaks [pdf]](https://zeroleaks.ai/reports/openclaw-analysis.pdf)
+- [U.S. life expectancy hits all-time high](https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/)
+- [Working example of a Yocto setup without unnecessary complications](https://github.com/bootlin/simplest-yocto-setup)
 - [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
-- [This Year in LLVM &lpar;2025&rpar;](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
-- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
-- [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
