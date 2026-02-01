@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
-- [OpenClaw Security Assessment by ZeroLeaks [pdf]](https://zeroleaks.ai/reports/openclaw-analysis.pdf)
-- [U.S. life expectancy hits all-time high](https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/)
-- [Working example of a Yocto setup without unnecessary complications](https://github.com/bootlin/simplest-yocto-setup)
-- [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- [List animals until failure](https://rose.systems/animalist/)
+- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
+- [Cells use &#39;bioelectricity&#39; to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
+- [Swift is a more convenient Rust &lpar;2023&rpar;](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
