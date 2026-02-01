@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netbird a German Tailscale alternative &lpar;P2P WireGuard-based overlay network&rpar;](https://netbird.io/)
+- [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
+- [Amiga Unix &lpar;Amix&rpar;](https://www.amigaunix.com/doku.php/home)
+- [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
+- [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
-- [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
-- [Pre-Steal This Book](https://seths.blog/2008/12/pre-steal-this/)
-- [List animals until failure](https://rose.systems/animalist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
