@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pancreatic cancer researchers&#39; latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
+- [Clearspace &lpar;YC W23&rpar; Is Hiring an Applied Researcher &lpar;ML&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
+- [Apple: Our philosophy is to provide software for our machines free &lpar;1976&rpar;](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
+- [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
 - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
-- [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
-- [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
-- [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
