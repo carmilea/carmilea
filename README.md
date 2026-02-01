@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+- [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 - [Amiga Unix &lpar;Amix&rpar;](https://www.amigaunix.com/doku.php/home)
 - [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
-- [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
-- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
