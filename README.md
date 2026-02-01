@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
-- [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
-- [&#39;Right-to-Compute&#39; Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
-- [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
-- [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
+- [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)
+- [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
+- [Apple&#39;s Q4 2025 margin on Services was 76.5%](https://asymco.com/2026/02/01/margin-call-3/)
+- [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+- [My thousand dollar iPhone can&#39;t do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
