@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greenland tensions harden Europe&#39;s push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
-- [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
-- [Load data from S3 without static credentials](https://www.singlestore.com/blog/load-data-from-s3-without-static-credentials)
-- [Geologists may have solved mystery of Green River&#39;s &#39;uphill&#39; route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
-- [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+- [My five stages of AI grief](https://dev-tester.com/my-five-stages-of-ai-grief/)
+- [Ask HN: Who is hiring? &lpar;February 2026&rpar;](https://news.ycombinator.com/item?id=46857488)
+- [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
+- [Swift in the Browser with ElementaryUI &lpar;Swift FOSDEM 2026 Talk&rpar; [video]](https://www.youtube.com/watch?v=OmQ881sOTIc)
+- [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
