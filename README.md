@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adboost: A browser extension that adds ads to every webpage](https://github.com/surprisetalk/AdBoost)
 - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+- [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
 - [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
 - [Microsoft is walking back Windows 11&#39;s AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
-- [Termux](https://github.com/termux/termux-app)
-- [My &lpar;very&rpar; fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
