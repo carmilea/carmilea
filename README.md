@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
-- [Ask HN: Who is hiring? &lpar;February 2026&rpar;](https://news.ycombinator.com/item?id=46857488)
-- [Ask HN: Who wants to be hired? &lpar;February 2026&rpar;](https://news.ycombinator.com/item?id=46857487)
-- [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
-- [Swift in the Browser with ElementaryUI &lpar;Swift FOSDEM 2026 Talk&rpar; [video]](https://www.youtube.com/watch?v=OmQ881sOTIc)
+- [The TSA&#39;s New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
+- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
+- [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
+- [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
+- [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
