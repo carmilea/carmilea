@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
-- [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
-- [Margin Call](https://asymco.com/2026/02/01/margin-call-3/)
-- [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
-- [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)
+- [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
+- [Actors: A Model of Concurrent Computation [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+- [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
+- [Time Machine-style Backups with rsync &lpar;2018&rpar;](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
+- [History and Timeline of the Proco Rat Pedal &lpar;2021&rpar;](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
