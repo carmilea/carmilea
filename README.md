@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NPR and PBS Never Needed Your Taxpayer Dollars](https://www.nationalreview.com/2026/02/npr-and-pbs-never-needed-your-taxpayer-dollars/)
+- [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
 - [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
-- [Actors: A Model of Concurrent Computation [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+- [Actors: A Model of Concurrent Computation [pdf] &lpar;1985&rpar;](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
 - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
-- [Time Machine-style Backups with rsync &lpar;2018&rpar;](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
-- [History and Timeline of the Proco Rat Pedal &lpar;2021&rpar;](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
