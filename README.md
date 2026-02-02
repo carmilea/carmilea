@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adboost: A browser extension that adds ads to every webpage](https://github.com/surprisetalk/AdBoost)
+- [Greenland tensions harden Europe&#39;s push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
+- [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
+- [Load data from S3 without static credentials](https://www.singlestore.com/blog/load-data-from-s3-without-static-credentials)
+- [Geologists may have solved mystery of Green River&#39;s &#39;uphill&#39; route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
 - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
-- [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
-- [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
-- [Microsoft is walking back Windows 11&#39;s AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
