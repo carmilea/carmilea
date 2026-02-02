@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My five stages of AI grief](https://dev-tester.com/my-five-stages-of-ai-grief/)
+- [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
 - [Ask HN: Who is hiring? &lpar;February 2026&rpar;](https://news.ycombinator.com/item?id=46857488)
+- [Ask HN: Who wants to be hired? &lpar;February 2026&rpar;](https://news.ycombinator.com/item?id=46857487)
 - [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
 - [Swift in the Browser with ElementaryUI &lpar;Swift FOSDEM 2026 Talk&rpar; [video]](https://www.youtube.com/watch?v=OmQ881sOTIc)
-- [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
