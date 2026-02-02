@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Editor of UploadVR on why he was fired](https://goodvr.substack.com/p/ian-is-typing)
-- [Show HN: Sklad – Secure, offline-first snippet manager &lpar;Rust, Tauri v2&rpar;](https://github.com/Rench321/sklad)
-- [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
-- [Library of Juggling](https://libraryofjuggling.com/)
-- [Leaked Chats Expose the Daily Life of a Scam Compound&#39;s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
+- [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+- [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
+- [Microsoft is walking back Windows 11&#39;s AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+- [Termux](https://github.com/termux/termux-app)
+- [My &lpar;very&rpar; fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
