@@ -61,8 +61,8 @@
 - [Leaked Chats Expose the Daily Life of a Scam Compound&#39;s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 - [Apple&#39;s MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
-- [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 - [Actors: A Model of Concurrent Computation [pdf] &lpar;1985&rpar;](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+- [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
