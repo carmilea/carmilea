@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
+- [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
+- [Library of Juggling](https://libraryofjuggling.com/)
 - [Leaked Chats Expose the Daily Life of a Scam Compound&#39;s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 - [Apple&#39;s MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
-- [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
-- [Actors: A Model of Concurrent Computation [pdf] &lpar;1985&rpar;](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
