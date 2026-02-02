@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
+- [Editor of UploadVR on why he was fired](https://goodvr.substack.com/p/ian-is-typing)
+- [Show HN: Sklad – Secure, offline-first snippet manager &lpar;Rust, Tauri v2&rpar;](https://github.com/Rench321/sklad)
 - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
 - [Library of Juggling](https://libraryofjuggling.com/)
 - [Leaked Chats Expose the Daily Life of a Scam Compound&#39;s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
-- [Apple&#39;s MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
