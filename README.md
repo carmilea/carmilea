@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge Career &lpar;YC S22&rpar; Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
-- [What&#39;s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
-- [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
-- [Show HN: Safe-now.live – Ultra-light emergency info site &lpar;&lt;10KB&rpar;](https://safe-now.live)
-- [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
+- [Show HN: Inverting Agent Model &lpar;App as Clients, Chat as Server and Reflection&rpar;](https://github.com/RAIL-Suite/RAIL)
+- [Ask HN: Is there anyone here who still uses slide rules?](https://news.ycombinator.com/item?id=46871179)
+- [Agent Skills](https://agentskills.io/home)
+- [Decentralizing my smartphone with single purpose devices](https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/)
+- [Show HN: difi – A Git diff TUI with Neovim integration &lpar;written in Go&rpar;](https://github.com/oug-t/difi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
