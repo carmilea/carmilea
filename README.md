@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
-- [Bruce Schneier: AI and the scaling of betrayal &lpar;2023&rpar;](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
-- [Anthropic AI tool sparks selloff from software to broader market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+- [AI and Trust &lpar;2023&rpar;](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
 - [China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
-- [OpenClaw &lpar;a.k.a. Moltbot&rpar; Is Everywhere All at Once, and a Disaster](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
