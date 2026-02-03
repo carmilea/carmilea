@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+- [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
+- [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
+- [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 - [AliSQL: Alibaba&#39;s open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
-- [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
-- [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
-- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
-- [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features)
 <!-- BLOG-POST-LIST:END -->
 
 ---
