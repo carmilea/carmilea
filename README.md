@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What&#39;s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
+- [Show HN: Safe-now.live – Ultra-light emergency info site &lpar;&lt;10KB&rpar;](https://safe-now.live)
 - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
 - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
-- [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
