@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Inverting Agent Model &lpar;App as Clients, Chat as Server and Reflection&rpar;](https://github.com/RAIL-Suite/RAIL)
-- [Ask HN: Is there anyone here who still uses slide rules?](https://news.ycombinator.com/item?id=46871179)
-- [Agent Skills](https://agentskills.io/home)
-- [Decentralizing my smartphone with single purpose devices](https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/)
-- [Show HN: difi – A Git diff TUI with Neovim integration &lpar;written in Go&rpar;](https://github.com/oug-t/difi)
+- [Anthropic is Down](https://updog.ai/status/anthropic)
+- [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
+- [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
+- [GitHub Browser Plugin for AI Contribution Blame in Pull Requests](https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/)
+- [Show HN: Sandboxing untrusted code using WebAssembly](https://github.com/mavdol/capsule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
