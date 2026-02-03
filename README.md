@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The TSA&#39;s New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
-- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
-- [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
-- [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
-- [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
+- [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
+- [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387)
+- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
+- [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+- [Julia](https://borretti.me/fiction/julia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
