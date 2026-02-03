@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
+- [Launch HN: Modelence &lpar;YC S25&rpar; – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
+- [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
 - [Anthropic is Down](https://updog.ai/status/anthropic)
 - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
-- [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
-- [GitHub Browser Plugin for AI Contribution Blame in Pull Requests](https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/)
-- [Show HN: Sandboxing untrusted code using WebAssembly](https://github.com/mavdol/capsule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
