@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
-- [Launch HN: Modelence &lpar;YC S25&rpar; – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
-- [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
-- [Anthropic is Down](https://updog.ai/status/anthropic)
-- [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
+- [AliSQL: Alibaba&#39;s open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
+- [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
+- [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
+- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
+- [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features)
 <!-- BLOG-POST-LIST:END -->
 
 ---
