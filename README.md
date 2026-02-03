@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spain to ban social media access for under-16s, PM Sanchez says](https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/)
+- [Emerge Career &lpar;YC S22&rpar; Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
 - [What&#39;s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 - [Show HN: Safe-now.live – Ultra-light emergency info site &lpar;&lt;10KB&rpar;](https://safe-now.live)
