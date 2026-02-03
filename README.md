@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+- [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 - [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 - [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
 - [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
-- [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
-- [AliSQL: Alibaba&#39;s open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
