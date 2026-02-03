@@ -61,8 +61,8 @@
 - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 - [Frog &#39;saunas&#39; could help endangered species beat a deadly fungus &lpar;2024&rpar;](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
-- [Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165)
 - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
+- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
