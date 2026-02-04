@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We built a real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
+- [Disk Scout – Find the Cheapest SSDs Across Amazon](https://disk-scout.com/)
 - [Show HN: Interactive California Budget &lpar;By Claude Code&rpar;](https://california-budget.com)
+- [The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
 - [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
-- [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
-- [Claude Code for Infrastructure](https://www.fluid.sh/)
-- [AI needs to augment rather than replace humans or the workplace is doomed](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
