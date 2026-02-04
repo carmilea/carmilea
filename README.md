@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
+- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
 - [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
-- [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
 - [Show HN: Interactive California Budget &lpar;By Claude Code&rpar;](https://california-budget.com)
 - [The Codex app illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
 <!-- BLOG-POST-LIST:END -->
