@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world is more equal than you think](https://economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think)
 - [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
 - [The full history of Windows widgets, from 1997 to today](https://xakpc.dev/windows-widgets/history/)
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
