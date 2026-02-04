@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Unwind](https://occupywallst.com/yen)
 - [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
+- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 - [Study: emotional support from social media found to reduce anxiety](https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety)
-- [In Tehran](https://www.lrb.co.uk/blog/2026/january/in-tehran)
-- [AI Is Killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
 - [French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel](https://twitter.com/Ced_haurus/status/2018716889191498172)
 <!-- BLOG-POST-LIST:END -->
 
