@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why poor countries stopped catching up](https://davidoks.blog/p/why-poor-countries-stopped-catching-690)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
-- [AI and Trust &lpar;2023&rpar;](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
 - [China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 <!-- BLOG-POST-LIST:END -->
