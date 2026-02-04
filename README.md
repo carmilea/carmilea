@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;time to GPT-2&quot;, down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
+- [The €10 Mirror: Why Enterprise Security Looks Like a Kid&#39;s Toy](https://labs.itresit.es/2026/02/04/the-e10-mirror-why-enterprise-security-looks-like-a-kids-toy/)
 - [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
-- [The full history of Windows widgets, from 1997 to today](https://xakpc.dev/windows-widgets/history/)
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 <!-- BLOG-POST-LIST:END -->
