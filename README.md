@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=M-ZBtECdqRU)
 - [Stop Writing SQL. Start Asking Questions.| SingleStore AI #ai #artificialintelligence #aideployment](https://www.youtube.com/shorts/hp1M1VtkddU)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=tuaoUpToYQA)
 - [Driving Automation with AI Agents](https://www.youtube.com/watch?v=MiO37I4pXXo)
-- [Driving Automation with AI Agents with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=RaazmJIr0_w)
-- [Build Real-Time Laravel Applications with SingleStore Helios | SingleStore Webinar](https://www.youtube.com/watch?v=WC_MKHa-GCo)
 <!-- YOUTUBE:END -->
 
 
