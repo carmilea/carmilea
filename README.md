@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI Couldn&#39;t Get into WaPo Reporter&#39;s iPhone Because Lockdown Mode Enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
+- [Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025](https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/)
+- [Cannabis usage in older adults linked to larger brain, better cognitive function](https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html)
+- [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
 - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
-- [Your Job Isn&#39;t Disappearing. It&#39;s Shrinking Around You in Real Time](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
-- [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
-- [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
-- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
