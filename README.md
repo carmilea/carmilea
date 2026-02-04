@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We built a real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- [Disk Scout – Find the Cheapest SSDs Across Amazon](https://disk-scout.com/)
+- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
+- [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
+- [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
 - [Show HN: Interactive California Budget &lpar;By Claude Code&rpar;](https://california-budget.com)
-- [The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
-- [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
+- [The Codex app illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
