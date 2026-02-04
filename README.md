@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Couldn&#39;t Get into WaPo Reporter&#39;s iPhone Because Lockdown Mode Enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
+- [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
+- [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
+- [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
+- [FBI couldn&#39;t get into WaPo reporter&#39;s iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
 - [Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025](https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/)
-- [Cannabis usage in older adults linked to larger brain, better cognitive function](https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html)
-- [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
-- [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
