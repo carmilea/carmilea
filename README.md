@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
-- [When “Where’s My Package?” Turns Into a Real Time Logistics Analytics Problem](https://www.singlestore.com/blog/when-where-s-my-package-turns-into-a-real-time-logistic-analytics-problem)
-- [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
-- [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
-- [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
+- [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
+- [Study: emotional support from social media found to reduce anxiety](https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety)
+- [In Tehran](https://www.lrb.co.uk/blog/2026/january/in-tehran)
+- [AI Is Killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
+- [French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel](https://twitter.com/Ced_haurus/status/2018716889191498172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
