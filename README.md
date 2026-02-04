@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
+- [When “Where’s My Package?” Turns Into a Real Time Logistics Analytics Problem](https://www.singlestore.com/blog/when-where-s-my-package-turns-into-a-real-time-logistic-analytics-problem)
 - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
 - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
-- [FBI couldn&#39;t get into WaPo reporter&#39;s iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
-- [Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025](https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
