@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Has Killed Widgets Six Times. Here&#39;s Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
 - [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany)
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
-- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
