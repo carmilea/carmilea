@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why poor countries stopped catching up](https://davidoks.blog/p/why-poor-countries-stopped-catching-690)
+- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
