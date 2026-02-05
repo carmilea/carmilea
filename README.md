@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justice.gov JEE files contains bash manual](https://framapiaf.org/@bitecode/116014584956841267)
+- [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
+- [If you&#39;ve got Nothing to Hide &lpar;2015&rpar;](https://jacquesmattheij.com/if-you-have-nothing-to-hide/)
+- [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity)
 - [Valve&#39;s Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
-- [Russia &#39;intercepts Europe&#39;s key satellites&#39;](https://news.satnews.com/2026/02/04/russia-intercepts-europes-key-satellites-placing-nato-satellite-at-risk/)
-- [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
-- [BMW&#39;s Newest &quot;Innovation&quot; Is a Logo-Shaped Middle Finger to Right to Repair](https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair)
-- [Don&#39;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
