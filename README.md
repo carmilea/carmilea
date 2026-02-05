@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE Begins Buying &#39;Mega&#39; Warehouse Detention Centers Across US](https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers)
+- [Valve&#39;s Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
+- [Russia &#39;intercepts Europe&#39;s key satellites&#39;](https://news.satnews.com/2026/02/04/russia-intercepts-europes-key-satellites-placing-nato-satellite-at-risk/)
 - [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
+- [BMW&#39;s Newest &quot;Innovation&quot; Is a Logo-Shaped Middle Finger to Right to Repair](https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair)
 - [Don&#39;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
-- [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
-- [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
 <!-- BLOG-POST-LIST:END -->
 
 ---
