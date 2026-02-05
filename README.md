@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance)
+- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+- [Maihem &lpar;YC W24&rpar;: hiring sr robotics perception engineer &lpar;London, on-site&rpar;](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
 - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
-- [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
-- [Company as Code](https://blog.42futures.com/p/company-as-code)
-- [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
-- [GB Renewables Map](https://renewables-map.robinhawkes.com/)
+- [CIA suddenly stops publishing, removes archives of The World Factbook](https://simonwillison.net/2026/Feb/5/the-world-factbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
