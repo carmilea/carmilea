@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
 - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
 - [Company as Code](https://blog.42futures.com/p/company-as-code)
 - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
 - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
