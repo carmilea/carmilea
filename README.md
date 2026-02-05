@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
-- [Flock CEO calls Deflock a &quot;terrorist organization&quot; [video]](https://www.youtube.com/watch?v=l-kZGrDz7PU)
+- [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
+- [The time I didn&#39;t meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
+- [Flock CEO calls Deflock a &quot;terrorist organization&quot; [video] &lpar;2025&rpar;](https://www.youtube.com/watch?v=l-kZGrDz7PU)
 - [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
-- [Anthropic&#39;s Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
-- [Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
