@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICE Begins Buying &#39;Mega&#39; Warehouse Detention Centers Across US](https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers)
+- [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
 - [Don&#39;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 - [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
-- [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
-- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
