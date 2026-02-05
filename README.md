@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)
+- [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
 - [Company as Code](https://blog.42futures.com/p/company-as-code)
 - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
+- [GB Renewables Map](https://renewables-map.robinhawkes.com/)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
-- [Top downloaded skill in ClawHub contains malware](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
