@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Understanding AI Agents and Agentic Systems | Build Agentic AI Apps with SingleStore](https://www.youtube.com/watch?v=blBOYrh3vxA)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=M-ZBtECdqRU)
 - [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
 - [Stop Writing SQL. Start Asking Questions.| SingleStore AI #ai #artificialintelligence #aideployment](https://www.youtube.com/shorts/hp1M1VtkddU)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=tuaoUpToYQA)
-- [Driving Automation with AI Agents](https://www.youtube.com/watch?v=MiO37I4pXXo)
 <!-- YOUTUBE:END -->
 
 
