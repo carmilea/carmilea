@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
+- [Child prodigies rarely become elite performers](https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers)
 - [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
-- [Steam Hardware: Launch timing and other FAQs](https://store.steampowered.com/news/group/45479024/view/625565405086220583)
-- [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)
-- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
-- [Debian&#39;s Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away)
+- [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
+- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
