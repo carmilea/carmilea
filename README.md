@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
+- [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
 - [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
-- [Sam Altman Responds to Anthropic Ad Campaign](https://twitter.com/i/status/2019139174339928189)
 - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
-- [A tale of two flows: Metaflow and Kubeflow](https://blog.kubeflow.org/metaflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
