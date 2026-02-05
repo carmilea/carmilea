@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice.gov JEE files contains bash manual](https://framapiaf.org/@bitecode/116014584956841267)
+- [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
+- [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html)
 - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
 - [If you&#39;ve got Nothing to Hide &lpar;2015&rpar;](https://jacquesmattheij.com/if-you-have-nothing-to-hide/)
 - [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity)
-- [Valve&#39;s Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
