@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
+- [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
+- [Steam Hardware: Launch timing and other FAQs](https://store.steampowered.com/news/group/45479024/view/625565405086220583)
+- [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)
 - [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
-- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- [Show HN: Interactive California Budget &lpar;By Claude Code&rpar;](https://california-budget.com)
-- [The Codex app illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
+- [Debian&#39;s Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away)
 <!-- BLOG-POST-LIST:END -->
 
 ---
