@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
 - [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
-- [The time I didn&#39;t meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
+- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 - [Flock CEO calls Deflock a &quot;terrorist organization&quot; [video] &lpar;2025&rpar;](https://www.youtube.com/watch?v=l-kZGrDz7PU)
-- [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
