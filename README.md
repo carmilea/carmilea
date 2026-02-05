@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance)
-- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
-- [Maihem &lpar;YC W24&rpar;: hiring sr robotics perception engineer &lpar;London, on-site&rpar;](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
-- [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
-- [CIA suddenly stops publishing, removes archives of The World Factbook](https://simonwillison.net/2026/Feb/5/the-world-factbook/)
+- [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
+- [Anthropic&#39;s Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
+- [Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124)
+- [A small, shared skill library by builders, for builders. &lpar;human and agent&rpar;](https://github.com/PsiACE/skills)
+- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
