@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
 - [Invention of DNA &quot;Page Numbers&quot; Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
 - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 - [Things Unix can do atomically &lpar;2010&rpar;](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
-- [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
