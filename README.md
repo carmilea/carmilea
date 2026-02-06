@@ -62,7 +62,7 @@
 - [Early Christian Writings](https://earlychristianwritings.com/)
 - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-- [Oregon raised spending by 80%, math scores dropped](https://www.educationnext.org/hard-lessons-from-new-naep-results/)
+- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
