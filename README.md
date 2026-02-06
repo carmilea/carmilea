@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things Unix can do atomically](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- [Things Unix can do atomically &lpar;2010&rpar;](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
 - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
+- [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
-- [I reversed Tower of Fantasy&#39;s anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
