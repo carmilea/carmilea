@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cubans rendered powerless as outages persist and tensions with US escalate](https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f)
-- [Review of 1984 by Isaac Asimov &lpar;1980&rpar;](https://www.newworker.org/ncptrory/1984.htm)
-- [It&#39;s 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
-- [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
-- [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
+- [C isn&#39;t a programming language anymore &lpar;2022&rpar;](https://faultlore.com/blah/c-isnt-a-language/)
+- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
+- [The RCE that AMD won&#39;t fix](https://mrbruh.com/amd/)
+- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents](https://github.com/calf-ai/calfkit-sdk)
+- [What if writing tests was a joyful experience? &lpar;2023&rpar;](https://blog.janestreet.com/the-joy-of-expect-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
