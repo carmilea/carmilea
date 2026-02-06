@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
-- [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
-- [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-- [Sheldon Brown&#39;s Bicycle Technical Info](https://www.sheldonbrown.com/)
-- [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+- [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
+- [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+- [Data Lakehouses Are Being Redefined by Real-Time Expectations](https://www.singlestore.com/blog/data-lakehouses-are-being-redefined-by-real-time-expectations)
+- [Fraud investigation is believing your lying eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
