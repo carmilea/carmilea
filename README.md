@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
-- [LLMs could be, but shouldn&#39;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
-- [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
-- [Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/)
-- [TikTok&#39;s &#39;Addictive Design&#39; Found to Be Illegal in Europe](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html)
+- [NIMBYs Aren&#39;t Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
+- [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
+- [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+- [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)
+- [Hackers &lpar;1995&rpar; Animated Experience](https://hackers-1995.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
