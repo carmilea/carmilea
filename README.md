@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things Unix can do atomically](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+- [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
+- [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
 - [I reversed Tower of Fantasy&#39;s anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
-- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-- [C isn&#39;t a programming language anymore &lpar;2022&rpar;](https://faultlore.com/blah/c-isnt-a-language/)
-- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
-- [The RCE that AMD won&#39;t fix](https://mrbruh.com/amd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
