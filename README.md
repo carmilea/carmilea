@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
-- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
-- [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
-- [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
-- [Data Lakehouses Are Being Redefined by Real-Time Expectations](https://www.singlestore.com/blog/data-lakehouses-are-being-redefined-by-real-time-expectations)
+- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
+- [Early Christian Writings](https://earlychristianwritings.com/)
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
+- [Oregon raised spending by 80%, math scores dropped](https://www.educationnext.org/hard-lessons-from-new-naep-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
