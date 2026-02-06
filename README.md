@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NIMBYs Aren&#39;t Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
-- [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
+- [White House launches direct-to-consumer drug site TrumpRx](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html)
+- [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
-- [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)
 - [Hackers &lpar;1995&rpar; Animated Experience](https://hackers-1995.vercel.app/)
+- [LLMs could be, but shouldn&#39;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
