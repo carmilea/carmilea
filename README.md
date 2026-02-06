@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I reversed Tower of Fantasy&#39;s anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
+- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 - [C isn&#39;t a programming language anymore &lpar;2022&rpar;](https://faultlore.com/blah/c-isnt-a-language/)
 - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
 - [The RCE that AMD won&#39;t fix](https://mrbruh.com/amd/)
-- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents](https://github.com/calf-ai/calfkit-sdk)
-- [What if writing tests was a joyful experience? &lpar;2023&rpar;](https://blog.janestreet.com/the-joy-of-expect-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
