@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House launches direct-to-consumer drug site TrumpRx](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html)
+- [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
 - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+- [Sheldon Brown&#39;s Bicycle Technical Info](https://www.sheldonbrown.com/)
 - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 - [Hackers &lpar;1995&rpar; Animated Experience](https://hackers-1995.vercel.app/)
-- [LLMs could be, but shouldn&#39;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
