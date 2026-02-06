@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
 - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 - [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 - [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 - [Data Lakehouses Are Being Redefined by Real-Time Expectations](https://www.singlestore.com/blog/data-lakehouses-are-being-redefined-by-real-time-expectations)
-- [Fraud investigation is believing your lying eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
