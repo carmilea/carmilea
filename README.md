@@ -45,10 +45,10 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
 - [Understanding Model Context Protocol &lpar;MCP&rpar;: Automate Database Operations!](https://www.youtube.com/watch?v=A4IVAKFaOrU)
 - [Understanding AI Agents and Agentic Systems | Build Agentic AI Apps with SingleStore](https://www.youtube.com/watch?v=blBOYrh3vxA)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=M-ZBtECdqRU)
-- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
 - [Stop Writing SQL. Start Asking Questions.| SingleStore AI #ai #artificialintelligence #aideployment](https://www.youtube.com/shorts/hp1M1VtkddU)
 <!-- YOUTUBE:END -->
 
