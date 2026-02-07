@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Trust Irrelevant: A Gamer&#39;s Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)
 - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
 - [I&#39;m going to cure my girlfriend&#39;s brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
 - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
 - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
