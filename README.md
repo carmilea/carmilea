@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
+- [First Proof](https://arxiv.org/abs/2602.05192)
 - [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
+- [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 - [France&#39;s homegrown open source online office suite](https://github.com/suitenumerique)
-- [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
-- [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
-- [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
