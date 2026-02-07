@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
+- [Leisure Suit Larry&#39;s Al Lowe on model trains, funny deaths and Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
+- [StrongDM&#39;s AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/)
 - [First Proof](https://arxiv.org/abs/2602.05192)
-- [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
-- [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
-- [France&#39;s homegrown open source online office suite](https://github.com/suitenumerique)
+- [Software Factories and the Agentic Moment](https://factory.strongdm.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
