@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+- [France&#39;s homegrown open source online office suite](https://github.com/suitenumerique)
+- [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
+- [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
+- [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
-- [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
-- [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
-- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
