@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
+- [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
+- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
+- [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
 - [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
-- [First Proof](https://arxiv.org/abs/2602.05192)
 - [Software factories and the agentic moment](https://factory.strongdm.ai/)
-- [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
