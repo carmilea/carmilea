@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
+- [Brookhaven Lab&#39;s RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
-- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
-- [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
-- [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
-- [Software factories and the agentic moment](https://factory.strongdm.ai/)
+- [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
+- [I Write Games in C &lpar;yes, C&rpar;](https://jonathanwhiting.com/writing/blog/games_in_c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
