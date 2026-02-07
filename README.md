@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Washington Post CEO Will Lewis Steps Down After Stormy Tenure](https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html)
+- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 - [Tiny C Compiler](https://bellard.org/tcc/)
-- [Italy Railways Sabotaged](https://www.bbc.co.uk/news/articles/czr4rx04xjpo)
+- [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
 - [Brookhaven Lab&#39;s RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
-- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
-- [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
 <!-- BLOG-POST-LIST:END -->
 
 ---
