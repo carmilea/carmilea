@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m going to cure my girlfriend&#39;s brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
+- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
 - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
-- [Early Christian Writings](https://earlychristianwritings.com/)
 - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
