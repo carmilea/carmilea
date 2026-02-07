@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny C Compiler](https://bellard.org/tcc/)
+- [Italy Railways Sabotaged](https://www.bbc.co.uk/news/articles/czr4rx04xjpo)
 - [Brookhaven Lab&#39;s RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
-- [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
-- [I write games in C &lpar;yes, C&rpar;](https://jonathanwhiting.com/writing/blog/games_in_c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
