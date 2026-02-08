@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voidtools Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
+- [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
+- [The &#39;Little red dots&#39; observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
+- [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
 - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
-- [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
-- [The Little Bool of Doom &lpar;2025&rpar;](https://blog.svgames.pl/article/the-little-bool-of-doom)
-- [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
-- [Let&#39;s compile Quake like it&#39;s 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
