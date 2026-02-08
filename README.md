@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
+- [Noam Chomsky&#39;s wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
 - [RFC 3092 – Etymology of &quot;Foo&quot; &lpar;2001&rpar;](https://datatracker.ietf.org/doc/html/rfc3092)
 - [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 - [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
-- [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
-- [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
