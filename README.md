@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
-- [Dave Farber has died](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
-- [Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
-- [Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
-- [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
+- [RFC 3092 – Etymology of &quot;Foo&quot; &lpar;2001&rpar;](https://datatracker.ietf.org/doc/html/rfc3092)
+- [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+- [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
+- [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
+- [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
