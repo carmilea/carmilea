@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
-- [Roger Ebert Reviews &quot;The Shawshank Redemption&quot;](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
+- [Roger Ebert Reviews &quot;The Shawshank Redemption&quot; &lpar;1999&rpar;](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
 - [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
-- [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
 - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 <!-- BLOG-POST-LIST:END -->
 
