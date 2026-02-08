@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the Australian outback, we&#39;re listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
+- [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
+- [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
+- [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
 - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
-- [LineageOS 23.2](https://lineageos.org/Changelog-31/)
-- [Roger Ebert Reviews &quot;The Shawshank Redemption&quot; &lpar;1999&rpar;](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
-- [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
-- [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
