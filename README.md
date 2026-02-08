@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Voidtools Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
-- [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
-- [The &#39;Little red dots&#39; observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
-- [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
-- [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+- [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
+- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization](https://arxiv.org/abs/2510.25417)
+- [Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
+- [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
+- [Apple XNU: Clutch Scheduler](https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
