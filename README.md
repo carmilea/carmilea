@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toma &lpar;YC W24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
 - [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization](https://arxiv.org/abs/2510.25417)
+- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization &lpar;2025&rpar;](https://arxiv.org/abs/2510.25417)
 - [Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
 - [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
-- [Apple XNU: Clutch Scheduler](https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
