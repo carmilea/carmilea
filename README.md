@@ -61,8 +61,8 @@
 - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
 - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
+- [Attention Media ≠ Social Media](https://susam.net/attention-media-is-not-social-media.html)
 - [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
-- [Let&#39;s compile Quake like it&#39;s 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
