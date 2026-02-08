@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+- [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
+- [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
+- [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
 - [Let&#39;s compile Quake like it&#39;s 1997](https://fabiensanglard.net/compile_like_1997/index.html)
-- [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
-- [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
-- [Vouch](https://github.com/mitchellh/vouch)
-- [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
