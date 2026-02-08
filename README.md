@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
-- [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
-- [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/)
 - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
 - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
+- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
