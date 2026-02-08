@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
+- [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
 - [&lpar;AI&rpar; Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
+- [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
 - [In the Australian outback, we&#39;re listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
-- [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
-- [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
-- [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
