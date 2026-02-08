@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
+- [LineageOS 23.2](https://lineageos.org/Changelog-31/)
+- [Roger Ebert Reviews &quot;The Shawshank Redemption&quot;](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
+- [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
 - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
-- [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
-- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
+- [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
