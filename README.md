@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Particle Physics Dead, Dying, or Just Hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
+- [LiftKit – UI where &quot;everything derives from the golden ratio&quot;](https://www.chainlift.io/liftkit)
 - [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
 - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 - [Upcoming changes to Let&#39;s Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
-- [MIT Living Wage Calculator](https://livingwage.mit.edu/)
-- [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
