@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
-- [Irish man detained by ICE for 5 months](https://www.rte.ie/news/ireland/2026/0209/1557514-seamus-culleton/)
-- [Why is Singapore no longer &quot;cool&quot;?](https://marginalrevolution.com/marginalrevolution/2026/02/why-is-singapore-no-longer-cool.html)
-- [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
-- [GitHub Is Down](https://github.com/)
+- [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
+- [This Whistle Fights Fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)
+- [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
+- [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)
+- [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
