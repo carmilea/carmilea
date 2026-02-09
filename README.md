@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MRFF says US Military members were &#39;pressured&#39; by commanders to see &#39;Melania&#39;](https://www.businessinsider.com/us-military-members-pressured-to-see-melania-documentary-mrff-2026-2)
+- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
+- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
 - [Toma &lpar;YC W24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
-- [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization &lpar;2025&rpar;](https://arxiv.org/abs/2510.25417)
-- [Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
-- [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
