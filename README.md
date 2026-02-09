@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
+- [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
 - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 - [Upcoming changes to Let&#39;s Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
 - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
