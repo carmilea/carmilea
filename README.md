@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
-- [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
-- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
-- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
+- [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
+- [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
+- [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
+- [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
+- [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
