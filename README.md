@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
-- [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
-- [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
-- [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
-- [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
+- [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
+- [Long-Sought Proof Tames Some of Math&#39;s Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
+- [AT&amp;T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/)
+- [Humans peak in midlife: A combined cognitive and personality trait perspective](https://www.sciencedirect.com/science/article/pii/S0160289625000649)
+- [Can Ozempic Cure Addiction?](https://www.newyorker.com/magazine/2026/02/16/can-ozempic-cure-addiction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
