@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hong Kong pro-democracy tycoon Jimmy Lai gets 20 years&#39; jail](https://www.bbc.com/news/articles/c8d5pl34vv0o)
-- [Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM](https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp)
-- [AI Doesn&#39;t Reduce Work–It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
-- [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
-- [Long-Sought Proof Tames Some of Math&#39;s Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
+- [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
+- [Irish man detained by ICE for 5 months](https://www.rte.ie/news/ireland/2026/0209/1557514-seamus-culleton/)
+- [Why is Singapore no longer &quot;cool&quot;?](https://marginalrevolution.com/marginalrevolution/2026/02/why-is-singapore-no-longer-cool.html)
+- [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
+- [GitHub Is Down](https://github.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
