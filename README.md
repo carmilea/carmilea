@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+- [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+- [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
+- [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
-- [This Whistle Fights Fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)
-- [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
-- [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)
-- [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
