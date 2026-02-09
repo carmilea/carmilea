@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
+- [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
 - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
-- [NanoClaw now supports Claude&#39;s Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
+- [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
-- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
