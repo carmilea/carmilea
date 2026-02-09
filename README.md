@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MRFF says US Military members were &#39;pressured&#39; by commanders to see &#39;Melania&#39;](https://www.businessinsider.com/us-military-members-pressured-to-see-melania-documentary-mrff-2026-2)
+- [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+- [NanoClaw now supports Claude&#39;s Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
 - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
 - [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 - [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
-- [Toma &lpar;YC W24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
 <!-- BLOG-POST-LIST:END -->
 
 ---
