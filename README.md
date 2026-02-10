@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
+- [Toyotas and Terrorists: &quot;Why are ISIS&#39;s trucks better than ours?&quot;](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
+- [China&#39;s Data Center Boom: A View from Zhangjiakou &lpar;2025&rpar;](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
+- [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
 - [Launch HN: Livedocs &lpar;YC W22&rpar; – An AI-native notebook for data analysis](https://livedocs.com)
-- [Show HN: Showboat and Rodney, so agents can demo what they&#39;ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)
-- [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
-- [Google Handed ICE Student Journalist&#39;s Bank and Credit Card Numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
-- [ClawHub](https://clawhub.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
