@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrap Labs – Metal 3D Printer](https://www.scraplabs3d.com/)
+- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
 - [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
-- [Toyotas and Terrorists: &quot;Why are ISIS&#39;s trucks better than ours?&quot;](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
-- [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
-- [China&#39;s Data Center Boom: A View from Zhangjiakou &lpar;2025&rpar;](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
-- [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
+- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
+- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
