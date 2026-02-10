@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brutalist Southbank Centre Listed](https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals)
+- [The Epstein Network Visualizer](https://epsteinvisualizer.com/)
+- [Grindr trials premium $500 per month plan to become &#39;AI-first&#39; app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/)
+- [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
+- [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- [Rust implementation of Mistral&#39;s Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-- [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
-- [Zulip.com Values](https://zulip.com/values/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
