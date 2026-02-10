@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made paperboat.website, a platform for friends and creativity](https://paperboat.website/home/)
-- [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
-- [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
-- [I started programming when I was 7. I&#39;m 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
-- [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
+- [Launch HN: Livedocs &lpar;YC W22&rpar; – An AI-native notebook for data analysis](https://livedocs.com)
+- [Show HN: Showboat and Rodney, so agents can demo what they&#39;ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)
+- [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
+- [Google Handed ICE Student Journalist&#39;s Bank and Credit Card Numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
+- [ClawHub](https://clawhub.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
