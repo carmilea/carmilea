@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Particle Physics Dead, Dying, or Just Hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
+- [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o)
+- [Rust implementation of Mistral&#39;s Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+- [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
+- [The number of abandoned oil tankers and other commercial ships has shot up](https://www.bbc.com/news/articles/cddg885344do)
 - [LiftKit – UI where &quot;everything derives from the golden ratio&quot;](https://www.chainlift.io/liftkit)
-- [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
-- [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
-- [Upcoming changes to Let&#39;s Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
