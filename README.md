@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)
+- [Vercel&#39;s CEO offers to cover expenses of &#39;Jmail&#39;](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
+- [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
+- [Jury told that Meta, Google &#39;engineered addiction&#39; at landmark US trial](https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html)
+- [Simplifying Vulkan One Subsystem at a Time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
-- [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
-- [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
-- [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
