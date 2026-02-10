@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel&#39;s CEO offers to cover expenses of &#39;Jmail&#39;](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
-- [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
-- [Jury told that Meta, Google &#39;engineered addiction&#39; at landmark US trial](https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html)
-- [Simplifying Vulkan One Subsystem at a Time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
-- [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
+- [Show HN: I made paperboat.website, a platform for friends and creativity](https://paperboat.website/home/)
+- [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
+- [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
+- [I started programming when I was 7. I&#39;m 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
+- [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
