@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator CEO Garry Tan launches dark-money group to influence CA politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/)
+- [Apple&#39;s Siri revamp reportedly delayed again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
+- [Q&amp;A: New UK onshore wind and solar is &#39;50% cheaper&#39; than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/)
+- [US decides SpaceX is like an airline, exempting it from Labor Relations Act](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 - [Microwave Oven Failure: Spontaneously turned on by its LED display &lpar;2024&rpar;](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 - [Paragon accidentally uploaded a photo of its spyware control panel](https://twitter.com/DrWhax/status/2021608609595945442)
-- [iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day](https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/)
-- [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
