@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 - [Apple&#39;s Siri revamp reportedly delayed again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
 - [Q&amp;A: New UK onshore wind and solar is &#39;50% cheaper&#39; than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/)
-- [US decides SpaceX is like an airline, exempting it from Labor Relations Act](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
-- [Microwave Oven Failure: Spontaneously turned on by its LED display &lpar;2024&rpar;](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
-- [Paragon accidentally uploaded a photo of its spyware control panel](https://twitter.com/DrWhax/status/2021608609595945442)
+- [US labels SpaceX a common carrier by air, will regulate firm under railway law](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+- [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
