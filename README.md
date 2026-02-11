@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA says companies can claim &quot;no artificial colors&quot; if they use natural dyes](https://www.foodpolitics.com/2026/02/fda-says-food-companies-can-claim-no-artificial-colors-if-they-use-natural-dyes/)
-- [Show HN: Renovate – The Kubernetes-Native Way](https://github.com/mogenius/renovate-operator)
-- [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
-- [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
-- [Show HN: Musical Interval Trainer](https://valtterimaja.github.io/musical-interval-trainer/)
+- [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
+- [Ireland rolls out pioneering basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)
+- [NanoClaw solves one of OpenClaw&#39;s biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
+- [U.S. had almost no job growth in 2025](https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398)
+- [Railway &lpar;PaaS&rpar; Global Outage](https://status.railway.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
