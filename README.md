@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+- [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
+- [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
+- [Chrome extensions spying on 37M users&#39; browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
 - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
-- [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
-- [CoLoop &lpar;YC S21&rpar; Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
-- [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
