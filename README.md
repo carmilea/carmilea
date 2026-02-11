@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
+- [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
 - [CoLoop &lpar;YC S21&rpar; Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
+- [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 - [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
-- [Stay Hungry, Stay Foolish &lpar;2005&rpar;](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish)
-- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
-- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
