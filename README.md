@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank You, AI](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
+- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
+- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
-- [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
-- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
-- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
