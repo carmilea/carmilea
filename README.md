@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thank You, AI](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
-- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
-- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
-- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
+- [Data Lakehouses Are Being Redefined by Real-Time Expectations](https://www.singlestore.com/blog/data-lakehouses-are-being-redefined-by-real-time-expectations)
+- [When “Where’s My Package?” Turns Into a Real Time Logistics Analytics Problem](https://www.singlestore.com/blog/when-where-s-my-package-turns-into-a-real-time-logistic-analytics-problem)
+- [Load Data from S3 Without Static Credentials](https://www.singlestore.com/blog/load-data-from-s3-without-static-credentials)
+- [Why Data Speed Sets SalesTech Companies Apart &lpar;and What to Do About It&rpar;](https://www.singlestore.com/blog/why-data-speed-sets-salestech-companies-apart)
+- [SingleStore vs. the Classic Data Stack: Why Real-Time and AI Break Patchwork Architectures](https://www.singlestore.com/blog/singlestore-vs-the-classic-data-stack-why-real-time-and-ai-break-patchwork-architectures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
