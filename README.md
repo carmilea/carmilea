@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
+- [FAA Halts All Flights at El Paso Airport for 10 Days](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+- [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
 - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
 - [CoLoop &lpar;YC S21&rpar; Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
 - [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
-- [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
 <!-- BLOG-POST-LIST:END -->
 
 ---
