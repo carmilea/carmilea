@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Did the FBI Get Nancy Guthrie&#39;s Nest Doorbell Footage?](https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage)
-- [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
-- [NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html)
-- [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
-- [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
+- [Y Combinator CEO Garry Tan launches dark-money group to influence CA politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/)
+- [Microwave Oven Failure: Spontaneously turned on by its LED display &lpar;2024&rpar;](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
+- [Paragon accidentally uploaded a photo of its spyware control panel](https://twitter.com/DrWhax/status/2021608609595945442)
+- [iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day](https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/)
+- [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
