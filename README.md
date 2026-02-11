@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Did the FBI Get Nancy Guthrie&#39;s Nest Doorbell Footage?](https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage)
+- [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
+- [NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html)
+- [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
 - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
-- [Ireland rolls out pioneering basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)
-- [NanoClaw solves one of OpenClaw&#39;s biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
-- [U.S. had almost no job growth in 2025](https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398)
-- [Railway &lpar;PaaS&rpar; Global Outage](https://status.railway.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
