@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
+- [ICE, CBP Knew Facial Recognition App Couldn&#39;t Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
+- [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
+- [What&#39;s the difference between a &quot;disc&quot; and a &quot;disk&quot;?](https://support.apple.com/en-gb/100749)
 - [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
-- [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
-- [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
-- [Rari – Rust-powered React framework](https://rari.build/)
-- [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
