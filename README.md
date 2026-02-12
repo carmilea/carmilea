@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Omnara &lpar;YC S25&rpar; – Run Claude Code and Codex from Anywhere](https://news.ycombinator.com/item?id=46991591)
+- [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
+- [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+- [Show HN: Pgclaw – A &quot;Clawdbot&quot; in every row with 400 lines of Postgres SQL](https://github.com/calebwin/pgclaw)
+- [Launch HN: Omnara &lpar;YC S25&rpar; – Run Claude Code and Codex from anywhere](https://news.ycombinator.com/item?id=46991591)
 - [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
-- [ai;dr](https://www.0xsid.com/blog/aidr)
-- [Gemini 3 Deep Think](https://twitter.com/GoogleDeepMind/status/2021981510400709092)
-- [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
