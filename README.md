@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
+- [From specification to stress test: a weekend with Claude](https://www.juxt.pro/blog/from-specification-to-stress-test/)
+- [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
+- [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)
 - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 - [D Programming Language](https://dlang.org/)
-- [How to make a living as an artist](https://essays.fnnch.com/make-a-living)
-- [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
