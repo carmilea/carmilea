@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Double blind entropy using Drand for verifiably fair randomness](https://blockrand.net/live.html)
+- [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
+- [D Programming Language](https://dlang.org/)
+- [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
 - [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
 - [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
-- [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
-- [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
