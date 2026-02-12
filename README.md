@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From specification to stress test: a weekend with Claude](https://www.juxt.pro/blog/from-specification-to-stress-test/)
+- [Long March-10 in-flight abort and rocket landing demostration [video]](https://www.youtube.com/watch?v=1huIM_ip6bQ)
+- [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
 - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
-- [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)
 - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 - [D Programming Language](https://dlang.org/)
 <!-- BLOG-POST-LIST:END -->
