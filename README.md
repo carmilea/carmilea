@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Email is tough: Major European Payment Processor&#39;s Emails aren&#39;t RFC-Compliant](https://atha.io/blog/2026-02-12-viva)
-- [The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware](https://lwn.net/Articles/1055590/)
-- [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
-- [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
-- [America&#39;s Cyber Defense Agency Is Burning Down and Nobody&#39;s Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
+- [Why AI Breaks Down Without Real-Time Data in Defense Operations](https://www.singlestore.com/blog/why-ai-breaks-down-without-real-time-data-in-defense-operations)
+- [Texas Lawmakers Sound Alarm on &#39;Torture, Killing, and Inhumane Treatment&#39;](https://www.commondreams.org/news/fort-bliss-inhumane-ice-conditions)
+- [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
+- [Email is tough: Major European Payment Processor&#39;s Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)
+- [TikTok is tracking you, even if you don&#39;t use the app](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
