@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Email is tough: Major European Payment Processor&#39;s Emails aren&#39;t RFC-Compliant](https://atha.io/blog/2026-02-12-viva)
+- [The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware](https://lwn.net/Articles/1055590/)
+- [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
+- [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
 - [America&#39;s Cyber Defense Agency Is Burning Down and Nobody&#39;s Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
-- [The &quot;Crown of Nobles&quot; Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
-- [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
-- [Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
-- [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
