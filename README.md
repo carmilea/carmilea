@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
-- [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
-- [Show HN: Pgclaw – A &quot;Clawdbot&quot; in every row with 400 lines of Postgres SQL](https://github.com/calebwin/pgclaw)
-- [Launch HN: Omnara &lpar;YC S25&rpar; – Run Claude Code and Codex from anywhere](https://news.ycombinator.com/item?id=46991591)
-- [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
+- [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
+- [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
+- [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
+- [Rari – Rust-powered React framework](https://rari.build/)
+- [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
