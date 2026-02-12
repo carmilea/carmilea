@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
+- [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
 - [ICE, CBP Knew Facial Recognition App Couldn&#39;t Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
 - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
-- [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
-- [Rari – Rust-powered React framework](https://rari.build/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
