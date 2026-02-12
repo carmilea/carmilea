@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=H1dw0akh95s)
-- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=aXU84hvU-io)
-- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
-- [Understanding Model Context Protocol &lpar;MCP&rpar;: Automate Database Operations!](https://www.youtube.com/watch?v=A4IVAKFaOrU)
-- [Understanding AI Agents and Agentic Systems | Build Agentic AI Apps with SingleStore](https://www.youtube.com/watch?v=blBOYrh3vxA)
+- [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
+- [Live from Nasdaq Marketsite: Sri Ambati &lpar;H2O.ai&rpar; and Dan Jermyn &lpar;CBA&rpar;](https://www.youtube.com/watch?v=h_LF9_UpXFY)
+- [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
+- [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
+- [AI Assisted Bug Fixes using h2oGPTe Action](https://www.youtube.com/watch?v=ZYJRTD-SID0)
 <!-- YOUTUBE:END -->
 
 
