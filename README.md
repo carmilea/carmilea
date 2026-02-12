@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Breaks Down Without Real-Time Data in Defense Operations](https://www.singlestore.com/blog/why-ai-breaks-down-without-real-time-data-in-defense-operations)
-- [Texas Lawmakers Sound Alarm on &#39;Torture, Killing, and Inhumane Treatment&#39;](https://www.commondreams.org/news/fort-bliss-inhumane-ice-conditions)
-- [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
-- [Email is tough: Major European Payment Processor&#39;s Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)
-- [TikTok is tracking you, even if you don&#39;t use the app](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
+- [Launch HN: Omnara &lpar;YC S25&rpar; – Run Claude Code and Codex from Anywhere](https://news.ycombinator.com/item?id=46991591)
+- [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
+- [ai;dr](https://www.0xsid.com/blog/aidr)
+- [Gemini 3 Deep Think](https://twitter.com/GoogleDeepMind/status/2021981510400709092)
+- [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
