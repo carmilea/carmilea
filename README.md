@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long March-10 in-flight abort and rocket landing demostration [video]](https://www.youtube.com/watch?v=1huIM_ip6bQ)
-- [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
-- [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
-- [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
-- [D Programming Language](https://dlang.org/)
+- [America&#39;s Cyber Defense Agency Is Burning Down and Nobody&#39;s Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
+- [The &quot;Crown of Nobles&quot; Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
+- [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
+- [Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
+- [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
