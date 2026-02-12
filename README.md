@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Double blind entropy using Drand for verifiably fair randomness](https://blockrand.net/live.html)
+- [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
 - [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
+- [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
 - [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
-- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
-- [Covering electricity price increases from our data centers](https://www.anthropic.com/news/covering-electricity-price-increases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
