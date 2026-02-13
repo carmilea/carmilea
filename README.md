@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI safety leader says &#39;world is in peril&#39; and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
-- [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
-- [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
-- [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
-- [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
+- [OpenAI has deleted the word &#39;safely&#39; from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
+- [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book)
+- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
+- [Something Big Is &lpar;Not&rpar; Happening](https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html)
+- [The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
