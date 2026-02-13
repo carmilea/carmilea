@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-- [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
-- [Gauntlet AI &lpar;YC S17&rpar; train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
-- [Monosketch](https://monosketch.io/)
-- [colorForth](https://colorforth.github.io/cf.htm)
+- [What Drives Stock Market Returns?](https://outlookzen.com/2018/10/27/where-do-stock-market-returns-come-from/)
+- [Show HN: I speak 5 languages. Duolingo taught me none. So I built lairner](https://lairner.com)
+- [Open Source Is Not About You &lpar;2018&rpar;](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
+- [Apple, fix my keyboard before the timer ends or I&#39;m leaving iPhone](https://ios-countdown.win/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
