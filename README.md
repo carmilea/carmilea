@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
 - [Gauntlet AI &lpar;YC S17&rpar; train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
 - [Monosketch](https://monosketch.io/)
-- [US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)
-- [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
-- [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
+- [colorForth](https://colorforth.github.io/cf.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
