@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CBP Signs Clearview AI Deal to Use Face Recognition for &#39;Tactical Targeting&#39;](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
-- [Good Riddance, 4o](https://mahadk.com/posts/4o)
 - [I spent two days gigging at RentAHuman and didn&#39;t make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
-- [I ditched OpenClaw and built a more secure AI agent &lpar;Blink and Mac Mini&rpar;](https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini)
+- [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
 - [Open Source Is Not About You &lpar;2018&rpar;](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
