@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)
-- [Inside Epstein’s network: what 1.4M emails reveal](https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network)
+- [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)
+- [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
 - [Skip the Tips: A game to select &quot;No Tip&quot; but dark patterns try to stop you](https://skipthe.tips/)
 - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
 - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
