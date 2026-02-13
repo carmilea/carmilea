@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CBP Signs Clearview AI Deal to Use Face Recognition for &#39;Tactical Targeting&#39;](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+- [Good Riddance, 4o](https://mahadk.com/posts/4o)
 - [I spent two days gigging at RentAHuman and didn&#39;t make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
-- [What Drives Stock Market Returns?](https://outlookzen.com/2018/10/27/where-do-stock-market-returns-come-from/)
+- [I ditched OpenClaw and built a more secure AI agent &lpar;Blink and Mac Mini&rpar;](https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini)
 - [Open Source Is Not About You &lpar;2018&rpar;](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-- [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
-- [Apple, fix my keyboard before the timer ends or I&#39;m leaving iPhone](https://ios-countdown.win/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
