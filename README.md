@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI safety leader says &#39;world is in peril&#39; and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
 - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
 - [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
-- [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
 <!-- BLOG-POST-LIST:END -->
 
 ---
