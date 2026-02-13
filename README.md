@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WolfSSL Sucks Too, So Now What?](https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/)
+- [Gauntlet AI &lpar;YC S17&rpar; train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
+- [Monosketch](https://monosketch.io/)
+- [US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)
 - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
-- [Asimov &lpar;YC W26&rpar; Is Hiring](https://news.ycombinator.com/item?id=46999753)
 - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
-- [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
