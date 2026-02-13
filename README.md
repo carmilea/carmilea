@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there a no-LLM license yet?](https://news.ycombinator.com/item?id=47000737)
 - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 - [Asimov &lpar;YC W26&rpar; Is Hiring](https://news.ycombinator.com/item?id=46999753)
 - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
 - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
-- [Skip the Tips: A game to select &quot;No Tip&quot; but dark patterns try to stop you](https://skipthe.tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
