@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
-- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
-- [Audiophiles Can&#39;t Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator)
-- [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
-- [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
+- [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
+- [Gamma Function: Visualization for Complex Arguments](https://vanilla-gamma-graph.netlify.app/)
+- [A header-only C vector database library](https://github.com/abdimoallim/vdb)
+- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
