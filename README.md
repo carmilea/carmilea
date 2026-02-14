@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)
+- [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 - [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
 - [Vim 9.2 Released](https://www.vim.org/vim-9.2-released.php)
 - [My smart sleep mask broadcasts users&#39; brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
-- [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
-- [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
