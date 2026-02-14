@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
+- [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+- [How many registers does an x86-64 CPU have? &lpar;2020&rpar;](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
+- [Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says](https://www.bbc.com/news/articles/cwyk4lz4e3eo)
 - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
-- [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
-- [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
-- [Cogram &lpar;YC W22&rpar; – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
-- [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
