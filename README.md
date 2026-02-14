@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can&#39;t trust the internet anymore](https://nicole.express/2026/not-my-casual-hobby.html)
+- [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
+- [Descent, Ported to the Web](https://mrdoob.github.io/three-descent/)
 - [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 - [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
-- [Gamma Function: Visualization for Complex Arguments](https://vanilla-gamma-graph.netlify.app/)
-- [A header-only C vector database library](https://github.com/abdimoallim/vdb)
-- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
