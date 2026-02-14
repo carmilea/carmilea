@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
-- [You can&#39;t trust the internet anymore](https://nicole.express/2026/not-my-casual-hobby.html)
 - [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
+- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
