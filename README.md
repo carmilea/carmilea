@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
+- [Epstein&#39;s Ugly World of Science](https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/)
+- [Golf game built last night with Claude Code, Svelte and ThreeJS](https://www.the-golf-is-golfing.com)
 - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
-- [How many registers does an x86-64 CPU have? &lpar;2020&rpar;](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
-- [Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says](https://www.bbc.com/news/articles/cwyk4lz4e3eo)
-- [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 <!-- BLOG-POST-LIST:END -->
 
 ---
