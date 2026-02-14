@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI bot crabby-rathbun is still polluting open source](https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/)
+- [What dating apps are optimizing. Hint: It isn&#39;t love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html)
+- [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 - [OpenAI has deleted the word &#39;safely&#39; from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
 - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
-- [The &quot;AI agent hit piece&quot; situation clarifies how dumb we are acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
