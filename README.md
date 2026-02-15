@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
-- [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
-- [&lpar;Ars&rpar; Editor&#39;s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
-- [Palantir Gets Millions of Dollars from New York City&#39;s Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
-- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+- [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)
+- [Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents](https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling)
+- [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
+- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
+- [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
