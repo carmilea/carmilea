@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
+- [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
-- [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
 - [Discord Distances Itself from Peter Thiel&#39;s Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
-- [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
