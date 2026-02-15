@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ex-Tech –&gt; Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
+- [Discord Distances Itself from Peter Thiel&#39;s Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
 - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
-- [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)
 - [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)
 - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 <!-- BLOG-POST-LIST:END -->
