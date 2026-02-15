@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
+- [Continuous batching from first principles &lpar;2025&rpar;](https://huggingface.co/blog/continuous_batching)
+- [Magnus Carlsen Wins the Freestyle &lpar;Chess960&rpar; World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
 - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
-- [I need AI that scans every PR and issue and de-dupes](https://twitter.com/steipete/status/2023057089346580828)
-- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
-- [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
