@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)
+- [Dutch Defence Secretary Boldly Claims F-35 Software Could Be &#39;Jailbroken&#39;](https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/)
+- [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
+- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
 - [Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents](https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling)
 - [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
-- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
-- [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
