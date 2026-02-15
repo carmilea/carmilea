@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
 - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
+- [&lpar;Ars&rpar; Editor&#39;s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
 - [Palantir Gets Millions of Dollars from New York City&#39;s Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
 - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
-- [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
-- [Palantir vs. the &quot;Republik&quot;: US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
