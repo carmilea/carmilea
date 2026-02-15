@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Perlin Noise Terminal Animation in Rust &lpar;60 FPS, Truecolor&rpar;](https://github.com/denisepattenson/perlin-terminal)
+- [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
+- [Kimi Claw](https://www.kimi.com/bot)
 - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 - [Reversed engineered game Starflight &lpar;1986&rpar;](https://github.com/s-macke/starflight-reverse)
 - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
-- [A Pokémon of a Different Color](https://matthew.verive.me/blog/color/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
