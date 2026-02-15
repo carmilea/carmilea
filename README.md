@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Perlin Noise Terminal Animation in Rust &lpar;60 FPS, Truecolor&rpar;](https://github.com/denisepattenson/perlin-terminal)
 - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
+- [Reversed engineered game Starflight &lpar;1986&rpar;](https://github.com/s-macke/starflight-reverse)
 - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
-- [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
-- [Seeing Theory](https://seeing-theory.brown.edu/)
-- [Discord Distances Itself from Peter Thiel&#39;s Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
+- [A Pokémon of a Different Color](https://matthew.verive.me/blog/color/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
