@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
+- [Git is a file system. We need a database for the code](https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
 - [No Coding Before 10am](https://michaelxbloch.substack.com/p/no-coding-before-10am)
 - [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
-- [Discord Distances Itself from Peter Thiel&#39;s Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
-- [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
