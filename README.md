@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+- [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
+- [Palantir vs. the &quot;Republik&quot;: US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)
 - [Hideki Sato, designer of all Sega&#39;s consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
-- [Wall Street could seize your retirement savings in the next financial crash](https://www.foxnews.com/opinion/wall-street-could-seize-your-retirement-savings-next-financial-crash-its-perfectly-legal)
 - [An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)
-- [Inner-Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
-- [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
