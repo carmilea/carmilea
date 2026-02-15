@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
+- [Palantir Gets Millions of Dollars from New York City&#39;s Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
 - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
 - [Palantir vs. the &quot;Republik&quot;: US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)
-- [Hideki Sato, designer of all Sega&#39;s consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
-- [An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
