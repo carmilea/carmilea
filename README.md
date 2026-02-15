@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
-- [Kimi Claw](https://www.kimi.com/bot)
+- [Hideki Sato, designer of all Sega&#39;s consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
+- [Wall Street could seize your retirement savings in the next financial crash](https://www.foxnews.com/opinion/wall-street-could-seize-your-retirement-savings-next-financial-crash-its-perfectly-legal)
+- [An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)
+- [Inner-Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
-- [Reversed engineered game Starflight &lpar;1986&rpar;](https://github.com/s-macke/starflight-reverse)
-- [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
