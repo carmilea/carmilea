@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebMCP Proposal](https://webmachinelearning.github.io/webmcp/)
+- [How to take a photo with scotch tape &lpar;lensless imaging&rpar; [video]](https://www.youtube.com/watch?v=97f0nfU5Px0)
 - [Show HN: Simple org-mode web adapter](https://github.com/SpaceTurth/Org-Web-Adapter)
-- [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
-- [iOS 27 &#39;Rave&#39; Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
+- [Show HN: Maths, CS and AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 - [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
-- [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
