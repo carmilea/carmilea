@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
+- [Ministry of Justice orders deletion of the UK&#39;s largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
 - [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 - [The Israeli spyware firm that accidentally just exposed itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
 - [Anthropic tries to hide Claude&#39;s AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
-- [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
-- [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
