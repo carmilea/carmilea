@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
 - [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
 - [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
+- [Why I don&#39;t think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-- [Continuous batching from first principles &lpar;2025&rpar;](https://huggingface.co/blog/continuous_batching)
-- [Magnus Carlsen Wins the Freestyle &lpar;Chess960&rpar; World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
