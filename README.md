@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
+- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
 - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 - [Continuous batching from first principles &lpar;2025&rpar;](https://huggingface.co/blog/continuous_batching)
 - [Magnus Carlsen Wins the Freestyle &lpar;Chess960&rpar; World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
