@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
+- [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
+- [I guess I kinda get why people hate AI](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 - [WebMCP Proposal](https://webmachinelearning.github.io/webmcp/)
 - [How to take a photo with scotch tape &lpar;lensless imaging&rpar; [video]](https://www.youtube.com/watch?v=97f0nfU5Px0)
-- [Show HN: Simple org-mode web adapter](https://github.com/SpaceTurth/Org-Web-Adapter)
-- [Show HN: Maths, CS and AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
-- [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
