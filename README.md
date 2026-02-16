@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+- [10 years building vertical software: are we cooked?](https://twitter.com/nicbstme/status/2023501562480644501)
+- [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
 - [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
 - [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
-- [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
-- [Turing Labs &lpar;YC W20&rpar; Is Hiring – Founding GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
-- [Suicide Linux &lpar;2009&rpar;](https://qntm.org/suicide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
