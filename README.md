@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
-- [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
-- [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
-- [Wero – Digital payment wallet, made in Europe](https://wero-wallet.eu)
-- [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
+- [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+- [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
+- [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
+- [Turing Labs &lpar;YC W20&rpar; Is Hiring – GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
+- [Suicide Linux &lpar;2009&rpar;](https://qntm.org/suicide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
