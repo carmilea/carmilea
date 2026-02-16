@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 27 &#39;Rave&#39; Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
+- [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
+- [The Sideprocalypse](https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/)
 - [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
 - [Ministry of Justice orders deletion of the UK&#39;s largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
-- [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
-- [The Israeli spyware firm that accidentally just exposed itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
-- [Anthropic tries to hide Claude&#39;s AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
