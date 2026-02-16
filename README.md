@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
+- [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
+- [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
 - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
-- [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
-- [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
-- [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
+- [Wero – Digital payment wallet, made in Europe](https://wero-wallet.eu)
+- [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
