@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Long-term unemployment is becoming &#39;a status quo&#39; in today&#39;s job market](https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html)
 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- [AI is destroying Open Source, and it&#39;s not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
 - [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
+- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
