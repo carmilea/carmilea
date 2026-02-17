@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s Pensions Can&#39;t Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
-- [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
-- [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
-- [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
-- [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
+- [Trata &lpar;YC W25&rpar; Is Hiring Founding Engineers &lpar;NYC&rpar;](https://news.ycombinator.com/item?id=47049744)
+- [HackMyClaw](https://hackmyclaw.com/)
+- [Show HN: I built a simulated AI containment terminal for my sci-fi novel](https://vertex.flowlogix.ai)
+- [CBS didn&#39;t air Rep. James Talarico interview out of fear of FCC](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+- [Show HN: Cycast – High-performance radio streaming server written in Python](https://github.com/LukeB42/Cycast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
