@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-term unemployment is becoming &#39;a status quo&#39; in today&#39;s job market](https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html)
+- [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+- [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
+- [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
+- [Instagram boss says 16 hours of daily use is &#39;problematic&#39; not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo)
 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
-- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
-- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
