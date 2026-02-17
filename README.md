@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
 - [Show HN: I&#39;m launching a LPFM radio station](https://www.kpbj.fm/)
+- [Property taxes going up? The 340B Program might be partly responsible](https://www.pricepoints.health/cp/188296406)
 - [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
 - [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
-- [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
-- [Tesla &#39;Robotaxi&#39; adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
