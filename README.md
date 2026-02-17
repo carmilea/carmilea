@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
-- [Approaches to writing two-sentence journal entries](https://alexanderbjoy.com/two-sentence-journal-approaches/)
+- [Run LLMs locally in Flutter with &lt;200ms latency](https://github.com/ramanujammv1988/edge-veda)
+- [pg_background: Make Postgres do the long work &lpar;while your session stays light&rpar;](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
+- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
 - [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
 - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
-- [Show HN: I&#39;m launching a LPFM radio station](https://www.kpbj.fm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
