@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
+- [America&#39;s Pensions Can&#39;t Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
+- [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
 - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
-- [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
