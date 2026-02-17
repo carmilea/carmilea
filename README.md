@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
+- [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
-- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
