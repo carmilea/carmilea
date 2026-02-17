@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
-- [Is Show HN Dead? No, but It&#39;s Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
-- [SvarDOS – an open-source DOS distribution](http://svardos.org/)
 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
+- [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
+- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
