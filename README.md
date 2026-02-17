@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
+- [Approaches to writing two-sentence journal entries](https://alexanderbjoy.com/two-sentence-journal-approaches/)
 - [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
+- [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 - [Show HN: I&#39;m launching a LPFM radio station](https://www.kpbj.fm/)
-- [Property taxes going up? The 340B Program might be partly responsible](https://www.pricepoints.health/cp/188296406)
-- [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
-- [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
