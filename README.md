@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Show HN Dead? No, but It&#39;s Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
+- [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 - [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)
+- [Japan Is What Late-Stage Capitalist Decline Looks Like](https://oceandrops.substack.com/p/japan-is-what-late-stage-capitalist)
 - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
-- [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
-- [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
-- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
