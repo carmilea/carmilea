@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 - [Is Show HN Dead? No, but It&#39;s Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
-- [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)
-- [Japan Is What Late-Stage Capitalist Decline Looks Like](https://oceandrops.substack.com/p/japan-is-what-late-stage-capitalist)
 - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+- [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
