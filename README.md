@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
-- [10 years building vertical software: are we cooked?](https://twitter.com/nicbstme/status/2023501562480644501)
-- [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
-- [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
-- [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
+- [Facing a demographic catastrophe, Ukraine is paying for troops to freeze sperm](https://www.bbc.com/news/articles/cqxd9549y4xo)
+- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+- [AI is destroying Open Source, and it&#39;s not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
+- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
