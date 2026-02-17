@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
-- [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
-- [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
-- [Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School](https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/)
-- [Can a Computer Science Student Be Taught to Design Hardware?](https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/)
+- [Show HN: I&#39;m launching a LPFM radio station](https://www.kpbj.fm/)
+- [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
+- [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+- [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
+- [Tesla &#39;Robotaxi&#39; adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
