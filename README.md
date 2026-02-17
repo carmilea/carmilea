@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+- [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 - [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
-- [Instagram boss says 16 hours of daily use is &#39;problematic&#39; not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo)
 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
 <!-- BLOG-POST-LIST:END -->
 
