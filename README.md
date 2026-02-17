@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trata &lpar;YC W25&rpar; Is Hiring Founding Engineers &lpar;NYC&rpar;](https://news.ycombinator.com/item?id=47049744)
-- [HackMyClaw](https://hackmyclaw.com/)
-- [Show HN: I built a simulated AI containment terminal for my sci-fi novel](https://vertex.flowlogix.ai)
-- [CBS didn&#39;t air Rep. James Talarico interview out of fear of FCC](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
-- [Show HN: Cycast – High-performance radio streaming server written in Python](https://github.com/LukeB42/Cycast)
+- [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+- [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
+- [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
+- [Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School](https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/)
+- [Can a Computer Science Student Be Taught to Design Hardware?](https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
