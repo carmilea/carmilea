@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stardex &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
+- [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
+- [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
+- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 - [Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of &lpar;2021&rpar;](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
-- [It&#39;s not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
-- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
-- [Advice, not control: the role of Remote Assistance in Waymo&#39;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
-- [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
