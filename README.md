@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weave &lpar;YC W25&rpar; Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave)
-- [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
-- [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
-- [Why AI Velocity Is Becoming a Debt Accelerator](https://martinfowler.com/fragments/2026-02-18.html)
-- [Garment Notation Language: Formal descriptive language for clothing construction](https://github.com/khalildh/garment-notation)
+- [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
+- [Activeloop &lpar;YC S18&rpar; Is Hiring Back End Engineer &lpar;Go&rpar;](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)
+- [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
+- [Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/)
+- [Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
