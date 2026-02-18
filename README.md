@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
+- [OpenAI, the US government, and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
+- [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 - [Stardex &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
 - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
-- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
