@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
+- [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
+- [Zep AI &lpar;Building the Context Graph, YC W24&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
+- [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling)
 - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
-- [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
-- [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
-- [Stardex &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-- [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
