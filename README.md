@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
 - [Metriport &lpar;YC S22&rpar; is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
+- [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
 - [There is unequivocal evidence that Earth is warming &lpar;2024&rpar;](https://science.nasa.gov/climate-change/evidence/)
-- [Show HN: Strava for Claude Code](https://straude.com/)
 - [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
-- [A solver for Semantle](https://victoriaritvo.com/blog/semantle-solver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
