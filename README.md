@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLMs locally in Flutter with &lt;200ms latency](https://github.com/ramanujammv1988/edge-veda)
-- [pg_background: Make Postgres do the long work &lpar;while your session stays light&rpar;](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
-- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
-- [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
-- [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
+- [It&#39;s not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
+- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+- [Advice, not control: the role of Remote Assistance in Waymo&#39;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
+- [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
+- [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
