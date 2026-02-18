@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The political effects of X&#39;s feed algorithm](https://werd.io/the-political-effects-of-xs-feed-algorithm/)
-- [There is unequivocal evidence that Earth is warming](https://science.nasa.gov/climate-change/evidence/)
+- [Metriport &lpar;YC S22&rpar; is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
+- [There is unequivocal evidence that Earth is warming &lpar;2024&rpar;](https://science.nasa.gov/climate-change/evidence/)
 - [Show HN: Strava for Claude Code](https://straude.com/)
 - [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
 - [A solver for Semantle](https://victoriaritvo.com/blog/semantle-solver/)
