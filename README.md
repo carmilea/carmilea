@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: VectorNest responsive web-based SVG editor](https://ekrsulov.github.io/vectornest/)
-- [Show HN: Axiom – A math-native OS where x² is valid syntax &lpar;built from scratch&rpar;](https://fawazishola.ca/axiom/)
-- [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
-- [Show HN: CEL by Example](https://celbyexample.com/)
-- [Mark Zuckerberg Lied to Congress. We Can&#39;t Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
+- [Weave &lpar;YC W25&rpar; Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave)
+- [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
+- [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
+- [Why AI Velocity Is Becoming a Debt Accelerator](https://martinfowler.com/fragments/2026-02-18.html)
+- [Garment Notation Language: Formal descriptive language for clothing construction](https://github.com/khalildh/garment-notation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
