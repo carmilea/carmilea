@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-- [Activeloop &lpar;YC S18&rpar; Is Hiring Back End Engineer &lpar;Go&rpar;](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)
-- [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
-- [Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/)
-- [Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app)
+- [The political effects of X&#39;s feed algorithm](https://werd.io/the-political-effects-of-xs-feed-algorithm/)
+- [There is unequivocal evidence that Earth is warming](https://science.nasa.gov/climate-change/evidence/)
+- [Show HN: Strava for Claude Code](https://straude.com/)
+- [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
+- [A solver for Semantle](https://victoriaritvo.com/blog/semantle-solver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
