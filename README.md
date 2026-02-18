@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 - [Stardex &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-- [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
+- [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
 - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
-- [Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of &lpar;2021&rpar;](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
