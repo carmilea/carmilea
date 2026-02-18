@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of &lpar;2021&rpar;](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 - [It&#39;s not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
 - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 - [Advice, not control: the role of Remote Assistance in Waymo&#39;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
 - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
-- [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
