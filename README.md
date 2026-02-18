@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 - [Stardex &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
-- [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
