@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
+- [AI has fixed my productivity](https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/)
+- [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
+- [Show HN: CEL by Example](https://celbyexample.com/)
+- [Mark Zuckerberg Lied to Congress. We Can&#39;t Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
-- [Zep AI &lpar;Building the Context Graph, YC W24&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
-- [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling)
-- [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
