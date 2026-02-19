@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Old School Visual Effects: The Cloud Tank &lpar;2010&rpar;](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
 - [US funding for global internet freedom &#39;effectively gutted&#39;](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
 - [Stoolap/Node: A Native Node.js Driver That&#39;s Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
-- [European Tech Alternatives](https://eutechmap.com/map)
 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
 <!-- BLOG-POST-LIST:END -->
