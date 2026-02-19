@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America vs. Singapore: You Can&#39;t Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
-- [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
-- [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
-- [Famous Signatures Through History](https://signatory.app/#famous-signatures)
-- [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
+- [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
+- [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+- [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
+- [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+- [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
