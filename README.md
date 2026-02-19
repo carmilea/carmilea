@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
-- [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
-- [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
-- [Why applicant tracking systems are broken by design](https://www.saj.ad/2026/ats)
-- [Choosing a Language Based on Its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
+- [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+- [IRS lost 40% of IT staff, 80% of tech leaders in &#39;efficiency&#39; shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
+- [California&#39;s New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
+- [Techno-cynics are wounded techno-optimists](https://aftermath.site/anthropic-claude-ai-leftist-technology/)
+- [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
