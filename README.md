@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
-- [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
-- [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
-- [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
-- [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
+- [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
+- [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
+- [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
+- [Why applicant tracking systems are broken by design](https://www.saj.ad/2026/ats)
+- [Choosing a Language Based on Its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
