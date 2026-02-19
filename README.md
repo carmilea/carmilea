@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
+- [Famous Signatures Through History](https://signatory.app/#famous-signatures)
+- [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
 - [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
 - [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
-- [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
-- [DOGE Track](https://dogetrack.info/)
-- [Show HN: LatentScore – Type a mood, get procedural/ambient music &lpar;open source&rpar;](https://latentscore.com/demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
