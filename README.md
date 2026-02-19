@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
+- [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
+- [AI is not a coworker, it&#39;s an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
-- [IRS lost 40% of IT staff, 80% of tech leaders in &#39;efficiency&#39; shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
-- [California&#39;s New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
-- [Techno-cynics are wounded techno-optimists](https://aftermath.site/anthropic-claude-ai-leftist-technology/)
-- [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
+- [California&#39;s new bill requires DOJ-approved 3D printers that report themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
