@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [/Deslop](https://tahigichigi.substack.com/p/12-red-flags-of-ai-writing-and-how)
+- [I made ChatGPT and Google tell I&#39;m a competitive hot-dog-eating world champion](https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k)
 - [Old School Visual Effects: The Cloud Tank &lpar;2010&rpar;](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
 - [Stoolap/Node: A Native Node.js Driver That&#39;s Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
