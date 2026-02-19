@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Tech Alternatives](https://eutechmap.com/map)
+- [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 - [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)
 - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
 - [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
-- [Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act](https://static.stepfun.com/blog/step-3.5-flash/)
-- [Minecraft Java is switching from OpenGL to Vulkan](https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
