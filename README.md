@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
+- [Minnesota judge holds federal attorney in civil contempt](https://www.cnn.com/2026/02/19/politics/trump-attorney-contempt-minnesota-immigration)
+- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
+- [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
 - [We&#39;re no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
-- [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
-- [AI is not a coworker, it&#39;s an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
-- [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
-- [California&#39;s new bill requires DOJ-approved 3D printers that report themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
