@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
+- [America vs. Singapore: You Can&#39;t Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
+- [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
+- [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
 - [Famous Signatures Through History](https://signatory.app/#famous-signatures)
 - [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
-- [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
-- [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
