@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US funding for global internet freedom &#39;effectively gutted&#39;](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
+- [Stoolap/Node: A Native Node.js Driver That&#39;s Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
 - [European Tech Alternatives](https://eutechmap.com/map)
 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
-- [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)
 - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
-- [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
