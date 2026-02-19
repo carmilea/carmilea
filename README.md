@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Java is switching from OpenGL to Vulkan](https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/)
+- [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
 - [Microsoft offers guide to pirating Harry Potter series for LLM training](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/)
-- [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
+- [Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
 - [All Look Same?](https://alllooksame.com/)
-- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
-- [Metriport &lpar;YC S22&rpar; is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
