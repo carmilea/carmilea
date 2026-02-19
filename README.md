@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I made ChatGPT and Google tell I&#39;m a competitive hot-dog-eating world champion](https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k)
-- [Old School Visual Effects: The Cloud Tank &lpar;2010&rpar;](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
-- [Stoolap/Node: A Native Node.js Driver That&#39;s Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
-- [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
-- [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
+- [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
+- [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
+- [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
+- [DOGE Track](https://dogetrack.info/)
+- [Show HN: LatentScore – Type a mood, get procedural/ambient music &lpar;open source&rpar;](https://latentscore.com/demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
