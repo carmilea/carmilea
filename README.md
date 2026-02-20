@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HUD proposes rule that would force noncitizens from public housing](https://www.washingtonpost.com/national/2026/02/19/hud-public-housing-mixed-status-immigration/03e8908c-0dc4-11f1-8e91-6e1451aab67e_story.html)
+- [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
+- [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
+- [MuMu Player &lpar;NetEase&rpar; silently runs 17 reconnaissance commands every 30 minutes](https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea)
+- [Show HN: A small, simple music theory library in C99](https://github.com/thelowsunoverthemoon/mahler.c)
 - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
-- [Freedom.gov](https://freedom.gov/)
-- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
-- [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
 <!-- BLOG-POST-LIST:END -->
 
 ---
