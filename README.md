@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC asks stations for &quot;pro-America&quot; programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/)
+- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
+- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
+- [A16Z partner says that the theory that we&#39;ll vibe code everything is &#39; wrong&#39;](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
+- [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
 - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-- [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
-- [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
-- [OpenScan](https://openscan.eu/pages/scan-gallery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
