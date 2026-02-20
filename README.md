@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The path to ubiquitous AI &lpar;17k tokens/sec&rpar;](https://taalas.com/the-path-to-ubiquitous-ai/)
 - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
-- [Brave Iranians gather in central Iran to honour those killed in uprising](https://twitter.com/IranIntl_En/status/2024767317893075330)
 - [Rethinking RAG: How GraphRAG Improves Multi-Hop Reasoning!](https://www.singlestore.com/blog/rethinking-rag-how-graphrag-improves-multi-hop-reasoning-)
 - [I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
