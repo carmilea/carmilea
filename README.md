@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
+- [Brave Iranians gather in central Iran to honour those killed in uprising](https://twitter.com/IranIntl_En/status/2024767317893075330)
+- [Rethinking RAG: How GraphRAG Improves Multi-Hop Reasoning!](https://www.singlestore.com/blog/rethinking-rag-how-graphrag-improves-multi-hop-reasoning-)
 - [I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
-- [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
-- [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
-- [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
-- [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
+- [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
