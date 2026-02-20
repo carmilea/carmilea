@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
+- [OpenScan](https://openscan.eu/pages/scan-gallery)
+- [Escaping Misconfigured VSCode Extensions &lpar;2023&rpar;](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)
 - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 - [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
-- [Wikipedia bans Archive.today after site executed DDoS and altered web captures](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
-- [KFC, Nando&#39;s, and others ditch chicken welfare pledge](https://www.bbc.co.uk/news/articles/cm2r6jqm042o)
-- [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
