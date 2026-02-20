@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/)
+- [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
+- [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
 - [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
 - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
-- [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-- [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
-- [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
