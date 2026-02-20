@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legion Health &lpar;YC&rpar; Is Hiring Cracked SWEs for Autonomous Mental Health](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
 - [No Skill. No Taste](https://blog.kinglycrow.com/no-skill-no-taste/)
-- [The Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
 - [Trump&#39;s global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
 - [Child&#39;s Play: Tech&#39;s new generation and the end of thinking](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/)
 - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
