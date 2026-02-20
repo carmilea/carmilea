@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 - [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
+- [Wikipedia bans Archive.today after site executed DDoS and altered web captures](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
+- [KFC, Nando&#39;s, and others ditch chicken welfare pledge](https://www.bbc.co.uk/news/articles/cm2r6jqm042o)
 - [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
-- [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
-- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
-- [Lil&#39; Fun Langs](https://taylor.town/scrapscript-000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
