@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The path to ubiquitous AI &lpar;17k tokens/sec&rpar;](https://taalas.com/the-path-to-ubiquitous-ai/)
-- [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
-- [Rethinking RAG: How GraphRAG Improves Multi-Hop Reasoning!](https://www.singlestore.com/blog/rethinking-rag-how-graphrag-improves-multi-hop-reasoning-)
-- [I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
-- [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
+- [Exercise has &#39;similar effect&#39; to therapy, study on depression shows](https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html)
+- [Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment](https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323)
+- [Hyperbound &lpar;YC S23, Series A&rpar; needs a Engineer with something to prove](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove)
+- [Minions – Stripe&#39;s Coding Agents Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2)
+- [Silicon Valley engineers were indicted for allegedly sending secrets to Iran](https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
