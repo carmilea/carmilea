@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photopea-Online Photo Editor](https://www.photopea.com/)
-- [KFC, Nando&#39;s, and others ditch chicken welfare pledge](https://www.bbc.co.uk/news/articles/cm2r6jqm042o)
+- [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
 - [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
-- [Blue light filters don&#39;t work](https://www.neuroai.science/p/blue-light-filters-dont-work)
 - [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
+- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
+- [Lil&#39; Fun Langs](https://taylor.town/scrapscript-000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
