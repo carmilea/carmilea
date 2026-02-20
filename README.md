@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC asks stations for &quot;pro-America&quot; programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/)
+- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
+- [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
 - [OpenScan](https://openscan.eu/pages/scan-gallery)
-- [Escaping Misconfigured VSCode Extensions &lpar;2023&rpar;](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)
-- [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
-- [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
