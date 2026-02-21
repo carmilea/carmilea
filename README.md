@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
-- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
-- [A16Z partner says that the theory that we&#39;ll vibe code everything is &#39; wrong&#39;](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
-- [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
-- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
+- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
+- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
+- [Claude Code&#39;s compaction discards data that&#39;s still on disk](https://github.com/anthropics/claude-code/issues/26771)
+- [Be wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
+- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
