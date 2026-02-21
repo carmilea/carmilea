@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
+- [Happy Zelda&#39;s 40th first LLM running on N64 hardware &lpar;4MB RAM, 93MHz&rpar;](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
+- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
 - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib](https://github.com/datapartyjs/MeshTNC)
-- [EDuke32 – Duke Nukem 3D &lpar;Open-Source&rpar;](https://www.eduke32.com/)
-- [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
-- [Parse, Don&#39;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
