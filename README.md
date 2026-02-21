@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
 - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib](https://github.com/datapartyjs/MeshTNC)
 - [EDuke32 – Duke Nukem 3D &lpar;Open-Source&rpar;](https://www.eduke32.com/)
 - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
 - [Parse, Don&#39;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
-- [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
