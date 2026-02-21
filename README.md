@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS&#39;s Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
+- [macOS&#39;s Little-Known Command-Line Sandboxing Tool &lpar;2025&rpar;](https://igorstechnoclub.com/sandbox-exec/)
 - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 - [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 - [Andrej Karpathy talks about &quot;Claws&quot;](https://simonwillison.net/2026/Feb/21/claws/)
