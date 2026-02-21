@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Script Snap – Extract code from videos](https://script-snap.com/)
+- [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
 - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
-- [Claude Code&#39;s compaction discards data that&#39;s still on disk](https://github.com/anthropics/claude-code/issues/26771)
-- [Be wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
-- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
+- [CERN rebuilt the original browser from 1989 &lpar;2019&rpar;](https://worldwideweb.cern.ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
