@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+- [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 - [Andrej Karpathy talks about &quot;Claws&quot;](https://simonwillison.net/2026/Feb/21/claws/)
 - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
 - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
-- [24 Hour Fitness won&#39;t let you unsubscribe from marketing spam, so I fixed it](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
-- [EU mandates replaceable batteries by 2027 &lpar;2023&rpar;](https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
