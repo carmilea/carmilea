@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-- [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 - [Andrej Karpathy talks about &quot;Claws&quot;](https://simonwillison.net/2026/Feb/21/claws/)
+- [Instant AI Response](https://chatjimmy.ai/)
 - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
-- [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
+- [Coccinelle: The Linux kernel&#39;s source-to-source transformation tool](https://github.com/coccinelle/coccinelle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
