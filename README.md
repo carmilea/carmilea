@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib](https://github.com/datapartyjs/MeshTNC)
+- [EDuke32 – Duke Nukem 3D &lpar;Open-Source&rpar;](https://www.eduke32.com/)
 - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
 - [Parse, Don&#39;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 - [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
-- [Canvas_ity: A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
-- [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
