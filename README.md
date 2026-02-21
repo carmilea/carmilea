@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
+- [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
+- [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 - [macOS&#39;s Little-Known Command-Line Sandboxing Tool &lpar;2025&rpar;](https://igorstechnoclub.com/sandbox-exec/)
 - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-- [Andrej Karpathy talks about &quot;Claws&quot;](https://simonwillison.net/2026/Feb/21/claws/)
-- [Coccinelle: The Linux kernel&#39;s source-to-source transformation tool](https://github.com/coccinelle/coccinelle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
