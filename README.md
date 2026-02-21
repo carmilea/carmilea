@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
 - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
 - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
 - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 - [macOS&#39;s Little-Known Command-Line Sandboxing Tool &lpar;2025&rpar;](https://igorstechnoclub.com/sandbox-exec/)
-- [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
