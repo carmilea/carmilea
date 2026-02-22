@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
 - [Iranian Students Protest as Anger Grows](https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e)
 - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
-- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
