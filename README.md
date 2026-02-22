@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minions: Stripe&#39;s one-shot, end-to-end coding agents – Stripe Dot Dev Blog](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
+- [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
+- [Porkbun sells out – Starts requiring Age ID despite no legal requirement](https://kb.porkbun.com/article/225-why-porkbun-id-verification)
+- [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)
 - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-- [Japanese Woodblock Print Search](https://ukiyo-e.org/)
-- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
-- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
-- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
