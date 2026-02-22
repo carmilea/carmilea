@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fungicide vinclozin causes disease via germline for 20 generations in rats](https://pnas.org/doi/10.1073/pnas.2523071123)
+- [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
+- [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
+- [Xweather Live – Interactive global vector weather map](https://live.xweather.com/)
 - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
-- [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
-- [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
-- [I put New Zealand behind a $1 paywall](https://rename.world/)
-- [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
