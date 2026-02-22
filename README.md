@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
+- [I Analyzed Every Nootropic Study on PubMed](https://outspeaker.com/post/217)
 - [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
 - [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
 - [Xweather Live – Interactive global vector weather map](https://live.xweather.com/)
-- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
-- [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
