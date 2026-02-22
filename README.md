@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Just Killed Its Robotaxi Plan. The Real Problem Isn&#39;t the Technology](https://www.phyware.io/blog/ny-robotaxi-trust-gap)
+- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
+- [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
+- [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
+- [I put New Zealand behind a $1 paywall](https://rename.world/)
 - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
-- [The Dance Floor Is Disappearing in a Sea of Phones](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)
-- [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
-- [Minions: Stripe&#39;s one-shot, end-to-end coding agents – Stripe Dot Dev Blog](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
