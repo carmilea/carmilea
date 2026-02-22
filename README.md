@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
+- [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
+- [Spain has blocked access to freedom.gov](https://twitter.com/Pirat_Nation/status/2025643188321714642)
 - [Factory-built housing hasn&#39;t taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
-- [Symplex, an open-source protocol semantic negotiation between distributed agents](https://github.com/olserra/symplex)
-- [An Unbothered Jimmy Wales Calls Grokipedia a &#39;Cartoon Imitation&#39; of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
-- [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
-- [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+- [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
