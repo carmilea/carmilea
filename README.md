@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS won&#39;t discuss my bill, suspended my account, took $1,600, still no human](https://news.ycombinator.com/item?id=47115221)
+- [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+- [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 - [Music Discovery](https://www.secondtrack.co/)
 - [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
 - [Show HN: CIA World Factbook Archive &lpar;1990–2025&rpar;, searchable and exportable](https://cia-factbook-archive.fly.dev/)
-- [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
