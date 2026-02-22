@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-- [What&#39;s the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
 - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
