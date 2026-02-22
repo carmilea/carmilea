@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Factory-built housing hasn&#39;t taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
+- [Symplex, an open-source protocol semantic negotiation between distributed agents](https://github.com/olserra/symplex)
+- [An Unbothered Jimmy Wales Calls Grokipedia a &#39;Cartoon Imitation&#39; of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
 - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
-- [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
-- [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
-- [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
-- [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
+- [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
