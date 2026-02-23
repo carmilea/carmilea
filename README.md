@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-- [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
-- [Music Discovery](https://www.secondtrack.co/)
-- [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
-- [Show HN: CIA World Factbook Archive &lpar;1990–2025&rpar;, searchable and exportable](https://cia-factbook-archive.fly.dev/)
+- [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
+- [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
+- [Show HN: WARN Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
+- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+- [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
