@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elsevier shuts down its finance journal citation cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
-- [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
-- [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
-- [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
+- [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+- [SETI@home: Data Acquisition and Front-End Processing &lpar;2025&rpar;](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
+- [QRTape – Audio Playback from Paper Tape with Computer Vision &lpar;2021&rpar;](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
+- [Hacker News.love – 22 projects Hacker News didn&#39;t love](https://hackernews.love/)
+- [Show HN: AI Timeline – 171 LLMs from Transformer &lpar;2017&rpar; to GPT-5.3 &lpar;2026&rpar;](https://llm-timeline.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
