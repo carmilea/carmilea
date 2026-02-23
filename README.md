@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hadrius &lpar;YC W23&rpar; Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer)
-- [Silicon Valley can&#39;t import talent like before. So it&#39;s exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
-- [C99 implementation of new O&lpar;m log^&lpar;2/3&rpar; n&rpar; shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)
-- [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
-- [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
+- [Anthropic announces proof of distillation at scale by MiniMax, DeepSeek,Moonshot](https://twitter.com/anthropicai/status/2025997928242811253)
+- [US Gov Deploys Grok as Nutrition Bot, It Advises for Rectal Use of Vegetables](https://futurism.com/artificial-intelligence/us-government-grok-nutrition)
+- [ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/)
+- [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)
+- [Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
