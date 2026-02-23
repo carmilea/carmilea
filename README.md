@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA uses Mars Helicopter&#39;s SoC for rover navigation upgrade](https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/)
-- [The peculiar case of Japanese web design](https://sabrinas.space)
-- [The Age Verification Trap, Verifying age undermines everyone&#39;s data protection](https://spectrum.ieee.org/age-verification)
-- [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn&#39;t Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)
-- [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer)
+- [Silicon Valley can&#39;t import talent like before. So it&#39;s exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
+- [C99 implementation of new O&lpar;m log^&lpar;2/3&rpar; n&rpar; shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)
+- [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
+- [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
