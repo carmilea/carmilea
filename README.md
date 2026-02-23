@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=00Kl_UMbaIs)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=H1dw0akh95s)
 - [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=aXU84hvU-io)
 - [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
 - [Understanding Model Context Protocol &lpar;MCP&rpar;: Automate Database Operations!](https://www.youtube.com/watch?v=A4IVAKFaOrU)
-- [Understanding AI Agents and Agentic Systems | Build Agentic AI Apps with SingleStore](https://www.youtube.com/watch?v=blBOYrh3vxA)
 <!-- YOUTUBE:END -->
 
 
