@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Openslack – An open source version of Slack](https://github.com/BilalG1/openslack)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
+- [Ask HN: Have you ever cloned a cat?](https://news.ycombinator.com/item?id=47118774)
+- [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
+- [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
 - [Freemediaheckyeah](https://fmhy.net/)
-- [The JavaScript Oxidation Compiler](https://oxc.rs/)
-- [Agentic Software Engineering Book](https://agenticse-book.github.io/)
-- [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
