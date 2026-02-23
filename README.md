@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
-- [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
-- [Show HN: WARN Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
-- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
-- [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+- [Show HN: Openslack – An open source version of Slack](https://github.com/BilalG1/openslack)
+- [Freemediaheckyeah](https://fmhy.net/)
+- [The JavaScript Oxidation Compiler](https://oxc.rs/)
+- [Agentic Software Engineering Book](https://agenticse-book.github.io/)
+- [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
