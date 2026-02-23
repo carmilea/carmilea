@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elsevier shuts down its finance journal citation cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
 - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
 - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
 - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
-- [Freemediaheckyeah](https://fmhy.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
