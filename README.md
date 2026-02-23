@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA uses Mars Helicopter&#39;s SoC for rover navigation upgrade](https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/)
 - [The peculiar case of Japanese web design](https://sabrinas.space)
 - [The Age Verification Trap, Verifying age undermines everyone&#39;s data protection](https://spectrum.ieee.org/age-verification)
+- [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn&#39;t Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)
 - [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
-- [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
-- [Facebook&#39;s Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
