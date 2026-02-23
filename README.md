@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Car Wash&quot; test with 53 models](https://opper.ai/blog/car-wash-test)
-- [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
-- [Binance fired employees who found $1.7B in crypto was sent to Iran](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
-- [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)
-- [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
+- [Flock cameras gifted by Horowitz Foundation, avoiding public oversight](https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift)
+- [IBM Plunges After Anthropic&#39;s Latest Update Takes on COBOL](https://www.zerohedge.com/markets/ibm-plunges-after-anthropics-latest-update-takes-cobol)
+- [Stop Killing Games update says EU petition advances](https://videocardz.com/newz/stop-killing-games-update-says-eu-petition-advances)
+- [SIM &lpar;YC X25&rpar; Is Hiring the Best Engineers in San Francisco](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform)
+- [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
