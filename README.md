@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The peculiar case of Japanese web design](https://sabrinas.space)
+- [The Age Verification Trap, Verifying age undermines everyone&#39;s data protection](https://spectrum.ieee.org/age-verification)
 - [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
-- [I Donut Believe – Presenting Third Party Results &lpar;Donut Lab&rpar;](https://idonutbelieve.com/)
+- [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
 - [Facebook&#39;s Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
-- [Hetzner &lpar;European hosting provider&rpar; to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
-- [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
