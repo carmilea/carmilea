@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
+- [I Donut Believe – Presenting Third Party Results &lpar;Donut Lab&rpar;](https://idonutbelieve.com/)
+- [Facebook&#39;s Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
+- [Hetzner &lpar;European hosting provider&rpar; to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
 - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
-- [SETI@home: Data Acquisition and Front-End Processing &lpar;2025&rpar;](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
-- [QRTape – Audio Playback from Paper Tape with Computer Vision &lpar;2021&rpar;](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
-- [Hacker News.love – 22 projects Hacker News didn&#39;t love](https://hackernews.love/)
-- [Show HN: AI Timeline – 171 LLMs from Transformer &lpar;2017&rpar; to GPT-5.3 &lpar;2026&rpar;](https://llm-timeline.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
