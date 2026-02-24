@@ -61,7 +61,7 @@
 - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
 - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
-- [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
+- [NPM install is stealing your passwords – I built a tool to catch it](https://westbayberry.com/product)
 - [Blood test boosts Alzheimer&#39;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
 <!-- BLOG-POST-LIST:END -->
 
