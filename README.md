@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
-- [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
-- [Steel Bank Common Lisp](https://www.sbcl.org/)
-- [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
-- [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
+- [Looks Like it is Happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
+- [Apple Accelerates US Manufacturing](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
+- [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
+- [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
+- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
