@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disappointing Phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
-- [FreeBSD doesn&#39;t have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-- [Stop Killing Games update says EU petition advances](https://videocardz.com/newz/stop-killing-games-update-says-eu-petition-advances)
-- [SIM &lpar;YC X25&rpar; Is Hiring the Best Engineers in San Francisco](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform)
-- [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
+- [NIST Seeking Public Comment on AI Agent Security &lpar;Deadline: March 9, 2026&rpar;](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents)
+- [Iowa farmers are leading the fight for repair](https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair)
+- [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/)
+- [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
+- [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
