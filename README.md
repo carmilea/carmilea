@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
-- [Show HN: SNKV – SQLite&#39;s B-tree as a key-value store &lpar;C/C++ and Python bindings&rpar;](https://github.com/hash-anu/snkv)
+- [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
+- [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
+- [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
 - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
-- [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
-- [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
