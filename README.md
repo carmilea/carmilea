@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looks Like it is Happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
-- [Apple Accelerates US Manufacturing](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
-- [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
-- [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
-- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
+- [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
+- [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+- [Pi – a minimal terminal coding harness](https://pi.dev)
+- [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
+- [Looks like it is happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
