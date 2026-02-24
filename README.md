@@ -62,7 +62,7 @@
 - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 - [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
-- [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
+- [Show HN: Out Plane – A PaaS I built solo from Istanbul in 3 months](https://outplane.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
