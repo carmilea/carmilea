@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
-- [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
-- [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
-- [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
-- [Show HN: Out Plane – A PaaS I built solo from Istanbul in 3 months](https://outplane.com)
+- [Scientists crack the case of &quot;screeching&quot; Scotch tape](https://arstechnica.com/science/2026/02/heres-why-scotch-tape-screeches-when-its-peeled/)
+- [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
+- [I&#39;m helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+- [Cardiorespiratory fitness is associated with lower anger and anxiety](https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X)
+- [Verge &lpar;YC S15&rpar; Is Hiring a Director of Computational Biology and AI Scientists/Eng](https://jobs.ashbyhq.com/verge-genomics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
