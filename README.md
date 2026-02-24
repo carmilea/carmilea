@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists crack the case of &quot;screeching&quot; Scotch tape](https://arstechnica.com/science/2026/02/heres-why-scotch-tape-screeches-when-its-peeled/)
-- [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
-- [I&#39;m helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
-- [Cardiorespiratory fitness is associated with lower anger and anxiety](https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X)
-- [Verge &lpar;YC S15&rpar; Is Hiring a Director of Computational Biology and AI Scientists/Eng](https://jobs.ashbyhq.com/verge-genomics)
+- [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
+- [Steel Bank Common Lisp](https://www.sbcl.org/)
+- [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
+- [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
+- [I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone](https://macky.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
