@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
 - [Steel Bank Common Lisp](https://www.sbcl.org/)
 - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
 - [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
-- [I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone](https://macky.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
