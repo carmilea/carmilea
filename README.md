@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cell Service for the Fairly Paranoid](https://www.cape.co/)
 - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
 - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
 - [Pi – a minimal terminal coding harness](https://pi.dev)
 - [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
-- [Looks like it is happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
