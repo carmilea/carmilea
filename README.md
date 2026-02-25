@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
-- [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
-- [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
-- [Launch HN: TeamOut &lpar;YC W22&rpar; – AI agent for planning company events](https://app.teamout.com/ai)
-- [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- [Bcachefs creator insists his custom LLM is female and &#39;fully conscious&#39;](https://www.theregister.com/2026/02/25/bcachefs_creator_ai/)
+- [Trellis AI &lpar;YC W24&rpar; is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
+- [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
+- [Following 35% growth, solar has passed hydro on US grid](https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/)
+- [Show HN: Sgai – Goal-driven multi-agent software dev &lpar;GOAL.md → working code&rpar;](https://github.com/sandgardenhq/sgai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
