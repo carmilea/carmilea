@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Documents Show Meta Cracking Down on Access to Abortion Information](https://www.motherjones.com/politics/2026/02/meta-abortion-ai-chatbot-leak-teen-info-ban/)
+- [ECS Survivors Parts VII – X](https://blog.ptidej.net/ecs-survivors-parts-vii-x/)
+- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-- [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
-- [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
-- [om](https://www.om-language.com/)
-- [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
+- [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
 <!-- BLOG-POST-LIST:END -->
 
 ---
