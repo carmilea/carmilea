@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Horizon Labs &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
-- [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
-- [Danish government agency to ditch Microsoft software &lpar;2025&rpar;](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
-- [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
-- [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+- [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
+- [Launch HN: TeamOut &lpar;YC W22&rpar; – AI agent for planning company events](https://app.teamout.com/ai)
+- [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- [Red Hat takes on Docker Desktop with its enterprise Podman Desktop build](https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/)
+- [AIs can&#39;t stop recommending nuclear strikes in war game simulations](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
