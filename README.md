@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Horizon Labs &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
+- [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
 - [Danish government agency to ditch Microsoft software &lpar;2025&rpar;](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
 - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
-- [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
-- [Turing Completeness of GNU find](https://arxiv.org/abs/2602.20762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
