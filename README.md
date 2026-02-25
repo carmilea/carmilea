@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ed Zitron loses his mind annotating an AI doomer macro memo](https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b)
-- [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
-- [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762)
-- [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
-- [Corgi Labs &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
+- [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
+- [Danish Gov agency to ditch Microsoft software in push for digital independence](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
+- [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
+- [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+- [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
