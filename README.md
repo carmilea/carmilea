@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bcachefs creator insists his custom LLM is female and &#39;fully conscious&#39;](https://www.theregister.com/2026/02/25/bcachefs_creator_ai/)
-- [Trellis AI &lpar;YC W24&rpar; is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
-- [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
-- [Following 35% growth, solar has passed hydro on US grid](https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/)
-- [Show HN: Sgai – Goal-driven multi-agent software dev &lpar;GOAL.md → working code&rpar;](https://github.com/sandgardenhq/sgai)
+- [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
+- [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
+- [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
+- [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/abs/2602.12323)
+- [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
