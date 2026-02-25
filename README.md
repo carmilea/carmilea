@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Capybara: A Unified Visual Creation Model](https://github.com/xgen-universe/Capybara)
+- [What Happened to Fry&#39;s Electronics](https://dfarq.homeip.net/what-happened-to-frys-electronics/)
 - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
 - [Corgi Labs &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
-- [Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
-- [US Military leaders meet with Anthropic to argue against Claude safeguards](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai)
+- [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
+- [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
