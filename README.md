@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banned in California](https://www.bannedincalifornia.org/)
-- [First Website](https://info.cern.ch)
-- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
-- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-- [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
+- [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)
+- [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse)
+- [Tech Companies Shouldn&#39;t Be Bullied into Doing Surveillance](https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance)
+- [First Website &lpar;1992&rpar;](https://info.cern.ch)
+- [How Will OpenAI Compete?](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
