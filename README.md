@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartphone Mkt to Decline 13% in &#39;26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+- [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
+- [What does &quot; 2&gt;&amp;1 &quot; mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
 - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
-- [Launch HN: Cardboard &lpar;YC W26&rpar; – Agentic video editor](https://www.usecardboard.com/)
-- [OsmAnd&#39;s Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
-- [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
-- [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
