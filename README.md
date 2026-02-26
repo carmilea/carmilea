@@ -62,7 +62,7 @@
 - [Launch HN: Cardboard &lpar;YC W26&rpar; – Agentic video editor](https://www.usecardboard.com/)
 - [OsmAnd&#39;s Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
 - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
-- [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
+- [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
