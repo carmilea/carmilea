@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bild AI &lpar;YC W25&rpar; Is Hiring Interns to Make Housing Affordable](https://www.workatastartup.com/jobs/80596)
-- [How AI skills are quietly automating my workday](https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707)
-- [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
-- [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
-- [Nano Banana 2: Google&#39;s latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+- [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
+- [Launch HN: Cardboard &lpar;YC W26&rpar; – Agentic video editor](https://www.usecardboard.com/)
+- [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
+- [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
+- [Twitch: &quot;Hey, come back! This commercial break can&#39;t play while you&#39;re away.&quot;](https://twitter.com/KryDotExe/status/2026806591517856208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
