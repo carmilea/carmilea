@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
+- [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
 - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
 - [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
 - [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
-- [Show HN: Agent Swarm – Multi-agent self-learning teams &lpar;OSS&rpar;](https://github.com/desplega-ai/agent-swarm)
-- [Nihilistic Violent Extremism](https://en.wikipedia.org/wiki/Nihilistic_violent_extremism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
