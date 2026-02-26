@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic says company &#39;cannot in good conscience accede&#39; to Pentagon&#39;s demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)
+- [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+- [Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O](https://coderush.me/hydroph0bia-part3/)
 - [Smartphone Mkt to Decline 13% in &#39;26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
 - [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
-- [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
-- [What does &quot; 2&gt;&amp;1 &quot; mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
-- [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
