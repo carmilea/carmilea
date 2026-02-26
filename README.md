@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
-- [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
-- [BuildKit: Docker&#39;s Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
-- [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
-- [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring Interns to Make Housing Affordable](https://www.workatastartup.com/jobs/80596)
+- [How AI skills are quietly automating my workday](https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707)
+- [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
+- [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
+- [Nano Banana 2: Google&#39;s latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
