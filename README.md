@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
 - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
+- [BuildKit: Docker&#39;s Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 - [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
 - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
-- [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
-- [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
