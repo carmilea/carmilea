@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 - [Launch HN: Cardboard &lpar;YC W26&rpar; – Agentic video editor](https://www.usecardboard.com/)
+- [OsmAnd&#39;s Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
 - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
 - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
-- [Twitch: &quot;Hey, come back! This commercial break can&#39;t play while you&#39;re away.&quot;](https://twitter.com/KryDotExe/status/2026806591517856208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
