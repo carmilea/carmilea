@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ubicloud &lpar;YC W24&rpar;: Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
 - [The normalization of corruption in organizations &lpar;2003&rpar; [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
-- [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
 - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
+- [Two insider cases we&#39;ve recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
