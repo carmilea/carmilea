@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
+- [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
 - [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
-- [Dan Simmons, author of Hyperion, Song of Kali, dead at 77](https://en.wikipedia.org/wiki/Dan_Simmons)
+- [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
 - [Don&#39;t run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
-- [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
