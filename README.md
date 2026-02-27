@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/)
+- [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 - [Show HN: Badge that shows how well your codebase fits in an LLM&#39;s context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
-- [Tenth Circuit: 4th Amendment Doesn&#39;t Support Broad Search of Protesters&#39; Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
-- [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
