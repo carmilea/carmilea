@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/)
-- [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
-- [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
-- [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
-- [Show HN: Badge that shows how well your codebase fits in an LLM&#39;s context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
+- [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
+- [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
+- [Dan Simmons, author of Hyperion, Song of Kali, dead at 77](https://en.wikipedia.org/wiki/Dan_Simmons)
+- [Don&#39;t run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
+- [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
