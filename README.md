@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
+- [PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+- [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
 - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
 - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
-- [Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style](http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html)
-- [Ubicloud &lpar;YC W24&rpar;: Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
+- [Breaking Free](https://www.forbrukerradet.no/breakingfree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
