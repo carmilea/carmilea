@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
+- [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 - [Show HN: Badge that shows how well your codebase fits in an LLM&#39;s context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
 - [Tenth Circuit: 4th Amendment Doesn&#39;t Support Broad Search of Protesters&#39; Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
-- [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
-- [OpenAI&#39;s $110B funding round &lpar;investments from Amazon, Nvidia, SoftBank&rpar;](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
-- [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
+- [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
