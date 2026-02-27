@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Badge that shows how well your codebase fits in an LLM&#39;s context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
+- [Tenth Circuit: 4th Amendment Doesn&#39;t Support Broad Search of Protesters&#39; Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
+- [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
+- [OpenAI&#39;s $110B funding round &lpar;investments from Amazon, Nvidia, SoftBank&rpar;](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
 - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
-- [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
-- [Generative AI Use and Depressive Symptoms Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128)
-- [PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
-- [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
