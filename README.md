@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic says company &#39;cannot in good conscience accede&#39; to Pentagon&#39;s demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)
+- [Two Insider Cases We&#39;ve Recently Closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
+- [LiteLLM &lpar;YC W23&rpar;: Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
+- [Palantir&#39;s AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 - [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
-- [Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O](https://coderush.me/hydroph0bia-part3/)
-- [Smartphone Mkt to Decline 13% in &#39;26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
-- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O &lpar;2025&rpar;](https://coderush.me/hydroph0bia-part3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
