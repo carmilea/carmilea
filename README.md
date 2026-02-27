@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kyber &lpar;YC W23&rpar; Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
-- [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
-- [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
-- [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
-- [Don&#39;t run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
+- [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
+- [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
+- [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
+- [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
+- [Let&#39;s discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
