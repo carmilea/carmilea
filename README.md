@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran&#39;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
+- [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
+- [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
 - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
-- [Block the &quot;Upgrade to Tahoe&quot; Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
-- [Verified Spec-Driven Development &lpar;VSDD&rpar;](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
-- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
-- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
+- [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
