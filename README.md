@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verified Spec-Driven Development &lpar;VSDD&rpar;](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
+- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
+- [Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet)
 - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
 - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
-- [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
-- [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
-- [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
