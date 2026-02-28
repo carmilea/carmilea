@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
+- [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
+- [Block the &quot;Upgrade to Tahoe&quot; Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 - [Verified Spec-Driven Development &lpar;VSDD&rpar;](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
-- [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
