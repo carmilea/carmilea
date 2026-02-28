@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
-- [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
-- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
-- [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
-- [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
+- [Please do not use auto-scrolling content on the web and in applications](https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/)
+- [Show HN: Decided to play god this morning, so I built an agent civilisation](https://github.com/nocodemf/werld)
+- [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
+- [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
+- [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
