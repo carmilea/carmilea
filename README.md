@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
 - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
 - [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
 - [Verified Spec-Driven Development &lpar;VSDD&rpar;](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
-- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
