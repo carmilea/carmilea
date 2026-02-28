@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran&#39;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
+- [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)
+- [The Windows 95 User Interface: A Case Study in Usability Engineering](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
+- [&quot;We do not think Anthropic should be designated as a supply chain risk&quot;](https://twitter.com/OpenAI/status/2027846016423321831)
 - [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
-- [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
-- [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
