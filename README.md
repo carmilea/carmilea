@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US and Israel carrying out strikes against Iran](https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl)
+- [Inferring Car Movement Patterns from Passive TPMS Measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 - [U.S. and Israel Conduct Strikes on Iran](https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump)
-- [Israel launches strike against Iran, declares state of emergency across country](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
 - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
 - [Rust Is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
+- [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
