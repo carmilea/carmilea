@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: 3 months ago we feared AI was useless. Now we fear it will take our job](https://news.ycombinator.com/item?id=47193606)
+- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
 - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
 - [Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 - [US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
-- [Rust is just a tool](https://lewiscampbell.tech/blog/260204.html)
-- [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
