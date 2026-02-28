@@ -61,8 +61,8 @@
 - [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 - [Don&#39;t use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
 - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
+- [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/)
 - [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
-- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
