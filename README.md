@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
+- [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
 - [Verified Spec-Driven Development &lpar;VSDD&rpar;](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
+- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
-- [Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet)
-- [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
-- [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
