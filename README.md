@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is GitHub Copilot still relevant in the enterprise?](https://news.ycombinator.com/item?id=47196263)
-- [Show HN: Rust-powered document chunker for RAG – 40x faster, O&lpar;1&rpar; memory](https://github.com/Krira-Labs/krira-chunker)
-- [Please do not use auto-scrolling content on the web and in applications](https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/)
-- [Show HN: Decided to play god this morning, so I built an agent civilisation](https://github.com/nocodemf/werld)
+- [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
 - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
+- [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
+- [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
+- [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
