@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
-- [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
+- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
+- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 - [Lil&#39; Fun Langs&#39; Guts](https://taylor.town/scrapscript-001)
-- [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
-- [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
