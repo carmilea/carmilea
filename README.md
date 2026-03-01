@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
-- [How the Federal Government Is Painting Immigrants as Criminals on Social Media](https://www.npr.org/2026/02/27/nx-s1-5720167/trump-ice-immigration-social-media-deportation-dhs-immigrants-detained-disputes)
+- [Ape Coding](https://rsaksida.com/blog/ape-coding/)
+- [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-- [I built a demo of what AI chat will look like when it&#39;s &quot;free&quot; and ad-supported](https://99helpers.com/tools/ad-supported-chat)
-- [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
