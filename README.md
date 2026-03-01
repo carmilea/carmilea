@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Psychology: Who dont maintain many close friends, learned independence too early](https://www.bolde.com/psychology-says-people-who-dont-maintain-many-close-friends-often-learned-independence-too-early/)
+- [Little Free Library Books](https://littlefreelibrary.org/)
+- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+- [Waymo blocking ambulance during deadly Austin shooting](https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php)
 - [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
 - [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)
-- [Working with memories can reduce fear of failure](https://medicalxpress.com/news/2026-02-memories-failure.html)
-- [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
