@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
 - [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
 - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 - [Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html)
 - [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)
-- [The Windows 95 user interface: A case study in usability engineering &lpar;1996&rpar;](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
