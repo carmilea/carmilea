@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
+- [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
 - [Lil&#39; Fun Langs&#39; Guts](https://taylor.town/scrapscript-001)
 - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-- [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
-- [Ape Coding](https://rsaksida.com/blog/ape-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
