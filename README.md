@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why is the first C++ &lpar;m&rpar;allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
 - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
-- [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity)
 - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 - [Switch to Claude without starting over](https://claude.com/import-memory)
+- [10-202: Introduction to Modern AI &lpar;CMU&rpar;](https://modernaicourse.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
