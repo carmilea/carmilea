@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)
-- [The Windows 95 User Interface: A Case Study in Usability Engineering](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
-- [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
-- [&quot;We do not think Anthropic should be designated as a supply chain risk&quot;](https://twitter.com/OpenAI/status/2027846016423321831)
-- [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
+- [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
+- [Just two days of oatmeal cut bad cholesterol by 10%](https://www.sciencedaily.com/releases/2026/02/260225081217.htm)
+- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+- [Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html)
+- [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
