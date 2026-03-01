@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch to Claude Without Starting Over](https://claude.com/import-memory)
+- [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
+- [Switch to Claude without starting over](https://claude.com/import-memory)
 - [10-202: Introduction to Modern AI &lpar;CMU&rpar;](https://modernaicourse.org)
 - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
 - [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
-- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
