@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lil&#39; Fun Langs&#39; Guts](https://taylor.town/scrapscript-001)
+- [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
-- [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
-- [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
