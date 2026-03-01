@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a demo of what AI chat will look like when it&#39;s &quot;free&quot; and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 - [Why is the first C++ &lpar;m&rpar;allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
 - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
 - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 - [Switch to Claude without starting over](https://claude.com/import-memory)
-- [10-202: Introduction to Modern AI &lpar;CMU&rpar;](https://modernaicourse.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
