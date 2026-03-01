@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Government Deceived Congress in the Debate over Surveillance Powers &lpar;2013&rpar;](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
+- [Why does C have the best file API](https://maurycyz.com/misc/c_files/)
 - [Operational issue – Multiple services &lpar;UAE&rpar;](https://health.aws.amazon.com/health/status)
-- [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
 - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
-- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
