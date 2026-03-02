@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: OctaPulse &lpar;YC W26&rpar; – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
+- [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
+- [Ask HN: Who is hiring? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47219668)
+- [Felix &quot;fx&quot; Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
-- [Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case](https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/)
-- [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
-- [Plastic is made from milk and it vanishes in 13 weeks](https://www.sciencedaily.com/releases/2026/02/260227071922.htm)
-- [An Interesting Find: STM32 RDP1 Decryptor](https://carlossless.io/stm32-rdp1-decryptor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
