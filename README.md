@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome &lpar;Back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
+- [Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool](https://github.com/vustagc/pianoterm)
+- [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
 - [Show HN: uBlock filter list to blur all Instagram Reels](https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886)
-- [A case for Go as the best language for AI agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
-- [&quot;That Shape Had None&quot; – A Horror of Substrate Independence &lpar;Short Fiction&rpar;](https://starlightconvenience.net/#that-shape-had-none)
-- [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
-- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
+- [Boss-CSS: I created another &quot;CSS-in-JS&quot; lib](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
