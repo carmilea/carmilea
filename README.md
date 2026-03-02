@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+- [The workers behind Meta&#39;s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 - [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
-- [Welcome &lpar;back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
-- [Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool](https://github.com/vustagc/pianoterm)
-- [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
 <!-- BLOG-POST-LIST:END -->
 
 ---
