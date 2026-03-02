@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [/e/OS is a complete &quot;deGoogled&quot;, mobile ecosystem](https://e.foundation/e-os/)
+- [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
+- [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 - [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
-- [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
-- [Process-Based Concurrency: Why Beam and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
-- [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
