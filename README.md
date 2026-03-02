@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
 - [Launch HN: OctaPulse &lpar;YC W26&rpar; – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
+- [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 - [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
 - [Ask HN: Who is hiring? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47219668)
-- [Felix &quot;fx&quot; Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
-- [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
