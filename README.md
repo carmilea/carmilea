@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome &lpar;Back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
+- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
+- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- [Welcome &lpar;back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
 - [Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool](https://github.com/vustagc/pianoterm)
 - [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
-- [Show HN: uBlock filter list to blur all Instagram Reels](https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886)
-- [Boss-CSS: I created another &quot;CSS-in-JS&quot; lib](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
