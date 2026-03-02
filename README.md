@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+- [Show HN: Gapless.js – gapless web audio playback](https://github.com/RelistenNet/gapless.js)
+- [A case for Go as the best language for AI agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+- [&quot;That Shape Had None&quot; – A Horror of Substrate Independence &lpar;Short Fiction&rpar;](https://starlightconvenience.net/#that-shape-had-none)
 - [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
-- [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
 - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
-- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
