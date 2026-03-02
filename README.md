@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+- [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
+- [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
 - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
-- [Launch HN: OctaPulse &lpar;YC W26&rpar; – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
-- [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
-- [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
-- [Ask HN: Who is hiring? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47219668)
+- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
