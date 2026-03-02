@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 - [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
 - [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
-- [The inner workings of TCP zero-copy](https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html)
 - [Process-Based Concurrency: Why Beam and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
 - [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
 <!-- BLOG-POST-LIST:END -->
