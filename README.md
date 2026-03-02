@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Little Free Library Books](https://littlefreelibrary.org/)
+- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
+- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
+- [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
+- [Little Free Library](https://littlefreelibrary.org/)
 - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
-- [Waymo blocking ambulance during deadly Austin shooting](https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php)
-- [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
-- [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
