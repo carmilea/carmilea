@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
+- [Ask HN: How are you all staying sane?](https://news.ycombinator.com/item?id=47215569)
 - [/e/OS is a complete &quot;deGoogled&quot;, mobile ecosystem](https://e.foundation/e-os/)
 - [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
 - [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
-- [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
-- [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
