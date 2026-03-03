@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)
 - [Show HN: Giggles – A batteries-included React framework for TUIs](https://github.com/zion-off/giggles)
-- [The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai)
-- [Zuckerberg&#39;s internal emails rendered as Facebook Messenger](https://zuckmail.vercel.app/)
+- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 - [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
-- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- [Closure of the Weatheradio service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
