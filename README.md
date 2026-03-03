@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
 - [Launch HN: Cekura &lpar;YC F24&rpar; – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
 - [I&#39;m reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
 - [Don&#39;t Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
 - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
-- [Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
