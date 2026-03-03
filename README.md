@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
+- [We&#39;ve freed Cookie&#39;s Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
 - [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
-- [A US Government iPhone-hacking toolkit is now in foreign spy and criminal hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
+- [Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
 - [An Interactive Intro to CRDTs &lpar;2023&rpar;](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
-- [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
-- [Iran War Cost Tracker](https://iran-cost-ticker.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
