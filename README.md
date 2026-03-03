@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You are going to get priced out of the best AI coding tools](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of)
-- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
-- [Someone Needs to Go to Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
-- [Claude is an Electron App because we&#39;ve lost native](https://tonsky.me/blog/fall-of-native/)
-- [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
+- [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
+- [A US Government iPhone-Hacking Toolkit Is Now in Foreign Spy and Criminal Hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
+- [Iran War Cost Tracker](https://iran-cost-ticker.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
