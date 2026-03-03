@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
+- [Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)
+- [Don&#39;t Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
+- [OpenAI CEO Sam Altman Defends Pentagon Work to Staff](https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec)
 - [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
-- [We&#39;ve freed Cookie&#39;s Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
-- [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
-- [Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
-- [An Interactive Intro to CRDTs &lpar;2023&rpar;](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
