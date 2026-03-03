@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Porn depicting sex between step-relatives set to be banned in the UK](https://www.lbc.co.uk/article/pornography-sexual-relationships-step-relatives-5HjdTkd_2/)
-- [Stolen Gemini API key racks up $82,000 in 48 hours](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)
-- [India&#39;s top court angry after junior judge cites fake AI-generated orders](https://www.bbc.com/news/articles/c178zzw780xo)
-- [Mullvad VPN: Banned TV Ad in the Streets of London [video]](https://www.youtube.com/watch?v=rwhznrpgl7k)
-- [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
+- [Launch HN: Cekura &lpar;YC F24&rpar; – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
+- [I&#39;m reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
+- [Don&#39;t Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
+- [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+- [Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
