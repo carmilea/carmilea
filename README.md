@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [8.4 Months of Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
+- [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies)
+- [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
 - [Intent-Based Commits](https://github.com/adamveld12/ghost)
+- [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)
 - [The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai)
-- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
-- [Physicists developing a quantum computer that’s entirely open source](https://physics.aps.org/articles/v19/24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
