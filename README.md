@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC Chair Wants Networks to Pledge Loyalty for America&#39;s Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
+- [You are going to get priced out of the best AI coding tools](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of)
+- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
+- [Someone Needs to Go to Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
+- [Claude is an Electron App because we&#39;ve lost native](https://tonsky.me/blog/fall-of-native/)
 - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
-- [When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
-- [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
-- [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
