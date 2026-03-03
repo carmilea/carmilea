@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
-- [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
-- [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
-- [Arm&#39;s Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
-- [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
+- [Porn depicting sex between step-relatives set to be banned in the UK](https://www.lbc.co.uk/article/pornography-sexual-relationships-step-relatives-5HjdTkd_2/)
+- [Stolen Gemini API key racks up $82,000 in 48 hours](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)
+- [India&#39;s top court angry after junior judge cites fake AI-generated orders](https://www.bbc.com/news/articles/c178zzw780xo)
+- [Mullvad VPN: Banned TV Ad in the Streets of London [video]](https://www.youtube.com/watch?v=rwhznrpgl7k)
+- [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
