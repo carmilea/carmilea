@@ -61,8 +61,8 @@
 - [Arm&#39;s Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
 - [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies)
-- [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
-- [Intent-Based Commits](https://github.com/adamveld12/ghost)
+- [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)
+- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
