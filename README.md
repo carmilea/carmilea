@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC Chair Wants Networks to Pledge Loyalty for America&#39;s Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
 - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
+- [When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 - [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
-- [I Used Claude to File My Taxes for Free](https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html)
-- [Super-Kamiokande [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
-- [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
+- [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
