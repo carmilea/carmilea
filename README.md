@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
-- [A US Government iPhone-Hacking Toolkit Is Now in Foreign Spy and Criminal Hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
-- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
+- [A US Government iPhone-hacking toolkit is now in foreign spy and criminal hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
+- [An Interactive Intro to CRDTs &lpar;2023&rpar;](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
 - [Iran War Cost Tracker](https://iran-cost-ticker.com)
 <!-- BLOG-POST-LIST:END -->
