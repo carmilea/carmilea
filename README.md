@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
-- [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
-- [The workers behind Meta&#39;s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
-- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
-- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- [Show HN: Giggles – A batteries-included React framework for TUIs](https://github.com/zion-off/giggles)
+- [The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai)
+- [Zuckerberg&#39;s internal emails rendered as Facebook Messenger](https://zuckmail.vercel.app/)
+- [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
+- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
