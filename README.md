@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
-- [Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)
-- [Don&#39;t Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
-- [OpenAI CEO Sam Altman Defends Pentagon Work to Staff](https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec)
-- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
+- [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset)
+- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
+- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
+- [You can&#39;t use a code editor when you&#39;re under 18 now?](https://mastodon.online/@marekfort/116164253291515471)
+- [My take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
