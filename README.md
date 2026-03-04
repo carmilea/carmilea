@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)
+- [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+- [It is sweet and fitting to die for one&#39;s country &lpar;1921&rpar;](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
+- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
 - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
-- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
-- [Building a new flash](https://bill.newgrounds.com/news/post/1607118)
-- [Was Windows 1.0&#39;s lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
-- [Father claims Google&#39;s AI product fuelled son&#39;s delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
