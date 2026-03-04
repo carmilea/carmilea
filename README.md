@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset)
-- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
-- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
-- [You can&#39;t use a code editor when you&#39;re under 18 now?](https://mastodon.online/@marekfort/116164253291515471)
-- [My take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+- [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+- [Speculative Speculative Decoding &lpar;SSD&rpar;](https://arxiv.org/abs/2603.03251)
+- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
+- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
