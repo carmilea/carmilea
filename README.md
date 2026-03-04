@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
-- [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
-- [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
-- [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
-- [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
+- [Iran war wreaking havoc on shipping and air cargo, could create global delays](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
+- [Jiga &lpar;YC W21&rpar; Is Hiring](https://jiga.io/about-us)
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+- [Users fume over Outlook.com email &#39;carnage&#39;](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
+- [Bet on German Train Delays](https://bahn.bet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
