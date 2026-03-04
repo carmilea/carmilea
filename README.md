@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Firefox&#39;s right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
-- [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
-- [Roboflow &lpar;YC S20&rpar; Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
-- [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
-- [Factory Logic](https://asteriskmag.com/issues/13/factory-logic)
+- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
+- [Father claims Google&#39;s AI product fuelled son&#39;s delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
+- [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
+- [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
+- [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
