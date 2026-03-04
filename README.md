@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+- [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/)
 - [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
-- [Speculative Speculative Decoding &lpar;SSD&rpar;](https://arxiv.org/abs/2603.03251)
 <!-- BLOG-POST-LIST:END -->
 
 ---
