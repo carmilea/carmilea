@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
+- [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
