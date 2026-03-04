@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
+- [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
+- [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 - [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
 - [The one science reform we can all agree on, but we&#39;re too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
-- [&quot;It Turns Out&quot;](https://jsomers.net/blog/it-turns-out)
-- [Apple Announces Low-Cost &#39;MacBook Neo&#39; with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
-- [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
