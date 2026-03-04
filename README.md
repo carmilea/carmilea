@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
+- [The one science reform we can all agree on, but we&#39;re too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
+- [&quot;It Turns Out&quot;](https://jsomers.net/blog/it-turns-out)
 - [Apple Announces Low-Cost &#39;MacBook Neo&#39; with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
-- [MacBook Neo](https://www.apple.com/macbook-neo/)
 - [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
-- [Glaze by Raycast](https://www.glazeapp.com/)
-- [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
