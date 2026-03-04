@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
-- [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/)
-- [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+- [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
