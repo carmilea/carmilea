@@ -62,7 +62,7 @@
 - [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 - [Speculative Speculative Decoding &lpar;SSD&rpar;](https://arxiv.org/abs/2603.03251)
 - [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
-- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+- [Mac external displays for designers and developers, part 2 &lpar;2022&rpar;](https://bjango.com/articles/macexternaldisplays2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
