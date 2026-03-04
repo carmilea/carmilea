@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Bought Zuck&#39;s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 - [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
 - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
 - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 - [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
-- [The one science reform we can all agree on, but we&#39;re too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
