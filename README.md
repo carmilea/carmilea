@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
 - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
+- [Building a new flash](https://bill.newgrounds.com/news/post/1607118)
+- [Was Windows 1.0&#39;s lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
 - [Father claims Google&#39;s AI product fuelled son&#39;s delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
-- [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
-- [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
-- [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
