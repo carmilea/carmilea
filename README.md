@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran war wreaking havoc on shipping and air cargo, could create global delays](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring](https://jiga.io/about-us)
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
-- [Users fume over Outlook.com email &#39;carnage&#39;](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
-- [Bet on German Train Delays](https://bahn.bet)
+- [Apple Announces Low-Cost &#39;MacBook Neo&#39; with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
+- [MacBook Neo](https://www.apple.com/macbook-neo/)
+- [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+- [Glaze by Raycast](https://www.glazeapp.com/)
+- [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
