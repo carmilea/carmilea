@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relax NG is a schema language for XML](https://relaxng.org/)
-- [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
-- [You Just Reveived](https://dylan.gr/1772520728)
-- [The L in &quot;LLM&quot; Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
-- [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
+- [Smalltalk&#39;s Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
+- [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
+- [Why Traditional Data Warehouses Can’t Handle Hi-Tech Workloads](https://www.singlestore.com/blog/why-traditional-data-warehouses-can-t-handle-hi-tech-workloads)
+- [The Self-Help Trap: What 20 Years of &quot;Optimizing&quot; Has Taught Me](https://tim.blog/2026/03/04/the-self-help-trap/)
+- [Relax NG is a schema language for XML &lpar;2014&rpar;](https://relaxng.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
