@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
-- [SingleStore vs. ClickHouse: Why Consistent Vector Search Latency Matters](https://www.singlestore.com/blog/singlestore-vs-clickhouse-why-consistent-vector-search-latency-matters)
-- [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
-- [Smalltalk&#39;s Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
-- [Poor Man&#39;s Polaroid](https://boxart.lt/blog/poor_mans_polaroid)
+- [BBC says &#39;irreversible&#39; trends mean it will not survive without major overhaul](https://www.theguardian.com/media/2026/mar/05/bbc-charter-renewal-tv-licence-major-overhaul)
+- [Palantir and other tech companies are stocking offices with tobacco products](https://fortune.com/2026/03/04/palantir-tech-companies-offices-vending-machines-tobacco-worker-productivity/)
+- [The IRIX 6.5.7M &lpar;sgi&rpar; source code](https://github.com/calmsacibis995/irix-657m-src)
+- [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
+- [Rising carbon dioxide levels now detected in human blood](https://phys.org/news/2026-02-carbon-dioxide-human-blood.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
