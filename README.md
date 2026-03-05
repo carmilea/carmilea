@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Noem Can&#39;t Explain Why She Hired 8-Day-Old Company for Ad Campaign](https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign)
+- [SingleStore vs. ClickHouse: Why Consistent Vector Search Latency Matters](https://www.singlestore.com/blog/singlestore-vs-clickhouse-why-consistent-vector-search-latency-matters)
 - [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
 - [Smalltalk&#39;s Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
+- [Poor Man&#39;s Polaroid](https://boxart.lt/blog/poor_mans_polaroid)
 - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
-- [Why Traditional Data Warehouses Can’t Handle Hi-Tech Workloads](https://www.singlestore.com/blog/why-traditional-data-warehouses-can-t-handle-hi-tech-workloads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
