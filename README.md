@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relax NG is a schema language for XML](https://relaxng.org/)
 - [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 - [You Just Reveived](https://dylan.gr/1772520728)
+- [The L in &quot;LLM&quot; Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
 - [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
-- [What Python&#39;s asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
-- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
