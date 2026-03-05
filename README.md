@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
 - [SingleStore vs. ClickHouse: Why Consistent Vector Search Latency Matters](https://www.singlestore.com/blog/singlestore-vs-clickhouse-why-consistent-vector-search-latency-matters)
 - [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
 - [Smalltalk&#39;s Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
 - [Poor Man&#39;s Polaroid](https://boxart.lt/blog/poor_mans_polaroid)
-- [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
