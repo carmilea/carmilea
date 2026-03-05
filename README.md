@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+- [Show HN: Check out my new project – SitDeck](https://sitdeck.com)
+- [Ethiopia gets $350M World Bank financing for its digital ID project &lpar;2024&rpar;](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
+- [Proton Mail Helped FBI Unmask Anonymous &#39;Stop Cop City&#39; Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
 - [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
-- [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
-- [Pentagon formally labels Anthropic supply-chain risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
-- [Let&#39;s Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
-- [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
