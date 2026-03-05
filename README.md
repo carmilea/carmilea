@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC says &#39;irreversible&#39; trends mean it will not survive without major overhaul](https://www.theguardian.com/media/2026/mar/05/bbc-charter-renewal-tv-licence-major-overhaul)
-- [Palantir and other tech companies are stocking offices with tobacco products](https://fortune.com/2026/03/04/palantir-tech-companies-offices-vending-machines-tobacco-worker-productivity/)
-- [The IRIX 6.5.7M &lpar;sgi&rpar; source code](https://github.com/calmsacibis995/irix-657m-src)
-- [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
-- [Rising carbon dioxide levels now detected in human blood](https://phys.org/news/2026-02-carbon-dioxide-human-blood.html)
+- [Launch HN: Vela &lpar;YC W26&rpar; – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
+- [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
+- [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
+- [Datasets for Reconstructing Visual Perception from Brain Data](https://github.com/seelikat/neuro-visual-reconstruction-dataset-index)
+- [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 <!-- BLOG-POST-LIST:END -->
 
 ---
