@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
+- [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
+- [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
+- [Pentagon formally labels Anthropic supply-chain risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
 - [Let&#39;s Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
 - [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
-- [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
-- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
