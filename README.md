@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Vela &lpar;YC W26&rpar; – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
-- [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
-- [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
-- [Datasets for Reconstructing Visual Perception from Brain Data](https://github.com/seelikat/neuro-visual-reconstruction-dataset-index)
-- [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
+- [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
+- [Let&#39;s Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
+- [US asked Ukraine for help fighting Iranian drones, Zelensky says](https://www.bbc.com/news/articles/cr5llg0e9g9o)
+- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
+- [The Brand Age](https://paulgraham.com/brandage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
