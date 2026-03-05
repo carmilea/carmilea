@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)
-- [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
-- [It is sweet and fitting to die for one&#39;s country &lpar;1921&rpar;](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
-- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
-- [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
+- [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house)
+- [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
+- [What&#39;s Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)
+- [Googleworkspace/CLI](https://github.com/googleworkspace/cli)
+- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
