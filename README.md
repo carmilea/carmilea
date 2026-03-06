@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
+- [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 - [Launch HN: Palus Finance &lpar;YC W26&rpar;: Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
-- [Never Bet Against x86](https://www.osnews.com/story/144527/never-bet-against-x86/)
 - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 - [Multifactor &lpar;YC F25&rpar; Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
-- [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
