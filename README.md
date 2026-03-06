@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
+- [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
 - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
 - [Stop Using Grey Text &lpar;2025&rpar;](https://catskull.net/stop-using-grey-text.html)
-- [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
-- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
