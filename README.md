@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-- [Art Bits from Apple Macintosh HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
-- [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)
+- [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
+- [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
 - [The worst acquisition in history, again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
-- [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
