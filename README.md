@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Might All Be AI Engineers Now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 - [Stardex &lpar;YC S21&rpar; is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
-- [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
