@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CBP says it can&#39;t comply with refund order](https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html)
 - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
-- [I Dropped Our Production Database and Now Pay 10% More for AWS](https://alexeyondata.substack.com/p/how-i-dropped-our-production-database)
+- [Good Bad ISPs](https://community.torproject.org/relay/community-resources/good-bad-isps/)
 - [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
 - [Show HN: Interactive 3D globe of EU shipping emissions](https://seafloor.pages.dev)
-- [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
