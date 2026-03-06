@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
-- [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
+- [Why Going to Mars Would Be Bad for Your Health](https://slate.com/technology/2026/03/elon-musk-mars-space-travel-health-muscle-atrophy.html)
+- [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
+- [Workers who love &#39;synergizing paradigms&#39; might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 - [Hardening Firefox with Anthropic&#39;s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 - [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
-- [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
