@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
+- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
+- [Stop Using Grey Text &lpar;2025&rpar;](https://catskull.net/stop-using-grey-text.html)
+- [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
 - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
-- [Show HN: Check out my new project – SitDeck](https://sitdeck.com)
-- [Ethiopia gets $350M World Bank financing for its digital ID project &lpar;2024&rpar;](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
-- [Proton Mail Helped FBI Unmask Anonymous &#39;Stop Cop City&#39; Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
-- [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
