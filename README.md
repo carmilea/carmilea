@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
+- [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
+- [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
 - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
-- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-- [Stop Using Grey Text &lpar;2025&rpar;](https://catskull.net/stop-using-grey-text.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
