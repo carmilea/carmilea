@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Palus Finance &lpar;YC W26&rpar;: Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
+- [Never Bet Against x86](https://www.osnews.com/story/144527/never-bet-against-x86/)
+- [Claude Code wiped our production database with a Terraform command](https://twitter.com/Al_Grigor/status/2029889772181934425)
+- [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 - [Multifactor &lpar;YC F25&rpar; Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
-- [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
-- [CBP says it can&#39;t comply with refund order](https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html)
-- [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
-- [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
