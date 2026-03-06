@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Agentic AI for Credit Risk : From Raw Data to Default Prediction with H2O Driverless AI](https://www.youtube.com/watch?v=3tMMMPp7sXE)
-- [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
-- [Live from Nasdaq Marketsite: Sri Ambati &lpar;H2O.ai&rpar; and Dan Jermyn &lpar;CBA&rpar;](https://www.youtube.com/watch?v=h_LF9_UpXFY)
-- [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
-- [Automatic PR Reviews using h2oGPTe Action](https://www.youtube.com/watch?v=RFGLvOUFs-k)
+- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=00Kl_UMbaIs)
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=H1dw0akh95s)
+- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=aXU84hvU-io)
+- [Using AI to Highlight Risky Events in Audit Logs](https://www.youtube.com/watch?v=yw3NuTTup48)
 <!-- YOUTUBE:END -->
 
 
