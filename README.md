@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multifactor &lpar;YC F25&rpar; Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
+- [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
 - [CBP says it can&#39;t comply with refund order](https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html)
-- [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
-- [Good Bad ISPs](https://community.torproject.org/relay/community-resources/good-bad-isps/)
-- [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
-- [Show HN: Interactive 3D globe of EU shipping emissions](https://seafloor.pages.dev)
+- [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
+- [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
