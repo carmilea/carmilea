@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
+- [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
+- [Why it takes you and an elephant the same amount of time to poop &lpar;2017&rpar;](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
-- [Launch HN: Palus Finance &lpar;YC W26&rpar;: Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
-- [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
-- [Multifactor &lpar;YC F25&rpar; Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
+- [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
+- [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
