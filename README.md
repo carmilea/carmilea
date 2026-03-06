@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
+- [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
+- [Hardening Firefox with Anthropic&#39;s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
+- [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
-- [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
-- [Stardex &lpar;YC S21&rpar; is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-- [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
-- [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
