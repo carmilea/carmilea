@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+- [Art Bits from Apple Macintosh HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
+- [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)
+- [The worst acquisition in history, again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
-- [Why it takes you and an elephant the same amount of time to poop &lpar;2017&rpar;](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
-- [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
-- [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
-- [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
