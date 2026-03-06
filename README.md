@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Going to Mars Would Be Bad for Your Health](https://slate.com/technology/2026/03/elon-musk-mars-space-travel-health-muscle-atrophy.html)
-- [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
-- [Workers who love &#39;synergizing paradigms&#39; might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
-- [Hardening Firefox with Anthropic&#39;s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
-- [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
+- [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
+- [I Dropped Our Production Database and Now Pay 10% More for AWS](https://alexeyondata.substack.com/p/how-i-dropped-our-production-database)
+- [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
+- [Show HN: Interactive 3D globe of EU shipping emissions](https://seafloor.pages.dev)
+- [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
