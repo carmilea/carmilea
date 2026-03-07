@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Doesn&#39;t Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
+- [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
+- [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
 - [PC processors entered the Gigahertz era today in the year 2000 with AMD&#39;s Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
 - [Tinnitus Is Connected to Sleep](https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function)
-- [The Case of the Disappearing Secretary](https://rowlandmanthorpe.substack.com/p/the-case-of-the-disappearing-secretary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
