@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
-- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-- [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
-- [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
-- [The worst acquisition in history, again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
+- [LLMs optimize for plausibility over correctness](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
+- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
+- [Tell HN: I&#39;m 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777)
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+- [Show HN: The Roman Industrial Revolution that could have been &lpar;Vol 2&rpar;](https://thelydianstone.com/volume-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
