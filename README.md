@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
+- [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
 - [SigNoz &lpar;YC W21, open source Datadog&rpar; Is Hiring across roles](https://signoz.io/careers)
 - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
