@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
+- [Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?](https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper)
+- [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
+- [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
+- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
 - [CasNum](https://github.com/0x0mer/CasNum)
-- [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
-- [We&#39;re Training Students to Write Worse to Prove They&#39;re Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
-- [SigNoz &lpar;YC W21, open source Datadog&rpar; Is Hiring across roles](https://signoz.io/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
