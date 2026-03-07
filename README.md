@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 - [SigNoz &lpar;YC W21, open source Datadog&rpar; Is Hiring across roles](https://signoz.io/careers)
+- [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-- [Tech jobs are getting demolished in ways not seen since 2008](https://www.businessinsider.com/tech-jobs-getting-demolished-great-recession-dot-com-era-2026-3)
-- [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
+- [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
