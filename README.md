@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?](https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper)
+- [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)
 - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
 - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
+- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 - [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
-- [CasNum](https://github.com/0x0mer/CasNum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
