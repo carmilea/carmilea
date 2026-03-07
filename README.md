@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://tanstaafl.email)
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
-- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
