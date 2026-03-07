@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
+- [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
+- [We&#39;re Training Students to Write Worse to Prove They&#39;re Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 - [SigNoz &lpar;YC W21, open source Datadog&rpar; Is Hiring across roles](https://signoz.io/careers)
 - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-- [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
