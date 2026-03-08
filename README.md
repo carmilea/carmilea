@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
+- [Detection Is Not Protection: What WAF Detection Mode Does &lpar;and Doesn&#39;t&rpar;](https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/)
+- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
 - [Artificial-life: A simple &lpar;300 lines of code&rpar; reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-- [Neural Boids](https://campedersen.com/noid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
