@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
+- [How Big Diaper absorbs billions of extra dollars from American parents](https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents)
+- [The New Apple Begins to Emerge](https://parkerortolani.blog/2026/03/07/the-new-apple-finally-begins.html)
 - [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
-- [Ask HN: How to Be Alone?](https://news.ycombinator.com/item?id=47296547)
 - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
-- [Apple&#39;s 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
-- [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
