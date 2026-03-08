@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
-- [I&#39;m Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
-- [Ask HN: Why there are no actual studies that show AI is more productive?](https://news.ycombinator.com/item?id=47295628)
 - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 - [Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
+- [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
+- [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
