@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)
+- [&quot;I Can&#39;t Do That, Dave&quot; – No Agent Yet](https://systemic.engineering/ai-needs-identity/)
+- [Show HN: Skir – like Protocol Buffer but better](https://skir.build/)
 - [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
 - [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/)
-- [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
-- [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
-- [FrameBook](https://fb.edoo.gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
