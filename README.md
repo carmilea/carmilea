@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
+- [New Research Reassesses the Value of Agents.md Files for AI Coding](https://www.infoq.com/news/2026/03/agents-context-file-value-review/)
+- [Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
-- [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
-- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-- [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
