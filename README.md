@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+- [FrameBook](https://fb.edoo.gg)
+- [Living Human Brain Cells Play Doom on a CL1](https://corticallabs.com/doom.html)
+- [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
 - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
-- [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
-- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
-- [How Big Diaper absorbs billions of extra dollars from American parents](https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents)
-- [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
