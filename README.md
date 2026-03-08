@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
+- [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/)
+- [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
 - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 - [FrameBook](https://fb.edoo.gg)
-- [Living Human Brain Cells Play Doom on a CL1](https://corticallabs.com/doom.html)
-- [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
-- [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
