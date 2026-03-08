@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 - [New Research Reassesses the Value of Agents.md Files for AI Coding](https://www.infoq.com/news/2026/03/agents-context-file-value-review/)
 - [Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
-- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
