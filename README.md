@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
+- [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
 - [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
 - [How Big Diaper absorbs billions of extra dollars from American parents](https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents)
-- [The New Apple Begins to Emerge](https://parkerortolani.blog/2026/03/07/the-new-apple-finally-begins.html)
 - [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
-- [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
