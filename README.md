@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
 - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
-- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
 - [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
 - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+- [I don&#39;t know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
+- [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
