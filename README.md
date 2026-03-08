@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
 - [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
 - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
-- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
