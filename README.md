@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs](https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at)
-- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-- [Put the zip code first](https://zipcodefirst.com)
-- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-- [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
+- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
+- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
+- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
+- [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
+- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
