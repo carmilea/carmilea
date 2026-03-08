@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
+- [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
+- [I&#39;m Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
+- [Ask HN: Why there are no actual studies that show AI is more productive?](https://news.ycombinator.com/item?id=47295628)
 - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
-- [New Research Reassesses the Value of Agents.md Files for AI Coding](https://www.infoq.com/news/2026/03/agents-context-file-value-review/)
 - [Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
-- [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
