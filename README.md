@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)
+- [Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs](https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at)
+- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+- [Put the zip code first](https://zipcodefirst.com)
+- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
 - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
-- [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
-- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
-- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
