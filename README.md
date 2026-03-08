@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
-- [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
-- [I made a programming language with M&amp;Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
-- [In vitro neurons learn and exhibit sentience when embodied in a game-world&lpar;2022&rpar;](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue)
-- [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
+- [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+- [Artificial-life: A simple &lpar;300 lines of code&rpar; reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
+- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+- [Neural Boids](https://campedersen.com/noid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
