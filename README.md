@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zuckerberg has &quot;finished&quot; with Alexandr Wang, worth US$14B](https://www.idnfinancials.com/news/61918/zuckerberg-has-finished-with-alexandr-wang-worth-us14-billion)
+- [So you want to write an &quot;app&quot; &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
+- [Oracle is building yesterday&#39;s data centers with tomorrow&#39;s debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
 - [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
-- [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
-- [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
-- [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)
+- [Things I&#39;ve Done with AI](https://sjer.red/blog/2026/built-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
