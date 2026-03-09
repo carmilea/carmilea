@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India offered sanctuary to Iranian ship three days before US sank it](https://www.bbc.com/news/articles/c2e4yxj0pd3o)
+- [New farm bill would condemn pigs to a lifetime in gestation crates](https://twitter.com/Lewis_Bollard/status/2030985704902099335)
+- [The engine of Germany&#39;s wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
+- [Revealed: UK&#39;s multibillion AI drive is built on &#39;phantom investments&#39;](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
 - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
-- [Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
-- [Ireland shuts last coal plant, becomes 15th coal-free country in Europe &lpar;2025&rpar;](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
