@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oil Is Near a Price That Hurts the Economy](https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc)
+- [Show HN: The Mog Programming Language](https://moglang.org)
 - [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
-- [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 - [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
-- [The 1979 Design Choice Breaking AI Workloads](https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts)
 - [DARPA&#39;s new X-76 Experimental Plane](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 <!-- BLOG-POST-LIST:END -->
 
