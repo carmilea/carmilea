@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
+- [Ireland shuts last coal plant, becomes 15th coal-free country in Europe](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
+- [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
+- [MiniMax Music 2.5 – AI Music Generation Model for Fast Song Creation](https://www.minimax-music.com/minimax-music-2-5)
 - [US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
-- [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP](https://github.com/knowsuchagency/mcp2cli)
-- [The death of social media is the renaissance of RSS &lpar;2025&rpar;](https://www.smartlab.at/rss-revival-life-after-social-media/)
-- [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/)
-- [Ask HN: What Are You Working On? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47303111)
 <!-- BLOG-POST-LIST:END -->
 
 ---
