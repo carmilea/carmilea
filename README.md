@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of Social Media Is the Renaissance of RSS](https://www.smartlab.at/rss-revival-life-after-social-media/)
+- [Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000)
+- [The death of social media is the renaissance of RSS &lpar;2025&rpar;](https://www.smartlab.at/rss-revival-life-after-social-media/)
+- [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/)
 - [Ask HN: What Are You Working On? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47303111)
 - [Last Statements](https://walzr.com/last-statements)
-- [Linux Internals: How /proc/self/mem writes to unwritable memory &lpar;2021&rpar;](https://offlinemark.com/an-obscure-quirk-of-proc/)
-- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
