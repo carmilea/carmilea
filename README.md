@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Death of Social Media Is the Renaissance of RSS](https://www.smartlab.at/rss-revival-life-after-social-media/)
 - [Ask HN: What Are You Working On? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47303111)
 - [Last Statements](https://walzr.com/last-statements)
 - [Linux Internals: How /proc/self/mem writes to unwritable memory &lpar;2021&rpar;](https://offlinemark.com/an-obscure-quirk-of-proc/)
 - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
