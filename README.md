@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New farm bill would condemn pigs to a lifetime in gestation crates](https://twitter.com/Lewis_Bollard/status/2030985704902099335)
-- [The engine of Germany&#39;s wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
-- [Revealed: UK&#39;s multibillion AI drive is built on &#39;phantom investments&#39;](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
-- [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
-- [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
+- [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
+- [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
+- [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
+- [The 1979 Design Choice Breaking AI Workloads](https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts)
+- [DARPA&#39;s new X-76 Experimental Plane](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
