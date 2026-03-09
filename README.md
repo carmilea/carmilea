@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)
+- [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
 - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
-- [So you want to write an &quot;app&quot; &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
+- [So you want to write an “app” &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
 - [Oracle is building yesterday&#39;s data centers with tomorrow&#39;s debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- [The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
