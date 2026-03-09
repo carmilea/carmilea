@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg has &quot;finished&quot; with Alexandr Wang, worth US$14B](https://www.idnfinancials.com/news/61918/zuckerberg-has-finished-with-alexandr-wang-worth-us14-billion)
+- [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
 - [So you want to write an &quot;app&quot; &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
 - [Oracle is building yesterday&#39;s data centers with tomorrow&#39;s debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [Things I&#39;ve Done with AI](https://sjer.red/blog/2026/built-with-ai/)
+- [The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
