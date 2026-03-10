@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yann LeCun&#39;s AI startup raises $1B in Europe&#39;s largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+- [I put my whole life into a single database](https://howisfelix.today/)
 - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 - [LoGeR – 3D reconstruction from extremely long videos &lpar;DeepMind, UC Berkeley&rpar;](https://loger-project.github.io)
 - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
-- [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
-- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
 <!-- BLOG-POST-LIST:END -->
 
 ---
