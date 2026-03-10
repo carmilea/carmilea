@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 - [HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive &lpar;2022&rpar;](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
-- [Widevine retiring its Cloud License Service &lpar;CLS&rpar;](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
 - [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
 - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
+- [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
