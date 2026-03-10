@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
-- [Launch HN: RunAnywhere &lpar;YC W26&rpar; – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
-- [Isotopic Evidence for a Cold and Distant Origin of Interstellar Object 3I/Atlas](https://arxiv.org/abs/2603.06911)
-- [Defeat as Method](https://www.cabinetmagazine.org/issues/71/khosravi.php)
-- [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
+- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
+- [HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive &lpar;2022&rpar;](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
+- [Widevine retiring its Cloud License Service &lpar;CLS&rpar;](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
+- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
+- [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
