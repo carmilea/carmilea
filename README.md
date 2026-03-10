@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: RunAnwhere – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
+- [Microsoft Copilot Update Hijacks Default Browser Links](https://reclaimthenet.org/microsoft-copilot-update-hijacks-default-browser-links)
+- [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
+- [$3 ChromeOS Flex stick will revive old and outdated computers](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)
 - [Launch HN: Didit &lpar;YC W26&rpar; – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
-- [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
-- [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
-- [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
-- [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
