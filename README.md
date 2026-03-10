@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
 - [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+- [No, it doesn&#39;t cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
 - [So you want to write an “app” &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
-- [Oracle is building yesterday&#39;s data centers with tomorrow&#39;s debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
