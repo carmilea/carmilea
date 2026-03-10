@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 - [LoGeR – 3D reconstruction from extremely long videos &lpar;DeepMind, UC Berkeley&rpar;](https://loger-project.github.io)
 - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
 - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
-- [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
