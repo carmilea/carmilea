@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online age-verification tools for child safety are surveilling adults](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)
-- [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
-- [Yann LeCun&#39;s AI startup raises $1B in Europe&#39;s largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
-- [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
-- [I put my whole life into a single database](https://howisfelix.today/)
+- [Intensifying global heat threatens livability for younger and older adults](https://iopscience.iop.org/article/10.1088/2752-5309/ae3c3a)
+- [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
+- [Sending Jabber/XMPP Messages via HTTP](https://gultsch.de/posts/xmpp-via-http/)
+- [Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs](https://dnhkng.github.io/posts/rys/)
+- [Show HN: DD Photos – open-source photo album site generator &lpar;Go and SvelteKit&rpar;](https://github.com/dougdonohoe/ddphotos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
