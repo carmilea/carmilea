@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
-- [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+- [LoGeR – 3D reconstruction from extremely long videos &lpar;DeepMind, UC Berkeley&rpar;](https://loger-project.github.io)
 - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
 - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+- [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
