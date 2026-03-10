@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)
-- [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
-- [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
+- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 - [So you want to write an “app” &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
 - [Oracle is building yesterday&#39;s data centers with tomorrow&#39;s debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
+- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
