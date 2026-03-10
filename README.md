@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intensifying global heat threatens livability for younger and older adults](https://iopscience.iop.org/article/10.1088/2752-5309/ae3c3a)
-- [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
-- [Sending Jabber/XMPP Messages via HTTP](https://gultsch.de/posts/xmpp-via-http/)
-- [Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs](https://dnhkng.github.io/posts/rys/)
-- [Show HN: DD Photos – open-source photo album site generator &lpar;Go and SvelteKit&rpar;](https://github.com/dougdonohoe/ddphotos)
+- [Launch HN: Didit &lpar;YC W26&rpar; – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
+- [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
+- [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+- [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+- [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
