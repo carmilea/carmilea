@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
+- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+- [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
-- [Iowa Payphone Defends Itself &lpar;Associated Press, 1984&rpar;](https://www.payphone-project.com/iowa-payphone-defends-itself-ap-story-from-october-1984.html)
-- [HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive &lpar;2022&rpar;](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
-- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
-- [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
+- [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
