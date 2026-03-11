@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
+- [Iran warns U.S. tech firms could become targets as war expands](https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets)
 - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
 - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
-- [We Were Right About Havana Syndrome](https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/)
-- [Don&#39;t post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
-- [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
