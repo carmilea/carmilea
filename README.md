@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
-- [Modern wealth is a parlour game played by the well fed](https://www.chrbutler.com/modern-wealth-parlour-game)
-- [Why the Global Elite Gave Up on Spelling and Grammar](https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1)
-- [Let yourself fall down more](https://ntietz.com/blog/let-yourself-fall-down-more/)
-- [Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
+- [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
+- [Launch HN: Sentrial &lpar;YC W26&rpar; – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/)
+- [Launch HN: Prism &lpar;YC X25&rpar; – Workspace and API to generate and edit videos](https://www.prismvideos.com)
+- [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
+- [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
