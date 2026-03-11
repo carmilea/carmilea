@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
+- [Fungal Electronics &lpar;2021&rpar;](https://arxiv.org/abs/2111.11231)
 - [Launch HN: Sentrial &lpar;YC W26&rpar; – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/)
+- [Show HN: I built a tool that watches webpages and exposes changes as RSS](https://sitespy.app)
 - [Launch HN: Prism &lpar;YC X25&rpar; – Workspace and API to generate and edit videos](https://www.prismvideos.com)
-- [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
-- [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
