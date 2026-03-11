@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Asin&lpar;&rpar; Was Hiding in Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
-- [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
-- [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
-- [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
-- [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
+- [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
+- [Modern wealth is a parlour game played by the well fed](https://www.chrbutler.com/modern-wealth-parlour-game)
+- [Why the Global Elite Gave Up on Spelling and Grammar](https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1)
+- [Let yourself fall down more](https://ntietz.com/blog/let-yourself-fall-down-more/)
+- [Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
