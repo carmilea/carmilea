@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
 - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 - [I&#39;m going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
 - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
-- [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
