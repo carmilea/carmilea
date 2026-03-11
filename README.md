@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
-- [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
-- [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
-- [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
-- [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
+- [Faster Asin&lpar;&rpar; Was Hiding in Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
+- [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
+- [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
+- [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
+- [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
