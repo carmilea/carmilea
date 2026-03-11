@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
-- [Fungal Electronics &lpar;2021&rpar;](https://arxiv.org/abs/2111.11231)
-- [Launch HN: Sentrial &lpar;YC W26&rpar; – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/)
-- [Show HN: I built a tool that watches webpages and exposes changes as RSS](https://sitespy.app)
-- [Launch HN: Prism &lpar;YC X25&rpar; – Workspace and API to generate and edit videos](https://www.prismvideos.com)
+- [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
+- [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
+- [We Were Right About Havana Syndrome](https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/)
+- [Don&#39;t post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
+- [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
