@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Standardizing Source Maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
+- [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+- [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
+- [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 - [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
-- [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
-- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
