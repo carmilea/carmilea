@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+- [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html)
+- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 - [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
-- [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
+- [Urea prices](https://tradingeconomics.com/commodity/urea)
 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
-- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
