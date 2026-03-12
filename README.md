@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
+- [SBCL: A Sanely-Bootstrappable Common Lisp &lpar;2008&rpar; [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
-- [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html)
 - [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
-- [Urea prices](https://tradingeconomics.com/commodity/urea)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
