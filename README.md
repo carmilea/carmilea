@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Urea prices](https://tradingeconomics.com/commodity/urea)
-- [Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015](https://support.apple.com/en-us/126632)
+- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
 - [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 - [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
