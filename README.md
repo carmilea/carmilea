@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
-- [Atlassian CEO: AI doesn&#39;t replace people here, but we&#39;re firing them anyway](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
-- [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
-- [Colon cancer now leading cause of cancer deaths under 50 in US](https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths)
-- [US- and Greek-owned tankers ablaze after Iran claims &#39;underwater drone&#39; strike](https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters)
+- [Scrt: A CLI secret manager for developers, sysadmins and DevOps](https://github.com/loderunner/scrt)
+- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
+- [Apple&#39;s MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/)
+- [Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs](https://logclaw.ai)
+- [Show HN: Understudy – Teach a desktop agent by demonstrating a task once](https://github.com/understudy-ai/understudy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
