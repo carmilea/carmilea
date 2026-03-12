@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
-- [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
-- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
-- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
-- [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
+- [Urea prices](https://tradingeconomics.com/commodity/urea)
+- [Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015](https://support.apple.com/en-us/126632)
+- [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
