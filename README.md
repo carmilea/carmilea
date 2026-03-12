@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
-- [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
-- [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
-- [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
-- [Avoiding Trigonometry &lpar;2013&rpar;](https://iquilezles.org/articles/noacos/)
+- [Suburban school district uses license plate readers to verify student residency](https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/)
+- [Hive &lpar;YC S14&rpar; is hiring scrappy product managers and product/data engineers](https://jobs.ashbyhq.com/hive.co)
+- [Kotlin creator&#39;s new language: a formal way to talk to LLMs instead of English](https://codespeak.dev/)
+- [Show HN: Axe A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
+- [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
