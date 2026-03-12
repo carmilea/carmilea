@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qodo Outperforms Claude in Code Review Benchmark](https://www.qodo.ai/blog/qodo-outperforms-claude-in-code-review-benchmark/)
-- [Show HN: OpenClaw-class agents on ESP32 &lpar;and the IDE that makes it possible&rpar;](https://pycoclaw.com/)
+- [The AI coding divide: craft lovers vs. result chasers](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 - [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+- [An old photo of a large BBS &lpar;2022&rpar;](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
