@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suburban school district uses license plate readers to verify student residency](https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/)
-- [Hive &lpar;YC S14&rpar; is hiring scrappy product managers and product/data engineers](https://jobs.ashbyhq.com/hive.co)
-- [Kotlin creator&#39;s new language: a formal way to talk to LLMs instead of English](https://codespeak.dev/)
-- [Show HN: Axe A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
-- [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)
+- [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
+- [Atlassian CEO: AI doesn&#39;t replace people here, but we&#39;re firing them anyway](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
+- [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
+- [Colon cancer now leading cause of cancer deaths under 50 in US](https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths)
+- [US- and Greek-owned tankers ablaze after Iran claims &#39;underwater drone&#39; strike](https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
