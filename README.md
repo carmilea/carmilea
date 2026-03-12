@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
+- [Avoiding Trigonometry &lpar;2013&rpar;](https://iquilezles.org/articles/noacos/)
 - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
+- [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era)
 - [SBCL: A Sanely-Bootstrappable Common Lisp &lpar;2008&rpar; [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
-- [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
-- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
