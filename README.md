@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)
+- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+- [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
-- [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
-- [Runners Are Discovering It&#39;s Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
-- [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
-- [Launch HN: IonRouter &lpar;YC W26&rpar; – High-throughput, low-cost inference](https://ionrouter.io)
+- [An old photo of a large BBS &lpar;2022&rpar;](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
