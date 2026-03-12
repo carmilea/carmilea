@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)
-- [Scrt: A CLI secret manager for developers, sysadmins and DevOps](https://github.com/loderunner/scrt)
-- [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
-- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
-- [Apple&#39;s MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/)
+- [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+- [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
+- [Runners Are Discovering It&#39;s Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
+- [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
+- [Launch HN: IonRouter &lpar;YC W26&rpar; – High-throughput, low-cost inference](https://ionrouter.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
