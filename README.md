@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
+- [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
 - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
 - [Avoiding Trigonometry &lpar;2013&rpar;](https://iquilezles.org/articles/noacos/)
-- [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
-- [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era)
 <!-- BLOG-POST-LIST:END -->
 
 ---
