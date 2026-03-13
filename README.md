@@ -62,7 +62,7 @@
 - [Stanford researchers report first recording of a blue whale&#39;s heart rate &lpar;2019&rpar;](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
 - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [You deleted everything and AWS is still charging you?](https://jvogel.me/posts/2026/aws-still-charging-you/)
+- [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
