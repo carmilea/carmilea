@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Technology Makes Us More Productive but Not Richer](https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup)
+- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
-- [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
+- [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
 - [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
-- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
-- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 <!-- BLOG-POST-LIST:END -->
 
 ---
