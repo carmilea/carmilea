@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bucketsquatting is &lpar;finally&rpar; dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+- [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 - [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
-- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
-- [Grief and the AI split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
