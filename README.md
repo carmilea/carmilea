@@ -48,8 +48,8 @@
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=VJbV2QygdjI)
 - [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=helDb70emrk)
 - [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=-SSIqE4M9r0)
-- [Agentic AI for Credit Risk : From Raw Data to Default Prediction with H2O Driverless AI](https://www.youtube.com/watch?v=3tMMMPp7sXE)
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=00Kl_UMbaIs)
+- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=H1dw0akh95s)
 <!-- YOUTUBE:END -->
 
 
