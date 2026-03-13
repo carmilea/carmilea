@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI coding divide: craft lovers vs. result chasers](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+- [&quot;This Is Not the Computer for You&quot;](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 - [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
-- [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
-- [An old photo of a large BBS &lpar;2022&rpar;](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
+- [Launch HN: IonRouter &lpar;YC W26&rpar; – High-throughput, low-cost inference](https://ionrouter.io)
+- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
