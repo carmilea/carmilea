@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+- [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+- [Launch HN: Spine Swarm &lpar;YC S23&rpar; – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
+- [Nanny state discovers Linux, demands it check kids&#39; IDs before booting](https://www.theregister.com/2026/03/13/opinion_os_verification/)
+- [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
 - [Show HN: Algorithms and Data Structures in TypeScript – Free Book &lpar;~400 Pages&rpar;](http://amoilanen.github.io/Algorithms-with-Typescript/)
-- [Prompt-caching – auto-injects Anthropic cache breakpoints &lpar;90% token savings&rpar;](https://prompt-caching.ai/)
-- [TUI Studio – visual terminal UI design tool](https://tui.studio/)
-- [I traced $2B in grants and 45 states&#39; lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
