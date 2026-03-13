@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two long-lost episodes of &#39;Doctor Who&#39; have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
+- [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
 - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
 - [Launch HN: Spine Swarm &lpar;YC S23&rpar; – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
-- [Nanny state discovers Linux, demands it check kids&#39; IDs before booting](https://www.theregister.com/2026/03/13/opinion_os_verification/)
 - [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
-- [Show HN: Algorithms and Data Structures in TypeScript – Free Book &lpar;~400 Pages&rpar;](http://amoilanen.github.io/Algorithms-with-Typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
