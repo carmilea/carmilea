@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you capture WHY engineering decisions were made, not just what?](https://news.ycombinator.com/item?id=47368874)
+- [The wild six weeks for NanoClaw&#39;s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - [Stanford researchers report first recording of a blue whale&#39;s heart rate &lpar;2019&rpar;](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
-- [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
-- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
+- [Digg is gone again](https://digg.com/)
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
