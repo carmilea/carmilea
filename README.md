@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ECJ says EU states must change gender of citizens even if nat&#39;l laws forbid it](https://brusselssignal.eu/2026/03/ecj-says-member-states-must-change-gender-of-citizens-even-if-national-laws-forbid-it/)
-- [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
-- [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)
-- [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)
-- [The Wyden Siren Goes Off Again: We&#39;ll Be &quot;Stunned&quot; by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+- [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
+- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
+- [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
+- [The Accidental Room &lpar;2018&rpar;](https://99percentinvisible.org/episode/the-accidental-room/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
