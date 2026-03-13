@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI toys for children misread emotions and respond inappropriately](https://www.bbc.co.uk/news/articles/clyg4wx6nxgo)
+- [Peter Thiel&#39;s Antichrist Lectures](https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743)
+- [I traced $2B in grants and 45 states&#39; lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+- [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
 - [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
-- [Bucketsquatting is &lpar;finally&rpar; dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
-- [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
-- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
-- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
