@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Technology Makes Us More Productive but Not Richer](https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup)
+- [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
+- [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 - [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
-- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
