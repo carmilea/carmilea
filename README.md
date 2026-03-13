@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
 - [Bucketsquatting is &lpar;finally&rpar; dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 - [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
-- [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
-- [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
+- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
