@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford researchers report first recording of a blue whale&#39;s heart rate &lpar;2019&rpar;](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
+- [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
+- [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
-- [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
-- [The Accidental Room &lpar;2018&rpar;](https://99percentinvisible.org/episode/the-accidental-room/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
