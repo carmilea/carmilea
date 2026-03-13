@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI toys for children misread emotions and respond inappropriately](https://www.bbc.co.uk/news/articles/clyg4wx6nxgo)
-- [Peter Thiel&#39;s Antichrist Lectures](https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743)
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+- [Show HN: Algorithms and Data Structures in TypeScript – Free Book &lpar;~400 Pages&rpar;](http://amoilanen.github.io/Algorithms-with-Typescript/)
+- [Prompt-caching – auto-injects Anthropic cache breakpoints &lpar;90% token savings&rpar;](https://prompt-caching.ai/)
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 - [I traced $2B in grants and 45 states&#39; lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
-- [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
-- [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
