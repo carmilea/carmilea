@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+- [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
+- [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 - [NMAP in the Movies](https://nmap.org/movies/)
-- [Online astroturfing: A problem beyond disinformation](https://journals.sagepub.com/doi/10.1177/01914537221108467)
-- [Jürgen Habermas, influential German philosopher, dies at 96](https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5)
-- [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
-- [Montana passes Right to Compute act &lpar;2025&rpar;](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
+- [An Ode to Bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
