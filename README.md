@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
-- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
-- [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
-- [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
-- [Nmap in the movies &lpar;2008&rpar;](https://nmap.org/movies/)
+- [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
+- [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
+- [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
+- [MCP Is Dead; Long Live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
+- [It&#39;s time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
