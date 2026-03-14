@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+- [Digg.com Closing Due to Spam](https://digg.com?hn)
+- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
 - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
-- [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 - [NMAP in the Movies](https://nmap.org/movies/)
-- [An Ode to Bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
+- [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
