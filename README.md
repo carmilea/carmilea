@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arizona&#39;s Meteor Crater is still revealing new secrets 50k years later](https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later)
+- [AI Didn&#39;t Simplify Software Engineering: It Just Made Bad Engineering Easier](https://robenglander.com/writing/ai-did-not-simplify/)
 - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
-- [Mothers Defense &lpar;YC X26&rpar; Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-- [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
-- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
-- [Please Do Not A/B Test My Workflow](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
+- [Montana Leads the Nation with Groundbreaking Right to Compute Act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
+- [9 Mothers Defense &lpar;YC P26&rpar; Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
