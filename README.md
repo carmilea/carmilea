@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture](https://tboteproject.com)
 - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
 - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
 - [I beg you to follow Crocker&#39;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
+- [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
