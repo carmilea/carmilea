@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Digg.com Closing Due to Spam](https://digg.com?hn)
+- [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
 - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
+- [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
 - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
-- [NMAP in the Movies](https://nmap.org/movies/)
-- [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com)
+- [Nmap in the movies &lpar;2008&rpar;](https://nmap.org/movies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
