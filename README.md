@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
+- [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
+- [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 - [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
 - [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
-- [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
-- [MCP Is Dead; Long Live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
-- [It&#39;s time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
