@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
+- [Mothers Defense &lpar;YC X26&rpar; Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 - [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
 - [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
-- [Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
-- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
-- [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
+- [Please Do Not A/B Test My Workflow](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
