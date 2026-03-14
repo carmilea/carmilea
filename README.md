@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
+- [Ageless Linux. We are legally required to ask how old you are. We won&#39;t](https://agelesslinux.org/)
 - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
-- [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
-- [Cursor billed us $450 for a seat that existed for seconds](https://cursor.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
