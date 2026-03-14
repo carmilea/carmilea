@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arizona&#39;s Meteor Crater is still revealing new secrets 50k years later](https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later)
-- [AI Didn&#39;t Simplify Software Engineering: It Just Made Bad Engineering Easier](https://robenglander.com/writing/ai-did-not-simplify/)
+- [NMAP in the Movies](https://nmap.org/movies/)
+- [Online astroturfing: A problem beyond disinformation](https://journals.sagepub.com/doi/10.1177/01914537221108467)
+- [Jürgen Habermas, influential German philosopher, dies at 96](https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5)
 - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
-- [Montana Leads the Nation with Groundbreaking Right to Compute Act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
-- [9 Mothers Defense &lpar;YC P26&rpar; Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+- [Montana passes Right to Compute act &lpar;2025&rpar;](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
