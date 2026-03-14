@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
+- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
+- [Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
+- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 - [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
-- [UCP Protocol: The Internet Has 100M Shops and No Front Door](https://askucp.com/blog)
-- [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)
-- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
-- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
