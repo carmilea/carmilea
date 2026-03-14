@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I beg you to follow Crocker&#39;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
+- [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)
+- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
+- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
 - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-- [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
-- [Stanford researchers report first recording of a blue whale&#39;s heart rate &lpar;2019&rpar;](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
-- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
+- [Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
