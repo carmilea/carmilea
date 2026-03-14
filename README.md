@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
-- [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
+- [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai)
 - [I beg you to follow Crocker&#39;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 <!-- BLOG-POST-LIST:END -->
 
