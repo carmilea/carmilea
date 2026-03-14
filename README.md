@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+- [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
-- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-- [Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
+- [I beg you to follow Crocker&#39;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
