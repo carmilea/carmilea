@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
+- [The Appalling Stupidity of Spotify&#39;s AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
