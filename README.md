@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 60 years old. Claude Code killed a passion](https://news.ycombinator.com/item?id=47386813)
+- [Brazil publishes a list of companies needing age verification, includes Ubuntu](https://www.gov.br/anpd/pt-br/assuntos/noticias/em-acao-de-monitoramento-do-eca-digital-a-anpd-estende-o-prazo-para-que-empresas-prestem-informacoes-sobre-implementacao-das-novas-regras)
+- [Small U.S. town, big company. Can it weather the tariff Blizzard? &lpar;Digi-Key&rpar;](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
+- [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
+- [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
 - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
-- [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
-- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
-- [Generating All 32-Bit Primes &lpar;Part I&rpar;](https://hnlyman.github.io/pages/prime32_I.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
