@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Palantir defends its role in the kill chain: &quot;We are proud of that&quot;](https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html)
 - [UMD Scientists Create &#39;Smart Underwear&#39; to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)
 - [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
+- [Learning athletic humanoid tennis skills from imperfect human motion data](https://zzk273.github.io/LATENT/)
 - [What makes Intel Optane stand out &lpar;2023&rpar;](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
-- [The Official DR DOS Website](https://www.dr-dos.com/)
+- [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
