@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil publishes a list of companies needing age verification, includes Ubuntu](https://www.gov.br/anpd/pt-br/assuntos/noticias/em-acao-de-monitoramento-do-eca-digital-a-anpd-estende-o-prazo-para-que-empresas-prestem-informacoes-sobre-implementacao-das-novas-regras)
-- [Small U.S. town, big company. Can it weather the tariff Blizzard? &lpar;Digi-Key&rpar;](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
-- [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
-- [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
-- [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
+- [The Official DR DOS Website](https://www.dr-dos.com/)
+- [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
+- [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
+- [Small U.S. town, big company. Can it weather the tariff Blizzard? &lpar;Digi-Key&rpar; &lpar;2025&rpar;](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
+- [Show HN: What if your synthesizer was powered by APL &lpar;or a dumb K clone&rpar;?](https://octetta.github.io/k-synth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
