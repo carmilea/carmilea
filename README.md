@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
-- [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
-- [The Appalling Stupidity of Spotify&#39;s AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
-- [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+- [I&#39;m 60 years old. Claude Code killed a passion](https://news.ycombinator.com/item?id=47386813)
+- [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
+- [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
+- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
+- [Generating All 32-Bit Primes &lpar;Part I&rpar;](https://hnlyman.github.io/pages/prime32_I.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
