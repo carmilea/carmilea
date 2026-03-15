@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 - [Office.eu launches as Europe&#39;s sovereign office platform](https://office.eu/media/pressrelease-20260304)
+- [Animated &#39;Firefly&#39; Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
 - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
-- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
-- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
