@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada&#39;s Bill C-22 Mandates Mass Metadata Surveillance of Canadians](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading)
+- [Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image](https://github.com/lux-db/lux)
 - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 - [Office.eu launches as Europe&#39;s sovereign office platform](https://office.eu/media/pressrelease-20260304)
-- [Animated &#39;Firefly&#39; Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
-- [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
 <!-- BLOG-POST-LIST:END -->
 
 ---
