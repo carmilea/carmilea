@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Palantir defends its role in the kill chain: &quot;We are proud of that&quot;](https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html)
+- [UMD Scientists Create &#39;Smart Underwear&#39; to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)
+- [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
+- [What makes Intel Optane stand out &lpar;2023&rpar;](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
 - [The Official DR DOS Website](https://www.dr-dos.com/)
-- [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
-- [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
-- [Small U.S. town, big company. Can it weather the tariff Blizzard? &lpar;Digi-Key&rpar; &lpar;2025&rpar;](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
-- [Show HN: What if your synthesizer was powered by APL &lpar;or a dumb K clone&rpar;?](https://octetta.github.io/k-synth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
