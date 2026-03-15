@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada&#39;s Bill C-22 Mandates Mass Metadata Surveillance of Canadians](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading)
-- [Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image](https://github.com/lux-db/lux)
-- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
-- [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-- [Office.eu launches as Europe&#39;s sovereign office platform](https://office.eu/media/pressrelease-20260304)
+- [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground)
+- [Nasdaq&#39;s Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+- [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
+- [Kangina](https://en.wikipedia.org/wiki/Kangina)
+- [Show HN: Free OpenAI API Access with ChatGPT Account](https://github.com/EvanZhouDev/openai-oauth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
