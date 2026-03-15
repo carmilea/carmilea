@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microslop](https://www.s-config.com/microslop/)
-- [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+- [How Jeff Bezos Upended The Washington Post](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
+- [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+- [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
 - [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
-- [How Kernel Anti-Cheats Work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
