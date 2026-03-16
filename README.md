@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
 - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
 - [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 - [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
 <!-- BLOG-POST-LIST:END -->
 
