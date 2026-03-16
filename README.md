@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
+- [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
 - [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
-- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
 - [Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells &lpar;2016&rpar;](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
-- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
