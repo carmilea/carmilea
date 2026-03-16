@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Chamber &lpar;YC W26&rpar; – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
-- [Kaizen &lpar;YC P25&rpar; Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
-- [Launch HN: Voygr &lpar;YC W26&rpar; – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
-- [MCP Server Is Eating Your Context Window. There&#39;s a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
-- [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
+- [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
+- [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
+- [Jemalloc un-abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+- [Agent Skills – Open Security Database](https://index.tego.security/skills/)
+- [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
