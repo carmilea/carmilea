@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)
 - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
 - [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-- [I built an ephemeral P2P chat with WebRTC, without servers](https://ephemchat.vercel.app/)
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
+- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
