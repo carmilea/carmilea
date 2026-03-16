@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
-- [&#39;Pokémon Go&#39; players unknowingly trained delivery robots with 30B images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)
-- [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
-- [Even Faster Asin&lpar;&rpar; Was Staring Right at Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
-- [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
+- [Launch HN: Chamber &lpar;YC W26&rpar; – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
+- [Kaizen &lpar;YC P25&rpar; Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
+- [Launch HN: Voygr &lpar;YC W26&rpar; – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
+- [MCP Server Is Eating Your Context Window. There&#39;s a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+- [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
