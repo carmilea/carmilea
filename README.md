@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
-- [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
-- [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- [Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells &lpar;2016&rpar;](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
+- [AirPods Max 2](https://www.apple.com/airpods-max/)
+- [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
+- [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
+- [Even Faster Asin&lpar;&rpar; Was Staring Right at Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
+- [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
