@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground)
-- [Nasdaq&#39;s Shame](https://keubiko.substack.com/p/nasdaqs-shame)
-- [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
-- [Kangina](https://en.wikipedia.org/wiki/Kangina)
-- [Show HN: Free OpenAI API Access with ChatGPT Account](https://github.com/EvanZhouDev/openai-oauth)
+- [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)
+- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
+- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
+- [I built an ephemeral P2P chat with WebRTC, without servers](https://ephemchat.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
