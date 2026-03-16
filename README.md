@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
+- [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
 - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-- [Agent Skills – Open Security Database](https://index.tego.security/skills/)
-- [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
