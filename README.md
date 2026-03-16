@@ -61,8 +61,8 @@
 - [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
 - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
+- [Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells &lpar;2016&rpar;](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
+- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
