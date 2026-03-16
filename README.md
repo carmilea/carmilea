@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirPods Max 2](https://www.apple.com/airpods-max/)
 - [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
+- [&#39;Pokémon Go&#39; players unknowingly trained delivery robots with 30B images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)
 - [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
 - [Even Faster Asin&lpar;&rpar; Was Staring Right at Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
 - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
