@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
-- [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
-- [OpenSUSE Kalpa](https://kalpadesktop.org/)
-- [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
-- [Silicon Valley&#39;s &quot;Pronatalists&quot; Killed WFH. The Strait of Hormuz Brought It Back](https://www.governance.fyi/p/silicon-valleys-pronatalists-killed)
+- [Spice Data &lpar;YC S19&rpar; Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
+- [DOGE Didn&#39;t Cut Government Waste. It Was Government Waste](https://www.techdirt.com/2026/03/17/doge-didnt-cut-government-waste-it-was-government-waste/)
+- [Agentic AI: Why Enterprise AI Is Not Delivering on Its Promise](https://www.singlestore.com/blog/agentic-ai-why-enterprise-ai-is-not-delivering-on-its-promise)
+- [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
+- [Microsoft&#39;s &#39;unhackable&#39; Xbox One has been hacked by &#39;Bliss&#39;](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
 <!-- BLOG-POST-LIST:END -->
 
 ---
