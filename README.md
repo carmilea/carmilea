@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
+- [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
+- [OpenSUSE Kalpa](https://kalpadesktop.org/)
 - [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
 - [Silicon Valley&#39;s &quot;Pronatalists&quot; Killed WFH. The Strait of Hormuz Brought It Back](https://www.governance.fyi/p/silicon-valleys-pronatalists-killed)
-- [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
-- [Reddit User Uncovers Who Is Behind Meta&#39;s $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
-- [Kagi Small Web](https://kagi.com/smallweb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
