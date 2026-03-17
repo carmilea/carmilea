@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
+- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
-- [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
-- [If you thought the code writing speed was your problem; you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
-- [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
-- [Spice Data &lpar;YC S19&rpar; Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
+- [Python 3.15&#39;s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+- [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
