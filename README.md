@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
 - [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
 - [Launch HN: Kita &lpar;YC W26&rpar; – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
