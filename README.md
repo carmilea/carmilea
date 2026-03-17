@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI Platform for Data Science &amp; Machine Learning | H2O.ai University](https://www.youtube.com/watch?v=be_qlKl1xIc)
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=VJbV2QygdjI)
 - [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=helDb70emrk)
 - [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=-SSIqE4M9r0)
 - [Agentic AI for Credit Risk : From Raw Data to Default Prediction with H2O Driverless AI](https://www.youtube.com/watch?v=3tMMMPp7sXE)
-- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=00Kl_UMbaIs)
 <!-- YOUTUBE:END -->
 
 
