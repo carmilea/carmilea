@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi Small Web](https://kagi.com/smallweb/)
+- [Building a Shell](https://healeycodes.com/building-a-shell)
+- [Grace Hopper&#39;s Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
+- [Reverse-engineering Viktor and making it Open Source](https://matijacniacki.com/blog/openviktor)
 - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
-- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
-- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
