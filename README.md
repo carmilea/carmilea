@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit User Uncovers Who Is Behind Meta&#39;s $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
 - [Kagi Small Web](https://kagi.com/smallweb/)
 - [Building a Shell](https://healeycodes.com/building-a-shell)
 - [Grace Hopper&#39;s Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 - [Reverse-engineering Viktor and making it Open Source](https://matijacniacki.com/blog/openviktor)
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
