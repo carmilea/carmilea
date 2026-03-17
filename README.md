@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Garry Tan&#39;s Claude Code Setup](https://github.com/garrytan/gstack/tree/main)
+- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
 - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
-- [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
-- [Python 3.15&#39;s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
-- [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
