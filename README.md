@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Garry Tan&#39;s Claude Code Setup](https://github.com/garrytan/gstack/tree/main)
 - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 - [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
-- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+- [Launch HN: Kita &lpar;YC W26&rpar; – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
+- [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
