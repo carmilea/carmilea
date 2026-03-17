@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Early adult drinking linked to middleage cognitive decline–even after abstinence](https://medicalxpress.com/news/2026-03-early-adult-linked-middle-age.html)
+- [Zenclora OS](https://zenclora.org/)
+- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
+- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
+- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 - [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
-- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
-- [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
