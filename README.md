@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ndea &lpar;YC W26&rpar; is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
-- [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)
-- [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
+- [Celebrating Tony Hoare&#39;s mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
-- [Show HN: Bank Parser – Convert US Bank Statement PDFs to QuickBooks-Ready Excel](https://bank-parser.com)
+- [Review of Microsoft&#39;s ClearType Font Collection &lpar;2005&rpar;](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
+- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
