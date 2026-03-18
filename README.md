@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
-- [OpenAI Has New Focus &lpar;On the IPO&rpar;](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
+- [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
+- [Pardoned for Fraud, a CEO Mounts His Comeback: &#39;We Can Trust You Now&#39;](https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c)
+- [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
 - [Rob Pike&#39;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
-- [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
