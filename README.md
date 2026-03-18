@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+- [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
 - [Ndea &lpar;YC W26&rpar; is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
 - [Celebrating Tony Hoare&#39;s mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
-- [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 - [Review of Microsoft&#39;s ClearType Font Collection &lpar;2005&rpar;](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
-- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
