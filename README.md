@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [AI Platform for Data Science &amp; Machine Learning | H2O.ai University](https://www.youtube.com/watch?v=be_qlKl1xIc)
-- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=VJbV2QygdjI)
-- [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=helDb70emrk)
-- [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=-SSIqE4M9r0)
 - [Agentic AI for Credit Risk : From Raw Data to Default Prediction with H2O Driverless AI](https://www.youtube.com/watch?v=3tMMMPp7sXE)
+- [Build Your Own AI Agent in Minutes with h2oGPTe](https://www.youtube.com/watch?v=RCsjmUjXLcw)
+- [Live from Nasdaq Marketsite: Sri Ambati &lpar;H2O.ai&rpar; and Dan Jermyn &lpar;CBA&rpar;](https://www.youtube.com/watch?v=h_LF9_UpXFY)
+- [Deep Research using h2oGPTe Action](https://www.youtube.com/watch?v=PCmpu9NlFQA)
 <!-- YOUTUBE:END -->
 
 
