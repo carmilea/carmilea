@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
 - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
 - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
-- [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
-- [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
+- [I haven&#39;t used a mouse for 14 years](https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
