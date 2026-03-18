@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
+- [OpenAI Has New Focus &lpar;On the IPO&rpar;](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
+- [Rob Pike&#39;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
 - [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
-- [Ndea &lpar;YC W26&rpar; is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
-- [Celebrating Tony Hoare&#39;s mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
-- [Review of Microsoft&#39;s ClearType Font Collection &lpar;2005&rpar;](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
