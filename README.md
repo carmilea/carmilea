@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
+- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
 - [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
-- [The Pleasures of Poor Product Design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
+- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
 - [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
-- [Why AI systems don&#39;t learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
-- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
