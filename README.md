@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
+- [Federal Cyber Experts Called Microsoft&#39;s Cloud &quot;A Pile of Shit&quot;, yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
+- [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)
 - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
-- [Pardoned for Fraud, a CEO Mounts His Comeback: &#39;We Can Trust You Now&#39;](https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c)
-- [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
 - [Rob Pike&#39;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
