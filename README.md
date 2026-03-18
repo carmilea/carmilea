@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
+- [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
+- [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
+- [Spotify playing ads for paid subscribers](https://news.ycombinator.com/item?id=47428391)
 - [Google Engineers Launch &quot;Sashiko&quot; for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
-- [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
-- [North Korean&#39;s 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
-- [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
-- [Wander – A tiny, decentralised tool &lpar;just 2 files&rpar; to explore the small web](https://susam.net/wander/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
