@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
-- [Federal Cyber Experts Called Microsoft&#39;s Cloud &quot;A Pile of Shit&quot;, yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
-- [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)
-- [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
-- [Rob Pike&#39;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+- [Google Engineers Launch &quot;Sashiko&quot; for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+- [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
+- [North Korean&#39;s 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
+- [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
+- [Wander – A tiny, decentralised tool &lpar;just 2 files&rpar; to explore the small web](https://susam.net/wander/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
