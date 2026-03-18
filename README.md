@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
+- [The Pleasures of Poor Product Design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
+- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
+- [Why AI systems don&#39;t learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
 - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
-- [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
-- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
-- [Launch HN: Kita &lpar;YC W26&rpar; – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
-- [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
