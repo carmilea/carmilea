@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
-- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
-- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
-- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
-- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
+- [Ndea &lpar;YC W26&rpar; is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
+- [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)
+- [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
+- [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
+- [Show HN: Bank Parser – Convert US Bank Statement PDFs to QuickBooks-Ready Excel](https://bank-parser.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
