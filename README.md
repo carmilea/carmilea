@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
+- [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
 - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
-- [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
+- [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
 - [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
-- [Spotify playing ads for paid subscribers](https://news.ycombinator.com/item?id=47428391)
-- [Google Engineers Launch &quot;Sashiko&quot; for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
