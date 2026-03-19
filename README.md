@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oil and gas prices jump after Iran and Israel attack gasfields](https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump)
-- [macOS 26 breaks custom DNS settings including .internal](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
-- [Hyper-optimized reverse geocoding API](https://github.com/traccar/traccar-geocoder)
-- [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
-- [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
+- [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
+- [Gauntlet AI &lpar;YC S17&rpar;: Fly you to Austin, train you in AI, give you $200k+ job](https://gauntletai.com/apply?utm_src=hackernews)
+- [How to Not Pay Your Taxes](https://taylor.town/succession-000)
+- [Launch HN: Voltair &lpar;YC W26&rpar; – Drone and charging network for power utilities](https://news.ycombinator.com/item?id=47442452)
+- [Scaling Karpathy&#39;s Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
