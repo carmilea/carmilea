@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+- [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
 - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 - [The Need for an Independent AI Grid](https://amppublic.com/)
-- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
-- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
-- [Waymo Safety Impact](https://waymo.com/safety/impact/)
+- [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
