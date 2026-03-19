@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
+- [&#39;Your Frustration Is the Product&#39;](https://daringfireball.net/2026/03/your_frustration_is_the_product)
+- [Iran war energy shock sparks global push to reduce fossil fuel dependence](https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/)
 - [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
 - [Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
-- [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
-- [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
-- [Conway&#39;s Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
