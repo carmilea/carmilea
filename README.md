@@ -62,7 +62,7 @@
 - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 - [Conway&#39;s Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
-- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
+- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
