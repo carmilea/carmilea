@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oil and gas prices jump after Iran and Israel attack gasfields](https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump)
+- [macOS 26 breaks custom DNS settings including .internal](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
+- [Hyper-optimized reverse geocoding API](https://github.com/traccar/traccar-geocoder)
+- [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
-- [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
-- [Astral to Join OpenAI](https://astral.sh/blog/openai)
-- [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
-- [Juggalo Makeup Blocks Facial Recognition Technology &lpar;2019&rpar;](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
