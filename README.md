@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
-- [Noq: n0&#39;s new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
-- [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)
-- [UK&#39;s Ofcom has today fined 4chan £450k for not having age checks in place](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography)
-- [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
+- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+- [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
+- [Tesla: Failure of the FSD&#39;s degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
+- [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
+- [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
