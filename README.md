@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Website to post Claude fuck ups](https://claudedidwhat.wtf)
-- [What&#39;s on HTTP?](https://whatsonhttp.com/)
-- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
-- [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
+- [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
+- [Ask HN: How do you deal with people who trust LLMs?](https://news.ycombinator.com/item?id=47433702)
+- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
+- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+- [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
