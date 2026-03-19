@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
-- [&#39;Your Frustration Is the Product&#39;](https://daringfireball.net/2026/03/your_frustration_is_the_product)
-- [Iran war energy shock sparks global push to reduce fossil fuel dependence](https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/)
-- [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
-- [Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
+- [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
+- [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
+- [Astral to Join OpenAI](https://astral.sh/blog/openai)
+- [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
+- [Juggalo Makeup Blocks Facial Recognition Technology &lpar;2019&rpar;](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
