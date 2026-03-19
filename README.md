@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
+- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
+- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 - [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
-- [Ask HN: How do you deal with people who trust LLMs?](https://news.ycombinator.com/item?id=47433702)
 - [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
-- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
