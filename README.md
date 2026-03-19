@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
+- [The Need for an Independent AI Grid](https://amppublic.com/)
+- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
-- [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
-- [Tesla: Failure of the FSD&#39;s degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
-- [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
-- [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
+- [Waymo Safety Impact](https://waymo.com/safety/impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
