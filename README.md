@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
 - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
 - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 - [Conway&#39;s Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
-- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
