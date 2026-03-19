@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+- [Noq: n0&#39;s new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
+- [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)
+- [UK&#39;s Ofcom has today fined 4chan £450k for not having age checks in place](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography)
 - [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
-- [Gauntlet AI &lpar;YC S17&rpar;: Fly you to Austin, train you in AI, give you $200k+ job](https://gauntletai.com/apply?utm_src=hackernews)
-- [How to Not Pay Your Taxes](https://taylor.town/succession-000)
-- [Launch HN: Voltair &lpar;YC W26&rpar; – Drone and charging network for power utilities](https://news.ycombinator.com/item?id=47442452)
-- [Scaling Karpathy&#39;s Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
