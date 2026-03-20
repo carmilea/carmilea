@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [OpenCode – The open source AI coding agent](https://opencode.ai/)
-- [A Japanese Glossary of Chopsticks Faux Pas](https://www.nippon.com/en/japan-data/h01362/)
-- [The bespoke software revolution? I&#39;m not buying it](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec)
+- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
+- [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser)
+- [Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s](https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
