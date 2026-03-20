@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
+- [AI &lpar;2014&rpar;](https://blog.samaltman.com/ai)
 - [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
-- [Essex police pause facial recognition camera use after study finds racial bias](https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias)
+- [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)
 - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
-- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
