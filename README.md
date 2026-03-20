@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)
+- [CAIveat Emptor: What You Tell AI Can and Will Be Used Against You](https://natlawreview.com/article/caiveat-emptor-what-you-tell-ai-can-and-will-be-used-against-you)
+- [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
-- [Physicists Trace Sun&#39;s Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface)
 - [Full Disclosure: A Third &lpar;and Fourth&rpar; Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
 - [Drugwars for the TI-82/83/83 Calculators &lpar;2011&rpar;](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
 <!-- BLOG-POST-LIST:END -->
