@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Launch HN: Sitefire &lpar;YC W26&rpar; – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
+- [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)
 - [90% of crypto&#39;s Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
-- [Oregon school cell phone ban: &#39;Engaged students, joyful teachers&#39;](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
-- [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
