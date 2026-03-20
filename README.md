@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
-- [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
-- [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
-- [The Need for an Independent AI Grid](https://amppublic.com/)
-- [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
+- [Full Disclosure: A Third &lpar;and Fourth&rpar; Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
+- [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+- [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
+- [The day I discovered type design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
