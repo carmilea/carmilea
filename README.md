@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [The 12&quot; chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
-- [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/)
-- [The Reason Windows Hate Is Exploding: It&#39;s the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8)
-- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
+- [Chuck Norris Has Died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/)
+- [Java Is Fast. Your Code Might Not Be](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
+- [I&#39;m OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
+- [HP realizes that mandatory 15-minute support call wait times isn&#39;t good support](https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
