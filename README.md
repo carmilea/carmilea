@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Time to Dump Windows?](https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/)
-- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
-- [Launch HN: Sitefire &lpar;YC W26&rpar; – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
+- [OpenCode – The open source AI coding agent](https://opencode.ai/)
+- [A Japanese Glossary of Chopsticks Faux Pas](https://www.nippon.com/en/japan-data/h01362/)
+- [The bespoke software revolution? I&#39;m not buying it](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
