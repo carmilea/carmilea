@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [AI &lpar;2014&rpar;](https://blog.samaltman.com/ai)
-- [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
-- [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)
-- [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
+- [The 12&quot; chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
+- [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/)
+- [The Reason Windows Hate Is Exploding: It&#39;s the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8)
+- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
