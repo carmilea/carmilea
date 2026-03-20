@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Time to Dump Windows?](https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/)
 - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
-- [BYD&#39;s bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
 - [Launch HN: Sitefire &lpar;YC W26&rpar; – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
 <!-- BLOG-POST-LIST:END -->
 
