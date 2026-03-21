@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Liberated Systemd](https://github.com/jeffrey-sardina/systemd)
+- [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 - [Blocking Internet Archive Won&#39;t Stop AI, but Will Erase Web&#39;s Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 - [FFmpeg 101 &lpar;2024&rpar;](https://blogs.igalia.com/llepage/ffmpeg-101/)
 <!-- BLOG-POST-LIST:END -->
