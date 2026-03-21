@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Former FBI Director Robert Mueller Has Died](https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf)
 - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
 - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
-- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
