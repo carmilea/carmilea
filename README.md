@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Revert &quot;userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179)
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
 - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 <!-- BLOG-POST-LIST:END -->
