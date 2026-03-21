@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Man pleads guilty to $8M AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme)
+- [Liberated Systemd](https://github.com/jeffrey-sardina/systemd)
+- [Blocking Internet Archive Won&#39;t Stop AI, but Will Erase Web&#39;s Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 - [FFmpeg 101 &lpar;2024&rpar;](https://blogs.igalia.com/llepage/ffmpeg-101/)
-- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
