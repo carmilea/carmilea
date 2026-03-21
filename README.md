@@ -61,8 +61,8 @@
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
 - [Man pleads guilty to $8M AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme)
-- [Italy, Belgium set to lose gas supply after biggest LNG plant bombed](https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/)
-- [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
+- [FFmpeg 101 &lpar;2024&rpar;](https://blogs.igalia.com/llepage/ffmpeg-101/)
+- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
