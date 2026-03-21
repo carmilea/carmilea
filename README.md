@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Governing the AI Lifecycle: H2O.ai Data Traceability | Part 2](https://www.youtube.com/watch?v=TSoGtplH4fw)
+- [Automated Data Prep &amp; Synthetic Data with H2O Driverless AI | Part 1](https://www.youtube.com/watch?v=HFoeWWrh9VA)
+- [AI Platform for Data Science &amp; Machine Learning | H2O.ai University](https://www.youtube.com/watch?v=be_qlKl1xIc)
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=VJbV2QygdjI)
 - [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=helDb70emrk)
-- [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=-SSIqE4M9r0)
-- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=00Kl_UMbaIs)
-- [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=H1dw0akh95s)
 <!-- YOUTUBE:END -->
 
 
