@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
+- [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
-- [Iran launched unsuccessful attack on UK&#39;s Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo)
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
