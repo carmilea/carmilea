@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Major leap towards reanimation after death as mammal&#39;s brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
-- [Albert&#39;s Swarm](https://en.wikipedia.org/wiki/Albert%27s_swarm)
-- [Why western carmakers&#39; retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
+- [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/)
+- [Show HN: A deterministic middleware to compress LLM prompts by 50-80%](https://github.com/ARPAHLS/skillware)
+- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
