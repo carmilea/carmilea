@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/)
-- [Show HN: A deterministic middleware to compress LLM prompts by 50-80%](https://github.com/ARPAHLS/skillware)
 - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
+- [Iran launched unsuccessful attack on UK&#39;s Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo)
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
