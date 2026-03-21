@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Linux Applications Programming by Example: The Fundamental APIs &lpar;2nd Edition&rpar;](https://github.com/arnoldrobbins/LinuxByExample-2e)
-- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
-- [Ghostling](https://github.com/ghostty-org/ghostling)
+- [FFmpeg 101 &lpar;2024&rpar;](https://blogs.igalia.com/llepage/ffmpeg-101/)
+- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
+- [Traces of Evil](https://www.tracesofevil.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
