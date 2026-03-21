@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Italy, Belgium set to lose gas supply after biggest LNG plant bombed](https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/)
 - [Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500](https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/)
 - [Google adds 24-hour wait and mandatory reboot to Android sideloading flow](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
-- [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
