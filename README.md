@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
-- [Kash Patel&#39;s Nike Shoes Weren&#39;t Customized by Nike](https://www.yellopolitics.com/p/kash-patels-garish-custom-shoes-werent)
-- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
+- [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)
+- [51% of freelancers experience non-payment – payment-gated delivery as a solution](https://proposallock.vercel.app)
+- [Can the world get its supply of oil by bypassing the Strait of Hormuz?](https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
