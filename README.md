@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
-- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
+- [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- [Chest Fridge](https://mtbest.net/chest-fridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
