@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
 - [Cloudflare flags archive.today as &quot;C&amp;C/Botnet&quot;; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
-- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- [Chest Fridge &lpar;2009&rpar;](https://mtbest.net/chest-fridge/)
+- [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
