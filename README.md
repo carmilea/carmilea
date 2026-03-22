@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [&#39;Miracle&#39;: Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
-- [HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab](https://www.royalbhati.com/hoptab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
