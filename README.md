@@ -61,8 +61,8 @@
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
 - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
-- [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
-- [You are not your job](https://jry.io/writing/you-are-not-your-job/)
+- [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/)
+- [Introducing DoorDash Tasks](https://about.doordash.com/en-us/news/introducing-doordash-tasks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
