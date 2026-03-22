@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [How We Synchronized Editing for Rec Room&#39;s Multiplayer Scripting System](https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system)
-- [More common mistakes to avoid when creating system architecture diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/)
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
+- [Nintendo&#39;s not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)
+- [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
+- [Revise – An AI Editor for Documents](https://revise.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
