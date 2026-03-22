@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
-- [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
-- [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
+- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+- [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
+- [You are not your job](https://jry.io/writing/you-are-not-your-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
