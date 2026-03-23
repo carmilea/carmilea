@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [I Built an AI Receptionist for a Luxury Mechanic Shop – Part 1](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
-- [Migrating to the EU](https://rz01.org/eu-migration/)
-- [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
+- [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
+- [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
+- [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
