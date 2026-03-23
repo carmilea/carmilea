@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [I tried Karpathy&#39;s Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
-- [The machine didn&#39;t take your craft. You gave it up](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)
-- [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
-- [Is it a pint?](https://isitapint.com/)
+- [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
+- [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
+- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
+- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
