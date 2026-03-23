@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
-- [Show HN: The King Wen Permutation: [52, 10, 2]](https://gzw1987-bit.github.io/iching-math/)
-- [White-Collar AI Apocalypse Narrative Is Just Another Bullshit](https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/)
+- [I Built an AI Receptionist for a Luxury Mechanic Shop – Part 1](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+- [Migrating to the EU](https://rz01.org/eu-migration/)
+- [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
