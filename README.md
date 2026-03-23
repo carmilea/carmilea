@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [The Trillion Dollar Race to Automate Our Lives](https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 - [&quot;Collaboration&quot; Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
+- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
