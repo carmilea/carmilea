@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [Orbán&#39;s top opponent says Hungary&#39;s alleged Russian backchannel &#39;treason&#39;](https://www.thetelegraph.com/news/world/article/orb-n-s-top-opponent-says-hungary-s-alleged-22091796.php)
+- [I tried Karpathy&#39;s Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
+- [The machine didn&#39;t take your craft. You gave it up](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)
+- [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
 - [Is it a pint?](https://isitapint.com/)
-- [Show HN: Threadprocs – executables sharing one address space &lpar;0-copy pointers&rpar;](https://github.com/jer-irl/threadprocs)
-- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
