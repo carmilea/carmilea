@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
+- [Chat GPT 5.2 cannot explain the German word &quot;geschniegelt&quot;](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
+- [Printable Claude Code Cheat Sheet &lpar;auto-updated daily&rpar;](https://cc.storyfox.cz)
+- [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
 - [How I&#39;m Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
-- [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
-- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
