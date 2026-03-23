@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [Chat GPT 5.2 cannot explain the German word &quot;geschniegelt&quot;](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
-- [Printable Claude Code Cheat Sheet &lpar;auto-updated daily&rpar;](https://cc.storyfox.cz)
-- [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
-- [How I&#39;m Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
+- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
+- [Nvidia CEO Jensen Huang says &#39;I think we&#39;ve achieved AGI&#39;](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
+- [Talking Liquid Glass with Apple](https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple)
 <!-- BLOG-POST-LIST:END -->
 
 ---
