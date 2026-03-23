@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
-- [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
-- [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
+- [Orbán&#39;s top opponent says Hungary&#39;s alleged Russian backchannel &#39;treason&#39;](https://www.thetelegraph.com/news/world/article/orb-n-s-top-opponent-says-hungary-s-alleged-22091796.php)
+- [Is it a pint?](https://isitapint.com/)
+- [Show HN: Threadprocs – executables sharing one address space &lpar;0-copy pointers&rpar;](https://github.com/jer-irl/threadprocs)
+- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
