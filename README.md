@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
 - [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
-- [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)
-- [51% of freelancers experience non-payment – payment-gated delivery as a solution](https://proposallock.vercel.app)
-- [Can the world get its supply of oil by bypassing the Strait of Hormuz?](https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html)
+- [&quot;Collaboration&quot; Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
+- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
+- [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
