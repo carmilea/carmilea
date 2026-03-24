@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [curl &gt; /dev/sda: How I made a Linux distro that runs wget | dd](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
-- [Microsoft&#39;s &quot;Fix&quot; for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
-- [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
-- [Opera: Rewind The Web to 1996 &lpar;Opera at 30&rpar;](https://www.web-rewind.com)
+- [Missile Defense Is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
+- [NanoClaw Adopts OneCLI Agent Vault](https://nanoclaw.dev/blog/nanoclaw-agent-vault/)
+- [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)
+- [Secure Domain Name System &lpar;DNS&rpar; Deployment 2026 Guide [pdf]](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
