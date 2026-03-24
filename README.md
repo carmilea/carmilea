@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
+- [Epoch confirms GPT5.4 Pro solved a Frontier Math Open Problem for the first time](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+- [I Created My First AI-Assisted Pull Request and I Feel Like a Fraud](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
+- [AI boom risks widening wealth divide, says BlackRock&#39;s Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink)
 - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
-- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
-- [Nvidia CEO Jensen Huang says &#39;I think we&#39;ve achieved AGI&#39;](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
-- [Talking Liquid Glass with Apple](https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple)
 <!-- BLOG-POST-LIST:END -->
 
 ---
