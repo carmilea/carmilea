@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [Epoch confirms GPT5.4 Pro solved a Frontier Math Open Problem for the first time](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
-- [I Created My First AI-Assisted Pull Request and I Feel Like a Fraud](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
-- [AI boom risks widening wealth divide, says BlackRock&#39;s Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink)
-- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+- [Box of Secrets: Discreetly modding an apartment intercom with Matter](https://www.jackhogan.me/blog/box-of-secrets/)
+- [Cuba&#39;s Fragile Power Grid Finds a Powerful New Partner](https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html)
+- [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
+- [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
