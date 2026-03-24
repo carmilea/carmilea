@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
+- [Microsoft&#39;s &quot;Fix&quot; for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
 - [Opera: Rewind The Web to 1996 &lpar;Opera at 30&rpar;](https://www.web-rewind.com)
 - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
-- [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
+- [Ripgrep is faster than grep, ag, git grep, ucg, pt, sift &lpar;2016&rpar;](https://burntsushi.net/ripgrep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
