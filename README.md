@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
 - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
-- [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
+- [Show HN: Antimatter – Match the opposites &lpar;Mahjong solitaire mechanic&rpar;](https://www.linguabase.org/antimatter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
