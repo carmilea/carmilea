@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jury finds Meta liable in case over child sexual exploitation on its platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
 - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-- [Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
-- [Show HN: Antimatter – Match the opposites &lpar;Mahjong solitaire mechanic&rpar;](https://www.linguabase.org/antimatter/)
+- [We’re saying goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
