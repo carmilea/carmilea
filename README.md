@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Float16 Vector Type Support in SingleStore: Cheaper, Faster, Better](https://www.singlestore.com/blog/float16-vector-type-support-in-singlestore-cheaper-faster-better)
-- [Log File Viewer for the Terminal](https://lnav.org/)
-- [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)
-- [Ubisoft&#39;s death by a thousand cuts](https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts)
-- [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
+- [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
+- [Opera: Rewind The Web to 1996 &lpar;Opera at 30&rpar;](https://www.web-rewind.com)
+- [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
+- [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
