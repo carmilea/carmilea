@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
-- [How to Keep ICE Agents Out of Your Devices at Airports](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
-- [OpenAI&#39;s latest repo has Claude as the third top contributor](https://twitter.com/CodeByNZ/status/2036723050197012771)
-- [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
-- [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
+- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)
+- [Slovenian officials catch Israeli firm Black Cube trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
+- [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
+- [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
+- [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
