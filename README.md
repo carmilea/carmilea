@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 - [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb)
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
-- [Social media bans and digital curfews to be trialled on UK teenagers](https://www.bbc.com/news/articles/cn89g3ngkyzo)
-- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
 - [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
+- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
