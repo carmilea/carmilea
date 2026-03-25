@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jury finds Meta liable in case over child sexual exploitation on its platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
+- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean&#39;s Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/)
+- [Flighty Airports](https://flighty.com/airports)
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-- [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
-- [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
-- [We’re saying goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
