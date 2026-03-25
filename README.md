@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I bought the MacBook Neo and it sucks](https://alexandmanu.com/blog/the-macbook-neo-disappointment/)
-- [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)
-- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
-- [UK total wind generation record beaten today](https://renewables-map.robinhawkes.com/records)
-- [Tracy Kidder, Author of &#39;The Soul of a New Machine,&#39; has died](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+- [ARC-AGI-3 benchmark is out now](https://arcprize.org/tasks/ls20)
+- [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What&#39;s to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
+- [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
+- [Apple randomly closes bug reports unless you &quot;verify&quot; the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
