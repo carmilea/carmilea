@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)
-- [Slovenian officials catch Israeli firm Black Cube trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
-- [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
-- [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
-- [Driving Smarter Revenue with Agentic AI: 5 Lessons from Early Adopters](https://www.singlestore.com/blog/driving-smarter-revenue-with-agentic-ai-5-lessons-from-early-adopters)
+- [I bought the MacBook Neo and it sucks](https://alexandmanu.com/blog/the-macbook-neo-disappointment/)
+- [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)
+- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
+- [UK total wind generation record beaten today](https://renewables-map.robinhawkes.com/records)
+- [Tracy Kidder, Author of &#39;The Soul of a New Machine,&#39; has died](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
