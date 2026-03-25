@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Local LLM by Ente](https://ente.com/blog/ensu/)
-- [Building a coding agent in Swift from scratch](https://github.com/ivan-magda/swift-claude-code)
-- [I tried to prove I&#39;m not AI. My aunt wasn&#39;t convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
-- [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
-- [Why I forked httpx](https://tildeweb.nl/~michiel/httpxyz.html)
+- [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
+- [How to Keep ICE Agents Out of Your Devices at Airports](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
+- [OpenAI&#39;s latest repo has Claude as the third top contributor](https://twitter.com/CodeByNZ/status/2036723050197012771)
+- [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
+- [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
