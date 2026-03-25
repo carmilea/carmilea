@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Tesla Model 3&#39;s Computer on My Desk Using Parts from Crashed Cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
+- [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
 - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
-- [ARC-AGI-3 benchmark is out now](https://arcprize.org/tasks/ls20)
-- [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What&#39;s to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
-- [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
-- [Apple randomly closes bug reports unless you &quot;verify&quot; the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
+- [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
