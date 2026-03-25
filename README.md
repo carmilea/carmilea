@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Automate your workflow in plain English](https://www.operator23.com/)
 - [Running Tesla Model 3&#39;s computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
 - [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
 - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
-- [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
