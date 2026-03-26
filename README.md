@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Automate your workflow in plain English](https://www.operator23.com/)
+- [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259)
+- [Woman who never stopped updating her lost dog&#39;s chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780)
+- [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
+- [&quot;Disregard That&quot; Attacks](https://calpaterson.com/disregard.html)
 - [Running Tesla Model 3&#39;s computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
-- [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
-- [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
-- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
