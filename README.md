@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
 - [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
 - [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
-- [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
