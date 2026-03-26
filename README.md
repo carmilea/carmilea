@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Bradley, author of xv, has passed away](https://gab.com/markofafreeman/posts/116290669616400528)
-- [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
-- [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
-- [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
+- [We haven&#39;t seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+- [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
+- [CERN to host Europe&#39;s flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
+- [Show HN: Layerleak – Like Trufflehog, but for Docker Hub](https://github.com/Brumbelow/layerleak)
+- [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
