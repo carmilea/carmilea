@@ -45,8 +45,8 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Automated Feature Engineering in H2O Driverless AI | Part 4](https://www.youtube.com/watch?v=ld9s3DkrGwg)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=b-HYM4wBHyM)
+- [Automated Feature Engineering in H2O Driverless AI | Part 4](https://www.youtube.com/watch?v=ld9s3DkrGwg)
 - [Scaling Enterprise ML with the H2O Feature Store | Part 3](https://www.youtube.com/watch?v=MiljL96QF0M)
 - [Governing the AI Lifecycle: H2O.ai Data Traceability | Part 2](https://www.youtube.com/watch?v=TSoGtplH4fw)
 - [Automated Data Prep &amp; Synthetic Data with H2O Driverless AI | Part 1](https://www.youtube.com/watch?v=HFoeWWrh9VA)
