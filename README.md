@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+- [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
-- [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
-- [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
