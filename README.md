@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran-linked hackers have breached FBI Director Kash Patel&#39;s personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
-- [I am leaving the AI party after one drink](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
-- [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/)
-- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
-- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
+- [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)
+- [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
+- [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)
+- [Byte Magazine Archive 1975 to 1995](https://www.worldradiohistory.com/Byte_Magazine.htm)
+- [Iran-linked hackers have breached FBI director&#39;s personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
