@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)
-- [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
-- [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)
-- [Byte Magazine Archive 1975 to 1995](https://www.worldradiohistory.com/Byte_Magazine.htm)
-- [Iran-linked hackers have breached FBI director&#39;s personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
+- [Make macOS consistently bad &lpar;unironically&rpar;](https://lr0.org/blog/p/macos/)
+- [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
+- [TurboQuant: Building a Sub-Byte KV Cache Quantizer from Paper to Production](https://demo.aitherium.com/blog/turboquant-sub-byte-kv-cache-from-paper-to-production)
+- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
+- [Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents](https://github.com/outworked/outworked/releases/tag/v0.3.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
