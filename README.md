@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran-linked hackers have breached FBI Director Kash Patel&#39;s personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
+- [I am leaving the AI party after one drink](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+- [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/)
+- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
 - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
-- [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
-- [Iran-linked hackers claim breach of FBI director&#39;s personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
-- [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
-- [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
