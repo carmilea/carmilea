@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-- [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
-- [Anthropic Subprocessor Changes](https://trust.anthropic.com)
-- [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
-- [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
+- [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
+- [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
+- [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
+- [Judge blocks Pentagon effort to &#39;punish&#39; Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
+- [Chicago artist creates tourism posters for city&#39;s neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
