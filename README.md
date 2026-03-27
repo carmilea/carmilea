@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Paperwork Flood&#39;: How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
-- [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
