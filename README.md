@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should QA Exist](https://www.rubick.com/should-qa-exist/)
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+- [Suddenly energy independence feels practical:Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
-- [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
-- [Chicago artist creates tourism posters for city&#39;s neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
