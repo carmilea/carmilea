@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
 - [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
 - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
 - [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
-- [Chicago artist creates tourism posters for city&#39;s neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
