@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran-linked hackers claim breach of FBI director&#39;s personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
+- [Author of Red Mars calls &#39;bullshit&#39; on emigrating to the planet](https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/)
+- [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
+- [Installing a Let&#39;s Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
 - [The &#39;Paperwork Flood&#39;: How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
-- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
