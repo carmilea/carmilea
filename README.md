@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you don&#39;t opt out by Apr 24 GitHub will train on your private repos](https://news.ycombinator.com/item?id=47548243)
+- [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+- [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?)
 - [Make macOS consistently bad &lpar;unironically&rpar;](https://lr0.org/blog/p/macos/)
-- [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
-- [TurboQuant: Building a Sub-Byte KV Cache Quantizer from Paper to Production](https://demo.aitherium.com/blog/turboquant-sub-byte-kv-cache-from-paper-to-production)
-- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
-- [Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents](https://github.com/outworked/outworked/releases/tag/v0.3.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
