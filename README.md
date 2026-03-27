@@ -47,9 +47,9 @@
 <!-- YOUTUBE:START -->
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=cTzJKWmo3wI)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=b-HYM4wBHyM)
-- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=VJbV2QygdjI)
-- [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=helDb70emrk)
-- [RL Fine-Tuning for Agents Using SingleStoreDB](https://www.youtube.com/watch?v=-SSIqE4M9r0)
+- [Automated Feature Engineering in H2O Driverless AI | Part 4](https://www.youtube.com/watch?v=ld9s3DkrGwg)
+- [Scaling Enterprise ML with the H2O Feature Store | Part 3](https://www.youtube.com/watch?v=MiljL96QF0M)
+- [Governing the AI Lifecycle: H2O.ai Data Traceability | Part 2](https://www.youtube.com/watch?v=TSoGtplH4fw)
 <!-- YOUTUBE:END -->
 
 
