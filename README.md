@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
+- [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
 - [Iran-linked hackers claim breach of FBI director&#39;s personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
-- [Author of Red Mars calls &#39;bullshit&#39; on emigrating to the planet](https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/)
+- [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 - [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
-- [Installing a Let&#39;s Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
-- [The &#39;Paperwork Flood&#39;: How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
