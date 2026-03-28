@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Further human + AI + proof assistant work on Knuth&#39;s &quot;Claude Cycles&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504)
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+- [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
 - [rpg.actor Game Jam](https://rpg.actor/jam)
-- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
-- [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
-- [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
