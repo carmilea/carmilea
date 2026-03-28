@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
+- [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
+- [I decompiled the White House&#39;s new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
+- [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 - [Folk are getting dangerously attached to AI that always tells them they&#39;re right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
-- [AI chatbots are &quot;Yes-Men&quot; that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
-- [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET &lpar;1982&rpar;](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
-- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
-- [Toma &lpar;YC W24&rpar; is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
