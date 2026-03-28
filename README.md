@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of text layout is not CSS](https://chenglou.me/pretext/editorial-engine/)
 - [AMD&#39;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
-- [Don&#39;t YOLO your file system](https://jai.scs.stanford.edu/)
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
-- [DOJ confirms FBI Director Kash Patel&#39;s personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
