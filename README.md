@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing new to see here](https://feld.com/archives/2026/03/nothing-new-to-see-here/)
+- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
 - [Further human + AI + proof assistant work on Knuth&#39;s &quot;Claude Cycles&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504)
-- [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
+- [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
 - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 <!-- BLOG-POST-LIST:END -->
