@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Treason in the Futures Markets](https://paulkrugman.substack.com/p/treason-in-the-futures-markets)
-- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
-- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
-- [AMD&#39;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
+- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
+- [Toma &lpar;YC W24&rpar; is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
+- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
+- [No one is happy with NASA&#39;s new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
+- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
