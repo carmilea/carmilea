@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are executives enamored with AI, but ICs aren&#39;t?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/)
+- [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
+- [Don&#39;t YOLO your file system](https://jai.scs.stanford.edu/)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
 - [DOJ confirms FBI Director Kash Patel&#39;s personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
-- [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
 - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
 <!-- BLOG-POST-LIST:END -->
 
