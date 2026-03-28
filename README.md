@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 - [AMD&#39;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
 - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
-- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
