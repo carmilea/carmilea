@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Folk are getting dangerously attached to AI that always tells them they&#39;re right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+- [AI chatbots are &quot;Yes-Men&quot; that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET &lpar;1982&rpar;](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
 - [Toma &lpar;YC W24&rpar; is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
-- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
-- [No one is happy with NASA&#39;s new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
