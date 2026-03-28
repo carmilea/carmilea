@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
+- [InpharmD &lpar;YC W21&rpar; Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
+- [Ötzi the Iceman&#39;s DNA Reveals a Living Relative 5k Years Later](https://blog.familytreedna.com/otzi-the-iceman-dna/)
 - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
-- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
-- [Further human + AI + proof assistant work on Knuth&#39;s &quot;Claude Cycles&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504)
-- [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
