@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+- [rpg.actor Game Jam](https://rpg.actor/jam)
+- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
 - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
 - [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
-- [I decompiled the White House&#39;s new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
-- [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
-- [Folk are getting dangerously attached to AI that always tells them they&#39;re right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
