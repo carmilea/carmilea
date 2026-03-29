@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cloud: The dystopian book that changed Germany &lpar;2022&rpar;](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
+- [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+- [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)
+- [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
 - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
 - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
-- [Overestimation of microplastics potentially caused by scientists&#39; gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
-- [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
