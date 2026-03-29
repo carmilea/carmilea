@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will the AI data centre boom become a $9T bust?](https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723)
+- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
 - [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
 - [Alzheimer&#39;s disease mortality among taxi and ambulance drivers &lpar;2024&rpar;](https://www.bmj.com/content/387/bmj-2024-082194)
 - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
