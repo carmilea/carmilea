@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
 - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
-- [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)
-- [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
-- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
+- [Patriot Crisis: US Embezzles Switzerland&#39;s Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
 - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
+- [Overestimation of microplastics potentially caused by scientists&#39; gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
