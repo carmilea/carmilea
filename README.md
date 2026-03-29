@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise and fall of IBM&#39;s 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 - [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)
 - [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
-- [Comparison shows audiophiles waste a lot of money](https://www.tomshardware.com/pc-components/sound-cards/comparison-of-usd4-000-boutique-audio-cable-to-usd7-amazon-basics-cable-shows-audiophiles-waste-a-lot-of-money-scientific-audio-equipment-analysis-with-analyzer-shows-no-difference-in-quality)
-- [Stop Publishing Garbage Data, It&#39;s Embarrassing](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
+- [Twice this week, I have come across embarassingly bad data](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
 - [Full network of clitoral nerves mapped out for first time](https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery)
 <!-- BLOG-POST-LIST:END -->
 
