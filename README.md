@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The rise and fall of IBM&#39;s 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
-- [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)
-- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
-- [Twice this week, I have come across embarassingly bad data](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
-- [Full network of clitoral nerves mapped out for first time](https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery)
+- [Typing and Keyboards](https://lzon.ca/posts/series/grateful/typing-and-keyboards/)
+- [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
+- [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
+- [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)
+- [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
