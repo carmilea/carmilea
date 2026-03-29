@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipment of KitKat bars stolen en route from Italy to Poland](https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e)
+- [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)
 - [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
-- [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
 - [Alzheimer&#39;s disease mortality among taxi and ambulance drivers &lpar;2024&rpar;](https://www.bmj.com/content/387/bmj-2024-082194)
 - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
-- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
