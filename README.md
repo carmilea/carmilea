@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldman Sachs now reckons that oil could take out the 2008 record of $147](https://www.ft.com/content/360ca227-4d2a-41a4-a05f-41baedc0f7d2)
-- [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
-- [InpharmD &lpar;YC W21&rpar; Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
-- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
+- [Will the AI data centre boom become a $9T bust?](https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723)
+- [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
+- [Alzheimer&#39;s disease mortality among taxi and ambulance drivers &lpar;2024&rpar;](https://www.bmj.com/content/387/bmj-2024-082194)
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
