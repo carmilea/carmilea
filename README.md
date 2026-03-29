@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556)
 - [What if AI doesn&#39;t need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
 - [Alzheimer&#39;s disease mortality among taxi and ambulance drivers &lpar;2024&rpar;](https://www.bmj.com/content/387/bmj-2024-082194)
-- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
 - [A laser-based process that enables adhesive-free paper packaging](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 <!-- BLOG-POST-LIST:END -->
 
