@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
 - [ChatGPT Won&#39;t Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- [Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank](https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/)
 - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
-- [The &quot;Vibe Coding&quot; Wall of Shame](https://crackr.dev/vibe-coding-failures)
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-- [More on Version Control](https://bramcohen.com/p/more-on-version-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
