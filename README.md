@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typing and Keyboards](https://lzon.ca/posts/series/grateful/typing-and-keyboards/)
-- [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
-- [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
-- [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)
-- [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)
+- [ChatGPT Won&#39;t Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
+- [The &quot;Vibe Coding&quot; Wall of Shame](https://crackr.dev/vibe-coding-failures)
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- [More on Version Control](https://bramcohen.com/p/more-on-version-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
