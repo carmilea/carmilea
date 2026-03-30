@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
+- [Show HN: 30u30.fyi – Is your startup founder on Forbes&#39; most fraudulent list?](https://30u30.fyi)
+- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+- [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
+- [Tickets Are Prompts](https://dheer.co/tickets-are-prompts/)
 - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
-- [Turning a MacBook into a touchscreen with $1 of hardware &lpar;2018&rpar;](https://anishathalye.com/macbook-touchscreen/)
-- [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
-- [How Iran is making a mint from the current war](https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
