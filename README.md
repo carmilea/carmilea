@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe is down](https://status.stripe.com/)
+- [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
+- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
+- [MCP is great, you&#39;re just using it wrong](https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/)
 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
-- [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
-- [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
-- [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
+- [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
