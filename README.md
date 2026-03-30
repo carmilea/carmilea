@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
 - [Turning a MacBook into a touchscreen with $1 of hardware &lpar;2018&rpar;](https://anishathalye.com/macbook-touchscreen/)
 - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
-- [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
-- [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+- [How Iran is making a mint from the current war](https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
