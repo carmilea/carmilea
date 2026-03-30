@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning a MacBook into a touchscreen with $1 of hardware &lpar;2018&rpar;](https://anishathalye.com/macbook-touchscreen/)
+- [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+- [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
-- [Fedware: Government Apps That Spy Harder Than the Apps They Ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
-- [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
-- [You are falling behind because you haven&#39;t fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
-- [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/)
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
