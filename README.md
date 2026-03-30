@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
+- [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
 - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
-- [MCP is great, you&#39;re just using it wrong](https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/)
 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
-- [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
