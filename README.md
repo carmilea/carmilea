@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe is down](https://status.stripe.com/)
 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
 - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
-- [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)
 - [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
 <!-- BLOG-POST-LIST:END -->
 
