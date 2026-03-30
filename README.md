@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sudden Fall of OpenAI&#39;s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9)
+- [The Curious Case of Retro Demo Scene Graphics](https://www.datagubbe.se/aipixels/)
+- [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda)
+- [VHDL&#39;s Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+- [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 - [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
-- [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
-- [DoesItAgeVerify: The age verification status of Open Source Operating Systems](https://github.com/BryanLunduke/DoesItAgeVerify)
-- [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
