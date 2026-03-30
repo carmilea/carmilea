@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Over 1.5 million GitHub PRs have had ads injected into them by Copilot&quot;](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
 - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
+- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
 - [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
-- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
-- [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
