@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Over 1.5 million GitHub PRs have had ads injected into them by Copilot&quot;](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
-- [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
-- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
-- [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
-- [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
+- [Take Better Notes, by Hand](https://brianschrader.com/archive/take-better-notes-by-hand/)
+- [OCR For construction documents does not work, we fixed it](https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors)
+- [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
+- [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+- [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
