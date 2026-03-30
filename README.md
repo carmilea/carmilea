@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: 30u30.fyi – Is your startup founder on Forbes&#39; most fraudulent list?](https://30u30.fyi)
 - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-- [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
-- [Tickets Are Prompts](https://dheer.co/tickets-are-prompts/)
 - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
+- [Why I&#39;m betting on ATProto &lpar;and why you should, too&rpar;](https://brittanyellich.com/atproto/)
+- [Turning a MacBook into a touchscreen with $1 of hardware &lpar;2018&rpar;](https://anishathalye.com/macbook-touchscreen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
