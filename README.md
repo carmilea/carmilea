@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code&#39;s source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
+- [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)
 - [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer)
 - [Google&#39;s 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
 - [Sony halts memory card shipments due to NAND shortage](https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/)
-- [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
-- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
