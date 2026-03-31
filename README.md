@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build &amp; Run Reusable Extractors | Enterprise h2oGPTe](https://www.youtube.com/watch?v=KVPfOZtn3sE)
+- [Extract Structured Data from Any Document | Enterprise h2oGPTe](https://www.youtube.com/watch?v=obfW8yMt5qI)
 - [Automated ML Explainability &amp; Bias Testing in H2O.ai | Part 5](https://www.youtube.com/watch?v=kbv2bBDKi8A)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=cTzJKWmo3wI)
 - [Understanding AI Agents and Agentic Systems](https://www.youtube.com/watch?v=b-HYM4wBHyM)
-- [Automated Feature Engineering in H2O Driverless AI | Part 4](https://www.youtube.com/watch?v=ld9s3DkrGwg)
-- [Scaling Enterprise ML with the H2O Feature Store | Part 3](https://www.youtube.com/watch?v=MiljL96QF0M)
 <!-- YOUTUBE:END -->
 
 
