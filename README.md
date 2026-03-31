@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: 30u30.fyi – Is your startup founder on Forbes&#39; most fraudulent list?](https://30u30.fyi)
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
+- [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching)
+- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)
+- [Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://github.com/virpo/pegboard)
 - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
-- [Why I&#39;m betting on ATProto &lpar;and why you should, too&rpar;](https://brittanyellich.com/atproto/)
-- [Turning a MacBook into a touchscreen with $1 of hardware &lpar;2018&rpar;](https://anishathalye.com/macbook-touchscreen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
