@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
-- [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching)
-- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)
-- [Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://github.com/virpo/pegboard)
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+- [Google&#39;s 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
+- [Sony halts memory card shipments due to NAND shortage](https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/)
+- [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
+- [Show HN: Will AI take my job](https://aijobsreport.org/quiz)
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
