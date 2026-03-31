@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
-- [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+- [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)
+- [Ministack &lpar;Replacement for LocalStack&rpar;](https://ministack.org/)
+- [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
+- [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
 - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
-- [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
-- [GitHub&#39;s Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
