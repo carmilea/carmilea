@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
-- [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
-- [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
-- [Open source CAD in the browser &lpar;Solvespace&rpar;](https://solvespace.com/webver.pl)
-- [Anthropic: Claude Code users hitting usage limits &#39;way faster than expected&#39;](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
+- [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
+- [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
+- [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
+- [Dot – A Siri Replacement learns skills through Apple Shortcuts](https://apps.apple.com/us/app/dot-ai-personal-assistant/id6758647775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
