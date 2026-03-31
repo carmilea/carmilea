@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)
-- [Claude Code&#39;s source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
-- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer)
-- [Google&#39;s 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
-- [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
+- [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
+- [Open source CAD in the browser &lpar;Solvespace&rpar;](https://solvespace.com/webver.pl)
+- [Anthropic: Claude Code users hitting usage limits &#39;way faster than expected&#39;](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
+- [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators)
+- [In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive](https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
