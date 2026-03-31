@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
+- [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
+- [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
+- [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
 - [Open source CAD in the browser &lpar;Solvespace&rpar;](https://solvespace.com/webver.pl)
 - [Anthropic: Claude Code users hitting usage limits &#39;way faster than expected&#39;](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
-- [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators)
-- [In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive](https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
