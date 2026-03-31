@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)
+- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
 - [Ministack &lpar;Replacement for LocalStack&rpar;](https://ministack.org/)
-- [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
-- [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
-- [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
