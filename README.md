@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My open-world voxel game with a magic system, playable in the browser](https://kouh.me/wildmagic)
+- [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
 - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
+- [Show HN: PhAIL – Real-robot benchmark for AI models](https://phail.ai)
 - [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
-- [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
-- [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
-- [Dot – A Siri Replacement learns skills through Apple Shortcuts](https://apps.apple.com/us/app/dot-ai-personal-assistant/id6758647775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
