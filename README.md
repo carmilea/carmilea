@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: My open-world voxel game with a magic system, playable in the browser](https://kouh.me/wildmagic)
-- [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
-- [Show HN: PhAIL – Real-robot benchmark for AI models](https://phail.ai)
-- [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
+- [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
+- [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+- [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
+- [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
+- [GitHub&#39;s Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
