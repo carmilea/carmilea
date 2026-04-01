@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe)
-- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks &lpar;300 battles&rpar;](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)
-- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
-- [The OpenAI Graveyard: All the Deals and Products That Haven&#39;t Happened](https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/)
-- [Ask HN: Who is hiring? &lpar;April 2026&rpar;](https://news.ycombinator.com/item?id=47601859)
+- [Apple at 50](https://www.apple.com/)
+- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
+- [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
+- [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/)
+- [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
