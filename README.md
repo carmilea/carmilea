@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My son pleasured himself on Gemini Live. Entire family&#39;s Google accounts banned](https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/)
+- [We intercepted the White House app&#39;s traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+- [U.S. exempts oil industry from protecting Gulf animals, for &#39;national security&#39;](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security)
+- [Neanderthals survived on a knife&#39;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
 - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
-- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
-- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
-- [Ministack &lpar;Replacement for LocalStack&rpar;](https://ministack.org/)
-- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
