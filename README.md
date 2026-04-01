@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My son pleasured himself on Gemini Live. Entire family&#39;s Google accounts banned](https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/)
-- [We intercepted the White House app&#39;s traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
-- [U.S. exempts oil industry from protecting Gulf animals, for &#39;national security&#39;](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security)
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+- [Analyzing Geekbench 6 under Intel&#39;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
+- [We intercepted the White House app&#39;s network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
 - [Neanderthals survived on a knife&#39;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
 - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
 <!-- BLOG-POST-LIST:END -->
