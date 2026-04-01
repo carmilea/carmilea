@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
+- [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
+- [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
 - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 - [Analyzing Geekbench 6 under Intel&#39;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
-- [We intercepted the White House app&#39;s network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
-- [Neanderthals survived on a knife&#39;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
-- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
