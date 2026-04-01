@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
+- [Jax&#39;s true calling: Ray-Marching renderers on WebGL](https://benoit.paris/posts/jax-ray-marcher/)
+- [Scientists crack a 20-year nuclear mystery behind the creation of gold](https://www.sciencedaily.com/releases/2026/03/260313002633.htm)
+- [SpaceX confidentially files to go public at $1.75T, reports say](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)
 - [Apple at 50](https://www.apple.com/)
-- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
-- [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
-- [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/)
-- [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
