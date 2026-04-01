@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
-- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
-- [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
-- [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell &lpar;CVE-2026-4747&rpar;](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)
-- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+- [New Patches Allow Building Linux IPv6-Only, Option to Deprecate &quot;Legacy&quot; IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
+- [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
+- [CEO of largest public hospital says he&#39;s ready to replace radiologists with AI](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai)
+- [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
+- [Show HN: Baton – A desktop app for developing with AI agents](https://getbaton.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
