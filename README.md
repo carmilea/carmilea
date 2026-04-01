@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
-- [OnlyOffice kills Nextcloud partnership for forking its project without approval](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
-- [AI has suddenly become more useful to open-source developers](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
-- [New Patches Allow Building Linux IPv6-Only, Option to Deprecate &quot;Legacy&quot; IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
-- [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
+- [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe)
+- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks &lpar;300 battles&rpar;](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)
+- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+- [The OpenAI Graveyard: All the Deals and Products That Haven&#39;t Happened](https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/)
+- [Ask HN: Who is hiring? &lpar;April 2026&rpar;](https://news.ycombinator.com/item?id=47601859)
 <!-- BLOG-POST-LIST:END -->
 
 ---
