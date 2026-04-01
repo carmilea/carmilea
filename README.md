@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
 - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
 - [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell &lpar;CVE-2026-4747&rpar;](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)
 - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
-- [Analyzing Geekbench 6 under Intel&#39;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
