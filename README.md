@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
+- [OnlyOffice kills Nextcloud partnership for forking its project without approval](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
+- [AI has suddenly become more useful to open-source developers](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
 - [New Patches Allow Building Linux IPv6-Only, Option to Deprecate &quot;Legacy&quot; IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
 - [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
-- [CEO of largest public hospital says he&#39;s ready to replace radiologists with AI](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai)
-- [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
-- [Show HN: Baton – A desktop app for developing with AI agents](https://getbaton.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
