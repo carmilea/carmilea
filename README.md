@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
-- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
-- [Weather.com/Retro](https://weather.com/retro/)
-- [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
-- [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
+- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
+- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
+- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
+- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
