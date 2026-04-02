@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
+- [Should AI have the right to say &#39;No&#39; to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)
+- [Bringing Clojure programming to Enterprise &lpar;2021&rpar;](https://blogit.michelin.io/clojure-programming/)
 - [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
-- [Claude Code users hitting usage limits &#39;way faster than expected&#39;](https://www.bbc.com/news/articles/ce8l2q5yq51o)
 - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
-- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
-- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
