@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
-- [&#39;Backrooms&#39; and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
-- [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
-- [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
-- [Inside Nepal&#39;s Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
+- [Modern SQLite: Features You Didn&#39;t Know It Had](https://slicker.me/sqlite/features.htm)
+- [EmDash: A Fresh Take on CMS](https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/)
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+- [Snow melt-off in American west stuns scientists](https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west)
+- [Inference Engine for Apple Silicon](https://github.com/ondeinference/onde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
