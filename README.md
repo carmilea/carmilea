@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern SQLite: Features You Didn&#39;t Know It Had](https://slicker.me/sqlite/features.htm)
-- [EmDash: A Fresh Take on CMS](https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/)
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
-- [Snow melt-off in American west stuns scientists](https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west)
-- [Inference Engine for Apple Silicon](https://github.com/ondeinference/onde)
+- [Zep AI Is Hiring – Building the Agent Context Layer &lpar;YC W24&rpar;](https://www.ycombinator.com/companies/zep-ai/jobs)
+- [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
+- [Tailscale&#39;s New macOS Home](https://tailscale.com/blog/macos-notch-escape)
+- [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+- [Hugo&#39;s New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
