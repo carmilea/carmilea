@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zep AI Is Hiring – Building the Agent Context Layer &lpar;YC W24&rpar;](https://www.ycombinator.com/companies/zep-ai/jobs)
-- [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
-- [Tailscale&#39;s New macOS Home](https://tailscale.com/blog/macos-notch-escape)
+- [Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
+- [Australia to crack down on gambling ads after years of criticism](https://www.bbc.com/news/articles/c62492e925lo)
+- [Tailscale&#39;s new macOS home](https://tailscale.com/blog/macos-notch-escape)
 - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
-- [Hugo&#39;s New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
