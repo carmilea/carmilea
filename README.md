@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
-- [Significant Raise of Reports](https://lwn.net/Articles/1065620/)
-- [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
-- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
-- [Bringing Clojure programming to Enterprise &lpar;2021&rpar;](https://blogit.michelin.io/clojure-programming/)
+- [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
+- [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
+- [Inside Nepal&#39;s Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
+- [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
