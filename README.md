@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+- [Significant Raise of Reports](https://lwn.net/Articles/1065620/)
+- [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
 - [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
-- [Should AI have the right to say &#39;No&#39; to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)
 - [Bringing Clojure programming to Enterprise &lpar;2021&rpar;](https://blogit.michelin.io/clojure-programming/)
-- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
-- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
