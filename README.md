@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
-- [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
-- [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
-- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
-- [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts &lpar;iOS&rpar;](https://getdull.app)
+- [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
+- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
+- [Weather.com/Retro](https://weather.com/retro/)
+- [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
+- [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
