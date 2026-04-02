@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Doesn&#39;t Anybody Realize We&#39;re Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
+- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 - [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internal Engineers &lpar;Rust&rpar;](https://paradedb.notion.site/)
 - [Amazon is adding a fuel surcharge to fees it collects from third-party sellers](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
 - [The Australian government has announced gambling advertising reforms](https://www.bbc.com/news/articles/c62492e925lo)
-- [Tailscale&#39;s new macOS home](https://tailscale.com/blog/macos-notch-escape)
-- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
