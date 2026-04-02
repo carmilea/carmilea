@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
-- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
+- [Telli &lpar;YC F24&rpar; is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
+- [Claude Code users hitting usage limits &#39;way faster than expected&#39;](https://www.bbc.com/news/articles/ce8l2q5yq51o)
 - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 - [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
 - [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
