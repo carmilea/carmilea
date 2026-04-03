@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The open web isn&#39;t dying. We&#39;re killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
 - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
 - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
