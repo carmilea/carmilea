@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
+- [Show HN: ctx – an Agentic Development Environment &lpar;ADE&rpar;](https://ctx.rs)
+- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 - [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
-- [H.264 Streaming Fees: What Changed, Who&#39;s Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
-- [Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux](https://github.com/oven-sh/bun/pull/28801)
-- [Critics say EU risks ceding control of its tech laws under U.S. pressure](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
