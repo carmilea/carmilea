@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
+- [A Rave Review of Superpowers &lpar;For Claude Code&rpar;](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
 - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
