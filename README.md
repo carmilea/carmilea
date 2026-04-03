@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
 - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
 - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
-- [Show HN: ctx – an Agentic Development Environment &lpar;ADE&rpar;](https://ctx.rs)
 - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
+- [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
