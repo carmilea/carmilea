@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Doesn&#39;t Anybody Realize We&#39;re Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
-- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internal Engineers &lpar;Rust&rpar;](https://paradedb.notion.site/)
-- [Amazon is adding a fuel surcharge to fees it collects from third-party sellers](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
-- [The Australian government has announced gambling advertising reforms](https://www.bbc.com/news/articles/c62492e925lo)
+- [The open web isn&#39;t dying. We&#39;re killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
+- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
+- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
+- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
