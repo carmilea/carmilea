@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
 - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
+- [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
 - [Artemis II crew take &#39;spectacular&#39; image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-- [PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free](https://injecguard.github.io/)
-- [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
-- [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door &lpar;2020&rpar;](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+- [Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment](https://ismcpdead.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
