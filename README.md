@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Rave Review of Superpowers &lpar;For Claude Code&rpar;](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
-- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
-- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
-- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
+- [Switzerland hosts &#39;CERN of semiconductor research&#39;](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
+- [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
+- [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
+- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
+- [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
