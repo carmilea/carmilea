@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
+- [Iran Strikes Leave Amazon Availability Zones &quot;Hard Down&quot; in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
 - [Charge Robotics &lpar;YC S21&rpar; Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
+- [The Hardest Document Extraction Problem in Insurance](https://www.furtherai.com/engineering-blogs/hardest-document-extraction-problem-in-insurance)
 - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
-- [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
-- [Artemis II crew take &#39;spectacular&#39; image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-- [Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment](https://ismcpdead.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
