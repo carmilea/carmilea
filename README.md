@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
+- [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
+- [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door &lpar;2020&rpar;](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+- [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
 - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
-- [Show HN: An evidence-rated encyclopedia of peptides](https://www.whatthepeptide.org/)
-- [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/)
-- [iNaturalist](https://www.inaturalist.org/)
-- [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
