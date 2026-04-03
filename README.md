@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
-- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
-- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
-- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
-- [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
+- [iNaturalist](https://www.inaturalist.org/)
+- [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
+- [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
+- [If you&#39;re running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+- [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
