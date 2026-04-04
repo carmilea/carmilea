@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
-- [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
 - [Scientists are working on &quot;everything vaccines&quot;](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
 - [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
-- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
+- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
