@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
+- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
+- [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
+- [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
 - [Show HN: TurboQuant-WASM – Google&#39;s vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
-- [Author of &quot;Careless People&quot; banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
-- [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
-- [Mbodi AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
-- [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
