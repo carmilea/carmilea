@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory)
+- [Iran&#39;s Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+- [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 - [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
-- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
-- [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
-- [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
-- [Show HN: TurboQuant-WASM – Google&#39;s vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
