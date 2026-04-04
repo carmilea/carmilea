@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you handle clients who don&#39;t pay on time?](https://news.ycombinator.com/item?id=47638685)
+- [Show HN: TurboQuant-WASM – Google&#39;s vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
+- [Author of &quot;Careless People&quot; banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
+- [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 - [Mbodi AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
-- [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
 - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
-- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 <!-- BLOG-POST-LIST:END -->
 
 ---
