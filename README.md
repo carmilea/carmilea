@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you handle clients who don&#39;t pay on time?](https://news.ycombinator.com/item?id=47638685)
 - [Mbodi AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
 - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
 - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
-- [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
-- [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
+- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 <!-- BLOG-POST-LIST:END -->
 
 ---
