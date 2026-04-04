@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
+- [Delve Removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
 - [How to Write Unmaintainable Code &lpar;1999&rpar;](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
 - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
-- [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
-- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
