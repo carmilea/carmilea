@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
+- [Mbodi AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
+- [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
+- [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
+- [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
 - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
-- [Scientists are working on &quot;everything vaccines&quot;](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
-- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
-- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
