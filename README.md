@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
+- [Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)
+- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
 - [How many products does Microsoft have named &#39;Copilot&#39;?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
-- [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 - [Sopwith – 1984 Game &lpar;2000&rpar;](http://www.sopwith.org/)
 - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
 <!-- BLOG-POST-LIST:END -->
