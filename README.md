@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)
-- [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)
+- [Sopwith](http://www.sopwith.org/)
 - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
 - [Deafness reversed: One injection restores hearing in just weeks – ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
 - [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
+- [Why the Most Valuable Things You Know Are Things You Cannot Say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
