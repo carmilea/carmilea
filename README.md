@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sopwith](http://www.sopwith.org/)
+- [How many products does Microsoft have named &#39;Copilot&#39;? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- [Sopwith – 1984 Game &lpar;2000&rpar;](http://www.sopwith.org/)
 - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
-- [Deafness reversed: One injection restores hearing in just weeks – ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
+- [A new gene therapy is giving people born deaf the chance to hear](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
 - [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
-- [Why the Most Valuable Things You Know Are Things You Cannot Say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
