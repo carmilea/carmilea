@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many products does Microsoft have named &#39;Copilot&#39;? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- [How many products does Microsoft have named &#39;Copilot&#39;?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 - [Sopwith – 1984 Game &lpar;2000&rpar;](http://www.sopwith.org/)
 - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
-- [A new gene therapy is giving people born deaf the chance to hear](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
-- [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
+- [Plague Ships &lpar;2020&rpar;](https://www.afloat.com.au/feature/plague-ships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
