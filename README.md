@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory)
-- [Iran&#39;s Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
-- [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
-- [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
+- [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)
+- [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)
+- [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
+- [Deafness reversed: One injection restores hearing in just weeks – ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
+- [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
