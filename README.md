@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
+- [In Japan, the robot isn&#39;t coming for your job; it&#39;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 - [The Mechanics of Steins Gate &lpar;2023&rpar; [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
-- [UK intelligence censored report on global warming and homeland security](https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security)
-- [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/i/status/2040577536136974444)
-- [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+- [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
+- [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/unlimited_ls/status/2040577536136974444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
