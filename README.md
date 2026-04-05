@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
-- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
-- [Writing Lisp is AI resistant and I&#39;m sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 - [Introduction to Computer Music &lpar;2009&rpar; [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/)
 - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
+- [AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
+- [Nvim-treesitter &lpar;13K+ Stars&rpar; is Archived](https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
