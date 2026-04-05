@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)
-- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
-- [How many products does Microsoft have named &#39;Copilot&#39;?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
-- [Sopwith – 1984 Game &lpar;2000&rpar;](http://www.sopwith.org/)
-- [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
+- [AGI Is Here](https://breaking-changes.blog/agi-is-here/)
+- [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- [Isseven](https://isseven.app/)
+- [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)
+- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
