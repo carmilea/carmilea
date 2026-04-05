@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iguanaworks has closed down. USB Infrared hardware open source maker](http://iguanaworks.net/products/usb-ir-transceiver.html)
-- [Someone at BrowserStack Is Leaking Users&#39; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
-- [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers#open-positions)
+- [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
+- [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
+- [Japanese, French and Omani Vessels Cross Strait of Hormuz](https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz)
+- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
+- [Iguanaworks has closed and our products are no longer sold](http://iguanaworks.net/products/usb-ir-transceiver.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
