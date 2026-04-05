@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
+- [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
 - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
-- [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
-- [Japanese, French and Omani Vessels Cross Strait of Hormuz](https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz)
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
-- [Iguanaworks has closed and our products are no longer sold](http://iguanaworks.net/products/usb-ir-transceiver.html)
+- [A tail-call interpreter in &lpar;nightly&rpar; Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
+- [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
