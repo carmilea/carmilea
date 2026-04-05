@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Planes Destroyed by U.S. During Rescue Operation](https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8)
+- [Iguanaworks has closed down. USB Infrared hardware open source maker](http://iguanaworks.net/products/usb-ir-transceiver.html)
+- [Someone at BrowserStack Is Leaking Users&#39; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
+- [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
+- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers#open-positions)
-- [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
-- [Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace)
-- [Friendica – A Decentralized Social Network](https://friendi.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
