@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+- [Aegis – open-source FPGA silicon](https://github.com/MidstallSoftware/aegis)
+- [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
 - [Introduction to Computer Music &lpar;2009&rpar; [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/)
 - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
-- [AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
-- [Nvim-treesitter &lpar;13K+ Stars&rpar; is Archived](https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
