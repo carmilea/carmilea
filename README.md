@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AGI Is Here](https://breaking-changes.blog/agi-is-here/)
-- [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- [Isseven](https://isseven.app/)
-- [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)
+- [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
+- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
+- [Writing Lisp is AI resistant and I&#39;m sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+- [Introduction to Computer Music &lpar;2009&rpar; [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
 <!-- BLOG-POST-LIST:END -->
 
