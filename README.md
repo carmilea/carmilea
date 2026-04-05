@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The threat is comfortable drift toward not understanding what you&#39;re doing](https://ergosphere.blog/posts/the-machines-are-fine/)
-- [Talk like caveman](https://github.com/JuliusBrussee/caveman)
-- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
-- [Unverified: What Practitioners Post About OCR, Agents, and Tables](https://idp-software.com/news/idp-accuracy-reckoning-2026/)
-- [Show HN: OsintRadar – Curated directory for osint tools](https://osintradar.com/)
+- [Two Planes Destroyed by U.S. During Rescue Operation](https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers#open-positions)
+- [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
+- [Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace)
+- [Friendica – A Decentralized Social Network](https://friendi.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
