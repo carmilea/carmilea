@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK intelligence censored report on global warming and homeland security](https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security)
 - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-- [Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab](https://priceinfluencer.com)
+- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t](https://sschueller.github.io/posts/the-free-market-lie/)
 - [LibreOffice – Let&#39;s put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
-- [Music for Programming](https://musicforprogramming.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
