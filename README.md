@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreOffice – Let&#39;s put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+- [Running Google Gemma 4 Locally with LM Studio&#39;s New Headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
 - [From birds to brains: My path to the fusiform face area &lpar;2024&rpar;](https://www.kavliprize.org/nancy-kanwisher-autobiography)
 - [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
-- [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
-- [Computational Physics &lpar;2nd Edition&rpar;](https://websites.umich.edu/~mejn/cp2/)
-- [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
+- [Codex pricing to align with API token usage, instead of per-message](https://help.openai.com/en/articles/20001106-codex-rate-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
