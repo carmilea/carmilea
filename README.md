@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+- [Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab](https://priceinfluencer.com)
 - [LibreOffice – Let&#39;s put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
-- [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
-- [Running Google Gemma 4 Locally with LM Studio&#39;s New Headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
+- [Music for Programming](https://musicforprogramming.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
