@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk like caveman](https://github.com/JuliusBrussee/caveman)
+- [The Future of Adult Entertainment: Personalized, AI Content](https://unbound.video/landing4)
 - [Dynamics of &lpar;Not&rpar; Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
 - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
 - [Unverified: What Practitioners Post About OCR, Agents, and Tables](https://idp-software.com/news/idp-accuracy-reckoning-2026/)
-- [Aegis – open-source FPGA silicon](https://github.com/MidstallSoftware/aegis)
-- [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
