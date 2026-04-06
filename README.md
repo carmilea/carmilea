@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A macOS kernel bug can cause OpenClaw to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
+- [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- [Agent Reading Test](https://agentreadingtest.com)
 - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
-- [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
-- [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/)
-- [Smart people recognize each other – science proves it](https://comuniq.xyz/post?t=920)
-- [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
+- [The cult of vibe coding is insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
