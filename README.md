@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stamp It All Programs Must Report Their Version – Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
-- [LLMs can&#39;t justify their answers–this CLI forces them to](https://wheat.grainulation.com/)
-- [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)
-- [Employers use your personal data to figure out the lowest salary you&#39;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+- [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
+- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
+- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- [The 1987 game &quot;The Last Ninja&quot; was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
