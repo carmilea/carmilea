@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
-- [Show HN: I Built Paul Graham&#39;s Intellectual Captcha Idea](https://mentwire.com/sample)
+- [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
 - [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh)
+- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/)
 - [81yo Dodgers fan can no longer get tickets because he doesn&#39;t have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865)
 - [Reducto releases Deep Extract](https://reducto.ai/blog/reducto-deep-extract-agent)
 <!-- BLOG-POST-LIST:END -->
