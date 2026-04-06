@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
+- [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/)
+- [Smart people recognize each other – science proves it](https://comuniq.xyz/post?t=920)
 - [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
-- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh)
-- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/)
-- [81yo Dodgers fan can no longer get tickets because he doesn&#39;t have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865)
-- [Reducto releases Deep Extract](https://reducto.ai/blog/reducto-deep-extract-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
