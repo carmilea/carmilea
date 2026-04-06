@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Down](https://news.ycombinator.com/item?id=47662112)
-- [I Won&#39;t Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
-- [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
-- [Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
-- [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
+- [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
+- [Show HN: I Built Paul Graham&#39;s Intellectual Captcha Idea](https://mentwire.com/sample)
+- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh)
+- [81yo Dodgers fan can no longer get tickets because he doesn&#39;t have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865)
+- [Reducto releases Deep Extract](https://reducto.ai/blog/reducto-deep-extract-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
