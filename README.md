@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
-- [In Japan, the robot isn&#39;t coming for your job; it&#39;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
-- [The Mechanics of Steins Gate &lpar;2023&rpar; [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
-- [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
-- [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/unlimited_ls/status/2040577536136974444)
+- [Stamp It All Programs Must Report Their Version – Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
+- [LLMs can&#39;t justify their answers–this CLI forces them to](https://wheat.grainulation.com/)
+- [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)
+- [Employers use your personal data to figure out the lowest salary you&#39;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
