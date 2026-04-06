@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Down](https://news.ycombinator.com/item?id=47662112)
 - [I Won&#39;t Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
 - [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
-- [The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign](https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign)
 - [Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
 <!-- BLOG-POST-LIST:END -->
