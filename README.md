@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [NYC Families Need over $125,000 in Income to Live in Any Borough](https://www.bloomberg.com/news/articles/2026-04-06/nyc-families-need-over-125-000-in-income-to-live-in-any-borough)
-- [Ah, peptides. where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)
+- [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 - [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
-- [Root Persistence via macOS Recovery Mode Safari](https://yaseenghanem.com/recovery-unrestricted-write-access/)
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
