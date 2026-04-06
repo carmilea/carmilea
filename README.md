@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostHog &lpar;YC W20&rpar; Is Hiring](https://news.ycombinator.com/item?id=47660343)
+- [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
+- [Tiny Corp&#39;s Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
 - [Is Germany&#39;s gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
-- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
 - [Number in man page titles e.g. sleep&lpar;3&rpar;](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
-- [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
-- [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
