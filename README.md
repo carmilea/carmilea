@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
+- [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
 - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
 - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
 - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
-- [The 1987 game &quot;The Last Ninja&quot; was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
-- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
