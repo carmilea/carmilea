@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Germany&#39;s gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
+- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
+- [Number in man page titles e.g. sleep&lpar;3&rpar;](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
-- [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
-- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
-- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
