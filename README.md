@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A macOS kernel bug can cause OpenClaw to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
-- [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- [Agent Reading Test](https://agentreadingtest.com)
-- [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
-- [The cult of vibe coding is insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
+- [Root Persistence via macOS Recovery Mode Safari](https://yaseenghanem.com/recovery-unrestricted-write-access/)
+- [A macOS bug that causes TCP networking to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- [Wikipedia&#39;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
