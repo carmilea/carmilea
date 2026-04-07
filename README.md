@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+- [After 20 years I turned off Google Adsense for my websites &lpar;2025&rpar;](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 - [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
-- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
