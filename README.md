@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
-- [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
-- [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected &lpar;2017&rpar;](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
-- [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
-- [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+- [Assessing Claude Mythos Preview&#39;s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+- [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo)
+- [Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP](https://printervention.app/details)
 <!-- BLOG-POST-LIST:END -->
 
 ---
