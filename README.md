@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
-- [Some iPhone Apps Receive Mysterious Update &#39;From Apple&#39;](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
-- [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
-- [Dear Heroku: Uhh What&#39;s Going On?](https://judoscale.com/blog/heroku-whats-going-on)
-- [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
+- [Germany Power Prices Turn Deeply Negative on Renewables Surge](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge)
+- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
+- [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
+- [Are We Idiocracy Yet?](https://idiocracy.wtf/)
+- [Breaking the console: a brief history of video game security](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
