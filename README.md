@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany Power Prices Turn Deeply Negative on Renewables Surge](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge)
-- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
-- [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
-- [Are We Idiocracy Yet?](https://idiocracy.wtf/)
-- [Breaking the console: a brief history of video game security](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
+- [9 Mothers &lpar;YC P26&rpar; Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+- [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
+- [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
+- [Attention Is All You Need, but All You Can&#39;t Afford – Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
+- [&quot;The new Copilot app for Windows 11 is really just Microsoft Edge&quot;](https://twitter.com/i/status/2041112541909205001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
