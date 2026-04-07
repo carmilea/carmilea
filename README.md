@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+- [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 - [9 Mothers &lpar;YC P26&rpar; Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+- [You can&#39;t cancel a JavaScript promise &lpar;except sometimes you can&rpar;](https://www.inngest.com/blog/hanging-promises-for-control-flow)
 - [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
-- [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
-- [Attention Is All You Need, but All You Can&#39;t Afford – Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
-- [&quot;The new Copilot app for Windows 11 is really just Microsoft Edge&quot;](https://twitter.com/i/status/2041112541909205001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
