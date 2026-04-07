@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
+- [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
+- [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
-- [Assessing Claude Mythos Preview&#39;s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
-- [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo)
-- [Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP](https://printervention.app/details)
 <!-- BLOG-POST-LIST:END -->
 
 ---
