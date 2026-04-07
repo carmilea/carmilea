@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
 - [Some iPhone Apps Receive Mysterious Update &#39;From Apple&#39;](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
 - [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
+- [Dear Heroku: Uhh What&#39;s Going On?](https://judoscale.com/blog/heroku-whats-going-on)
 - [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
-- [After 20 years I turned off Google Adsense for my websites &lpar;2025&rpar;](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
