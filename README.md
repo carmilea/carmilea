@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)
+- [Ex-Meta worker investigated for downloading 30k private Facebook photos](https://www.bbc.com/news/articles/cvg049xz1ygo)
 - [USD Purchasing Power in Real Time Since 2000](https://onedollar.today/)
 - [Move Detroit](https://www.movedetroit.com/program)
-- [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 - [Show HN: An interactive map of Tolkien&#39;s Middle-earth](https://middle-earth-interactive-map.web.app/)
 <!-- BLOG-POST-LIST:END -->
 
