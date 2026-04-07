@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Heroku: Uhh What&#39;s Going On?](https://judoscale.com/blog/heroku-whats-going-on)
 - [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
 - [After 20 years I turned off Google Adsense for my websites &lpar;2025&rpar;](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
 - [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
 <!-- BLOG-POST-LIST:END -->
 
 ---
