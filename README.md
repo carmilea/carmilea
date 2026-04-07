@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
+- [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+- [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected &lpar;2017&rpar;](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
+- [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
-- [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
-- [9 Mothers &lpar;YC P26&rpar; Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-- [You can&#39;t cancel a JavaScript promise &lpar;except sometimes you can&rpar;](https://www.inngest.com/blog/hanging-promises-for-control-flow)
-- [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
