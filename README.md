@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Move Detroit](https://www.movedetroit.com/program)
+- [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+- [Show HN: An interactive map of Tolkien&#39;s Middle-earth](https://middle-earth-interactive-map.web.app/)
 - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
 - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
-- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
-- [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
-- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
