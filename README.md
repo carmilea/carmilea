@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)
+- [USD Purchasing Power in Real Time Since 2000](https://onedollar.today/)
 - [Move Detroit](https://www.movedetroit.com/program)
 - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 - [Show HN: An interactive map of Tolkien&#39;s Middle-earth](https://middle-earth-interactive-map.web.app/)
-- [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
-- [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
