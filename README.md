@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We moved Railway&#39;s frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
+- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 - [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
-- [LLM scraper bots are overloading acme.com&#39;s HTTPS server](http://acme.com/updates/archive/229.html)
 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
-- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
