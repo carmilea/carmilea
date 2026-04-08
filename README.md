@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+- [Show HN: Is Hormuz Open Yet?](https://www.ishormuzopenyet.com/)
+- [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 - [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
-- [I&#39;ve been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
