@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
-- [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
-- [They&#39;re Made Out of Meat &lpar;1991&rpar;](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
-- [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
-- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+- [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
+- [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
+- [Iran demands Bitcoin fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+- [Show HN: We fingerprinted 178 AI models&#39; writing styles and similarity clusters](https://rival.tips/research/model-similarity)
+- [LLM plays an 8-bit Commander X16 game using structured &quot;smart senses&quot;](https://pvp-ai.russell-harper.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
