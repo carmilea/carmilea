@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Is Hormuz Open Yet?](https://www.ishormuzopenyet.com/)
+- [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
+- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 - [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
-- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
