@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
-- [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
-- [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
-- [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-- [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+- [One item purchased, ten emails](https://joshghent.com/online-shopping/)
+- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
+- [I&#39;ve been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
+- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
