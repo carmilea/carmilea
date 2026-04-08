@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI says its new model GPT-2 is too dangerous to release &lpar;2019&rpar;](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
+- [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- [LLM scraper bots are overloading acme.com&#39;s HTTPS server](http://acme.com/updates/archive/229.html)
 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
 - [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
-- [Move Detroit](https://www.movedetroit.com/program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
