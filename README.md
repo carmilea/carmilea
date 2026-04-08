@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 - [We moved Railway&#39;s frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 - [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
-- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
