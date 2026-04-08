@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
+- [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
+- [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
+- [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 - [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
-- [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
-- [Iran demands Bitcoin fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
-- [Show HN: We fingerprinted 178 AI models&#39; writing styles and similarity clusters](https://rival.tips/research/model-similarity)
-- [LLM plays an 8-bit Commander X16 game using structured &quot;smart senses&quot;](https://pvp-ai.russell-harper.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
