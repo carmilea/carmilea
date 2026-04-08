@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- [One item purchased, ten emails](https://joshghent.com/online-shopping/)
+- [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
-- [I&#39;ve been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
-- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+- [I&#39;ve been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
