@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
-- [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
-- [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
-- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
-- [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
+- [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
+- [They&#39;re Made Out of Meat &lpar;1991&rpar;](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
+- [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
