@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
-- [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
-- [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
-- [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
-- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+- [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
+- [Moving from WordPress to Jekyll &lpar;and static site generators in general&rpar;](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
+- [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+- [Reverse engineering Gemini&#39;s SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
 <!-- BLOG-POST-LIST:END -->
 
 ---
