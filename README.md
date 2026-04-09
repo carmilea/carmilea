@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
+- [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
+- [Study found that young adults have grown less hopeful and more angry about AI](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
-- [Am I German or Autistic?](https://german.millermanschool.com/)
-- [Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)
-- [Launch HN: Relvy &lpar;YC F24&rpar; – On-call runbooks, automated](https://www.relvy.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
