@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
+- [EFF is leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+- [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/)
+- [Show HN: I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
 - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
-- [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
-- [Study found that young adults have grown less hopeful and more angry about AI](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
-- [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
-- [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
