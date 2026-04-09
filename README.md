@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)
-- [EFF is leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
-- [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/)
-- [Show HN: I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
-- [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+- [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
+- [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
+- [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
+- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
