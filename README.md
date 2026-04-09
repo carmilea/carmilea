@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Process Manager for Autonomous AI Agents](https://botctl.dev/)
 - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
