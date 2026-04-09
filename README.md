@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
+- [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
 - [Moving from WordPress to Jekyll &lpar;and static site generators in general&rpar;](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
-- [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
 - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
 - [Reverse engineering Gemini&#39;s SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
 <!-- BLOG-POST-LIST:END -->
