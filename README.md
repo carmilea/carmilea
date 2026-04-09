@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are you building that&#39;s not AI related?](https://news.ycombinator.com/item?id=47700460)
-- [Process Manager for Autonomous AI Agents](https://botctl.dev/)
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+- [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
+- [Claude mixes up who said what and that&#39;s not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
+- [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
+- [Reallocating $100/Month Claude Code Spend to Zed and OpenRouter](https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/)
+- [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
