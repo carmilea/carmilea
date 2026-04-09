@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
+- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
