@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [How the Trivy supply chain attack harvested credentials from secrets managers](https://vaultproof.dev/blog/trivy-supply-chain-attack)
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)
+- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
 - [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
-- [Moving from WordPress to Jekyll &lpar;and static site generators in general&rpar;](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
-- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
-- [Reverse engineering Gemini&#39;s SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
 <!-- BLOG-POST-LIST:END -->
 
 ---
