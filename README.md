@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Trivy supply chain attack harvested credentials from secrets managers](https://vaultproof.dev/blog/trivy-supply-chain-attack)
+- [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
+- [We&#39;ve raised $17M to build what comes after Git](https://blog.gitbutler.com/series-a)
+- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
+- [Apple&#39;s New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
 - [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
-- [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)
-- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
-- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
