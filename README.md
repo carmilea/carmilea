@@ -45,9 +45,9 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SalesTech Insights: Per-Account and Cross-Account Intelligence](https://www.youtube.com/watch?v=z1wYcxOevB4)
 - [H2O MLOps  Enterprise Model Registry &amp; Hugging Face | Part 8 Integration | Part 8](https://www.youtube.com/watch?v=hRJ0_uTzWRY)
 - [Scalable ML Runtime Deployment with H2O MLOps | Part 7](https://www.youtube.com/watch?v=7VEFP0L2KuA)
-- [SalesTech Insights: Per-Account and Cross-Account Intelligence](https://www.youtube.com/watch?v=z1wYcxOevB4)
 - [Enterprise MLOps: Model Deployment with H2O.ai | Part 6](https://www.youtube.com/watch?v=n1Thy7wUdGg)
 - [How to Build &amp; Run Reusable Extractors | Enterprise h2oGPTe](https://www.youtube.com/watch?v=KVPfOZtn3sE)
 <!-- YOUTUBE:END -->
