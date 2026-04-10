@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Molotov Cocktail Is Hurled at Home of OpenAI CEO Sam Altman](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)
+- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+- [Autonomy Is Real Now](https://steelforfuel.substack.com/p/autonomy-is-real-now)
+- [HBO Obtains DMCA Subpoena to Unmask &#39;Euphoria&#39; Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/)
 - [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
-- [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
-- [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
-- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
-- [Why I&#39;m Building a Database Engine in C#](https://nockawa.github.io/blog/why-building-database-engine-in-csharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
