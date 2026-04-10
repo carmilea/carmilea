@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI Artifact Management &amp; Traceability via H2O MLOps | Part 9](https://www.youtube.com/watch?v=T9SeZ2mwxOM)
 - [Unlock instant AI insights across your sales data](https://www.youtube.com/watch?v=ZANI5MKe5mo)
 - [SalesTech Insights: Per-Account and Cross-Account Intelligence](https://www.youtube.com/watch?v=z1wYcxOevB4)
 - [H2O MLOps  Enterprise Model Registry &amp; Hugging Face | Part 8 Integration | Part 8](https://www.youtube.com/watch?v=hRJ0_uTzWRY)
 - [Scalable ML Runtime Deployment with H2O MLOps | Part 7](https://www.youtube.com/watch?v=7VEFP0L2KuA)
-- [Enterprise MLOps: Model Deployment with H2O.ai | Part 6](https://www.youtube.com/watch?v=n1Thy7wUdGg)
 <!-- YOUTUBE:END -->
 
 
