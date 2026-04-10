@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 - [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
-- [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
-- [Chimpanzees in Uganda locked in vicious &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
-- [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
+- [DOJ wants to scrap Watergate-era rule that makes presidential records public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
+- [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
+- [Chimpanzees in Uganda locked in eight-year &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 <!-- BLOG-POST-LIST:END -->
 
 ---
