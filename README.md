@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Molotov Cocktail Is Hurled at Home of OpenAI CEO Sam Altman](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)
-- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
-- [Autonomy Is Real Now](https://steelforfuel.substack.com/p/autonomy-is-real-now)
-- [HBO Obtains DMCA Subpoena to Unmask &#39;Euphoria&#39; Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/)
-- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
+- [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
+- [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
+- [Chimpanzees in Uganda locked in vicious &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+- [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
 <!-- BLOG-POST-LIST:END -->
 
 ---
