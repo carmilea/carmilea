@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
 - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 - [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
-- [DOJ wants to scrap Watergate-era rule that makes presidential records public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
 - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
 - [Chimpanzees in Uganda locked in eight-year &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 <!-- BLOG-POST-LIST:END -->
