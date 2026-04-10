@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
-- [Why do we tell ourselves scary stories about AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
-- [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
-- [OpenAI backs Illinois bill that would limit when AI labs can be held liable](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
-- [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
+- [You can&#39;t trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
+- [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
+- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
+- [Supply chain nightmare: How Rust will be attacked and what we can do to mitigate](https://kerkour.com/rust-supply-chain-nightmare)
+- [&quot;Negative&quot; views of Broadcom driving VMware migrations, rival says](https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
