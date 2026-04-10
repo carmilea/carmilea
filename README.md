@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can&#39;t trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
-- [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
-- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
-- [Supply chain nightmare: How Rust will be attacked and what we can do to mitigate](https://kerkour.com/rust-supply-chain-nightmare)
-- [&quot;Negative&quot; views of Broadcom driving VMware migrations, rival says](https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
+- [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
+- [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+- [Why I&#39;m Building a Database Engine in C#](https://nockawa.github.io/blog/why-building-database-engine-in-csharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
