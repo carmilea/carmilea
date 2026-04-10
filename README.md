@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Uv Works Under the Hood](https://noos.blog/posts/uv-how-it-works-under-the-hood/)
+- [YouTube locked my accounts and I can&#39;t cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
-- [The Raft Consensus Algorithm Explained Through &quot;Mean Girls&quot;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
-- [Apple&#39;s new iPhone update is restricting internet freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- [The Raft consensus algorithm explained through &quot;Mean Girls&quot; &lpar;2019&rpar;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
