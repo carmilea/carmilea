@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
-- [We&#39;ve raised $17M to build what comes after Git](https://blog.gitbutler.com/series-a)
-- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
-- [Apple&#39;s New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
+- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- [The Raft Consensus Algorithm Explained Through &quot;Mean Girls&quot;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+- [Apple&#39;s new iPhone update is restricting internet freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
 - [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
 <!-- BLOG-POST-LIST:END -->
 
