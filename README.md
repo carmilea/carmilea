@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Uv Works Under the Hood](https://noos.blog/posts/uv-how-it-works-under-the-hood/)
-- [YouTube locked my accounts and I can&#39;t cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
-- [The Raft consensus algorithm explained through &quot;Mean Girls&quot; &lpar;2019&rpar;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+- [US plans to automatically register young men for military draft](https://www.bbc.com/news/articles/cd6lx2lpl9xo)
+- [Show HN: Keeper – embedded secret store for Go &lpar;help me break it&rpar;](https://github.com/agberohq/keeper)
+- [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
+- [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
+- [Artemis II and the invisible hazard on the way to the Moon](https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
