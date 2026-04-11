@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
+- [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
 - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
-- [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
-- [Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
-- [France&#39;s government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
+- [Borges&#39; cartographers and the tacit skill of reading LM output](https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
