@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)
+- [BlueHammer abuses Windows Defender&#39;s update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
+- [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)
+- [France&#39;s government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
+- [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)
 - [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
-- [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
-- [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)
-- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
