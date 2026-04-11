@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Has Mythos just broken the deal that kept the internet safe?](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/)
-- [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- [Sam Altman&#39;s response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
-- [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
-- [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
