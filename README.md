@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Castle](https://darkcastle.co.uk/)
+- [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+- [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
 - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
-- [The APL Programming Language Source Code &lpar;2012&rpar;](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-- [Phone Trips](http://www.wideweb.com/phonetrips/)
-- [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
