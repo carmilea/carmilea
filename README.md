@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
+- [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+- [The future of everything is lies, I guess – Part 5: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
 - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
 - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
-- [Borges&#39; cartographers and the tacit skill of reading LM output](https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
