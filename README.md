@@ -61,8 +61,8 @@
 - [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)
 - [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
-- [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do)
 - [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
