@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
 - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 - [Sam Altman&#39;s response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
-- [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
