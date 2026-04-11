@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 - [Phone Trips](http://www.wideweb.com/phonetrips/)
+- [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/)
 - [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
-- [Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858)
-- [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
