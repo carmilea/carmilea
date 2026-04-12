@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What have been the greatest intellectual achievements?](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
+- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
+- [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
 - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
 - [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
-- [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
-- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
-- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
