@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
 - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+- [Anthropic silently downgraded cache TTL from 1h → 5M on March 6th](https://github.com/anthropics/claude-code/issues/46829)
 - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
 - [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
-- [Building a Z-Machine in the worst possible language – Whitebeard&#39;s Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
-- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
