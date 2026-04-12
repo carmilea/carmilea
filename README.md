@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Audacity&#39; Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+- [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
-- [Eternity in six hours: Intergalactic spreading of intelligent life &lpar;2013&rpar;](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
-- [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
+- [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
+- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
