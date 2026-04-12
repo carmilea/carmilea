@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-- [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
-- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
+- [Israeli strike kills infant girl in south Lebanon during father&#39;s funeral](https://www.reuters.com/world/middle-east/israeli-strike-kills-infant-girl-south-lebanon-during-fathers-funeral-2026-04-12/)
+- [Google Removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+- [European AI. A playbook to own it](https://europe.mistral.ai/)
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+- [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
