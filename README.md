@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)
-- [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
-- [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912)
-- [What have been the greatest intellectual achievements? &lpar;2017&rpar;](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
-- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
+- [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
+- [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
+- [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
+- [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 &lpar;with ready SD card&rpar;](https://github.com/rochus-keller/OberonSystem3Native/releases)
+- [We have a 99% email reputation. Gmail disagrees](https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
