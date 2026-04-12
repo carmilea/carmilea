@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What have been the greatest intellectual achievements?](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
+- [Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)
+- [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
+- [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912)
+- [What have been the greatest intellectual achievements? &lpar;2017&rpar;](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
 - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
-- [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
-- [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
-- [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
