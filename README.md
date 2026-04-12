@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Valuations Are Back to Pre-AI Boom Levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
+- [Taking on CUDA with ROCm: &#39;One Step After Another&#39;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- [Sam Altman&#39;s home targeted in second attack](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/)
+- [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
 - [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
-- [Google removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
-- [European AI. A playbook to own it](https://europe.mistral.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
