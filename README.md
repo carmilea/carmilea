@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit &lpar;2023&rpar;](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
-- [Dark Castle](https://darkcastle.co.uk/)
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-- [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/)
+- [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+- [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
+- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
