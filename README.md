@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
-- [Americans still opt for print books over digital or audio versions](https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/)
-- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
-- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
-- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
+- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
+- [US – Iran negotiations end with no deal reached](https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan)
+- [The Brainrot Industrial Complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
+- [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
+- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
