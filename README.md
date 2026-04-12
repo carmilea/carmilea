@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israeli strike kills infant girl in south Lebanon during father&#39;s funeral](https://www.reuters.com/world/middle-east/israeli-strike-kills-infant-girl-south-lebanon-during-fathers-funeral-2026-04-12/)
-- [Google Removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+- [Orban ousted after 16 years as Hungarians flock to pro-EU rival](https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/)
+- [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)
+- [Google removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 - [European AI. A playbook to own it](https://europe.mistral.ai/)
 - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-- [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
