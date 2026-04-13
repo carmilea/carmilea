@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
-- [They See Your Photos](https://theyseeyourphotos.com/)
-- [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
-- [I went to America&#39;s worst national parks so you don&#39;t have to](https://substack.com/home/post/p-193626949)
-- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
+- [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
+- [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+- [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
+- [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
