@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
-- [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
-- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
-- [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
-- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
+- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
+- [They See Your Photos](https://theyseeyourphotos.com/)
+- [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+- [I went to America&#39;s worst national parks so you don&#39;t have to](https://substack.com/home/post/p-193626949)
+- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
