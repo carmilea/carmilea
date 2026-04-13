@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
 - [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
-- [Apple&#39;s accidental moat: How the &quot;AI Loser&quot; may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 <!-- BLOG-POST-LIST:END -->
 
 ---
