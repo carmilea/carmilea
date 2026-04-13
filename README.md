@@ -61,8 +61,8 @@
 - [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
 - [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 - [The tech jobs bust is real. Don&#39;t blame AI &lpar;yet&rpar;](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
+- [Mathematical Minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)
 - [Show HN: Continual Learning with .md](https://github.com/SunAndClouds/ReadMe)
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
