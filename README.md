@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s accidental moat: How the &quot;AI Loser&quot; may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
 - [Taking on CUDA with ROCm: &#39;One Step After Another&#39;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [Sam Altman&#39;s home targeted in second attack](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/)
-- [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
-- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
