@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
-- [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
-- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
-- [Visualizing CPU Pipelining &lpar;2024&rpar;](https://timmastny.com/blog/visualizing-cpu-pipelining/)
-- [Evaluation of Claude Mythos Preview&#39;s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
+- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+- [Show HN: Continual Learning with .md](https://github.com/SunAndClouds/ReadMe)
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+- [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
+- [&lpar;AMD&rpar; Build AI Agents That Run Locally](https://amd-gaia.ai/docs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
