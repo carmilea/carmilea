@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
-- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
-- [Who&#39;s Been Impersonating This ProPublica Reporter?](https://www.propublica.org/article/impersonating-propublica-reporter)
-- [Missouri town fires half its city council over data center deal](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259)
-- [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
+- [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
+- [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
+- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+- [Visualizing CPU Pipelining &lpar;2024&rpar;](https://timmastny.com/blog/visualizing-cpu-pipelining/)
+- [Evaluation of Claude Mythos Preview&#39;s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 <!-- BLOG-POST-LIST:END -->
 
 ---
