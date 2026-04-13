@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
+- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
 - [Apple&#39;s accidental moat: How the &quot;AI Loser&quot; may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 - [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
-- [Taking on CUDA with ROCm: &#39;One Step After Another&#39;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
