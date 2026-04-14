@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
-- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
-- [The tech jobs bust is real. Don&#39;t blame AI &lpar;yet&rpar;](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
-- [Mathematical Minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)
-- [Show HN: Continual Learning with .md](https://github.com/SunAndClouds/ReadMe)
+- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- [Why it’s impossible to measure England’s coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
+- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
+- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
