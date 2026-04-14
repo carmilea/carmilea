@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schools Never Taught Critical Thinking: AI Exposed the Lie](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking)
-- [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
-- [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
-- [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
-- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
+- [Google, Microsoft, Meta All Tracking You Even When You Opt Out](https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/)
+- [For the First Time in the U.S., Renewables Generate More Power Than Natural Gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
+- [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
+- [The Future of Everything Is Lies, I Guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
+- [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
