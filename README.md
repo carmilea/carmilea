@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
-- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-- [Why it’s impossible to measure England’s coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
-- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
-- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
+- [UpDown: Efficient Manycore based on Many Threading &amp; Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
+- [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)
+- [Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan &lpar;2024&rpar;](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+- [Hacker compromises A16Z-backed phone farm, calling them the &#39;antichrist&#39;](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
+- [A new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
