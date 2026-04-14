@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpDown: Efficient Manycore based on Many Threading &amp; Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
-- [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)
-- [Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan &lpar;2024&rpar;](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-- [Hacker compromises A16Z-backed phone farm, calling them the &#39;antichrist&#39;](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
-- [A new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+- [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
+- [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
+- [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
+- [Distributed DuckDB Instance](https://github.com/citguru/openduck)
+- [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
