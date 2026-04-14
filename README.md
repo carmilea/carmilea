@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Civilization Is Not the Default. Violence Is](https://apropos.substack.com/p/civilization-is-a-public-good)
-- [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
-- [Fuck the Cloud &lpar;2009&rpar;](https://ascii.textfiles.com/archives/1717)
+- [Fuck the cloud &lpar;2009&rpar;](https://ascii.textfiles.com/archives/1717)
+- [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
 - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
+- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
