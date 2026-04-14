@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
+- [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+- [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
 - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
-- [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
-- [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
-- [Distributed DuckDB Instance](https://github.com/citguru/openduck)
-- [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
+- [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
