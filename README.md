@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
-- [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
-- [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
+- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
 - [I wrote to Flock&#39;s privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 <!-- BLOG-POST-LIST:END -->
