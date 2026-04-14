@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google, Microsoft, Meta All Tracking You Even When You Opt Out](https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/)
-- [For the First Time in the U.S., Renewables Generate More Power Than Natural Gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
-- [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
-- [The Future of Everything Is Lies, I Guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
-- [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+- [I wrote to Flock&#39;s privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
+- [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+- [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+- [Modifying FileZilla to Workaround Bambu 3D Printer&#39;s FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
+- [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
 <!-- BLOG-POST-LIST:END -->
 
 ---
