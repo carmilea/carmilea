@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)
+- [Schools Never Taught Critical Thinking: AI Exposed the Lie](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking)
+- [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+- [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
+- [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
 - [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
-- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
-- [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
-- [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
