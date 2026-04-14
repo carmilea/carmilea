@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)
+- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
+- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 - [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
-- [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
-- [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
-- [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
