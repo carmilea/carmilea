@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+- [Does Gas Town &#39;steal&#39; usage from users&#39; LLM credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
 - [In the last 30 years, the number of public companies has been cut in half](https://twitter.com/ToddZywicki/status/2044167534681936085)
 - [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
 - [Why are Flock employees watching our children?](https://substack.com/home/post/p-193593234)
-- [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
-- [Users lose $9.5M to fake Ledger wallet app on the Apple App Store](https://www.web3isgoinggreat.com/?id=fake-ledger-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
