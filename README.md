@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adaptional &lpar;YC S25&rpar; Is Hiring Founding AI Engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
-- [The tiniest e-reader in the world, and you can build one yourself](https://www.androidauthority.com/tiny-e-reader-diy-3657661/)
-- [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
-- [Open Source Isn&#39;t Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
-- [Elevated errors on Claude.ai, API, Claude Code](https://claudestatus.com/)
+- [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+- [Users lose $9.5M to fake Ledger wallet app on the Apple App Store](https://www.web3isgoinggreat.com/?id=fake-ledger-app)
+- [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+- [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
+- [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
