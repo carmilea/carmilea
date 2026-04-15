@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
+- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)
+- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
 - [Fuck the cloud &lpar;2009&rpar;](https://ascii.textfiles.com/archives/1717)
-- [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
-- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-- [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
-- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
+- [Stop Flock](https://stopflock.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
