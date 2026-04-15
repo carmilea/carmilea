@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a terminal pager](https://theleo.zone/posts/pager/)
+- [Ohio prison inmates &#39;built computers and hid them in ceiling &lpar;2017&rpar;](https://www.bbc.com/news/technology-39576394)
 - [The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
-- [Does Gas Town &#39;steal&#39; usage from users&#39; LLM credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
-- [In the last 30 years, the number of public companies has been cut in half](https://twitter.com/ToddZywicki/status/2044167534681936085)
-- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
-- [Why are Flock employees watching our children?](https://substack.com/home/post/p-193593234)
+- [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
+- [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
