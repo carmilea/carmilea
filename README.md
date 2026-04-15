@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
-- [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
-- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
-- [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
-- [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
+- [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
+- [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
+- [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
+- [Sam Vimes &#39;Boots&#39; Theory of Socio-Economic Unfairness](https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/)
+- [US v. Heppner &lpar;S.D.N.Y. 2026&rpar; no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
