@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Write a Compiler? Just Read These Two Papers &lpar;2008&rpar;](https://prog21.dadgum.com/30.html)
-- [&#39;Seeking connection&#39;: video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
-- [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
-- [Good Sleep, Good Learning &lpar;2012&rpar;](https://super-memory.com/articles/sleep.htm)
-- [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
+- [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
+- [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
+- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
+- [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
+- [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
