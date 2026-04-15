@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
-- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)
-- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
-- [Fuck the cloud &lpar;2009&rpar;](https://ascii.textfiles.com/archives/1717)
-- [Stop Flock](https://stopflock.com)
+- [Amazon to Acquire Globalstar and Expand Amazon Leo Satellite Network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
