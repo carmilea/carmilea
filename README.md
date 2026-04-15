@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon to Acquire Globalstar and Expand Amazon Leo Satellite Network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
-- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
-- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
-- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
-- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+- [Anna&#39;s Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
+- [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
+- [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
+- [MDalgorithms &lpar;AI Healthcare&rpar; – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup)
+- [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
