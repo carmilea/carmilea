@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anna&#39;s Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
+- [Want to Write a Compiler? Just Read These Two Papers &lpar;2008&rpar;](https://prog21.dadgum.com/30.html)
+- [&#39;Seeking connection&#39;: video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
+- [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
+- [Good Sleep, Good Learning &lpar;2012&rpar;](https://super-memory.com/articles/sleep.htm)
 - [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
-- [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
-- [MDalgorithms &lpar;AI Healthcare&rpar; – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup)
-- [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
