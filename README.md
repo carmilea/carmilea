@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
-- [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
-- [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
-- [Sam Vimes &#39;Boots&#39; Theory of Socio-Economic Unfairness](https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/)
-- [US v. Heppner &lpar;S.D.N.Y. 2026&rpar; no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+- [Adaptional &lpar;YC S25&rpar; Is Hiring Founding AI Engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
+- [The tiniest e-reader in the world, and you can build one yourself](https://www.androidauthority.com/tiny-e-reader-diy-3657661/)
+- [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
+- [Open Source Isn&#39;t Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
+- [Elevated errors on Claude.ai, API, Claude Code](https://claudestatus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
