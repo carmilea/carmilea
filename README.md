@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
-- [Why Sal Khan&#39;s AI revolution hasn&#39;t happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
-- [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
+- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
+- [Germany suspends military approval for long stays abroad for men under 45](https://www.bbc.com/news/articles/ckgx103wkl1o)
+- [Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
 - [A Look into NaviDial, Japan&#39;s Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
 - [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
 <!-- BLOG-POST-LIST:END -->
