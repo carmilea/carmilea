@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe has &quot;maybe 6 weeks of jet fuel left&quot;](https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703)
+- [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
+- [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
+- [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
 - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
-- [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
-- [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
-- [Launch HN: Kampala &lpar;YC W26&rpar; – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
