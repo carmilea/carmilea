@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. to Create High-Tech Manufacturing Zone in Philippines](https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668)
 - [New unsealed records reveal Amazon&#39;s price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
 - [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
 - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
 - [Join Akkari&#39;s Founding Team &lpar;YC P26&rpar; as an Engineer](https://news.ycombinator.com/item?id=47799454)
+- [The &quot;Passive Income&quot; trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
