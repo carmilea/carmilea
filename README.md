@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
-- [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
-- [There&#39;s yet another study about how bad AI is for our brains](https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html)
-- [Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
-- [The Future of Everything Is Lies, I Guess: Where Do We Go from Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
+- [Where the DOGE Operatives Are Now](https://www.wired.com/story/where-the-doge-operatives-are-now/)
+- [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
+- [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
+- [Launch HN: Kampala &lpar;YC W26&rpar; – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
+- [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
