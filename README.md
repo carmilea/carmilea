@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a terminal pager](https://theleo.zone/posts/pager/)
-- [Ohio prison inmates &#39;built computers and hid them in ceiling &lpar;2017&rpar;](https://www.bbc.com/news/technology-39576394)
-- [The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
-- [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
-- [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
+- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
+- [Stealth Satellite TV Defeats Iran&#39;s Internet Blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
+- [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
+- [A Better Ludum Dare; Or, How to Ruin a Legacy](https://ldjam.com/events/ludum-dare/59/$425291/$425292)
+- [Agent - Native Mac OS X coding ide/harness](https://github.com/macOS26/Agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
