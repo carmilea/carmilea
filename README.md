@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
-- [Stealth Satellite TV Defeats Iran&#39;s Internet Blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
-- [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
-- [A Better Ludum Dare; Or, How to Ruin a Legacy](https://ldjam.com/events/ludum-dare/59/$425291/$425292)
-- [Agent - Native Mac OS X coding ide/harness](https://github.com/macOS26/Agent)
+- [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
+- [Why Sal Khan&#39;s AI revolution hasn&#39;t happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
+- [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
+- [A Look into NaviDial, Japan&#39;s Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
+- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
