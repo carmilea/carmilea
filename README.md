@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
-- [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
-- [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
-- [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
-- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+- [Join Akkari&#39;s Founding Team &lpar;YC P26&rpar; as an Engineer](https://news.ycombinator.com/item?id=47799454)
+- [The Beginning of Scarcity in AI](https://tomtunguz.com/ai-compute-crisis-2026/)
+- [The &quot;Passive Income&quot; trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
+- [Five men control AI. Who should control them?](https://www.economist.com/insider/the-insider/five-men-control-ai-who-should-control-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
