@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where the DOGE Operatives Are Now](https://www.wired.com/story/where-the-doge-operatives-are-now/)
+- [Europe has &quot;maybe 6 weeks of jet fuel left&quot;](https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703)
+- [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 - [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
 - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
 - [Launch HN: Kampala &lpar;YC W26&rpar; – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
-- [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
