@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make buffet breakfasts less wasteful](https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful)
+- [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
+- [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
 - [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
 - [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1)
-- [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
-- [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
-- [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
 <!-- BLOG-POST-LIST:END -->
 
 ---
