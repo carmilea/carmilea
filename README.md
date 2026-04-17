@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
-- [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
-- [We Reproduced Anthropic&#39;s Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
-- [Is Your Site Agent-Ready? &lpar;By Cloudflare&rpar;](https://isitagentready.com)
-- [Isaac Asimov: The Last Question &lpar;1956&rpar;](https://hex.ooo/library/last_question.html)
+- [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
+- [NASA Force](https://nasaforce.gov/)
+- [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
+- [The Gregorio project – GPL tools for typesetting Gregorian chant](https://gregorio-project.github.io/index.html)
+- [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
