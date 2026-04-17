@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
 - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 - [How Big Tech wrote secrecy into EU law to hide data centres&#39; environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
 - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
 - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
-- [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
