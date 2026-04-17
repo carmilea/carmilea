@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
 - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 - [Arc Prize Foundation &lpar;YC W26&rpar; Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
-- [Tesla tells HW3 owner to &#39;be patient&#39; after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
 - [Even &quot;cat readme.txt&quot; is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 <!-- BLOG-POST-LIST:END -->
 
