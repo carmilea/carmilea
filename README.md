@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+- [Arc Prize Foundation &lpar;YC W26&rpar; Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 - [Tesla tells HW3 owner to &#39;be patient&#39; after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
 - [All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder &lpar;2018&rpar;](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
-- [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
 - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
-- [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
