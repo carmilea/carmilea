@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
-- [NASA Force](https://nasaforce.gov/)
-- [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
-- [The Gregorio project – GPL tools for typesetting Gregorian chant](https://gregorio-project.github.io/index.html)
-- [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
+- [All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
+- [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
+- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+- [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
