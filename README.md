@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
-- [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
-- [How Big Tech wrote secrecy into EU law to hide data centres&#39; environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
-- [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
-- [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
+- [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
+- [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
+- [We Reproduced Anthropic&#39;s Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
+- [Is Your Site Agent-Ready? &lpar;By Cloudflare&rpar;](https://isitagentready.com)
+- [Isaac Asimov: The Last Question &lpar;1956&rpar;](https://hex.ooo/library/last_question.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
