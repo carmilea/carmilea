@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
-- [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
-- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
-- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- [Amiga Graphics Archive](https://amiga.lychesis.net/)
+- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)
+- [Amazon won&#39;t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
+- [Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)
+- [Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data](https://github.com/drasimwagan/mdv)
+- [Fuzix OS](https://www.fuzix.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
