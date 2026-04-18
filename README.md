@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
+- [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
+- [It is incorrect to &quot;normalize&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
-- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
-- [Arc Prize Foundation &lpar;YC W26&rpar; Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
