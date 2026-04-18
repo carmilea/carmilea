@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Any Color You Like: NIST Scientists Create &#39;Any Wavelength&#39; Lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+- [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
+- [NIST scientists create &#39;any wavelength&#39; lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
-- [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
