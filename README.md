@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
+- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 - [Arc Prize Foundation &lpar;YC W26&rpar; Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 - [Even &quot;cat readme.txt&quot; is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
+- [All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder &lpar;2018&rpar;](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
