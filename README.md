@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
+- [Amiga Graphics](https://amiga.lychesis.net/)
 - [It is incorrect to &quot;normalize&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
