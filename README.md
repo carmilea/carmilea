@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
+- [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
 - [The USDA&#39;s gardening zones have shifted. &lpar;Interactive app and map&rpar;](https://apps.npr.org/plant-hardiness-garden-map/)
 - [The electromechanical angle computer inside the B-52 bomber&#39;s star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
-- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)
-- [Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)
 <!-- BLOG-POST-LIST:END -->
 
 ---
