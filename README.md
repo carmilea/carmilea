@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 - [Amiga Graphics](https://amiga.lychesis.net/)
 - [It is incorrect to &quot;normalize&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 - [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
-- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
