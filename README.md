@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America will come to regret its war on taxes](https://economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes)
+- [Young sons of U.S. marshal ride horseback from Oklahoma to New York &lpar;2018&rpar;](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+- [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 - [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
-- [The USDA&#39;s gardening zones have shifted. &lpar;Interactive app and map&rpar;](https://apps.npr.org/plant-hardiness-garden-map/)
-- [The electromechanical angle computer inside the B-52 bomber&#39;s star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
