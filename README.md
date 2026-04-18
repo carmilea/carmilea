@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
+- [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
+- [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
+- [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
+- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- [Amiga Graphics](https://amiga.lychesis.net/)
-- [It is incorrect to &quot;normalize&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
-- [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
 <!-- BLOG-POST-LIST:END -->
 
 ---
