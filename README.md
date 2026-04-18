@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America Lost the Mandate of Heaven](https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html)
 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 - [Amiga Graphics](https://amiga.lychesis.net/)
 - [It is incorrect to &quot;normalize&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
-- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
-- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
+- [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
 <!-- BLOG-POST-LIST:END -->
 
 ---
