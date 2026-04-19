@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber&#39;s AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
+- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
 - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
 - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
-- [Russia&#39;s doping program is run by the same FSB team that poisoned Navalny](https://theins.press/en/inv/291614)
-- [Discord Read Receipts Exploit: When, How Often, How Long](https://paul.koeck.dev/writeups/discord-read-receipts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
