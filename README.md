@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
+- [SPEAKE&lpar;a&rpar;R: Turn Speakers to Microphones for Fun and Profit [pdf] &lpar;2017&rpar;](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 - [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
