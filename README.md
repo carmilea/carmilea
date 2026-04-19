@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banned by Anthropic](https://bannedbyanthropic.com/)
-- [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+- [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
+- [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
 - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
-- [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
 - [A. J. Ayer – ‘What I Saw When I Was Dead’ &lpar;1988&rpar;](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
 <!-- BLOG-POST-LIST:END -->
 
