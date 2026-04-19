@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 - [SPEAKE&lpar;a&rpar;R: Turn Speakers to Microphones for Fun and Profit [pdf] &lpar;2017&rpar;](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
-- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
 - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
 <!-- BLOG-POST-LIST:END -->
 
