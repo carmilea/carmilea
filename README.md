@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
+- [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
+- [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 - [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser &lpar;3.1GB&rpar;](https://teamchong.github.io/turboquant-wasm/draw.html)
-- [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
-- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
 - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
-- [SPEAKE&lpar;a&rpar;R: Turn Speakers to Microphones for Fun and Profit [pdf] &lpar;2017&rpar;](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
