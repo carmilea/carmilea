@@ -62,7 +62,7 @@
 - [A. J. Ayer – ‘What I Saw When I Was Dead’ &lpar;1988&rpar;](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
 - [Blue Origin&#39;s rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
+- [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
