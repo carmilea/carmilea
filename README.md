@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
+- [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
+- [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
+- [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7&#39;s Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
 - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
-- [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
-- [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
-- [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser &lpar;3.1GB&rpar;](https://teamchong.github.io/turboquant-wasm/draw.html)
-- [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
