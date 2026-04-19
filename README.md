@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Banned by Anthropic](https://bannedbyanthropic.com/)
+- [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+- [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
 - [A. J. Ayer – ‘What I Saw When I Was Dead’ &lpar;1988&rpar;](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
-- [Blue Origin&#39;s rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
-- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
