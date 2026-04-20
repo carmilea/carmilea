@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The insider trading suspicions looming over Trump&#39;s presidency](https://www.bbc.com/news/articles/cge0grppe3po)
+- [A cache-friendly IPv6 LPM with AVX-512 &lpar;linearized B+-tree, real BGP benchmarks&rpar;](https://github.com/esutcu/planb-lpm)
 - [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
 - [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/)
-- [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
-- [Sudo for Windows](https://github.com/microsoft/sudo)
+- [Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon](https://github.com/shivampkumar/trellis-mac)
+- [Sudo for Windows &lpar;2024&rpar;](https://github.com/microsoft/sudo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
