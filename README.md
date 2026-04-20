@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
+- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
 - [OpenAI ad partner now selling ChatGPT ad placements based on &quot;prompt relevance&quot;](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
-- [Show HN: Docker Compose for VM&#39;s](https://github.com/zeroecco/holos)
-- [Tim Cook to become Apple Executive Chairman. John Ternus to become CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
-- [AI Resistance: some recent anti-AI stuff that’s worth discussing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+- [Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks](https://github.com/zeroecco/holos)
+- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
