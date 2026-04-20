@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
-- [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
-- [Bloom &lpar;YC P26&rpar; Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
-- [The Theory of Interstellar Trade [pdf] &lpar;1978&rpar;](https://www.princeton.edu/~pkrugman/interstellar.pdf)
-- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
+- [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- [OpenAI ad partner now selling ChatGPT ad placements based on &quot;prompt relevance&quot;](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- [Show HN: Docker Compose for VM&#39;s](https://github.com/zeroecco/holos)
+- [Tim Cook to become Apple Executive Chairman. John Ternus to become CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+- [AI Resistance: some recent anti-AI stuff that’s worth discussing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
