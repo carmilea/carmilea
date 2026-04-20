@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [At Long Last, InfoWars Is Ours](https://theonion.info/)
+- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 - [Bloom &lpar;YC P26&rpar; Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
-- [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
-- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
+- [The Theory of Interstellar Trade [pdf] &lpar;1978&rpar;](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
