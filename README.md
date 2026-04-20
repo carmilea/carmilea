@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
-- [NSA is using Anthropic&#39;s Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/)
-- [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
-- [GitHub&#39;s Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
-- [OpenClaw isn&#39;t fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
+- [Ask HN: How to solve the cold start problem for two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
+- [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
+- [Show HN: Saunas lower nighttime heart rate more than exercise &lpar;n=59,000&rpar;](https://tryterra.co/research/sauna-effect-on-heart-rate)
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
+- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
