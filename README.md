@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to solve the cold start problem for two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
-- [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
-- [Show HN: Saunas lower nighttime heart rate more than exercise &lpar;n=59,000&rpar;](https://tryterra.co/research/sauna-effect-on-heart-rate)
-- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
-- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+- [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
+- [I&#39;m never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
+- [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
+- [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
