@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Even &#39;uncensored&#39; models can&#39;t say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)
 - [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
 - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
-- [OpenAI ad partner now selling ChatGPT ad placements based on &quot;prompt relevance&quot;](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
 - [Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks](https://github.com/zeroecco/holos)
-- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
