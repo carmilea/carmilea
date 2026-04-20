@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Enterprise Prompt Engineering &amp; LLM Testing via h2oGPTe | Part 12](https://www.youtube.com/watch?v=LXUkuFIp4L0)
 - [Real Time ML Drift Detection &amp; Monitoring via H2O MLOps | Part 11](https://www.youtube.com/watch?v=-bhGEFOJRFw)
 - [Finding Risk Faster: AI and Real](https://www.youtube.com/watch?v=Y6zog9jhZyg)
 - [Finding Risk Faster: AI and Real-Time Monitoring](https://www.youtube.com/watch?v=CrVCVZ87hEU)
 - [Free AI Courses &amp; Certifications | H2O.ai University](https://www.youtube.com/watch?v=XDgngH6Vf74)
-- [ML Experiment Tracking in H2O Driverless AI | Part 10](https://www.youtube.com/watch?v=yChIu_-99UA)
 <!-- YOUTUBE:END -->
 
 
