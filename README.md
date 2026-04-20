@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
-- [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
-- [I&#39;m never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
-- [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
-- [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
+- [At Long Last, InfoWars Is Ours](https://theonion.info/)
+- [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
+- [Bloom &lpar;YC P26&rpar; Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+- [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
