@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
-- [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
-- [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
-- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
-- [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)
+- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+- [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
+- [Vera C. Rubin Observatory has Discovered 11,000 New Asteroids](https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started)
+- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
+- [Tindie store under &quot;scheduled maintenance&quot; for days](https://www.tindie.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
