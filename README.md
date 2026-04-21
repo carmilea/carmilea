@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
+- [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+- [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
+- [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
-- [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)
 - [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)
-- [Salmon exposed to cocaine and its main byproduct roam more widely](https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
