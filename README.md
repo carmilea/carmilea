@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
-- [A Roblox cheat and one AI tool brought down Vercel&#39;s platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
-- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
-- [Prediction markets are breaking the news and becoming their own beat](https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/)
-- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
+- [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
+- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
+- [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)
+- [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)
+- [Salmon exposed to cocaine and its main byproduct roam more widely](https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
