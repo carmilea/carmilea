@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Livestream](https://openai.com/live/)
+- [Claude Code removed from Anthropic&#39;s Pro plan](https://claude.com/pricing)
+- [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
+- [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
+- [I don&#39;t want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
 - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
