@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
-- [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
-- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
-- [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
-- [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
+- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+- [Trellis AI &lpar;YC W24&rpar; Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
+- [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
+- [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
