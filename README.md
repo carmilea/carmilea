@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
+- [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)
+- [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
 - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
 - [I don&#39;t want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
