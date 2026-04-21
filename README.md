@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Livestream](https://openai.com/live/)
+- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
+- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
 - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
-- [Trellis AI &lpar;YC W24&rpar; Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
-- [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
-- [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
