@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
+- [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
 - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+- [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
 - [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
-- [Vera C. Rubin Observatory has Discovered 11,000 New Asteroids](https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started)
-- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
-- [Tindie store under &quot;scheduled maintenance&quot; for days](https://www.tindie.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
