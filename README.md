@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code removed from Anthropic&#39;s Pro plan](https://claude.com/pricing)
+- [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
 - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
 - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
 - [I don&#39;t want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
