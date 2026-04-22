@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)
-- [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
-- [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
-- [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
-- [I don&#39;t want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
+- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
+- [Global growth in solar &quot;the largest ever observed for any source&quot;](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
+- [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
+- [I&#39;m Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
+- [Drunk Post: Things I&#39;ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 <!-- BLOG-POST-LIST:END -->
 
 ---
