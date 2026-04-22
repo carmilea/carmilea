@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran claims US exploited networking equipment backdoors during strikes](https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes)
-- [CATL&#39;s new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
-- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
-- [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
-- [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+- [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
+- [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
+- [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
+- [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
+- [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
