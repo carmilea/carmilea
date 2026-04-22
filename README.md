@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
-- [Show HN submissions tripled and now mostly have the same vibe-coded look](https://www.adriankrebs.ch/blog/design-slop/)
-- [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
-- [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
+- [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
+- [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
+- [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
+- [MythosWatch: Tracking who has access to Anthropic&#39;s Mythos AI](https://www.mythoswatch.org/)
+- [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
