@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
+- [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
 - [Global growth in solar &quot;the largest ever observed for any source&quot;](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
-- [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
-- [I&#39;m Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
-- [Drunk Post: Things I&#39;ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+- [Drunk post: Things I&#39;ve learned as a senior engineer &lpar;2021&rpar;](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
