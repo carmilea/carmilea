@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
-- [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
-- [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
-- [MythosWatch: Tracking who has access to Anthropic&#39;s Mythos AI](https://www.mythoswatch.org/)
-- [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
+- [New study compares growing corn for energy to solar production. It&#39;s no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
+- [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
+- [Website streamed live directly from a model](https://flipbook.page/)
+- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/)
+- [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
