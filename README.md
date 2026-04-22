@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XOR&#39;ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
-- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+- [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
+- [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+- [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
 - [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
-- [Drunk post: Things I&#39;ve learned as a senior engineer &lpar;2021&rpar;](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
-- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
