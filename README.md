@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
-- [Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind](https://codeberg.org/jjba23/olive-css)
 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
-- [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
+- [Website streamed live directly from a model](https://flipbook.page/)
+- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
