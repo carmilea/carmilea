@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran claims US exploited networking equipment backdoors during strikes](https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes)
+- [CATL&#39;s new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
 - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
 - [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
 - [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
-- [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
-- [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
 <!-- BLOG-POST-LIST:END -->
 
 ---
