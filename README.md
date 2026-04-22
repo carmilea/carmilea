@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
+- [Show HN submissions tripled and now mostly have the same vibe-coded look](https://www.adriankrebs.ch/blog/design-slop/)
 - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
+- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
 - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
-- [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
-- [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
-- [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
