@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XOR&#39;ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
 - [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
-- [Global growth in solar &quot;the largest ever observed for any source&quot;](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
 - [Drunk post: Things I&#39;ve learned as a senior engineer &lpar;2021&rpar;](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
 <!-- BLOG-POST-LIST:END -->
