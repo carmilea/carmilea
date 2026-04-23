@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
+- [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 - [Tempest vs. Tempest: The Making and Remaking of Atari&#39;s Iconic Video Game](https://tempest.homemade.systems)
-- [OpenAI&#39;s response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
