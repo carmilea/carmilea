@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
+- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
 - [Tempest vs. Tempest: The Making and Remaking of Atari&#39;s Iconic Video Game](https://tempest.homemade.systems)
 - [OpenAI&#39;s response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/)
-- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
-- [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
-- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
 <!-- BLOG-POST-LIST:END -->
 
 ---
