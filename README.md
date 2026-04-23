@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Demonization of Male Ambition – Lisa Britton](https://lisabritton.substack.com/p/the-demonization-of-male-ambition)
+- [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
+- [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 - [Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
-- [MacBook Neo and How the iPad Should Be](https://craigmod.com/essays/ipad_neo/)
-- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-- [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
