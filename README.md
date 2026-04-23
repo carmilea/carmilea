@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
-- [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
-- [I Used to Grow Brain Tumors in a Lab. Now I Think About Databases.](https://www.singlestore.com/blog/i-used-to-grow-brain-tumors-in-a-lab-now-i-think-about-databases)
-- [Raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
-- [Investigation uncovers two sophisticated telecom surveillance campaigns](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
+- [&#39;Hairdryer used to trick weather sensor&#39; to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/)
+- [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
+- [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
+- [France confirms data breach at government agency that manages citizens&#39; IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
+- [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
