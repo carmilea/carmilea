@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tempest vs. Tempest: The Making and Remaking of Atari&#39;s Iconic Video Game](https://tempest.homemade.systems)
+- [OpenAI&#39;s response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/)
+- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
 - [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
 - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
-- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-- [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
-- [Website streamed live directly from a model](https://flipbook.page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
