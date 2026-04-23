@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Tech World Turned Evil](https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel)
 - [Using the internet like it&#39;s 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
-- [Anthropic&#39;s Claude Desktop App Installs Undisclosed Native Messaging Bridge](https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a)
 - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
 - [Meta to cut 10% of jobs](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
-- [Astronomers Find the Edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
+- [GPT-5.5: Mythos-Like Hacking, Open to All](https://xbow.com/blog/mythos-like-hacking-open-to-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
