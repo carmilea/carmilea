@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
 - [How the Tech World Turned Evil](https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel)
 - [Using the internet like it&#39;s 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
-- [Meta to cut 10% of jobs](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
-- [GPT-5.5: Mythos-Like Hacking, Open to All](https://xbow.com/blog/mythos-like-hacking-open-to-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
