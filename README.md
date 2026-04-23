@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Hairdryer used to trick weather sensor&#39; to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/)
-- [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
-- [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
-- [France confirms data breach at government agency that manages citizens&#39; IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
-- [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
+- [Meta to cut 10% of jobs, or 8k employees](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+- [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
+- [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
+- [People Do Not Yearn for Automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
