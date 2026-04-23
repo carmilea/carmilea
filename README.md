@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Demonization of Male Ambition – Lisa Britton](https://lisabritton.substack.com/p/the-demonization-of-male-ambition)
-- [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
-- [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
-- [Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
-- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+- [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+- [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
+- [I Used to Grow Brain Tumors in a Lab. Now I Think About Databases.](https://www.singlestore.com/blog/i-used-to-grow-brain-tumors-in-a-lab-now-i-think-about-databases)
+- [Raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
+- [Investigation uncovers two sophisticated telecom surveillance campaigns](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
