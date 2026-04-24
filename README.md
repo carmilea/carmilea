@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 - [Composition Shouldn&#39;t be this Hard](https://www.cambra.dev/blog/announcement/)
 - [Show HN: How LLMs Work – Interactive visual guide based on Karpathy&#39;s lecture](https://ynarwal.github.io/how-llms-work/)
 - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
-- [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
