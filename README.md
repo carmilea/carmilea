@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/)
-- [Aspartame is not that bad? &lpar;2022&rpar;](https://dynomight.net/aspartame/)
-- [8087 Emulation on 8086 Systems](https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/)
-- [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
-- [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
+- [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
+- [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
+- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+- [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
+- [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
