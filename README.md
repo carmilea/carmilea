@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
-- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
-- [Composition Shouldn&#39;t be this Hard](https://www.cambra.dev/blog/announcement/)
-- [Show HN: How LLMs Work – Interactive visual guide based on Karpathy&#39;s lecture](https://ynarwal.github.io/how-llms-work/)
-- [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
+- [The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/)
+- [Aspartame is not that bad? &lpar;2022&rpar;](https://dynomight.net/aspartame/)
+- [8087 Emulation on 8086 Systems](https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/)
+- [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
+- [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
