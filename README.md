@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- [Tell HN: Claude 4.7 is ignoring stop hooks](https://news.ycombinator.com/item?id=47895029)
 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
 - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
 - [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
-- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
+- [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
