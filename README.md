@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Ruby on Rails Community Survey](https://railsdeveloper.com/survey/)
-- [Why I Write &lpar;1946&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
-- [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
-- [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
-- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
+- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
+- [Ubuntu 26.04](https://lwn.net/Articles/1069399/)
+- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
+- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
+- [DeepSeek v4](https://api-docs.deepseek.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
