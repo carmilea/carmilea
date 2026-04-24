@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
-- [Ubuntu 26.04](https://lwn.net/Articles/1069399/)
-- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
-- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
-- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
+- [Composition Shouldn&#39;t be this Hard](https://www.cambra.dev/blog/announcement/)
+- [Show HN: How LLMs Work – Interactive visual guide based on Karpathy&#39;s lecture](https://ynarwal.github.io/how-llms-work/)
+- [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
+- [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
