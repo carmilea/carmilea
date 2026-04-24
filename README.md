@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SFO Quiet Airport &lpar;2025&rpar;](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
-- [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
-- [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
-- [CSS as a Query Language](https://evdc.me/blog/css-query)
-- [Tariffs Raised Consumers&#39; Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
+- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
+- [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
+- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
