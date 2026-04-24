@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FusionCore: ROS 2 sensor fusion &lpar;IMU and GPS and encoders&rpar;](https://github.com/manankharwar/fusioncore)
+- [Show HN: I&#39;ve built a nice home server OS](https://lightwhale.asklandd.dk/)
+- [Google Flow Music](https://www.flowmusic.app/)
 - [Tell HN: Claude 4.7 is ignoring stop hooks](https://news.ycombinator.com/item?id=47895029)
 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
-- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
-- [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
-- [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
