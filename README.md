@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla &lpar;TSLA&rpar; discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+- [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
+- [I Cancelled Claude: Token Issues, Declining Quality, and Poor Support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)
+- [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
-- [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
-- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
-- [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
-- [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
