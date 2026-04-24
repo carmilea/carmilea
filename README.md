@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla &lpar;TSLA&rpar; discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
-- [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
-- [I Cancelled Claude: Token Issues, Declining Quality, and Poor Support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)
-- [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
-- [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
+- [SFO Quiet Airport &lpar;2025&rpar;](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+- [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+- [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
+- [CSS as a Query Language](https://evdc.me/blog/css-query)
+- [Tariffs Raised Consumers&#39; Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
