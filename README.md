@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
+- [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)
+- [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
+- [Martin Galway&#39;s music source files from 1980&#39;s Commodore 64 games](https://github.com/MartinGalway/C64_music)
 - [Show HN: A Karpathy-style LLM wiki your agents maintain &lpar;Markdown and Git&rpar;](https://github.com/nex-crm/wuphf)
-- [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
-- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
-- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
-- [Firefox Has Integrated Brave&#39;s Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
