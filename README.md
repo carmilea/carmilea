@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
-- [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
-- [Niri 26.04: Scrollable-tiling Wayland compositor](https://github.com/niri-wm/niri/releases/tag/v26.04)
-- [What&#39;s missing in the &#39;agentic&#39; story: a well-defined user agent role](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
-- [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
+- [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
+- [The Stanford Freshmen Who Want to Rule the World](https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/)
+- [America&#39;s Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
+- [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
+- [North American Millets Alliance&lpar;2023&rpar;](https://milletsalliance.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
