@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK to permanently ban future generations from buying cigarettes](https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/)
-- [Jumping into cold water can stop your heart](https://jorgenmelau.substack.com/p/the-first-sixty-seconds)
+- [What&#39;s Missing in the &#39;Agentic&#39; Story](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
 - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
+- [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
 - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
 - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
 <!-- BLOG-POST-LIST:END -->
