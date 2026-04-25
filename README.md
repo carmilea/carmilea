@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
 - [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
-- [Niri 26.04 was just released &lpar;scrollable-tiling Wayland compositor&rpar;](https://github.com/niri-wm/niri/releases/tag/v26.04)
-- [What&#39;s Missing in the &#39;Agentic&#39; Story](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
+- [Niri 26.04: Scrollable-tiling Wayland compositor](https://github.com/niri-wm/niri/releases/tag/v26.04)
+- [What&#39;s missing in the &#39;agentic&#39; story: a well-defined user agent role](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
 - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
-- [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
