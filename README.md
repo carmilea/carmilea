@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 - [Oxford All Souls College General Examination &lpar;2025&rpar; [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
 - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 - [Firefox Has Integrated Brave&#39;s Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
-- [&lpar;Blender&rpar; Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
-- [&quot;Plain text has been around for decades and it&#39;s here to stay.&quot; – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
+- [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
