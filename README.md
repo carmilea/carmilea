@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
-- [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
-- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
-- [Why has there been so little progress on Alzheimer&#39;s disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
+- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el)
+- [My Homemade PBX &lpar;2002&rpar;](https://wandel.ca/homepage/pbx.html)
+- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
+- [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
