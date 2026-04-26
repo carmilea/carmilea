@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
-- [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
-- [America&#39;s Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
-- [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
-- [North American Millets Alliance](https://milletsalliance.org/)
+- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+- [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
+- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
+- [Why has there been so little progress on Alzheimer&#39;s disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
+- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
