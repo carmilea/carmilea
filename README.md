@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Mint Buys Drug Cartel Gold and Sells It as &#39;American&#39;](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+- [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
 - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
-- [1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon](https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/)
+- [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
+- [Show HN: Tiao, A two-player turn-based board game](https://playtiao.com)
 - [Show HN: AI memory with biological decay &lpar;52% recall&rpar;](https://github.com/sachitrafa/YourMemory)
-- [Sawe smashes two-hour mark to &#39;move goalposts for marathon running&#39;](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
