@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
-- [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/)
-- [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
-- [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
-- [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
+- [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
+- [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+- [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
+- [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
+- [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
