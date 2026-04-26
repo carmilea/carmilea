@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statecharts: hierarchical state machines](https://statecharts.dev/)
+- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
+- [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 - [Exposing Floating Point – Bartosz Ciechanowski &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
-- [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
-- [Terra API &lpar;YC W21&rpar; Hiring: Applied AI Strategist&lpar;Health Intelligence&rpar;](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
-- [The West Forgot How to Make Things. Now It&#39;s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 <!-- BLOG-POST-LIST:END -->
 
 ---
