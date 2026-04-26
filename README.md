@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
-- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el)
-- [My Homemade PBX &lpar;2002&rpar;](https://wandel.ca/homepage/pbx.html)
-- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
-- [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
+- [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
+- [Exposing Floating Point – Bartosz Ciechanowski &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
+- [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
+- [Terra API &lpar;YC W21&rpar; Hiring: Applied AI Strategist&lpar;Health Intelligence&rpar;](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
+- [The West Forgot How to Make Things. Now It&#39;s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 <!-- BLOG-POST-LIST:END -->
 
 ---
