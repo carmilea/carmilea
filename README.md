@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/)
 - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
 - [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
-- [Exposing Floating Point – Bartosz Ciechanowski &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
