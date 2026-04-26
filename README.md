@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/)
+- [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)
+- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
-- [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 <!-- BLOG-POST-LIST:END -->
 
 ---
