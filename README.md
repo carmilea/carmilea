@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
+- [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
-- [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)
 - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 - [Statecharts: hierarchical state machines](https://statecharts.dev/)
-- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
