@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast16: The Cyberweapon That Predates Stuxnet by Five Years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
-- [A.I. is creating engineers who can&#39;t think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-- [If you stop hiring juniors, your senior engineers own you](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
-- [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
-- [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+- [U.S. Mint Buys Drug Cartel Gold and Sells It as &#39;American&#39;](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+- [1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon](https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/)
+- [Show HN: AI memory with biological decay &lpar;52% recall&rpar;](https://github.com/sachitrafa/YourMemory)
+- [Sawe smashes two-hour mark to &#39;move goalposts for marathon running&#39;](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
