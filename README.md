@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast16: The Cyberweapon That Predates Stuxnet by Five Years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
+- [A.I. is creating engineers who can&#39;t think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- [If you stop hiring juniors, your senior engineers own you](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
 - [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
 - [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
-- [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
-- [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
-- [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
