@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino)
+- [Canada&#39;s first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
+- [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
 - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 - [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
-- [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
-- [The Woes of Sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
-- [US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
