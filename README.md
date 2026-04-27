@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)
 - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
-- [Notepad++ for Mac – Independent community port](https://notepad-plus-plus-mac.org/)
 - [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-- [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
-- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
