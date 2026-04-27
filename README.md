@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
-- [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-- [Tim Cook Is Leaving. Good](https://routerjockey.com/tim-cook-is-leaving-good/)
-- [Windows 11&#39;s second-chance setup dialogs hurt IT, drain productivity](https://www.theregister.com/2026/04/26/windows_second_chance_setup/)
-- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
+- [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
+- [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
+- [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
+- [The Woes of Sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
+- [US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
