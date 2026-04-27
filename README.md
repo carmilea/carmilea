@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+- [Moleskine&#39;s AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
+- [It&#39;s OK to abandon your side-project &lpar;2024&rpar;](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
-- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
