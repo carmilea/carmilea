@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
-- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
-- [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
-- [Show HN: Tiao, A two-player turn-based board game](https://playtiao.com)
-- [Show HN: AI memory with biological decay &lpar;52% recall&rpar;](https://github.com/sachitrafa/YourMemory)
+- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
+- [Notepad++ for Mac – Independent community port](https://notepad-plus-plus-mac.org/)
+- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+- [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
