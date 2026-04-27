@@ -62,7 +62,7 @@
 - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
 - [Is my blue your blue?](https://ismy.blue/)
 - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
-- [Our principles](https://openai.com/index/our-principles/)
+- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
