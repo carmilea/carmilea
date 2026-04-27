@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
-- [Moleskine&#39;s AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
-- [It&#39;s OK to abandon your side-project &lpar;2024&rpar;](https://robbowen.digital/wrote-about/abandoned-side-projects/)
-- [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
-- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
+- [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
+- [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+- [Tim Cook Is Leaving. Good](https://routerjockey.com/tim-cook-is-leaving-good/)
+- [Windows 11&#39;s second-chance setup dialogs hurt IT, drain productivity](https://www.theregister.com/2026/04/26/windows_second_chance_setup/)
+- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
