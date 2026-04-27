@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
+- [U.S. companies back Sam Altman&#39;s World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
+- [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa)
+- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 - [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino)
-- [Canada&#39;s first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
-- [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
-- [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
-- [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
