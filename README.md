@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)
+- [It&#39;s OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+- [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
 - [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
 - [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
-- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
