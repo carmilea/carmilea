@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Waiting for LLMs Suck – Give your user a game](https://github.com/ftaip/waiting-game)
+- [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)
+- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
 - [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
-- [Ted Nyman – High Performance Git](https://gitperf.com/)
+- [High Performance Git](https://gitperf.com/)
 - [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
