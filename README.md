@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI CEO&#39;s Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/)
-- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
-- [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
-- [UAE to leave OPEC in blow to oil cartel](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
-- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
+- [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
+- [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
+- [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
+- [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
+- [AI uncovers 38 vulnerabilities in largest open source medical record software](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
