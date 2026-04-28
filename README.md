@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
-- [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
-- [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
-- [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
-- [AI uncovers 38 vulnerabilities in largest open source medical record software](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
+- [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
+- [Claude.ai is unavailable](https://status.claude.com/incidents/9l93x2ht4s5w)
+- [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Software Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
+- [AI&#39;s Economics Don&#39;t Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
