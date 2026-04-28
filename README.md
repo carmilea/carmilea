@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+- [I won a championship that doesn&#39;t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
+- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
+- [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
-- [CJIT: C, Just in Time](https://dyne.org/cjit/)
-- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
-- [Bankruptcies increase 11.9 percent](https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
