@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations](https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/)
-- [Who owns the code Claude Code wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
-- [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
-- [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
-- [GTFOBins](https://gtfobins.org/)
+- [OpenAI CEO&#39;s Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/)
+- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
+- [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
+- [UAE to leave OPEC in blow to oil cartel](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
+- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
