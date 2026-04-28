@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
-- [Claude.ai is unavailable](https://status.claude.com/incidents/9l93x2ht4s5w)
-- [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Software Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
-- [AI&#39;s Economics Don&#39;t Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
+- [CJIT: C, Just in Time](https://dyne.org/cjit/)
+- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
+- [Bankruptcies increase 11.9 percent](https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
