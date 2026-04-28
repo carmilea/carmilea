@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations](https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/)
+- [Who owns the code Claude Code wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
+- [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
+- [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 - [GTFOBins](https://gtfobins.org/)
-- [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
-- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
-- [High Performance Git](https://gitperf.com/)
-- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
