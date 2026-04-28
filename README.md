@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM Website Is Down](https://status.npmjs.org)
-- [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
-- [Is my blue your blue?](https://ismy.blue/)
-- [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
-- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
+- [Show HN: Waiting for LLMs Suck – Give your user a game](https://github.com/ftaip/waiting-game)
+- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
+- [Ted Nyman – High Performance Git](https://gitperf.com/)
+- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
