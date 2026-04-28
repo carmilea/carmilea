@@ -49,7 +49,7 @@
 - [[Webinar] H2O AI Super Agent](https://www.youtube.com/watch?v=WWBMYFxbuiY)
 - [Enterprise Prompt Engineering &amp; LLM Testing via h2oGPTe | Part 12](https://www.youtube.com/watch?v=LXUkuFIp4L0)
 - [Real Time ML Drift Detection &amp; Monitoring via H2O MLOps | Part 11](https://www.youtube.com/watch?v=-bhGEFOJRFw)
-- [Free AI Courses &amp; Certifications | H2O.ai University](https://www.youtube.com/watch?v=XDgngH6Vf74)
+- [Finding Risk Faster: AI and Real](https://www.youtube.com/watch?v=Y6zog9jhZyg)
 <!-- YOUTUBE:END -->
 
 
