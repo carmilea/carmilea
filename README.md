@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)
+- [GTFOBins](https://gtfobins.org/)
+- [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
 - [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
-- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
 - [High Performance Git](https://gitperf.com/)
 - [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
 <!-- BLOG-POST-LIST:END -->
