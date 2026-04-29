@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed is 1.0](https://zed.dev/blog/zed-1-0)
-- [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
-- [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
-- [Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game)
-- [He asked AI to count carbs 27000 times. It couldn&#39;t give the same answer twice](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
+- [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+- [Maryland becomes first state to ban surveillance pricing in grocery stores](https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing)
+- [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+- [Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns](https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/)
+- [Show HN: A new benchmark for testing LLMs for deterministic outputs](https://interfaze.ai/blog/introducing-structured-output-benchmark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
