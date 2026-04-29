@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
+- [HashiCorp co-founder says GitHub &#39;no longer a place for serious work&#39;](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)
 - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
 - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
 - [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
-- [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522)
-- [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
