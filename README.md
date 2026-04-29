@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany Overtakes US in Ammunition Production Capacity](https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409)
+- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 - [Bugs Rust won&#39;t catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
 - [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
-- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
