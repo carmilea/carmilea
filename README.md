@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
-- [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
-- [California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate](https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate)
-- [OpenTrafficMap](https://opentrafficmap.org/)
-- [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
+- [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)
+- [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)
+- [Gooseworks &lpar;YC W23&rpar; Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
+- [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
+- [I accidentally made law enforcement shut down their fake honeypot](https://lina.sh/blog/ddos-honeypot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
