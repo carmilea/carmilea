@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 - [I won a championship that doesn&#39;t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
 - [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
-- [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 <!-- BLOG-POST-LIST:END -->
 
