@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;People who don&#39;t use AI will be left behind&quot;](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
-- [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
-- [Copy Fail – CVE-2026-31431](https://copy.fail/)
-- [Ramp&#39;s Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
-- [Laws of UX](https://lawsofux.com/)
+- [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
+- [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
+- [California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate](https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate)
+- [OpenTrafficMap](https://opentrafficmap.org/)
+- [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
