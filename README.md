@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
-- [HashiCorp co-founder says GitHub &#39;no longer a place for serious work&#39;](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)
-- [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
-- [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
-- [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
+- [Zed is 1.0](https://zed.dev/blog/zed-1-0)
+- [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
+- [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
+- [Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game)
+- [He asked AI to count carbs 27000 times. It couldn&#39;t give the same answer twice](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
