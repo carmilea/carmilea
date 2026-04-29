@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany Overtakes US in Ammunition Production Capacity](https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409)
-- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
-- [Bugs Rust won&#39;t catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
-- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+- [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
+- [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+- [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
+- [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522)
+- [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
