@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
-- [I won a championship that doesn&#39;t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
-- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [Bugs Rust won&#39;t catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
