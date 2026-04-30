@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI discovery reveals DNA isn’t locked away in cells after all](https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all)
+- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
 - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
 - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
-- [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
 - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
-- [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
