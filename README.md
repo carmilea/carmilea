@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
-- [How to Disable Firefox&#39;s New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
-- [Granite 4.1: IBM&#39;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
-- [Copy-fail-destroyer: K8s remediation for CVE-2026-31431](https://github.com/NorskHelsenett/copy-fail-destroyer)
-- [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
+- [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
+- [I Built a WebAssembly Runtime in 5 Days](https://tingouw.com/blog/cloud_notes/badwater_intro)
+- [The Science Behind Honey&#39;s Eternal Shelf Life &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
+- [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
+- [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
