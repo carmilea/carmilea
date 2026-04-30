@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spain&#39;s parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
-- [Japan Is Building Cardboard Suicide Drones](https://www.404media.co/japan-cardboard-drones-air-kamuy/)
-- [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)
-- [Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;](https://twitter.com/theo/status/2049645973350363168)
-- [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
+- [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
+- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
+- [Kubereboot/Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)
+- [Show HN: TRiP – a complete transformer engine in C built from scratch just by me](https://github.com/carlovalenti/TRiP)
+- [CopyFail Was Not Disclosed to Distros](https://www.openwall.com/lists/oss-security/2026/04/30/10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
