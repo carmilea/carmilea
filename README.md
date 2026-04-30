@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain&#39;s parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
+- [Japan Is Building Cardboard Suicide Drones](https://www.404media.co/japan-cardboard-drones-air-kamuy/)
+- [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)
+- [Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;](https://twitter.com/theo/status/2049645973350363168)
 - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
-- [I Built a WebAssembly Runtime in 5 Days](https://tingouw.com/blog/cloud_notes/badwater_intro)
-- [The Science Behind Honey&#39;s Eternal Shelf Life &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
-- [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
-- [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
