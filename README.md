@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla&#39;s Opposition to Chrome&#39;s Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
-- [Will you heed my warnings now?](https://scottaaronson.blog/?p=9718)
-- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
-- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+- [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
+- [How to Disable Firefox&#39;s New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
+- [Granite 4.1: IBM&#39;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+- [Copy-fail-destroyer: K8s remediation for CVE-2026-31431](https://github.com/NorskHelsenett/copy-fail-destroyer)
+- [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
