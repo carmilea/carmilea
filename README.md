@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)
-- [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)
-- [Gooseworks &lpar;YC W23&rpar; Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
-- [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
-- [I accidentally made law enforcement shut down their fake honeypot](https://lina.sh/blog/ddos-honeypot)
+- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
+- [Where the Goblins Came From](https://openai.com/index/where-the-goblins-came-from/)
+- [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
+- [The Zig project&#39;s rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
