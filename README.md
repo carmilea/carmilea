@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
 - [Running Adobe&#39;s 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
-- [Show HN: Site Mogging](https://sitemogging.com)
+- [A Letter from Dijkstra on APL](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
 - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
-- [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
