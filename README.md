@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
+- [Git Your Freedom Back: A Beginner&#39;s Guide to Sourcehut &lpar;2025&rpar;](https://btxx.org/posts/beginners-guide-sourcehut/)
+- [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888)
+- [The Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
 - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
-- [Canonical/Ubuntu have been under DDoS for more than 15h](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==)
-- [It’s Toasted](https://yadin.com/notes/toasted/)
-- [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
-- [Your Biggest Vulnerability is your Shitty Compensation](https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
