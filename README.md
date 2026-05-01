@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s Big Tobacco PR Tactics](https://yadin.com/notes/toasted/)
-- [Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months](https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/)
-- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
-- [OpenWarp](https://openwarp.zerx.dev)
-- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+- [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
+- [Canonical/Ubuntu have been under DDoS for more than 15h](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==)
+- [It’s Toasted](https://yadin.com/notes/toasted/)
+- [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
+- [Your Biggest Vulnerability is your Shitty Compensation](https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
