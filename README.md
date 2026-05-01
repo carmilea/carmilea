@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
 - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 - [Show HN: Destiny – Claude Code&#39;s fortune Teller skill](https://github.com/xodn348/destiny)
 - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
