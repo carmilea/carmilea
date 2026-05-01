@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
-- [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
-- [An open letter asking NHS England to keep its code open](https://keepthingsopen.com)
-- [Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down](https://www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676)
+- [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
+- [City Learns Flock Accessed Cameras in Children&#39;s Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
+- [It&#39;s Possible to Learn in Our Sleep. Should We?](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
+- [Show HN: AI CAD Harness](https://fusion.adam.new/install)
+- [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
