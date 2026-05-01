@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s Big Tobacco PR Tactics](https://yadin.com/notes/toasted/)
+- [Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months](https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/)
 - [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
 - [OpenWarp](https://openwarp.zerx.dev)
 - [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
-- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
-- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
