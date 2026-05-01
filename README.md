@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
-- [City Learns Flock Accessed Cameras in Children&#39;s Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
-- [It&#39;s Possible to Learn in Our Sleep. Should We?](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
-- [Show HN: AI CAD Harness](https://fusion.adam.new/install)
-- [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
+- [Credit Cards Are Vulnerable to Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- [Show HN: Destiny – Claude Code&#39;s fortune Teller skill](https://github.com/xodn348/destiny)
+- [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
+- [Ubuntu servers taken offline by &quot;sustained, cross-border attack&quot;](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
