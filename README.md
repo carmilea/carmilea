@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
 - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [Show HN: Destiny – Claude Code&#39;s fortune Teller skill](https://github.com/xodn348/destiny)
 - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 - [Ubuntu servers taken offline by &quot;sustained, cross-border attack&quot;](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
