@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
-- [Running Adobe&#39;s 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
-- [A Letter from Dijkstra on APL](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
-- [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
-- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
+- [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
+- [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+- [An open letter asking NHS England to keep its code open](https://keepthingsopen.com)
+- [Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down](https://www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/)
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
