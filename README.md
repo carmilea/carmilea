@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
 - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
 - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
 - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
-- [Neanderthals ran &#39;fat factories&#39; 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
