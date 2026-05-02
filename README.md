@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
-- [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
-- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
-- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
-- [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
+- [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
+- [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
+- [Craig Venter of Human Genome Project Dies at 79](https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome)
+- [Becoming a father shrinks your cerebrum](https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum)
+- [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
