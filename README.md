@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo Drives Off with South Bay Man&#39;s Luggage](https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/)
+- [Tesla owner won $10k in court for Tesla&#39;s FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
+- [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
 - [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
-- [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
-- [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
-- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
