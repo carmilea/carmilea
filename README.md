@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
+- [VS Code inserting &#39;Co-Authored-by Copilot&#39; into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+- [Canonical Under Attack](https://status.canonical.com)
 - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 - [NetHack 5.0.0](https://nethack.org/v500/release.html)
-- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
-- [Do_not_track](https://donottrack.sh/)
-- [Videolan Dav2d](https://code.videolan.org/videolan/dav2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
