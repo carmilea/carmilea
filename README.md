@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
 - [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 - [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
 - [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
-- [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
