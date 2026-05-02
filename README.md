@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
+- [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
+- [Uber wants to turn its drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 - [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
-- [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
-- [America&#39;s Expanding Domestic Surveillance](https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187)
-- [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+- [Santa Cruz restaurant changes logo after flurry of negative reviews for AI art](https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php)
+- [AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
