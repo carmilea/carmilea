@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language)
-- [A Report on Burnout in Open Source Software Communities &lpar;2025&rpar; [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
-- [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- [Ask.com has closed](https://www.ask.com/)
+- [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
+- [Create an MP4 video of a web page scrolling at a steady speed](https://github.com/upenn/web-scroll-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
