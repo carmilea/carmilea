@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)
-- [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
-- [Ask.com has closed](https://www.ask.com/)
+- [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
+- [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
+- [Show HN: Large Scale Article Extract of Newspapers 1730s-1960s](https://snewpapers.com/)
+- [Why are there both TMP and TEMP environment variables, and which one is right?](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
+- [Shadcn/UI: A set of beautifully designed components that you can customize](https://github.com/shadcn-ui/ui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
