@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
+- [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+- [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
 - [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
 - [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
-- [Craig Venter of Human Genome Project Dies at 79](https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome)
-- [Becoming a father shrinks your cerebrum](https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum)
-- [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
