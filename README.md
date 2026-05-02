@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
-- [Uber wants to turn its drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
-- [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
-- [Santa Cruz restaurant changes logo after flurry of negative reviews for AI art](https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php)
-- [AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://arxiv.org/abs/2509.00462)
+- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
+- [NetHack 5.0.0](https://nethack.org/v500/release.html)
+- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
+- [Do_not_track](https://donottrack.sh/)
+- [Videolan Dav2d](https://code.videolan.org/videolan/dav2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
