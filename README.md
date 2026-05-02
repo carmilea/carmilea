@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)
+- [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
 - [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 - [Ask.com has closed](https://www.ask.com/)
-- [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
-- [Create an MP4 video of a web page scrolling at a steady speed](https://github.com/upenn/web-scroll-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
