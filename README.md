@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
-- [VS Code inserting &#39;Co-Authored-by Copilot&#39; into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
-- [Canonical Under Attack](https://status.canonical.com)
-- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
-- [NetHack 5.0.0](https://nethack.org/v500/release.html)
+- [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+- [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
+- [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
+- [Neanderthals ran &#39;fat factories&#39; 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
