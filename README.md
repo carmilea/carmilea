@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
+- [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
+- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
-- [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
-- [Show HN: Large Scale Article Extract of Newspapers 1730s-1960s](https://snewpapers.com/)
-- [Why are there both TMP and TEMP environment variables, and which one is right?](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
-- [Shadcn/UI: A set of beautifully designed components that you can customize](https://github.com/shadcn-ui/ui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
