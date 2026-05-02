@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
+- [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
 - [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
-- [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
+- [America&#39;s Expanding Domestic Surveillance](https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187)
 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
-- [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
-- [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
 <!-- BLOG-POST-LIST:END -->
 
 ---
