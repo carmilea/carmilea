@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
-- [Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for &quot;O&quot;](https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/)
-- [Statue of a man blinded by a flag put up by Banksy in central London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-- [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
-- [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)
+- [The &#39;Hidden&#39; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
+- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
+- [Make your own microforest &lpar;2025&rpar;](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
