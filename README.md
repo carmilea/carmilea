@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncle Bob: It&#39;s Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
-- [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
-- [A Desktop Made for One](https://isene.org/2026/05/Audience-of-One.html)
-- [Security Through Obscurity Is Not Bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
-- [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
+- [Maybe AI Isn&#39;t a Bubble After All](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)
+- [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
+- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
+- [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html)
+- [Metal Gear Solid 2&#39;s Source Code Has Been Leaked on 4Chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
