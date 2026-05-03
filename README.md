@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
+- [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
+- [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)
+- [Show HN: Apple&#39;s Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
 - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
-- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
-- [Windows API is Successful Cross-Platform API &lpar;2024&rpar;](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
-- [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
-- [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
