@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Executable installer will stop being released with Python 3.16](https://www.python.org/downloads/release/pymanager-261/)
-- [Musk&#39;s AI told me people were coming to kill me &lpar;BBC&rpar;](https://www.bbc.com/news/articles/c242pzr1zp2o)
 - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 - [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
+- [Windows API is Successful Cross-Platform API &lpar;2024&rpar;](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
 - [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
+- [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
