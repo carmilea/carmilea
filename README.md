@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel Said It&#39;s Applying the Gaza Model in Lebanon](https://www.nytimes.com/interactive/2026/05/03/world/middleeast/israel-lebanon-hezbollah-gaza-destruction.html)
+- [Business Owners Are Worst Clients](https://zencapital.substack.com/p/business-owners-are-worst-clients)
+- [Security Through Obscurity Is Not Bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
+- [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
 - [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
-- [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
-- [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
-- [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
-- [Show HN: Apple&#39;s Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
