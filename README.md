@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel Said It&#39;s Applying the Gaza Model in Lebanon](https://www.nytimes.com/interactive/2026/05/03/world/middleeast/israel-lebanon-hezbollah-gaza-destruction.html)
-- [Business Owners Are Worst Clients](https://zencapital.substack.com/p/business-owners-are-worst-clients)
+- [Uncle Bob: It&#39;s Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
+- [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
+- [A Desktop Made for One](https://isene.org/2026/05/Audience-of-One.html)
 - [Security Through Obscurity Is Not Bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
 - [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
-- [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
 <!-- BLOG-POST-LIST:END -->
 
 ---
