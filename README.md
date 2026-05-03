@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
+- [Statue of a man blinded by a flag put up by Banksy in central London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
 - [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
-- [The Death of Scrum – Built for a slower world, performed by those who left](https://death-of-scrum.net/)
-- [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
-- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-- [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
+- [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)
+- [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
