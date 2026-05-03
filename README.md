@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)
 - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
 - [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
-- [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)
 - [Show HN: Apple&#39;s Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
 - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 <!-- BLOG-POST-LIST:END -->
