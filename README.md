@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe AI Isn&#39;t a Bubble After All](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)
-- [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
-- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
-- [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html)
-- [Metal Gear Solid 2&#39;s Source Code Has Been Leaked on 4Chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
+- [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
+- [The Death of Scrum – Built for a slower world, performed by those who left](https://death-of-scrum.net/)
+- [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+- [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
