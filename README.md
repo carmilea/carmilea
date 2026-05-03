@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)
+- [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
+- [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
+- [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
-- [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
 - [Show HN: Apple&#39;s Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
-- [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
