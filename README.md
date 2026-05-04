@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+- [Let&#39;s Buy Spirit Air](https://letsbuyspiritair.com/)
 - [The &#39;Hidden&#39; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
 - [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 - [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
-- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
-- [Make your own microforest &lpar;2025&rpar;](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
