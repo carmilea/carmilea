@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)
-- [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)
-- [Newton&#39;s law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
-- [Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11)
-- [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+- [&quot;They would never use the death star on us&quot;](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
+- [GitHub Is Down](https://www.githubstatus.com/incidents/72q3n8yxthcy)
+- [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
+- [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
+- [1966 Ford Mustang Converted into a Tesla with Working &#39;Full Self-Driving&#39;](https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
