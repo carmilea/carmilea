@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Multimodal RAG &amp; Agentic Workflows via Enterprise h2oGPTe | Part 15](https://www.youtube.com/watch?v=Nv4pms4rIM8)
 - [Securing Enterprise LLMs with h2oGPTe Guardrails | Part 14](https://www.youtube.com/watch?v=Mknnh6xlOjw)
 - [LLM Instruction Tuning &amp; DPO via H2O Enterprise LLM Studio | Part 13](https://www.youtube.com/watch?v=xxKTZeSGRoc)
 - [[Webinar] H2O AI Super Agent](https://www.youtube.com/watch?v=WWBMYFxbuiY)
 - [Enterprise Prompt Engineering &amp; LLM Testing via h2oGPTe | Part 12](https://www.youtube.com/watch?v=LXUkuFIp4L0)
-- [Real Time ML Drift Detection &amp; Monitoring via H2O MLOps | Part 11](https://www.youtube.com/watch?v=-bhGEFOJRFw)
 <!-- YOUTUBE:END -->
 
 
