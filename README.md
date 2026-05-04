@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
+- [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
+- [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
 - [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
 - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- [Let&#39;s Buy Spirit Air](https://letsbuyspiritair.com/)
-- [The &#39;Hidden&#39; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- [Debunking the CIA&#39;s “magic” heartbeat sensor [video]](https://www.youtube.com/watch?v=SVTPv4sI_Jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
