@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASML&#39;s Best Selling Product Isn&#39;t What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
+- [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+- [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 - [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
 - [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
-- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- [Debunking the CIA&#39;s “magic” heartbeat sensor [video]](https://www.youtube.com/watch?v=SVTPv4sI_Jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
