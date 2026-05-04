@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;They would never use the death star on us&quot;](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
-- [GitHub Is Down](https://www.githubstatus.com/incidents/72q3n8yxthcy)
-- [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
-- [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
-- [1966 Ford Mustang Converted into a Tesla with Working &#39;Full Self-Driving&#39;](https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/)
+- [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
+- [U.S. military data left exposed at an a16z startup for 150 days](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+- [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)
+- [Heat pump sales rise 17% across Europe in Q1 as energy prices surge](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
+- [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
