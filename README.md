@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
-- [&#39;Point of no return&#39;: New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis)
-- [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026)
-- [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
-- [Transformers Are Inherently Succinct](https://arxiv.org/abs/2510.19315)
+- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
+- [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)
+- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
+- [What I&#39;m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
