@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+- [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
+- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 - [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
-- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
-- [2-D Mathematical Curves](https://www.2dcurves.com/)
-- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
-- [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
+- [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
