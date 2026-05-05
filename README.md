@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
+- [Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative](https://idiotproofseo.com/)
+- [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
-- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
-- [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
