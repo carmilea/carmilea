@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)
-- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-- [What I&#39;m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
-- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
+- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
+- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
+- [2-D Mathematical Curves](https://www.2dcurves.com/)
+- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
+- [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
