@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [What five years of data tells us about lasting relationships](https://hanker.dating/study)
+- [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
-- [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
