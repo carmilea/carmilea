@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
-- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
-- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
-- [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+- [Zuckerberg &#39;personally authorized&#39; Meta&#39;s copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
+- [NPR finds &quot;no sign&quot; of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
 <!-- BLOG-POST-LIST:END -->
 
 ---
