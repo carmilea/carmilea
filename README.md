@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
-- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
-- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
+- [The Boring Internet](https://www.terrygodier.com/the-boring-internet)
+- [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
+- [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
+- [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
