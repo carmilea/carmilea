@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [The Boring Internet](https://www.terrygodier.com/the-boring-internet)
-- [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
-- [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
-- [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
+- [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
+- [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
+- [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)
+- [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
