@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
+- [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
 - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
+- [Mickey Mouse is watching you: Disneyland deploys facial recognition](https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition)
 - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
-- [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
-- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
-- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
