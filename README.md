@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
+- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
-- [McDonald&#39;s is a premium product now &lpar;2024&rpar;](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
 - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
 - [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
-- [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
