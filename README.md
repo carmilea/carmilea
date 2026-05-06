@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
+- [Cat &lpar;YC S22&rpar; Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
 - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
 - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-- [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)
-- [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)
+- [Running SingleStore on Kubernetes in Production](https://www.singlestore.com/blog/running-singlestore-on-kubernetes-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
