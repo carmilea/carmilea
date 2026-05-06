@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [Zuckerberg &#39;personally authorized&#39; Meta&#39;s copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
-- [NPR finds &quot;no sign&quot; of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
-- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
+- [Update on &quot;Co-authored-by: Copilot&quot; in commit messages](https://github.com/microsoft/vscode/issues/314311)
+- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
