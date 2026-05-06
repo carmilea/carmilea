@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disadvantages of an Elite Education &lpar;2008&rpar;](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
+- [Egg Intake and the Incidence of Alzheimer&#39;s Disease in Adventist Health Study-2](https://www.sciencedirect.com/science/article/pii/S0022316626001902)
+- [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/)
+- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
+- [Colombia hosts talks on exiting fossil fuels as global energy crisis deepens](https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens)
 - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
-- [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-- [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)
-- [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
