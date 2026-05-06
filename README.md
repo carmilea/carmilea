@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Egg Intake and the Incidence of Alzheimer&#39;s Disease in Adventist Health Study-2](https://www.sciencedirect.com/science/article/pii/S0022316626001902)
-- [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/)
-- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
-- [Colombia hosts talks on exiting fossil fuels as global energy crisis deepens](https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens)
-- [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
+- [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
+- [McDonald&#39;s is a premium product now &lpar;2024&rpar;](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
+- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
+- [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
