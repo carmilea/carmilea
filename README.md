@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=ctC9VEEIRkU)
-- [Multimodal RAG &amp; Agentic Workflows via Enterprise h2oGPTe | Part 15](https://www.youtube.com/watch?v=Nv4pms4rIM8)
-- [Securing Enterprise LLMs with h2oGPTe Guardrails | Part 14](https://www.youtube.com/watch?v=Mknnh6xlOjw)
-- [LLM Instruction Tuning &amp; DPO via H2O Enterprise LLM Studio | Part 13](https://www.youtube.com/watch?v=xxKTZeSGRoc)
-- [[Webinar] H2O AI Super Agent](https://www.youtube.com/watch?v=WWBMYFxbuiY)
+- [Finding Risk Faster: AI and Real](https://www.youtube.com/watch?v=Y6zog9jhZyg)
+- [Finding Risk Faster: AI and Real-Time Monitoring](https://www.youtube.com/watch?v=CrVCVZ87hEU)
+- [Unlock instant AI insights across your sales data](https://www.youtube.com/watch?v=ZANI5MKe5mo)
+- [SalesTech Insights: Per-Account and Cross-Account Intelligence](https://www.youtube.com/watch?v=z1wYcxOevB4)
 <!-- YOUTUBE:END -->
 
 
