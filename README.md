@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Energy AI Is Running Into Two Infrastructure Problems. Most Teams Are Only Solving One.](https://www.singlestore.com/blog/energy-ai-is-running-into-two-infrastructure-problems)
-- [Cat &lpar;YC S22&rpar; Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
-- [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
-- [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-- [Running SingleStore on Kubernetes in Production](https://www.singlestore.com/blog/running-singlestore-on-kubernetes-in-production)
+- [The Disadvantages of an Elite Education &lpar;2008&rpar;](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
+- [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
+- [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+- [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)
+- [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
