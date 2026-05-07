@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Optimizing ML Compute &amp; Orchestration with H2O MLOps | Part 17](https://www.youtube.com/watch?v=5V4n1SrfjsM)
+- [Aura AI Platform: Intelligence at Inference Speed](https://www.youtube.com/watch?v=Pbuywys_pgk)
+- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=ctC9VEEIRkU)
 - [Multimodal RAG &amp; Agentic Workflows via Enterprise h2oGPTe | Part 15](https://www.youtube.com/watch?v=Nv4pms4rIM8)
 - [Securing Enterprise LLMs with h2oGPTe Guardrails | Part 14](https://www.youtube.com/watch?v=Mknnh6xlOjw)
-- [LLM Instruction Tuning &amp; DPO via H2O Enterprise LLM Studio | Part 13](https://www.youtube.com/watch?v=xxKTZeSGRoc)
-- [[Webinar] H2O AI Super Agent](https://www.youtube.com/watch?v=WWBMYFxbuiY)
 <!-- YOUTUBE:END -->
 
 
