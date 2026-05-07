@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
+- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
 - [Permacomputing Principles](https://permacomputing.net/principles/)
 - [The Vatican&#39;s Website in Latin](https://www.vatican.va/latin/latin_index.html)
-- [What British people mean when they say &#39;sorry&#39;](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
-- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
