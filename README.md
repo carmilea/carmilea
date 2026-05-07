@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why The Pentagon Is Quadrupling Missile Production, and Why It Won&#39;t Be Enough](https://militarymachine.com/pentagon-missile-production-surge-2026)
-- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
-- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-- [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
-- [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+- [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- [Maybe you shouldn&#39;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)
+- [Canvas &lpar;Instructure&rpar; LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
