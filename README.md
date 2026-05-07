@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
-- [Cloudflare responded to the &quot;Copy Fail&quot; Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
-- [GovernGPT &lpar;YC W24&rpar; Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
-- [The Upper Middle Class Trap](https://ofdollarsanddata.com/the-upper-middle-class-trap/)
-- [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
+- [Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales](https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor)
+- [Authorities say Flock cameras&#39; data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
+- [I switched from Mac to a Lenovo Chromebook, and you can too](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
+- [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
+- [Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
