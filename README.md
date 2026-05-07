@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Social Network for Corporate Cringe](https://CringeOut.com)
+- [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
+- [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
+- [Show HN: Trust – Coding Rust like it&#39;s 1989](https://github.com/wojtczyk/trust)
 - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
-- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
-- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-- [Permacomputing Principles](https://permacomputing.net/principles/)
-- [The Vatican&#39;s Website in Latin](https://www.vatican.va/latin/latin_index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
