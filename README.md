@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why The Pentagon Is Quadrupling Missile Production, and Why It Won&#39;t Be Enough](https://militarymachine.com/pentagon-missile-production-surge-2026)
+- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
 - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 - [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
-- [AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
-- [Natural Language Autoencoders: Turning Claude&#39;s Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
-- [Brazil&#39;s Pix Payment System Faces Pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
+- [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
