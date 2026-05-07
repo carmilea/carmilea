@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales](https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor)
-- [Authorities say Flock cameras&#39; data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
-- [I switched from Mac to a Lenovo Chromebook, and you can too](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
-- [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
-- [Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+- [Natural Language Autoencoders: Turning Claude&#39;s Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
+- [Brazil&#39;s Pix Payment System Faces Pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
+- [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
+- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+- [I switched from Mac to a Lenovo Chromebook](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
