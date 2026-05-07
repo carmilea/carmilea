@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KLM flight attendant hospitalized after contact with hantavirus](https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger)
-- [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
-- [Agent-harness-kit scaffolding for multi-agent workflows &lpar;MCP, provider-agnostic&rpar;](https://ahk.cardor.dev)
-- [ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)
-- [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
+- [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+- [Cloudflare responded to the &quot;Copy Fail&quot; Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
+- [GovernGPT &lpar;YC W24&rpar; Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
+- [The Upper Middle Class Trap](https://ofdollarsanddata.com/the-upper-middle-class-trap/)
+- [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
