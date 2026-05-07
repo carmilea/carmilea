@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
-- [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
-- [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
-- [Mickey Mouse is watching you: Disneyland deploys facial recognition](https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition)
+- [Permacomputing Principles](https://permacomputing.net/principles/)
+- [The Vatican&#39;s Website in Latin](https://www.vatican.va/latin/latin_index.html)
+- [What British people mean when they say &#39;sorry&#39;](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
 - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 <!-- BLOG-POST-LIST:END -->
 
