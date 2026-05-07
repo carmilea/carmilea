@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+- [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
+- [AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 - [Natural Language Autoencoders: Turning Claude&#39;s Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
 - [Brazil&#39;s Pix Payment System Faces Pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
-- [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
-- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
-- [I switched from Mac to a Lenovo Chromebook](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
