@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GeoJSON](https://geojson.org/)
-- [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
-- [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
-- [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
-- [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
+- [Four stable kernels with partial fixes for Dirty Frag](https://lwn.net/Articles/1071775/)
+- [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
+- [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
+- [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
+- [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
