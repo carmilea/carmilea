@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
+- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+- [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
 - [Maybe you shouldn&#39;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)
-- [Canvas &lpar;Instructure&rpar; LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
-- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
