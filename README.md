@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lets Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
-- [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
-- [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
-- [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-- [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
+- [Mux &lpar;YC W16&rpar; Is Hiring](https://www.mux.com/jobs)
+- [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)
+- [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
+- [You gave me a u32. I gave you root. &lpar;io_uring ZCRX freelist LPE&rpar;](https://ze3tar.github.io/post-zcrx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
