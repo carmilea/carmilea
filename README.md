@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Four stable kernels with partial fixes for Dirty Frag](https://lwn.net/Articles/1071775/)
+- [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+- [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
 - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
 - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
-- [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
-- [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
+- [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
