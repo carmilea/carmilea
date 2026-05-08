@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GeoJSON](https://geojson.org/)
 - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
 - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
 - [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
-- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
