@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
+- [Bjarne Stroustrup: How do I deal with memory leaks?](https://www.stroustrup.com/bs_faq2.html#memory-leaks)
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
 - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
 - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
-- [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
-- [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
-- [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
