@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
-- [Mux &lpar;YC W16&rpar; Is Hiring](https://www.mux.com/jobs)
-- [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)
-- [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
-- [You gave me a u32. I gave you root. &lpar;io_uring ZCRX freelist LPE&rpar;](https://ze3tar.github.io/post-zcrx.html)
+- [Tesla Model Y Passes NHTSA&#39;s New &#39;Advanced Driver Assistance System&#39; Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
+- [Show HN: CADara – I made an open-source in-browser CAD](https://cadara.app)
+- [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)
+- [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
+- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
