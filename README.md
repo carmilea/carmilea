@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
 - [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
 - [Internet Archive Switzerland](https://internetarchive.ch/)
 - [Forking the Web](https://dillo-browser.org/lab/web-fork/)
-- [Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
 - [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 <!-- BLOG-POST-LIST:END -->
 
