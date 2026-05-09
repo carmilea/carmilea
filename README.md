@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
+- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 - [CPanel&#39;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
 - [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
-- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
-- [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
-- [Show HN: Mochi.js: bun-native high-fidelity browser automation library](https://mochijs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
