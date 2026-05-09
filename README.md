@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FreeBSD: Local Privilege Escalation via Execve&lpar;&rpar;](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-- [I Caught the Car](https://undecidability.net/senior/)
-- [&quot;Dirty Frag&quot; &lpar;CVE-2026-43284&rpar;: The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+- [I caught the car](https://undecidability.net/senior/)
 - [Meta&#39;s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
 - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 <!-- BLOG-POST-LIST:END -->
 
