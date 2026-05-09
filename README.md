@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
+- [FreeBSD: Local Privilege Escalation via Execve&lpar;&rpar;](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [I Caught the Car](https://undecidability.net/senior/)
+- [&quot;Dirty Frag&quot; &lpar;CVE-2026-43284&rpar;: The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+- [Meta&#39;s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
-- [CPanel&#39;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
-- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
-- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
