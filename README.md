@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU calls VPNs &quot;a loophole that needs closing&quot; in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
-- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
-- [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
+- [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
+- [Internet Archive Switzerland](https://internetarchive.ch/)
+- [Forking the Web](https://dillo-browser.org/lab/web-fork/)
+- [Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
+- [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
