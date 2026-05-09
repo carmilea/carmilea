@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD: Local Privilege Escalation via Execve&lpar;&rpar;](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [Getting Arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
 - [I caught the car](https://undecidability.net/senior/)
-- [Meta&#39;s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Meta&#39;s embrace of A.I. is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 - [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
-- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
