@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=zBYspi7S0ws)
-- [Optimizing ML Compute &amp; Orchestration with H2O MLOps | Part 17](https://www.youtube.com/watch?v=5V4n1SrfjsM)
 - [Aura AI Platform: Intelligence at Inference Speed](https://www.youtube.com/watch?v=Pbuywys_pgk)
 - [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=ctC9VEEIRkU)
-- [Multimodal RAG &amp; Agentic Workflows via Enterprise h2oGPTe | Part 15](https://www.youtube.com/watch?v=Nv4pms4rIM8)
+- [Finding Risk Faster: AI and Real](https://www.youtube.com/watch?v=Y6zog9jhZyg)
+- [Finding Risk Faster: AI and Real-Time Monitoring](https://www.youtube.com/watch?v=CrVCVZ87hEU)
 <!-- YOUTUBE:END -->
 
 
