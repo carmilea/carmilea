@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+- [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)
+- [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
 - [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
 - [I caught the car](https://undecidability.net/senior/)
-- [Meta&#39;s embrace of A.I. is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
+- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
