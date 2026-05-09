@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
+- [CPanel&#39;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
 - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
-- [First, the FBI Searched Her Home. Then, She Won a Pulitzer.](https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html)
 - [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
-- [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
+- [Show HN: Mochi.js: bun-native high-fidelity browser automation library](https://mochijs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
