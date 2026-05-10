@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 - [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
-- [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
-- [Spain just became one of Europe&#39;s cheapest power markets. Here is how](https://janrosenow.substack.com/p/spain-just-became-one-of-europes)
-- [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
+- [Ask HN: What are you working on? &lpar;May 2026&rpar;](https://news.ycombinator.com/item?id=48085993)
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- [Traces Of Humanity](https://tracesofhumanity.org/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
