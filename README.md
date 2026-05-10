@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
-- [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
-- [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
-- [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
-- [Scouting&#39;s Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
+- [9 Mothers &lpar;YC P26&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+- [What&#39;s a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
+- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+- [Replacing a 3 GB SQLite db with a 10 MB FST &lpar;finite state transducer&rpar; binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
+- [Think Linear Algebra &lpar;2023&rpar;](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
