@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Louis Rossmann tells 3D printer maker Bambu Lab to &#39;Go &lpar;Bleep&rpar; yourself&#39;](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
+- [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
+- [Academic Research Skills for Claude Code](https://github.com/Imbad0202/academic-research-skills)
 - [9 Mothers &lpar;YC P26&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 - [What&#39;s a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
-- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
-- [Replacing a 3 GB SQLite db with a 10 MB FST &lpar;finite state transducer&rpar; binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
-- [Think Linear Algebra &lpar;2023&rpar;](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
