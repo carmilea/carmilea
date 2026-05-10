@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 - [Scouting&#39;s Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
 - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
 - [Show HN: Building a web server in assembly to give my life &lpar;a lack of&rpar; meaning](https://github.com/imtomt/ymawky)
-- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
