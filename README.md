@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)
-- [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
-- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
-- [I caught the car](https://undecidability.net/senior/)
-- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
+- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+- [Show HN: Building a web server in assembly to give my life &lpar;a lack of&rpar; meaning](https://github.com/imtomt/ymawky)
+- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
+- [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+- [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
