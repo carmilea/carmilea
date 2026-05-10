@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+- [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
+- [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
+- [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 - [Scouting&#39;s Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
-- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
-- [Show HN: Building a web server in assembly to give my life &lpar;a lack of&rpar; meaning](https://github.com/imtomt/ymawky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
