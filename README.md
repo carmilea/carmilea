@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Louis Rossmann tells 3D printer maker Bambu Lab to &#39;Go &lpar;Bleep&rpar; yourself&#39;](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
-- [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
-- [Academic Research Skills for Claude Code](https://github.com/Imbad0202/academic-research-skills)
-- [9 Mothers &lpar;YC P26&rpar; Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-- [What&#39;s a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
+- [Remind HN: Today is Mother&#39;s Day, call your moms](https://news.ycombinator.com/item?id=48085384)
+- [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
+- [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
+- [Chrome&#39;s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+- [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
