@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
-- [Plex&#39;s price hikes prove I was right to switch to Jellyfin](https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/)
-- [Why modern parents feel more sleep deprived than our ancestors did](https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep)
+- [7 lines of code, 3 minutes: Implement a programming language &lpar;2010&rpar;](https://matt.might.net/articles/implementing-a-programming-language/)
+- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
+- [I&#39;m going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
