@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 - [7 lines of code, 3 minutes: Implement a programming language &lpar;2010&rpar;](https://matt.might.net/articles/implementing-a-programming-language/)
-- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- [The greatest shot in television: James Burke had one chance to nail this scene &lpar;2024&rpar;](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
 - [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
 - [I&#39;m going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
