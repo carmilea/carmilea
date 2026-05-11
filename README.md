@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
-- [7 lines of code, 3 minutes: Implement a programming language &lpar;2010&rpar;](https://matt.might.net/articles/implementing-a-programming-language/)
-- [The greatest shot in television: James Burke had one chance to nail this scene &lpar;2024&rpar;](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
-- [I&#39;m going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+- [OP&#39;s script shuts down every single computer in the company](https://www.reddit.com/r/sysadmin/s/7kD2rPS6yV)
+- [Using AI for just 10 minutes might make you lazy and dumb](https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/)
+- [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+- [All Those A.I. Note Takers? They&#39;re Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
