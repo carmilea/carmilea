@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Free tool to see how much AI bots are costing your site](https://botcost.dev)
-- [Create a 90s GeoCities style website in seconds &lpar;Python&rpar;](https://pypi.org/project/create-geocities-app/)
-- [European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html)
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
-- [All Those A.I. Note Takers? They&#39;re Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
+- [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring Founding Product Engineers](https://bild.ai/jobs)
+- [Microsoft Israel chief leaves amid ethical controversy](https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602)
+- [Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale)
+- [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
