@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OP&#39;s script shuts down every single computer in the company](https://www.reddit.com/r/sysadmin/s/7kD2rPS6yV)
-- [Using AI for just 10 minutes might make you lazy and dumb](https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/)
-- [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
+- [Show HN: Free tool to see how much AI bots are costing your site](https://botcost.dev)
+- [Create a 90s GeoCities style website in seconds &lpar;Python&rpar;](https://pypi.org/project/create-geocities-app/)
+- [European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html)
 - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 - [All Those A.I. Note Takers? They&#39;re Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
 <!-- BLOG-POST-LIST:END -->
