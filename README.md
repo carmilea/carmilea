@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If AI Writes Your Code, Why Use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-- [Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity](https://github.com/ab-613/opengravity)
-- [Linux Terminal Memory Usage](https://gilesorr.com/blog/linux-terminal-memory-usage.html)
-- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
-- [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
+- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383)
+- [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
+- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/)
+- [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
