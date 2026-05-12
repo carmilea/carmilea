@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
+- [Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)
+- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
+- [Productivity isn&#39;t about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
 - [Software Internals Book Club](https://eatonphil.com/bookclub.html)
-- [Fake building: Claude wrote 3k lines instead of import pywikibot](https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/)
-- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-- [They Live &lpar;1988&rpar; inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
-- [Show HN: Safe-install – safer NPM installs with trusted build dependencies](https://www.npmjs.com/package/@gkiely/safe-install)
 <!-- BLOG-POST-LIST:END -->
 
 ---
