@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead.letter &lpar;CVE-2026-45185&rpar; Humans vs. LLM for Unauthenticated RCE Race on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
-- [Googlebook: Designed for Gemini Intelligence – Coming Fall 2026 – Googlebook](https://googlebook.google/)
-- [Canada&#39;s Bill C-22 Is a Repackaged Version of Last Year&#39;s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
-- [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
-- [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
+- [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
+- [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
+- [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
+- [The Rise of the Bullshittery](https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/)
+- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
