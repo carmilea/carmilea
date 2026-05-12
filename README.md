@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+- [UnDUNE II](https://liquidream.itch.io/undune2)
 - [Text Blaze &lpar;YC W21&rpar; Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
 - [EU to crack down on TikTok, Instagram&#39;s &#39;addictive design&#39; targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)
-- [Coursera and Udemy are now one company](https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/)
-- [A HN post with negative points – how?](https://news.ycombinator.com/item?id=48104663)
-- [Unitree GD01: China&#39;s $537k rideable transformer robot is now in production](https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
