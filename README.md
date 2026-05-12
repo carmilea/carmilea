@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
-- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383)
-- [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
-- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/)
-- [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
+- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+- [Fake building: Claude wrote 3k lines instead of import pywikibot](https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+- [They Live &lpar;1988&rpar; inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
+- [Show HN: Safe-install – safer NPM installs with trusted build dependencies](https://www.npmjs.com/package/@gkiely/safe-install)
 <!-- BLOG-POST-LIST:END -->
 
 ---
