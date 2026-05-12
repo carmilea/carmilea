@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com)
 - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
-- [Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)
 - [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
-- [Productivity isn&#39;t about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
 - [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ---
