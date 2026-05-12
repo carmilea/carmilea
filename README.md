@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
-- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
-- [UnDUNE II](https://liquidream.itch.io/undune2)
-- [Text Blaze &lpar;YC W21&rpar; Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
-- [EU to crack down on TikTok, Instagram&#39;s &#39;addictive design&#39; targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)
+- [Dead.letter &lpar;CVE-2026-45185&rpar; Humans vs. LLM for Unauthenticated RCE Race on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
+- [Googlebook: Designed for Gemini Intelligence – Coming Fall 2026 – Googlebook](https://googlebook.google/)
+- [Canada&#39;s Bill C-22 Is a Repackaged Version of Last Year&#39;s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
+- [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
+- [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
 <!-- BLOG-POST-LIST:END -->
 
 ---
