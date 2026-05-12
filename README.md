@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
+- [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
+- [How to make your text look futuristic &lpar;2016&rpar;](https://typesetinthefuture.com/2016/02/18/futuristic/)
 - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
 - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
-- [The Rise of the Bullshittery](https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/)
 - [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 <!-- BLOG-POST-LIST:END -->
 
