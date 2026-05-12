@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Extending AI Workflows with H2O ai APIs &amp; Python SDKs | Part 18](https://www.youtube.com/watch?v=yHvlXYS5q5I)
+- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=_XI-qXEkxeU)
 - [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=zBYspi7S0ws)
+- [Extending AI Workflows with H2O ai APIs &amp; Python SDKs | Part 18](https://www.youtube.com/watch?v=yHvlXYS5q5I)
 - [Optimizing ML Compute &amp; Orchestration with H2O MLOps | Part 17](https://www.youtube.com/watch?v=5V4n1SrfjsM)
 - [Aura AI Platform: Intelligence at Inference Speed](https://www.youtube.com/watch?v=Pbuywys_pgk)
-- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=ctC9VEEIRkU)
 <!-- YOUTUBE:END -->
 
 
