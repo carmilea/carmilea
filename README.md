@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com)
-- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
-- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
-- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
-- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+- [Text Blaze &lpar;YC W21&rpar; Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
+- [EU to crack down on TikTok, Instagram&#39;s &#39;addictive design&#39; targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)
+- [Coursera and Udemy are now one company](https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/)
+- [A HN post with negative points – how?](https://news.ycombinator.com/item?id=48104663)
+- [Unitree GD01: China&#39;s $537k rideable transformer robot is now in production](https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
