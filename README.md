@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Altman forced to confront claims at OpenAI trial that he&#39;s a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/)
-- [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
-- [Launch HN: Ardent &lpar;YC P26&rpar; – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
-- [Haiku](https://www.haiku-os.org)
-- [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
+- [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+- [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
+- [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+- [&quot;Not Medically Necessary&quot;: Helping America&#39;s Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
+- [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
