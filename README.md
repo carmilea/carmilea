@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship V3](https://www.spacex.com/updates#starship-v3)
+- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- [When &quot;idle&quot; isn&#39;t idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
 - [Kraftwerk&#39;s radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-- [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
-- [How to make your text look futuristic &lpar;2016&rpar;](https://typesetinthefuture.com/2016/02/18/futuristic/)
-- [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
+- [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
