@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
-- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
-- [Starship V3](https://www.spacex.com/updates#starship-v3)
-- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-- [When “idle” isn&#39;t idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
+- [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
+- [Why I&#39;m leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
+- [Substrate &lpar;YC S24&rpar; Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
+- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+- [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
