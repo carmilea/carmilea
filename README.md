@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
+- [Altman forced to confront claims at OpenAI trial that he&#39;s a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/)
+- [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
+- [Launch HN: Ardent &lpar;YC P26&rpar; – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
+- [Haiku](https://www.haiku-os.org)
 - [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
-- [Kickstarter Is Forced to Ban Adult Content by Payment Processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
-- [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
-- [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
