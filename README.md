@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
-- [Why I&#39;m leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
-- [Substrate &lpar;YC S24&rpar; Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
-- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
-- [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
+- [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
+- [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
+- [Kickstarter Is Forced to Ban Adult Content by Payment Processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
+- [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
+- [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
