@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are breaking 20 year old system design](https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/)
+- [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
+- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
 - [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
 - [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
 <!-- BLOG-POST-LIST:END -->
