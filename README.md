@@ -46,10 +46,10 @@
 
 <!-- YOUTUBE:START -->
 - [Accelerating Data Science Workflows with H2O AI Agents in Enterprise h2oGPTe | Part 19](https://www.youtube.com/watch?v=GK2pc9Upa94)
+- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=_XI-qXEkxeU)
+- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=zBYspi7S0ws)
 - [Extending AI Workflows with H2O ai APIs &amp; Python SDKs | Part 18](https://www.youtube.com/watch?v=yHvlXYS5q5I)
 - [Optimizing ML Compute &amp; Orchestration with H2O MLOps | Part 17](https://www.youtube.com/watch?v=5V4n1SrfjsM)
-- [Multimodal RAG &amp; Agentic Workflows via Enterprise h2oGPTe | Part 15](https://www.youtube.com/watch?v=Nv4pms4rIM8)
-- [Securing Enterprise LLMs with h2oGPTe Guardrails | Part 14](https://www.youtube.com/watch?v=Mknnh6xlOjw)
 <!-- YOUTUBE:END -->
 
 
