@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you post a real Monet and say it&#39;s AI?](https://twitter.com/jediwolf/status/2054776716770320631)
-- [New York, California pension leaders oppose &#39;extreme&#39; SpaceX control structure](https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/)
-- [The Siri for Families Apple Will Never Build](https://taoofmac.com/space/blog/2026/05/14/1220)
-- [Myths about /dev/urandom &lpar;2014&rpar;](https://www.2uo.de/myths-about-urandom/)
-- [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
+- [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
+- [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+- [Meta&#39;s New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
+- [AWS Outage May 2026: Lessons for Database Disaster Recovery](https://www.singlestore.com/blog/aws-outage-may-2026-cross-region-disaster-recovery/)
+- [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
