@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intercom changes name to Fin](https://www.intercom.com/blog/today-intercom-becomes-fin/)
-- [Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing](https://news.ycombinator.com/item?id=48128003)
-- [Medicare&#39;s new payment model is built for AI. Most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
-- [Meta won&#39;t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
-- [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+- [Show HN: Nibble](https://github.com/glouw/nibble)
+- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
+- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
