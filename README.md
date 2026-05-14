@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun&#39;s Rust rewrite has been merged](https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
-- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
-- [Removing the Modem and GPS from My 2024 RAV4 Hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
-- [Terranox AI &lpar;YC W26&rpar; Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern](https://www.workatastartup.com/companies/terranox-ai)
-- [Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight)
+- [Codex is now available on mobile via ChatGPT app](https://twitter.com/openai/status/2055016850849993072)
+- [RISC-V Router](https://router.start9.com/)
+- [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
+- [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification)
+- [The Power of a Free Popsicle &lpar;2018&rpar;](https://www.gsb.stanford.edu/insights/power-free-popsicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
