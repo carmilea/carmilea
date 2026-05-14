@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Codex is now available on mobile via ChatGPT app](https://twitter.com/openai/status/2055016850849993072)
-- [RISC-V Router](https://router.start9.com/)
-- [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
-- [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification)
-- [The Power of a Free Popsicle &lpar;2018&rpar;](https://www.gsb.stanford.edu/insights/power-free-popsicle)
+- [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)
+- [Claude for Legal](https://github.com/anthropics/claude-for-legal)
+- [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
+- [Infracost &lpar;YC W21&rpar; Is Hiring Sr Dev Advocate to make agents cloud cost-aware](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+- [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
