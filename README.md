@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
-- [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
-- [Meta&#39;s New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
-- [AWS Outage May 2026: Lessons for Database Disaster Recovery](https://www.singlestore.com/blog/aws-outage-may-2026-cross-region-disaster-recovery/)
-- [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
+- [Bun&#39;s Rust rewrite has been merged](https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
+- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+- [Removing the Modem and GPS from My 2024 RAV4 Hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+- [Terranox AI &lpar;YC W26&rpar; Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern](https://www.workatastartup.com/companies/terranox-ai)
+- [Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
