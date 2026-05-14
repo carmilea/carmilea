@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs are breaking 20 year old system design](https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/)
 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
+- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
 - [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
-- [Show HN: Nibble](https://github.com/glouw/nibble)
-- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
-- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
