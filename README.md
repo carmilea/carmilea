@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
-- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
-- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+- [What happens when you post a real Monet and say it&#39;s AI?](https://twitter.com/jediwolf/status/2054776716770320631)
+- [New York, California pension leaders oppose &#39;extreme&#39; SpaceX control structure](https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/)
+- [The Siri for Families Apple Will Never Build](https://taoofmac.com/space/blog/2026/05/14/1220)
+- [Myths about /dev/urandom &lpar;2014&rpar;](https://www.2uo.de/myths-about-urandom/)
+- [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
