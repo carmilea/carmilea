@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
-- [Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal](https://github.com/bahdotsh/feedr)
-- [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
-- [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
-- [Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands](https://github.com/sleuth-io/sx)
+- [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+- [Meta to receive $3.3B in tax breaks for its $10B Louisiana data center](https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/)
+- [Judge Bars Kars4Kids from Broadcasting &#39;Misleading&#39; Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
+- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
+- [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
