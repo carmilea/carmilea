@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
-- [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)
-- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
-- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+- [O&lpar;x&rpar;Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+- [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
+- [Overseas fakers using AI videos to push a narrative of UK decline, BBC finds](https://www.bbc.co.uk/news/articles/ckgpyn30dp3o)
+- [Geography is four-dimensional](https://sive.rs/4d)
+- [UK sovereign LLM inference](https://relax.ai/docs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
