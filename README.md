@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
-- [ICLR 2026 – Institutional Affiliations Dataset and Analysis](https://github.com/DmytroLopushanskyy/iclr2026-affiliations)
-- [&#39;Millions&#39; of pounds saved by replacing Palantir tech in refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
-- [More than half of U.S. faces worst drought in decades](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
-- [Ontario auditors find doctors&#39; AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
+- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
+- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
+- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
