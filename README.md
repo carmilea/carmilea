@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
-- [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
-- [Image-blaster: Creates 3D environments, SFX, and meshes from a single image](https://github.com/neilsonnn/image-blaster)
-- [ASCII by Jason Scott](https://ascii.textfiles.com/)
-- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+- [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
+- [Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal](https://github.com/bahdotsh/feedr)
+- [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
+- [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
+- [Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands](https://github.com/sleuth-io/sx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
