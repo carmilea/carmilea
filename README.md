@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [O&lpar;x&rpar;Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
-- [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
-- [Overseas fakers using AI videos to push a narrative of UK decline, BBC finds](https://www.bbc.co.uk/news/articles/ckgpyn30dp3o)
-- [Geography is four-dimensional](https://sive.rs/4d)
-- [UK sovereign LLM inference](https://relax.ai/docs)
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+- [AI is wiping out entry-level jobs](https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/)
+- [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
+- [Amazon workers under pressure to up their AI usage–so they&#39;re making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+- [High dimensional geometry is transforming the MRI industry&lpar;2017&rpar; [pdf]](https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
