@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+- [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
+- [Image-blaster: Creates 3D environments, SFX, and meshes from a single image](https://github.com/neilsonnn/image-blaster)
+- [ASCII by Jason Scott](https://ascii.textfiles.com/)
 - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
-- [AI is wiping out entry-level jobs](https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/)
-- [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
-- [Amazon workers under pressure to up their AI usage–so they&#39;re making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
-- [High dimensional geometry is transforming the MRI industry&lpar;2017&rpar; [pdf]](https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
