@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
+- [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2)
+- [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 - [Accelerate](https://github.com/AccelerateHS/accelerate)
 - [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/)
-- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
-- [Kyber &lpar;YC W23&rpar; Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
-- [Greek Alphabet Cards](https://labs.randomquark.com/alphabet_cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
