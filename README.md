@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
-- [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+- [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
+- [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
 - [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
-- [Technofascism](https://third-bit.com/2026/05/15/technofascism/)
 - [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky)
+- [HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
