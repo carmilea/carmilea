@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
-- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
-- [The main thing about P2P meth is that there&#39;s so much of it &lpar;2021&rpar;](https://dynomight.net/p2p-meth/)
-- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
+- [Setting up an AI-native organization](https://aweb.ai/blog/ai-first-company-howto)
+- [Futhark by Example](https://futhark-lang.org/examples.html)
+- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
+- [Where to buy a non-Apple, non-Google smartphone](https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681)
+- [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
