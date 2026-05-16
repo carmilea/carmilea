@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spectre Programming Language](https://spectre-docs.pages.dev)
-- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-- [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+- [&#39;No way to prevent this,&#39; says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+- [I broke AppLovin&#39;s mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/)
+- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
+- [NYT and Vaping: How to Lie by Saying Only True Things](https://gwern.net/vaping)
+- [The main thing about P2P meth is that there&#39;s so much of it &lpar;2021&rpar;](https://dynomight.net/p2p-meth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
