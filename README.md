@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;No way to prevent this,&#39; says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+- [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
 - [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
-- [NYT and Vaping: How to Lie by Saying Only True Things &lpar;2022&rpar;](https://gwern.net/vaping)
 - [The main thing about P2P meth is that there&#39;s so much of it &lpar;2021&rpar;](https://dynomight.net/p2p-meth/)
 - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
