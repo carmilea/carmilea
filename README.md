@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- [I tried to make Claude make me money on Algora bounties &lpar;data and tool&rpar;](https://github.com/ztc00/algora-scout/blob/main/POST.md)
+- [Ask HN: When did computers stop being fun?](https://news.ycombinator.com/item?id=48164173)
 - [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
-- [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
-- [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
-- [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky)
-- [HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
