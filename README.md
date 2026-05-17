@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists &quot;bottle the sun&quot; with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
-- [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
-- [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
+- [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
 - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-- [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
+- [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
+- [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
