@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
 - [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
 - [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
-- [CUDA Books](https://github.com/alternbits/awesome-cuda-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
