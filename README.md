@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-- [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)
-- [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
+- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
+- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
+- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
+- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
+- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
