@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
 - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
 - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-- [I tried to make Claude make me money on Algora bounties &lpar;data and tool&rpar;](https://github.com/ztc00/algora-scout/blob/main/POST.md)
-- [Ask HN: When did computers stop being fun?](https://news.ycombinator.com/item?id=48164173)
+- [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)
 - [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
 <!-- BLOG-POST-LIST:END -->
 
