@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
-- [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
-- [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+- [Scientists &quot;bottle the sun&quot; with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
+- [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
+- [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
+- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+- [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
