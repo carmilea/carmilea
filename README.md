@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
 - [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
-- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
-- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
 - [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
 - [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
