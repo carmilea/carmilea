@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
-- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-- [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
-- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
-- [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
+- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+- [ThinkPad: From IBM&#39;s Bento Box to Lenovo&#39;s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+- [AI Wearables Are Coming but They&#39;ll Need to Pass the Coffee Shop Test to Survive](https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526)
+- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+- [GenCAD](https://gencad.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
