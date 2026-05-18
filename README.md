@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
+- [Mexican government breached by solo user with Claude, 150 GB exfiltrated](https://konstantintkachuk.com/writing/the-floor-doesnt-exist/)
+- [Alignment pretraining: AI discourse creates self-fulfilling &lpar;mis&rpar;alignment](https://arxiv.org/abs/2601.10160)
+- [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
 - [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
 - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
-- [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
-- [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
