@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
-- [Qwen 3.7 Preview](https://twitter.com/Alibaba_Qwen/status/2056403591464984753)
-- [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)
-- [We stopped AI bot spam in our GitHub repo using Git&#39;s –author flag](https://archestra.ai/blog/only-responsible-ai)
-- [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
+- [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+- [New York to tax luxury second homes in NYC](https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd)
+- [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)
+- [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
+- [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
