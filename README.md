@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design posters showcasing your country&#39;s electrical grid](https://github.com/open-energy-transition/grid2poster)
 - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
 - [ThinkPad: From IBM&#39;s Bento Box to Lenovo&#39;s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
-- [AI Wearables Are Coming but They&#39;ll Need to Pass the Coffee Shop Test to Survive](https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526)
 - [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
 - [GenCAD](https://gencad.github.io/)
 <!-- BLOG-POST-LIST:END -->
