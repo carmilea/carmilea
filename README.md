@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually, Democracy Dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
-- [Show HN: Files.md – open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
-- [&#39;We mould trees to grow into the shape of chairs&#39;](https://www.bbc.co.uk/news/articles/cvg0yy3gp71o)
-- [Enough with the AI FOMO, go slow-mo, says Domo CDO](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
-- [AI eats the world &lpar;Spring 26&rpar; [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+- [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+- [Qwen 3.7 Preview](https://twitter.com/Alibaba_Qwen/status/2056403591464984753)
+- [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)
+- [We stopped AI bot spam in our GitHub repo using Git&#39;s –author flag](https://archestra.ai/blog/only-responsible-ai)
+- [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
