@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
-- [Most Americans don&#39;t trust AI – or the people in charge of it &lpar;2025&rpar;](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai)
-- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
-- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
-- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+- [The foundations of a provably secure operating system &lpar;PSOS&rpar; &lpar;1979&rpar; [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
+- [Multiple commencement speakers booed for AI comments during graduation speeches](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+- [Germany goes from labour shortages to hiring freezes](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126)
+- [Why is Google Maps back to showing old satellite images of Altadena?](https://www.reddit.com/r/pasadena/s/94BHlkE84r)
+- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
