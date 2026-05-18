@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The foundations of a provably secure operating system &lpar;PSOS&rpar; &lpar;1979&rpar; [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
-- [Multiple commencement speakers booed for AI comments during graduation speeches](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
-- [Germany goes from labour shortages to hiring freezes](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126)
-- [Why is Google Maps back to showing old satellite images of Altadena?](https://www.reddit.com/r/pasadena/s/94BHlkE84r)
-- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
+- [Actually, Democracy Dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
+- [Show HN: Files.md – open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
+- [&#39;We mould trees to grow into the shape of chairs&#39;](https://www.bbc.co.uk/news/articles/cvg0yy3gp71o)
+- [Enough with the AI FOMO, go slow-mo, says Domo CDO](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
+- [AI eats the world &lpar;Spring 26&rpar; [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
