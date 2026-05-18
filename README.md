@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Design posters showcasing your country&#39;s electrical grid](https://github.com/open-energy-transition/grid2poster)
+- [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
+- [Most Americans don&#39;t trust AI – or the people in charge of it &lpar;2025&rpar;](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai)
+- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
 - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
-- [ThinkPad: From IBM&#39;s Bento Box to Lenovo&#39;s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
-- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
-- [GenCAD](https://gencad.github.io/)
+- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
