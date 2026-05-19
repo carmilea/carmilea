@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mexican government breached by solo user with Claude, 150 GB exfiltrated](https://konstantintkachuk.com/writing/the-floor-doesnt-exist/)
-- [Alignment pretraining: AI discourse creates self-fulfilling &lpar;mis&rpar;alignment](https://arxiv.org/abs/2601.10160)
-- [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
-- [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
-- [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
+- [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
+- [War game exposed U.S. vulnerability to low-tech warfare](https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare)
+- [The American Rebellion Against AI Is Gaining Steam](https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529)
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+- [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
