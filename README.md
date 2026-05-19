@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is too expensive](https://www.wheresyoured.at/ai-is-too-expensive/)
-- [Show HN: Superlog &lpar;YC P26&rpar; – Observability that installs itself and fixes bugs](https://superlog.sh/)
-- [I&#39;ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
-- [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
-- [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
+- [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
+- [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)
+- [Gemini 3.5 Flash: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+- [Gemini Omni](https://deepmind.google/models/gemini-omni/)
+- [Cursor Cloud Agents Down](https://forum.cursor.com/t/cloud-agents-broken-ii/161036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
