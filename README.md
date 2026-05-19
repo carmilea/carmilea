@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
-- [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
-- [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
-- [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
-- [PyTorch Landscape](https://pytorch.landscape2.io)
+- [AI is too expensive](https://www.wheresyoured.at/ai-is-too-expensive/)
+- [Show HN: Superlog &lpar;YC P26&rpar; – Observability that installs itself and fixes bugs](https://superlog.sh/)
+- [I&#39;ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+- [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
+- [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
