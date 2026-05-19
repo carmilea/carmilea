@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
-- [War game exposed U.S. vulnerability to low-tech warfare](https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare)
-- [The American Rebellion Against AI Is Gaining Steam](https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529)
-- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
-- [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
+- [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+- [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+- [PyTorch Landscape](https://pytorch.landscape2.io)
+- [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
+- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
