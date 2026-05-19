@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+- [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+- [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
+- [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 - [PyTorch Landscape](https://pytorch.landscape2.io)
-- [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
-- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
