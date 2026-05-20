@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
-- [Tesla&#39;s lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
-- [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
-- [OpenAI Adopts Google&#39;s SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
-- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
+- [Evals Will Break and You Won&#39;t See It Coming](https://wanglun1996.github.io/blog/your-evals-will-break.html)
+- [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
+- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
+- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
+- [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
