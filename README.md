@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Don&#39;t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
-- [After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban](https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/)
-- [Ask HN: Shouldn&#39;t Google need to give a public statement about Railway incident?](https://news.ycombinator.com/item?id=48210590)
-- [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
-- [Show HN: Lance – image/video generation and understanding in one model](https://github.com/bytedance/Lance)
+- [SpaceX punts Starship launch as investigation opens into Starbase worker&#39;s death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
+- [The Rise of the Intelligence Layer](https://www.singlestore.com/blog/the-rise-of-the-intelligence-layer)
+- [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [Tracking Starbucks&#39; &#39;widely recyclable&#39; cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
