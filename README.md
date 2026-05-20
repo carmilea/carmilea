@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Map of Metal](https://mapofmetal.com/)
+- [Learnings from 100K lines of Rust with AI &lpar;2025&rpar;](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
+- [The weird, wild story of humanity&#39;s obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold)
 - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 - [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
-- [There&#39;s no earthly way of knowing which direction we are going](https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going)
-- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com//blog/minimax-m27-workflows)
-- [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
