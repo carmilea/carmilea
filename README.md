@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel](https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/)
-- [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
-- [Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
-- [Real-Time Pre-Trade Risk and Intraday Margin Analytics](https://www.singlestore.com/blog/real-time-pre-trade-risk-intraday-margin-analytics)
-- [America&#39;s Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
+- [I Don&#39;t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
+- [After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban](https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/)
+- [Ask HN: Shouldn&#39;t Google need to give a public statement about Railway incident?](https://news.ycombinator.com/item?id=48210590)
+- [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
+- [Show HN: Lance – image/video generation and understanding in one model](https://github.com/bytedance/Lance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
