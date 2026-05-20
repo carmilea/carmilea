@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX punts Starship launch as investigation opens into Starbase worker&#39;s death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
-- [The Rise of the Intelligence Layer](https://www.singlestore.com/blog/the-rise-of-the-intelligence-layer)
-- [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
-- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-- [Tracking Starbucks&#39; &#39;widely recyclable&#39; cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
+- [DOS Zone](https://dos.zone/)
+- [Starship&#39;s Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
+- [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
+- [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
+- [GitHub&#39;s take on age assurance for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
