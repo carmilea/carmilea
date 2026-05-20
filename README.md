@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Map of Metal](https://mapofmetal.com/)
-- [Learnings from 100K lines of Rust with AI &lpar;2025&rpar;](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
-- [The weird, wild story of humanity&#39;s obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold)
-- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
-- [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
+- [Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel](https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/)
+- [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
+- [Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
+- [Real-Time Pre-Trade Risk and Intraday Margin Analytics](https://www.singlestore.com/blog/real-time-pre-trade-risk-intraday-margin-analytics)
+- [America&#39;s Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
