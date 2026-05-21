@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serving Netflix Video Traffic at 400Gb/S and Beyond &lpar;2022&rpar; [pdf]](https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
+- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
 - [4 AI Use Cases Exposing Your Learning Platform&#39;s Data Gap](https://www.singlestore.com/blog/4-ai-use-cases-exposing-your-learning-platform-s-data-gap)
-- [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
-- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
