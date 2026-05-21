@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
+- [Typewise &lpar;YC S22&rpar; Is Hiring an AI Growth Engineer &lpar;Zurich or Remote&rpar;](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)
+- [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
 - [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)
+- [What is a Demand Coop](https://cahootzcoops.com/blog/what-is-a-demand-coop)
 - [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
-- [The Letter S, by Donald Knuth &lpar;1980&rpar; [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
