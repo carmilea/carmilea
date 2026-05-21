@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typewise &lpar;YC S22&rpar; Is Hiring an AI Growth Engineer &lpar;Zurich or Remote&rpar;](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)
-- [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
-- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- [What is a Demand Coop](https://cahootzcoops.com/blog/what-is-a-demand-coop)
-- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+- [Python 3.15: features that didn&#39;t make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
+- [Lost Images from the 1945 Trinity Nuclear Test Restored](https://spectrum.ieee.org/trinity-nuclear-test)
+- [Earth is now heating up twice as fast as in previous decades](https://www.newscientist.com/article/2518362-earth-is-now-heating-up-twice-as-fast-as-in-previous-decades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
