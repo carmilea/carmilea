@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
-- [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
 - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 - [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
-- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
