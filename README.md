@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
-- [Trump Mobile exposed customers&#39; personal data](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
-- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
-- [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
-- [Launch HN: Superset &lpar;YC P26&rpar; – IDE for the agents era](https://github.com/superset-sh/superset)
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- [USCIS Will Grant &#39;Adjustment of Status&#39; Only in Extraordinary Circumstances](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary)
+- [Anthropic&#39;s &quot;Profitability&quot; Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
+- [Bun&#39;s unreleased Rust port has 13,365 unsafe blocks](https://bun.com/bun-unsafe-audit)
+- [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
