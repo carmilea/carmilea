@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
+- [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
 - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-- [USCIS Will Grant &#39;Adjustment of Status&#39; Only in Extraordinary Circumstances](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary)
-- [Anthropic&#39;s &quot;Profitability&quot; Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
-- [Bun&#39;s unreleased Rust port has 13,365 unsafe blocks](https://bun.com/bun-unsafe-audit)
 - [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
