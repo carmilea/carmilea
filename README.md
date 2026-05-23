@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
+- [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
+- [The FBI Wants &#39;Near Real-Time&#39; Access to US License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/)
 - [On The &lt;dl&gt;](https://benmyers.dev/blog/on-the-dl/)
 - [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
-- [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
-- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
