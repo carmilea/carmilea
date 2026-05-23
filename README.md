@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US tech firms share Dutch regulator officials&#39; names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
-- [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
-- [Experience: We found a baby on the subway – now he&#39;s our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
-- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
-- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+- [On The &lt;dl&gt;](https://benmyers.dev/blog/on-the-dl/)
+- [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
+- [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
+- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
