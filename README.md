@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 - [It&#39;s time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
 - [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
-- [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
