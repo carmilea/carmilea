@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
-- [It&#39;s time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
-- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
-- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
+- [Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company](https://zero-arr.vercel.app)
+- [Don&#39;t Roll Your Own](https://susam.net/do-not-roll-your-own.html)
+- [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
+- [We reduced a real Node.js production Docker image from 1.2GB to 78MB](https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/)
+- [A self-powered computer in actual credit-card size &lpar;~1mm thick&rpar;](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
