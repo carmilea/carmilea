@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
 - [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
-- [Ebola Outbreak Now Third Largest Recorded and &quot;Spreading Rapidly&quot;](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/)
-- [Lisp in Vim &lpar;2019&rpar;](https://susam.net/lisp-in-vim.html)
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
