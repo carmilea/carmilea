@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
-- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
-- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-- [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
-- [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
+- [Is AI Profitable Yet?](https://isaiprofitable.com/)
+- [FBI director&#39;s Based Apparel site has been spotted hosting a &#39;ClickFix&#39; attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
+- [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
+- [I was bored so I turned my dev tools into an alien planet ruled by my dog](https://github.com/bkawa-bot/planet-maiko)
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
