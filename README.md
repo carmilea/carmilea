@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company](https://zero-arr.vercel.app)
+- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+- [Bun.Image](https://bun.com/docs/runtime/image)
 - [Don&#39;t Roll Your Own](https://susam.net/do-not-roll-your-own.html)
-- [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
-- [We reduced a real Node.js production Docker image from 1.2GB to 78MB](https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/)
-- [A self-powered computer in actual credit-card size &lpar;~1mm thick&rpar;](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
+- [Byrne&#39;s Euclid](https://www.c82.net/euclid/)
+- [Toxic chemical leak at a manufacturing facility in Orange County](https://www.bbc.com/news/articles/c3w2l249j8go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
