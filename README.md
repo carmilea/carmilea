@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
-- [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
-- [CBP updated its electronic device search directive in Jan 2026](https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint)
-- [Don&#39;t know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
-- [Flick &lpar;YC F25&rpar; Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
+- [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
+- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+- [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
+- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
