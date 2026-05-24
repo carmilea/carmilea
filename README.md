@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Worlds Left to Conquer](https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/)
 - [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
 - [All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
 - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
 - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
-- [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 <!-- BLOG-POST-LIST:END -->
 
 ---
