@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Worlds Left to Conquer](https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/)
-- [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
-- [All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
-- [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
-- [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
+- [Microsoft&#39;s 6502 BASIC is now Open Source &lpar;2025&rpar;](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
+- [Childhood Computing](https://susam.net/childhood-computing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
