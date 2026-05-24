@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When &lpar;if ever&rpar; it&#39;s appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
-- [&#39;AI washing&#39;: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
-- [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
-- [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
-- [Microsoft&#39;s 6502 BASIC is now Open Source &lpar;2025&rpar;](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
+- [Flick &lpar;YC F25&rpar; Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
+- [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)
+- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+- [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
+- [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
