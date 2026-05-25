@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)
-- [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
-- [Search engines alternatives now that Google isn&#39;t Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
-- [Leave Me Behind](http://androidessence.com/leave-me-behind/)
-- [Magnifica Humanitas &lpar;Encyclical Letter&rpar;](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+- [RentFlow &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
+- [Ubers COO says its getting harder to justify the money spent on AI tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
+- [Launch HN: Chert &lpar;YC P26&rpar; – Twilio for iMessage](https://www.trychert.com)
+- [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
+- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
