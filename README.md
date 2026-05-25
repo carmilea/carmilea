@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/blog/companies-graph-of-algorithms)
+- [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)
+- [Why Do We Sleep Under Blankets, Even on the Hottest Nights? &lpar;2017&rpar;](https://www.atlasobscura.com/articles/blankets-summer-hot)
+- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
 - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
-- [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
