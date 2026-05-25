@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)
-- [Why Do We Sleep Under Blankets, Even on the Hottest Nights? &lpar;2017&rpar;](https://www.atlasobscura.com/articles/blankets-summer-hot)
-- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
-- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+- [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)
+- [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+- [Search engines alternatives now that Google isn&#39;t Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
+- [Leave Me Behind](http://androidessence.com/leave-me-behind/)
+- [Magnifica Humanitas &lpar;Encyclical Letter&rpar;](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
