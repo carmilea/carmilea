@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Enforcing AI Governance &amp; Compliance on the H2O.ai Platform | Part 23](https://www.youtube.com/watch?v=ojh0lqdFrNw)
 - [Building Visual ML Pipelines to Python with H2O Driverless AI | Part 22](https://www.youtube.com/watch?v=GBGXEN_pVBo)
 - [Conversational ML Workflows via the H2O AI Super Agent in Enterprise h2oGPTe | Part 21](https://www.youtube.com/watch?v=NDjaggCcJFU)
 - [Multi Agent AI Orchestration &amp; MCP via Enterprise h2oGPTe | Part 20](https://www.youtube.com/watch?v=8veRDI_Q4nw)
 - [[Webinar Recording] Zero Tuning. State-of-the-Art Predictions. How TabH2O Changes Tabular ML](https://www.youtube.com/watch?v=213RMfDLEIE)
-- [Accelerating Data Science Workflows with H2O AI Agents in Enterprise h2oGPTe | Part 19](https://www.youtube.com/watch?v=GK2pc9Upa94)
 <!-- YOUTUBE:END -->
 
 
