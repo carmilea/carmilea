@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Cofounder Chris Olah&#39;s Remarks on Pope Leo XIV&#39;s &quot;Magnifica Humanitas&quot;](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+- [Jony Ive&#39;s Ferrari](https://www.ferrari.com/en-EN/auto/ferrari-luce)
+- [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
+- [Japan&#39;s New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
+- [Norway&#39;s 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
 - [The bootstrapper&#39;s EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
-- [Alaska&#39;s oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
-- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
-- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/workweave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
