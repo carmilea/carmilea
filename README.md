@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jony Ive&#39;s Ferrari](https://www.ferrari.com/en-EN/auto/ferrari-luce)
-- [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
-- [Japan&#39;s New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
-- [Norway&#39;s 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
-- [The bootstrapper&#39;s EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
+- [Canada losing top talent as workers head to the U.S.](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/)
+- [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
+- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
+- [Ferrari Luce, Maranello&#39;s first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
+- [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
