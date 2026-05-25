@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RentFlow &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
-- [Ubers COO says its getting harder to justify the money spent on AI tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
-- [Launch HN: Chert &lpar;YC P26&rpar; – Twilio for iMessage](https://www.trychert.com)
-- [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
-- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+- [Anthropic Cofounder Chris Olah&#39;s Remarks on Pope Leo XIV&#39;s &quot;Magnifica Humanitas&quot;](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+- [The bootstrapper&#39;s EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
+- [Alaska&#39;s oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/workweave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
