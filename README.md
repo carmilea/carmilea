@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
-- [Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update)
-- [Stack Overflow’s forum is dead but the company’s still kicking](https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/)
+- [Big tech&#39;s anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+- [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
+- [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
 - [Sage Care &lpar;YC S24&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
-- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
