@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada losing top talent as workers head to the U.S.](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/)
-- [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
-- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
-- [Ferrari Luce, Maranello&#39;s first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
-- [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
+- [Why the Smart Home Bubble Popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
+- [Does Anybody Actually Like React?](https://jsx.lol)
+- [Designing for and against the manufactured normalcy field &lpar;2012&rpar;](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
+- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
