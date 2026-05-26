@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
-- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
-- [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
-- [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
-- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
+- [The Cost of Owning a Home](https://ericturner.dev/posts/cost-of-home-ownership/)
+- [What Color is Your Function? &lpar;2015&rpar;](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Uber, Lyft drivers in Massachusetts form first US ride-share union](https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/)
+- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+- [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
 <!-- BLOG-POST-LIST:END -->
 
 ---
