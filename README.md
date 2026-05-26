@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Owning a Home](https://ericturner.dev/posts/cost-of-home-ownership/)
-- [What Color is Your Function? &lpar;2015&rpar;](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
-- [Uber, Lyft drivers in Massachusetts form first US ride-share union](https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/)
-- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
-- [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
+- [Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update)
+- [Stack Overflow’s forum is dead but the company’s still kicking](https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/)
+- [Sage Care &lpar;YC S24&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
