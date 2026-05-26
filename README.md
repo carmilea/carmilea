@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Smart Home Bubble Popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
-- [Does Anybody Actually Like React?](https://jsx.lol)
-- [Designing for and against the manufactured normalcy field &lpar;2012&rpar;](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
-- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
+- [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
+- [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
+- [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
+- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
