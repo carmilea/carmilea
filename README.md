@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Big tech&#39;s anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-- [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
 - [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
 - [Sage Care &lpar;YC S24&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
