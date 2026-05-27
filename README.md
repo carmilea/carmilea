@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany Law to Force Algorithm Boost for State-Approved News](https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026)
-- [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
-- [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
-- [SimCity 3k in 4k &lpar;2025&rpar;](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
-- [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
+- [iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity](https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [Rust &lpar;and Slint&rpar; on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+- [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
+- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
