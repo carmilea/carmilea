@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostHog will train AI models with your data &lpar;opt-in by default&rpar;](https://posthog.com/blog/training-ai-models)
-- [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
-- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
-- [Show HN: Open-source Workspace &lpar;mail,docs,spreadsheet,drive&rpar; web/iOS](https://tinycld.org/)
-- [Show HN: Filemat – an open-source web-based file manager](https://github.com/bingud/filemat)
+- [Germany Law to Force Algorithm Boost for State-Approved News](https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026)
+- [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
+- [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
+- [SimCity 3k in 4k &lpar;2025&rpar;](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
+- [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
