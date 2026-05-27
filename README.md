@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big tech&#39;s anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-- [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
-- [Sage Care &lpar;YC S24&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+- [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
+- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
+- [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
+- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
