@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
-- [I&#39;m Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
-- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
-- [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
-- [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
+- [PostHog will train AI models with your data &lpar;opt-in by default&rpar;](https://posthog.com/blog/training-ai-models)
+- [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
+- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+- [Show HN: Open-source Workspace &lpar;mail,docs,spreadsheet,drive&rpar; web/iOS](https://tinycld.org/)
+- [Show HN: Filemat – an open-source web-based file manager](https://github.com/bingud/filemat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
