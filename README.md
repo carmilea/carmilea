@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn)
-- [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/)
-- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
-- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
-- [Sonny Rollins, jazz saxophonist, has died](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
+- [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
+- [I&#39;m Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+- [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
+- [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
 <!-- BLOG-POST-LIST:END -->
 
 ---
