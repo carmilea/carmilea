@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- [Trivial Pursuits](https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits)
 - [Why Real-Time EdTech Needs Security Built In, Not Bolted On](https://www.singlestore.com/blog/edtech-data-security-student-privacy-rbac-ferpa-compliance)
-- [AGI timelines shift with whichever lab is dominant](https://futuresearch.ai/blog/agi-timeline-tracker/)
-- [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
-- [Citing &#39;severe&#39; math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
-- [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
+- [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
