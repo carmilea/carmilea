@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader](https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070)
-- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
-- [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
-- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+- [Why Real-Time EdTech Needs Security Built In, Not Bolted On](https://www.singlestore.com/blog/edtech-data-security-student-privacy-rbac-ferpa-compliance)
+- [AGI timelines shift with whichever lab is dominant](https://futuresearch.ai/blog/agi-timeline-tracker/)
+- [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
+- [Citing &#39;severe&#39; math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
+- [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
