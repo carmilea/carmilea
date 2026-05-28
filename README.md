@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
-- [Social Animus](https://justine.lol/animus/)
-- [Caio, a cleaner search engine for 500k+ tech jobs](https://caio-jobs.com/)
+- [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+- [Protestware for Coding Agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+- [I Made a Million Dollar Product from My Dorm Room &lpar;2025&rpar;](https://nick.winans.io/blog/nice-nano/)
 - [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 - [Bricks and Minifigs Stole a Man&#39;s $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
 <!-- BLOG-POST-LIST:END -->
