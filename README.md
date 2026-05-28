@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader](https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070)
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
 - [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
 - [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
-- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
-- [Can we have the day off?](https://mlsu.io/posts/day-off/)
-- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
