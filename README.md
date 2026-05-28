@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
-- [Trivial Pursuits](https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits)
-- [Why Real-Time EdTech Needs Security Built In, Not Bolted On](https://www.singlestore.com/blog/edtech-data-security-student-privacy-rbac-ferpa-compliance)
-- [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
+- [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
+- [Social Animus](https://justine.lol/animus/)
+- [Caio, a cleaner search engine for 500k+ tech jobs](https://caio-jobs.com/)
+- [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+- [Bricks and Minifigs Stole a Man&#39;s $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
