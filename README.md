@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pelica &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
-- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
-- [Warm up your MacBook &lpar;2019&rpar;](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
-- [Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
+- [Can we have the day off?](https://mlsu.io/posts/day-off/)
+- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
