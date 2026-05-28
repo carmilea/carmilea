@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity](https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity)
+- [Pelica &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
+- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
+- [Warm up your MacBook &lpar;2019&rpar;](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
+- [Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)
 - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- [Rust &lpar;and Slint&rpar; on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
-- [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
-- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
