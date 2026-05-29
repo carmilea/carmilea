@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
-- [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
-- [Danish Pension Blacklists SpaceX over &#39;Catastrophic Governance&#39;](https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues)
-- [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
-- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
+- [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
+- [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
+- [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+- [A letter from the Duke of Wellington to the British Foreign Office &lpar;1809&rpar;](https://wellsoc.org/society-member-pages/anecdotes-of-wellington/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
