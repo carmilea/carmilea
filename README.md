@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
-- [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
-- [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
-- [A letter from the Duke of Wellington to the British Foreign Office &lpar;1809&rpar;](https://wellsoc.org/society-member-pages/anecdotes-of-wellington/)
+- [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
+- [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
+- [A Trillion Characters](https://characters.fastserial.com)
+- [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
+- [The California state assembly has passed the &#39;Protect Our Games Act&#39;](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
