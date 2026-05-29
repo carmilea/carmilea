@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
-- [Protestware for Coding Agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
-- [I Made a Million Dollar Product from My Dorm Room &lpar;2025&rpar;](https://nick.winans.io/blog/nice-nano/)
-- [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
-- [Bricks and Minifigs Stole a Man&#39;s $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
+- [Cars are trying to spy on you, and it&#39;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+- [Blue Origin&#39;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
+- [Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale)
+- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
