@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
-- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
-- [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)
-- [Let&#39;s compile Quake like it&#39;s 1997](https://fabiensanglard.net/compile_like_1997/)
-- [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+- [Cedana &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
+- [Is AI causing a repeat of Front end&#39;s Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+- [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
+- [Is This Sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)
+- [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
