@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
-- [Cars are trying to spy on you, and it&#39;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
-- [Blue Origin&#39;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
-- [Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale)
-- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
+- [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
+- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
+- [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)
+- [Let&#39;s compile Quake like it&#39;s 1997](https://fabiensanglard.net/compile_like_1997/)
+- [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
