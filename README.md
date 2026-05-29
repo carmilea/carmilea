@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
+- [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
+- [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
+- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/secluso/core)
+- [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
 - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
-- [A Trillion Characters](https://characters.fastserial.com)
-- [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
-- [The California state assembly has passed the &#39;Protect Our Games Act&#39;](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
