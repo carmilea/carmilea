@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cedana &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
-- [Is AI causing a repeat of Front end&#39;s Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
-- [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
-- [Is This Sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)
-- [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
+- [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
+- [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
+- [Danish Pension Blacklists SpaceX over &#39;Catastrophic Governance&#39;](https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues)
+- [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
