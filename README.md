@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
-- [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
-- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/secluso/core)
-- [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
-- [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
+- [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
+- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
+- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
+- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
