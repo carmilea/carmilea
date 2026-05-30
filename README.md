@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits](https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D)
-- [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
-- [Voxel Space](https://s-macke.github.io/VoxelSpace/)
-- [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
-- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+- [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+- [Downdetector and Speedtest sold to Accenture for $1.2B](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
+- [Werner Herzog in conversation with Paul Cronin &lpar;2014&rpar;](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
