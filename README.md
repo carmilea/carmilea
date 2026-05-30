@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits](https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D)
+- [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
 - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 - [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
 - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
-- [Vibe Coding Is Not Engineering](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html)
-- [Adding Linux support back for the BASIC &lpar;free&rpar; version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
