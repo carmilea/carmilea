@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
-- [Jef Raskin, the Visionary Behind the Mac](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
-- [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
-- [Ernst &amp; Young published cybersecurity report full of hallucinations](https://gptzero.me/investigations/ey)
-- [We are constantly broadcasting emotional data](https://www.tonyrice.me/emotional-intelligence/)
+- [Kore: Binary File Format Optimized for Modern Data Systems &lpar;Open Source&rpar;](https://github.com/arunkatherashala/Kore)
+- [Design Engineering Magazine](https://interfaces.dev/)
+- [I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
