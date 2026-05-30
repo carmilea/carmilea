@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
-- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
-- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
+- [The Kaiser and a &quot;Mediocre Man&quot; Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
+- [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
+- [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
+- [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+- [OpenRCT2 v0.5.1 &quot;Swamp Castle&quot; released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
