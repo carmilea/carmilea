@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
-- [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
-- [Pandoc Templates](https://pandoc-templates.org/)
-- [The Kaiser and a &quot;Mediocre Man&quot; Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
-- [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
+- [Voxel Space](https://s-macke.github.io/VoxelSpace/)
+- [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
+- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+- [Vibe Coding Is Not Engineering](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html)
+- [Adding Linux support back for the BASIC &lpar;free&rpar; version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
