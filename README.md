@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
+- [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
+- [Pandoc Templates](https://pandoc-templates.org/)
 - [The Kaiser and a &quot;Mediocre Man&quot; Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
 - [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
-- [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
-- [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
-- [OpenRCT2 v0.5.1 &quot;Swamp Castle&quot; released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
