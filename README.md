@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-- [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
-- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
+- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
 - [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
 - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
