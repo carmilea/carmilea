@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
-- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
-- [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
-- [Downdetector and Speedtest sold to Accenture for $1.2B](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
-- [Werner Herzog in conversation with Paul Cronin &lpar;2014&rpar;](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/)
+- [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
+- [Jef Raskin, the Visionary Behind the Mac](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
+- [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
+- [Ernst &amp; Young published cybersecurity report full of hallucinations](https://gptzero.me/investigations/ey)
+- [We are constantly broadcasting emotional data](https://www.tonyrice.me/emotional-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
