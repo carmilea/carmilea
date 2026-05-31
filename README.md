@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
+- [United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+- [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 - [London&#39;s Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
-- [The Website Specification](https://specification.website/)
-- [Telli &lpar;YC F24&rpar; is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
-- [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
-- [A pictorial introduction to differential geometry &lpar;2017&rpar;](https://arxiv.org/abs/1709.08492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
