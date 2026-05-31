@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
-- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
-- [Creatine raise brain energy levels and slow Alzheimer&#39;s cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
-- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
-- [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
+- [&#39;Backrooms&#39; Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+- [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
+- [Codex just found a &quot;workaround&quot; of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
+- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
+- [Re: [PATCH] OOM_pardon, a.k.a. don&#39;t kill my xlock](https://lwn.net/Articles/104185/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
