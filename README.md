@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/)
+- [New solar desalination breakthrough makes fresh water without toxic brine](https://www.sciencedaily.com/releases/2026/05/260530053418.htm)
+- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
 - [&#39;Backrooms&#39; Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
-- [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
 - [Codex just found a &quot;workaround&quot; of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
-- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
-- [Re: [PATCH] OOM_pardon, a.k.a. don&#39;t kill my xlock](https://lwn.net/Articles/104185/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
