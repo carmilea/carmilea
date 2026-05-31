@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
+- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+- [Creatine raise brain energy levels and slow Alzheimer&#39;s cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
+- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
-- [I&#39;m So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
-- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
-- [Folding Beijing](https://www.uncannymagazine.com/article/folding-beijing-2/)
-- [Restartable Sequences](https://justine.lol/rseq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
