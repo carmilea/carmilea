@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
-- [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
-- [Mechanical Pencin: A website about the hidden engineering in everyday objects](https://mechanical-pencil.com/)
-- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
-- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+- [London&#39;s Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+- [The Website Specification](https://specification.website/)
+- [Telli &lpar;YC F24&rpar; is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+- [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+- [A pictorial introduction to differential geometry &lpar;2017&rpar;](https://arxiv.org/abs/1709.08492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
