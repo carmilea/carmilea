@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
-- [United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
-- [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
-- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
-- [London&#39;s Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+- [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
+- [I&#39;m So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
+- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
+- [Folding Beijing](https://www.uncannymagazine.com/article/folding-beijing-2/)
+- [Restartable Sequences](https://justine.lol/rseq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
