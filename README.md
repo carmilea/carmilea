@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kore: Binary File Format Optimized for Modern Data Systems &lpar;Open Source&rpar;](https://github.com/arunkatherashala/Kore)
-- [Design Engineering Magazine](https://interfaces.dev/)
+- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
 - [I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
+- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+- [Shantell Sans](https://shantellsans.com/process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
