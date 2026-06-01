@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- [It&#39;s Not Just X. It&#39;s Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)
-- [New solar desalination breakthrough makes fresh water without toxic brine](https://www.sciencedaily.com/releases/2026/05/260530053418.htm)
-- [ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-- [&#39;Backrooms&#39; Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+- [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
+- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
+- [The History of &quot;Prisencolinensinainciusol&quot;](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
