@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/)
+- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [It&#39;s Not Just X. It&#39;s Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)
 - [New solar desalination breakthrough makes fresh water without toxic brine](https://www.sciencedaily.com/releases/2026/05/260530053418.htm)
-- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
+- [ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
 - [&#39;Backrooms&#39; Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
-- [Codex just found a &quot;workaround&quot; of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
 <!-- BLOG-POST-LIST:END -->
 
 ---
