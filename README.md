@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
-- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
-- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-- [The History of &quot;Prisencolinensinainciusol&quot;](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/)
+- [When AI Crosses the Line: The Matplotlib Incident](https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096)
+- [MacBook Pro Rival with the Nvidia Powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/)
+- [LLMs Are Closer to Religion Than They Appear](https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189)
+- [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)
+- [Is Python Becoming Pinyin?](https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
