@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Superintelligence: The Idea That Eats Smart People &lpar;2016&rpar;](https://idlewords.com/talks/superintelligence.htm)
-- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
-- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
-- [DuckDuckGo makes its &#39;no-AI&#39; search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
-- [The newest Instagram “exploit” is the goofiest I&#39;ve seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+- [Debug Project](https://debug.com/)
+- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
+- [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
+- [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
