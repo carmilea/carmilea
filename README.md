@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Crosses the Line: The Matplotlib Incident](https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096)
-- [MacBook Pro Rival with the Nvidia Powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/)
-- [LLMs Are Closer to Religion Than They Appear](https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189)
-- [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)
-- [Is Python Becoming Pinyin?](https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/)
+- [Superintelligence: The Idea That Eats Smart People &lpar;2016&rpar;](https://idlewords.com/talks/superintelligence.htm)
+- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
+- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+- [DuckDuckGo makes its &#39;no-AI&#39; search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+- [The newest Instagram “exploit” is the goofiest I&#39;ve seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
