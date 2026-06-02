@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Doesn&#39;t Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/)
-- [Please don&#39;t spam people looking for employment. It&#39;s just cruel](https://news.ycombinator.com/item?id=48370330)
-- [Fidonet: Technology, Use, Tools, and History &lpar;1993&rpar;](https://www.fidonet.org/inet92_Randy_Bush.txt)
-- [Martin Scorsese Is Embracing A.I](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html)
-- [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
+- [Morningstar values SpaceX at $780B, half its IPO target](https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/)
+- [GitHub Copilot App](https://github.com/features/preview/github-app)
+- [Anthropic scales Claude Mythos to critical infrastructure in 15 countries](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/)
+- [Show HN: RePlaya – self-hosted browser session replay with live tailing](https://github.com/s2-streamstore/replaya)
+- [QBE – Compiler Back end: Version 1.3](https://c9x.me/compile/release/qbe-1.3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
