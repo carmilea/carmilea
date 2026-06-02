@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Frame Problem](https://plato.stanford.edu/entries/frame-problem/)
-- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
-- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
-- [Debug Project](https://debug.com/)
-- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- [Crystal Nights &lpar;2008&rpar;](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
+- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
