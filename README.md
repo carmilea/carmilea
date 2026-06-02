@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Morningstar values SpaceX at $780B, half its IPO target](https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/)
-- [GitHub Copilot App](https://github.com/features/preview/github-app)
-- [Anthropic scales Claude Mythos to critical infrastructure in 15 countries](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/)
-- [Show HN: RePlaya – self-hosted browser session replay with live tailing](https://github.com/s2-streamstore/replaya)
-- [QBE – Compiler Back end: Version 1.3](https://c9x.me/compile/release/qbe-1.3.html)
+- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+- [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
+- [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
+- [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
+- [Gmail thinks I&#39;m stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
 <!-- BLOG-POST-LIST:END -->
 
 ---
