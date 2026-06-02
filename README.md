@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Automated ML Audit Trails &amp; AutoDoc in H2O Driverless AI | Part 24](https://www.youtube.com/watch?v=YlDksiw45nU)
-- [Get AI Predictions from Your Spreadsheet](https://www.youtube.com/shorts/iSiLAOGbP5w)
-- [Enforcing AI Governance &amp; Compliance on the H2O.ai Platform | Part 23](https://www.youtube.com/watch?v=ojh0lqdFrNw)
-- [Building Visual ML Pipelines to Python with H2O Driverless AI | Part 22](https://www.youtube.com/watch?v=GBGXEN_pVBo)
-- [Conversational ML Workflows via the H2O AI Super Agent in Enterprise h2oGPTe | Part 21](https://www.youtube.com/watch?v=NDjaggCcJFU)
+- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=_XI-qXEkxeU)
+- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=zBYspi7S0ws)
+- [Aura AI Platform: Intelligence at Inference Speed](https://www.youtube.com/watch?v=Pbuywys_pgk)
+- [Introducing Aura: Building and Scaling Intelligent Services on SingleStore](https://www.youtube.com/watch?v=ctC9VEEIRkU)
+- [Finding Risk Faster: AI and Real](https://www.youtube.com/watch?v=Y6zog9jhZyg)
 <!-- YOUTUBE:END -->
 
 
