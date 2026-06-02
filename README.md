@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use your Nvidia GPU&#39;s VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+- [Show HN: Paseo – Beautiful open-source coding agent interface](https://github.com/getpaseo/paseo)
+- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
+- [Gleam v1.17.0](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
 - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
-- [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
-- [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
-- [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
-- [Gmail thinks I&#39;m stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
 <!-- BLOG-POST-LIST:END -->
 
 ---
