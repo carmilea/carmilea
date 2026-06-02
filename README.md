@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Frame Problem](https://plato.stanford.edu/entries/frame-problem/)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 - [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 - [Debug Project](https://debug.com/)
 - [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
-- [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
-- [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
