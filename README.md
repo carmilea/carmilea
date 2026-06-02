@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS-Native Parallax Effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
-- [Michael Burry says neither SpaceX nor Anthropic is worth $1T](https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6)
-- [Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)
-- [Why Janet?](https://ianthehenry.com/posts/why-janet/)
-- [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
+- [AI Doesn&#39;t Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/)
+- [Please don&#39;t spam people looking for employment. It&#39;s just cruel](https://news.ycombinator.com/item?id=48370330)
+- [Fidonet: Technology, Use, Tools, and History &lpar;1993&rpar;](https://www.fidonet.org/inet92_Randy_Bush.txt)
+- [Martin Scorsese Is Embracing A.I](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html)
+- [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
