@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s Data Center Build-Out Is Falling Way Behind Schedule](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8)
-- [The Unreasonable Redundancy of Nature&#39;s Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
-- [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
-- [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants)
-- [Agentic Mfw](https://agenticmotherfucking.website)
+- [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+- [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+- [Mathematicians issue warning as AI rapidly gains ground](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
+- [It is an amazing time for programmers](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
+- [Recovering Eric Graham&#39;s 1987 Amiga Juggler raytracer source code](https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
