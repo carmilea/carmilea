@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use your Nvidia GPU&#39;s VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
-- [Show HN: Paseo – Beautiful open-source coding agent interface](https://github.com/getpaseo/paseo)
-- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
-- [Gleam v1.17.0](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
-- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+- [America&#39;s Data Center Build-Out Is Falling Way Behind Schedule](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8)
+- [The Unreasonable Redundancy of Nature&#39;s Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+- [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
+- [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants)
+- [Agentic Mfw](https://agenticmotherfucking.website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
