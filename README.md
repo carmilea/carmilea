@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skyvern &lpar;YC S23&rpar; Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
-- [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
-- [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
-- [Uber to cut 23% of jobs in HR](https://stocktwits.com/news-articles/markets/equity/uber-reportedly-slashes-many-senior-roles-in-people-division-retail-calls-the-cuts-aggressive/cZ0j99kReUR)
-- [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [Show HN: Mnemo – local-first AI memory layer for any LLM &lpar;Rust, SQLite,petgraph&rpar;](https://github.com/zaydmulani09/mnemo)
+- [A Man Who Reads Books for a Living &lpar;One Every Two Days&rpar;](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
+- [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
+- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
