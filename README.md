@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
+- [A Mathematician&#39;s Lament – Paul Lockhart &lpar;2002&rpar; [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
+- [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
 - [Show HN: Mnemo – local-first AI memory layer for any LLM &lpar;Rust, SQLite,petgraph&rpar;](https://github.com/zaydmulani09/mnemo)
 - [A Man Who Reads Books for a Living &lpar;One Every Two Days&rpar;](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
-- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
-- [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
-- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
