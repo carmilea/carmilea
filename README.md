@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
-- [A Mathematician&#39;s Lament – Paul Lockhart &lpar;2002&rpar; [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
-- [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
-- [Show HN: Mnemo – local-first AI memory layer for any LLM &lpar;Rust, SQLite,petgraph&rpar;](https://github.com/zaydmulani09/mnemo)
-- [A Man Who Reads Books for a Living &lpar;One Every Two Days&rpar;](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+- [American capitalism has taken an apocalyptic turn](https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn)
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
+- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
+- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
