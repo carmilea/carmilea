@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
-- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
-- [Dumbphone 2](https://dumb.co/)
-- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
-- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- [AccessOwl &lpar;YC S22&rpar; is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
+- [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
+- [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
+- [The Hi-Tech Data Convergence Migration Playbook: Field Examples and How to Start](https://www.singlestore.com/blog/hitech-data-convergence-migration-playbook)
+- [Show HN: Uruky &lpar;EU-based Kagi alternative&rpar; now has Image Search and URL Rewrites](https://uruky.com/?il=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
