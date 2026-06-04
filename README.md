@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Optimizing ML Models for Business ROI with H2O Driverless AI | Part 25](https://www.youtube.com/watch?v=h5gVkQwOe_4)
 - [Automated ML Audit Trails &amp; AutoDoc in H2O Driverless AI | Part 24](https://www.youtube.com/watch?v=YlDksiw45nU)
 - [Get AI Predictions from Your Spreadsheet](https://www.youtube.com/shorts/iSiLAOGbP5w)
 - [Enforcing AI Governance &amp; Compliance on the H2O.ai Platform | Part 23](https://www.youtube.com/watch?v=ojh0lqdFrNw)
 - [Building Visual ML Pipelines to Python with H2O Driverless AI | Part 22](https://www.youtube.com/watch?v=GBGXEN_pVBo)
-- [Conversational ML Workflows via the H2O AI Super Agent in Enterprise h2oGPTe | Part 21](https://www.youtube.com/watch?v=NDjaggCcJFU)
 <!-- YOUTUBE:END -->
 
 
