@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Employees Internally Share Memes About How Its AI Sucks](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
-- [Several Injured in Boeing 787 Nose-Gear Collapse in Frankfurt](https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/)
-- [KVarN: Native vLLM KV-cache quantization back end by Huawei](https://github.com/huawei-csl/KVarN)
-- [Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud](https://boxes.dev)
-- [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
+- [The desperation of NYTimes](https://rozumem.xyz/posts/16)
+- [Zettascale &lpar;YC S24&rpar; Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
+- [12,060 piece, $799.99, Sagrada Família is the largest Lego building set to date](https://www.lego.com/en-us/product/sagrada-familia-21065)
+- [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html)
+- [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
