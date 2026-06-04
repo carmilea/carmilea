@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AccessOwl &lpar;YC S22&rpar; is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
-- [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
-- [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
-- [The Hi-Tech Data Convergence Migration Playbook: Field Examples and How to Start](https://www.singlestore.com/blog/hitech-data-convergence-migration-playbook)
-- [Show HN: Uruky &lpar;EU-based Kagi alternative&rpar; now has Image Search and URL Rewrites](https://uruky.com/?il=en)
+- [Google Employees Internally Share Memes About How Its AI Sucks](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+- [Several Injured in Boeing 787 Nose-Gear Collapse in Frankfurt](https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/)
+- [KVarN: Native vLLM KV-cache quantization back end by Huawei](https://github.com/huawei-csl/KVarN)
+- [Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud](https://boxes.dev)
+- [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
