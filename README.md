@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NSA using Anthropic&#39;s Mythos for cyber attacks](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815)
+- [Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed](https://github.com/schildep/verified-polygon-intersection)
+- [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
+- [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06)
+- [Show HN: Mercek – A Desktop IDE for AWS ECS](https://www.mercek.dev/)
 - [Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads&lpar;WASM&rpar;](https://github.com/tejaswigowda/ffmpeg-webCLI)
-- [Iran Shock Jolts Asia and Europe to Speed Up Energy Transition](https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/)
-- [Anthropic&#39;s open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
