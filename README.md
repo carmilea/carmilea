@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
-- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-- [There&#39;s no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
-- [Fine-tuning an LLM to write docs like it&#39;s 1995](https://passo.uno/fine-tuning-docs-llm/)
-- [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)
+- [Nango &lpar;YC W23, dev infra&rpar; is hiring staff back end engineers](https://nango.dev/careers)
+- [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
+- [We spent $50 to measure Pearl&#39;s &quot;AI mining&quot; – 320K GPUs produce zero AI](https://arxiv.org/abs/2606.04819)
+- [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
+- [Ask HN: Is the web for machines &lpar;/llm.txt&rpar; the one we wished we had as humans?](https://news.ycombinator.com/item?id=48410589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
