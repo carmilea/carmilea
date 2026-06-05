@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Linux 4.0 is Microsoft&#39;s first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
-- [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid)
-- [Delacroix&#39;s Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
-- [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)
-- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+- [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
+- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+- [There&#39;s no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
+- [Fine-tuning an LLM to write docs like it&#39;s 1995](https://passo.uno/fine-tuning-docs-llm/)
+- [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
