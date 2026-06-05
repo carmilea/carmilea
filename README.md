@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare CEO Is Lying to You About the Bot Traffic Jump](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/)
-- [Sakana AI&#39;s Recursive Self-Improvement &lpar;RSI&rpar; Lab](https://sakana.ai/rsi-lab/)
+- [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+- [Accidentally deleted subscriptions for chat integrations &lpar;Slack and MS Teams&rpar;](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
+- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+- [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
 - [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
-- [Mantine-datatable &lpar;and others&rpar; compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813)
-- [Launch HN: General Instinct &lpar;YC P26&rpar; – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
