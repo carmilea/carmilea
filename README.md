@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nango &lpar;YC W23, dev infra&rpar; is hiring staff back end engineers](https://nango.dev/careers)
-- [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
-- [We spent $50 to measure Pearl&#39;s &quot;AI mining&quot; – 320K GPUs produce zero AI](https://arxiv.org/abs/2606.04819)
-- [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
-- [Ask HN: Is the web for machines &lpar;/llm.txt&rpar; the one we wished we had as humans?](https://news.ycombinator.com/item?id=48410589)
+- [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
+- [Ask HN: What is your &lpar;AI&rpar; dev tech stack / workflow? &lpar;June 2026&rpar;](https://news.ycombinator.com/item?id=48413629)
+- [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [Dutch gov&#39;t will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
+- [Technical Interviews Reject the Wrong Engineers](https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
