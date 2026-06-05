@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
-- [Ask HN: What is your &lpar;AI&rpar; dev tech stack / workflow? &lpar;June 2026&rpar;](https://news.ycombinator.com/item?id=48413629)
-- [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
-- [Dutch gov&#39;t will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
-- [Technical Interviews Reject the Wrong Engineers](https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e)
+- [Cloudflare CEO Is Lying to You About the Bot Traffic Jump](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/)
+- [Sakana AI&#39;s Recursive Self-Improvement &lpar;RSI&rpar; Lab](https://sakana.ai/rsi-lab/)
+- [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
+- [Mantine-datatable &lpar;and others&rpar; compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813)
+- [Launch HN: General Instinct &lpar;YC P26&rpar; – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
