@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed](https://github.com/schildep/verified-polygon-intersection)
-- [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
-- [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06)
-- [Show HN: Mercek – A Desktop IDE for AWS ECS](https://www.mercek.dev/)
-- [Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads&lpar;WASM&rpar;](https://github.com/tejaswigowda/ffmpeg-webCLI)
+- [Azure Linux 4.0 is Microsoft&#39;s first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
+- [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid)
+- [Delacroix&#39;s Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
+- [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
