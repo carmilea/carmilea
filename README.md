@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+- [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)
+- [Warren&#39;s Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 - [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 - [Accidentally deleted subscriptions for chat integrations &lpar;Slack and MS Teams&rpar;](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
-- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
-- [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
-- [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 <!-- BLOG-POST-LIST:END -->
 
 ---
