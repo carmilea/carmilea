@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+- [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)
+- [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
 - [Mbodi AI &lpar;YC P25&rpar; Is Hiring Founding Machine Learning Engineer &lpar;Robotics&rpar;](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
-- [There&#39;s still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/)
-- [Do Women&#39;s Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
-- [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)
-- [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+- [Pokemon Emerald Ported to WebAssembly &lpar;100k FPS&rpar;](https://pokeemerald.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
