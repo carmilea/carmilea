@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+- [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
-- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
-- [Moving beyond fork&lpar;&rpar; + exec&lpar;&rpar;](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
