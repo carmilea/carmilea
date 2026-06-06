@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
-- [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)
-- [Warren&#39;s Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
-- [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
-- [Accidentally deleted subscriptions for chat integrations &lpar;Slack and MS Teams&rpar;](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
+- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
+- [The intracies of modern camera lens repair &lpar;2024&rpar;](https://salvagedcircuitry.com/sigma-45mm.html)
+- [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
+- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
