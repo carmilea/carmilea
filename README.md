@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
-- [AI didn&#39;t break the web. The dotcons did – AI just turned up the volume](https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/)
+- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
+- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
 - [Moving beyond fork&lpar;&rpar; + exec&lpar;&rpar;](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
-- [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
-- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
