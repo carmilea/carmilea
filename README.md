@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
 - [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
-- [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
-- [The intracies of modern camera lens repair &lpar;2024&rpar;](https://salvagedcircuitry.com/sigma-45mm.html)
-- [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
-- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
+- [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
+- [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
 <!-- BLOG-POST-LIST:END -->
 
 ---
