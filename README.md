@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+- [DoD Officially Drops 180 Faiths from Military&#39;s Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list)
+- [Show HN: Ironwall, a safety-first native programming language and compiler](https://news.ycombinator.com/item?id=48430077)
+- [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
 - [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
-- [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
-- [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
-- [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
+- [Computex 2026: Are We Heading for the Agentic PC Era Yet?](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
