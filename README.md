@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
 - [Why isn&#39;t the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
 - [How&#39;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
-- [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
-- [Building from Zero After Addiction, Prison, and a Felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 <!-- BLOG-POST-LIST:END -->
 
 ---
