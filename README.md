@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
+- [Proliferate &lpar;YC S25&rpar; is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+- [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
 - [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
-- [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
-- [Podman 6: machine usability improvements](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
-- [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
-- [LLMs are eroding my software engineering career and I don&#39;t know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+- [Podman 6: machine usability improvements &lpar;2025&rpar;](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
