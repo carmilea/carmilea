@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
+- [LLMs are eroding my software engineering career and I don&#39;t know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+- [9 Mothers &lpar;YC P26&rpar; Is Hiring](https://9mothers.com/careers)
 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
 - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
-- [The 29th International Obfuscated C Code Contest &lpar;IOCCC&rpar; 2025 Winners](https://www.ioccc.org/2025/)
-- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
