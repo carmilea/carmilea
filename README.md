@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
-- [Proliferate &lpar;YC S25&rpar; is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
-- [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
-- [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
-- [Podman 6: machine usability improvements &lpar;2025&rpar;](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
+- [Why isn&#39;t the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
+- [How&#39;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
+- [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
+- [Building from Zero After Addiction, Prison, and a Felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 <!-- BLOG-POST-LIST:END -->
 
 ---
