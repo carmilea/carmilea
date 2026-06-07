@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
+- [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
+- [Podman 6: machine usability improvements](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
 - [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
 - [LLMs are eroding my software engineering career and I don&#39;t know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
-- [9 Mothers &lpar;YC P26&rpar; Is Hiring](https://9mothers.com/careers)
-- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
-- [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
