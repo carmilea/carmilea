@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow, if it&#39;s this easy in 1998, I bet it&#39;ll be even easier in 2026](https://retro.social/@ifixcoinops/116711332505710610)
-- [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
-- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
+- [Replies to comments on my &quot;LLMs are eroding my career&quot; post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
+- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+- [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
+- [The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
+- [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
