@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
-- [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
-- [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
-- [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
+- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [FrontierCode](https://cognition.ai/blog/frontier-code)
+- [I&#39;m building a parallel internet, and it&#39;s called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+- [Surveillance Is Not Safety: A statement on the UK&#39;s latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
