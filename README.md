@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replies to comments on my &quot;LLMs are eroding my career&quot; post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
-- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
-- [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
-- [The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
-- [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
+- [Proton is funding the French far right on YouTube](https://old.reddit.com/r/degoogle/comments/1tzbizh/proton_is_funding_the_french_far_right_on_youtube)
+- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
+- [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
+- [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
+- [A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
