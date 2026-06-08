@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
+- [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
+- [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
+- [Flock Safety Price List [pdf]](https://www.omniapartners.com/suppliers-files/E-J/Flock_Safety/Contract_Documents/R250203/5_29_2025_Flock_Safety_Omnia__R250203_Price_List.pdf)
 - [Why isn&#39;t the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
 - [How&#39;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
-- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 <!-- BLOG-POST-LIST:END -->
 
 ---
