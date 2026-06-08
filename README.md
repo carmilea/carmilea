@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
-- [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
-- [Flock Safety Price List [pdf]](https://www.omniapartners.com/suppliers-files/E-J/Flock_Safety/Contract_Documents/R250203/5_29_2025_Flock_Safety_Omnia__R250203_Price_List.pdf)
-- [Why isn&#39;t the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
-- [How&#39;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+- [Wow, if it&#39;s this easy in 1998, I bet it&#39;ll be even easier in 2026](https://retro.social/@ifixcoinops/116711332505710610)
+- [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
