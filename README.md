@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
-- [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
-- [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
-- [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [Emerge Career &lpar;YC S22&rpar; Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+- [Making Graphics Like it&#39;s 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+- [The iPhone&#39;s Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
+- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
+- [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
