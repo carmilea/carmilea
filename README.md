@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brexit Ten Years On: The Economy](https://ukandeu.ac.uk/brexit-ten-years-on-the-economy/)
-- [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
-- [The LD_DEBUG environment variable &lpar;2012&rpar;](https://bnikolic.co.uk/blog/linux-ld-debug.html)
-- [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
-- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- [If Claude Fable stops helping you, you&#39;ll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
+- [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
+- [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
+- [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+- [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
