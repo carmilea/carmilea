@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers&#39; IDs](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/)
-- [Using Optical Aberrations to Distinguish Real Astronomical Transients](https://arxiv.org/abs/2606.08319)
-- [Solar Energy Saves Europeans $135M a Day](https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/)
-- [Can LLMs Beat Classical Hyperparameter Optimization Algorithms?](https://arxiv.org/abs/2603.24647)
-- [Unified Controllable and Faithful Text-to-CAD Generation with LLMs](https://arxiv.org/abs/2604.19773)
+- [Brexit Ten Years On: The Economy](https://ukandeu.ac.uk/brexit-ten-years-on-the-economy/)
+- [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
+- [The LD_DEBUG environment variable &lpar;2012&rpar;](https://bnikolic.co.uk/blog/linux-ld-debug.html)
+- [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
