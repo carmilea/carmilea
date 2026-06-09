@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge Career &lpar;YC S22&rpar; Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
-- [Making Graphics Like it&#39;s 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-- [The iPhone&#39;s Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
-- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
-- [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
+- [FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers&#39; IDs](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/)
+- [Using Optical Aberrations to Distinguish Real Astronomical Transients](https://arxiv.org/abs/2606.08319)
+- [Solar Energy Saves Europeans $135M a Day](https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/)
+- [Can LLMs Beat Classical Hyperparameter Optimization Algorithms?](https://arxiv.org/abs/2603.24647)
+- [Unified Controllable and Faithful Text-to-CAD Generation with LLMs](https://arxiv.org/abs/2604.19773)
 <!-- BLOG-POST-LIST:END -->
 
 ---
