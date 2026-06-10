@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
-- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
-- [The Dynamo and the Computer: The Modern Productivity Paradox &lpar;1989&rpar; [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
-- [Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely](https://www.matteast.io/spacex-escape-velocity.html)
-- [GeoLibre 1.0](https://geolibre.app/)
+- [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)
+- [What Is It Like to Be a Bat? [pdf] &lpar;1974&rpar;](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
+- [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
+- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
+- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
