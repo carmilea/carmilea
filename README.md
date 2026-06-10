@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If Claude Fable stops helping you, you&#39;ll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-- [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
-- [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
-- [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-- [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
+- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+- [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- [It&#39;s death](https://jesseduffield.com/ITS-DEATH/)
+- [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
