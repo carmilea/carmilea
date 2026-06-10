@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
-- [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
-- [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
-- [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
-- [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
+- [The Last Evolution, by John W Campbell Jr. &lpar;1932&rpar;](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
+- [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
+- [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
+- [US Consumer Price Index up 4.2%](https://www.bls.gov/news.release/cpi.nr0.htm)
+- [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
