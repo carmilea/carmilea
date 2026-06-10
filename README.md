@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
+- [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
 - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
 - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
-- [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
 - [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
-- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
