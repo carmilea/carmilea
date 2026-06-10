@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Evolution, by John W Campbell Jr. &lpar;1932&rpar;](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
-- [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
-- [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
-- [US Consumer Price Index up 4.2%](https://www.bls.gov/news.release/cpi.nr0.htm)
-- [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
+- [Anthropic&#39;s Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
+- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
+- [The Dynamo and the Computer: The Modern Productivity Paradox &lpar;1989&rpar; [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+- [Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely](https://www.matteast.io/spacex-escape-velocity.html)
+- [GeoLibre 1.0](https://geolibre.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
