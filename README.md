@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
-- [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
-- [Waymo Premier](https://waymo.com/blog/2026/06/waymo-premier/)
-- [The RCE that AMD wouldn&#39;t fix](https://mrbruh.com/amd2/)
-- [Petition to Withdraw Canada&#39;s Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
+- [I stopped tracking my time. Now I can&#39;t focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
+- [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
+- [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+- [Who Runs the Ransomware Group &#39;The Gentlemen?&#39;](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+- [Apple didn&#39;t revolutionize power supplies; new transistors did &lpar;2012&rpar;](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
