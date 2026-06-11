@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
-- [Why AI hasn&#39;t replaced software engineers, and won&#39;t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
-- [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
-- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
+- [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
+- [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
+- [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)
+- [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
