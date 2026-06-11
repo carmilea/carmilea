@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)
-- [What Is It Like to Be a Bat? [pdf] &lpar;1974&rpar;](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-- [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
-- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
-- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
+- [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
+- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
+- [What is it like to be a bat? &lpar;1974&rpar; [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
