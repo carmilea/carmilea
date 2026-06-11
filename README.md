@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
-- [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
-- [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
-- [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)
-- [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
+- [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
+- [Waymo Premier](https://waymo.com/blog/2026/06/waymo-premier/)
+- [The RCE that AMD wouldn&#39;t fix](https://mrbruh.com/amd2/)
+- [Petition to Withdraw Canada&#39;s Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
