@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped tracking my time. Now I can&#39;t focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
-- [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
-- [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
-- [Who Runs the Ransomware Group &#39;The Gentlemen?&#39;](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
-- [Apple didn&#39;t revolutionize power supplies; new transistors did &lpar;2012&rpar;](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- [If You Are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [OpenAI Prepping for On-Prem Product?](https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/)
+- [The unreasonable effectiveness of simple HTML &lpar;2021&rpar;](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+- [Why I&#39;m Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
