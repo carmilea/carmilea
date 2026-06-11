@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI mulls slashing prices as it competes with Anthropic for users](https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html)
+- [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
 - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 - [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
 - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
-- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [What is it like to be a bat? &lpar;1974&rpar; [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
