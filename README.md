@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
-- [OpenAI Prepping for On-Prem Product?](https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/)
-- [The unreasonable effectiveness of simple HTML &lpar;2021&rpar;](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-- [Why I&#39;m Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
+- [Removing &#39;um&#39; from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
+- [Nobody ever gets credit for fixing problems that never happened &lpar;2001&rpar; [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
