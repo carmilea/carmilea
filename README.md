@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hazel &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-- [Maxproof](https://arxiv.org/abs/2606.13473)
-- [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
-- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
-- [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
+- [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
+- [Keygen.music](https://keygen.music)
+- [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
+- [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/)
+- [CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
