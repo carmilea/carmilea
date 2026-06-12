@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
-- [Keygen.music](https://keygen.music)
-- [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
-- [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/)
-- [CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
+- [I Won&#39;t Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
+- [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+- [&quot;Don&#39;t You Just Upload It to ChatGPT?&quot;](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
