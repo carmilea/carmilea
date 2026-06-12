@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
-- [I Won&#39;t Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
-- [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
-- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
-- [&quot;Don&#39;t You Just Upload It to ChatGPT?&quot;](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
+- [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
+- [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
+- [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
+- [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+- [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
