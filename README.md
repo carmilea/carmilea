@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
 - [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
-- [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
-- [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
-- [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
