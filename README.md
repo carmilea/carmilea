@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
-- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
-- [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
-- [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
-- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
+- [An Interview with Intel&#39;s Kira Boyko: Xeon 6&#39;s Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+- [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal)
+- [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
+- [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
+- [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
