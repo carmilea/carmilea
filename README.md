@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
-- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
-- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
-- [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
-- [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
+- [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163)
+- [We&#39;ve suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 <!-- BLOG-POST-LIST:END -->
 
 ---
