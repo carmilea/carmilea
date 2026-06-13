@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
+- [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
+- [Treating pancreatic tumours may have revealed cancer&#39;s master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
+- [Introduction to the experience of rendering Arabic typography&amp;its technical debt](https://lr0.org/blog/p/arabic/)
 - [An Interview with Intel&#39;s Kira Boyko: Xeon 6&#39;s Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
-- [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal)
-- [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
-- [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
-- [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
