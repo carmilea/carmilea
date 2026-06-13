@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Verso – A $14.99 Mac word processor with no subscription](https://www.versowriter.app)
-- [Amazon CEO&#39;s Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
-- [The adder at the heart of Intel&#39;s 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
-- [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
-- [GLM 5.2 Is Out](https://digg.com/tech/ii9xibgn)
+- [Texas is America Inc&#39;s new centre of gravity](https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity)
+- [What Happens to an Economy When It&#39;s Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
+- [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
+- [GameBoy Workboy](https://tcrf.net/Workboy)
+- [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
