@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
-- [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
-- [Treating pancreatic tumours may have revealed cancer&#39;s master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
-- [Introduction to the experience of rendering Arabic typography&amp;its technical debt](https://lr0.org/blog/p/arabic/)
-- [An Interview with Intel&#39;s Kira Boyko: Xeon 6&#39;s Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+- [Show HN: Verso – A $14.99 Mac word processor with no subscription](https://www.versowriter.app)
+- [Amazon CEO&#39;s Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+- [The adder at the heart of Intel&#39;s 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
+- [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+- [GLM 5.2 Is Out](https://digg.com/tech/ii9xibgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
