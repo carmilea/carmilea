@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
-- [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
-- [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163)
-- [We&#39;ve suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
-- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
+- [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
+- [Shepherd&#39;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
