@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas is America Inc&#39;s new centre of gravity](https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity)
+- [Police officer investigated for using AI to &#39;create evidence&#39; in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 - [What Happens to an Economy When It&#39;s Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
 - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
 - [GameBoy Workboy](https://tcrf.net/Workboy)
-- [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
+- [Amazon CEO&#39;s talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
