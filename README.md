@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
-- [Don&#39;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
-- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-- [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
-- [Pac-Man, but you&#39;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- [UK set to announce social media ban for under-16s](https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132)
+- [Dangerous hormone-disrupting chemicals found in US breast milk samples](https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals)
+- [A &#39;cold blob&#39; in the Atlantic could be a sign of AMOC shutdown – CNN](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
+- [Rio de Janeiro&#39;s city government model Rio3.5 beats Qwen3.7 in recent benchmarks](https://twitter.com/zenmagnets/status/2065796012820848699)
+- [Extinction-Level Capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
