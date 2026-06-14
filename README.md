@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
 - [Don&#39;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+- [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
 - [Pac-Man, but you&#39;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-- [Software Architecture Guide &lpar;2019&rpar;](https://martinfowler.com/architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
