@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
 - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [FTX&#39;s former Anthropic stake would be worth about $75B at today&#39;s valuation](https://news.ycombinator.com/item?id=48529190)
-- [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
+- [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
 - [Ask HN: What are you working on? &lpar;June 2026&rpar;](https://news.ycombinator.com/item?id=48528779)
-- [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
 <!-- BLOG-POST-LIST:END -->
 
 ---
