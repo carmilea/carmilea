@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)
-- [ReactOS &lpar;FOSS &quot;Windows&quot;&rpar; achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-- [Derbyshire Police officer accused of using AI to &#39;create evidence&#39;](https://www.bbc.com/news/articles/cy8wppwdxl6o)
-- [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
-- [Police officer investigated for using AI to &#39;create evidence&#39; in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+- [Tribblix: the retro illumos distribution](http://tribblix.org/)
+- [Pac-Man, but You&#39;re the Ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
+- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
