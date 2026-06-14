@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
+- [Chaosnet &lpar;1981&rpar;](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
 - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
-- [Ask HN: What are you working on? &lpar;June 2026&rpar;](https://news.ycombinator.com/item?id=48528779)
+- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
