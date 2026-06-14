@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tribblix: the retro illumos distribution](http://tribblix.org/)
-- [Pac-Man, but You&#39;re the Ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-- [Software Architecture Guide](https://martinfowler.com/architecture/)
-- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
-- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
+- [Don&#39;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
+- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
+- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+- [Pac-Man, but you&#39;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- [Software Architecture Guide &lpar;2019&rpar;](https://martinfowler.com/architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
