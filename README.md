@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
-- [Chaosnet &lpar;1981&rpar;](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
-- [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
-- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
+- [US and Iran announce deal to end military operations](https://www.bbc.com/news/live/cj0grpyg4v1t)
+- [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this)
+- [Why Is Claude Turning into an a**Hole?](https://bramcohen.com/p/why-is-claude-turning-into-an-asshole)
+- [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
+- [AI is code – and can&#39;t be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
