@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
-- [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz)
-- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
-- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
-- [Dalus &lpar;YC W25&rpar; Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
+- [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
+- [Launch HN: Drafted &lpar;YC P26&rpar; – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
+- [TinyWind: A pixel pirate sailing game with real wind physics &lpar;380k+ kms sailed&rpar;](https://tinywind.io)
+- [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
+- [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
