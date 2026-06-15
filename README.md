@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-- [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)
-- [21 years and counting of &#39;eight fallacies of distributed computing&#39; &lpar;2025&rpar;](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
+- [Anthropic&#39;s Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
+- [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz)
+- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
+- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
+- [Dalus &lpar;YC W25&rpar; Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
 <!-- BLOG-POST-LIST:END -->
 
 ---
