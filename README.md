@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
-- [Launch HN: Drafted &lpar;YC P26&rpar; – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
-- [TinyWind: A pixel pirate sailing game with real wind physics &lpar;380k+ kms sailed&rpar;](https://tinywind.io)
-- [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
-- [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
+- [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
+- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+- [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
+- [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/)
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
