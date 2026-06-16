@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-- [San Francisco Weighs PG&amp;E Takeover Amid Soaring Utility Costs](https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different)
-- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
-- [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
-- [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
+- [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+- [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
+- [Humanity isn&#39;t ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)
+- [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
+- [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
