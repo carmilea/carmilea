@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
-- [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)
-- [Feds freaked over Fable 5 after simple &#39;fix this code&#39; prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
-- [Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/)
-- [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
+- [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+- [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/)
+- [Never talk to the police](https://www.campolalaw.com/why-you-should-never-talk-to-the-po)
+- [GateGPT: 56k tokens per second Transformer &lpar;KV cache&rpar; on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209)
+- [Apple&#39;s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
