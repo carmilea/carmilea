@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
-- [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/)
-- [Never talk to the police](https://www.campolalaw.com/why-you-should-never-talk-to-the-po)
-- [GateGPT: 56k tokens per second Transformer &lpar;KV cache&rpar; on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209)
-- [Apple&#39;s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
+- [Frood, an Alpine Initramfs NAS](https://words.filippo.io/frood/)
+- [Nobody clicks share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
+- [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)
+- [U.S. pulling ocean sensors a &#39;shock&#39; for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
+- [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
