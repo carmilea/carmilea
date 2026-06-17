@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
-- [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
-- [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
-- [The Competitive Moat That AI Can&#39;t Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
-- [Trellis AI &lpar;YC W24&rpar;  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+- [The &lpar;real&rpar; dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
+- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
+- [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
+- [Tesco moving 40k server workloads off VMware amid Broadcom&#39;s abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
+- [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
