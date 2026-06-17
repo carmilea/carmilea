@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+- [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
+- [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
+- [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
 - [The Competitive Moat That AI Can&#39;t Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
-- [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
 - [Trellis AI &lpar;YC W24&rpar;  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
-- [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
