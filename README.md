@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
-- [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
-- [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
-- [Epic Games announces Lore version control system](https://lore.org/)
-- [Pentagon boasts of using AI to write reports mandated by Congress &lpar;1.5mil users&rpar;](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
+- [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+- [The Competitive Moat That AI Can&#39;t Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
+- [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
+- [Trellis AI &lpar;YC W24&rpar;  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+- [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
