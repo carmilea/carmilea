@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
-- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
-- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
-- [Hacker News but for Independent Blogs](https://bubbles.town/)
-- [GLM 5.2 Performance Benchmarks](https://artificialanalysis.ai/models/glm-5-2)
+- [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
+- [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
+- [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
+- [Epic Games announces Lore version control system](https://lore.org/)
+- [Pentagon boasts of using AI to write reports mandated by Congress &lpar;1.5mil users&rpar;](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
