@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
-- [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
-- [A website that lists websites to submit your website to](https://www.submission.directory/)
-- [Launch HN: TesterArmy &lpar;YC P26&rpar; – Agents that test web and mobile apps](https://tester.army)
-- [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
+- [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
+- [The Token Compression Illusion: Why I&#39;m Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+- [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
+- [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
+- [TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
