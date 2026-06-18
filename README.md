@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
-- [The Token Compression Illusion: Why I&#39;m Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
-- [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
-- [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
-- [TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+- [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
+- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
+- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
