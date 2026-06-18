@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
-- [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
-- [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
-- [Emacs 31 Is Around the Corner: The Changes I&#39;m Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
-- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+- [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
+- [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
+- [A website that lists websites to submit your website to](https://www.submission.directory/)
+- [Launch HN: TesterArmy &lpar;YC P26&rpar; – Agents that test web and mobile apps](https://tester.army)
+- [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
