@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
-- [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
-- [War Books: The Marine Corps Commandant&#39;s 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
-- [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
-- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+- [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
+- [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+- [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
+- [Emacs 31 Is Around the Corner: The Changes I&#39;m Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
