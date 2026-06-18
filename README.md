@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &lpar;real&rpar; dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
-- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
-- [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
-- [Tesco moving 40k server workloads off VMware amid Broadcom&#39;s abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
-- [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
+- [Nim Conf 2026 &lpar;Online, Sat June 20&rpar;](https://conf.nim-lang.org/)
+- [Local Qwen isn&#39;t a worse Opus, it&#39;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+- [[x86] AI Compute Extensions &lpar;ACE&rpar; Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
+- [Show HN: Local personal data redaction for any AI tools](https://github.com/sophia486/pii-gui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
