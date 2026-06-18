@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nim Conf 2026 &lpar;Online, Sat June 20&rpar;](https://conf.nim-lang.org/)
-- [Local Qwen isn&#39;t a worse Opus, it&#39;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-- [[x86] AI Compute Extensions &lpar;ACE&rpar; Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-- [Show HN: Local personal data redaction for any AI tools](https://github.com/sophia486/pii-gui)
+- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
+- [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
+- [War Books: The Marine Corps Commandant&#39;s 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
+- [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
+- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
 <!-- BLOG-POST-LIST:END -->
 
 ---
