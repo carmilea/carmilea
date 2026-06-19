@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
-- [The ISA Doesn&#39;t Matter Where It Counts](https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts)
-- [Generative AI Is Having Its Herbalife Moment](https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife)
-- [DARPA Heavy Life Challenge](https://www.darpa.mil/research/challenges/lift)
-- [Many Let&#39;s Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
+- [Ice water drowning survival of young patient &lpar;2025&rpar;](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
