@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
-- [Flexport &lpar;YC W14&rpar; Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-- [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
-- [How Smashing The NIMBYs Created Modern Capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)
-- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- [The ISA Doesn&#39;t Matter Where It Counts](https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts)
+- [Generative AI Is Having Its Herbalife Moment](https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife)
+- [DARPA Heavy Life Challenge](https://www.darpa.mil/research/challenges/lift)
+- [Many Let&#39;s Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
