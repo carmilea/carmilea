@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
-- [Companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
-- [Big Banana Car](https://bigbananacar.com/)
-- [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
-- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+- [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
+- [Americans express unease over SpaceX&#39;s influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)
+- [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
+- [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+- [Think of the Children: How to Force Real ID for All Internet Traffic &lpar;2023&rpar;](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
