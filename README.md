@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
-- [Is AI ruining our skills? Early results are in – and they&#39;re not good](https://www.nature.com/articles/d41586-026-01947-1)
-- [Windows 11 update broke the Recycle Bin, OneDrive, and your PC&#39;s stability](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
+- [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
+- [Companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+- [Big Banana Car](https://bigbananacar.com/)
+- [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
 - [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-- [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
