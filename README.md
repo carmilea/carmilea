@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+- [Flexport &lpar;YC W14&rpar; Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+- [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
+- [How Smashing The NIMBYs Created Modern Capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)
 - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-- [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
-- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
-- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
-- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
