@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sogen Kato](https://en.wikipedia.org/wiki/Sogen_Kato)
-- [DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
-- [Cargo-Geiger](https://github.com/geiger-rs/cargo-geiger)
-- [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
-- [US Scientist John Jumper to Leave Google DeepMind for Anthropic](https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
+- [Agency stole bestselling author&#39;s book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
+- [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
+- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
+- [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 <!-- BLOG-POST-LIST:END -->
 
 ---
