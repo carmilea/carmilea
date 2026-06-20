@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
+- [Hey, n00b, we didn&#39;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- [Aikido Code Audit](https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase)
 - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
-- [Americans express unease over SpaceX&#39;s influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)
 - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
-- [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
-- [Think of the Children: How to Force Real ID for All Internet Traffic &lpar;2023&rpar;](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
