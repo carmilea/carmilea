@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-- [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
 - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
 - [Where to Find the Colors Your Screen Can&#39;t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
-- [Hey, n00b, we didn&#39;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
