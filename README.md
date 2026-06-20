@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From PGP to Mythos: a brief history of export controls that didn&#39;t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
-- [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
-- [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
-- [CSSQuake](https://cssquake.com/)
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+- [Sogen Kato](https://en.wikipedia.org/wiki/Sogen_Kato)
+- [DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
+- [Cargo-Geiger](https://github.com/geiger-rs/cargo-geiger)
+- [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
+- [US Scientist John Jumper to Leave Google DeepMind for Anthropic](https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
