@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
-- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
-- [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
-- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
-- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+- [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
+- [David Ahl&#39;s Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
+- [Foreign-Born Entrepreneurs Drive America&#39;s Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
+- [Beyond All Reason &lpar;Free Total Annihilation Inspired RTS&rpar;](https://www.beyondallreason.info)
+- [The case against geometric algebra &lpar;2024&rpar;](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
