@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
-- [Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
-- [Alice. Alice Is Impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
-- [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
-- [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
+- [Show HN: Submarius – Global water clarity for divers](https://submarius.com)
+- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
+- [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
