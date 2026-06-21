@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Submarius – Global water clarity for divers](https://submarius.com)
-- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
-- [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-- [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
-- [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
+- [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+- [Developers don&#39;t understand CORS &lpar;2019&rpar;](https://fosterelli.co/developers-dont-understand-cors)
+- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
