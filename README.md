@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+- [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
+- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
-- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
-- [Developers don&#39;t understand CORS &lpar;2019&rpar;](https://fosterelli.co/developers-dont-understand-cors)
-- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
