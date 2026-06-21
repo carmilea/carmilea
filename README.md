@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;How to Write a &lpar;Lisp&rpar; Interpreter &lpar;In Python&rpar;&rpar;](https://norvig.com/lispy.html)
-- [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
-- [Who Owns Your ATProto Identity? Hint: It&#39;s Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
-- [David Ahl&#39;s Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
-- [Beyond All Reason &lpar;Free Total Annihilation Inspired RTS&rpar;](https://www.beyondallreason.info)
+- [Health insurance claim denial rates range from 13% to 35% by insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)
+- [Wildcard &lpar;YC W25&rpar; is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
+- [Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
+- [The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit)
+- [The early hiring funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
