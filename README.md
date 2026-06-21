@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
-- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
-- [Wildcard &lpar;YC W25&rpar; is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
-- [Burnout is real for open source maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
-- [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit)
+- [FDA advisors unanimously vote to approve Moderna&#39;s mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [PowerFox Browser](https://powerfox.jazzzny.me/)
+- [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
+- [Stop wasting tokens and re explaining your project between sessions](https://github.com/raiyanyahya/recall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
