@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Health insurance claim denial rates range from 13% to 35% by insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)
+- [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
+- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 - [Wildcard &lpar;YC W25&rpar; is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
-- [Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
-- [The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit)
-- [The early hiring funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
+- [Burnout is real for open source maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
+- [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
