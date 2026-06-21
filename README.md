@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
+- [&lpar;How to Write a &lpar;Lisp&rpar; Interpreter &lpar;In Python&rpar;&rpar;](https://norvig.com/lispy.html)
+- [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
+- [Who Owns Your ATProto Identity? Hint: It&#39;s Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
 - [David Ahl&#39;s Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
-- [Foreign-Born Entrepreneurs Drive America&#39;s Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
 - [Beyond All Reason &lpar;Free Total Annihilation Inspired RTS&rpar;](https://www.beyondallreason.info)
-- [The case against geometric algebra &lpar;2024&rpar;](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
