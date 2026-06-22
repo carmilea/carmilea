@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
+- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
+- [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
+- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
 - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
-- [Sakana Fugu](https://sakana.ai/fugu/)
-- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
-- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
