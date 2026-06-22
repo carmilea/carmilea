@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
-- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- [FDA advisors unanimously vote to approve Moderna&#39;s mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
+- [Sakana Fugu](https://sakana.ai/fugu/)
+- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
