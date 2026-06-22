@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
+- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 - [FDA advisors unanimously vote to approve Moderna&#39;s mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
 - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
-- [PowerFox Browser](https://powerfox.jazzzny.me/)
-- [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
-- [Stop wasting tokens and re explaining your project between sessions](https://github.com/raiyanyahya/recall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
