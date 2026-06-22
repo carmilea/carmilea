@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 - [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
-- [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
+- [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
+- [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
