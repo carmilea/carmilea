@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
-- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
-- [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
-- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+- [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)
+- [Steam Machine](https://store.steampowered.com/hardware/steammachine)
+- [Blogger Defeats Photographer&#39;s Copyright Claim-Sokolskyfilm vs. Messiah](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
+- [Tata Electronics cyber breach claiming to expose Apple, Tesla trade secrets](https://www.yahoo.com/news/world/articles/indias-tata-electronics-hit-cyber-153155513.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
