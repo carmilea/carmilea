@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-- [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)
-- [Steam Machine](https://store.steampowered.com/hardware/steammachine)
-- [Blogger Defeats Photographer&#39;s Copyright Claim-Sokolskyfilm vs. Messiah](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
-- [Tata Electronics cyber breach claiming to expose Apple, Tesla trade secrets](https://www.yahoo.com/news/world/articles/indias-tata-electronics-hit-cyber-153155513.html)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+- [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
+- [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
+- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
+- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
