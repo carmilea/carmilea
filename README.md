@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)
-- [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
-- [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
-- [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
-- [The Traditional Vi](https://ex-vi.sourceforge.net/)
+- [AI&#39;s Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+- [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
+- [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
+- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
+- [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
