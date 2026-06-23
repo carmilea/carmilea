@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scars mark Britain&#39;s economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
+- [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
+- [United Wizards of the Coast recognized by NLRB](https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union)
+- [ATProto Permissioned Data Proposal Draft](https://github.com/bluesky-social/proposals/pull/94)
+- [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
 - [Don&#39;t verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
-- [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
-- [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black &amp; 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
-- [Jerry&#39;s Map](http://www.jerrysmap.com/the-map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
