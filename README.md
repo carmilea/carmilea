@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+- [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
+- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
 - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
-- [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
-- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
-- [SpaceX sheds $400B in market value as debut rally hits reverse](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
