@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
-- [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)
-- [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
-- [Mark Zuckerberg directed meta to create a prediction markets app](https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html)
-- [San Diego photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
+- [Scars mark Britain&#39;s economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
+- [Don&#39;t verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
+- [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
+- [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black &amp; 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
+- [Jerry&#39;s Map](http://www.jerrysmap.com/the-map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
