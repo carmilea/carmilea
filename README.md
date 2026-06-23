@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
-- [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
-- [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
-- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
+- [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+- [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
+- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+- [SpaceX sheds $400B in market value as debut rally hits reverse](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
