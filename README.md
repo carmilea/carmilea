@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
-- [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
-- [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
-- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
-- [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen)
+- [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
+- [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)
+- [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
+- [Mark Zuckerberg directed meta to create a prediction markets app](https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html)
+- [San Diego photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
