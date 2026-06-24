@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
-- [Security Engineering, Not Just Security Features](https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc)
-- [Slate EV truck starts at $24,950](https://www.slate.auto/en)
-- [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
-- [Founding a company in Germany: €9600, 152 days and I still can&#39;t send an invoice](https://paolino.me/founding-a-company-in-germany/)
+- [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
+- [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
+- [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
+- [Quebec town recognizes trees as living beings with rights](https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634)
+- [Boffin claims Microsoft&#39;s &quot;quantum leap&quot; is invalid due to &quot;basic Python errors&quot;](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
