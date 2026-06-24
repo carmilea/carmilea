@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
-- [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
-- [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
-- [Quebec town recognizes trees as living beings with rights](https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634)
-- [Boffin claims Microsoft&#39;s &quot;quantum leap&quot; is invalid due to &quot;basic Python errors&quot;](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
+- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
+- [Wikipedia Workers to Seek Union Recognition](https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/)
+- [I rewrote PostHog&#39;s SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
