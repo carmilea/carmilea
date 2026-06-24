@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
-- [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
-- [We&#39;re making Bunny DNS free: because a faster internet won&#39;t build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
-- [Ashby &lpar;YC W19&rpar; Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
-- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
+- [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
+- [Security Engineering, Not Just Security Features](https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc)
+- [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+- [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
+- [Founding a company in Germany: €9600, 152 days and I still can&#39;t send an invoice](https://paolino.me/founding-a-company-in-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
