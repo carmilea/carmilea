@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
-- [United Wizards of the Coast recognized by NLRB](https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union)
-- [ATProto Permissioned Data Proposal Draft](https://github.com/bluesky-social/proposals/pull/94)
-- [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
-- [Don&#39;t verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
+- [LineShine Debuts at No. 1 as the TOP500 Enters a New Global Exascale Era](https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/)
+- [Sakana Fugu: a multi-agent system delivered as one model](https://github.com/SakanaAI/fugu)
+- [The war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
+- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
+- [DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)
 <!-- BLOG-POST-LIST:END -->
 
 ---
