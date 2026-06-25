@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Besimple AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
-- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
-- [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+- [The &#39;papers, please&#39; era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
+- [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
+- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
