@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?](https://news.ycombinator.com/item?id=48673801)
-- [Federal agents track down woman, demand she remove Instagram post about ICE](https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html)
-- [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
-- [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
-- [Show HN: Secs-man, a secrets manager you can &lpar;not&rpar; rely on](https://github.com/Fran314/secrets-manager-rs)
+- [Besimple AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
+- [Deno 2.9](https://deno.com/blog/v2.9)
+- [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
+- [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [IBM Debuts First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
