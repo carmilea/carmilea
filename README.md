@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
-- [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
-- [GitHub shouldn&#39;t be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
-- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Ask HN: Where is our profession &lpar;programmer&rpar; going?](https://news.ycombinator.com/item?id=48668199)
+- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
+- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
+- [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
