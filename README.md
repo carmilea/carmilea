@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mad Fucking Witches](https://www.mfw.org.au/)
+- [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
+- [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
+- [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)
 - [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
 - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
-- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
-- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
