@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where is our profession &lpar;programmer&rpar; going?](https://news.ycombinator.com/item?id=48668199)
+- [Mad Fucking Witches](https://www.mfw.org.au/)
+- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
 - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
-- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
-- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
-- [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
