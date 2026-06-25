@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Besimple AI &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
-- [Deno 2.9](https://deno.com/blog/v2.9)
+- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
 - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
-- [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [IBM Debuts First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
