@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Garbage Collection Handbook: The Art of Automatic Memory Management &lpar;2nd Ed&rpar;](https://gchandbook.org/)
-- [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/)
-- [The &#39;papers, please&#39; era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
-- [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
-- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
+- [A data race that doesn&#39;t compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)
+- [Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management &lpar;2nd Ed&rpar; &lpar;2023&rpar;](https://gchandbook.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
