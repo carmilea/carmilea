@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Captcha proves you&#39;re human. HATCHA proves you&#39;re not](https://github.com/mondaycom/HATCHA)
-- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
-- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
-- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
-- [Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
+- [Why have papers by one of history&#39;s most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
+- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
+- [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
+- [We all depend on open source. We will defend it together](https://akrites.org/letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
