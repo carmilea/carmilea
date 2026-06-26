@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
-- [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
+- [Captcha proves you&#39;re human. HATCHA proves you&#39;re not](https://github.com/mondaycom/HATCHA)
 - [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
 - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
+- [Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
