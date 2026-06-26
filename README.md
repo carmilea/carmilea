@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management &lpar;2nd Ed&rpar;](https://gchandbook.org/)
+- [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/)
 - [The &#39;papers, please&#39; era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
 - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
-- [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
-- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
