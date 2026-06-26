@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
+- [Data centers trigger voter backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
-- [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
-- [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
-- [Ask HN: Is &quot;no source code was copied&quot; still a sufficient copyright defense?](https://news.ycombinator.com/item?id=48687769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
