@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
-- [Why have papers by one of history&#39;s most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
-- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
-- [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
-- [We all depend on open source. We will defend it together](https://akrites.org/letter/)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
+- [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
+- [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
+- [Ask HN: Is &quot;no source code was copied&quot; still a sufficient copyright defense?](https://news.ycombinator.com/item?id=48687769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
