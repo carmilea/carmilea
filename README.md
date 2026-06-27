@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)
+- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 - [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
-- [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802)
 - [Anatomy of a Failed &lpar;Nation-State?&rpar; Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
