@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nox Metals &lpar;YC S25&rpar; Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- [Beer CSS – Build material design in record time](https://www.beercss.com)
 - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
-- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
-- [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
-- [Anatomy of a Failed &lpar;Nation-State?&rpar; Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
