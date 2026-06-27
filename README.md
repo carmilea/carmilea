@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)
+- [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
 - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 - [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
