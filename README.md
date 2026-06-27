@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
+- [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
+- [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/)
+- [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
-- [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
-- [Zuckerberg&#39;s Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
-- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
-- [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
