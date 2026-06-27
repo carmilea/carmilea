@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US allows Anthropic to release Mythos to &#39;trusted partners&#39;](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? &lpar;2011&rpar;](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
-- [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474)
-- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+- [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
+- [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802)
+- [Anatomy of a Failed &lpar;Nation-State?&rpar; Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
