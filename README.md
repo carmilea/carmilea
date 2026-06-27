@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zuckerberg&#39;s Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
-- [Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
-- [Streaming services&#39; obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/)
-- [How Many Elementary Particles Are There, Really?](https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/)
-- [OpenRA](https://www.openra.net/)
+- [Like a Bouncer at a Bookstore: Texas&#39; App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
+- [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
