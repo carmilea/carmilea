@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The National Parks Were Reportedly Told to Stay Silent on Deaths](https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook)
+- [US allows Anthropic to release Mythos to &#39;trusted partners&#39;](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? &lpar;2011&rpar;](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
+- [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474)
 - [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-- [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
-- [We Can Still Stop California&#39;s 3D Printer Surveillance Scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://hightouch.com/careers#open-positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
