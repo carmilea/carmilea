@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
+- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
 - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
-- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
