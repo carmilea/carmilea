@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
-- [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
-- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
-- [Daisugi: Japanese forestry technique of creating a platform for other trees &lpar;2020&rpar;](https://spoon-tamago.com/daisugi-japanese-forestry-technique/)
-- [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
+- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
+- [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
+- [TOP500 at ISC&#39;26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+- [Ford rehires &#39;gray beard&#39; engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+- [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
