@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Zanagrams](https://zanagrams.com/)
-- [California legislature agrees to upload driver&#39;s licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
-- [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
-- [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
-- [EU to legislate about Chat Control behind closed doors](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
+- [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
+- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+- [Daisugi: Japanese forestry technique of creating a platform for other trees &lpar;2020&rpar;](https://spoon-tamago.com/daisugi-japanese-forestry-technique/)
+- [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
