@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
 - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
-- [TOP500 at ISC&#39;26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- [Ford rehires &#39;gray beard&#39; engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
+- [Do LLMs pass the mirror test?](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
