@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
-- [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
-- [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
-- [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
-- [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
+- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
