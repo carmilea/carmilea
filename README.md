@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
+- [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
+- [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
 - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 <!-- BLOG-POST-LIST:END -->
 
