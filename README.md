@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CEO of Mullvad is the main financer of the far-right Swedish Örebro party](https://det.social/@lostgen/116820546568940358)
-- [Pollen &lpar;CEO Negus-Fancey, CTO Wright&rpar; tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
-- [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
-- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
-- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
+- [WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)
+- [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
+- [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
+- [DocumentDB – a MongoDB compatible open-source database](https://documentdb.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
