@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
-- [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
-- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
-- [Do LLMs pass the mirror test?](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test)
+- [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/)
+- [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
+- [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
+- [Xonaly – Canada&#39;s Independent Search Engine](https://xonaly.com/)
+- [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
