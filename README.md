@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
+- [The CEO of Mullvad is the main financer of the far-right Swedish Örebro party](https://det.social/@lostgen/116820546568940358)
+- [Pollen &lpar;CEO Negus-Fancey, CTO Wright&rpar; tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
+- [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
 - [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
 - [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
-- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-- [Knowledge Distillation of Black-Box Large Language Models &lpar;2024&rpar;](https://arxiv.org/abs/2401.07013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
