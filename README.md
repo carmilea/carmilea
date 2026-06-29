@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 80% Problem: The Last 20% Is Where the Engineer Used to Live](https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html)
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
+- [.garden TLD&#39;s change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)
+- [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-- [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
-- [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
