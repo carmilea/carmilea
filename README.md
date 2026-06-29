@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/)
-- [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
-- [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
-- [Xonaly – Canada&#39;s Independent Search Engine](https://xonaly.com/)
-- [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
+- [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
+- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- [Knowledge Distillation of Black-Box Large Language Models &lpar;2024&rpar;](https://arxiv.org/abs/2401.07013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
