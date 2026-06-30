@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring PDP-1 Lisp &lpar;1960&rpar;](https://obsolescence.dev/pdp1-lisp-introduction.html)
+- [Memory Safe Context Switching &lpar;longjmp, setjmp&rpar; in Fil-C](https://fil-c.org/context_switches)
+- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
+- [Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso](https://github.com/SMJAI/open-memory-protocol)
 - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
-- [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
-- [Is It Out Yet?](https://outyet.ai)
-- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
-- [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
