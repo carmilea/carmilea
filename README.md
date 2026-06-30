@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
+- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+- [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 - [Exploring PDP-1 Lisp &lpar;1960&rpar;](https://obsolescence.dev/pdp1-lisp-introduction.html)
-- [Memory Safe Context Switching &lpar;longjmp, setjmp&rpar; in Fil-C](https://fil-c.org/context_switches)
-- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
-- [Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso](https://github.com/SMJAI/open-memory-protocol)
-- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
+- [Memory Safe Context Switching](https://fil-c.org/context_switches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
