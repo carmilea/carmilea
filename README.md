@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
-- [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
-- [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-- [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
+- [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
+- [Meta&#39;s brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+- [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
+- [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+- [Morbid: Debunking Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
