@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Words Are a Byproduct of Consciousness. For LLMs, It&#39;s Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
-- [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
-- [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
-- [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)
-- [Parse, Don&#39;t Validate – In a Language That Doesn&#39;t Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
+- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
+- [Crypto firms have spent $189M so far on 2026 US election, report says](https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/)
+- [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+- [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
+- [County with 37 Data Centers Asks Schools to &#39;Conserve Electricity&#39;](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
