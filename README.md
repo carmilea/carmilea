@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
-- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
-- [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
-- [Exploring PDP-1 Lisp &lpar;1960&rpar;](https://obsolescence.dev/pdp1-lisp-introduction.html)
-- [Memory Safe Context Switching](https://fil-c.org/context_switches)
+- [Should every baby&#39;s DNA be sequenced?](https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced)
+- [Sony erases digital content from libraries; reminded we don&#39;t own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
+- [Parse, Don&#39;t Validate – In a Language That Doesn&#39;t Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
+- [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
+- [Exercise intensity influences body composition in healthy older adults](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
