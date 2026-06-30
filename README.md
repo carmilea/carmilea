@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
-- [Crypto firms have spent $189M so far on 2026 US election, report says](https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/)
-- [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
-- [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
-- [County with 37 Data Centers Asks Schools to &#39;Conserve Electricity&#39;](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
+- [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
+- [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+- [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
