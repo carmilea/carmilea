@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
-- [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
-- [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
-- [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
-- [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
+- [I Left Harry&#39;s All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
+- [Proliferate &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
+- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
+- [One KW wind turbine without civil engineering](https://www.windtowatt.com/index-en.html)
+- [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
