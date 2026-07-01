@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manufact &lpar;YC S25&rpar; Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
-- [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
-- [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
-- [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
-- [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
+- [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
+- [Meta loses bid to dismiss US states&#39; claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
+- [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
+- [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
+- [Ray Tracer in SQL](https://github.com/ClickHouse/RayTracer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
