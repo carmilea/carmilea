@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
-- [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
-- [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
-- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+- [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
+- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
+- [How employment changes when firms adopt generative AI](https://ramp.com/data/ai-jobs-impact)
+- [ArXiv&#39;s Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
+- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
