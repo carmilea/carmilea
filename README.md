@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
+- [The Underhanded C Contest](https://underhanded-c.org/)
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 - [I Left Harry&#39;s All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
-- [Proliferate &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
-- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
-- [One KW wind turbine without civil engineering](https://www.windtowatt.com/index-en.html)
-- [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
