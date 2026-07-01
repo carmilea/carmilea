@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
-- [Meta loses bid to dismiss US states&#39; claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
-- [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
-- [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
-- [Ray Tracer in SQL](https://github.com/ClickHouse/RayTracer)
+- [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+- [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
+- [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
+- [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
+- [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
