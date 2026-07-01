@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dexter &lpar;YC F24&rpar; Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
+- [Register Korea&#39;s First PC &#39;SE-8001&#39; as a National Important Material](https://www.dongascience.com/en/news/30374)
+- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 - [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
 - [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
-- [How employment changes when firms adopt generative AI](https://ramp.com/data/ai-jobs-impact)
-- [ArXiv&#39;s Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
-- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
