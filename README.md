@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
-- [Nvidia offers startup customers chance to swap compute power for revenue share](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html)
-- [Canadian boy, 11, dies of rabies after waking to bat on his face](https://www.bbc.com/news/articles/c982m1m95q9o)
-- [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
-- [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
+- [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
+- [Hazel &lpar;YC W24&rpar; Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+- [Winamp Skin Museum](https://skins.webamp.org)
+- [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
+- [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
