@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
-- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
-- [Launch HN: Manufact &lpar;YC S25&rpar; – MCP Cloud](https://manufact.com)
-- [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
-- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
+- [Lightning Memory-Mapped Database Manager &lpar;LMDB&rpar; 1.0](http://www.lmdb.tech/doc/)
+- [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
+- [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
+- [Exapunks &lpar;2018&rpar;](https://www.zachtronics.com/exapunks/)
+- [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
