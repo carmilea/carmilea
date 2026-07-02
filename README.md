@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MarketFish – Simulate a market with 128 AI consumers before you launch](https://github.com/Key-wxh/market-fish)
+- [CursorBench 3.1](https://cursor.com/evals)
+- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
 - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
-- [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
-- [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-- [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
-- [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
 <!-- BLOG-POST-LIST:END -->
 
 ---
