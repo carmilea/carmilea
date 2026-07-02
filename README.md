@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MarketFish – Simulate a market with 128 AI consumers before you launch](https://github.com/Key-wxh/market-fish)
-- [CursorBench 3.1](https://cursor.com/evals)
-- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
-- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
-- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
+- [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
+- [Nvidia offers startup customers chance to swap compute power for revenue share](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html)
+- [Canadian boy, 11, dies of rabies after waking to bat on his face](https://www.bbc.com/news/articles/c982m1m95q9o)
+- [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+- [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
