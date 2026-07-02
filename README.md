@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
-- [Hazel &lpar;YC W24&rpar; Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-- [Winamp Skin Museum](https://skins.webamp.org)
-- [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
-- [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+- [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
+- [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)
+- [24-bit/192kHz music downloads and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm)
+- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+- [Launch HN: Manufact &lpar;YC S25&rpar; – MCP Cloud](https://manufact.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
