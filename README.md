@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 - [Lightning Memory-Mapped Database Manager &lpar;LMDB&rpar; 1.0](http://www.lmdb.tech/doc/)
-- [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
-- [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
-- [Exapunks &lpar;2018&rpar;](https://www.zachtronics.com/exapunks/)
-- [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
+- [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
+- [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
