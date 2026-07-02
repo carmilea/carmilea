@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
-- [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)
-- [24-bit/192kHz music downloads and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm)
+- [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
 - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 - [Launch HN: Manufact &lpar;YC S25&rpar; – MCP Cloud](https://manufact.com)
+- [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
+- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
