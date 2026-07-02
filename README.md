@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-- [The Underhanded C Contest](https://underhanded-c.org/)
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
-- [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
-- [I Left Harry&#39;s All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
+- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
+- [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+- [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+- [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
+- [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
 <!-- BLOG-POST-LIST:END -->
 
 ---
