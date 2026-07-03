@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasmer: Fast, secure, lightweight containers based on WebAssembly](https://wasmer.io/)
-- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t](https://stefan.schueller.net/posts/the-free-market-lie/)
+- [Why Switzerland has 25 gbit internet and America doesn&#39;t](https://stefan.schueller.net/posts/the-free-market-lie/)
 - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+- [AI is &#39;not smart&#39; so what&#39;s next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
+- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
