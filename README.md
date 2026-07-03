@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Switzerland has 25 gbit internet and America doesn&#39;t](https://stefan.schueller.net/posts/the-free-market-lie/)
-- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
-- [AI is &#39;not smart&#39; so what&#39;s next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
-- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
-- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- [Gun Mistakes in Fiction Writing: Handgun Edition](https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition)
+- [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
+- [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
+- [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+- [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
