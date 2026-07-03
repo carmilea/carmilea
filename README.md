@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
-- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
-- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
-- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm)
-- [Zuckerberg &#39;Admits&#39; Meta&#39;s Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
+- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
+- [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
+- [Factories Are Just Rooms](https://interconnected.org/home/2026/07/03/factories)
+- [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
+- [Best Simple System for Now](https://dannorth.net/blog/best-simple-system-for-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
