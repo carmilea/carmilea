@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
-- [A Cali. farmer is giving away tons of nectarines that he&#39;s not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
-- [Holes](https://xkcd.com/3266/large/)
-- [I Wasn&#39;t Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination &lpar;2025&rpar;](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)
-- [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
+- [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
+- [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
+- [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
+- [Infracost &lpar;YC W21&rpar; Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
+- [Applied Category Theory Course &lpar;2018&rpar;](https://math.ucr.edu/home/baez/act_course/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
