@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
+- [A Cali. farmer is giving away tons of nectarines that he&#39;s not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
+- [Holes](https://xkcd.com/3266/large/)
+- [I Wasn&#39;t Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination &lpar;2025&rpar;](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)
 - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
-- [AI saves about 3% of your hours, and almost none of it reaches the money](https://okaneland.com/study/ai-productivity-roi-at-work/)
-- [Show HN: Mcpsnoop – Wireshark for MCP &lpar;transparent proxy and live TUI&rpar;](https://github.com/kerlenton/mcpsnoop)
-- [US residents angry datacenters &#39;shoved down our throats&#39; are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
-- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
