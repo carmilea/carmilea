@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
+- [AI saves about 3% of your hours, and almost none of it reaches the money](https://okaneland.com/study/ai-productivity-roi-at-work/)
+- [Show HN: Mcpsnoop – Wireshark for MCP &lpar;transparent proxy and live TUI&rpar;](https://github.com/kerlenton/mcpsnoop)
+- [US residents angry datacenters &#39;shoved down our throats&#39; are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
 - [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
-- [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
-- [Factories Are Just Rooms](https://interconnected.org/home/2026/07/03/factories)
-- [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
-- [Best Simple System for Now](https://dannorth.net/blog/best-simple-system-for-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
