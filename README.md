@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
+- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Mystery identity of &#39;Green Boots&#39; climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 - [Lightning Memory-Mapped Database Manager &lpar;LMDB&rpar; 1.0](http://www.lmdb.tech/doc/)
-- [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
-- [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
