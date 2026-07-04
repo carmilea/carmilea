@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
-- [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
-- [Plein Air](https://art.joonas.wtf/)
-- [Finland&#39;s last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
-- [Google Books &lpar;or similar&rpar; all book scans – $200k bounty &lpar;2025&rpar;](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
+- [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- [Wicklow hotel cancels &#39;secretive&#39; Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
+- [As downtown Seattle offices empty, city facing years of &#39;zombie&#39; towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
+- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
