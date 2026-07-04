@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Astrophysicists Puzzle over Webb&#39;s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
-- [Unearthing the Reality of &quot;Zombie Energy Systems&quot; in Africa&#39;s Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
 - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
 - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
