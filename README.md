@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 - [How working memory could give rise to consciousness](https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/)
+- [A martian rock has lots of carbon on it, and it&#39;s not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/)
 - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
-- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
-- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+- [The Reports of Jim Carrey&#39;s Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
