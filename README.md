@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
-- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
-- [Soatok&#39;s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-- [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
-- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+- [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
+- [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
