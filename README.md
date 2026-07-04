@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
-- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
-- [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
-- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
-- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+- [Soatok&#39;s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+- [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
+- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
