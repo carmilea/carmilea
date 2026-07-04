@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
-- [How working memory could give rise to consciousness](https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/)
-- [A martian rock has lots of carbon on it, and it&#39;s not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/)
-- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
-- [The Reports of Jim Carrey&#39;s Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
+- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+- [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
+- [Plein Air](https://art.joonas.wtf/)
+- [Finland&#39;s last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
+- [Google Books &lpar;or similar&rpar; all book scans – $200k bounty &lpar;2025&rpar;](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
