@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Organic Maps](https://organicmaps.app/)
-- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
-- [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
-- [Cannabis Users Face Substantially Higher Risk of Heart Attack &lpar;2025&rpar;](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)
-- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
+- [Mark Zuckerberg tells staff that AI agents haven&#39;t progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+- [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
+- [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
+- [Why DMARC&#39;s new &quot;NP&quot; tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
+- [It&#39;s not about physical vs. digital games, it&#39;s about ownership](https://popcar.bearblog.dev/its-about-ownership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
