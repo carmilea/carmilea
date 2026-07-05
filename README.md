@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [President pardons 9 for Clean Air violations for &#39;fixing their car&#39;](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
-- [University of Oxford Is Older Than the Aztec Empire and Other Facts of History &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
-- [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
-- [Backon – Python retry &lpar;zero deps, circuit breaker, async native&rpar;](https://github.com/Llucs/backon)
-- [If you&#39;re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+- [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
+- [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
+- [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
+- [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
