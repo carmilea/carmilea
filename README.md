@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
-- [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
-- [My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress](https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/)
-- [Protocol Prying: Vulnerability Research in AirDrop and Quick Share](https://arxiv.org/abs/2606.26967)
+- [President pardons 9 for Clean Air violations for &#39;fixing their car&#39;](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+- [University of Oxford Is Older Than the Aztec Empire and Other Facts of History &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
+- [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
+- [Backon – Python retry &lpar;zero deps, circuit breaker, async native&rpar;](https://github.com/Llucs/backon)
+- [If you&#39;re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
