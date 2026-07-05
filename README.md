@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Organic Maps](https://organicmaps.app/)
 - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
 - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
+- [Cannabis Users Face Substantially Higher Risk of Heart Attack &lpar;2025&rpar;](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)
 - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
-- [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
-- [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
