@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg tells staff that AI agents haven&#39;t progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
-- [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
-- [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
-- [Why DMARC&#39;s new &quot;NP&quot; tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
-- [It&#39;s not about physical vs. digital games, it&#39;s about ownership](https://popcar.bearblog.dev/its-about-ownership/)
+- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+- [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
+- [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
+- [Every Postcard Tells a Story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)
+- [Do you hate XML? &lpar;2010&rpar;](https://sigfrid-lundberg.se/entries/2010/07/hate_xml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
