@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
-- [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
-- [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
-- [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
+- [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
+- [Common 3D Benchy Problems, Causes and Fixes](https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/)
+- [Europe&#39;s new climate in seven charts](https://www.bbc.com/news/articles/c8e2j0j87reo)
+- [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
+- [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
