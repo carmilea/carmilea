@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tripadvisor AI summaries give glowing reviews to dangerous hotels](https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds)
-- [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
-- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
-- [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
-- [Jim Keller&#39;s startup is building a factory to mass-produce small chip fabs](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
+- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
+- [Composite Video on the NES: Why&#39;s it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
+- [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
+- [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)
+- [Show HN: Homegames. An open-source game platform I&#39;ve been making for 8 years](https://homegames.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
