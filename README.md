@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tripadvisor AI summaries give glowing reviews to dangerous hotels](https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds)
+- [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
 - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 - [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
-- [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
-- [Every Postcard Tells a Story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)
-- [Do you hate XML? &lpar;2010&rpar;](https://sigfrid-lundberg.se/entries/2010/07/hate_xml/)
+- [Jim Keller&#39;s startup is building a factory to mass-produce small chip fabs](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
