@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+- [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
 - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
-- [Common 3D Benchy Problems, Causes and Fixes](https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/)
-- [Europe&#39;s new climate in seven charts](https://www.bbc.com/news/articles/c8e2j0j87reo)
 - [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
-- [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
