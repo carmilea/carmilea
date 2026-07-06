@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
-- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
-- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
-- [Fable Built a 3D Model of Aristotle&#39;s Cognitive Architecture](https://conceptual-spaces.vercel.app)
+- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+- [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
+- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
