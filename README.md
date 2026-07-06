@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
-- [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
-- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
-- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
-- [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
+- [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
+- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
+- [Titan&#39;s Resources and Their Utilization](https://arxiv.org/abs/2606.06608)
+- [AI: The ROI Runway Could Be Long Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector)
+- [Taiganet.com, Home of the WS4000 Simulator](https://www.taiganet.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
