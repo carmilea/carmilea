@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stealth robotics startup &lpar;YC S26&rpar; is hiring principal engineers &lpar;Palo Alto&rpar;](https://news.ycombinator.com/item?id=48806976)
-- [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
-- [Union Busters Coming After Me](https://www.nlrbedge.com/p/union-busters-coming-after-me)
-- [Should DayQuil Be Legal?](https://www.theargumentmag.com/p/should-dayquil-be-legal)
-- [Car touchscreens are cheap, not good](https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/)
+- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
+- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
+- [Fable Built a 3D Model of Aristotle&#39;s Cognitive Architecture](https://conceptual-spaces.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
