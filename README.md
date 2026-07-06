@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
-- [Composite Video on the NES: Why&#39;s it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
-- [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
-- [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)
-- [Show HN: Homegames. An open-source game platform I&#39;ve been making for 8 years](https://homegames.io)
+- [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
+- [Building relationships with customers through support didn&#39;t turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+- [The Sneakerweb](https://sneakerweb.org/)
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [Al Vigier: Canada&#39;s AI strategy shouldn&#39;t include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
