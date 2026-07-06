@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
+- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
+- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 - [Building relationships with customers through support didn&#39;t turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
 - [The Sneakerweb](https://sneakerweb.org/)
 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- [Al Vigier: Canada&#39;s AI strategy shouldn&#39;t include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
