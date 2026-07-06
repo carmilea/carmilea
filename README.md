@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aluminum Foil](https://dernocua.github.io/notes/aluminum-foil.html)
-- [Regression to the Mean: on LLMs and the quiet death of the new](https://rruxandra.github.io/regression-to-the-mean.html)
-- [Real time map of France&#39;s rail network](https://carto.tchoo.net/)
-- [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
-- [The Fear of Dying Before You Become Yourself](https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself)
+- [Stealth robotics startup &lpar;YC S26&rpar; is hiring principal engineers &lpar;Palo Alto&rpar;](https://news.ycombinator.com/item?id=48806976)
+- [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
+- [Union Busters Coming After Me](https://www.nlrbedge.com/p/union-busters-coming-after-me)
+- [Should DayQuil Be Legal?](https://www.theargumentmag.com/p/should-dayquil-be-legal)
+- [Car touchscreens are cheap, not good](https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
