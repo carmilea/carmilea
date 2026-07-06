@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
-- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
-- [Building relationships with customers through support didn&#39;t turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-- [The Sneakerweb](https://sneakerweb.org/)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [Aluminum Foil](https://dernocua.github.io/notes/aluminum-foil.html)
+- [Regression to the Mean: on LLMs and the quiet death of the new](https://rruxandra.github.io/regression-to-the-mean.html)
+- [Real time map of France&#39;s rail network](https://carto.tchoo.net/)
+- [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
+- [The Fear of Dying Before You Become Yourself](https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
