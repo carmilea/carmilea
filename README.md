@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping homes you can buy from the US government for &lt;$100k](https://govauctions.app/research/cheapest-homes-in-america)
-- [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
-- [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
-- [Jim&#39;s TrueType QR Code Font](https://github.com/jimparis/qr-font)
-- [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
+- [Re: I&#39;m Begging You to Leave Your AI Note-Taker at Home](https://firesphere.dev/articles/yes-actually-i-do-fucking-mind)
+- [Show HN: Davit, a Apple Containers UI](https://davit.app)
+- [AI Meets Cryptography 1: What AI Found in Cloudflare&#39;s Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+- [Astro 7.0](https://astro.build/blog/astro-7/)
+- [Local, CPU-Friendly, High-Quality TTS &lpar;Text-to-Speech&rpar; with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
