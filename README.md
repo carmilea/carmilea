@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Benchmark: AWS RDS vs. Self-Hosted on Hetzner &lpar;2026&rpar;](https://hostim.dev/blog/postgres-benchmark-rds-vs-hostim-vs-self-hosted/)
+- [Top researchers leave USA for the Netherlands &lpar;in Dutch&rpar;](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland)
+- [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
+- [Show HN: Fast, native Mac file manager &lpar;filters, fuzzy find, 9 MB, no Electron&rpar;](https://whimfiles.com)
 - [Lago &lpar;YC S21&rpar; Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
-- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
-- [Ternlight – 7 MB embedding model that runs in browser &lpar;WASM&rpar;](https://ternlight-demo.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
