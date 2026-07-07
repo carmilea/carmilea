@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Benchmark: AWS RDS vs. Self-Hosted on Hetzner &lpar;2026&rpar;](https://hostim.dev/blog/postgres-benchmark-rds-vs-hostim-vs-self-hosted/)
-- [Top researchers leave USA for the Netherlands &lpar;in Dutch&rpar;](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland)
-- [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
-- [Show HN: Fast, native Mac file manager &lpar;filters, fuzzy find, 9 MB, no Electron&rpar;](https://whimfiles.com)
-- [Lago &lpar;YC S21&rpar; Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
+- [Microsoft Fire IdTech Team at Id Software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
+- [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
+- [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
+- [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
+- [98% Isn&#39;t Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
