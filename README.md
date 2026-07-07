@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
-- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
-- [Titan&#39;s Resources and Their Utilization](https://arxiv.org/abs/2606.06608)
-- [AI: The ROI Runway Could Be Long Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector)
-- [Taiganet.com, Home of the WS4000 Simulator](https://www.taiganet.com/)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+- [Ternlight – 7 MB embedding model that runs in browser &lpar;WASM&rpar;](https://ternlight-demo.vercel.app/)
+- [Fable turned reMarkable into Tom Riddle&#39;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
