@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Re: I&#39;m Begging You to Leave Your AI Note-Taker at Home](https://firesphere.dev/articles/yes-actually-i-do-fucking-mind)
+- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
+- [Men&#39;s average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
 - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 - [AI Meets Cryptography 1: What AI Found in Cloudflare&#39;s Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
 - [Astro 7.0](https://astro.build/blog/astro-7/)
-- [Local, CPU-Friendly, High-Quality TTS &lpar;Text-to-Speech&rpar; with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
