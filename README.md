@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lago &lpar;YC S21&rpar; Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
 - [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
 - [Ternlight – 7 MB embedding model that runs in browser &lpar;WASM&rpar;](https://ternlight-demo.vercel.app/)
-- [Fable turned reMarkable into Tom Riddle&#39;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
