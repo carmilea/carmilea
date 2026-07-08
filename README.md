@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
-- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
-- [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/)
-- [Show HN: Davit, a Apple Containers UI](https://davit.app)
-- [AI Meets Cryptography 1: What AI Found in Cloudflare&#39;s Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [LineageOS Statistics](https://stats.lineageos.org)
+- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
+- [An interactive explorer for Benford&#39;s Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
