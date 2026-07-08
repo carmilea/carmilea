@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
 - [GitLost: We Tricked GitHub&#39;s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
 - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS &lpar;2024&rpar;](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
-- [LineageOS Statistics](https://stats.lineageos.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
