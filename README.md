@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
-- [Grok 4.5](https://x.ai/news/grok-4-5)
-- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
-- [PlayStation can delete all your digital games after 3 years of inactivity &lpar;EU&rpar;](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582)
-- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
+- [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
+- [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
+- [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
+- [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
