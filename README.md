@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-- [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
+- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
+- [Open Source Barware: free, local-first bar inventory software &lpar;GPLv3&rpar;](https://opensourcebarware.com)
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- [The classifiers Anthropic puts in front of Fable are too zealous](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
 - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
-- [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
-- [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
