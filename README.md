@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
-- [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
-- [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
-- [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
-- [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
+- [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
+- [Grok 4.5](https://x.ai/news/grok-4-5)
+- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
+- [PlayStation can delete all your digital games after 3 years of inactivity &lpar;EU&rpar;](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582)
+- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
