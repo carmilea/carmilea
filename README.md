@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 - [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
-- [Men&#39;s average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
+- [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/)
 - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 - [AI Meets Cryptography 1: What AI Found in Cloudflare&#39;s Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
-- [Astro 7.0](https://astro.build/blog/astro-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
