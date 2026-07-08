@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
-- [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
-- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-- [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
-- [GitLost: We Tricked GitHub&#39;s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- [Mistral&#39;s Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
+- [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
+- [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
+- [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/)
+- [It seems that the age of reading might be a short anomaly in human history](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
