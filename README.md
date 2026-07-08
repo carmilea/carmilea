@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
-- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [GitLost: We Tricked GitHub&#39;s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS &lpar;2024&rpar;](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
 - [LineageOS Statistics](https://stats.lineageos.org)
-- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
-- [An interactive explorer for Benford&#39;s Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
