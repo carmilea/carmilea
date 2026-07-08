@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral&#39;s Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
-- [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
-- [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
-- [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/)
-- [It seems that the age of reading might be a short anomaly in human history](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
+- [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
+- [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
+- [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
+- [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
+- [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
