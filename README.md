@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
-- [Open Source Barware: free, local-first bar inventory software &lpar;GPLv3&rpar;](https://opensourcebarware.com)
-- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-- [The classifiers Anthropic puts in front of Fable are too zealous](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
-- [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
+- [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
