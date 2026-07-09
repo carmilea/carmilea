@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
+- [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
