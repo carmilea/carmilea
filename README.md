@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Context.dev &lpar;YC S26&rpar; – API to get structured data from any website](https://www.context.dev)
-- [Hy3](https://hy.tencent.com/research/hy3)
-- [How to Write an Email](https://blog.dannycastonguay.com/how-to-write-an-email/)
-- [A Possible Future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
-- [Opinionated and Easy Pi.dev Configuration](https://lazypi.org/)
+- [Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs](https://www.cortex.io/drive)
+- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
+- [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
+- [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
