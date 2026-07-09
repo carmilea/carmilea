@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs](https://www.cortex.io/drive)
 - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
+- [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
