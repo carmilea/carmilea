@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
-- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+- [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
+- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
-- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
