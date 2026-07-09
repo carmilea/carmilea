@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TrueBiz &lpar;YC S22&rpar; – Senior Software Engineer – Remote &lpar;US&rpar; – Full-Time](https://news.ycombinator.com/item?id=48844517)
-- [EU Parliament greenlights Chat Control 1.0 – Breyer: &quot;Our children lose out&quot;](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
-- [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
-- [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
-- [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+- [Launch HN: Context.dev &lpar;YC S26&rpar; – API to get structured data from any website](https://www.context.dev)
+- [Hy3](https://hy.tencent.com/research/hy3)
+- [How to Write an Email](https://blog.dannycastonguay.com/how-to-write-an-email/)
+- [A Possible Future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
+- [Opinionated and Easy Pi.dev Configuration](https://lazypi.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
