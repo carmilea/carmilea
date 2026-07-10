@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
-- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
-- [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+- [Focus](https://boz.com/articles/focus)
+- [Study: &quot;Mommy, do you love your phone more than me?&quot;](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 <!-- BLOG-POST-LIST:END -->
 
 ---
