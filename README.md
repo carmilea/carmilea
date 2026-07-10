@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
-- [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
