@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+- [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-- [Focus](https://boz.com/articles/focus)
-- [Study: &quot;Mommy, do you love your phone more than me?&quot;](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
