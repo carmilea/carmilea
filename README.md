@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ActivityPub over ATProto](https://berjon.com/ap-at/)
-- [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
-- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
-- [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
-- [Punk, or why I don&#39;t stream anymore](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
+- [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
+- [The tech of &#39;Terminator 2&#39; – an oral history &lpar;2017&rpar;](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
+- [Snails&#39; Teeth Beats Spider Silk as Nature&#39;s Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
+- [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
