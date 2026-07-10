@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
-- [The tech of &#39;Terminator 2&#39; – an oral history &lpar;2017&rpar;](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
-- [Snails&#39; Teeth Beats Spider Silk as Nature&#39;s Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
-- [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+- [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
+- [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+- [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
+- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
