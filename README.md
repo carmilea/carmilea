@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moss &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
+- [GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)
+- [Don&#39;t discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
+- [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 - [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
-- [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
-- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-- [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
-- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
