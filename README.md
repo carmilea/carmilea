@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
-- [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en)
-- [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
-- [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
-- [Parental device use and the adolescent-caregiver attachment bond](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+- [ActivityPub over ATProto](https://berjon.com/ap-at/)
+- [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
+- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
+- [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
+- [Punk, or why I don&#39;t stream anymore](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
