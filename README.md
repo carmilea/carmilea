@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Postgres to SingleStore: Unlocking Major Performance Enhancements](https://www.youtube.com/watch?v=DvgzQPEWzdE)
-- [Postgres to SingleStore: Unlocking Major Performance Enhancements](https://www.youtube.com/watch?v=PvRAhXFsGbU)
 - [TabH2O in Action: Predictions From Your Spreadsheet | Full Webinar](https://www.youtube.com/watch?v=cQEw6cpovxw)
 - [Optimizing ML Models for Business ROI with H2O Driverless AI | Part 25](https://www.youtube.com/watch?v=h5gVkQwOe_4)
 - [Automated ML Audit Trails &amp; AutoDoc in H2O Driverless AI | Part 24](https://www.youtube.com/watch?v=YlDksiw45nU)
+- [Get AI Predictions from Your Spreadsheet](https://www.youtube.com/shorts/iSiLAOGbP5w)
+- [Enforcing AI Governance &amp; Compliance on the H2O.ai Platform | Part 23](https://www.youtube.com/watch?v=ojh0lqdFrNw)
 <!-- YOUTUBE:END -->
 
 
