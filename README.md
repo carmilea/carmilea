@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laylo &lpar;YC S20&rpar; Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
+- [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en)
+- [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
 - [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
-- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
-- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+- [Parental device use and the adolescent-caregiver attachment bond](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
