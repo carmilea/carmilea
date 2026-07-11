@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Speculations Concerning the First Ultraintelligent Machine &lpar;1965&rpar; [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
-- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
-- [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
-- [Your code is fast – if you&#39;re lucky](https://tiki.li/blog/lucky_code.html)
-- [Show HN: Richest people in the world by wealth creation instead of ownership](https://anti-forbes-list.vercel.app)
+- [Sixtyfour &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
+- [Modern Decor May Be Straining People&#39;s Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
+- [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+- [The early History of the Singular Value Decomposition &lpar;1993&rpar; [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
