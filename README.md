@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sixtyfour &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
-- [Modern Decor May Be Straining People&#39;s Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
-- [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
-- [The early History of the Singular Value Decomposition &lpar;1993&rpar; [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
+- [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
+- [AI 2040 and the cult of intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
+- [Ask HN: Why isn&#39;t Google indexing information about the AT Protocol?](https://news.ycombinator.com/item?id=48874046)
+- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
