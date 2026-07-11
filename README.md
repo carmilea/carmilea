@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
+- [Speculations Concerning the First Ultraintelligent Machine &lpar;1965&rpar; [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 - [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
 - [Your code is fast – if you&#39;re lucky](https://tiki.li/blog/lucky_code.html)
-- [The vintage beauty of Soviet control rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
+- [Show HN: Richest people in the world by wealth creation instead of ownership](https://anti-forbes-list.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
