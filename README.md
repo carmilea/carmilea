@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost $1B Later, the US Still Can&#39;t Make a Medical Glove](https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves)
+- [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
+- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+- [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
+- [Your code is fast – if you&#39;re lucky](https://tiki.li/blog/lucky_code.html)
 - [The vintage beauty of Soviet control rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- [Einstein&#39;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [Moss &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
