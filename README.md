@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Einstein&#39;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 - [Moss &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-- [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147)
 - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
 - [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
+- [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
