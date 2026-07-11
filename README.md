@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Forked Git on GitHub](https://github.com/openai/git)
+- [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)
 - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
 - [The Chinese Voice Actor Forced to Prove He&#39;s Human](https://www.sixthtone.com/news/1018753)
 - [How to hide from killer drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
