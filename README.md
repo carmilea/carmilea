@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
 - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
-- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
 - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 - [Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
 - [The Energetic Costs of Cellular Computation &lpar;2012&rpar;](https://arxiv.org/abs/1203.5426)
