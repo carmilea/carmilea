@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
-- [Irish datacenters now guzzle 23% of the country&#39;s electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
-- [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
-- [Neocities: Create your own free website](https://neocities.org/)
-- [The One-Step Trap &lpar;In AI Research&rpar;](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
+- [Nuclear war survival guide reveals seven everyday items if disaster strikes](https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html)
+- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
+- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+- [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
+- [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
