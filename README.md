@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doctors die. It&#39;s not like the rest of us, but it should be &lpar;2016&rpar;](https://archive.cancerworld.net/featured/how-doctors-die/)
-- [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)
-- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
-- [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)
-- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
+- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+- [Why are US consumers so angry? It&#39;s not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- [The Energetic Costs of Cellular Computation &lpar;2012&rpar;](https://arxiv.org/abs/1203.5426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
