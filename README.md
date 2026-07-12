@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
-- [The Chinese Voice Actor Forced to Prove He&#39;s Human](https://www.sixthtone.com/news/1018753)
-- [How to hide from killer drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
-- [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
+- [Doctors die. It&#39;s not like the rest of us, but it should be &lpar;2016&rpar;](https://archive.cancerworld.net/featured/how-doctors-die/)
+- [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+- [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)
+- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
