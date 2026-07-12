@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ad platforms end up running six databases to answer one question](https://www.singlestore.com/blog/adtech-serving-layer-sprawl)
-- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
-- [Millions of Engineers Use Databases. We’re Hiring the Ones Who Want to Build One.](https://www.singlestore.com/blog/millions-of-engineers-use-databases-we-re-hiring-the-ones-who-want-to-build-one-)
-- [Security Engineering, Not Just Security Features](https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc)
-- [Enterprise AI Needs Real-Time Data. The Industry Is Finally Catching Up.](https://www.singlestore.com/blog/enterprise-ai-needs-real-time-data-the-industry-is-finally-catching-up)
+- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+- [Can We Understand How Large Language Models Reason?](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)
+- [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
+- [LARP – Revenue infrastructure for serious founders](https://www.larp.website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
