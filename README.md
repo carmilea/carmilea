@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
-- [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
-- [Making Crash Bandicoot &lpar;2011&rpar;](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
-- [Gina Gallery of International Naive Art](https://www.ginagallery.com/)
-- [Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?](https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226)
+- [Why ad platforms end up running six databases to answer one question](https://www.singlestore.com/blog/adtech-serving-layer-sprawl)
+- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
+- [Millions of Engineers Use Databases. We’re Hiring the Ones Who Want to Build One.](https://www.singlestore.com/blog/millions-of-engineers-use-databases-we-re-hiring-the-ones-who-want-to-build-one-)
+- [Security Engineering, Not Just Security Features](https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc)
+- [Enterprise AI Needs Real-Time Data. The Industry Is Finally Catching Up.](https://www.singlestore.com/blog/enterprise-ai-needs-real-time-data-the-industry-is-finally-catching-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
