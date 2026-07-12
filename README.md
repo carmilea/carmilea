@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
-- [Can We Understand How Large Language Models Reason?](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)
-- [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
-- [LARP – Revenue infrastructure for serious founders](https://www.larp.website/)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- [Irish datacenters now guzzle 23% of the country&#39;s electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+- [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
+- [Neocities: Create your own free website](https://neocities.org/)
+- [The One-Step Trap &lpar;In AI Research&rpar;](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
