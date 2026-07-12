@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+- [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
 - [Making Crash Bandicoot &lpar;2011&rpar;](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
-- [Understanding the Odin Programming Language](https://odinbook.com/)
-- [Unauthenticated RCE in Motorola&#39;s MR2600 Router](https://mrbruh.com/motorola/)
-- [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
-- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+- [Gina Gallery of International Naive Art](https://www.ginagallery.com/)
+- [Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?](https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
