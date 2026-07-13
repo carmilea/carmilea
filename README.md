@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)
-- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
-- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
-- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
-- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+- [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)
+- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
+- [Precursor](https://blog.cloudflare.com/introducing-precursor/)
+- [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+- [Grok uploaded my user directory to xAI&#39;s servers](https://twitter.com/a_green_being/status/2076598897779020159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
