@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quadrupling code performance with a &quot;useless&quot; if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
+- [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)
+- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
 - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
-- [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- [Count Binface](https://countbinface.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
