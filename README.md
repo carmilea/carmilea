@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear war survival guide reveals seven everyday items if disaster strikes](https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html)
-- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
-- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
-- [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
-- [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
+- [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)
+- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
