@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)
+- [Count Binface](https://countbinface.com)
+- [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
 - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
-- [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-- [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
+- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
