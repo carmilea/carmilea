@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quadrupling code performance with a &quot;useless&quot; if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
+- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+- [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
 - [Count Binface](https://countbinface.com)
-- [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
-- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
-- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
