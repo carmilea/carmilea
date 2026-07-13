@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PgDog &lpar;YC P25&rpar; Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+- [Apple&#39;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
+- [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
+- [Go-Flavored Concurrency in C](https://antonz.org/concurrency-in-c/)
 - [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)
-- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
-- [Precursor](https://blog.cloudflare.com/introducing-precursor/)
-- [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
-- [Grok uploaded my user directory to xAI&#39;s servers](https://twitter.com/a_green_being/status/2076598897779020159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
