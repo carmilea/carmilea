@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
-- [Telegram&#39;s t.me domain has been suspended](https://www.whois.com/whois/t.me)
-- [TFTP Honey Pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
-- [Thunderbird Desktop settings research: what we learned from your feedback](https://blog.thunderbird.net/2026/07/desktopsettings/)
-- [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
+- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Full Stack Engineers &lpar;SF&rpar;](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
+- [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
+- [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
+- [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
+- [Samsung Health app threatens data deletion if users opt out AI training](https://neow.in/cWsyMTV3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
