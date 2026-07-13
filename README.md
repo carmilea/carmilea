@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PgDog &lpar;YC P25&rpar; Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
-- [Apple&#39;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
-- [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
-- [Go-Flavored Concurrency in C](https://antonz.org/concurrency-in-c/)
-- [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)
+- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
+- [Telegram&#39;s t.me domain has been suspended](https://www.whois.com/whois/t.me)
+- [TFTP Honey Pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
+- [Thunderbird Desktop settings research: what we learned from your feedback](https://blog.thunderbird.net/2026/07/desktopsettings/)
+- [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
