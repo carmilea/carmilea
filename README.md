@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
+- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
 - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
-- [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
-- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-- [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
+- [Fundamentals of Wireless Communication &lpar;2005&rpar;](https://web.stanford.edu/~dntse/wireless_book.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
