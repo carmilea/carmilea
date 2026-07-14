@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kontigo &lpar;YC S24&rpar; Is Hiring &lpar;Head of Security&rpar;](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+- [S&amp;P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)
+- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 - [Launch HN: Agnost AI &lpar;YC S26&rpar; – Extract user feedback from agent conversations](https://agnost.ai)
-- [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
-- [I&#39;m a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
-- [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
-- [New York becomes the first state to impose a data center moratorium](https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
