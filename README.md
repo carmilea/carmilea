@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
-- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
-- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- [Fundamentals of Wireless Communication &lpar;2005&rpar;](https://web.stanford.edu/~dntse/wireless_book.html)
+- [European &quot;age verification&quot; &quot;app&quot; forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
+- [Alternative&lpar;s&rpar; to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+- [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
+- [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
+- [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
