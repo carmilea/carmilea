@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)
+- [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)
+- [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
+- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
 - [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
-- [Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight](https://github.com/logxio/picchio)
-- [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
-- [StubHub&#39;s &#39;marketplace for fans&#39; is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
-- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 <!-- BLOG-POST-LIST:END -->
 
 ---
