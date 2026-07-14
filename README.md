@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European &quot;age verification&quot; &quot;app&quot; forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
-- [Alternative&lpar;s&rpar; to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
-- [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
-- [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
-- [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- [Show HN: Beautiful QR Codes](https://scanwayy.com)
+- [Codex starts encrypting prompts, uses ciphertext for inference instead](https://github.com/openai/codex/issues/28058)
+- [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney)
+- [The Future Worth Building Is Human – Thinking Machines Lab](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- [Actegories](https://bartoszmilewski.com/2026/06/30/actegories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
