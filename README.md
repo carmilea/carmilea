@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)
-- [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
-- [Tensor Is the Might](https://zserge.com/posts/tensor/)
-- [Show HN: I RL-trained an agent that trains models with RL &lpar;for –$1.3k&rpar;](https://github.com/Danau5tin/ai-trains-ai)
-- [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+- [Launch HN: Agnost AI &lpar;YC S26&rpar; – Extract user feedback from agent conversations](https://agnost.ai)
+- [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
+- [I&#39;m a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
+- [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
+- [New York becomes the first state to impose a data center moratorium](https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
