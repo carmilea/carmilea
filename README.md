@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Beautiful QR Codes](https://scanwayy.com)
-- [Codex starts encrypting prompts, uses ciphertext for inference instead](https://github.com/openai/codex/issues/28058)
-- [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney)
-- [The Future Worth Building Is Human – Thinking Machines Lab](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [Actegories](https://bartoszmilewski.com/2026/06/30/actegories/)
+- [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)
+- [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
+- [Tensor Is the Might](https://zserge.com/posts/tensor/)
+- [Show HN: I RL-trained an agent that trains models with RL &lpar;for –$1.3k&rpar;](https://github.com/Danau5tin/ai-trains-ai)
+- [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
