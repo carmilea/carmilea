@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+- [Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight](https://github.com/logxio/picchio)
+- [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
+- [StubHub&#39;s &#39;marketplace for fans&#39; is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
 - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
-- [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b)
-- [Kontigo &lpar;YC S24&rpar; Is Hiring &lpar;Head of Security&rpar;](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
