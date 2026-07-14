@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
-- [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
-- [‘Asia&#39;s cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays)
-- [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
-- [MIT&#39;s New Method Flags AI Models Trained on CASM Without Generating It](https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/)
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+- [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+- [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
