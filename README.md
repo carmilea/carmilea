@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+- [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b)
 - [Kontigo &lpar;YC S24&rpar; Is Hiring &lpar;Head of Security&rpar;](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-- [S&amp;P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)
 - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
-- [Launch HN: Agnost AI &lpar;YC S26&rpar; – Extract user feedback from agent conversations](https://agnost.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
