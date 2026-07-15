@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok Build Is OSS](https://github.com/xai-org/grok-build)
-- [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
-- [Voxatron](https://www.lexaloffle.com/voxatron.php)
-- [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
+- [SQLite should have &lpar;Rust-style&rpar; editions](https://mort.coffee/home/sqlite-editions/)
+- [P2P local file transfer based on WebRTC](https://pairdrop.net/)
+- [Speculative Growth and the AI &quot;Bubble&quot; [pdf]](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
+- [We don&#39;t use AI in any of our design or production processes](https://mass-driver.com/article/from-human-hands)
+- [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
