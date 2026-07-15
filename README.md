@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)
-- [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)
-- [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
-- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
-- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+- [Global Warming at 3 °C by 2050? What&#39;s Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
+- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
+- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
