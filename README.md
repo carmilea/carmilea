@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
+- [Grok Build Is OSS](https://github.com/xai-org/grok-build)
+- [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
+- [Voxatron](https://www.lexaloffle.com/voxatron.php)
+- [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [Artie &lpar;YC S23&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
-- [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
-- [Collection of Digital Clock Designs](https://clocks.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
