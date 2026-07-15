@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Warming at 3 °C by 2050? What&#39;s Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
+- [LinkedIn is a cesspool of scammers and identity theft](https://news.ycombinator.com/item?id=48916375)
+- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
 - [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
 - [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
