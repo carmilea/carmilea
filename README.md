@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 - [Artie &lpar;YC S23&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
-- [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
 - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
 - [Collection of Digital Clock Designs](https://clocks.dev)
-- [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
