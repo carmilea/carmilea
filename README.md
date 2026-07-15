@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
-- [CVE-2026-59208: Cross-Issuer Account Takeover in n8n](https://www.strix.ai/blog/n8n-cross-issuer-account-takeover)
-- [My Midlife Crisis Corolla Is Fast, Furious, and Modded](https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/)
-- [The well-calibrated Bayesian [pdf] &lpar;1982&rpar;](https://fitelson.org/seminar/dawid.pdf)
-- [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
+- [Artie &lpar;YC S23&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
+- [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
+- [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
+- [Collection of Digital Clock Designs](https://clocks.dev)
+- [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
