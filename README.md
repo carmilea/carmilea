@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is it just me, or is software buggier across the board?](https://news.ycombinator.com/item?id=48920698)
-- [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
-- [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
-- [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
-- [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+- [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
+- [CVE-2026-59208: Cross-Issuer Account Takeover in n8n](https://www.strix.ai/blog/n8n-cross-issuer-account-takeover)
+- [My Midlife Crisis Corolla Is Fast, Furious, and Modded](https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/)
+- [The well-calibrated Bayesian [pdf] &lpar;1982&rpar;](https://fitelson.org/seminar/dawid.pdf)
+- [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
