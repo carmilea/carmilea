@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)
 - [Who&#39;s running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
