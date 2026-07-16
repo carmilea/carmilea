@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
+- [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
+- [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+- [CD Sales Growth Outpaced Vinyl in the First Half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
 - [Adaptional &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 - [Launch HN: Traceforce &lpar;YC S26&rpar; – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
-- [Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)
-- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
