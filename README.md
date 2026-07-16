@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
-- [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
-- [CD Sales Growth Outpaced Vinyl in the First Half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
-- [Adaptional &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
-- [Launch HN: Traceforce &lpar;YC S26&rpar; – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
+- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+- [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
+- [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+- [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
+- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
