@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite should have &lpar;Rust-style&rpar; editions](https://mort.coffee/home/sqlite-editions/)
-- [P2P local file transfer based on WebRTC](https://pairdrop.net/)
-- [Speculative Growth and the AI &quot;Bubble&quot; [pdf]](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
-- [We don&#39;t use AI in any of our design or production processes](https://mass-driver.com/article/from-human-hands)
-- [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
+- [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
+- [Show HN: One More Letter](https://playonemoreletter.com/)
+- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
+- [Metal-Organic Frameworks, Chemistry&#39;s New Miracle Materials &lpar;2018&rpar;](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
