@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
-- [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
-- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
-- [Show HN: I&#39;ve built a words game based on binary search](https://hilogame.cc/)
-- [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/)
+- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+- [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
+- [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
+- [Kimi K3 is now live](https://www.kimi.com/en)
+- [My Homepage Has a Pulse](https://snehankekre.com/posts/hr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
