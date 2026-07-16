@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+- [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
 - [Netstrings &lpar;1997&rpar;](https://cr.yp.to/proto/netstrings.txt)
 - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 - [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
-- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
-- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
