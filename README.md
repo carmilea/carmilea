@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
-- [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
-- [Netstrings &lpar;1997&rpar;](https://cr.yp.to/proto/netstrings.txt)
-- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
+- [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
+- [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
+- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
+- [Show HN: I&#39;ve built a words game based on binary search](https://hilogame.cc/)
+- [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
