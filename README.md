@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DJB Netstrings &lpar;1997&rpar;](https://cr.yp.to/proto/netstrings.txt)
+- [Netstrings &lpar;1997&rpar;](https://cr.yp.to/proto/netstrings.txt)
 - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
+- [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
 - [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
