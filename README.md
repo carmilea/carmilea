@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
-- [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
-- [Show HN: One More Letter](https://playonemoreletter.com/)
-- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
-- [Metal-Organic Frameworks, Chemistry&#39;s New Miracle Materials &lpar;2018&rpar;](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
+- [DJB Netstrings &lpar;1997&rpar;](https://cr.yp.to/proto/netstrings.txt)
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
