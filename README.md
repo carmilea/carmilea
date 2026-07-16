@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-- [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
-- [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
-- [Kimi K3 is now live](https://www.kimi.com/en)
-- [My Homepage Has a Pulse](https://snehankekre.com/posts/hr/)
+- [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
+- [Adaptional &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
+- [Launch HN: Traceforce &lpar;YC S26&rpar; – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
+- [Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)
+- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
