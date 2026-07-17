@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
-- [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
-- [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
-- [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)
-- [Mozilla: The state of open source AI](https://stateofopensource.ai/)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+- [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
+- [SpaceX stock drops to a new low and loses $1T in value in a month](https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7)
+- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
+- [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
