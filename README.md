@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
-- [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
-- [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
-- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
+- [Mozilla: The state of open source AI](https://stateofopensource.ai/)
+- [AI Meets Cryptography 2: What AI Found in OpenVM&#39;s ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/)
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+- [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
+- [Three ways people respond to a problem &lpar;other than solving it&rpar;](https://improvesomething.today/responses-to-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
