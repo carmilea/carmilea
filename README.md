@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
 - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
+- [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
+- [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)
 - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
-- [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
-- [Show HN: On-chain bond market where the issuers are AI agents](https://selbonds.now)
-- [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
