@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
-- [AI Meets Cryptography 2: What AI Found in OpenVM&#39;s ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/)
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
-- [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
-- [Three ways people respond to a problem &lpar;other than solving it&rpar;](https://improvesomething.today/responses-to-problems/)
+- [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
+- [Show HN: On-chain bond market where the issuers are AI agents](https://selbonds.now)
+- [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
