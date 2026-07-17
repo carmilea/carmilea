@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
+- [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
+- [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
 - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
-- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
