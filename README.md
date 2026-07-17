@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
-- [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
-- [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
-- [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
-- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+- [My car&#39;s OTA update broke Android Auto, and it&#39;s a indictment of modern software](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)
+- [Show HN: Mojibake – a low-level Unicode library written in C](https://mojibake.zaerl.com/)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+- [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)
+- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
 <!-- BLOG-POST-LIST:END -->
 
 ---
