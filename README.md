@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everybody&#39;s Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
+- [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
-- [SpaceX stock drops to a new low and loses $1T in value in a month](https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7)
-- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
-- [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
+- [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
