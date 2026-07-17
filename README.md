@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My car&#39;s OTA update broke Android Auto, and it&#39;s a indictment of modern software](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)
-- [Show HN: Mojibake – a low-level Unicode library written in C](https://mojibake.zaerl.com/)
-- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
-- [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)
-- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
+- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
+- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+- [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
+- [Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map)
+- [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
