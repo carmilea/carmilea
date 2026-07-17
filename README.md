@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everybody&#39;s Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+- [The US grocery slowdown is real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
 - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
-- [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
-- [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
+- [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
+- [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
