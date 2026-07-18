@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
-- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
-- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
-- [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
-- [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
+- [Why do AI company logos look like buttholes? &lpar;2025&rpar;](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
+- [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
