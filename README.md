@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Find someone in the dark – light them or light yourself? &lpar;Three.js&rpar;](https://github.com/skorotkiewicz/signal-in-the-dark)
-- [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-- [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
-- [DrDroid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
+- [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
+- [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
