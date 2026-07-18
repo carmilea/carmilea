@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
-- [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
-- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
-- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
-- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
+- [Mayor Mamdani Says Landlords Can&#39;t Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+- [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
+- [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
+- [Judge a book by its first pages](https://uncovered.ink)
+- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
