@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
 - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
-- [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
-- [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
 - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
 - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
+- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
