@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenEvidence is bribing spouses of CMI and Genentech leadership](https://news.ycombinator.com/item?id=48959765)
-- [Heresy](https://paulgraham.com/heresy.html)
-- [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
+- [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
+- [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
+- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
+- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
-- [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
