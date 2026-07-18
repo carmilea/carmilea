@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LG ThinQ Terms of Use](https://news.ycombinator.com/item?id=48958273)
+- [EU ban on destruction of unsold clothes and shoes enters into application](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en)
 - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
-- [Why do AI company logos look like buttholes? &lpar;2025&rpar;](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 - [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
-- [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
