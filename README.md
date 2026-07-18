@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-- [The US grocery slowdown is real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
-- [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
-- [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
-- [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+- [I Started a &quot;Dirt Notebook&quot;](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+- [DrDroid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+- [PSA about abuse of cat&lpar;1&rpar; command. Don&#39;t abuse cats](https://www.abuseofcats.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
