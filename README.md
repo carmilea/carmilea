@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Find someone in the dark – light them or light yourself? &lpar;Three.js&rpar;](https://github.com/skorotkiewicz/signal-in-the-dark)
 - [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
 - [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 - [DrDroid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
 <!-- BLOG-POST-LIST:END -->
