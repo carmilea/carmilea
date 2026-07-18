@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac gaming is finally getting the overpowered upgrade it deserves](https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html)
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
 - [I Started a &quot;Dirt Notebook&quot;](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 - [DrDroid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
-- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
-- [PSA about abuse of cat&lpar;1&rpar; command. Don&#39;t abuse cats](https://www.abuseofcats.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
