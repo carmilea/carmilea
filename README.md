@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
+- [C64 Basic Dungeon Crawler: Goblin Attack &lpar;C64 Basic Part 8&rpar;](https://retrogamecoders.com/c64-basic-dungeon-part8/)
+- [Terence McKenna&#39;s Mega Bad Trip](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
+- [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
 - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
-- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
 - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
-- [I joined the IndieWeb, here&#39;s what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
