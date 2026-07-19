@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+- [Perforce charges $500 for training training videos.. and it&#39;s AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
 - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
-- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
-- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
 - [Deepsec](https://github.com/vercel-labs/deepsec)
 - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 <!-- BLOG-POST-LIST:END -->
