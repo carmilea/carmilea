@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C64 Basic Dungeon Crawler: Goblin Attack &lpar;C64 Basic Part 8&rpar;](https://retrogamecoders.com/c64-basic-dungeon-part8/)
-- [Terence McKenna&#39;s Mega Bad Trip](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
-- [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
-- [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
-- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+- [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
+- [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html)
+- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
+- [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
+- [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
