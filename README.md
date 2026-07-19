@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mayor Mamdani Says Landlords Can&#39;t Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-- [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
-- [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
-- [Judge a book by its first pages](https://uncovered.ink)
-- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
+- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+- [Harness Engineering](https://github.com/lopopolo/harness-engineering)
+- [Codex Resets](https://codex-resets.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
