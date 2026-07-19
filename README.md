@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
+- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
+- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
+- [Deepsec](https://github.com/vercel-labs/deepsec)
 - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
-- [Harness Engineering](https://github.com/lopopolo/harness-engineering)
-- [Codex Resets](https://codex-resets.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
