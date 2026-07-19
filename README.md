@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
+- [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
 - [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-- [Perforce charges $500 for training training videos.. and it&#39;s AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
-- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
-- [Deepsec](https://github.com/vercel-labs/deepsec)
-- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+- [Show HN: OfflineTTS — Free browser-based TTS &amp; STT that runs locally](https://offlinetts.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
