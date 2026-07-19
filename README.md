@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
-- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
-- [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
-- [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-- [Show HN: OfflineTTS — Free browser-based TTS &amp; STT that runs locally](https://offlinetts.com/)
+- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+- [I joined the IndieWeb, here&#39;s what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
+- [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
