@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
-- [Hacker wipes Romania&#39;s land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
-- [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
-- [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
-- [We&#39;re Squandering LEDs&#39; Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
+- [Jaron Lanier: there is no AI &lpar;2023&rpar;](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+- [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
+- [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
+- [Kimi K3, Qwen 3.8, and Anthropic&#39;s &lpar;Potential&rpar; Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
+- [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion &lpar;2012&rpar;](https://nothings.org/gamedev/ssao/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
