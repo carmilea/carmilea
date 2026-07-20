@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
 - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
-- [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
 - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
 - [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
-- [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
