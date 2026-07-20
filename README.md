@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Done with Mullvad](https://moonwriting.blog/i-m-done-with-mullvad)
+- [Why is it so hard for the U.S. to win wars?](https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars)
+- [GitHub&#39;s 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
+- [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 - [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
-- [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
-- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
-- [Power companies are using eminent domain to seize land for data centers](https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
