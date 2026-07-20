@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
-- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
-- [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
-- [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
+- [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)
+- [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
+- [The creepiest &#39;sales demo&#39; of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
+- [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
+- [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
