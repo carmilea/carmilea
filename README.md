@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is it so hard for the U.S. to win wars?](https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars)
-- [GitHub&#39;s 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
-- [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
-- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
-- [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
+- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
+- [Hacker wipes Romania&#39;s land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+- [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
+- [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
+- [We&#39;re Squandering LEDs&#39; Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
