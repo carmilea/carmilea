@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jaron Lanier: there is no AI &lpar;2023&rpar;](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
-- [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
-- [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
-- [Kimi K3, Qwen 3.8, and Anthropic&#39;s &lpar;Potential&rpar; Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
-- [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion &lpar;2012&rpar;](https://nothings.org/gamedev/ssao/)
+- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
+- [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
+- [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
+- [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
+- [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
