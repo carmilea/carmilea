@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
+- [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
 - [Five US tech giants&#39; hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
 - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
 - [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
-- [Is surveillance risk chilling your online speech?](https://news.ycombinator.com/item?id=48987634)
-- [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, &amp; Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
 <!-- BLOG-POST-LIST:END -->
 
 ---
