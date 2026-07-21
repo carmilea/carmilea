@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Is Not a Compiler](https://blog.exe.dev/claude-is-not-a-compiler)
-- [Sarah&#39;s Wager](https://colossus.com/article/sarah-guo-conviction/)
-- [Apple Defeats Liability for Not Scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
-- [PCjs Machines](https://www.pcjs.org/)
-- [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
+- [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)
+- [Meta&#39;s AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
+- [Bloomy &lpar;YC S26&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
+- [The World&#39;s 2,400 Castles](https://thecastlemap.com/)
+- [France&#39;s Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
