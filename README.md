@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-- [&#39;VPNs are lawful technical tools,&#39; says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
-- [Advertise in ChatGPT](https://ads.openai.com/)
-- [The Price of Happiness &lpar;2024&rpar;](https://happiness-science.org/price-of-happiness/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
+- [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
+- [&quot;Drawing&quot; the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
