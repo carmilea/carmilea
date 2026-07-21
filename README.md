@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [&#39;VPNs are lawful technical tools,&#39; says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
 - [Advertise in ChatGPT](https://ads.openai.com/)
-- [The Price of Happiness](https://happiness-science.org/price-of-happiness/)
-- [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
-- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-- [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
+- [The Price of Happiness &lpar;2024&rpar;](https://happiness-science.org/price-of-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
