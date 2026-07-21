@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)
-- [Meta&#39;s AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
-- [Bloomy &lpar;YC S26&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
-- [The World&#39;s 2,400 Castles](https://thecastlemap.com/)
-- [France&#39;s Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
+- [Advertise in ChatGPT](https://ads.openai.com/)
+- [The Price of Happiness](https://happiness-science.org/price-of-happiness/)
+- [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+- [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
