@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
-- [Ten Steps Towards Happiness &lpar;2015&rpar;](http://hintjens.com/blog:99)
-- [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
-- [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
-- [It&#39;s a shame what&#39;s happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+- [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
+- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
