@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
-- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+- [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
+- [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+- [10 REM&quot;_&lpar;C2SLFF4](https://beej.us/blog/data/mystery-comment/)
+- [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
-- [Never Enough](https://dark.ronacher.eu/2026/7/21/never-enough/)
-- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
