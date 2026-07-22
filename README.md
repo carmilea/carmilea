@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iceberg Needs an Open Catalog, Not a Walled Garden](https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden)
+- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 - [Terrence Tao&#39;s ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-- [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
-- [Launch HN: Unlayer &lpar;YC W22&rpar; – Add email and document builders to your app](https://unlayer.com)
-- [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
+- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
