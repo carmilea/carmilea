@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Codeberg bans vibe coded projects](https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434)
 - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
 - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
-- [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
-- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
+- [Tesla Balance Bike](https://shop.tesla.com/product/balance-bike-for-kids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
