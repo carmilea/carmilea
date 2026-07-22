@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terrence Tao&#39;s ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+- [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
 - [Launch HN: Unlayer &lpar;YC W22&rpar; – Add email and document builders to your app](https://unlayer.com)
-- [Does creatine make you smarter?](https://dynomight.net/creatine/)
-- [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)
-- [A Zipper Patent Sat in a Garage for 40 Years. Now It&#39;s Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
-- [Making](https://beej.us/blog/data/ai-making/)
+- [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
