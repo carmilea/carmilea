@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iceberg Needs an Open Catalog, Not a Walled Garden](https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden)
-- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
-- [Terrence Tao&#39;s ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
+- [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
+- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+- [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
+- [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
