@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
-- [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
-- [10 REM&quot;_&lpar;C2SLFF4](https://beej.us/blog/data/mystery-comment/)
-- [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
-- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- [Launch HN: Unlayer &lpar;YC W22&rpar; – Add email and document builders to your app](https://unlayer.com)
+- [Does creatine make you smarter?](https://dynomight.net/creatine/)
+- [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)
+- [A Zipper Patent Sat in a Garage for 40 Years. Now It&#39;s Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
+- [Making](https://beej.us/blog/data/ai-making/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
