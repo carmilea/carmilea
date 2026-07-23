@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- [Launch HN: Screenpipe &lpar;YC S26&rpar; – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
-- [JEP 540: Simple JSON API &lpar;Now in Incubator&rpar;](https://openjdk.org/jeps/540)
-- [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
-- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
+- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+- [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
