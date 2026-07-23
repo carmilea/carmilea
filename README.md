@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
+- [Selfie for sign-in: a new, easy way to access your Google Account](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)
 - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
 - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
 - [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
