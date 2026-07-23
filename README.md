@@ -61,8 +61,8 @@
 - [Cruller: Bun&#39;s Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 - [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
 - [Restructuring GitHub&#39;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-- [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
-- [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
+- [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
