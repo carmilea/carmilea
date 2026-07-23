@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing by Hand is Good for your Brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
-- [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
-- [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
-- [Private healthcare makes industries less innovative. It&#39;s time for change](https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/)
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
+- [Launch HN: Screenpipe &lpar;YC S26&rpar; – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
+- [JEP 540: Simple JSON API &lpar;Now in Incubator&rpar;](https://openjdk.org/jeps/540)
+- [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
+- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
