@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
-- [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
-- [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
-- [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
-- [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
+- [Writing by Hand is Good for your Brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+- [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
+- [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
+- [Private healthcare makes industries less innovative. It&#39;s time for change](https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
