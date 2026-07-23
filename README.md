@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruller: Bun&#39;s Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
-- [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
-- [Restructuring GitHub&#39;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-- [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
-- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
+- [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
+- [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
+- [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
+- [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
+- [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
