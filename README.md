@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For most US drivers, EVs offer emissions benefits and cost savings](https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512)
-- [Show HN: A factory simulator game built on Spreadsheets](https://www.logisheets.com/?craft=factory-simulator)
+- [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
+- [Flux 3](https://bfl.ai/blog/flux-3)
+- [Claude Cookbook](https://platform.claude.com/cookbook/)
 - [The Visual 6502](http://visual6502.org/JSSim/index.html)
 - [98.css](https://jdan.github.io/98.css/#status-bar)
-- [Couple pay &gt;$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
 <!-- BLOG-POST-LIST:END -->
 
 ---
