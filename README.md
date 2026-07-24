@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
-- [I got into YC &lpar;Startup School&rpar; by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
+- [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
 - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Don&#39;t Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
