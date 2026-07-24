@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
-- [Flux 3](https://bfl.ai/blog/flux-3)
-- [Claude Cookbook](https://platform.claude.com/cookbook/)
-- [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- [98.css](https://jdan.github.io/98.css/#status-bar)
+- [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
+- [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
+- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+- [Buz – A fork of Bun using modern Zig, with sub-1s incremental builds](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891)
+- [Hetzner is working on LLM Inference](https://sliplane.io/blog/hetzner-inference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
