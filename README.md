@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Welcome to the H2O.ai University Partner Portal | Your Learning Hub Explained](https://www.youtube.com/watch?v=iu3ivuzQVRk)
 - [Postgres to SingleStore: Unlocking Major Performance Enhancements](https://www.youtube.com/watch?v=DvgzQPEWzdE)
 - [Postgres to SingleStore: Unlocking Major Performance Enhancements](https://www.youtube.com/watch?v=PvRAhXFsGbU)
-- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=_XI-qXEkxeU)
-- [Designing a Real-Time Data Warehouse for Modern Applications](https://www.youtube.com/watch?v=zBYspi7S0ws)
-- [Aura AI Platform: Intelligence at Inference Speed](https://www.youtube.com/watch?v=Pbuywys_pgk)
+- [TabH2O in Action: Predictions From Your Spreadsheet | Full Webinar](https://www.youtube.com/watch?v=cQEw6cpovxw)
+- [Optimizing ML Models for Business ROI with H2O Driverless AI | Part 25](https://www.youtube.com/watch?v=h5gVkQwOe_4)
 <!-- YOUTUBE:END -->
 
 
