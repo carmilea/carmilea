@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
+- [I got into YC &lpar;Startup School&rpar; by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
 - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-- [Build Systems Discussion](https://civboot.github.io/blog/2026-07-24-build-systems.html)
-- [The Kids&#39; Guide to Piracy](https://friendo.monster/posts/the-kids-guide-to-piracy.html)
-- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
+- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
