@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle fires 21,000 employees to fund AI spending](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
-- [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
-- [Ah, the Codeberg Drama](https://gagliardoni.net/#20260724_codeberg_drama)
-- [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
-- [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
+- [Marc Andreessen, venture capitalist, married to wait, what?](https://tyrandus.dev/2026/07/23/marc-andreessen-venture-capitalist-married-to-wait-what/)
+- [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
+- [Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)
+- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+- [Co-Opting Linux Processes for High-Performance Network Simulation &lpar;2022&rpar;](https://www.usenix.org/conference/atc22/presentation/jansen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
