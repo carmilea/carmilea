@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marc Andreessen, venture capitalist, married to wait, what?](https://tyrandus.dev/2026/07/23/marc-andreessen-venture-capitalist-married-to-wait-what/)
-- [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
-- [Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)
-- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
-- [Co-Opting Linux Processes for High-Performance Network Simulation &lpar;2022&rpar;](https://www.usenix.org/conference/atc22/presentation/jansen)
+- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
+- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+- [Build Systems Discussion](https://civboot.github.io/blog/2026-07-24-build-systems.html)
+- [The Kids&#39; Guide to Piracy](https://friendo.monster/posts/the-kids-guide-to-piracy.html)
+- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
