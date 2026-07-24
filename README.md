@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
-- [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
-- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
-- [Buz – A fork of Bun using modern Zig, with sub-1s incremental builds](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891)
-- [Hetzner is working on LLM Inference](https://sliplane.io/blog/hetzner-inference)
+- [Oracle fires 21,000 employees to fund AI spending](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
+- [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
+- [Ah, the Codeberg Drama](https://gagliardoni.net/#20260724_codeberg_drama)
+- [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
+- [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
