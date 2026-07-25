@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
 - [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
 - [UK AISI / Caisi Preliminary Assessment of Kimi K3&#39;s Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
-- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
