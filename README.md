@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iceberg Needs an Open Catalog, Not a Walled Garden](https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden)
-- [Scaling Database Availability Without Disruption](https://www.singlestore.com/blog/scaling-database-availability-without-disruption)
-- [How fresh is ad data by the time anyone can query it?](https://www.singlestore.com/blog/ad-data-freshness)
-- [Why ad platforms end up running six databases to answer one question](https://www.singlestore.com/blog/adtech-serving-layer-sprawl)
-- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
+- [We Need a National Ballroom](https://weneedaballroom.com/)
+- [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
+- [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
+- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
+- [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
