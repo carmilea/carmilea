@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
-- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Don&#39;t Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+- [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13)
+- [AIs don&#39;t do what you want. This is bad](https://rewardhacking.org)
+- [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
