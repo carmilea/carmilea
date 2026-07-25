@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tile&#39;s security is so bad it&#39;s a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
 - [Rauno&#39;s Field Notes #2](https://rauno.me/notes/2)
-- [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
-- [Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
+- [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
