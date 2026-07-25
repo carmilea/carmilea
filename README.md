@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tile&#39;s security is so bad it&#39;s a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
-- [Rauno&#39;s Field Notes #2](https://rauno.me/notes/2)
-- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
-- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
-- [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
+- [Iceberg Needs an Open Catalog, Not a Walled Garden](https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden)
+- [Scaling Database Availability Without Disruption](https://www.singlestore.com/blog/scaling-database-availability-without-disruption)
+- [How fresh is ad data by the time anyone can query it?](https://www.singlestore.com/blog/ad-data-freshness)
+- [Why ad platforms end up running six databases to answer one question](https://www.singlestore.com/blog/adtech-serving-layer-sprawl)
+- [Open Intelligence, Open Data: SingleStore delivers Zero-copy Compute on Apache Iceberg](https://www.singlestore.com/blog/open-intelligence-open-data-singlestore-delivers-zero-copy-compute-on-apache-iceberg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
