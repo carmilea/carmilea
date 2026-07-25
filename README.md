@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silurian Hypothesis &lpar;2020&rpar;](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
-- [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
-- [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
-- [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
+- [Rauno&#39;s Field Notes #2](https://rauno.me/notes/2)
+- [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
+- [Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
+- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
+- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
