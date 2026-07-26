@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
+- [Humans haven&#39;t stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 - [JetZero](https://www.jetzero.aero)
 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-- [Show HN: What 180k words look like as a temporal knowledge graph &lpar;Oz series&rpar;](https://synaptale.com/graph?ch=100)
-- [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
+- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
