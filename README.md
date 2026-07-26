@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
-- [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
-- [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
-- [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
-- [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
+- [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
+- [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
+- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
+- [Design Is Compromise](https://stephango.com/design-is-compromise)
+- [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 <!-- BLOG-POST-LIST:END -->
 
 ---
