@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+- [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
+- [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+- [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
 - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
-- [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
-- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
-- [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
-- [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
