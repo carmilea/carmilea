@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
+- [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
+- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
-- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
 - [JetZero](https://www.jetzero.aero)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
