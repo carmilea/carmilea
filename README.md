@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
+- [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
 - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
-- [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
-- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
-- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
-- [JetZero](https://www.jetzero.aero)
+- [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
