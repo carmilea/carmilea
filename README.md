@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Need a National Ballroom](https://weneedaballroom.com/)
-- [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
-- [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
-- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
-- [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
+- [JetZero](https://www.jetzero.aero)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
+- [Show HN: What 180k words look like as a temporal knowledge graph &lpar;Oz series&rpar;](https://synaptale.com/graph?ch=100)
+- [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
