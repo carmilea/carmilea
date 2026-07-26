@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
-- [Humans haven&#39;t stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 - [JetZero](https://www.jetzero.aero)
 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
 - [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
