@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
-- [What does GitHub&#39;s security team even do?](https://orchidfiles.com/github-security-team/)
-- [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
-- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
+- [Multiway Turing Machines &lpar;2021 pre-ai&rpar;](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
+- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
