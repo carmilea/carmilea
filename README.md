@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
-- [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
-- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
-- [Design Is Compromise](https://stephango.com/design-is-compromise)
-- [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
+- [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)
+- [Show HN: The Occult Gatsby](https://occultgatsby.work)
+- [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
+- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+- [Decker](https://beyondloom.com/decker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
