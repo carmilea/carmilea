@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)
-- [Show HN: The Occult Gatsby](https://occultgatsby.work)
+- [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
+- [What does GitHub&#39;s security team even do?](https://orchidfiles.com/github-security-team/)
 - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
 - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-- [Decker](https://beyondloom.com/decker/)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
