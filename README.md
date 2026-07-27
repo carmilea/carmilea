@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+- [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+- [Forth](https://xkcd.com/3277/)
 - [Launch HN: Rise Reforming &lpar;YC S26&rpar; – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
-- [Professor&#39;s invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
-- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
-- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
-- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
