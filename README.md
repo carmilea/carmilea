@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Rise Reforming &lpar;YC S26&rpar; – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
+- [Professor&#39;s invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
 - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
 - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
 - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
-- [Why Lattice Semiconductor buying a x86_64 BIOS company shows engineer disrespect](https://news.ycombinator.com/item?id=49073595)
-- [Judge Rejects Google&#39;s Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
