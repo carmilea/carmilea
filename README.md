@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
-- [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
-- [Why I Left Google DeepMind](https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind)
-- [Shay Locomotives](https://www.shaylocomotives.com/)
-- [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
+- [We Tested Nonstick Cookware: Coatings Don&#39;t Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
+- [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
+- [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
+- [The Proof Machine &lpar;2016&rpar;](https://incredible.pm/)
+- [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
