@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Tested Nonstick Cookware: Coatings Don&#39;t Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
-- [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
-- [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
-- [The Proof Machine &lpar;2016&rpar;](https://incredible.pm/)
-- [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
+- [Nvidia&#39;s $750B in Deals Reignite Circular AI Fears](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
+- [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
+- [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
+- [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
+- [AI companies spend record sums on Washington lobbying](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
