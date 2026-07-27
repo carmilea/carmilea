@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia&#39;s $750B in Deals Reignite Circular AI Fears](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
-- [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
-- [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
-- [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
-- [AI companies spend record sums on Washington lobbying](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
+- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
+- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
+- [Why Lattice Semiconductor buying a x86_64 BIOS company shows engineer disrespect](https://news.ycombinator.com/item?id=49073595)
+- [Judge Rejects Google&#39;s Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
