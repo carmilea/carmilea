@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
+- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
 - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
 - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
