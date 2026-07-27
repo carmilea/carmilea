@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
-- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
-- [Multiway Turing Machines &lpar;2021 pre-ai&rpar;](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
-- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
-- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
+- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
