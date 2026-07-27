@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
-- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
-- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
-- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
+- [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
+- [Why I Left Google DeepMind](https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind)
+- [Shay Locomotives](https://www.shaylocomotives.com/)
+- [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
