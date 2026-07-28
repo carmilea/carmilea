@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
-- [VMs can&#39;t boot with Network Mode set to Bridged on Apple M5 Pro machines](https://github.com/utmapp/UTM/issues/7658)
-- [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
-- [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)
-- [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
+- [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+- [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
+- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+- [WOFF 1.0: a milestone on W3C&#39;s journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
+- [Coding Tools MCP &lpar;v0.2.2&rpar;:Give any AI chat or agent a pair of hands on your code](https://github.com/xyTom/coding-tools-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
