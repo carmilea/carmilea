@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Donate to GrapheneOS](https://grapheneos.org/donate)
+- [Deflock Casa Grande](https://deflockcg.com/)
+- [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+- [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
-- [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
-- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
-- [WOFF 1.0: a milestone on W3C&#39;s journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
-- [Coding Tools MCP &lpar;v0.2.2&rpar;:Give any AI chat or agent a pair of hands on your code](https://github.com/xyTom/coding-tools-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
