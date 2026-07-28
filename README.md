@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
-- [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
-- [Pacing the frontier](https://www.pacingthefrontier.com/)
-- [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
-- [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
+- [Underwater Oxygen Loss Threatens Earth&#39;s Stability, Researchers Warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+- [Running Kimi K3 on a M1 Max](https://github.com/gavamedia/deltafin)
+- [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
