@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Donate to GrapheneOS](https://grapheneos.org/donate)
-- [Deflock Casa Grande](https://deflockcg.com/)
-- [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
-- [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
-- [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+- [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
+- [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
+- [Pacing the frontier](https://www.pacingthefrontier.com/)
+- [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
+- [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
