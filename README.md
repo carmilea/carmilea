@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
-- [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
-- [Forth](https://xkcd.com/3277/)
-- [Launch HN: Rise Reforming &lpar;YC S26&rpar; – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
+- [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
+- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
+- [Vehicle Motion Cues](https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios)
+- [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
