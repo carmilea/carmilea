@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
-- [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
-- [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
-- [Austerity Breeds Financial Protectionism](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
-- [The motion-sickness cure hidden in iPhone settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
+- [SalesPatriot &lpar;YC W25&rpar; Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+- [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
+- [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
