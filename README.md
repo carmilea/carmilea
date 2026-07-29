@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
-- [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
-- [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
-- [Valve Sponsors Work Bringing Open-Source RADV Driver to Windows](https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows)
-- [TokenTown: A visual way to understand how LLMs work](https://laurentiugabriel.github.io/token-town/)
+- [PgDog &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+- [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
+- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+- [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
+- [I Want to Leave the Internet](https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
