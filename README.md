@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
-- [They Stole Your Attention](https://moai.studio/blog/posts/they-stole-your-attention.html)
-- [KOReader](https://koreader.rocks/)
-- [Starling: The first real desktop written by AI](https://starling.build/)
-- [We Hardened an AI Security Platform Against 16 Critical Vulnerabilities](https://aegis-security.higgsfield.app)
+- [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
+- [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
+- [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
+- [Valve Sponsors Work Bringing Open-Source RADV Driver to Windows](https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows)
+- [TokenTown: A visual way to understand how LLMs work](https://laurentiugabriel.github.io/token-town/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
