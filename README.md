@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
-- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
-- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
+- [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+- [They Stole Your Attention](https://moai.studio/blog/posts/they-stole-your-attention.html)
+- [KOReader](https://koreader.rocks/)
+- [Starling: The first real desktop written by AI](https://starling.build/)
+- [We Hardened an AI Security Platform Against 16 Critical Vulnerabilities](https://aegis-security.higgsfield.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
