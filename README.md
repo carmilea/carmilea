@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PgDog &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
-- [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
-- [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
-- [I Want to Leave the Internet](https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/)
+- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
+- [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
+- [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+- [Austerity Breeds Financial Protectionism](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
+- [The motion-sickness cure hidden in iPhone settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
