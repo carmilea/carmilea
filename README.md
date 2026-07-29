@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
-- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
-- [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo)
-- [LearnVector – Andrew Ng&#39;s AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
