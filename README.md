@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
+- [AI&#39;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+- [The Cold Email](https://zachholman.com/posts/cold-email)
 - [SalesPatriot &lpar;YC W25&rpar; Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
-- [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
-- [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
