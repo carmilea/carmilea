@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Underwater Oxygen Loss Threatens Earth&#39;s Stability, Researchers Warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
-- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
-- [Running Kimi K3 on a M1 Max](https://github.com/gavamedia/deltafin)
-- [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)
-- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/)
+- [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
+- [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo)
+- [LearnVector – Andrew Ng&#39;s AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
