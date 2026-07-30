@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-- [Rise Reforming &lpar;YC S26&rpar; Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
-- [How Olinia Turns Mexico&#39;s EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
+- [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+- [Making Postgres queues scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
+- [What would it mean to see a new color?](https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color)
+- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
+- [Show HN: Distilling DeepSeek into GPT-OSS doesn&#39;t transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
