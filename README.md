@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
-- [Launch HN: Prized &lpar;YC S26&rpar; – Let non-engineer staff build secure internal tools](https://prized.dev)
-- [RFC 8890 – The Internet is for End Users &lpar;2020&rpar;](https://mnot.net/blog/2020/for_the_users)
-- [&#39;VPNs are lawful technical tools,&#39; says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
-- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
+- [Pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+- [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
+- [Physicists Solve a Muon Mystery. Now, Old Results Don&#39;t Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+- [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
