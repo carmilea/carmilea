@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
-- [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
-- [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
-- [Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
-- [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
+- [Europe&#39;s fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
+- [Launch HN: Prized &lpar;YC S26&rpar; – Let non-engineer staff build secure internal tools](https://prized.dev)
+- [RFC 8890 – The Internet is for End Users &lpar;2020&rpar;](https://mnot.net/blog/2020/for_the_users)
+- [&#39;VPNs are lawful technical tools,&#39; says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
