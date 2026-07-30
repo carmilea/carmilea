@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
-- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
-- [Logic for Programmers by Hillel Wayne](https://logicforprogrammers.com/)
+- [1,741 &quot;informed&quot; consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
+- [Logic for Programmers](https://logicforprogrammers.com/)
 - [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
-- [The Productivity Mirage](https://frantic.im/mirage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
