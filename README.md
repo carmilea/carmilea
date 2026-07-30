@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
-- [AI&#39;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [The Cold Email](https://zachholman.com/posts/cold-email)
-- [SalesPatriot &lpar;YC W25&rpar; Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
+- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
+- [Logic for Programmers by Hillel Wayne](https://logicforprogrammers.com/)
+- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+- [The Productivity Mirage](https://frantic.im/mirage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
