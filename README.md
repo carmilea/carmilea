@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1,741 &quot;informed&quot; consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
-- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+- [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
 - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 - [Logic for Programmers](https://logicforprogrammers.com/)
-- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+- [The Productivity Mirage](https://frantic.im/mirage/)
+- [Man and the Computer by John G. Kemeny &lpar;1972 book by the co-creator of BASIC&rpar;](https://archive.org/details/mancomputerbyjoh0000john)
 <!-- BLOG-POST-LIST:END -->
 
 ---
