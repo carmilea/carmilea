@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
-- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
-- [Logic for Programmers](https://logicforprogrammers.com/)
-- [The Productivity Mirage](https://frantic.im/mirage/)
-- [Man and the Computer by John G. Kemeny &lpar;1972 book by the co-creator of BASIC&rpar;](https://archive.org/details/mancomputerbyjoh0000john)
+- [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
+- [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
+- [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+- [Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
+- [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
