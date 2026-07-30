@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
-- [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
-- [Physicists Solve a Muon Mystery. Now, Old Results Don&#39;t Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
-- [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
+- [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- [Rise Reforming &lpar;YC S26&rpar; Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
+- [How Olinia Turns Mexico&#39;s EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
