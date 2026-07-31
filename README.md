@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
 - [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
 - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
-- [JEP 401: Value Objects &lpar;Preview&rpar; merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
-- [The session you cannot take with you](https://earendil.com/posts/session-portability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
