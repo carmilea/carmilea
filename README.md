@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailscale didn&#39;t stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
-- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
-- [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
-- [Termixer &lpar;TUI DJ Mixer&rpar;](https://github.com/l00sed/termixer)
+- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
+- [Loops &lpar;YC W22&rpar; Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+- [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
