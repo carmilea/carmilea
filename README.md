@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
-- [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
-- [The bond market isn&#39;t buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
-- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
-- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
+- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+- [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
+- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
+- [JEP 401: Value Objects &lpar;Preview&rpar; merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
