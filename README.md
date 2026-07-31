@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby Central&#39;s Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
-- [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
-- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
-- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
+- [A GTK4 SSH-askpass in Zig](https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/)
+- [New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
+- [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+- [Admin: Terminally Ill Patients Aren&#39;t Exempt from Medicaid Work Requirements](https://www.commondreams.org/news/trump-medicaid-work-requirements-2677293170)
+- [Elevators](https://john.fun/elevators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
