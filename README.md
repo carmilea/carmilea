@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
-- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
-- [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
+- [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
+- [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
+- [The bond market isn&#39;t buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
+- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
