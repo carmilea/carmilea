@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby Central&#39;s Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+- [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
-- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
-- [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
-- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
