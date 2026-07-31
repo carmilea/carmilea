@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A GTK4 SSH-askpass in Zig](https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/)
-- [New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
-- [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
-- [Admin: Terminally Ill Patients Aren&#39;t Exempt from Medicaid Work Requirements](https://www.commondreams.org/news/trump-medicaid-work-requirements-2677293170)
-- [Elevators](https://john.fun/elevators)
+- [qm](https://github.com/yc-software/qm)
+- [Show HN: Slope remade in HTML5 to load instantly on any browser, any device](https://hurtle.site/)
+- [Miso &lpar;YC S16&rpar; is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
+- [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
+- [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
