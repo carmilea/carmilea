@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [qm](https://github.com/yc-software/qm)
-- [Show HN: Slope remade in HTML5 to load instantly on any browser, any device](https://hurtle.site/)
-- [Miso &lpar;YC S16&rpar; is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
-- [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
-- [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
+- [Tailscale didn&#39;t stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
+- [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
+- [Termixer &lpar;TUI DJ Mixer&rpar;](https://github.com/l00sed/termixer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
