@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
-- [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
-- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
+- [A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+- [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
+- [Pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+- [BMW Is Showing Commercials on Their Car&#39;s Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
 - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
-- [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
