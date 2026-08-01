@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
-- [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
-- [Pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
-- [BMW Is Showing Commercials on Their Car&#39;s Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
-- [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
+- [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
+- [Google News is just Forrest Gump&#39;s shrimp boat now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+- [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+- [Signal Structure of the Starlink Ku-Band Downlink &lpar;2023&rpar; [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
+- [Chess Engine Dev Community Openly Hostile to AI Assisted Development](https://github.com/adamtwiss/coda/issues/15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
