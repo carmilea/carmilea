@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+- [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
+- [Astro Loop](https://pubdeer.com/)
 - [Kontigo &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
-- [RamenHaus](https://ramen.haus/)
-- [How to Do Great Work &lpar;2023&rpar;](https://paulgraham.com/greatwork.html)
-- [AI doesn&#39;t generate working products, that&#39;s still your job](https://weeraman.com/the-prototype-isnt-the-product/)
-- [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
