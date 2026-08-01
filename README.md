@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
-- [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
-- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
-- [Astro Loop](https://pubdeer.com/)
-- [Kontigo &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
+- [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+- [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
+- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
+- [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
+- [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
