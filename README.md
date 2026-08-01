@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
-- [Google News is just Forrest Gump&#39;s shrimp boat now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
-- [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
-- [Signal Structure of the Starlink Ku-Band Downlink &lpar;2023&rpar; [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
-- [Chess Engine Dev Community Openly Hostile to AI Assisted Development](https://github.com/adamtwiss/coda/issues/15)
+- [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
+- [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+- [Diátaxis](https://diataxis.fr/)
+- [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
