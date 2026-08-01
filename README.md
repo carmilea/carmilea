@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
-- [What Liberal Arts Education Is for &lpar;2024&rpar;](https://innig.net/teaching/liberal-arts-manifesto)
-- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-- [A Week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
+- [RamenHaus](https://ramen.haus/)
+- [How to Do Great Work](https://paulgraham.com/greatwork.html)
+- [AI doesn&#39;t generate working products, that&#39;s still your job](https://weeraman.com/the-prototype-isnt-the-product/)
+- [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
