@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loops &lpar;YC W22&rpar; Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
-- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
-- [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
-- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
-- [Tailscale didn&#39;t stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
+- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
+- [A Week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
