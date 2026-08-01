@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kontigo &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 - [RamenHaus](https://ramen.haus/)
-- [How to Do Great Work](https://paulgraham.com/greatwork.html)
+- [How to Do Great Work &lpar;2023&rpar;](https://paulgraham.com/greatwork.html)
 - [AI doesn&#39;t generate working products, that&#39;s still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
