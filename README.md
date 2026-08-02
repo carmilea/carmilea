@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Rant About “Technology” &lpar;2005&rpar;](https://www.ursulakleguin.com/a-rant-about-technology)
-- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-- [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
+- [The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
+- [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
+- [Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
+- [Linux Desktop Market Share Surpasses 10% in North America](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
+- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
