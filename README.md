@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
-- [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
-- [Morph &lpar;YC S23&rpar; Is Hiring Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
-- [Anime User Interfaces](https://animeuserinterface.tumblr.com)
-- [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
+- [Deep-sea vehicles spot &#39;alien&#39; sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
+- [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+- [When random.bytes&lpar;&rpar; runs but doesn&#39;t work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
