@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The time filter in Google Search broke a few days ago](https://mastodon.online/@mwichary/117023736804129342)
+- [I don&#39;t recommend Tailwind CSS](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
 - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-- [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
 - [Deep-sea vehicles spot &#39;alien&#39; sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
-- [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
