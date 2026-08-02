@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Rant About “Technology” &lpar;2005&rpar;](https://www.ursulakleguin.com/a-rant-about-technology)
 - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
 - [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
-- [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
