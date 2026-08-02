@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+- [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
 - [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
 - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
-- [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349)
-- [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
