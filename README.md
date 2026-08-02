@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
-- [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-- [Diátaxis](https://diataxis.fr/)
-- [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
+- [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
+- [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
+- [Morph &lpar;YC S23&rpar; Is Hiring Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
+- [Anime User Interfaces](https://animeuserinterface.tumblr.com)
+- [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
