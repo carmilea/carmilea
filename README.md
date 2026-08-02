@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU rules on AI models become enforceable. What&#39;s going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
-- [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
-- [Europe EV Sales BEVs Jump 50% &amp; Reach 26% Market Share](https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/)
-- [&#39;Crush this lady&#39;: how eBay harassment campaign led to $56M payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
-- [SwiftUI After 7 Years: A Story of Mediocrity](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
+- [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)
+- [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
+- [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
+- [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
+- [Let the machines in](https://blog.semenzin.com/let-the-machines-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
