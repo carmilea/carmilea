@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
-- [Don&#39;t be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
-- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [The AI bubble is popping; we just don&#39;t know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
+- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+- [9front &quot;This Was Supposed to Be Fun&quot; Released](https://9front.org/releases/2026/08/02/0/)
+- [ICE Collected Nearly 1M People&#39;s DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
+- [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
