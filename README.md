@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s debt binge can&#39;t last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
-- [Is Kentucky About to Give Billions in Tax Breaks to Data Centers?](https://kypolicy.org/kentucky-data-center-tax-breaks/)
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- [ZX Spectrum System Tour: Text Mode – Bumbershoot Software](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 - [The Dunning-Kruger effect may just be a data artefact &lpar;2020&rpar;](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
-- [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
