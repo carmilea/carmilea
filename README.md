@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)
-- [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
-- [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
-- [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
-- [Let the machines in](https://blog.semenzin.com/let-the-machines-in/)
+- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
+- [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+- [The Computational Theory of Mind &lpar;2015&rpar;](https://plato.stanford.edu/entries/computational-mind/)
+- [Californians&#39; data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+- [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
