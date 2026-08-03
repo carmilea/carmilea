@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+- [Don&#39;t be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
+- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-- [Show HN: ssh ssh.place](https://ssh.place)
 <!-- BLOG-POST-LIST:END -->
 
 ---
