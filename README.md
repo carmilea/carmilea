@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s debt binge can&#39;t last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+- [Is Kentucky About to Give Billions in Tax Breaks to Data Centers?](https://kypolicy.org/kentucky-data-center-tax-breaks/)
+- [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
+- [The Dunning-Kruger effect may just be a data artefact &lpar;2020&rpar;](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
-- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
