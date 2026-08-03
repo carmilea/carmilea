@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
-- [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
-- [The Computational Theory of Mind &lpar;2015&rpar;](https://plato.stanford.edu/entries/computational-mind/)
-- [Californians&#39; data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
-- [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+- [Show HN: ssh ssh.place](https://ssh.place)
 <!-- BLOG-POST-LIST:END -->
 
 ---
