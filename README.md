@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
+- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
 - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-- [Help Wanted](https://lake.computer/blog/help-wanted/)
-- [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)
-- [Launch HN: Hoplite &lpar;YC S26&rpar; – Effortlessly deploy cloud coding agents](https://hoplite.sh)
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
