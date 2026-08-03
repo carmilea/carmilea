@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
-- [Flock&#39;s CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
-- [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-- [Utah produced more power from solar than any other source in May, a new first](https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/)
+- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+- [Help Wanted](https://lake.computer/blog/help-wanted/)
+- [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)
+- [Launch HN: Hoplite &lpar;YC S26&rpar; – Effortlessly deploy cloud coding agents](https://hoplite.sh)
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
