@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI bubble is popping; we just don&#39;t know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
-- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
-- [9front &quot;This Was Supposed to Be Fun&quot; Released](https://9front.org/releases/2026/08/02/0/)
-- [ICE Collected Nearly 1M People&#39;s DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
-- [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
+- [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
+- [Flock&#39;s CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
+- [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+- [Utah produced more power from solar than any other source in May, a new first](https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
