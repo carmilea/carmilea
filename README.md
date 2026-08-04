@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
-- [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
-- [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+- [You don&#39;t need React: creating a minimal UI library in Vanilla JavaScript](https://pedroth.github.io/?p=post/NoNeedReact)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
 - [There Will Come Soft Rains &lpar;1950&rpar; [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 <!-- BLOG-POST-LIST:END -->
