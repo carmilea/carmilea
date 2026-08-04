@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcoming Edward Hsu as SingleStore’s Chief Product Officer](https://www.singlestore.com/blog/welcoming-edward-hsu-as-singlestores-chief-product-officer)
-- [Resolving identity across a billion devices without a nightly batch](https://www.singlestore.com/blog/identity-resolution-without-nightly-batch)
-- [SingleStore Helios Achieves PCI DSS v4.0.1 Compliance](https://www.singlestore.com/blog/cloud-database-pci-dss-compliance)
-- [Iceberg Needs an Open Catalog, Not a Walled Garden](https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden)
-- [Scaling Database Availability Without Disruption](https://www.singlestore.com/blog/scaling-database-availability-without-disruption)
+- [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
+- [FFmpeg 9.0](https://jbkempf.com/blog/2026/ffmpeg-9.0/)
+- [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
+- [Germany Records Historic 12B KWh Solar Feed-In in July 2026](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
+- [Xbox goes down. You can&#39;t play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
