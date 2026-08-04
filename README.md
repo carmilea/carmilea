@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Truemetrics &lpar;YC S23&rpar; Is Hiring in Berlin – GTM Lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
-- [Webb telescope finds signs of ancient disaster for Neptune&#39;s moons](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
-- [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
-- [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
-- [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
+- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
+- [Stephen Wolfram&#39;s Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+- [Launch HN: EdotEnv &lpar;YC S26&rpar; – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
+- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
+- [Web security is too hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
