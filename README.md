@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
-- [Stephen Wolfram&#39;s Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+- [Oxide Computer raises $445M &lpar;SEC Form D&rpar;](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+- [Waymo CEO explains why Tesla&#39;s camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
+- [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
 - [Launch HN: EdotEnv &lpar;YC S26&rpar; – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
 - [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
-- [Web security is too hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
