@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
-- [FFmpeg 9.0](https://jbkempf.com/blog/2026/ffmpeg-9.0/)
-- [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
-- [Germany Records Historic 12B KWh Solar Feed-In in July 2026](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
-- [Xbox goes down. You can&#39;t play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+- [Truemetrics &lpar;YC S23&rpar; Is Hiring in Berlin – GTM Lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+- [Webb telescope finds signs of ancient disaster for Neptune&#39;s moons](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
+- [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
+- [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
+- [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
