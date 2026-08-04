@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxide Computer raises $445M &lpar;SEC Form D&rpar;](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
-- [Waymo CEO explains why Tesla&#39;s camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
-- [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
-- [Launch HN: EdotEnv &lpar;YC S26&rpar; – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
-- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
+- [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
+- [DuckDB – Data power tools for your laptop, now in Clojure &lpar;2023&rpar;](https://techascent.com/blog/just-ducking-around.html)
+- [AI fuels more than half of cybercrime in Africa as scams surge – Interpol](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
+- [Thanks FedEx, This Is Why We Keep Getting Phished &lpar;2024&rpar;](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
