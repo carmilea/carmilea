@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There Will Come Soft Rains &lpar;1950&rpar; [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
-- [ZX Spectrum System Tour: Text Mode – Bumbershoot Software](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
+- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-- [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 - [The Dunning-Kruger effect may just be a data artefact &lpar;2020&rpar;](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 <!-- BLOG-POST-LIST:END -->
 
