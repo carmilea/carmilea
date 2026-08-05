@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polling shows a growing political reckoning is coming for data centers](https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799)
-- [Civilian plane crash in New Mexico tied to military GPS blocking](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
-- [Position: LLMs Can&#39;t Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
-- [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
-- [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
+- [Cloudflare OS](https://os.cloudflare.app/)
+- [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
+- [Got a hot date? A secondhand SK Hynix jacket is perfect as bonuses raise cachet](https://www.koreajoongangdaily.com/business/got-a-hot-date-this-secondhand-sk-hynix-jacket-is-perfect-as-bonuses-raise-companys-cachet/12584030)
+- [Rubin Observatory&#39;s first LSST Camera release: 500k galaxies in the COSMOS field](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
+- [Intelligence Is Not the Main Bottleneck](https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
