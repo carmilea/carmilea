@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
-- [DuckDB – Data power tools for your laptop, now in Clojure &lpar;2023&rpar;](https://techascent.com/blog/just-ducking-around.html)
-- [AI fuels more than half of cybercrime in Africa as scams surge – Interpol](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
-- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
-- [Thanks FedEx, This Is Why We Keep Getting Phished &lpar;2024&rpar;](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+- [After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)
+- [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
+- [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+- [Flowise Is Shutting Down](https://flowiseai.com/sunset)
+- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
