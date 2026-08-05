@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
+- [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 - [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
 - [Zed DeltaDB](https://zed.dev/deltadb)
-- [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)
-- [Show HN: Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/nncrnx74ykir)
 <!-- BLOG-POST-LIST:END -->
 
 ---
