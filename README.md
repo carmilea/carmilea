@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is a bubble, just like dot-com](https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html)
-- [Launch HN: HyperProbe &lpar;YC S26&rpar; – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
-- [Discovery Loop](https://www.discoveryloop.com/)
-- [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
-- [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
+- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+- [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
+- [Zed DeltaDB](https://zed.dev/deltadb)
+- [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)
+- [Show HN: Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/nncrnx74ykir)
 <!-- BLOG-POST-LIST:END -->
 
 ---
