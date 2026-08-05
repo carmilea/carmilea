@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+- [Nvidia&#39;s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
 - [I&#39;m switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
 - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
-- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
-- [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
-- [Zed DeltaDB](https://zed.dev/deltadb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
