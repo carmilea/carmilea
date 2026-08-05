@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)
+- [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
+- [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
+- [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
 - [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
-- [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
-- [Flowise Is Shutting Down](https://flowiseai.com/sunset)
-- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+- [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
