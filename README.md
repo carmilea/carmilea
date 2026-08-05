@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polling shows a growing political reckoning is coming for data centers](https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799)
+- [Civilian plane crash in New Mexico tied to military GPS blocking](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
+- [Position: LLMs Can&#39;t Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
+- [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
-- [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
-- [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
-- [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
-- [Flowise is shutting down](https://flowiseai.com/sunset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
