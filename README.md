@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare OS](https://os.cloudflare.app/)
-- [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
-- [Got a hot date? A secondhand SK Hynix jacket is perfect as bonuses raise cachet](https://www.koreajoongangdaily.com/business/got-a-hot-date-this-secondhand-sk-hynix-jacket-is-perfect-as-bonuses-raise-companys-cachet/12584030)
-- [Rubin Observatory&#39;s first LSST Camera release: 500k galaxies in the COSMOS field](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
-- [Intelligence Is Not the Main Bottleneck](https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck)
+- [AI is a bubble, just like dot-com](https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html)
+- [Launch HN: HyperProbe &lpar;YC S26&rpar; – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
+- [Discovery Loop](https://www.discoveryloop.com/)
+- [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
+- [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
