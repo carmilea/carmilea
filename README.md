@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Americans View Capitalism, Socialism and Free Enterprise](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
 - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
 - [Let&#39;s all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+- [On non-rooted Android 17, ADB uninstall of system apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
 - [Crime Pays but Botany Doesn&#39;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
