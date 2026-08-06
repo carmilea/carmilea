@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
+- [Let&#39;s all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 - [Crime Pays but Botany Doesn&#39;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-- [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
-- [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)
 - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 - [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
 <!-- BLOG-POST-LIST:END -->
