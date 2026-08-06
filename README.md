@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crime Pays but Botany Doesn&#39;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+- [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
+- [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)
 - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-- [LLMs won&#39;t break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 - [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
-- [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
-- [I&#39;ll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
