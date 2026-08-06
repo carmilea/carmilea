@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+- [LLMs won&#39;t break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 - [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
-- [Nvidia&#39;s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
-- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
-- [I&#39;m switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
-- [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+- [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+- [I&#39;ll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
