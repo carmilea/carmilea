@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE overstated savings, government watchdog says](https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797)
-- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
-- [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
-- [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
-- [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+- [US&#39;s largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
+- [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
+- [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+- [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
+- [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
