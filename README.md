@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE will release body cam video only when seen in the agency&#39;s &#39;best interests&#39;](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
+- [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
+- [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
+- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+- [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
