@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
+- [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+- [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-- [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System &lpar;2025&rpar;](https://www.aleksagordic.com/blog/vllm)
-- [Bioengineered chewing gum may offer a way to fight microbes linked to cancers](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
+- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
