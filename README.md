@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic CEO reportedly worried new hires only care about money](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
+- [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
+- [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 - [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
-- [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
+- [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
 - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System &lpar;2025&rpar;](https://www.aleksagordic.com/blog/vllm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
