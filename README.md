@@ -62,7 +62,7 @@
 - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 - [Psychological Warfare in Reverse Engineering &lpar;2015&rpar;](https://github.com/xoreaxeaxeax/repsych)
 - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
