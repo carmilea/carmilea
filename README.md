@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US&#39;s largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
-- [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
-- [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
-- [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
-- [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
+- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+- [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
+- [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
+- [Iceberg Collapses and Flips over in Ilulissat, Greenland &lpar;July 25, 2026&rpar; [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
+- [Software is about people, not code &lpar;2020&rpar;](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
