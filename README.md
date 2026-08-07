@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Americans View Capitalism, Socialism and Free Enterprise](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
-- [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
-- [Let&#39;s all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
-- [On non-rooted Android 17, ADB uninstall of system apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
-- [Crime Pays but Botany Doesn&#39;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+- [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
+- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
+- [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)
+- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System &lpar;2025&rpar;](https://www.aleksagordic.com/blog/vllm)
+- [Bioengineered chewing gum may offer a way to fight microbes linked to cancers](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
