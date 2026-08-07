@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
-- [Tax cuts for the wealthy only benefit the rich &lpar;2023&rpar;](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+- [ICE will release body cam video only when seen in the agency&#39;s &#39;best interests&#39;](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
-- [This Mine Predicts Major Wars. It&#39;s Opening Again](https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/)
-- [Adults over 65 will outnumber children by 2029](https://eco3min.fr/en/us-children-vs-adults-65-and-older/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
