@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
+- [Tax cuts for the wealthy only benefit the rich &lpar;2023&rpar;](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
-- [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
-- [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
-- [Iceberg Collapses and Flips over in Ilulissat, Greenland &lpar;July 25, 2026&rpar; [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
-- [Software is about people, not code &lpar;2020&rpar;](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
+- [This Mine Predicts Major Wars. It&#39;s Opening Again](https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/)
+- [Adults over 65 will outnumber children by 2029](https://eco3min.fr/en/us-children-vs-adults-65-and-older/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
