@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
 - [Water system controllers don&#39;t belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-- [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 - [Psychological Warfare in Reverse Engineering &lpar;2015&rpar;](https://github.com/xoreaxeaxeax/repsych)
 - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
