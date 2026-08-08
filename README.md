@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
-- [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)
-- [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
-- [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
-- [Europe&#39;s free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)
+- [Don&#39;t use your phone while you poop](https://nate.spot/no-phone-while-poop/)
+- [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
+- [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
+- [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
+- [Gateway 2000&#39;s hilariously bad ads in the 90s &lpar;Part II&rpar;](https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
