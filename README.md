@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensitive Info Goes into &#39;No Reply&#39; Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
+- [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
+- [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- [&quot;Code was never the hard part&quot; is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 - [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
-- [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
-- [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
-- [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
