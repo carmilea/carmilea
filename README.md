@@ -62,7 +62,7 @@
 - [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 - [US Military&#39;s Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 - [Europe&#39;s free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)
-- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+- [DeepMind&#39;s WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
