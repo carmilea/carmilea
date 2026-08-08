@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
+- [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
+- [US Military&#39;s Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
+- [Europe&#39;s free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)
 - [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
-- [NASA figured out how to keep its Voyager 2 probe running for another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [Water system controllers don&#39;t belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
