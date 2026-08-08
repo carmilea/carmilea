@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denmark Requires Oral Defenses for Students&#39; Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+- [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
+- [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 - [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 - [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)
-- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-- [&quot;Code was never the hard part&quot; is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
-- [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
