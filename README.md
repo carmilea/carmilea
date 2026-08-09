@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The original URL for this prediction will no longer be available in 11 years.&quot; &lpar;2011&rpar;](https://longbets.org/601/)
-- [Illinois Just Told Every Operating System to Start Reporting Your Kid&#39;s Age](https://itsfoss.com/news/illinois-age-verification-bill/)
+- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+- [The original URL for this prediction will no longer be available in 11 years &lpar;2011&rpar;](http://longbets.org/601/)
+- [Illinois just told every operating system to start reporting your kid&#39;s age](https://itsfoss.com/news/illinois-age-verification-bill/)
 - [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 - [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
-- [ChatGPT starts blocking direct requests to copy an author&#39;s style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
