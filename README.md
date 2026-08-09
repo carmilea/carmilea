@@ -62,7 +62,7 @@
 - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 - [The original URL for this prediction will no longer be available in 11 years &lpar;2011&rpar;](http://longbets.org/601/)
-- [Illinois just told every operating system to start reporting your kid&#39;s age](https://itsfoss.com/news/illinois-age-verification-bill/)
+- [Why MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
