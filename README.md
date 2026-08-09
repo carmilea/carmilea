@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
+- [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
+- [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 - [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-- [The climate benefits of retiring an operational combustion engine vehicle](https://www.science.org/doi/10.1126/science.adv5441)
-- [The Hacker&#39;s Renaissance](https://phrack.org/issues/72/19#article)
-- [The main way I&#39;ve seen people turn ideologically crazy &lpar;2025&rpar;](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
