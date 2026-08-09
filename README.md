@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John C. Lilly on solid state intelligence and the elimination of man &lpar;1978&rpar;](https://kibotronics.net/unlisted/lilly-machines/)
 - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 - [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
-- [Why Wall Street Is Ignoring Big Tech&#39;s Debt](https://www.youtube.com/watch?v=NufJ7g63KSY)
+- [70% of AI revenue comes from OpenAI and Anthropic](https://www.youtube.com/watch?v=68X8yEatepQ)
 - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
-- [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
