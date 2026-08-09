@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banksy works cost public almost £150k](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
-- [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
-- [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
-- [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
-- [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
+- [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
+- [Ask HN: What are you working on? &lpar;August 2026&rpar;](https://news.ycombinator.com/item?id=49233423)
+- [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
+- [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
