@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+- [The Alpha 21264 CPU: NT&#39;s Greatest RISC &lpar;1998&rpar;](https://halfhill.com/byte/1998-12_alpha.html)
+- [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
 - [Software Giant SAP Stops Most Travel and Hiring Because of AI&#39;s Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
-- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
-- [The original URL for this prediction will no longer be available in 11 years &lpar;2011&rpar;](http://longbets.org/601/)
-- [Why MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
