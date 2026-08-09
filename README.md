@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create electronic Japanese hanko seals for Excel](https://sealkit.app/blog/excel-denshi-inkan-tsukurikata)
+- [Software Giant SAP Stops Most Travel and Hiring Because of AI&#39;s Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 - [The original URL for this prediction will no longer be available in 11 years &lpar;2011&rpar;](http://longbets.org/601/)
 - [Illinois just told every operating system to start reporting your kid&#39;s age](https://itsfoss.com/news/illinois-age-verification-bill/)
-- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
