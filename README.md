@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
-- [Ask HN: What are you working on? &lpar;August 2026&rpar;](https://news.ycombinator.com/item?id=49233423)
-- [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
-- [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
+- [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+- [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
+- [Plug-In Solar Panels Starting to Sprout in U.S. Backyards](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
+- [Saying No](https://rozumem.xyz/posts/19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
