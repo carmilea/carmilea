@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John C. Lilly on solid state intelligence and the elimination of man &lpar;1978&rpar;](https://kibotronics.net/unlisted/lilly-machines/)
-- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-- [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
-- [70% of AI revenue comes from OpenAI and Anthropic](https://www.youtube.com/watch?v=68X8yEatepQ)
-- [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
+- [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
+- [Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation &lpar;DAW&rpar;](https://alexanderwanyoike.github.io/vibez/)
+- [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
+- [Taxi drivers rarely die of Alzheimer&#39;s](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+- [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
