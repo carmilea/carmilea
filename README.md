@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
-- [I&#39;ve yet to see any&quot;My AI went rogue and caused us to recognise a workers union](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
 - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 - [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-- [Archival Resource Key &lpar;Ark&rpar; Alliance](https://arks.org/)
+- [The climate benefits of retiring an operational combustion engine vehicle](https://www.science.org/doi/10.1126/science.adv5441)
+- [The Hacker&#39;s Renaissance](https://phrack.org/issues/72/19#article)
+- [The main way I&#39;ve seen people turn ideologically crazy &lpar;2025&rpar;](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
