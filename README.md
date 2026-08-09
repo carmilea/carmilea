@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+- [Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
 - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 - [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 - [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
-- [Plug-In Solar Panels Starting to Sprout in U.S. Backyards](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
-- [Saying No](https://rozumem.xyz/posts/19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
