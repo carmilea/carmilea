@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
-- [Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
-- [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-- [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
+- [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
+- [I&#39;ve yet to see any&quot;My AI went rogue and caused us to recognise a workers union](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
+- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
+- [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+- [Archival Resource Key &lpar;Ark&rpar; Alliance](https://arks.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
