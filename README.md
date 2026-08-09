@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-- [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+- [ChatGPT starts blocking direct requests to copy an author&#39;s style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+- [The phone book that led us to Assad&#39;s spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
+- [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
