@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Banksy works cost public almost £150k](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
+- [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
 - [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
-- [Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation &lpar;DAW&rpar;](https://alexanderwanyoike.github.io/vibez/)
 - [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
-- [Taxi drivers rarely die of Alzheimer&#39;s](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-- [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+- [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
