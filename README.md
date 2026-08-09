@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon circumvents Gilroy community vote for AI data center](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+- [Show HN: DeepSeek-V4 Latent Reasoning – moving &quot;thinking&quot; into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
+- [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
+- [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
-- [The Alpha 21264 CPU: NT&#39;s Greatest RISC &lpar;1998&rpar;](https://halfhill.com/byte/1998-12_alpha.html)
-- [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
-- [Software Giant SAP Stops Most Travel and Hiring Because of AI&#39;s Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
-- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
