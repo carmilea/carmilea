@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
+- [Learning more about Claude&#39;s mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
 - [Launch HN: Stoa Markets &lpar;YC S26&rpar; – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
 - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
-- [Back to the Future of Handwriting Recognition &lpar;2016&rpar;](https://jackschaedler.github.io/handwriting-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
