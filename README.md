@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/)
-- [Mark Zuckerberg attacks &#39;closed&#39; AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
-- [Mistral Patent for &quot;Code implemented tool calls&quot;](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
-- [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
-- [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
+- [Someone hacked the X algorithm and made a master guide on how to use it](https://short.do/Smy_-o)
+- [Launch HN: Stoa Markets &lpar;YC S26&rpar; – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+- [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
+- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+- [GLP-1 drugs linked to bigger jump in women’s employment than a college degree](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
