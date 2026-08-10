@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+- [Stop Killing Games: It&#39;s time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
-- [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
-- [Launch HN: Stoa Markets &lpar;YC S26&rpar; – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
