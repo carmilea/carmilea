@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
-- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+- [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
+- [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
+- [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
+- [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
+- [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
