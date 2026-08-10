@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
-- [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
-- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
+- [Long-Run Effects of H-1B Immigration on the U.S. Economy &lpar;July 2026&rpar;](https://www.nber.org/papers/w35560)
+- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
