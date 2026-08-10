@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implant – an extension to VS Code that exposes its APIs to coding agents](https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant)
 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- [The Philippines&#39; big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
 - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
