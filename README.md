@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
 - [The Philippines&#39; big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
-- [Long-Run Effects of H-1B Immigration on the U.S. Economy &lpar;July 2026&rpar;](https://www.nber.org/papers/w35560)
 - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
 <!-- BLOG-POST-LIST:END -->
 
 ---
