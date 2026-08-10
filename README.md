@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implant – an extension to VS Code that exposes its APIs to coding agents](https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant)
+- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
