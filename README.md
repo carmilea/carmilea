@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/)
+- [Mark Zuckerberg attacks &#39;closed&#39; AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+- [Mistral Patent for &quot;Code implemented tool calls&quot;](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+- [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
-- [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
-- [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
-- [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
-- [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
