@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone hacked the X algorithm and made a master guide on how to use it](https://short.do/Smy_-o)
 - [Launch HN: Stoa Markets &lpar;YC S26&rpar; – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
 - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-- [GLP-1 drugs linked to bigger jump in women’s employment than a college degree](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
+- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
+- [Back to the Future of Handwriting Recognition &lpar;2016&rpar;](https://jackschaedler.github.io/handwriting-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
