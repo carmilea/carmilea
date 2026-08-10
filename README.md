@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
 - [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
-- [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
-- [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
-- [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
