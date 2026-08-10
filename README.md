@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
+- [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
-- [Learning more about Claude&#39;s mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
+- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 - [Launch HN: Stoa Markets &lpar;YC S26&rpar; – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
-- [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
-- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
