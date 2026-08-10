@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 - [Stop Killing Games: It&#39;s time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
-- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
