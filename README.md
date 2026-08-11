@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Did OpenAI&#39;s Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave)
-- [$580M undersea cable rerouted to avoid the grave of Dobby the House Elf](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site)
-- [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
-- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
+- [Launch HN: Keet &lpar;YC S24&rpar; – An app to create video courses on anything](https://www.trykeet.com/)
+- [Federal vendor with $50M in contracts leaves portal broken for a month](https://www.propublica.org/article/foia-requests-responses)
+- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users)
 <!-- BLOG-POST-LIST:END -->
 
 ---
