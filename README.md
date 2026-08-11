@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 19th-Century Family Fortunes Funding Degrowth](https://www.effort.news/p4ne)
-- [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+- [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
+- [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
 - [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
