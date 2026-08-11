@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
-- [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
-- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-- [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+- [It&#39;s time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+- [OpenAI&#39;s Only Ethicist Reportedly Left Last Month](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
+- [How to organize Claude Code for product work](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
+- [What I learned by putting GitHub Copilot behind a MitM proxy](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
