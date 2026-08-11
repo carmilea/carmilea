@@ -62,7 +62,7 @@
 - [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
 - [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
 - [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
-- [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
