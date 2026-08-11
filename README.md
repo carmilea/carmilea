@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- [The UK&#39;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- [Show HN: Scroll through all 43252003274489856000 Rubik&#39;s Cube states](https://everycube.alen.is/)
 - [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-- [Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)
-- [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
-- [Stop Killing Games: It&#39;s time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
