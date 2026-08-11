@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon)
+- [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta &#39;Photos&#39; App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
+- [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
+- [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
 - [Hyperspace](https://hypercritical.co/hyperspace/)
-- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
-- [H3-metal - Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- [The UK&#39;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
