@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [London Underground begins scanning passengers&#39; faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
+- [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
 - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-- [The Water Footprint of AI](https://doi.org/10.1016/j.watres.2026.125866)
 - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
+- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
