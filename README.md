@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperspace](https://hypercritical.co/hyperspace/)
+- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+- [H3-metal - Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
 - [The UK&#39;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
-- [Show HN: Scroll through all 43252003274489856000 Rubik&#39;s Cube states](https://everycube.alen.is/)
-- [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
