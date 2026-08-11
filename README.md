@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
-- [Launch HN: Keet &lpar;YC S24&rpar; – An app to create video courses on anything](https://www.trykeet.com/)
-- [Federal vendor with $50M in contracts leaves portal broken for a month](https://www.propublica.org/article/foia-requests-responses)
-- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users)
+- [The Tradeoffs Facing Japan&#39;s Economy](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
+- [How We Used To Get Jobs: A Newspaper Classifieds Story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
+- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
+- [CSS Properties You Should Know for Better Text Designs](https://master.dev/blog/typographic-css-tricks/)
+- [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
