@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-- [Hyperspace](https://hypercritical.co/hyperspace/)
 - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
