@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tradeoffs Facing Japan&#39;s Economy](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
-- [How We Used To Get Jobs: A Newspaper Classifieds Story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
-- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
-- [CSS Properties You Should Know for Better Text Designs](https://master.dev/blog/typographic-css-tricks/)
-- [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+- [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
+- [Bluesky&#39;s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
