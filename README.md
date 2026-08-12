@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Discovered Materials &lpar;YC P26&rpar; – AI agents to discover new materials](https://discoveredmaterials.com/research/)
+- [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 - [llama.cpp](https://llama.app)
-- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
-- [Company Offering &#39;100% Human-Written, Never AI&#39; Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
-- [The lifesaving secret hidden inside a horseshoe crab&#39;s blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
-- [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
+- [Dropbox is an obvious PE Target?](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
