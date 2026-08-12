@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
+- [Show HN: Programmable timer web app &lpar;for gym workouts or stretching sessions&rpar;](https://timer.jotaen.net)
 - [Delta](https://zed.dev/blog/introducing-delta)
-- [People who grew up with high economic connectedness earn more](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 - [Reflex &lpar;YC W23&rpar; Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-- [Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
-- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
