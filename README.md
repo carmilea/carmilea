@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+- [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
+- [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
 - [Launch HN: Discovered Materials &lpar;YC P26&rpar; – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
-- [llama.cpp](https://llama.app)
-- [Dropbox is an obvious PE Target?](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
-- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
