@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+- [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 - [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
-- [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-- [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
-- [Launch HN: Discovered Materials &lpar;YC P26&rpar; – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
