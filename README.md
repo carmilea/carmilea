@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflex &lpar;YC W23&rpar; Is Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+- [Zed: Delta](https://zed.dev/blog/introducing-delta)
+- [Your Key to Success Isn&#39;t More Luck or Hard Work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
+- [Reflex &lpar;YC W23&rpar; Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 - [SpaceXAI&#39;s Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 - [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
-- [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
-- [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
