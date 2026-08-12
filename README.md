@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
+- [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-- [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
 - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
 - [Launch HN: Discovered Materials &lpar;YC P26&rpar; – AI agents to discover new materials](https://discoveredmaterials.com/research/)
-- [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
