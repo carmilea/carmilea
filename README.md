@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+- [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
+- [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
+- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 - [Show HN: Programmable timer web app &lpar;for gym workouts or stretching sessions&rpar;](https://timer.jotaen.net)
-- [Delta](https://zed.dev/blog/introducing-delta)
-- [Reflex &lpar;YC W23&rpar; Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
