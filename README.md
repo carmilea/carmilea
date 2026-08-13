@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+- [Nvidia doubles RTX PRO 6000 Blackwell&#39;s MSRP to a staggering $16,000](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
+- [ChatGPT Desktop &lpar;Codex Desktop&rpar; for Linux](https://openai.com/codex/)
 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
