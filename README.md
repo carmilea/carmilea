@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on Oxide: How Customer Needs Shaped Our Integrations](https://oxide.computer/blog/kubernetes-on-oxide)
-- [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+- [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
+- [I requested a copy of my data from McDonald’s loyalty program](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+- [Kubernetes on Oxide: How customer needs shaped our integrations](https://oxide.computer/blog/kubernetes-on-oxide)
+- [Graduate student proves a quantum uncertainty principle for fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
 - [We eliminated 1,400 CVEs in NanoClaw&#39;s container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
-- [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
-- [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
