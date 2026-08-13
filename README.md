@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If I own Claude&#39;s outputs why can&#39;t I train my own model on them?](https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model)
 - [ChatGPT Desktop &lpar;Codex Desktop&rpar; for Linux](https://openai.com/codex/)
 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
 - [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
