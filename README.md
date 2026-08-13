@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
-- [I requested a copy of my data from McDonald’s loyalty program](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
-- [Kubernetes on Oxide: How customer needs shaped our integrations](https://oxide.computer/blog/kubernetes-on-oxide)
-- [Graduate student proves a quantum uncertainty principle for fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
-- [We eliminated 1,400 CVEs in NanoClaw&#39;s container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+- [Choose Boring Technology &lpar;2015&rpar;](https://mcfunley.com/choose-boring-technology)
+- [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
