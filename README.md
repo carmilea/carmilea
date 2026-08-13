@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Desktop &lpar;Codex Desktop&rpar; for Linux](https://openai.com/codex/)
-- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+- [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+- [My Rules for Using Spreadsheets](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
+- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+- [ATG &lpar;YC F25&rpar; Is Hiring Member of Technical Staff &lpar;Data Platform&rpar;](https://atg.science/careers)
+- [Rapid warming may tip AMOC at 2°C, slower warming may avert collapse](https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
