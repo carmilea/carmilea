@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
-- [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
-- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
-- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-- [Show HN: Programmable timer web app &lpar;for gym workouts or stretching sessions&rpar;](https://timer.jotaen.net)
+- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- [What&#39;s New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
