@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
-- [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
-- [Choose Boring Technology &lpar;2015&rpar;](https://mcfunley.com/choose-boring-technology)
-- [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+- [How Gödel&#39;s Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- [Single log line is 49KB+ &lpar;ext4&rpar; / 110KB+ &lpar;btrfs&rpar; of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
