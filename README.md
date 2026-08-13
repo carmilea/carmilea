@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
-- [My Rules for Using Spreadsheets](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
-- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
-- [ATG &lpar;YC F25&rpar; Is Hiring Member of Technical Staff &lpar;Data Platform&rpar;](https://atg.science/careers)
-- [Rapid warming may tip AMOC at 2°C, slower warming may avert collapse](https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html)
+- [Kubernetes on Oxide: How Customer Needs Shaped Our Integrations](https://oxide.computer/blog/kubernetes-on-oxide)
+- [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+- [We eliminated 1,400 CVEs in NanoClaw&#39;s container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
+- [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+- [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
