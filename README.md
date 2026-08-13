@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
-- [How Gödel&#39;s Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+- [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
 - [Single log line is 49KB+ &lpar;ext4&rpar; / 110KB+ &lpar;btrfs&rpar; of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
