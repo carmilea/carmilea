@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [&quot;Solving a largely imaginary user goal&quot;](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
-- [Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)
-- [AV1 vs. AV2: Which Video Codec Should You Use in 2026?](https://www.red5.net/blog/av1-vs-av2/)
-- [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+- [France blocks social media ban because it would require adults to prove age](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
+- [RayforceDB – a pure C analytics database with a Lisp-like syntax](https://rayforcedb.com/)
+- [AI by Hand](https://www.byhand.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
