@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
-- [France blocks social media ban because it would require adults to prove age](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
-- [RayforceDB – a pure C analytics database with a Lisp-like syntax](https://rayforcedb.com/)
-- [AI by Hand](https://www.byhand.ai/)
+- [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
+- [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
+- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
+- [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
