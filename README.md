@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
+- [Serving advertiser dashboards to thousands of partners at once](https://www.singlestore.com/blog/advertiser-dashboard-concurrency)
+- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
+- [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)
 - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
-- [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 <!-- BLOG-POST-LIST:END -->
 
 ---
