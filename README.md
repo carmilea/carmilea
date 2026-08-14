@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Fucking Website](https://lxe.github.io/everywebsite/)
-- [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
-- [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
-- [Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
-- [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
+- [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [&quot;Solving a largely imaginary user goal&quot;](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
+- [Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)
+- [AV1 vs. AV2: Which Video Codec Should You Use in 2026?](https://www.red5.net/blog/av1-vs-av2/)
+- [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
