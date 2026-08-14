@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
+- [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+- [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)
 - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 - [Blog about things you don&#39;t understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
-- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
-- [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
