@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PBS loses 70 years of TV history after cloud storage vendor goes defunct](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
-- [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
-- [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
-- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
+- [Blog about things you don&#39;t understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+- [How AI text watermarking works](https://declaude.org/watermarking/)
+- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
