@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [Everything is about to &quot;go dark&quot;](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 - [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
 - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
-- [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
