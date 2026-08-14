@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Everything is about to &quot;go dark&quot;](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
+- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
 - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
 <!-- BLOG-POST-LIST:END -->
