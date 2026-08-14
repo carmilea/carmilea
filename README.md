@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serving advertiser dashboards to thousands of partners at once](https://www.singlestore.com/blog/advertiser-dashboard-concurrency)
-- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
-- [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)
-- [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+- [Every Fucking Website](https://lxe.github.io/everywebsite/)
+- [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
+- [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
+- [Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
+- [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
