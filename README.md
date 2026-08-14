@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
 - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
 - [Blog about things you don&#39;t understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 - [NP-overrated](https://gruhn.me/blog/2026-08-13/)
 - [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
