@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
-- [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
-- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
-- [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
+- [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
+- [Jason Arday: Former Cambridge university professor found dead](https://www.bbc.com/news/articles/c1j1ye6n30no)
+- [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
+- [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
