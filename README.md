@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
+- [Using GCC&#39;s Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
+- [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059)
 - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 - [The other Sean Byrne doesn&#39;t exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
