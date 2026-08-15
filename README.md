@@ -61,8 +61,8 @@
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
 - [Voltair &lpar;YC W26&rpar; Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 - [AI Isn&#39;t Outthinking Mathematicians. It&#39;s Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-- [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
-- [Europe&#39;s scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
+- [Thunderbird&#39;s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+- [BriskDB](https://github.com/schapman1974/briskdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
