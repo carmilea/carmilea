@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
-- [Artificial intelligence in drug discovery; where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
-- [Voltair &lpar;YC W26&rpar; Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+- [Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding](https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/)
+- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Israeli PR wants to answer your ChatGPT questions](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
+- [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
