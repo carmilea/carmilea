@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
 - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
+- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+- [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/)
 - [Show HN: Quasicrystals Animation Playground with WebXR](https://hypnagogic-quasicrystals.github.io/)
-- [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
-- [Brazilian election filter in X For You timeline](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
