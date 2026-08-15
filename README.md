@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [A controversial Alzheimer&#39;s surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x)
-- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
-- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+- [Voltair &lpar;YC W26&rpar; Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+- [AI Isn&#39;t Outthinking Mathematicians. It&#39;s Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+- [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
+- [Europe&#39;s scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
