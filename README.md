@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
+- [Artificial intelligence in drug discovery; where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+- [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
 - [Voltair &lpar;YC W26&rpar; Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
-- [AI Isn&#39;t Outthinking Mathematicians. It&#39;s Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-- [Thunderbird&#39;s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
-- [BriskDB](https://github.com/schapman1974/briskdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
