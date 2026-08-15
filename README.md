@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding](https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/)
-- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
-- [Israeli PR wants to answer your ChatGPT questions](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
-- [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
+- [Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)
+- [The Wow signal was a strong narrowband radio signal detected on August 15, 1977](https://en.wikipedia.org/wiki/Wow!_signal)
+- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
+- [Cultivating a state of mind where new ideas are born &lpar;2023&rpar;](https://www.henrikkarlsson.xyz/p/good-ideas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
