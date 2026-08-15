@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [&quot;That&#39;s not SOC 2 compliant&quot;](https://ampcode.com/notes/thats-not-soc-2-compliant)
 - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 - [The other Sean Byrne doesn&#39;t exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 - [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
