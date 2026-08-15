@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [AI Driven Testing](https://app.deltix.ai)
 - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 - [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
-- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
