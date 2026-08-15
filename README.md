@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
-- [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
-- [Using GCC&#39;s Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
-- [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
+- [Brazilian election filter in X For You timeline](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
+- [Brain turns listening inward during REM sleep, EEG recordings suggest](https://medicalxpress.com/news/2026-07-brain-rem-eeg.html)
+- [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+- [Strait of Hormuz Live Traffic Tracking](https://hormuz.now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
