@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
-- [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
-- [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
+- [A controversial Alzheimer&#39;s surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x)
+- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 - [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 <!-- BLOG-POST-LIST:END -->
 
