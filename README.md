@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [&quot;That&#39;s not SoC 2 compliant&quot;](https://ampcode.com/notes/thats-not-soc-2-compliant)
+- [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059)
+- [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 - [The other Sean Byrne doesn&#39;t exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- [AI Driven Testing](https://app.deltix.ai)
-- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
