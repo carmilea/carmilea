@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
+- [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
 - [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
