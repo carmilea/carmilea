@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
-- [Show HN: I built a native app for coding agents with Rust and GPUI](https://waku.sh)
-- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
-- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+- [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
+- [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+- [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
