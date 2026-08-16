@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
 - [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012)
-- [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
-- [ProofRun – a local verification receipt for AI coding agents](https://github.com/yebiguo/ProofRun)
+- [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
