@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Gooseworks &lpar;YC W23&rpar; Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
-- [Access to telemetry data: Automotive industry criticizes intelligence reform](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
-- [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
-- [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
+- [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
+- [Is the industry ready for tokens-constrained work?](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
+- [Banned Words List](https://pen.org/banned-words-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
