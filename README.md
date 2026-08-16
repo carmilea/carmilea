@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [I&#39;ve built a free, open-source local and remote memory system for agentw and CL](https://www.lorekit.io/blog/give-your-agent-a-memory)
+- [Protobuf has LSP support. You&#39;re welcome](https://buf.build/blog/protobuf-lsp)
+- [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
+- [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
 - [A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;](https://rvembedded.com/blog_post/12/)
-- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
-- [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
