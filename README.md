@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
-- [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
-- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
-- [Protobuf has LSP support. You&#39;re welcome](https://buf.build/blog/protobuf-lsp)
+- [Anthropic&#39;s &#39;Watermark&#39; Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+- [Claude Seems Down](https://news.ycombinator.com/item?id=49324078)
+- [Young People Hate AI CEOs So Passionately That It&#39;s Almost Hard to Believe](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+- [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
