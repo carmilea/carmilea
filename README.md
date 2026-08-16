@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012)
+- [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
+- [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
 - [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
