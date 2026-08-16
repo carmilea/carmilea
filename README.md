@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
 - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
-- [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+- [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012)
 - [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
-- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- [ProofRun – a local verification receipt for AI coding agents](https://github.com/yebiguo/ProofRun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
