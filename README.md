@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](https://github.com/TraceCohenTech/ai-seo-playbook)
+- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+- [Show HN: I built a native app for coding agents with Rust and GPUI](https://waku.sh)
+- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
 - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
-- [SugarTrack – an offline Android logbook for blood sugar &lpar;no account, no cloud&rpar;](https://sugartrack-beta.vercel.app/)
-- [Modeling and Verification of Keeta&#39;s Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
