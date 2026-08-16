@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [Gooseworks &lpar;YC W23&rpar; Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
+- [Access to telemetry data: Automotive industry criticizes intelligence reform](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
+- [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
-- [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
-- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
