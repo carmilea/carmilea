@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+- [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
 - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 - [Protobuf has LSP support. You&#39;re welcome](https://buf.build/blog/protobuf-lsp)
-- [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
-- [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
