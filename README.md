@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
+- [The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](https://github.com/TraceCohenTech/ai-seo-playbook)
+- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 - [SugarTrack – an offline Android logbook for blood sugar &lpar;no account, no cloud&rpar;](https://sugartrack-beta.vercel.app/)
-- [Engineers will do anything to avoid learning from history](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
 - [Modeling and Verification of Keeta&#39;s Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
 <!-- BLOG-POST-LIST:END -->
 
