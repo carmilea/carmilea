@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 - [Protobuf has LSP support. You&#39;re welcome](https://buf.build/blog/protobuf-lsp)
 - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
 - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
-- [A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;](https://rvembedded.com/blog_post/12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
