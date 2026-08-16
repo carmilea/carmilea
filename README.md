@@ -61,8 +61,8 @@
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
 - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
-- [Government sponsored study on alcohol doesn&#39;t stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
