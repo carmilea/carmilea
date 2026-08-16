@@ -61,8 +61,8 @@
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
 - [Tasklet &lpar;YC P26&rpar; Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
 - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
-- [Is the industry ready for tokens-constrained work?](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
-- [Banned Words List](https://pen.org/banned-words-list/)
+- [US oil reserves are so low, the caverns holding them could be damaged](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
