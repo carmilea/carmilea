@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
+- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
+- [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
-- [Tasklet &lpar;YC P26&rpar; Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
-- [Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/)
-- [A U.S. Strategy to Prevent the Creation of Mirror Life](https://www.rand.org/pubs/research_reports/RRA4335-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
