@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: GitHub employees what&#39;s going on? Why?](https://news.ycombinator.com/item?id=49332495)
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [AI-Generated GitHub Copilot &quot;Autofix&quot; Allowed Compromise of Snowflake&#39;s Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
-- [Apple&#39;s App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
-- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
-- [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
+- [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF &lpar;432 GB/s&rpar;: 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
+- [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
+- [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
