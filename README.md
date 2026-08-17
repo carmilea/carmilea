@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: GitHub employees what&#39;s going on? Why?](https://news.ycombinator.com/item?id=49332495)
+- [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
+- [Launch HN: Speko &lpar;YC S26&rpar; – OpenRouter for Voice AI](https://speko.ai/)
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF &lpar;432 GB/s&rpar;: 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
-- [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
-- [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
+- [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
+- [Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
