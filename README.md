@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [David Sacks on X: Some thoughts on Dario&#39;s post](https://twitter.com/DavidSacks/status/2089227290769080656)
-- [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
-- [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
-- [GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
+- [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
+- [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
+- [Tell HN: GitHub Is Overloaded](https://news.ycombinator.com/item?id=49330597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
