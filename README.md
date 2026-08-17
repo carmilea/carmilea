@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Set Up Your Account in 5 Steps | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=ojVKQ3dIlkg)
 - [Predictive AI and GenAI, Side by Side | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=UAI34ZmZ8Qg)
 - [Full Platform Overview | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=mDcAI240G9A)
 - [Real-Time Answers on Live Data, at a Fraction of the Tokens](https://www.youtube.com/watch?v=hBjMh4WAM7M)
 - [Welcome to the H2O.ai University Partner Portal | Your Learning Hub Explained](https://www.youtube.com/watch?v=iu3ivuzQVRk)
-- [Postgres to SingleStore: Unlocking Major Performance Enhancements](https://www.youtube.com/watch?v=DvgzQPEWzdE)
 <!-- YOUTUBE:END -->
 
 
